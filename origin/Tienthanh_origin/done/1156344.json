@@ -1,0 +1,801 @@
+{
+    "id_query": "1156344",
+    "total": 22988,
+    "total_current": 100,
+    "max_score": 169.8767,
+    "origin_question": "chiều nay 22/03/2019 tôi có cập nhật phần mềm cho j7+ ..nhưng máy bị lỗi \"tự động bật tắt nguồn, và máy sử dụng nóng lên\" xin cho biết cách khắc phục",
+    "hits": [
+        {
+            "score": 64.012924,
+            "id": "1142241",
+            "field_search": "question",
+            "question": "Cho mình hỏi : điện thoại asus go tv mình đang dùng , cứ hay bị nóng máy , lúc bật dữ liệu mạng dùng cở 2p thì máy nóng  và tự tắt nguồn . Cho mình biết máy bị làm sao ?",
+            "answer": "_",
+            "relate_q_q": 1
+        },
+        {
+            "score": 60.20254,
+            "id": "1155613",
+            "field_search": "question",
+            "question": "em đang dùng dòng samsung j7plus, hôm nay em có cập nhật phần mềm thì lúc cập nhật xong điện thoại tự tắt nguồn và em không mở nguồn lên được nữa. Vậy là điện thoại em gặp vấn đề gì vậy ạ",
+            "answer": "_",
+            "relate_q_q": 1
+        },
+        {
+            "score": 58.43831,
+            "id": "748200",
+            "field_search": "question",
+            "question": "Máy mình nâng cấp lên win 10, bây giờ restar lại không được. toàn phải tắt đi rồi mở lại, có cách nào khắc phục được không QTV? mình nghĩ chắc win 10 xung đột phần mềm nào đó mà mình cài, vì lúc mới cài thì vẫn restar được, máy tự động cập nhật phầm mềm rồi bị luôn, lap mình là acer win 8.1 cài sẵn lên 10?",
+            "answer": "_",
+            "relate_q_q": -1
+        },
+        {
+            "score": 56.736855,
+            "id": "1139890",
+            "field_search": "question",
+            "question": "Cho mình hỏi là Laptop Asus mình mới dùng được 1 năm, nhưng máy hay bị treo và máy rất nóng nóng dù quạt tản nhiệt vẫn hoạt động và không dùng lâu thì có cách khắc phục nào không ?",
+            "answer": "_",
+            "relate_q_q": -1
+        },
+        {
+            "score": 55.498,
+            "id": "1009696",
+            "field_search": "question",
+            "question": "Cho tôi hỏi hiện tôi dùng asus zefone2 tại sao không biết mấy ngày hôm nay máy tôi cứ không dùng một lúc là tự nhiên mất mạng và khởi động lại thì mới có cho tôi hỏi cách khắc phục?",
+            "answer": "_",
+            "relate_q_q": -1
+        },
+        {
+            "score": 54.85573,
+            "id": "872096",
+            "field_search": "question",
+            "question": "E đang dùng laptop hp win 10 nhưng k hiểu sao sáng nay bật máy lên tự dưng màn hình xanh có chữ shutting down đang load.Vậy cho e hỏi là máy e đang bị sao và cách khắc phục tnào ạ!!!",
+            "answer": "_",
+            "relate_q_q": -1
+        },
+        {
+            "score": 54.48221,
+            "id": "1022796",
+            "field_search": "question",
+            "question": "AD ơi, em lỡ tay nhấn gỡ cài đặt cập nhật dịch vụ của google và tắt CH play, bây giờ không có phiên bản cập nhật nữa rồi, em đang sử dụng điện thoại ASUS ZENPHONE 5 ạ. Mong mọi người chỉ cho em cách khắc phục",
+            "answer": "_",
+            "relate_q_q": -1
+        },
+        {
+            "score": 52.90245,
+            "id": "855692",
+            "field_search": "question",
+            "question": "Ad ơi cho em hỏi em vừa mua máy iphone 5 được khoảng 2 tuần nhưng đến hôm nay sạc pin không vào mà tự tắt nguồn rồi khi cắm sạc thì để pin đang vào nhưng cả ngày không lên nguồn ? ad giúp em khắc phục tình trạng này với =.=- và có khi em vừa sạc vừa sử dụng thì pin lại hết và tắt nguồn sảy ra tình trạng như trên !!",
+            "answer": "_",
+            "relate_q_q": -1
+        },
+        {
+            "score": 51.599834,
+            "id": "870197",
+            "field_search": "question",
+            "question": "tại sao khi máy của mình mỗi lần vào facebook đều bị lỗi k có phản hồi như này và cho minh cách khắc phục",
+            "answer": "_",
+            "relate_q_q": -1
+        },
+        {
+            "score": 51.41114,
+            "id": "1013738",
+            "field_search": "question",
+            "question": "QTV cho mình hỏi chút.Mình sử dụng A5 được hơn 4 tháng.Hôm trước máy tự dưng có hiện tượng cảm ứng kém nhạy,khởi động lại vẫn không khắc phục được.Nhưng khi cắm sạc vào máy lại trở lại bình thường và giờ không bị sao cả.QTV cho mình hỏi máy mình bị hiện tượng gì thế ạ?",
+            "answer": "_",
+            "relate_q_q": -1
+        },
+        {
+            "score": 51.168026,
+            "id": "996896",
+            "field_search": "question",
+            "question": "Mình đang dùng samsung galaxy verizon s6 mà bật nguồn lên là máy báo dữ liệu di động đã tắt rồi tự động tắt nguồn,vậy cho mình hỏi cách xử lý như thế nào",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 50.818214,
+            "id": "1023700",
+            "field_search": "question",
+            "question": "mình đang sử dụng 1 chiếc oppo f1s khi xem video clip thì liên tục bị stop video ( bất kì xem video ở ứng dụng nào ) và khi đang nhắn tin thì thanh bàn phím liên tục tự động ẩn mất. vậy chạy lại phần mềm có hết ko hay cách khắc phục như nào ạ ? thks",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 50.400185,
+            "id": "888631",
+            "field_search": "question",
+            "question": "Đây là lỗi gì vậy ad. Nó thay đổi toàn bộ giao diên của máy mình và lúc tắt máy bật lại thì dữ liệu cũ mất hết. Bày cách khắc phục cho mình vs",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 49.516674,
+            "id": "1153377",
+            "field_search": "question",
+            "question": "Chào ad. Em đang dùng đt J7. Hiện tại máy của em báo hệ thống nóng. Em đã tắt nguồn nhưng vẫn không được. Liệu có cách nào khắc phục được không ạ. Máy em mua 9 tháng thì còn bảo hành không ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 47.786327,
+            "id": "1161422",
+            "field_search": "question",
+            "question": "Tôi muốn cập nhật phiên bản mới cho dt J7 pro nhưng lại nhận thông báo: Hệ điều hành trên thiết bị của bạn đã được sửa đổi một cách trái phép. Hãy thử tải về bản cập nhật phần mềm bằng cah1 sử dụng Smart Switch trên PC của bạn hoặc đi đến trung tâm dịch vụ khách hàng ???",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 47.069916,
+            "id": "1164369",
+            "field_search": "question",
+            "question": "galaxy j4+ mình vừa cập nhật phần mềm. lúc chưa cập nhật thì game chơi vẫn tốt. lúc cập nhật xong thì vào game toàn bị diss ra ngoài. khắc phục sao đây ad",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 46.827473,
+            "id": "1000129",
+            "field_search": "question",
+            "question": "Tôi đang sử dụng đt j7 prime. buổi tối vẫn sạc pin bình thường, sáng nay thì máy ko lên màn hình nữa, có đèn thông báo màu đỏ. Vậy tôi có thể tự khắc phục đc ko, hay cần mang đến CH TGDD. Cảm ơn.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 46.686966,
+            "id": "1159643",
+            "field_search": "question",
+            "question": "Em vừa mua một chiết Galaxy a50 về sử được 5 ngày thì không thể nhận được cuộc gọi em phải khởi động máy lại mới có thể nhận cuộc gọi, máy em bị thế 2 ngày rồi khi em đem đến thegioididong thì nhân viên không cho em đổi máy mới và nói là bị lỗi phần mềm không đổi được cho em biết vì sao vậy?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 46.502182,
+            "id": "748895",
+            "field_search": "question",
+            "question": "Ad cho e hỏi, iPad Mini 2 sạc pin full 100% rút ra xài đến 98% để qua 1 đêm đến sáng thì chỉ còn 78%. Dù em đã tắt hết wifi, ứng dụng ngầm .... Và cứ xài 4 phút tụt 1% pin . Có thể cho e biết máy đã bị gì và có cách khắc phục không? Và khắc phụ như thế nào?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 46.498623,
+            "id": "986552",
+            "field_search": "question",
+            "question": "cho mình hỏi mình đang dùng galaly S6 không hiểu sau tự nhiên mấy bữa nay máy ảnh bị lỗi. Khi chỉnh qua chế độ chụp chuyên nghiệp thì lập tức máy ảnh văng ra và có thông báo lỗi \" Máy ảnh đã dừng khởi động lại ứng dụng\"khi khởi động lại thì vẫn không được",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 44.923767,
+            "id": "997035",
+            "field_search": "question",
+            "question": "Mình dùng samsung galasy verizon s6 khi dùng thì máy nhanh nóng và cũng nhanh hết pin có cách nào khắc phục không vậy",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 44.301224,
+            "id": "936521",
+            "field_search": "question",
+            "question": " E dùng oppo mà khi lên facebook thì bị tắt nguồn và tự khởi động lại cho e hỏi nó bị gì ạ? ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 43.956467,
+            "id": "1164043",
+            "field_search": "question",
+            "question": "Máy của em là máy HTC m8 ạ. Gần đây, máy em bị lỗi và xuất hiện dòng chữ \"Mã hóa không thành công\". Em đã thử đặt lại điện thoại nhiều lần nhưng khi nó khởi động lại thì hiện dòng chữ \"Rất tiếc, Cài đặt đã dừng lại\". Cho em hỏi cách khắc phục lỗi với ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 43.2616,
+            "id": "1001756",
+            "field_search": "question",
+            "question": "Điện thoại tôi mua là máy đổi trả, vẫn còn hạn bảo hành, dạo này tôi thấy nút nguồn nó bị liệt mất 1 phần (ấn vào nửa phần dưới mới lên) và điện thoại hay bị nóng và nhanh hết pin, liệu khi sửa tôi có phải thanh toán nhiều chi phí k?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 42.768257,
+            "id": "769409",
+            "field_search": "question",
+            "question": "Em dang dùng máy dell. bình thường máy em vẫn chụp ảnh bằng webcam được nhưng mak hôm nay vào thì nó hiện lên cửa sổ dòng chữ \"NO WEBCAM DETECTED....\" Mong ad cho em biết lý do và cách khắc phục​",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 42.301994,
+            "id": "1150127",
+            "field_search": "question",
+            "question": "cho em hỏi máy em đang dùng là dell i5. nó hay bị nhiện cái trang chữ e màu xanh dương ấy ạ mặc dù em k mở nó cũng tự mở quá trời trang làm đứng máy. với máy hay hiện kêu em mua phần mềm diệt virut. bên mình có bán phần mềm đó không và giá thế nào ạ.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 41.656204,
+            "id": "770003",
+            "field_search": "question",
+            "question": "Ad và Các bạn cho mình hỏi  Mình sài Windows 7, máy dell. Mình sài khoảng 1 tháng máy chạy vẫn ngon. Nhưng sau khi sài được đến tháng thứ 2 thì máy bị lỗi khởi động.lúc đó, mình khởi động lên đến cái windows thì máy bị lỗi màn hình xanh»ngúm rồi tự khởi động lại. Mình không chuyên về máy tính cho lắm, mong các bạn và ad giải quyết dùm mình...thanks",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 41.593502,
+            "id": "1017708",
+            "field_search": "question",
+            "question": "Em đang sử dụng con galaxy Grand 2. Vừa up ROM CM 12.1 lên Android 5.1. Sử dụng được một lát thì bị lỗi Rất tiếc Rebuchet đã dừng lại. Khắc phục lỗi này ntn ạ.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 41.132362,
+            "id": "755635",
+            "field_search": "question",
+            "question": "Máy iphone của tôi tự nhiên nghe gọi với âm thanh bé không thể nghe được. Xin hỏi cách khắc phục sự cố này thế nào?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 40.928246,
+            "id": "804822",
+            "field_search": "question",
+            "question": "Laptop Dell N5558 i7 win 8.1 khi tắt máy. Mśy báo 1ứng dụng đang chãy: GDI+ WINDOWS. Lần nào tắt máy cũng đều báo như vậy. Mong QTV chỉ cách khắc phục. Thanks!",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 40.851284,
+            "id": "762897",
+            "field_search": "question",
+            "question": " Máy Oppo joy bị treo logo khi mở nguồn máy khắc phục sao vậy Quản trị viên? ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 40.629906,
+            "id": "996455",
+            "field_search": "question",
+            "question": "BẠN ƠI MÁY MÌNH HỎNG KHÔNG KHỞI ĐỘNG ĐƯỢC CÓ CÁCH NÀO SỬA KO MÀ MUỐN ĐI CHẠY PHẦN MỀM ĐIỆN THOẠI THÌ PHẢI ĐEM ĐI ĐÂU ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 40.60605,
+            "id": "827614",
+            "field_search": "question",
+            "question": "Ad ơi cho e hỏi e có con iphone 5s cứ vào mấy ứng dụng được 5 đến 10phút thì máy tự sập nguồn, hay chơi game một lúc thì máy nóng ran lên. Cho e hỏi hiện tượng trên là sao ạ? E xin cảm ơn",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 40.389576,
+            "id": "1151543",
+            "field_search": "question",
+            "question": "Mình đang dùng asus zenfone 4 max pro,khi cắm dây sạc thì có hiện tượng sạc chập chờn.mình đã thử đổi cục sạc và dây và thử luôn tắt nguồn điên thoại và bật lại.nhưng khi cắm dây sạc vào đèn màn hình máy sáng liên tục.v cho mình hỏi máy bị sao? Nếu bị hư chuôi sạc trong máy thì ở TGDD có mạch sạc cho asus zenfone 4 max pro hay k. Mình chỉ sạc bằng củ sạc và dây sạc kèm theo máy,k hề sử dụng củ sạc hay dây sạc của máy khác. Nếu có chip sạc của máy asus zenfone 4 max pro thì shop gọi cho mình với nha 0905347902 hay 0972565372.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 39.573883,
+            "id": "895487",
+            "field_search": "question",
+            "question": "Mình dùng máy Laptop lenovo ideapad 310 14isk core i3 2.3ghz, ram 4G, máy mình mới dùng và bị lỗi win, sáng mình mới cài lại win 8.1 single languae nhưng trưa về dùng thì máy bị chậm, lag và bị lỗi full disk. Chơi game nhẹ cũng bị lag giật (Không hề xuất hiện trong bản win 10 pro trước của mình). Vậy mình xin hỏi ad xem có cách gì khác phục tình trạng này không?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 39.125397,
+            "id": "1024406",
+            "field_search": "question",
+            "question": "Cho mình hỏi cách tắt tính năng tự động nghe máy trên   Zenfone 3 Max 5.5 ZC553KL vs ạ ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 38.874332,
+            "id": "997225",
+            "field_search": "question",
+            "question": "Em đang sử dụng máy tính bảng mobell tab 8 pro, em bị rớt mất khay cắm sim của máy. Em không biết cử hàng có bán khay cắm sim của thiết bị này không.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 38.829067,
+            "id": "1139042",
+            "field_search": "question",
+            "question": "Điện thoại em đang dùng là Huawei gr5, dạo gần đây thì điện thoại cứ nóng liên tục và pin tụt rất nhanh, em nghĩ rằng là do dịch vụ của GGplay, và tự dưng các app liên quan đến gg thì nó đều lỗi, CHPLAY nó cứ bắt đăng nhập rồi xoay tròn mãi, youtube hay zing mp3 vào là bị out, chomre cứ hiện lỗi \"Ôi, hỏng\" không thể lên web được, còn các app như Facebook , zalo, ig vẫn hoạt động bình thường. Em thấy vậy nên reset lại máy, và sau khi reset nó cứ hiện \" Câu hỏi, cập nhật hệ thống cần truy cập thông tin imei và imsi trên máy.......\" và nó hiện có hoặc không, em chọn có nhưng nó cứ khởi động lại rồi hiện tiếp cái bảng đó, bấm không cũng y vậy, giờ có cách nào cứu điện thoại em được không ạ ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 38.216713,
+            "id": "1154558",
+            "field_search": "question",
+            "question": "Chào adm, hiện mình đang sử dụng con laptop asus x541u i3, cũng hơn năm rồi. Gần đây có tình trạng khi thay đổi góc của màn hình khi sử dụng dẫn đến tắt đột ngột.  Nguyên nhân nào gây ra nv, có phải dây nguồn yếu, hay pin có dấu hiệu hỏng yếu không. Cách khắc phục ntn vậy. Cám ơn",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 38.13645,
+            "id": "942971",
+            "field_search": "question",
+            "question": "Cho mình hỏi mình đang dùng 6plus ios 10.1.1 mà để qua đêm(9 tiếng) pin tự bị tụt khoảng 14% mà mình không hề dùng(đã tắt wifi).Mình muốn lên ios 10.2.1 thì có khắc phục được lỗi tự tụt pin không ạ và bản này dùng có ổn định không ạ.Mong QTV giải đáp.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 37.994385,
+            "id": "783260",
+            "field_search": "question",
+            "question": "Hiện tain mình đang sử dụng dòng máy Lap Top Asus được mua từ thế giới di động Bạc Liêu,nhưng hôm nay khi mình mở lap top lên mới phát hiện máy không hoạt động ổn định như bình thường, các phần mềm mình cài đặt (cs6, cốc cốc, proshow producer,mp3 free cut...) đều không hoạt động kể cả các phần mềm chạy sẵn trong máy như Firefox,google chorme ..cũng không thể nào chạy được. Hiện giờ mình đang cần gấp máy tính để đánh phần văn bản nộp cho đoàn nhưng không thể nào sử dụng được kingsoft writer cũng như không thể dùng trình duyệt để tìm thông tin cho bài viết. Mong thắc mắc của mình sẽ mau chóng được giải đáp,cảm ơn các bạn",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 37.921112,
+            "id": "776508",
+            "field_search": "question",
+            "question": "Tại iPhone 4 của em khị bị va chạp nhẹ phía sao màng hình hoặc đặc xuống thì nó bị tắt nguồn thế có cách nào để khắc phục không ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 37.86536,
+            "id": "1002925",
+            "field_search": "question",
+            "question": "Tôi dùng huawer y6 điện thoại yêu cầu cập nhật phiên bản mới nếu cập nhật có bị mất các ứng dụng không.xin cảm ơn",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 37.658867,
+            "id": "1010786",
+            "field_search": "question",
+            "question": "Xin chào em đang dùng điện thoại samsung galaxy j1 mini và em muốn hỏi là em có 1 tệp tin data.save , khi mở bằng Es duyệt tập tin trên điện thoại thì nó ra toàn chữ trung quốc và kí tự đặt biệt. Vậy không biết có ứng dụng hay phần mềm trên máy tính nào để đọc tệp này trong tiếng anh không ạ ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 37.522537,
+            "id": "836636",
+            "field_search": "question",
+            "question": "Xin hỏi. Mình đang dùng laptop dell vostrol 1410 đang dùng thì máy bị đen toàn bộ màn hình nhưng các ứng dụng vẫn chạy đc. Lắp cáp chuyển qua màn hình của máy bàn vẫn thấy hoạt động bình thường. Xin hỏi máy mình bị lỗi gì có phải sửa chữa gì không? Chi phí sửa có cao không?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 37.49531,
+            "id": "994980",
+            "field_search": "question",
+            "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là hôm nay em dùng máy xong thì sutdown được một chặp thì em mở lên lại tự nhiên ngôn ngữ chuyển sang tiếng việt còn giao diện thì tự nhiên đổi thành giao diện cổ lỗ sĩ nào mà không giống win 7 nữa thanh taskbar tự nhiên chuyển thành màu trắng, mấy phần mềm tự nhiên mất hết, mạng wif của nhà bật điện thoại vẫn bắt được mà máy không bắt được mạng nào cả khi vô một phầm mềm hay vô control panel đổi ngôn ngữ thì nó báo là bảo mật internet gì đó ạ ? Không biết máy em bị sao đây ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 37.41045,
+            "id": "1021629",
+            "field_search": "question",
+            "question": "ad cho hỏi máy em đang sử dụng là Samsung Galaxy Y GT-S5360 nó bị liệt màn hình bây giờ làm sao khắc phục ? em thử lấy đồ vợt muỗi nhưng k hiệu quả :(",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 36.906517,
+            "id": "905882",
+            "field_search": "question",
+            "question": "Em có 1 máy ipad mini 4 bị treo màn hình. Có tát nguồn. Nhưng sau khi tắt nguồn thì khởi động không lên ạ. Chỉ xuất hiện lô gô trái táo xong màn hình chuyển xanh lá. Em có tham khảo thì được bảo là chết phần cứng. Có phải vậy không ạ. Có đổi được không ạ. Mới mua được 2 tháng ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 36.6129,
+            "id": "1013258",
+            "field_search": "question",
+            "question": "Máy e là zenphone 3 max, nay em cập nhận androi từ 6.0 lên 7.0 và giờ máy em bị chậm và lag. Em phải làm như nào ạ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 36.600018,
+            "id": "842014",
+            "field_search": "question",
+            "question": "Cho mình hỏi laptop có pin rời khi sử dụng mình tháo pin ra và cấm dây sạc vào sài trực tiếp được không ạ . Và nếu được thì máy khi sài có bị sao không ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 36.567387,
+            "id": "1163231",
+            "field_search": "question",
+            "question": "Sao máy em đang chơi game rồi tự động tắt nguồn khi mở lên thì hiện logo oppo thoi là bị gì ạ .hiện logo oppo từ sáng đến giờ không làm gì được hết",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 36.292995,
+            "id": "995942",
+            "field_search": "question",
+            "question": "Mình đang SD Zenfone 3 max, cứ sau 1ngày là mình phải bật chế độ máy bay mới bật được 3G, cho mình hỏi có cách nào khắc phục không. Mong được sự hỗ trợ từ KTV",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 36.203346,
+            "id": "1161976",
+            "field_search": "question",
+            "question": "máy em là iphone   plus bị bong màn hình và rơi xuống nước lúc sập nguồn và chưa sơ cứu qua thì có sửa được không ạ, em sac thì máy không lên nguồn luôn",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 36.029568,
+            "id": "1143934",
+            "field_search": "question",
+            "question": "tôi mua máy samsung galaxy a8 2018 tại TGDĐ máy bị lỗi màn cảm ứng lần 1 đã bảo hành nay lại bị như lần 1 tiếp tục và đã gởi đi bảo hành lần 2 nếu lỗi vẫn xảy ra liệu hàng của TGDĐ có chất lượng  ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 35.725132,
+            "id": "1022547",
+            "field_search": "question",
+            "question": "Xin chào em đang dùng điện thoại samsung galaxy j1 mini và em muốn hỏi là ứng dụng tự động đổi hình nền điện thoại nào tốn ít ram nhất ạ ? Em muốn đổi luân phiên hình nền một cách tự động nhưng mấy ứng dụng trên ch play tốn nhiều ram quá ạ, không biết ứng dụng nào tốn ít ram nhất thì cho em xin tên với ạ ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 35.506084,
+            "id": "750615",
+            "field_search": "question",
+            "question": "Cho e hỏi e có mua cái laptop X550LD  4G core i7 . e cài windows 8, nhưng khi chơi game liên minh huyền thoại thì có hiện tượng thường hay bị restart. có biểu tượng :( và 1 số dòng chữ tiếng anh . khi khởi động máy lên lại thì chơi bình thường nhưng 1 lúc sau thì lại bị như tình trạng trên  . vậy e phải làm như thế nào để khắc phục lỗi trên . mong anh chị chỉ giúp  .  e cảm ơn .",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 35.28728,
+            "id": "1009945",
+            "field_search": "question",
+            "question": "Điện thoại của em là Asus zenfone 3 max, sau khi mua về 1 thời gian thì khi e sử dụng bằng thời gian và cùng chơi Liên Quân với máy Samsung J5 prime nhưng sao máy em tại hao pin nhiều hơn, trong khi máy em pin khủng long 4100mhz, mong admin chỉ rõ nguyên nhân và hướng khắc phục ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 35.240974,
+            "id": "992039",
+            "field_search": "question",
+            "question": "Cho mình hỏi là nếu 2 thiết bị của apple dùng chung tài khoản icloud và đồng bộ hình ảnh thì các hình ảnh của mình chụp sẽ tự động tải qua máy kia và khi mình xóa hình thì máy kia có bị xóa luôn không ạ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 35.14613,
+            "id": "1015557",
+            "field_search": "question",
+            "question": " Cho e hỏi bị như thế này thì phải làm sao và cách khắc phục  ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 35.09955,
+            "id": "999154",
+            "field_search": "question",
+            "question": "Cho hỏi Máy samsung A9 pro đang sài bị màn hình đen, nổi chữ Samsung sáng mờ, máy cứ bị như thế hoài, không bấm nút nào được hết. Chi cách khắc phục",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 35.005047,
+            "id": "1155850",
+            "field_search": "question",
+            "question": "mình đang dùng samsung note9 mà không biết sao giờ khỏi động lên nó báo lỗi giao diên người dùng. không thao tác được gì luôn. Bạn nào giúp mình cách khắc phục với nhé!",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 34.90054,
+            "id": "921585",
+            "field_search": "question",
+            "question": " Máy em bị vô hiệu hóa, kết nối itunes. em có thể khắc phục được không ad ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 34.779163,
+            "id": "838345",
+            "field_search": "question",
+            "question": "Cho em hỏi, hôm nay lúc vừa out messenger để vào trang youtube đang coi dở thì tự nhiên IP của em đứng máy, dù đã dùng các cách để thoát ra nhưng khi em bấm tắt màn hình thì sau đó không thể khởi động máy lại được. Điện thoại em có vấn đề gì ạ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 34.727314,
+            "id": "746234",
+            "field_search": "question",
+            "question": "Máy của mình đang xài cái OPPO R7. Mình bị tắt nguồn mà mình sạc nó vô pin và giờ lại mở nguồn không được là sao vậy?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 34.5297,
+            "id": "779172",
+            "field_search": "question",
+            "question": "Ad biết khắc phục lỗi 101 của sim ghép koVói cả làm sao để biết mìh dụng mạng nào khi mới đăng nhập sim ghép",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 34.440434,
+            "id": "1023189",
+            "field_search": "question",
+            "question": "Xin chào em đang dùng điện thoại samsung galaxy j1 mini và em muốn hỏi là ứng dụng tự động đổi hình nền điện thoại nào tốn ít ram nhất ạ ? Em muốn đổi luân phiên hình nền một cách tự động nhưng mấy ứng dụng trên ch play tốn nhiều ram quá ạ, không biết ứng dụng nào tốn ít ram nhất thì cho em xin tên với ạ ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 34.115215,
+            "id": "891605",
+            "field_search": "question",
+            "question": "Xin chào em đang dùng máy tính acer win 7 và em muốn hỏi là em chơi pokemon go trên máy bằng phần mềm giả lập nhưng giờ game không hỗ trợ máy root nữa thì làm sao đây ạ ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 34.087368,
+            "id": "1021069",
+            "field_search": "question",
+            "question": "cho em hỏi máy iphone 5s của em giờ không nghe gọi được. gọi cho máy khác thì loa trong không nghe tiếng gì bật loa ngoài lên lại nghe thấy bên kia nói , mình nói lại nhưng đầu dây bên kia không nghe thấy mình nói. em phải tắt nguồn đi mấy lần thì máy mới nghe gọi lại được bình thường nhưng chỉ được 1 lúc là máy lại bị thế kia . Cho hỏi máy của em bị làm sao vậy???",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 34.034485,
+            "id": "798664",
+            "field_search": "question",
+            "question": "Sau khi mua laptop o tgdd về tôi có lỡ download nhầm phần mềm reimage repair. Không biết tgdd có hỗ trợ gỡ cài đặt phần mềm này không ạ. Nghe nói là phần mềm độc hại",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 33.661392,
+            "id": "1143791",
+            "field_search": "question",
+            "question": "Chào! Laptop Dell của em bàn phím không hoạt động mà ấn vào còn có âm thanh lạ ạ. Không biết có cách nào khắc phục không? Cảm ơn. =.=",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 33.6349,
+            "id": "795491",
+            "field_search": "question",
+            "question": "Chào anh chị em đang xài iphone 6 chạy ios 9.2.1 e hạ xuống ios9.2 thì bị lỗi 17 và bị treo máy khôi phục lại máy mãi mà không được giờ em phải làm sao????",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 33.595078,
+            "id": "1020259",
+            "field_search": "question",
+            "question": "Máy e tự động mở máy ảnh dù đã tắt màn hình. E phải lm s ạ. E cảm ơn.Asus live",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 33.579,
+            "id": "1005378",
+            "field_search": "question",
+            "question": "Cho e hỏi cái phần hẹn giờ bật nguồn của oppo neo3 có hai cột như là 12:00 thì muốn hẹn mấy giây tự bậy nguồn thi như nào",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 33.498158,
+            "id": "1154989",
+            "field_search": "question",
+            "question": "cho em hỏi ở trong máy của em có 1k6 ảnh,14 video  nhưng sao em vào icloud đồng bộ để sao lưu lại trên máy tính thì chỉ hiện lên 550 cái ảnh,6 video ? cách khắc phục như thế nào ạ ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 33.252518,
+            "id": "1024269",
+            "field_search": "question",
+            "question": "Cho mình hỏi tại sao những cuộc gọi đi hay đến mỗi lần nhắc máy tl thì máy lại tự động bật chế độ Không làm phiền khiến cả 2 đều không thể nghe được gì vậy ạ ,làm sao để tắt?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 33.19103,
+            "id": "1137119",
+            "field_search": "question",
+            "question": "Mình mua laptop và có cài win 10 bản quyền của tggd. Sau lần bị hư phần mềm thì mình có cài lại win 10 crack. Nay mình muốn khôi phục và đóng phí để mở khóa tiếp tục xài bản quyền. Bên tggd có hỗ trợ không ạ? Cám ơn",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 33.12842,
+            "id": "832116",
+            "field_search": "question",
+            "question": " Laptop em là dell inspiron 5458 bị treo logo và bị lỗi file reconvery khắc phục làm sao ạ ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.84768,
+            "id": "935701",
+            "field_search": "question",
+            "question": "Iphone 5 đang xài tự nhiên tụt pin rất nhanh rồi mất nguồn luôn trong vòng khoảng 2g(dù đã sạc đầy 100%). Giờ mình mở nguồn không lên? Máy bị gì và sửa chữa ở đâu được ad?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.75828,
+            "id": "798756",
+            "field_search": "question",
+            "question": "Sau khi mua lap tại tgdd.Em lỡ down phần mềm reimage repair. Lên google hỏi thì biết đây là phần mềm độc hại. Trong trường hợp này em có nên cài lại win không ạ hay gỡ phần mềm thôi? Bên tgdd có hỗ trợ em gỡ phần mềm không ạ?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.65358,
+            "id": "1136278",
+            "field_search": "question",
+            "question": "Ứng dụng viber của tôi báo đã gửi tin nhắn đi nhưng người nhận không nhận được trong khi việc sử dụng tính năng tiếp nhận cuộc gọi đến từ địa chỉ không nhận được tin nhắn vẫn bình thường? Xin hỏi cách khắc phục tình trạng này? Xin cảm ơn.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.55831,
+            "id": "1155725",
+            "field_search": "question",
+            "question": "Em mới mua 1 máy  samsung j4 + được hơn tuần. nhưng về xài cài dc có 5 ứng dụng máy mai đầy bộ nhớ. mặt dù đã dời ứng dụng wa bộ nhớ thẻ vẫn k thể giảm bớt bộ nhớ. xin cho cách  khắc phục",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.549088,
+            "id": "997545",
+            "field_search": "question",
+            "question": "Em khôi phục cài đặt gốc xong giờ vào ưnǵ dụng trong máy cứ như bị lỗi thời í,vào ch play thì tìm toàn ra những game từ thời nào rồi còn bị lỗi mất kết nối với máy chủ,các anh chị giúp em với em xin cảm ơn ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.41817,
+            "id": "875599",
+            "field_search": "question",
+            "question": "máy tính e đang sủ dụng thì bị hư e k bít bị ai đó vô nhấn gì mà chuột trong mấy tính k sủ dung đc . phải sử dụng chuột k dây . e mún giúp e khắc phuc",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.325306,
+            "id": "753652",
+            "field_search": "question",
+            "question": "Mình dùng iPhone 4s nhưng dùng wifi không vào được appstore và 1 số ứng dụng nhưng lại vào được youtube và facebook cách khắc phục là gì?",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.102173,
+            "id": "889047",
+            "field_search": "question",
+            "question": " Màn hình laptop asus cảm ứng bị loạn, rung giật nguyên nhân là gì và cách khắc phục ạ ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 32.00116,
+            "id": "757338",
+            "field_search": "question",
+            "question": "Cho tôi hỏi: Hiển thị pin bị dừng khi vẫn đang sử dụng điện thoai là lỗi tại đâu? Có cần phải mang đi sửa không? Điện thoại dùng bình thường không bị̣ nóng iPhone 6.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 31.97514,
+            "id": "960444",
+            "field_search": "question",
+            "question": "Cho mìh hỏi điện thoại của mình tự dưng bị chuyển tiếng từ loa dưới lên loa trên cách khắc phục thế nào ạ hãng oppo A11w",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 31.965624,
+            "id": "846518",
+            "field_search": "question",
+            "question": "Tình hình là em mới chạy lại win 7 ạ,, hôm qua thì máy hoạt động bình thường. tự nhiên hôm nay mở lên vào chorm thì con chuột nó cứ nhấp nháy và có hình tròn bên cạnh, lâu lâu lại tự hiện lên hình bên cạnh như kiểu bấm F12 và nó tắt luôn, tắt chorm xuống thanh tác vụ thì lại tự bật lên. vào internet explorer thì nó cứ hiện lên cái bảng gì đó rồi nhấp nháy liên tục không thể bấm hay làm gì được. vào paint hoặc là word thì chưa kịp bấm gì nó đã hiện lên cái bảng để save rồi. ad cho e biet tai sao khong a??",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 31.573204,
+            "id": "1016338",
+            "field_search": "question",
+            "question": "Cho em hỏi em đang dùng điện thoại asus zenfone max 3 và em chơi game hungry shark world chơi được 1 chút lại đứng máy có khi nó hiện lên là:giao diện người dùng hệ thống không phản hồi.làm sao để  khắc phục lỗi đó.khi đang chơi lại đứng máy 1 chút.em cảm thấy rất khó chịu",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 31.507317,
+            "id": "1143239",
+            "field_search": "question",
+            "question": "Cho em xin phần mềm tải video từ youtube về máy tính bảng huawei với ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 31.362343,
+            "id": "1022882",
+            "field_search": "question",
+            "question": "Mình hay cắm tai nghe để nghe nhạc, xem video. Đang nghe thì tự nhiên nó giảm âm lượng và hiện thông báo:\"Âm lượng của tâp  tin truyền thông và cuộc gọi tự động đã giảm xuống để bảo vệ tai bạn\" Mình ko muốn như thế, xin cách khắc phục",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 31.171564,
+            "id": "1165372",
+            "field_search": "question",
+            "question": "Làm sao sử dụng chia đôi màn hình ở điện thoại j4 mới cập nhật phần mềm",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 30.798574,
+            "id": "783731",
+            "field_search": "question",
+            "question": "cho em hỏi máy em bị khóa icloud mà e nhậ sai nhiều quá nó ghi. Iphone bị vô hiệu hóa. thử lại sau \" 24.220.744 \" như này thì làm thế nào. cho e cách khắc phục với",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 30.739058,
+            "id": "952711",
+            "field_search": "question",
+            "question": "Mình có con Iphone 5s 32g bị hư. Bật nguồn nó hiện lên quả táo 1 - 2s xong xanh màn hình rồi tắt. Mình muốn đảm bảo nên cho mình hỏi thegioididong có sửa chữa không ạ?Cảm ơn!",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 30.72927,
+            "id": "1155707",
+            "field_search": "question",
+            "question": "cho mình hỏi là mình dùng ip5s, hiện tại đang bị treo táo,ko mở máy lên đc, có cách nào lấy lại đc hết dữ liệu trên máy trước khi restore không? máy mình đồng bộ chỉ đc một phần dữ liệu chứ ko đồng bộ hết, mình cũng ko hiểu tại sao",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 30.611658,
+            "id": "1158036",
+            "field_search": "question",
+            "question": "Ad cho em hỏi đt sony M4 bị tắt nguồn và hien chu Sony chóp tắt là sao ạ",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 30.547823,
+            "id": "996356",
+            "field_search": "question",
+            "question": "Cho mình hỏi may asus zenphone 3max 5.5 mình mua duoc khoảng 2 thang khi cài khóa vân tay thì có thông báo là phần cứng vân tay không khả dụng. Vậy là lỗi gì ạ giúp mình khắc phục với. Cảm ơn",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 30.506989,
+            "id": "1139834",
+            "field_search": "question",
+            "question": "qtv, cho mình hỏi máy của mình (mobell nova f7 pro) lúc trước bị kẹt khe sim, mình tự tháo mặt lưng của máy ra (máy nguyên khối) để lấy khay sim (không hề động chạm đến các bộ phận khác của máy). Bây giờ bị loạn cảm ứng thì có còn được bảo hành không hay là sửa chữa có tính phí. Mong sớm nhận được câu trả lời.Cảm ơn.",
+            "answer": "_",
+            "relate_q_q": 0
+        },
+        {
+            "score": 30.496048,
+            "id": "1001906",
+            "field_search": "question",
+            "question": "Máy bị liệt và loạn màn hình có được bảo hành k",
+            "answer": "_",
+            "relate_q_q": 0
+        }
+    ]
+}

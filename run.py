@@ -3,7 +3,7 @@ import json
 import codecs
 import os
 
-PATH = "/home/trith/Lab/tag_working/origin/Tienthanh_origin/"
+PATH = "./origin/Tienthanh_origin/"
 
 app = Flask(__name__, static_folder='templates/static')
 app.secret_key = 'super secret key'
@@ -22,13 +22,12 @@ def resultGUI():
     if request.method == 'GET':
         return redirect('/')
     else:
-        if session['sent']<10:            
-            print(session['sent'])
-            origin = session['origin']
-            tag = int(request.form['submit_button'])
-            i = session['sent']
-            session['sent'] += 1
-            data['hits'][i]["relate_q_q"] = tag
+        origin = session['origin']
+        tag = int(request.form['submit_button'])
+        i = session['sent']
+        session['sent'] += 1
+        data['hits'][i]["relate_q_q"] = tag
+        if session['sent']<10:                
             return render_template('index.html', error=error, file_name=file_name, dat=data["hits"][i+1]["question"], ori=origin, num=(i+2))
         else:
             path = PATH + "done/"
@@ -62,7 +61,7 @@ def findGUI():
         file_names = os.listdir(PATH)
         file_name = file_names[0]
         session['file_name'] = file_name
-        data = json.load(open(PATH + file_name), encoding='utf-8')
+        data = json.load(open(PATH + file_name, encoding='utf-8'), encoding='utf-8')
         origin = data["origin_question"]
         session['origin'] = origin
         # session['data'] = data
