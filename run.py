@@ -3,7 +3,7 @@ import json
 import codecs
 import os
 
-PATH = ""
+
 
 app = Flask(__name__, static_folder='templates/static')
 app.secret_key = 'super secret key'
@@ -15,7 +15,8 @@ data = {}
 @app.route('/next', methods=['GET', 'POST'])
 def resultGUI():
     error = None
-    
+    PATH = session['path']
+    prefix = session['user']
     # data = session['data']
     global data
     file_name = session["file_name"]
@@ -26,16 +27,16 @@ def resultGUI():
         tag = int(request.form['submit_button'])
         i = session['sent']
         session['sent'] += 1
-        data['hits'][i]["relate_q_q"] = tag
+        data[prefix]['hits'][i]["relate_q_q"] = tag
         if session['sent']<10:                
-            return render_template('index.html', error=error, file_name=file_name, dat=data["hits"][i+1]["question"], ori=origin, num=(i+2))
+            return render_template('index.html', error=error, file_name=file_name, dat=data[prefix]["hits"][i+1]["question"], ori=origin, num=(i+2))
         else:
             path = PATH + "done/"
             if not os.path.exists(path):
-                os.makedirs(path)
+                os.makedirs(path,mode=0o777)
             file_save = path + file_name
             f = codecs.open(file_save, 'w', encoding='utf-8')
-            json.dump(data, f, indent=4, ensure_ascii=False)
+            json.dump(data[prefix], f, indent=4, ensure_ascii=False)
             os.remove(PATH + file_name) 
             session['sent'] = 0
             return redirect('/tag')
@@ -48,10 +49,27 @@ def begin():
  
 @app.route('/getpath', methods=['POST'])
 def path():
-    global PATH
+    global data
     prefix = request.form['pre']
     suffix = request.form['suf']
-    PATH = prefix + suffix
+    data[prefix] = {}
+    path = prefix + suffix
+    session['path'] = path
+    session['user'] = prefix
+    folders = []
+    files = []
+    os.chmod(path, mode=0o777)
+    for r, d, _ in os.walk(path):
+        for dire in d:
+            folders.append(os.path.join(r, dire))
+    for folder in folders:
+        os.chmod(folder, mode=0o777)
+        for r, _, f in os.walk(path):
+            for fil in f:
+                files.append(os.path.join(r, fil))
+    for fil in files:
+        os.chmod(fil, mode=0o666)
+        
     return redirect('/tag')
  
 
@@ -61,6 +79,8 @@ def path():
 def findGUI():
     session['sent'] = 0
     error = None
+    PATH = session['path']
+    prefix = session['user']
     global data
     if request.method == 'POST':
         if int(request.form['price']) < 500:
@@ -71,12 +91,12 @@ def findGUI():
         file_names = os.listdir(PATH)
         file_name = file_names[0]
         session['file_name'] = file_name
-        data = json.load(open(PATH + file_name, encoding='utf-8'), encoding='utf-8')
-        origin = data["origin_question"]
+        data[prefix] = json.load(open(PATH + file_name, encoding='utf-8'), encoding='utf-8')
+        origin = data[prefix]["origin_question"]
         session['origin'] = origin
         # session['data'] = data
         print(session['file_name'])
-    return render_template('index.html', error=error, file_name=file_name, dat=data["hits"][0]["question"], ori=origin, num=1)
+    return render_template('index.html', error=error, file_name=file_name, dat=data[prefix]["hits"][0]["question"], ori=origin, num=1)
  
  
 if __name__ == '__main__':
