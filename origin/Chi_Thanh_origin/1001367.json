@@ -1,0 +1,801 @@
+{
+   "id_query": "1001367",
+   "total": 6540,
+   "total_current": 100,
+   "max_score": 92.14612,
+   "origin_question": "Ad ơi trả trước 30máy sony xperia xa1 cần giấy tờ gi ạ",
+   "hits": [
+      {
+         "score": 36.249596,
+         "id": "1150272",
+         "field_search": "question",
+         "question": "Chào anh chị, hiện tại em đang muốn mua trả góp điện thoại Ip6 S 32GB. Cho em hỏi em có thể mua với gói trả trước 0đ ko và cần những giấy tờ gì ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.317005,
+         "id": "759572",
+         "field_search": "question",
+         "question": "Đợt hàng mới sắp về này em muốn mua iphone 5s 32 đến 64GB. Trả trả góp thì cần những giấy tờ gì và trả trước bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.465324,
+         "id": "990254",
+         "field_search": "question",
+         "question": "e là sinh viên muốn mua trả góp zenphone 3 max 5.5 in thì e cần giấy tờ và trả trướcc bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.809076,
+         "id": "770885",
+         "field_search": "question",
+         "question": "AD cho hỏi : iPhone 5S trả góp 0% cần những hồ sơ như thế nào (bao gồm những lại giấy tờ gì ) ? huyện Phú Giáo, tỉnh Bình Dương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.854856,
+         "id": "1019214",
+         "field_search": "question",
+         "question": "Thủ tục mua trả góp cần những giấy tờ gì. Nếu đang ở trọ, địa chỉ trên hóa đơn điện nước ko phải địa chỉ hộ khẩu thì có được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.162647,
+         "id": "1010188",
+         "field_search": "question",
+         "question": "cho e hỏi : điều kiện trả góp là phải có giấy cmnd với bằng láy xe , nhưng e chỉ có giấy cmnd thì có thể thay bl xe bằng loại giấy tờ khác đc không anh(chị)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.939821,
+         "id": "1017299",
+         "field_search": "question",
+         "question": "sony xperia z3 so sánh với sony xperia xa1 thì máy nào mạnh hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.859772,
+         "id": "1155578",
+         "field_search": "question",
+         "question": "Tài khoản faecbook của em bị hack và đổi email đăng kí, em gửi giấy tờ tùy thân cho facebook xác minh nhưng tên trong giấy tờ là Đoàn Quế Kiệt còn tên facebook em là Đoàn Kiệt. Facebook không chấp nhận trả lại tài khoản cho em. giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.384106,
+         "id": "1018063",
+         "field_search": "question",
+         "question": "mình có hộ khẩu công chứng  cmnd  thẻ bhyt có mua trả góp oppo f3 trả trước 30 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.165876,
+         "id": "1010397",
+         "field_search": "question",
+         "question": "dòng iphone có áp dụng trả trước 0 k ad. nếu có thì tư vấn cho e và cần những gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.136639,
+         "id": "1160244",
+         "field_search": "question",
+         "question": "bên mình còn sản phẩm xz2 bán trả góp ko ADtôi đang dùng sony xa1 ultra hồi trước mua bên mình liệu bên mình có cho đổi máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.825851,
+         "id": "797971",
+         "field_search": "question",
+         "question": " Em muốn mua dt iPhone 5s mà trả trước 0 có không ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.455776,
+         "id": "1146177",
+         "field_search": "question",
+         "question": "TGDĐ cho hỏi nếu mua trả góp đt tầm 3tr5 thì phải trả trước khoảng bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.130527,
+         "id": "997298",
+         "field_search": "question",
+         "question": "ben minh con dien thoai sony xperia XA1 mau den k ban",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.916012,
+         "id": "753246",
+         "field_search": "question",
+         "question": "Cho em hỏi điều kiện đủ để mua trả góp 0% là thế nào ạ. Em đang muốn mua iPhone 6s Plus 128gb và phải trả trước bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.890385,
+         "id": "1014050",
+         "field_search": "question",
+         "question": "em có hộ khẩu công chứng vs cmnd mua trả góp dc k ạ, hay phải cần hộ khẩu bản gốc.thanks ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.887493,
+         "id": "1004603",
+         "field_search": "question",
+         "question": "Mình mới mua sony xperia l1 giờ muốn đổi sang sony xa1 thi fai bù bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.49591,
+         "id": "1008792",
+         "field_search": "question",
+         "question": "samsung j7 pro có trương trình trây góp không lãi xuất không ạ , nếu có mình phải trả trước bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.880623,
+         "id": "1021026",
+         "field_search": "question",
+         "question": "Mình có nhu cầu chơi game nặng màn hình đẹp rõ nét ad so sánh dùm mình sony xperia xa1 so với samsung galaxy j7 prime nhe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.880476,
+         "id": "1001656",
+         "field_search": "question",
+         "question": "AD cho e hỏi cái.E Mới mua XA1 trả góp bên mình giờ e muốn thanh lý hợp đồng luôn và e muốn đổi sang điện thoại khác thì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.260212,
+         "id": "1167690",
+         "field_search": "question",
+         "question": "Cho e hỏi tgdd có thay màn hình sony xperia xa1 ultra ko ạ. Máy của e bị sọc màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.961983,
+         "id": "844893",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi xíu đc k ạ . E muốn mua 1 chiếc iPhone 6s 64gb trả góp . Thì k biết e sẽ có thủ tục như thế nào ạ . E đang đi làm với mức lương 5tr mà trả trước 30% thì e k đủ tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.652866,
+         "id": "857356",
+         "field_search": "question",
+         "question": "Ad ơi hôm trước e có làm rớt chiếc iphone 5 cuả...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.491035,
+         "id": "992660",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Đt e mua trả góp 0 e trả chưa xong thế e bán lại được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.484135,
+         "id": "999855",
+         "field_search": "question",
+         "question": "Ad ơi bây giờ e mua máy oppo f1s...e cầm cmnd vơi sổ hộ khẩu ra mua trả góp ược không ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.43591,
+         "id": "1155876",
+         "field_search": "question",
+         "question": "chào shop, mình có mua một máy sony Xperia XA1 Plus. Máy đã lên android 8.0, mình muốn về android 7.0 thì làm thế nào!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.248686,
+         "id": "749287",
+         "field_search": "question",
+         "question": " Anh ơi bên mình còn iPhone 5s không? Em muốn mua trả góp ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.09477,
+         "id": "1134203",
+         "field_search": "question",
+         "question": "Ad ơi! Em muốn bán lại Sony Xperia XA cho shop có được không ạ? Nếu được thì giá bao nhiêu ạ,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.965063,
+         "id": "1000938",
+         "field_search": "question",
+         "question": "Thế giới di động có ốp lưng của sony xa1 utra chưa vậy anh chị ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.661116,
+         "id": "814339",
+         "field_search": "question",
+         "question": " Chương trình trả góp khi mua laptop như thế nào vậy? Tôi đang cần mua ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.657738,
+         "id": "1001273",
+         "field_search": "question",
+         "question": "Ad Cho hỏi cách đổi tên ảnh và video trên sony xa1 voíw",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.491009,
+         "id": "1014642",
+         "field_search": "question",
+         "question": "Ad ơi. Máy asus 3 bị camera sau bị mờ. Trước thì không sao. E có cài đặt gốc lại rồi nhưng vẫn mờ. E phải làm sao ạ. Máy e đã mua bên tgdd hơn 1 năm rồi ạ!? Tks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.437215,
+         "id": "1167037",
+         "field_search": "question",
+         "question": "Anh ơi sony xperia z5 2019 với iphone 6s thì máy nào mạnh hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.281798,
+         "id": "976894",
+         "field_search": "question",
+         "question": "QTV ơi, tư vấn giúp em với! em muốn mua máy để chơi game và xem phim thì nên chọn máy nào ạ OPPO F1s <17>, Sony Xperia M5 hay Sony Xperia XA1,17>",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.252879,
+         "id": "1006647",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi bật chức năng root của sony xperia Z3 ở đâu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.184019,
+         "id": "1161911",
+         "field_search": "question",
+         "question": "Cho e hỏi giá màn hình cảm ứng sony xa1 bao nhiêu vậy ad...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.166382,
+         "id": "1159630",
+         "field_search": "question",
+         "question": "A cho e hoi vay tiền trả góp cần điều kiện j mớj dc vay a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.111459,
+         "id": "968941",
+         "field_search": "question",
+         "question": "Ad ho em hỏi là máy samsung j7 loại nào camera có đèn flash trước ạ? mà RAM khoảng 2GB ý ạ? già bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.105561,
+         "id": "1012477",
+         "field_search": "question",
+         "question": "A/c cho em hỏi tháng trước e nộp tiền trả góp điện thoại huawei vào ngày 18/7. Nhưng quên k lấy thẻ để đóng lãi về, bây giờ làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.092401,
+         "id": "1159723",
+         "field_search": "question",
+         "question": "mình muốn đóng tiền trả góp hàng tháng trước mấy ngày được không.tại khoảng 13tây mới tới trả nhung rảnh nên muon đóng truớc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0560465,
+         "id": "1012082",
+         "field_search": "question",
+         "question": "anh ơi em muốn mua sony xa1 ultra  trả góp ạ anh có thể tư vân em dc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.958773,
+         "id": "794979",
+         "field_search": "question",
+         "question": " Oppo joy có kết nối với usb otg không ạ mong ad trả lời nhanh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.783465,
+         "id": "1136250",
+         "field_search": "question",
+         "question": "dt sony xperia , camera sau bị mờ , mong ad giúp khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.71043,
+         "id": "1148119",
+         "field_search": "question",
+         "question": "Mình có đăng kí mua trả góp đt oppo f9 và trả trước 50phần trăm.máy có báo mua hàng thành công với giá trên 6tr là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.502995,
+         "id": "1163218",
+         "field_search": "question",
+         "question": "Em đang xài dòng Sony Xperia Xa1 nhưng màn hình bị liệt 1 phần cảm ứng. Cho em hỏi cửa hàng mình có nhận sửa không và chi phí vào khoảng bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.361235,
+         "id": "996106",
+         "field_search": "question",
+         "question": "E muôn mua a5 2017 tra gOp mà trả trước 0đ thi như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.17427,
+         "id": "988675",
+         "field_search": "question",
+         "question": "Em muốn mua ĐT Sony Xpria XA1 trả góp thì cần trả trước bao nhiêu tiền ạ ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.095422,
+         "id": "1142423",
+         "field_search": "question",
+         "question": " Anh coi có nó bị hư gì cần sửa giúp em vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.0548115,
+         "id": "1014939",
+         "field_search": "question",
+         "question": "Ad cho hỏi bây giờ tgdđ còn chương trình đổi sim 4g miễn phí ko ạ với lại có phải mua phôi sim và có cần thủ tục gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.956314,
+         "id": "999163",
+         "field_search": "question",
+         "question": "Ad ơi e đang dùng máy Sony Xperia XA Ultral, e đang chơi game thì máy bị đơ kh nhấn chỗ nào đc chỉ xài đc mỗi nút nguồn là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.917149,
+         "id": "1134442",
+         "field_search": "question",
+         "question": "Sao không thấy chiếc sony xa1 mới nhỉ?mà hàng mới Sony không thấy đâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.790291,
+         "id": "856939",
+         "field_search": "question",
+         "question": "Ipad có cần phải sạc 8 tiếng trong 3 lần đầu k ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.675802,
+         "id": "1014682",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn truyền dữ liệu từ điện thoại cũ (ASUS ZENFONE) sang điện thoại mới (SONY XPERIA XA1) bằng kết nối không dây thì phải làm như thế nào vậy QTV ?MÌnh cảm ơn nhiều ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.592649,
+         "id": "1016335",
+         "field_search": "question",
+         "question": "nokia 6 vs sony Xperia Xa1 cai nao choi game nang tot hon, camera dep hon, chip xu li helio p20 vs Snapdragon 430 thi cai nao manh hon, tiet kiem pin cung nhu choi game nang tot hon.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.546924,
+         "id": "1003632",
+         "field_search": "question",
+         "question": "cho e hỏi mình mua sản phẩm dưới 10 triệu có cần hộ khẩu không ạ e là sinh viên ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.411668,
+         "id": "1023318",
+         "field_search": "question",
+         "question": "mình hỏi chút, mình mới mua đt ở TGDĐ chưa được một tháng sony XA1, mua trả góp. Giờ mình muốn đổi sang đt khác Sony XA1 plus hơn thì có được không, máy XA1 Plus bao giờ có vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.366825,
+         "id": "1133641",
+         "field_search": "question",
+         "question": "Mình có 1 cái sony xa1 trước mình mua 2.9tr . Giờ mình muốn mua mua cái đt 5tr thì mình đưa shóp cái sony xa1 và bù thêm tiền thiếu có đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.329481,
+         "id": "821738",
+         "field_search": "question",
+         "question": " Em muốn mua iPhone 5s trả góp giá 0 đồng thì em cần mang những gì đến cửa hàng vậy??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.256472,
+         "id": "1016392",
+         "field_search": "question",
+         "question": "Cho e hỏi hộ khẩu ở quê có thể mua trả gopd không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.242268,
+         "id": "1158036",
+         "field_search": "question",
+         "question": "Ad cho em hỏi đt sony M4 bị tắt nguồn và hien chu Sony chóp tắt là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.232901,
+         "id": "1136501",
+         "field_search": "question",
+         "question": "Mấy Sony xa1 plus có tính năng chống nước không vậy qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.220325,
+         "id": "1163924",
+         "field_search": "question",
+         "question": "ben minh co nhan thu lai may k admin sony xa1 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.20952,
+         "id": "767323",
+         "field_search": "question",
+         "question": "Anh ơi tại sao em nâng cấp iPhone 5s của em lên iOS 9.2 thì giờ chụp hình không được nữa ạ, mong anh trả lời giúp e!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.127243,
+         "id": "1012282",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi về việc trả góp Ip7Plus 32GB ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.118305,
+         "id": "999651",
+         "field_search": "question",
+         "question": "công ty bên mình hỗ trợ nhân viên mua trả góp thì hoá đơn chứng từ cần những gì bạn nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.109835,
+         "id": "1012884",
+         "field_search": "question",
+         "question": "Em mua sony xa đc 2 tháng. Giờ muốn đổi sang sony xa1 thì bên mình có hỗ trợ mua lại máy xa và bù tiền sang để mua xa1 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.070442,
+         "id": "993566",
+         "field_search": "question",
+         "question": "cho e hỏi sạc công ty iphone 6s chính hãng giá bn ạ. e cần gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.990324,
+         "id": "990833",
+         "field_search": "question",
+         "question": "Mik có mua 1 cai zenfone 3 max  trả góp dc 13ngày .. Rồi có chuyện gia đình mik muốn trả lại được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.989968,
+         "id": "1154287",
+         "field_search": "question",
+         "question": "shop có dán kính cường lực full màn hình sony xa1 k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.989968,
+         "id": "1018560",
+         "field_search": "question",
+         "question": "Giữa oppo f3  và sony xa1 thì dòng nào chụp hình đẹp hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.982239,
+         "id": "1142709",
+         "field_search": "question",
+         "question": "Điện thoại Sony xa1 plus khi tắt màn hình thì không sạc pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.927555,
+         "id": "1016114",
+         "field_search": "question",
+         "question": "cho em hỏi chiếc điện thoại sony xa1 ultra có chống nuoc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.913715,
+         "id": "890629",
+         "field_search": "question",
+         "question": " Cần mua lap top core i5 giá từ 13 14tr mà trả lãi từ 1đén 0 tư vấn giúp mình với tks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.851134,
+         "id": "996446",
+         "field_search": "question",
+         "question": "Sony Xperia XA Ultra có lên  Android 7.0 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.84967,
+         "id": "1000777",
+         "field_search": "question",
+         "question": "Sony xperia z1 thay pin có được không vậy.........................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.755795,
+         "id": "1018157",
+         "field_search": "question",
+         "question": "Cho hỏi muốn đổi sony xa1 sang iphone 6 thì thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.736822,
+         "id": "994409",
+         "field_search": "question",
+         "question": "Ad ơi em muốn mua một smartphone 2_3tr ạ . Màn hình 5.5inch và camera sau trên 10mp, pin trên 3000 ạ. Nhờ ad tư vấn giúp ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.721312,
+         "id": "1139594",
+         "field_search": "question",
+         "question": "ad ơi em hỏi bên tgdd ad có dán kính mỏng cho s9 ko ạ . nến có thì bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.71541,
+         "id": "988372",
+         "field_search": "question",
+         "question": "ac cho e hỏi ,e muốn mua trả góp máy tính bảng ,CMNN  bằng lái ,thì có cần đủ 20 tuổi hay k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.706003,
+         "id": "1018516",
+         "field_search": "question",
+         "question": "Sony xa1 so với samsung j7 prime thì máy nào đáng mua hơn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.700474,
+         "id": "1135381",
+         "field_search": "question",
+         "question": "Cho anh hỏi shop mình có bán dây sạc siêu tốc sony xa1 kô nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.666874,
+         "id": "1001728",
+         "field_search": "question",
+         "question": "Cho hỏi mua sony xa1 có được tặng tai nghe MDR hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.649477,
+         "id": "1145398",
+         "field_search": "question",
+         "question": "Có bán riêng sạc điện thoại sony xperia l1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.627144,
+         "id": "1161938",
+         "field_search": "question",
+         "question": "Tôi muốn,mua trả góp oppo f9 voi lãi xuất 0%.nhung tôi bi mất cmnd,chi có ban foto,va bằng lái,trước đây có mua trả góp,với homecrit,rất uy tín,liệu tôi có mua được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.623224,
+         "id": "1024238",
+         "field_search": "question",
+         "question": "alo bạn cho mình hỏi .mình vừa mua cái nokia 5 được 2 ngày mình mua trả góp . bây giờ mình cảm thấy ko vừa ý mình muốn đổi sang cái sony xperia xa1 urtra . thì sẽ bị mất bao nhiêu phần trăm vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.620398,
+         "id": "1020621",
+         "field_search": "question",
+         "question": "Anh ơi em xài điện thoại sony xperia xa dual (f3116)Mà tại sao smart lock khong sử dụng được em đã cập nhật phiên bản 7.0 rôiThanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.541271,
+         "id": "992585",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn mua oppo A39 trả góp thì giá sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.530898,
+         "id": "1135438",
+         "field_search": "question",
+         "question": "Cho anh hỏi là Bên mình có bán pin điện thoại   sony xa1 kô shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.529915,
+         "id": "1017994",
+         "field_search": "question",
+         "question": "cho e hỏi e muốn đổi sony xa1 lấy iphone 6 thi them bn a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.483559,
+         "id": "999260",
+         "field_search": "question",
+         "question": "A kiểm tra xem máy e đã bảo hành xong chưa a! 01666111132 Sony XA1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.483559,
+         "id": "998370",
+         "field_search": "question",
+         "question": "Chào tgdd, mình hỏi tí. Mình mua ĐT Sony xa1 ở tgdd dc hai tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.415747,
+         "id": "1159134",
+         "field_search": "question",
+         "question": "sony xperia z ultra loạn cảm ứng thay hết bn tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.382599,
+         "id": "1008364",
+         "field_search": "question",
+         "question": "Anh ơi cho e hỏi đt e k tải gì. Mà sao bộ nhớ ít vậy anh . Khởi động lại máy rùi mà bộ nhớ có hơn 700MB. Mà lúc trước e khởi động bộ nhớ lúc nào cũng hơn 1G ạ. Cho hỏi bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.376482,
+         "id": "1017392",
+         "field_search": "question",
+         "question": "Cho em hoi mặc kính sony xperia c4 giá bao nhieu za",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.376482,
+         "id": "1007464",
+         "field_search": "question",
+         "question": " Cách thoát khỏi chế độ an toàn của điện thoại Sony Xperia ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.364128,
+         "id": "1020599",
+         "field_search": "question",
+         "question": "Sao may Sony xperia xa f3116 mau nóng máy quá vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.364128,
+         "id": "1006293",
+         "field_search": "question",
+         "question": "Mình dùng Sony XPERIA mà quên mật khẩu  làm sao đay??!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.323267,
+         "id": "833786",
+         "field_search": "question",
+         "question": " có phải oppo k có chức năng trả lời bình luận trên facebook k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.303513,
+         "id": "1163318",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop HP 15da0058TU có hỗ trợ sẵn Turbo Boost không? Hay cần phải cài Intel Turbo Boost ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

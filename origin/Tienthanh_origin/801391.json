@@ -1,0 +1,801 @@
+{
+   "id_query": "801391",
+   "total": 32129,
+   "total_current": 100,
+   "max_score": 105.34242,
+   "origin_question": "Cho mình hỏi: Sau khi đã cài zalo trên laptop và quét QR xong và cũng đã đăng nhập thành công, nhưng sao mình ko thấy hiển thị các tin nhắn zalo trên laptop vậy?",
+   "hits": [
+      {
+         "score": 47.022873,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.51703,
+         "id": "836564",
+         "field_search": "question",
+         "question": "Khi nhập số điện thoại vào để đăng nhập zalo tôi nhập các số nhưng không thấy hiển thị (không nhập được) vậy thì phải làm sao?Trước khi có trường hợp trên zalo của tôi vẫn đang hoạt động bình thường nhưng khi nhập kí tự viết tin nhắn thì không nhập được, sau đó tôi gỡ zalo và cài lại thì không nhập được số điện thoại vào để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.991707,
+         "id": "795071",
+         "field_search": "question",
+         "question": "Tôi tải zalo về máy laptop và đã dùng điện thoại quét mã QR trên laptop và đã sử dụng zalo trên laptop tốt . Nhưng giờ không muốn sử dụng zalo trên laptop nữa tôi đã xóa biểu tượng zalo trên laptop rồi nhưng sao cứ mỗi lần tắt máy laptop rồi khởi động máy trở lại thì bảng zalo vần cứ còn trên laptop . Xin hỏi quản trị viên giờ muốn xóa vĩnh viễn zalo trên máy laptop thì phải làm như thế nào xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.95366,
+         "id": "797800",
+         "field_search": "question",
+         "question": "khi đăng nhập zalo qua pc để đọc tn mới thì trên zalo dt co mất thông báo tin nhắn mới k?.và khi pc k đăng xuâtd lần sau vào có cần quét QR nữa k. và có tự động gởi tn báo co pc đănh k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.570965,
+         "id": "1150817",
+         "field_search": "question",
+         "question": "Cho mình hỏi tin nhắn trên zalo mình đã thu hồi rồi, nhưng khi thu hồi xong thì mình xóa. Cho mình hỏi là nếu như vậy thì bên được gửi còn thấy tin nhắn của mình ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.89654,
+         "id": "799092",
+         "field_search": "question",
+         "question": "Cho hỏi hiện tại zalo của mình được đăng nhập vào 1 laptop của người yêu mình và một dt của mình. vậy khi mình nt trên dt xong mình sóa đi trên laptop còn hiện hk vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.567066,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.20804,
+         "id": "993153",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình sử dụng zalo trên iphone,khi đăng nhập tài khoản zalo trên một máy tính khác thì trên máy tính có thấy những tin nhắn cũ có trên iphone k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.14353,
+         "id": "1009299",
+         "field_search": "question",
+         "question": "Ứng dụng Zalo trên samsung a5 2016 của t ko hiển thị nội dung thông báo có tin nhắn... ở thanh cuộn phía trên như hình dưới đây mặc dù có tin nhắn đến. T đã cài đặt hiển thị thông báo rồi nhưng ko được. Mong đc các KTV tư vấn.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.806747,
+         "id": "1135138",
+         "field_search": "question",
+         "question": "em đã cài zalo trên điện thoại và cả pc , nhưng khi xóa tin nhắn bằng điện thoại thì tin nhắn trên pc cũng biến mất , giờ phải làm sao để khi xóa tin nhắn trên điện thoại mà pc lại không bị mất ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.564564,
+         "id": "1146679",
+         "field_search": "question",
+         "question": "Mình có cài Zalo trên PC và điện thoại, khi mình bị mất điện thoại và chuyển sang điện thoại mới thì những tin nhắn zalo trên điện thoai không còn, nhưng zalo trên PC thì vẫn còn tin nhắn. Vậy có cách nào đồng bộ tin nhắn Zalo trên điện thoại từ PC không? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.418674,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.222183,
+         "id": "874996",
+         "field_search": "question",
+         "question": "Cho em hỏi. Messenger của em cứ hiển thị \"Không thể hiển thị các tin nhắn\". Em gửi tin nhắn cho bạn em thì thấy không gửi được nhưng bạn em lại xem được. Còn bạn em thì không thể gửi được cho em. Sau khi em xoá app đi và cài lại sau khi đọc được vài hướng dẫn trên mạng thì các tin nhắn của em mất sạch và vẫn có tình trạng \"Không thể hiển thị các tin nhắn\". Hãy giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.11328,
+         "id": "1149972",
+         "field_search": "question",
+         "question": "Tại sao trên máy tính PC khi nhắn tin zalo cho người lạ chưa kết bạn thì vẫn nhìn thấy họ truy cập, còn khi nhắn tin zalo trên điện thoại IP 8plus thì không thấy họ hiện truy cập hay không truy cập luôn, vậy có cách nào khắc phục trên đt để khi nhắn tin và hiển thị hiện trạng họ truy cập không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.065228,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.496834,
+         "id": "840999",
+         "field_search": "question",
+         "question": "MOD cho mình hỏi 1 chút:Mình muốn xem lại toàn bộ tin nhắn zalo trên PC khi tài khoản zalo đã bị xóa thì xem lại tin nhắn như thế nào?Trên máy tính mình thấy trong thư mục zalo có file zalo_messages.db thì có xem được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.262,
+         "id": "904170",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao khi đăng bài trên zalo. Sau đó mình xóa liền mà bài viết vẫn hiển thị ở bảng tin của người khác. Làm sao để xóa hẳn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.917133,
+         "id": "914965",
+         "field_search": "question",
+         "question": "Cho em xin hỏi muốn xem nội dung tin nhắn zalo đã bị xóa trên điện thoại thì làm thế nào?Trường hợp đăng nhập zalo cả điện thoại và máy tính nhưng khi xóa trên điện thoại thì máy tính cũng mất luôn, có cách nào khôi phục trên máy tính được không? xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.760544,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.404537,
+         "id": "886031",
+         "field_search": "question",
+         "question": "Cho mình hỏi dùng 1 điện thoại mà truy cập vào hai tài khoản Zalo sau khi nhắn tin bằng tk Zalo 1 đọc xong xóa đi luôn thì có khôi phục lại những tin nhắn đã xóa bằng tài khoản zalo thứ 2 ko?(trên cùng 1 điện thoại)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.93274,
+         "id": "1161510",
+         "field_search": "question",
+         "question": "cho em hỏi khi mình đăng nhập tài khoản zalo của mình đã đăng xuất  vào 1 điện thoại  mới khác  thì mọi tin nhắn của tài khoản mình có xem dc ở máy mới ko? và có cảnh báo đến máy kia ko ( máy đã đăng xuất )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.53198,
+         "id": "1151074",
+         "field_search": "question",
+         "question": "Sao zalo của mình tin nhắn ko báo vào máy. Mà bên kia tin nhắn họ gửi báo đã xem. Trong khi mình ko biết tin nhắn tới. Và mình cũng chưa xem.mong ad giúp đỡ. Cảm ơn ad nhìu!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.82419,
+         "id": "1161909",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình đăng xuất nik zalo ở máy tính 1 , sau đó đổi mật khẩu và đăng nhập ở máy tính 2, thì máy tính 2 có xem được các tin nhắn hoặc khôi phục các tin nhắn ở máy tính 1 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.608612,
+         "id": "994153",
+         "field_search": "question",
+         "question": "Em muốn hỏi là e dùng IP4, tự dưng mấy hôm nay khi có tin nhắn đến nó không hiển thị trên màn hình cũng như biểu tượng tin nhắn không hiển thị có tin nhắn mà e phải vào đọc tin nhắn mới biết là có tin nhắn đến hay không? Vậy làm cách nào để khắc phục ạ. Em đã vào thông báo và bật hiển thị trên màn hình khóa cũng như hiện bản xem trước rồi!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.59712,
+         "id": "915425",
+         "field_search": "question",
+         "question": " Sao không thể viết nhận xét trên app store trong khi đó đã tải xong và cài đặt ứng dụng thành công mà vẫn bị như vậy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.419632,
+         "id": "847624",
+         "field_search": "question",
+         "question": "Ad ơi có thể đăng nhập một tài khoản zalo trên hai máy tính cùng một lúc không?. Tại sao trên zalo có mục quản lý danh sách các máy tính đăng nhập mà mìn thấy chỉ đăng nhập được một máy nhỉ.Mình đăng nhập zalo của người yêu bằng máy tính của mình để mình kiểm tra a ấy, nhưng khi người yêu mình cũng đăng nhập trên máy tính thì máy của mình toàn bị thoát ra. Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.382786,
+         "id": "613951",
+         "field_search": "question",
+         "question": " Khi nhắn tin trên zalo mà người nhận đã nhận được mình muốn xóa tin nhắn mình gửi đó có được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.32453,
+         "id": "1145354",
+         "field_search": "question",
+         "question": "cho em hõi a7 2018 của em có phải bị lỗi bàn phím không : khi comment trên youtube máy không hiện ra dòng chữ mình đang nhập, trên instagram cũng không thể thấy phần tin nhắn mình đang nhập cũng như trong story,... đã thử xóa và cài đặt, khởi động máy lại nhưng vẫn không hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.24152,
+         "id": "838237",
+         "field_search": "question",
+         "question": "zalo trên điện thoại mình báo có một máy tính khác đang đăng nhập vào tk zalo này của mình mà mình k hiểu vì sao, trong khi đt chỉ mình mình sử dụng, mà cũng k nhận được tin nhắn báo mật khẩu để sử dụng trên máy tính. Thế là sao? Mình muốn hỏi thêm là chưa bao giờ mình đăng nhập zalo trên máy tính, vậy lần đăng nhập đầu tiên trên máy tính của người đó liệu có xem được toàn bộ các cuộc trò chuyện của mình trước đó không? Mình đang rất lo, vì toàn những thông tin quan trọng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.087902,
+         "id": "947059",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Tại sao mình đăng nhập zalo trên thiết bị mới thì toàn bộ tin nhắn trên thiết bị cũ lại không xem được. Cho hỏi tại sao. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.016018,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.91692,
+         "id": "790482",
+         "field_search": "question",
+         "question": "Vì sao dt tôi khi cài đặt zalo xong thì trong điện thoại không hiển thị ứng dụng. khi vao store lại thì ứng dụng báo đã đc cài đặt và không cho cài đặt lại???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.84322,
+         "id": "748294",
+         "field_search": "question",
+         "question": "Mình đã xác minh TK ID Apple sau khi đc yêu cầu và đã báo xác minh thành công. Khi mình đăng nhập vào iCloud vẫn báo TK chưa được xác minh là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.825447,
+         "id": "715319",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 sim mobi nhưng khi tải zalo về máy và đăng ký thì có thông báo hiển thị là đã có người sử dụng sđt đó để đk zalo ? cho mình hỏi có cách nào xóa tài khoản đó kô ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.757545,
+         "id": "1158590",
+         "field_search": "question",
+         "question": "mình mới mua e ssa50 nhưng khi tải ứng dụng từ chplay thành công thì ko thấy  nó xuất hiện trên màn hình chính. Mình thử vào ch play, cài đặt nhưng ko thấy mục \"Bật hiển thị ứng dụng trên màn hình\" như hướng dẫn. Máy mình bị lỗi à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.73689,
+         "id": "1003964",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao zalo máy tính của mình không hiển thị tin nhắn mới, mỗi lần xem tin nhắn phải vào đt để xem ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.693466,
+         "id": "1021961",
+         "field_search": "question",
+         "question": "Mình muốn dùng zalo, nhưng ko muốn hiển thị biểu tượng zalo trên màn hình điện thoại. Đt mình là ip7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.61694,
+         "id": "762287",
+         "field_search": "question",
+         "question": " Tại sao khi mình cài viber trên laptop thì nó lại không đồng bộ tin nhắn và cuộc gọi trên điện thoại của mình nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.45437,
+         "id": "1165106",
+         "field_search": "question",
+         "question": "Cho em hỏi , em muốn cài đặt thư thoại để nhận Thoòng báo hoac tin nhắn, em đã đăng kí và xác nhận qua 981, nhưng em vào nhập mật khẩu trên máy thì nó không hiện thị chữ đã xong???? Và bây giờ em nên làm gi de tao va nhap mat khau mới cho thư thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.44612,
+         "id": "806977",
+         "field_search": "question",
+         "question": " Xóa tin nhắn zalo trên máy tính thì trên điện thoại các tin nhắn zalo đó còn không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.435547,
+         "id": "830086",
+         "field_search": "question",
+         "question": "nếu mình đăng nhập song song tk zalo cùng 1 lúc trên máy tính và đt thì khi có tin nhắn báo đến mình xoá trên đt đi thì máy tính có còn lưu tin đó nữa k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.416344,
+         "id": "1149521",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình đã cập nhật thành công Android 9.0 trên chiếc xiaomi A2 lite nhưng sau 1 tg mình sd mình thấy ko đc ưng và mình muốn hạ xuống Android 8.1 thì phải làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.30601,
+         "id": "817647",
+         "field_search": "question",
+         "question": "E dùng zalo rất lâu rồi,ambum ảnh e nhiều, nhưng 2hôm nay e mới đổi điện thoại mới,e tải phần mềm zalo và đăng nhập lại vào thì nhật kí vẫn còn,nhưng ambum ảnh hiển thị 0 ảnh và k vào ambum đc,mặc dù trước đó e vừa đăng 3 ảnh,e đã gỡ và tải zalo khac về nhưng vẫn tình trạng trên,e tìm kiếm cài đặt mà k thấy cài đặt nào liên quan..mong a chị giúp đỡ! Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.29335,
+         "id": "1013986",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình mới mua chiếc xiaomi note 4x. Mình đã dùng tài khoản google để đăng nhập và đồng bộ hóa tự động, nhưng những ảnh và video mình đã có trước đây không thấy có trong máy sau khi đồng bộ là sao vậy. (Trước đây mình cũng đã sử dụng đồng bộ trên máy điện thoại khác và ảnh + video vẫn về đầy đủ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.290325,
+         "id": "830206",
+         "field_search": "question",
+         "question": "Tôi có đăng nhập zalo trên pc. nhưng khi vào thì luôn hiện lên cửa sổ bắt buộc phải xóa tin nhắn mà tôi chưa đọc, và zalo pc không bao giờ lưu lại tin nhắn. khi vào thường không có tin nhắn. t nghĩ chỉ xóa tin nhắn trên điện thoại thi trên pc vẫn lưu lại chứ ạ. xin giải đáp giúp. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.780262,
+         "id": "1010918",
+         "field_search": "question",
+         "question": "Mình muốn phát Wifi từ máy tính dùng win 7 cho đt dùng. mình đã share và Wifi đã hiển thị dòng Internet acess.. tuy nhiên trên điện thoại vẫn báo chưa có internet.. Trước đây mình đã thử và thành công.. nhưng dạo này không hiểu sao lại không share đc! trên máy oppo A11W thì nó hiển thị dòng đang lấy địa chỉ IP và chờ rất lâu vẫn không cấp đc!! mong TGD Đ tư vấn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.773697,
+         "id": "859439",
+         "field_search": "question",
+         "question": " Zalo trên điện thoại không hiển thị nhóm nhưng trên pc của mình vẫn hiển thị giúp mình với minh cảm ơn nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.720474,
+         "id": "862093",
+         "field_search": "question",
+         "question": "Em mới mua sim ở tgdđNhưng khi về đăng kí thì bảo số này đã đk zalo rEm vào zalo ních em nhập sdt mới mua thì thấy cí một ních đã và đang xài trên chính sdt của emVậy. Là. Sao. Qtv.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.37322,
+         "id": "828027",
+         "field_search": "question",
+         "question": "Cả nhà ơi cho mình hỏi, mình gửi tin nhắn cho bạn mình trên zalo mà bạn ấy chưa đọc, chỉ mới có thông báo đã gửi thôi. Vì trước khi mình gửi tin nhắn đó, bạn ấy ít dùng zalo nên bạn ấy xoá zalo đi. Tận 3 tháng sau mới tải lại thì tin nhắn mình gửi liệu bạn ấy có nhận được không cả nhà?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.319923,
+         "id": "1159112",
+         "field_search": "question",
+         "question": "zalo của mình báo có tin nhắn chưa gửi được do lỗi mạng, nhưng khi mình click vào thì ko thấy gì? vì sao lại vậy và làm sao để khắc phục a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.155125,
+         "id": "1135256",
+         "field_search": "question",
+         "question": "Muốn đăng nhập 2 nick zalo trên laptop ausus làm sao em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.13245,
+         "id": "875898",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình đang sài cái obi. Ghi âm trong máy ổn. Nhưng ghi âm trên zalo và messages thì bị rè. Mạng ổn định, và đã xóa cài lại zalo và messages nhưng vẫn bị. Có cách nào khắc phục được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.020954,
+         "id": "1148130",
+         "field_search": "question",
+         "question": "Chào các bạn. Máy mình oppo neo 5 đang chơi thì hàng loại câu androi. Process.acroce đã dừng. Mình giải quyết bằng cách khôi phục cài đặt gốc và sau đó mất hết các ứng dụng liên quan đến google.minhf mới lên trình duyệt cài lại ch play và dịch vụ google play nhưng cài xong cũng đăng nhập nhưng lỗi khác xuất hiện. Y lỗi trên và cả lỗi com.google.android.gapps đã dừng và bây giờ cũng không vào được ch play không tải gì được cả. Ai đó giúp mình với...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.862028,
+         "id": "997766",
+         "field_search": "question",
+         "question": "mình mới mua Iphone 7 plus lúc đầu đăng nhập tk apple vào không sao hết nhưng sau khi mình khỏi động lại thì máy yêu cầu nhập tk apple. mình nhập đúng nhưng vẫn không vào được trên ip7 ( đã đăng nhập thành công trên máy tính và ip khác) ad cho hỏi có cách nào khắc phục không ạ . ID apple đúng máy rồi nhưng sao không vào được , có phải ip yêu cầu @icloud.com hay không , do mình xài ID apple là @gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.767946,
+         "id": "868104",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao em lên zako và đã cài hiển thị thông báo , trả lời nhanh tin nhân mà khi có tin nhắn lại k có. Giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.753456,
+         "id": "1138904",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao zalo em lại thông báo có người khác đăng nhập trên thiết bị khác và bị đổi tên vậy ạ? Đổi tên em thành tên người đó và khi e đăng nhập lại thì bị mất hết dữ liệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.750412,
+         "id": "1159095",
+         "field_search": "question",
+         "question": "Tại sao Zalo lại hiển thị đối phương đang vừa mới truy trập trong khi họ đang hoạt động mà cứ hiển thị hoạt động 3 hoặc 4 giờ trước trong khi họ đang hoạt động và nhắn tin với mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.744003,
+         "id": "1017990",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mình xóa tài khoản zalo thì những tin nhắn mà mình đã nhắn cho mọi người từ trước đó nó có còn lưu trong zalo trên thiết bị của họ hay k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.655014,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.625416,
+         "id": "821018",
+         "field_search": "question",
+         "question": "Em đang dùng điện thọai Asus zenphone c.sau khi mượn một điện thoại khác để truy cập zalo thì sao khi em truy cập zalo bằng địên thọai của mình thì có thông báo hết phiên đăng nhập và yêu cầu đăng nhập lại. Sau khi đăng nhập thì tin nhắn của em bị xóa hết.vậy có cách nào để khôi phục lại tin nhắn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.593342,
+         "id": "835894",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi xíu. Tại sao khi mình nhắn tin bằng điện thoại cho bạn mình, thì nó lại hiện trên cả tin nhắn và zalo luôn. Ad giúp monhf với. Thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.529308,
+         "id": "1004556",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đã xoá bạn trên zalo, sau đó mình đổi tên tài khoản zalocủa mình, vậy người đó có tìm lại đuợc tài khoản zalo của mình ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.523403,
+         "id": "1153547",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi khi mình bật mạng lên thì zalo tự đăng nhập. mình thoát zalo rồi nhưng chạm vào ứng dụng vẫn còn. giúp mình đăng nhập zalo thủ công chứ khong mặc định với. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.496037,
+         "id": "1134331",
+         "field_search": "question",
+         "question": "Chào Admin cho mình hỏi 1 chút với ạhiện tại mình đã đăng ký Wechat thành công tuy nhiên lúc đăng nhập mình lại thấy báo:",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.378489,
+         "id": "769045",
+         "field_search": "question",
+         "question": " Ad ơi giúp mình tắt âm báo và rung khi có tin nhắn zalo trên iPhone 6s plus với! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.226091,
+         "id": "700409",
+         "field_search": "question",
+         "question": " Khi mình xoá tài khoản zalo vĩnh viễn thì những tin nhắn đã nhắn trên máy của bạn bè còn tồn tại không ? Cảm ơn bạn ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.18875,
+         "id": "937281",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 5 và ipad cùng chung 1 accounds , mỗi lần mình nhắn tin hay gọi điện thoại trên iphone nó đều hiển thị trên ipad . Mình muốn chặn tin nhắn hay cuộc gọi hiển thị trên ipad thì làm thế nào ad giúp mình với . Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.13884,
+         "id": "800977",
+         "field_search": "question",
+         "question": " Cho em hỏi gửi video mà đã tải trên youtube qua tin nhắn zalo như thế nào vậy...giúp e mvới... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.003069,
+         "id": "756020",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm thế nào để tắt tiếng tút khi gửi tin nhắn thành công trên iPhone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.8693,
+         "id": "862506",
+         "field_search": "question",
+         "question": "Hoàng Long- cho e hỏi, bạn e nó có share cho e 1 cái video ngắn trong tin nhắn riêng trên zalo, nhưng nó ko có trang wep nào hết, ấn zô là xem thôi, vậy để làm sao mới có thể tải và gửi cái video tương tự và gửi vào tin nhắn trên zalo...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.826603,
+         "id": "1165386",
+         "field_search": "question",
+         "question": "Cho mình hỏi sau khi mình bị mất fb thì tài khoản insta của mình cũng tự động bị out ra và k đăng nhập lại đc, mình có thử chuyển sang 1-2 tài khoản khác nhưng vẫn k thể đăng nhập đc và nó cứ hiển thị như màn hình dưới này. Cho mình hỏi đấy là lỗi gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.816576,
+         "id": "847435",
+         "field_search": "question",
+         "question": " Em múôn xóa tin nhắn trên zalo nhưng không đăng xuất ra thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.699593,
+         "id": "1161105",
+         "field_search": "question",
+         "question": "Mình xóa phần mềm Zalo trên điện thoại rồi cài đặt lại nhưng tin nhắn bị mất hết. Vậy cho mình hỏi những người nhận tin nhắn của mình có nhận đc tin nhắn mình gửi không ạ? (Kể cả trường hợp bạn đó chưa xem tin nhắn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.69081,
+         "id": "808954",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi, mình vừa sửa lại password của icloud trên email rồi nhưng khi quay trở lại icloud nhập mật mã thì máy hiển thị thông báo nhập mã sai, lúc này máy cử hiện thị thông báo icloud báo phải nhập mật mã hoài, mà mình đã sửa mật mã ok rùi và đăng nhập lại vẫn không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.58503,
+         "id": "768525",
+         "field_search": "question",
+         "question": "Ad giúp mình tắt âm thanh và chế độ rung khi có tin nhắn zalo trên iPhone 6S với (cuộc gọi và tin nhắn điện thoại vẩn bình thường nha)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.462572,
+         "id": "795422",
+         "field_search": "question",
+         "question": " Tại sao đăng nhập cùng lúc 1 tài khoản zalo trên 2 máy thì bị mất hết tin nhắn, giải thích giúp mình cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.245312,
+         "id": "944994",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi,mình đăng ảnh lên zalo có hình nhưng không like đc,cũng ko xóa đc là sao? Lại còn ghi ko đồng bộ vs máy chủ,mình đã cài đặt lại zalo+thử lại wifi nhưng từ qua đến giờ ko đc?? giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.14035,
+         "id": "923507",
+         "field_search": "question",
+         "question": "Giúp mình với,Khoảng tuần nay zalo trên Laptop của mình tiên tục bị tắt đột ngột, hiện khung báo như hình. Bấm tắt mở lại vẫn bị y chang khi nhận tin nhắn mới. Mình đã gỡ bỏ zalo nhiều lần, vào link download zalo mới nhất của tgdd cung cấp, nhưng rồi cũng bị lỗi y chang. Nhờ Ban quản trị chỉ giúp mình cách khắc phục nhé!Cảm ơn rất nhiều!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.111685,
+         "id": "874524",
+         "field_search": "question",
+         "question": "mình muốn hỏi khi mình đăng nhập zalo ở máy tính.mình đã ghi nhớ mật khẩu rồi.khi khởi động lại máy tính zalo nó có gửi tin nhắn về điện thoại để xác minh hay yêu câu gì không ?XIN CẢM ƠN ADMIN!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.10596,
+         "id": "1016975",
+         "field_search": "question",
+         "question": "Zalo của tôi gọi điện thoại, nhắn tin được nhưng không đăng ảnh và gửi được ảnh mặc dù tôi đã làm các thao tác như kiểm tra kết nối mạng, đăng suất nhập lại tài khoản zalo, vào ứng dụng xóa bộ nhớ, đăng nhập lại ảnh nhiều lần ,kiểm tra đồng hồ giờ nhưng vẫn không được. Xin hãy giúp tôi  !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.042154,
+         "id": "848001",
+         "field_search": "question",
+         "question": "Có người gửi tin nhắn zalo cho mình nhưng mình chưa kịp đọc thì người đó đã thu hồi vậy có cách nào đọc được tin nhắn đã thu hồi không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.026339,
+         "id": "1022519",
+         "field_search": "question",
+         "question": "Cho chị hỏi. Xóa zalo trên dt khi cài đặt lại mất hết hình và tin nhắn. Vạy có cách nào khôi phục lại bản gốc ko. Chị cảm ơn nh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.020514,
+         "id": "823294",
+         "field_search": "question",
+         "question": "Chào admin,Facebook của em sau khi deactive bị lỗi báo phiên đã hết hạn, em đã xóa app cài lại nhưng ko được. Đồng thời cũng ko đăng nhập được trên máy tính, giúp em vs ạ :( Em đang dùng app trên ip ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.00726,
+         "id": "813321",
+         "field_search": "question",
+         "question": "Tôi muốn đăng 01 clip hay 1 tin nhắn đến với mọi người trên zalo thì làm như thế nào ? Mong Công Ty chỉ giúp cho tôi. Xin chân thành cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.961647,
+         "id": "1003616",
+         "field_search": "question",
+         "question": "Sao máy j7 prim của e mới mua.e cài đặt nhấp nháy đèn led cho các cuộc gọi và tin nhắn trên sim đến thì có cháy đèn. Còn các thông báo  cho tin nhắn đến hay cuộc gọi  wa ứng dụng facebook. Zalo thì đèn led ko nhấp nháy vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.916039,
+         "id": "866426",
+         "field_search": "question",
+         "question": " LAPTOP CỦA MÌNH K HIỂN THỊ CÁC FILE WOR VÀ EXS GIỜ PHẢI LÀM SAO? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.778011,
+         "id": "863271",
+         "field_search": "question",
+         "question": "Xin chào!Tôi cài zallo trên máy tính hdh win 10,dù đã ghi nhớ đăng nhập nhưng mổi làn mở máy zalo đều đòi đăng nhập,xin chỉ cho cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.773901,
+         "id": "835005",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu mình và người kia đã từng kết bạn zalo, nay mình đã hủy kết bạn. Sau đó mình vẫn xem được ảnh, không xem được nhật ký của người đó dù không phải bạn bè zalo nữa. Nhưng hôm nay phần ảnh cũng chỉ còn là (0). Mình dùng zalo của đồng nghiệp tìm nick và xem cũng như vậy. Liệu mình có bị người đó chặn zalo? Hay là người đó đã xóa bỏ hoàn toàn ảnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.769829,
+         "id": "880850",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 sim viettel nhưng khi tải zalo về máy và đăng ký thì có thông báo hiển thị là đã có người sử dụng sđt đó để đk zalo ? cho mình hỏi có cách nào xóa tài khoản đó kô ? Mình lấy lại mật khẩu thì luôn nói đường truyền không ổn định??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.730501,
+         "id": "1133291",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi sau khi chặn 1 ng trên fb. Mình bỏ chặn nhưng nhắn tin message cho ng đó ko dc vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.67617,
+         "id": "801175",
+         "field_search": "question",
+         "question": " Tại sao mình đăng xuất zalo roi nhưng người khác nhắn tin tới vẫn nhận được tin nhắn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.662363,
+         "id": "833698",
+         "field_search": "question",
+         "question": "Tại sao em đăng nhập zalo trên máy tính mà màn hình cứ hiển thi không lấy được thông tin người dùng và bắt đóng ứng dụng zalo là làm sao ạ??? Tối hôm trước em vẫn đăng nhập được bình thường ạ... Rất mong được giải đáp...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.618866,
+         "id": "850131",
+         "field_search": "question",
+         "question": " Zalo của mình bị khóa tài khoản bây giờ mình đăng nhập lại được nhưng không nhận được tin nhắn thì phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.493587,
+         "id": "1142768",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi. M lỡ khôi phục tin nhắn cũ zalo trên đt nhưng quên ko sao lưu trc đó nên bị mất tin nhắn gần nhất. Nhưng trên máy tính thì vẫn còn. Vậy ad chỉ mình cách đồng bộ lại tin nhắn đó từ máy tính sang điện thoại đc ko? Tks ad nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.468708,
+         "id": "1160744",
+         "field_search": "question",
+         "question": "Mình không kết bạn với một người trên zalo và cũng không lưu số điện thoại của người đó. Nhưng trên nhật ký lại hiện hình ảnh của họ đăng. Cho mình hỏi tai sao như vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.437471,
+         "id": "1161711",
+         "field_search": "question",
+         "question": "Sau khi tôi xóa tài khoản zalo của mình . Bạn bè có còn xem lại được những tin nhắn chúng tôi đã trò chuyện ko . Cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.433222,
+         "id": "899775",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Máy tính và đt của m cug đăng nhập 1 tk zalo. Khi moi đnhap thi nhận đc tn tren máy tinh. M ddax luu mk khi ddnhap laanf sau Nhug khii tắt nguồn máy tinbs. Sau đó bật nguồn và zalo vẫn trong trạng thâi đnhap. Nhug k nhận dc tin khi m nhan tin bằng đt. Vậy có p mỗi lần mở máy tính lại p quet mã QR mô dc à. Hay ly do tại so giup m voi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.352776,
+         "id": "997548",
+         "field_search": "question",
+         "question": "Ad cho mk hỏi là sao mk dùng đt asus zenphone 3 max 5.5 đã được cập nhận lên adroid 7.1 mà lại ko có chúc năng chia đôi màn hình ạ, mk đã thử các cacsh trên mạng và đã ko thành công. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.170067,
+         "id": "1135050",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đăng nhập fb thì nó ghi :” đăng nhập không thành công rất tiếc , đã xảy ra lỗi không mong muốn vui lòng thử lại sau mã lỗi :1 “ vậy làm thế nào để khắc phục ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

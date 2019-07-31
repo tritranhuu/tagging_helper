@@ -1,0 +1,801 @@
+{
+   "id_query": "1014260",
+   "total": 29578,
+   "total_current": 100,
+   "max_score": 67.17547,
+   "origin_question": "Nếu muốn mua phụ kiện chính hãng của HTC thì mua ở đâu? Tại TTBH có bán không???",
+   "hits": [
+      {
+         "score": 28.074661,
+         "id": "1009173",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán phụ kiện là tai nghe apple iphone 5 chính hãng ko ạ? nếu có e muốn đặt một cái. e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.465202,
+         "id": "1139859",
+         "field_search": "question",
+         "question": " TGDD còn bán iphone 5 không ạ.muốn mua mà không biết ở đâu có hàng chính hãng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.997988,
+         "id": "1155140",
+         "field_search": "question",
+         "question": "Nếu giờ em muốn thay màn hình HTC 820 plus có phụ kiện để thay không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.83168,
+         "id": "1008417",
+         "field_search": "question",
+         "question": "Em vừa mất cục sạc Nokia 105. Giờ muốn mua lại sạc chính hãng khác thì mua ở đâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.701244,
+         "id": "1168145",
+         "field_search": "question",
+         "question": "Tôi muốn bán lại chiếc vivo y91c mới mua tại tgdd được hơn 1tháng. Nhưng không còn quà tặng phụ kiện thì giá là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.666414,
+         "id": "945241",
+         "field_search": "question",
+         "question": " cho mình hỏi mua pin Dell Vostro 3558 chính hãng ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.976976,
+         "id": "1134182",
+         "field_search": "question",
+         "question": "Em có máy j8 mua ơer tgdd tháng 82018 còn nguyên phụ kiện thì giờ em muốn bán thì được bn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.579912,
+         "id": "1011830",
+         "field_search": "question",
+         "question": "Iphone 5s của em mua hồi 142017, giờ còn full box, full phụ kiện đi kèm, em muốn bán lại thì được bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.49077,
+         "id": "997505",
+         "field_search": "question",
+         "question": "em muốn hỏi thế này 1/ nếu máy không mua của thegioididong và máy cũng là đời cũ thì có mua lại ko ạ 2/ nếu máy em mua bên thegioididong không có lỗi zì hết, nhưng mà em muốn bán lại được không ạ, máy vẫn còn bảo hành chính hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.2091,
+         "id": "1133401",
+         "field_search": "question",
+         "question": "Cho mình hỏi dây nghe Samsung J7 pro chính hãng có thể tìm mua được ở đâu và giá hiện tại là bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.117958,
+         "id": "837846",
+         "field_search": "question",
+         "question": " Cách nhận biết điện thoại iphone 6s chính hãng sản xuất Vì sao Pin ĐT iphone lại chóng hết, mua pin chính hãng ở đâu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.963942,
+         "id": "1023278",
+         "field_search": "question",
+         "question": "C ho em hỏi là sạc samsung a7(2016) của e bị hư dây cáp. Giờ em mua dây cáp thường ở TGDD xài thì có còn sạc nhanh ko hay là phải mua hàng chính hãng ạ và cho em hỏi là mua cáp sạc chính hãng thì mua ở đâu gần quận 8 TP. HCM ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.51403,
+         "id": "991012",
+         "field_search": "question",
+         "question": "Mình mua máy mới j7 prime lúc cuối tháng 9 còn đầy đủ phụ kiện ở tgdd, giờ mình muốn bán lại được tầm bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.35539,
+         "id": "789175",
+         "field_search": "question",
+         "question": " Pin của laptop Lenavo T61 dung lượng 4 cell bị chai hỏng.Ở hãng có bán không?Bán ở đâu?Tôi ở Hà Nội. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.920431,
+         "id": "795696",
+         "field_search": "question",
+         "question": "Mình có mua laptop samsung series 5 seri: hwbn91cc900022v, phụ kiện đầy đủ ở tgdd. Giờ mình muốn bán lại đổi laptop mới thì bên tgdd thì bên bạn hỗ trợ được bao nhiêu? Mình cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.879387,
+         "id": "1157946",
+         "field_search": "question",
+         "question": "Xin chào!Có thể cho mình hỏi chổ mua pin iphone SE chính hãng apple ở đâu?Giá cho 1 viên pin iphone SE chính hãng là bao nhiêu?Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.635067,
+         "id": "1008686",
+         "field_search": "question",
+         "question": "Mình muốn mua phụ kiện của Xiaomi k biết bên TGDĐ có trang web nào uy tính k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.389523,
+         "id": "810436",
+         "field_search": "question",
+         "question": "Mình cần mua lại phụ kiện iphone6.bạn nào mất đt k dùg ts phụ kiện nữa bán lại mình nhé.để lại sđt mìh sẽ lhệ.thanks ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.320864,
+         "id": "1140840",
+         "field_search": "question",
+         "question": "Admin cho hỏi bên mình có bán car iTunes không ạ, mình muốn mua mà không biết ở đâu bán hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.196426,
+         "id": "1000433",
+         "field_search": "question",
+         "question": "ad cho e hỏi,e muốn mua điện thoại HTC desire 628 thì ở đâu còn ạ,e muốn mua trả góp thì thủ tục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.135374,
+         "id": "1011284",
+         "field_search": "question",
+         "question": "E ở khu vực Thái Nguyên e muốn mua pin của laptop Lenovo B460 524G75G thì e có thể mua ở đâu ạ. Các cơ sở của minh có bán loại pin này k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.027594,
+         "id": "1134639",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi là mình muốn thay pin iphone X ở TTBH uỷ quyền của Apple 55 Bùi Thị Xuân, Q1, TPHCM thì có bảo đảm là pin chính hãng ko ạ? Pin đó có khác so với pin theo máy mới ko ạ ? em camon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.832747,
+         "id": "1018937",
+         "field_search": "question",
+         "question": "TGDD cho mình hỏi, mua Oppo F3 Plus có phụ kiện tai nghe đi kèm hộp ko? mình mới mua trả góp Oppo F3 Plus ở điện máy xanh chí linh, nhưng phụ kiện ko có tai nghe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.768087,
+         "id": "999441",
+         "field_search": "question",
+         "question": "ở TGDĐ có hỗ trợ đặt mua sạc samsung j7prime chính hãng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.750097,
+         "id": "770309",
+         "field_search": "question",
+         "question": " Tôi mua iphone 6plus ở thế giới di động quãng bình,bây giờ vì điều kiện nên muốn bán lại thì shop có thu hồi không ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.745392,
+         "id": "999720",
+         "field_search": "question",
+         "question": "bên mình có bán ốp lưng điện thoại Sony M2 k ạ, nếu có thì có thể mua ở đâu. Mình ở Ngã Tư Trôi  Hoài Đức  HN",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.65938,
+         "id": "1024326",
+         "field_search": "question",
+         "question": "Cho tôi hỏi là ví dụ: mobiistar lai zumbo s lite giá là 1.990.000. Là giá chính của máy. Khi mua vẫn thanh toán là 1.990.000 hay có thêm phí nào nữa ko. ( không kể mua thêm phụ kiện)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.64683,
+         "id": "758532",
+         "field_search": "question",
+         "question": " Mình muốn mua Apple Watch chính hãng từ TGDD. Khi nào TGDD mới bán Apple Watch vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.58543,
+         "id": "1155662",
+         "field_search": "question",
+         "question": "Mua điện thoại trả góp có được giảm phần trăm tiền phụ kiện kèm theo như mua bình thường k ạVí dụ e mua ssglx a7 là dc giảm 30 phần trăm phụ kiện là khoảng 7trV h mua trả góp có dc giảm tiền phụ kiện k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.380949,
+         "id": "1009743",
+         "field_search": "question",
+         "question": "Cho e hỏi e có mua một máy ip5s trả góp. E góp còn khoảng 4 tháng nữa là hết. Bây giờ e muốn bán lại còn phụ kiện đầy đủ? Vậy e có được bán không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.300207,
+         "id": "1020161",
+         "field_search": "question",
+         "question": "Xin hỏi mua Điện thoại Nokia 105 phụ kiện có tai nghe không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.278698,
+         "id": "770668",
+         "field_search": "question",
+         "question": "Mình bắt đầu tìm hiểu đến dòng iPad của Apple. Mình nghe mấy người nói là máy iPad và MAC thì mua ở đâu cũng được bảo hành chính hãng tại thegioididong?Cho mình hỏi là có phải không ạ? Và kiểu máy của Ipad không phải là VN/A nữa à ad. Hay là TH gì gì đấy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.22638,
+         "id": "1024487",
+         "field_search": "question",
+         "question": "Em mua sony z5 9.990.000 ở tgdd hồi 104 giờ muốn trả lại dc nhiêu vậy nguyên hộp phụ kiện ok k sước màn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.220976,
+         "id": "1002627",
+         "field_search": "question",
+         "question": "m mới mua cái Mobile chưa đủ 1thang phụ kiện còn đây đủ .gio m muốn bán lại thế giới dd còn nữa lại kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.203707,
+         "id": "1008550",
+         "field_search": "question",
+         "question": "ad cho em hỏi oppo f1s của em mua khoảng 11 tháng trước còn bảo hành phụ kiện tai nghe sạc đầy đủ h muốn bán hoặc đổi trả thì giá trị còn bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.120981,
+         "id": "999743",
+         "field_search": "question",
+         "question": "Bên mình có bán tai nghe của máy htc m10 evo k ạ? Và nếu có thì giá bn ạ? E ở Đà Nẵng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.066225,
+         "id": "759317",
+         "field_search": "question",
+         "question": " Ad cho em hỏi TGDD mình có còn bán iphone 5 không ạ, nếu không thì ad biết ở đâu bán không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.982935,
+         "id": "1019319",
+         "field_search": "question",
+         "question": "mua nokia X5 co tặng quà gì không vậy admin. và hiện tại ở mỹ tho cửa hàng ở đâu có bán máy này .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.95182,
+         "id": "1014777",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi. Mình mới mua huawei gr5 2017 được 1 tháng. Mình muốn bán lại cho của hàng thì được hoàn tiền bao nhiêu ℅ vậy. Máy mình để lại phụ kiện dùng cho con mate 8 nên chỉ có máy trần",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.864948,
+         "id": "1010155",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu điện thoại còn trong thời gian đổi trả, mà phụ kiện bị lỗi. Vậy nếu mình muốn trả lại thì có mất phí k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.857801,
+         "id": "863747",
+         "field_search": "question",
+         "question": " Dạ đay có phải iphone5s chính hãng mua tại tgdd ko ạ .    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.80589,
+         "id": "1156638",
+         "field_search": "question",
+         "question": "Có bán sạc galaxy s8 chính hãng không????????????????????????????????????????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.716187,
+         "id": "1015315",
+         "field_search": "question",
+         "question": "Cho em hỏi, thế giới di động có bán pin laptop không ạ. nếu không có, cho em hỏi e có thế mua pin toshiba ở đâu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.671137,
+         "id": "769775",
+         "field_search": "question",
+         "question": "Cho mình hỏi tgdđ đã có ốp lưng cho Zenfone selfie chưa. Hôm mình mua máy thì chưa có. Nhưng trên phụ kiện dế xinh họ bán quá trời rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.670712,
+         "id": "1149477",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có mua hàng được tặng phiếu mua hàng 1 triệu đồng. Cho mình hỏi mình mua Xiaomi Mi 8 thì khi mua phụ kiện bằng phiếu mua hàng mình có mua của iPhone được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.601446,
+         "id": "1014156",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là e mua điện thoại sony Xperia XA chỉ có 7 tháng thôi máy còn mới hông trầy xước z hết nếu e bán lại thì được bao nhiêu ạ. Đầy đủ phụ kiện ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.550694,
+         "id": "1002325",
+         "field_search": "question",
+         "question": "Em có mua máy Asus zenfone 3 max full hộp bên trong kèm đầu sạc adapter mà giờ đầu sạc bị hư thì chính sách bảo hành của hãng có bảo hành đầu sạc đó không ạ. Nếu không thì em mua đầu sạc của hãng khác thay thế vào thì có bị ảnh hưởng đến máy không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.509405,
+         "id": "1155115",
+         "field_search": "question",
+         "question": "Ip 6s plus của mình mua có số seri bắt đầu bằng chữ FGiá của nó là gần 10 tr Cho mình hỏi tại sao lại bán hàng tân trang với giá chính hãng Và chính sách đổi trả thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.45129,
+         "id": "1012266",
+         "field_search": "question",
+         "question": "Em có 1 laptop mang HĐH là Free DOS và em muốn mua windows 10 bản quyền thì TGDĐ có bán không và khi cài thì cài ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.449183,
+         "id": "1144184",
+         "field_search": "question",
+         "question": "Cho mình hỏi combo phụ kiện kèm theo vs galaxy A6 có áp dụng khi mua hàng trực tiếp tại hệ thống tgdđ không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.432024,
+         "id": "1018640",
+         "field_search": "question",
+         "question": "tgdđ có bán iphone 6s lock hay samsung galaxy 5s kh vậy . nếu vậy thì ở đâu mới bán",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.388874,
+         "id": "1133550",
+         "field_search": "question",
+         "question": "Mình muốn bán lại Samsung J5 Prime mua lại TGDD ngày 12/8/2018 còn đầy đủ phụ kiện trừ tai nghe, các chức năng đều ok thì giá tầm bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.20792,
+         "id": "1134588",
+         "field_search": "question",
+         "question": "máy tính mình là dell core i3 mà máy hiện tại rất chậm. nếu muốn cải thiện máy tốt hơn thì làm như thế nào có cần thay thế phụ kiện gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.186054,
+         "id": "1164148",
+         "field_search": "question",
+         "question": "Nếu thay pin chính hãng cho ip x thì có bị mất áp suất  mất chống nước của máy không  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.14811,
+         "id": "1016043",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua sim bùm đata thì có phải mua máy ở đây mới đủ kiều kiện mua sim không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.131895,
+         "id": "995247",
+         "field_search": "question",
+         "question": "Cho hỏi tgdd có bán cái nút phụ kiện hỗ trợ điều khiển game liên quân không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.120443,
+         "id": "997664",
+         "field_search": "question",
+         "question": "muốn mua bin mobiistar b242 thì mua ở đâu vậy ac ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.10238,
+         "id": "754909",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đang định mua cái này iPhone 5S 16GB, có bạn này bán với giá rẻ, hàng xách tay SingaporeiPhone 5s 16gb. Xách tay nguyên bản phụ kiện fullbox, máy mới 100% bảo hành 12 tháng- bao đổi trong 1 tháng đầu nếu lỗi do nhà sản xuấtGía chỉ còn 3,500,000vndVậy giờ mình phải kiểm tra thế nào mới biết được đây phải hàng chính hãng, hàng tốt không, phải hàng dựng hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.030146,
+         "id": "1014569",
+         "field_search": "question",
+         "question": "Chào shop. mình muốn mua 1 xiaomi redmi note 4. Nhưng mình nghe nói trong hộp mới sp này k có tai nghe. Vậy mình muốn hỏi giá bán hiện tại của bên bạn đã bao gồm gói phụ kiện tai nghe hay cường lực chưa vậy?? Mong sớm vó phản hồi ạ. Thanks. :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.867376,
+         "id": "1008989",
+         "field_search": "question",
+         "question": "Mình mua oopo A57 chưa Được Một tháng tại thegiodidong chi nhánh ở Bích động. Giờ nếu mình muốn bán Lại thì Được bao nhiêu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.808722,
+         "id": "794558",
+         "field_search": "question",
+         "question": " Cho em hỏi giờ mua iphone 5s có phụ kiện đi kèm ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.778925,
+         "id": "998385",
+         "field_search": "question",
+         "question": " Tôi muốn mua pin của philip s388 có ko vậy bao nhiêu một cục . Mua ở đâu  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.771399,
+         "id": "1154229",
+         "field_search": "question",
+         "question": "các anh chị ơi phụ kiện màn hình và mặt lưng ss a8 plus có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.617775,
+         "id": "1161043",
+         "field_search": "question",
+         "question": "shop TGDĐ có bán Pin Lenovo A6020a40 hàng chính hãng không? Tôi ở gần Siêu thị TGDĐ Phan Huy Ích.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.590254,
+         "id": "814528",
+         "field_search": "question",
+         "question": " Bao giờ mới bán ipad pro 9.7inch vậy cho xin bảng giá lun nhé bên thế giố di độbg có bán các phụ kiện của apple ko vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.555286,
+         "id": "995172",
+         "field_search": "question",
+         "question": "Làm sao biết thời gian bảo hành phụ kiện mình mua ở tgdđ còn nữa ko khi mình ko nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.480637,
+         "id": "1013806",
+         "field_search": "question",
+         "question": "Cho em hỏi TGDĐ có bán phụ kiện tai nghe cho điện thoại LeEco không ạ? Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.455353,
+         "id": "903269",
+         "field_search": "question",
+         "question": "Hi Admin,Mình có một số câu hỏi về Iphone 6plus, rất mong sự hỗ trợ từ phía TGDD.1. Mình có dãy ký tự kiểu máy: FGAJ2X/A. Vậy nguồn gốc của máy có dãy ký tự này là ở đâu?2. Mình mới mua Iphone 6plus, củ sạc là loại 3 chân. Mình muốn hỏi hàng chính hãng Apple thì củ sạc như thế nào? Sạc chính hãng Apple đối với Iphone 6plus, nếu sạc từ 20% pin đến 100% pin mất bao nhiêu lâu? (Trong điều kiện không sử dụng wifi, 3G? và trong điều kiện tắt nguồn?3. Trong 3 lần sạc đầu tiên có cần sạc liên tục 8-10 tiếng không? Và cách bảo quản pin thế nào là tối ưu nhất? (Thời gian giữa các lần sạc cách nhau bao lâu là hợp lý?Thanks & Regards!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.443161,
+         "id": "1011888",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi !! bên mình có bán sạc chính hãng của máy huawei P9 không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.37561,
+         "id": "1022270",
+         "field_search": "question",
+         "question": "mình xem lại rồi  đt của mình chỉ vỡ mặt kính v ở TGDĐ có phụ kiện thay thế k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.366863,
+         "id": "998645",
+         "field_search": "question",
+         "question": "5 thường vs giá bao nhiêu mình muốn mua bạn ạ.5 thường nó bao gồm những phụ kiện j",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.336508,
+         "id": "1021279",
+         "field_search": "question",
+         "question": "Em có mua cục sạc và dây sạc cho iphone ở tgdd, tgian đầu thì ok, mà gần đây khi sạc hay hiện thông báo \"phụ kiện không phù hợp\", đang sạc nhưng pin lại bị hụt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.325384,
+         "id": "779400",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em muốn kết nối laptop với tivi để hát karaoke thì cần mua những phụ kiện gì ạ?? Dàn karaoke nhà em đời hơi thấp thì có dùng được không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.306654,
+         "id": "751979",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có mua cây iPhone 6s hàng chính hãng luôn nhưng mình không có mua ở TGDD mà mình mua ở VTA hay FPTBên mình có nhận thu lại máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.28039,
+         "id": "1001079",
+         "field_search": "question",
+         "question": " em muốn mua loại điện thoại Molbell Nova S2, thì mua ở đâu là có hàng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.268509,
+         "id": "827601",
+         "field_search": "question",
+         "question": " Điện thoại ip5 của em bị phình pin rồi ad. Ở tgdd có bán pin iphone chính hãng ko ạ và giá cả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.250542,
+         "id": "1152692",
+         "field_search": "question",
+         "question": "alo, mình dg sài ip6 mới mua tại tgdd dc 1 năm, phụ kiện còn, mất hộp, mjh muốn đổi sang samsung s7 hay s8 thì tính sao. trả lời gửi về gmail phamluandxbp@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.247948,
+         "id": "909856",
+         "field_search": "question",
+         "question": " Xem giúp e máy này đc sx từ đâu và có phải chính hãng không ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.235798,
+         "id": "1020709",
+         "field_search": "question",
+         "question": "Tôi vừa mua chiếc tab a6 7\" của TDGĐ nhưng không phù hợp công việc, tôi muốn trả, hoặc đổi qua j7 thì chính sách của hãng như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.224236,
+         "id": "1140325",
+         "field_search": "question",
+         "question": "mua 7 plus mới chính hãng ở thế giới di động có phải hàng VNA k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.209686,
+         "id": "1139376",
+         "field_search": "question",
+         "question": " cho mình hoie shop có bán sạc iphone chính hãng không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.147558,
+         "id": "870275",
+         "field_search": "question",
+         "question": " Hiện tại bây giờ em muốn mua 1 con ip 5s.. 16g.. Màu trắng.. Hàng 99 thì nên mua ở đâu.. Thì tránh bị lừa hả ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.12807,
+         "id": "997617",
+         "field_search": "question",
+         "question": "Chính sách đổi trả bao lâu cho phụ kiện loa vi tính đã qua sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.077736,
+         "id": "1138441",
+         "field_search": "question",
+         "question": " cho hoi con đt realme c1 nếu mua trả gop thì làm thủ tuc tại đâu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.072811,
+         "id": "802041",
+         "field_search": "question",
+         "question": "Mình có mua macbook air 11\" 2015 tại cửa hàng.Hiện có nhu cầu bán đi.Không biết bên bạn thu lại như thế nào?Tình trạng máy như lúc trong hộp.Máy sạc tầm 20 lầnCòn đầy đủ phụ kiện + thời gian bảo hànhThân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.064829,
+         "id": "1019982",
+         "field_search": "question",
+         "question": "ALO Cho mình hỏi mình muốn bán samsung j7 pro mình mua không phải ở TGDD còn nguyên hộp, mua 2 tháng đã dán màn hình và kích hoat máy thì TGDD có mua không và nếu mua thì giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.021442,
+         "id": "1005338",
+         "field_search": "question",
+         "question": "iPhone 6s của tôi còn hạn bảo hành của TGDD nhưng đã từng mở máy ra cho người khác kiểm tra linh kiện bên trong thì còn được hưởng chính sách bảo hành chính hãng của TGDD không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.018963,
+         "id": "998062",
+         "field_search": "question",
+         "question": "Chào a mẹ em mới mua cho e 1 chiếc đt bây jo e muốn bán mà e hk bt mẹ e mua ở đâu mà bán đc hk a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.00187,
+         "id": "859452",
+         "field_search": "question",
+         "question": " ad ơi kiểm tra hộ e máy có phải chính hãng k với.e mua ở 143 thái hà  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.912436,
+         "id": "1000569",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình mua con laptop hãng Dell giá 11tr ở thegioididong đc 1 năm. giờ muốn bán lại có đc k.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.894718,
+         "id": "1133729",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi khi mua vivo y81 có phụ kiện tai nghe kg ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.893534,
+         "id": "1163571",
+         "field_search": "question",
+         "question": "bên bạn còn bán dòng nokia 1280 ko bạn ? bán ở đâu ? mình cần mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.860676,
+         "id": "1019966",
+         "field_search": "question",
+         "question": "Mình muốn đổi oppo f1s 2017 sang ip 6plus thì mình phải trả thêm bao nhiêu? Máy mình mới mua đc 4th còn đầy đủ phụ kiện và bảo hành.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.78184,
+         "id": "1017131",
+         "field_search": "question",
+         "question": "hỏi tôi muốn mua ddienj thoại thông minh panasonic P55 Max có màn hình 5.5 inch HD, kính cong 2.5D, pin 5.000mA, ở đâu, siêu thị mình có bán không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.776993,
+         "id": "1158461",
+         "field_search": "question",
+         "question": "cho em hỏi mình còn bán pin chính hãng của samsung j7 2016 không ạ? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.759966,
+         "id": "1163814",
+         "field_search": "question",
+         "question": "e mua máy nova 3i tại tgdd ngày 16-1 còn nguyên phụ kiện chưa tháo chưa dùng, máy chưa sửa mới tinh giờ e muốn đổi sang máy A50 thì bên mình hỗ trợ đổi trả ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.753183,
+         "id": "1143039",
+         "field_search": "question",
+         "question": "tôi muốn mua thẻ game garena  thì ở thế giới di động có bán không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.752855,
+         "id": "1162622",
+         "field_search": "question",
+         "question": "Xin chào,Mình có con Macbook Pro Mid 2015.Mình muốn bán để mua laptop mới tại thegioididong.Giá khoảng bao nhiêu nếu bán tại đây?Cám ơn,chung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.739483,
+         "id": "998451",
+         "field_search": "question",
+         "question": "Chào anh , chị . Em muốn mua 1 bộ sạc cho samsung j3 2016 . không biết phụ kiện này có hàng ở Tgdd 365 Phan Văn Hớn . Tân Thới Nhất , Q12 ko ạ . hoặc các cửa hàng ở gần khu vực đó cũng được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "761758",
+   "total": 31063,
+   "total_current": 100,
+   "max_score": 49.05735,
+   "origin_question": " Mình muốn khắc phục và lấy lại mật khẩu giới hạn của iPhone 6 được không ạ? ",
+   "hits": [
+      {
+         "score": 30.343262,
+         "id": "815516",
+         "field_search": "question",
+         "question": " Lấy lại mật khẩu giới hạn iPhone như thế nào có thể giúp tôi cách lấy lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.368437,
+         "id": "798555",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi em quên mật khẩu giới hạn trên iphone 5 thì làm thế nào thì lấy lại mật khẩu giới hạn được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.033583,
+         "id": "1155894",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu giới hạn ở iphone 7plus ios 10.3 thì làm sao để lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.899677,
+         "id": "802893",
+         "field_search": "question",
+         "question": " Mình bị quên mật khẩu giới hạn mà mình còn nhớ mật khẩu icloud thì mình có thể lấy lại mat khau gioi han được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.63555,
+         "id": "1161027",
+         "field_search": "question",
+         "question": "E muốn đặt lại toàn bộ iphone của mình nhưng e lại quên mật khẩu giới hạn và không có máy tính ! E phải làm thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.63094,
+         "id": "993677",
+         "field_search": "question",
+         "question": "Ip của em bị quên mật khẩu giới hạn giờ làm sao để lấy lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.97411,
+         "id": "792918",
+         "field_search": "question",
+         "question": "Em mất mật khẩu giới hạn nhưng vẩn còn nhớ tài khoản và mật khẩu icloud vậy em đem đt ra tgdd nhờ nhân viên kĩ thuật lấy lại giúp e được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.919807,
+         "id": "840623",
+         "field_search": "question",
+         "question": " m co con iphone 5s cài maatj khẩu giới hạn rồi bị quên mất giờ làm thế nào để lấy lại đk mật khẩu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.90093,
+         "id": "843666",
+         "field_search": "question",
+         "question": " Cho e hỏi. Cây iphone của e bị quên mật khẩu giới hạn nhưng e muốn bẻ để jailbreak được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.778563,
+         "id": "786609",
+         "field_search": "question",
+         "question": "Mình mua iPhone 4 cũ mà có mật khẩu giới hạn, mình không biết tài khoản iCloud, không biết mật khẩu giới hạn, phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.617853,
+         "id": "771328",
+         "field_search": "question",
+         "question": "anh ơi, e mới mua lại iPhone 4s, có tài khoản icloud. nhưng không lấy lại đc mật khẩu giới hạn, có cách nào lấy lại hoặc xóa đi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.60293,
+         "id": "793380",
+         "field_search": "question",
+         "question": "Mình mua lại iPhone cũ của người khác, nhưng hiện đã đăng nhập iCloud và Apple ID của mình rồi. Giờ chủ cũ của máy không nhớ mật khẩu giới hạn thì mình có cách nào để gỡ bỏ cái mật khẩu đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.468584,
+         "id": "754089",
+         "field_search": "question",
+         "question": " Em quên mật khẩu giới hạn cũa Iphone .Muốn xóa giới hạn thì làm sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.461842,
+         "id": "957532",
+         "field_search": "question",
+         "question": " Mấy a mấy chị cho e hỏi quên mật khẩu giới hạn của ip rui làm sao để lấy lại ạ..?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.00651,
+         "id": "761815",
+         "field_search": "question",
+         "question": " Mình có mua cái iPhone 5S cũ giờ bị dính mật khẩu giới hạn. Xin chỉ giúp mình cách xóa bỏ mật khẩu giới hạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.91517,
+         "id": "806661",
+         "field_search": "question",
+         "question": " Em không nhớ mật khẩu giới hạn iPhone 4 thì làm thế nào để khôi phục gốc ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.435757,
+         "id": "795602",
+         "field_search": "question",
+         "question": " Mật khẩu chạy chương trình iPhone 4 và khi mình quên mật khẩu của tài khoản ID mình phải làm gì mới lấy lại được. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.546316,
+         "id": "775234",
+         "field_search": "question",
+         "question": " Em bị mất mật khẩu giới hạn trên chiếc iPhone 5 e đang dùng làm sao lấy lại đc a chị chỉ cho e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.087002,
+         "id": "1137921",
+         "field_search": "question",
+         "question": "Mình quên mất mật khẩu giới hạn trên iphone không restore được bên kĩ thuật có hỗ trợ trường hợp này không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.03225,
+         "id": "1130966",
+         "field_search": "question",
+         "question": "Ad ơi, mình quên mật khẩu giới hạn thì ra TGDD kỹ thuật ở đó có cách nào để mình đặt lại được mật khẩu không. thanks a lot.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.89026,
+         "id": "766483",
+         "field_search": "question",
+         "question": " Restore có mất cả mật khẩu giới hạn không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.868992,
+         "id": "1022088",
+         "field_search": "question",
+         "question": "mìh quên mật khẩu giới hạn trên iphone 6s plus đã nhập sai 7 lần h mún lấy lại mk bằng cách nào ak tks mn nhìu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.754236,
+         "id": "881993",
+         "field_search": "question",
+         "question": " E muốn cài lại ipad mà qên mật khẩu giới hạn rồi phải làm sao ạ. Thegioididong có hỗ trợ sửa không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.58663,
+         "id": "825348",
+         "field_search": "question",
+         "question": " Cách lấy lại mật khẩu ID APPLE của iPhone 4S khi không đăng nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.417524,
+         "id": "824794",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi em mua máy lại của 1 anh n quên không hỏi mật khẩu icloud vs mật khẩu giới hạn. mà tài khoản icloud ở điện thoại của em đang bị đăng nhập bởi ng khác. làm cách nào để em có thể thay đổi tài khoản icloud và mật khẩu giới hạn ak? anh chị biết chỗ nào sửa được không ka? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.2692,
+         "id": "823834",
+         "field_search": "question",
+         "question": " Cho em hỏi là muốn tìm lại mật khẩu giới hạn thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.183228,
+         "id": "843496",
+         "field_search": "question",
+         "question": " Ad cho e hỏi iPhone của e không vào được wifi dù mật khẩu đúng luôn??? Có cách khắc phục không ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.131355,
+         "id": "951795",
+         "field_search": "question",
+         "question": "Nếu như mà iphone bị mất mật khẩu giới hạn thì là sao để reset nó lại vậy tgdd có nhận reset máy iphone 6 ko hay phải gửi hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.030651,
+         "id": "794521",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi quên mật khẩu giới hạn của APP iphone 4 kiểu máy: MC 603 LL .Phiên bản : 6.0.1 (10A523) làm sao để lấy hoặc xoá đây , cho mình biết nhé cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.985027,
+         "id": "829855",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng ip4s mà quyên mật khẩu h mình muốn cài lại máy nhưng ko nhớ mật khẩu liệu mònh cài lại bị trắng máy thì có thể sửa được không? Và muốn lấy lại mật khẩu thì làm thế nào? Không phải mật khẩu khoá màn hình đâu nhé!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.57808,
+         "id": "1159051",
+         "field_search": "question",
+         "question": "Tôi quên mật khẩu mở khóa và mật khẩu andrao của iPhone có chạy lại được phần mềm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.540451,
+         "id": "771505",
+         "field_search": "question",
+         "question": " Em quên mật khẩu giới hạn thì làm thế nào ạ? Mong được giúp đỡ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.477003,
+         "id": "820940",
+         "field_search": "question",
+         "question": " MÌNH bị mất mật khẩu và mã dự phòng của điện thoại galaxy A5 bjo muốn lấy lại kiểu j ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.421858,
+         "id": "974772",
+         "field_search": "question",
+         "question": " Bị mất mật khẩu giới hạn thì nên reset hay restore lại máy ạ? Và làm như thế có bị ảnh hưởng gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.17439,
+         "id": "1007950",
+         "field_search": "question",
+         "question": "E bị quên mật khẩu id giờ muốn lấy lại mật khẩu id sam sung a3 thế nào được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.115389,
+         "id": "1013948",
+         "field_search": "question",
+         "question": "AD cho mình hỏi IPhone 6 của mình bị mất mật khẩu giờ mình muốn chạy chương trình mất bao nhiêu tiền và thời gian bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.025482,
+         "id": "871656",
+         "field_search": "question",
+         "question": " Tôi quên mật khẩu icloud hướng dẫn tôi cách lấy lại mật khẩu của mình. Xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.985027,
+         "id": "1162603",
+         "field_search": "question",
+         "question": "hiện tại mình đang dùng điện thoại iphone xs max 64G . ( chính hãng ) do sơ suất nên đã quên mất MK giới hạn thời gian sự dụng ứng dụng . hiện tài không thế khôi phục lại cài đặt đc do quên mật khẩu giới hạn thời gian sử dụng ứng dụng . bên mình có cách nào khác phục chức năng này đc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.941492,
+         "id": "912403",
+         "field_search": "question",
+         "question": "Chào bạn. Mình không nhớ rõ mật khẩu id apple nên đăng nhập nhiều lần dẫn đến bị khoá tài khoản. Các bạn có các nào để giúp mình lấy lại tài khoản và mật khẩu không ạ,mình dùng iphone 6 plus, ios 10.1.1. Thaks bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.93652,
+         "id": "772505",
+         "field_search": "question",
+         "question": "Em muốn JailBreak iphone 4s của em nhưng bị vướng ở mật khẩu mã hóa bản sao lưu iphone. Em phải lấy mật khẩu đó như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.87565,
+         "id": "770292",
+         "field_search": "question",
+         "question": "  Em đang dùng iphone 5 nhưng quên mật khẩu icloud thì lấy lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.795017,
+         "id": "953070",
+         "field_search": "question",
+         "question": "Tôi bị người khác thay đổi lại mật khẩu tài khoản icloud vì vậy tôi đag muốn lấy lại mật khẩu , và trên tài khoản đây đang dùng bằng số điện thoại của tôi , tài khoản imail của tôi cũng không mở được vì tôi dùng chung mật khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.697021,
+         "id": "822343",
+         "field_search": "question",
+         "question": " Làm thế nào lấy lại được mật khẩu sao lưu iphone ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.663658,
+         "id": "803082",
+         "field_search": "question",
+         "question": " Mình xài ip5s mà minh quên mã giới hạn rồi thì có cach nào tìm lại đươc không, mình vẫn nhớ mật khẩu icloud ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.638226,
+         "id": "1162868",
+         "field_search": "question",
+         "question": "Làm thế nào để lấy lại mật khẩu hay còn khôi phục tài khoản iCloud của tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.628145,
+         "id": "903770",
+         "field_search": "question",
+         "question": "Tài khoản id apple của mình bị khóa giờ mình chỉ biết mật khẩu thôi mà không nhớ id và câu hỏi bảo mật thì có thể lấy lại được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.624512,
+         "id": "774293",
+         "field_search": "question",
+         "question": "Cho em hỏi em quên mật khẩu của iPad, nên em không thể tải một số phần mềm vể máy được, em có thể lấy mật khẩu lại được không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.618828,
+         "id": "742959",
+         "field_search": "question",
+         "question": "Em mua iPhone 4s ở TGDĐ 6 tháng rồi. Mà bây giờ em mới thấy cái mật khẩu giới hạn. Em thử mà kiểu gì cũng không được. Ad cho em biết là làm sao đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.579185,
+         "id": "775252",
+         "field_search": "question",
+         "question": " Em dùng iPhone 5 ios 9.2 bây giờ e quên mật khẩu giới hạn thì phải làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.571356,
+         "id": "743386",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình sài iphone 6. Lúc trước mình có backup iphone trong itune để ra ngoài màn hình laptop sau đó mình đã xóa cài dữ liệu backup trên màn hình laptop, giờ mình vào itune backup lại không được nữa, restore backup lại rồi, cũng không backup lại được luôn. Có cách nào chỉ mình backup lại được không, vì mình mất pass giới hạn mình cần backup iphone trước mới lấy lại được giới hạn được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.39616,
+         "id": "777071",
+         "field_search": "question",
+         "question": " Quên mật khẩu gmail tạo ở thế giới di động làm sao lấy lại được vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.010305,
+         "id": "804292",
+         "field_search": "question",
+         "question": " Mình quên mật khẩu line nênn đăng nhập không được.bạn giúp mình lấy lại mật khẩu đươc không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.85878,
+         "id": "743346",
+         "field_search": "question",
+         "question": " Tôi bị hack mất ID và mật khẩu Apple còn lại email cũ của tài khoản đó, tôi có thể lấy lại được tài khoản không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.792645,
+         "id": "870682",
+         "field_search": "question",
+         "question": " Máy iPhone của mình bị mất mật khẩu iCloud có làm cách nào để lấy lại. Hoặc thay thế linh kiện được ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.7706,
+         "id": "1021271",
+         "field_search": "question",
+         "question": "ad cho m hỏi, hôm trước m quên mật khẩu TK ID Apple và m đã vào địa chỉ iforgot.apple.com để lấy lại mật khẩu thì nhận được thông báo 14 ngày sau m mới khôi phục được tài khoản. nhưng giờ m đã nhớ ra Mk, m muốn hủy khôi phục tài khoản có được không ad? và hủy thì làm cách nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.722076,
+         "id": "1001222",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi samsung j7 prime của mình quên mật khẩu hình nhưng vẫn còn email làm sao lấy lại mật khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.719385,
+         "id": "974386",
+         "field_search": "question",
+         "question": " Quên mật khẩu giới hạn iphone4s thì mở bằng cách nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.542198,
+         "id": "1009100",
+         "field_search": "question",
+         "question": "Có thể giúp mình lấy lại mật khẩu icloud không. Mình làm theo hướng dẫn nhưng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.459202,
+         "id": "794768",
+         "field_search": "question",
+         "question": " Mình quên mật khẩu của iPhone 4S làm sau mình cài lại được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.453772,
+         "id": "1162006",
+         "field_search": "question",
+         "question": "Xài win10 cài mật khẩu mở máy mà bây giờ quên mật khẩu thì có cách nào khắc phục được k ạ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.451372,
+         "id": "1002975",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại xiaomi redmi note 4x của mình khi nhập sai vân tay nhiều là là nó bắt nhập lại mật khẩu, có cách nào khắc phục được không ạ, mong được giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.40632,
+         "id": "812590",
+         "field_search": "question",
+         "question": " Mình muốn tạo mật khẩu khóa màn hình iPhone 6, qtv chỉ mình nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.404003,
+         "id": "778912",
+         "field_search": "question",
+         "question": " Chào Ad, mình đang xài iPhone 5S nhưng không nhớ tên tài khoản ID mà chỉ nhớ mật khẩu thì có lấy được lại không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.348463,
+         "id": "1142633",
+         "field_search": "question",
+         "question": "Iphone của mình bị khoá icloud và không sử dụng được. Và tài khoản icloud mình cungz quên mật khẩu nên bị khoá. Trước mình mua máy tại TGDĐ, có thể khôi phục giúp mình đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.29006,
+         "id": "774457",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 6. Máy em có dùng tài khoản iCloud và mật khẩu mở máy, nhưng em lại không bật 3g. Em có đi làm lại sim rồi. Em có bật tìm ip rôi, giờ em làm sao để có thể lấy lại được máy mình không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.245588,
+         "id": "743622",
+         "field_search": "question",
+         "question": " Chào bạn. Mình đàng iPhone 6 Plus mà quên mật khẩu và mail ko còn nhớ gì nữa. Giờ làm cách nào tạo lại ID được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.195166,
+         "id": "1134621",
+         "field_search": "question",
+         "question": "Cách khắc phục lỗi quên mật khẩu oppo f3,bên cửa hàng có chạy chương khôi phục mật khẩu không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.159006,
+         "id": "1137290",
+         "field_search": "question",
+         "question": "Tôi quyên mất mật khẩu email trên facebook làm cách nào để lấy lại được mật khẩu đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.105438,
+         "id": "1154673",
+         "field_search": "question",
+         "question": "Quên mật khẩu dự phòng Samsung Note 4 Có cách nào lấy lại mật khẩu dự phòng của chiếc smartphone này không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.063908,
+         "id": "775255",
+         "field_search": "question",
+         "question": " Cho e hỏi là e dùng iPhone 5 iOS 9.2 bây giờ e quên mật khẩu giới hạn thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.978504,
+         "id": "915786",
+         "field_search": "question",
+         "question": "Mình quên tài khoản icloud nhưng nhớ mật khẩu câu hỏi bí mật và email có thể hỗ trợ lấy lại tài khoản icloud được không ? Hỗ trợ mình sớm nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.94486,
+         "id": "845524",
+         "field_search": "question",
+         "question": " Mất mật khẩu tài khoản google của iPhone thì phải làm như thế nào để lấy lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.783072,
+         "id": "1160040",
+         "field_search": "question",
+         "question": "Chào Add, Mình đang thực hiện lấy lại mật khẩu Apple ID theo hướng dẫn của Add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.755299,
+         "id": "1137060",
+         "field_search": "question",
+         "question": "tại sao cứ 1 tuần fb lại báo phiên bản hêt hạn, rồi phải tạo mật khẩu mới không trùng với những mật khẩu cũ, quá bất tiện và không thể nhớ nỗi những mật khẩu mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.708893,
+         "id": "999139",
+         "field_search": "question",
+         "question": " Cách khắc phục mạng Wifi yếu của iPhone 6 Plus, làm sao để phục hồi lại ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.63625,
+         "id": "1160104",
+         "field_search": "question",
+         "question": "Xin chào! Làm ơn cho mình hỏi. Mình có mua điện thoại Nokia CE0168 của thế giới di động. Nhưng giờ mình bị quên mật khẩu bảo vệ. Không biết khắc phục như thế nào. Cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.6279,
+         "id": "760371",
+         "field_search": "question",
+         "question": " Mình không muốn dùng mật khẩu để mở iphone thì cài lại kiểu gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.600002,
+         "id": "1139821",
+         "field_search": "question",
+         "question": "facebook của e e quên mật khẩu mà số điện thoại xác minh thì số đó e bị mất, gmail thì em dùng yahoo mà k nhớ mật khẩu nên k lấy lại được. bây giờ làm sao để lấy lại mk ạ??? giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.525593,
+         "id": "1011056",
+         "field_search": "question",
+         "question": "có lấy lại mật khẩu iphone bằng tài khỏa iclou k ag",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.522804,
+         "id": "806598",
+         "field_search": "question",
+         "question": " Làm sao để xoá mật khẩu giới hạn vì mình đã làm mất ai giúp đỡ với máy iphone4s iOS 9.3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.475788,
+         "id": "930848",
+         "field_search": "question",
+         "question": " E dùng iphone 4 giờ e quên mật khẩu nhờ ad giúp e lấy lại ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.473278,
+         "id": "904198",
+         "field_search": "question",
+         "question": "Minh đang dùng iphone. Có iCloud nhưng quên mật khẩu. Ra hệ thống thế giới để nhờ làm thì lấy lại dc ko? Máy vẫn dùng bình thường nhưng ko nhớ mật khẩu icloud?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.387136,
+         "id": "745255",
+         "field_search": "question",
+         "question": " em quên ID và email của icloud nhưng nhớ mật khẩu làm thế nào để lấy lại ID  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.37109,
+         "id": "760834",
+         "field_search": "question",
+         "question": "Xin lỗi làm ơn cho em hỏi một chút ạ. Em có dùng 1 máy iPhone 6 plus. Nhưng do bạn em nghịch nên giờ em mất mật khẩu khoá máy, em lại không cài chế độ mở vân tay. Mà hiện tại em lại không nhớ tên cũng như mật khẩu iCloud. Làm ơn cho em hỏi có cách nào khắc phục lỗi trên không ạ? Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.324139,
+         "id": "969058",
+         "field_search": "question",
+         "question": " MÌNH QUÊN MẬT KHẨU ZALO NHƯNG SỐ ĐIỆN THOẠI ĐĂNG KÍ KHÔNG PHẢI SỐ MÌNH LÀM SAO LẤY LẠI Zalo được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.246578,
+         "id": "811618",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu icloud muốn lấy lại bằng email nhưngKhi vào email nó lại để không thể nhận thưCòn câu hỏi bảo mật thì không nhớ ạMấy anh chị giúp minh với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.188812,
+         "id": "806589",
+         "field_search": "question",
+         "question": " Mình xài iphone4s nhưng đã cập nhật tới iOS 9.3 rồi mà mình mất mật khẩu giới hạn giờ phải làm sao?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.187607,
+         "id": "1162036",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone 6 của mình mua cũ chủ máy quên mật khẩu icould giờ mik muốn đăng xuất ra thì phỉa làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.174158,
+         "id": "1168151",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu ID Apple thì phải làm sao ạ Điện Iphone 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.153646,
+         "id": "1161542",
+         "field_search": "question",
+         "question": "Cho mình hỏi có thể khắc phục tình trạng không kích hoạt được máy chủ trên iphone 6 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.117714,
+         "id": "1021607",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu ipad thì làm sao để lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.092617,
+         "id": "1135436",
+         "field_search": "question",
+         "question": "Quên mật khẩu ẩn trò chuyện của zalo Lấy lại bằng cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.063463,
+         "id": "1009974",
+         "field_search": "question",
+         "question": "Em đang sài điện thoại oppo a57 nhưng quên mật khẩu muốn khôi phục cai đặt gốc nhưng bắt nhập Mat khẩu có Cách nào khắc phục không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.053352,
+         "id": "794627",
+         "field_search": "question",
+         "question": "Qtv cho tôi hỏi. Tôi có mua 1 ipad mini 2 và nhờ nhân viên tạo dùm 1 tài khoản icloud. Giờ tôi đã quên mật khẩu và câu hỏi bảo mật. Tôi muốn lấy lại mật khẩu thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.98959,
+         "id": "862335",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em bị mất mk giới hạn mà em vào 11 lần không được có cách nào lấy lại mã giới hạn mà k cần dùng tới máy tính k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.899874,
+         "id": "1166468",
+         "field_search": "question",
+         "question": "Nic facebook của tôi tự nhiên báo phiên bản hết hạn .đa đăng nhập lại đúng mật khẩu vẫn không đươc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.890894,
+         "id": "1023764",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu vẽ hình oppo f3 , nhưng vẫn mở băng vân tay được. Cho mình hỏi làm sao để lấy lại mật khẩu vẽ hình hoặc thay đổi mật khẩu vẽ hình.cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.889864,
+         "id": "843269",
+         "field_search": "question",
+         "question": " Tại sao zalo mình không ai biết mật khẩu mà lại hiển thị thông báo phiên bản đã hết hạn ạ? Làm mình hoang mang quá. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.855083,
+         "id": "849474",
+         "field_search": "question",
+         "question": " em bị hỏng sim muốn lấy lại mật khẩu zalo em phải làm thế nào?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

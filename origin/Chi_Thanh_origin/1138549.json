@@ -1,0 +1,801 @@
+{
+   "id_query": "1138549",
+   "total": 33652,
+   "total_current": 100,
+   "max_score": 107.11447,
+   "origin_question": "Anh ơi em muốn hỏi, điện thoại của em là con oppo f7 mua hồi 30/4 đến giờ  bấm không ăn các phím đa nhiệm vậy anh , vậy em có đem máy đến tgdd không anh ?",
+   "hits": [
+      {
+         "score": 37.806942,
+         "id": "986716",
+         "field_search": "question",
+         "question": "anh ơi em cần mua cái điện thoại này có không vậy anh ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.326927,
+         "id": "778872",
+         "field_search": "question",
+         "question": " Anh ơi điện thoại em iphone 4 tự nhiên bị mất FIWI giờ sủa là bao nhiêu tiền vậy anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.424156,
+         "id": "998457",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi với ạ. Dòng máy em là oppo A37,máy em mới mua được gần 1 tháng thôi ạ. Mà sao có lúc máy bị đơ đơ ý ạ. Em không hiểu sao, không biết tại máy như vậy hay em đã làm gì ạ??Mong phản hồi của các anh chị ạ.Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.370003,
+         "id": "1143117",
+         "field_search": "question",
+         "question": "Xin chào, Cho mình hỏi giờ điện thoại android của mình bị hư các phím hone, trở lại, đa nhiệm vậy có ứng dụng nào hiện các phím ảo đó trên màn hình không ạ?Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.59552,
+         "id": "839348",
+         "field_search": "question",
+         "question": "Chào các anh chị em có 1 con Laptop hiệu dell , em nghe nhìu khuyên của mọi người là hãng laptop hiện nay có thể vừa để pin vừa cắm nguồn điện để xài dc và sạc đến khi đầy r để dây cắm luôn , vậy có được không ? các anh chị tư vấn cho em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.310665,
+         "id": "810260",
+         "field_search": "question",
+         "question": "Chào anh!Laptop của em có lỗi 1 tí về window,e có thể đem lên anh cài đặt cho e được không ạ?có tính phí không?vì máy em bảo hành đến 2017!chào anh,chị!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.721012,
+         "id": "757643",
+         "field_search": "question",
+         "question": "Anh chị ơi em có mua điện thoại iphone 6s bên hàn quốc chính gốc không phải phiên bản quốc tế  vậy cho em hỏi đem về việt nam có sài được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.622585,
+         "id": "758221",
+         "field_search": "question",
+         "question": " Các anh cho em hỏi DELL 3443 có hỗ trợ đèn bàn phím không vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.139416,
+         "id": "747857",
+         "field_search": "question",
+         "question": "Qtv ơi em đang dùng điện thoại iPhone 5 . Anh chị cho em hỏi hôm nay em đang lướt web thì máy báo như này  vậy điện thoại của em có bị làm sao không anh chị tư vẫn giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.07856,
+         "id": "990233",
+         "field_search": "question",
+         "question": " Anh ơi Điện thoại của em Bị hiện Chữ iTunes là sao anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.942436,
+         "id": "1134675",
+         "field_search": "question",
+         "question": "Chào Anh/chị..hiện tại em muốn mua điện thoại giá từ 6 triệu đến 8 triệu,mà em không biết nên mua loại nào xài cho tốt em mong anh/chị tư vấn giúp em với ạ..em cám ơn anh/chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.85122,
+         "id": "1015052",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi: ladp em bị hư bây giờ em đem ra TGDD sửa, và muốn mượn láp của TGDD dùng trong thời gian sửa có được không ạ, nếu được thì có tính phí gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.649958,
+         "id": "899755",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trước em mua máy ở Điện Máy Xanh ở dưới quê rồi em nhờ người ta cài office giùm em, nhưng giờ em lên TPHCM mới biết cái đó là wps nên thiếu nhiều chức năng của power point lắm. Bây giờ em đem ra TGDD để cài lại office 2010 được không? Vậy có tính phí hay gì không anh chị? Anh chị giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.504436,
+         "id": "759196",
+         "field_search": "question",
+         "question": "Admin ơi con em nghịch máy điện thoại iPhone 4 của em giờ bị khóa, máy bắt nhập mật khẩu iTunes, vậy máy có iCloud không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.152931,
+         "id": "997266",
+         "field_search": "question",
+         "question": "chào anh chị, em có con HP 4530S em muốn bán máy này để mua lại máy khác thì có được không ạ ( máy em i3, 256G SSD, Ram 4G, võ nhôm, pin rời nha anh chị) mong phản hồi từ anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.085394,
+         "id": "1007132",
+         "field_search": "question",
+         "question": "Em dùng oppo a37 thời gian này điện thoại của em có lúc nhập không ra dấu... Tại sao vậy anh chị??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.054739,
+         "id": "1010326",
+         "field_search": "question",
+         "question": "mà cho em hỏi các anh chị ạ !! em muốn mua trả góp điện thoại giá tầm từ 3 triệu đến 7 triệu /Ngoài cần những điều kiện trên 20 tuổi ,thì cóa cần đến nghề nghiệp trình độ gì không..em xin cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.033136,
+         "id": "1153250",
+         "field_search": "question",
+         "question": "Điện thoại oppo f7 của em mua được tầm gần 4 tháng , sạc với dây nghe hộp còn đầy đủ nếu bây giờ bán được bao nhiêu ạ ? Và giữa oppo f7 và ip6plus 64gb thì nên xài nào ạ , mong được anh ( chị ) giải đáp giúp em ạ , em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.953197,
+         "id": "806918",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi để mở mật khẩu điện thoại UMI Rome làm sao vậy anh em lỡ quên rồi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.885464,
+         "id": "815091",
+         "field_search": "question",
+         "question": " Anh chị QTV ơi cho em hỏi iphone 4 của em đang chạy ios 7.1.2 bây giờ muốn nâng cấp lên ios 8 làm sao anh chi   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.867125,
+         "id": "1020478",
+         "field_search": "question",
+         "question": "Anh chị cho em hoi oppo neo9 FW mới ra hay ra năm 2016 vậy  ak, giá nó bao nhiêu với lại khi em mua có thể nhớ không ak. Em có oppo r2001 em mua 2015 do bị hư main mà bên oppo báo sửa  em ko thay, cho em hỏi bên Anh chị có mua lại máy củ ko ak, với pin em mua hồi thang 6 2017 em muốn bán lại ko biết bên ANh Chị có thể mua lại không ak Em xin cảm ơn ANh Chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.866528,
+         "id": "882791",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi tại sao em cắm bàn phím vào laptop thì không bật được đèn vậy anh. Bàn phím của em mua chỗ uy tín nên chắc không hư. Em xem mấy clip trên mạng vẫn thấy bàn phím hãng em bật đèn bình thường khi cắm vào laptop. Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.792015,
+         "id": "1008350",
+         "field_search": "question",
+         "question": "Em chào Anh/Chị bên tgdd ạ. Em muốn hỏi là máy em còn bảo hành 4 tháng giờ bị đen màn hình cảm ứng vân ok. vậy có được bảo hành k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.74095,
+         "id": "743657",
+         "field_search": "question",
+         "question": "Anh chị qtv ơi. cho em hỏi, điện thoại iPhone của e. khi check imei thì hiện dòng : Check SIM lock mà máy nhận cả sim viettel với sim vinaphone . vậy iPhone của em là bản quốc tế phải không anh nhị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.641666,
+         "id": "820034",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi. Máy tính cài mật khẩu. Mà bây giờ quên mật khẩu rồi. không đăng nhập được. Vậy có sửa được không anh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.611,
+         "id": "1011524",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Điện thoại em là oppo a37. Mấy hôm nay em có quay video và em vô album để mở xem lại. Khi em nhấn vào xem video thì không lên video mà lại lên hình. Anh chị cho em hỏi máy em bị gì vậy ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.575212,
+         "id": "1147321",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi e xài oppo f9 sạc vooc mà e để quên ở trên tp vậy sạc cục sạc khác có ảnh hưởng gì đến máy k a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.380934,
+         "id": "805672",
+         "field_search": "question",
+         "question": "Anh ơi cho hỏi May laptop của em loại dell ở nhà không vào được wifi nhưng đến công ty vẫn vào wifi bình thường. Vậy em cần cài đặt thế nào để kết nối wifi ở nhà ạ ?. Thanks Anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.294693,
+         "id": "993994",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi windowR rồi nhập temp là gì vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.29174,
+         "id": "1161571",
+         "field_search": "question",
+         "question": "Anh ơi tư vẫn cho em !! em phân vân quá! Anh tư vẫn cho em mấy con xiaomi GIÁ từ 2 triệu Đến 2 triệu 300 đồng! Nhu cầu của em là chơi game Pubg mobile và pin trâu ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.29104,
+         "id": "1139659",
+         "field_search": "question",
+         "question": "Anh ơi Cho em hỏi máy em oppo f1s lúc trước e nâng cấp lên Android 6.0 giờ em muốn ve lại Android 5.1 phải làm sao anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.286943,
+         "id": "1004303",
+         "field_search": "question",
+         "question": "Em mua j7 prime hơn 1 tháng . Mấy hôm nay không hiểu sao em bấm phím nguồn thì không khóa màn hình, lại hiển thị 4 mục, giống hệt khi giữ phím nguồn vài giây. Mong được phản hồi từ anh chị !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.250818,
+         "id": "825388",
+         "field_search": "question",
+         "question": " Máy em cài Facebook bị báo lỗi Không thể cài đặt facebook mã lỗi 104 là sao vậy các anh các chú ơi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.895538,
+         "id": "995189",
+         "field_search": "question",
+         "question": "anh chị ơi cho em hỏi. em mua may mobistar zumbo mới được 7 tháng cũng bên a chị luôn giờ em muốn đổi sang con mobistar prime x1 thì có được không và nếu được thì các thêm bao nhiêu. mong anh chị trả lời cho em sớm nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.709047,
+         "id": "1154911",
+         "field_search": "question",
+         "question": "anh ơi anh có thể giới thiệu những điện thoại có phân khúc dưới 4 triệu mà có chống nước không anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.643293,
+         "id": "830599",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, máy tính của em cấu hình celeron, ram 2g. Vậy có sử dụng win xp đc không. Lần trước em có ghost mà không được, em nghe nói là phải nạp MBR gì đó.Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.640505,
+         "id": "1006639",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi là nếu điện thoại em bị mất em muốn nhờ thế giới di động kiếm giùm em được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.638601,
+         "id": "747145",
+         "field_search": "question",
+         "question": " Phím back và phím đa nhiệm samsung j7 có sáng không vậy quản trị viên? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.535545,
+         "id": "1166560",
+         "field_search": "question",
+         "question": "ad cho em hỏi là điện thoại xiaomi redmi note 5 của em đang sử dụng tự nhiên bị liệt cảm ứng, bây giờ em không thể xem được số imei với điện thoại này là do em mua lại của người khác bây giờ không có số điện thoại của họ, nhưng lúc mua em có tra bảo hành bằng số imei của điện thoại, thấy còn bảo hành đến tháng 9/2019. Bây giờ em đem đi bảo hành làm sao ạ.Mong ad hồi đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.52614,
+         "id": "1008100",
+         "field_search": "question",
+         "question": "Chào TGDD : em chuẩn bị mua điện thoại bên cửa hàng. vậy nếu em chọn đặt hàng trước trên website của TGDD thì em có được giảm 40% khi mua các phụ kiện khác không ạ? và em đặt hàng trên website em có thể đến cửa Hàng để kiểm tra lại điện thoại . hay là bên của Hàng giao qua bên em rồi em mới kiểm tra. em muốn đến của Hàng kiểm tra ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.49869,
+         "id": "1163397",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi em muốn mua điện thoại samsung tầm 3 triệu trở lại thì em nên mua điện thoại nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.467003,
+         "id": "780939",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mua laptop ở tgdd ,máy em win8,mà bàn phím cách bấm khó quá ,em đem lại tgdd làm lại được không ạ.có mất phí không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.410744,
+         "id": "815830",
+         "field_search": "question",
+         "question": "Anh ơi sao em dùng 5s mà sao máy chạy mạng cứ nóng lên vậy máy bị làm sao không bây giờ không vào của hàng của ap đẻ mua được nữa em mới mua dc 3 tháng bây giờ em muốn đổi máy được không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.397335,
+         "id": "1141369",
+         "field_search": "question",
+         "question": "Alo anh chị cho em hỏi .các của hàng tgdd có bán điện thoại ulefon power 5 ko ạ .em đang cần mua loại điện thoại này .pin 13 000 ý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.374239,
+         "id": "778040",
+         "field_search": "question",
+         "question": "Các anh ơi cho em hỏi máy iPhone của em vào phần cài đặt chúng ấn vào cập nhật phần mềm sao nó cứ ghi là đang kiểm tra cập nhật mãi chả ra bản cập nhật nào là sao các anh máy em iPhone 4 dùng iOS 6.1.3 muốn lên iOS 7?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.329418,
+         "id": "1164565",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại trả góp thì cần giấy tờ gì vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.309364,
+         "id": "1147254",
+         "field_search": "question",
+         "question": "Anh ơi, họ quá em có mua máy Oppo a3s về máy chơi game thì nóng lắm tạo thư mục thì các ứng dụng trong thư mục có khi vào được khi lại hông được. Em muốn đem ra bảo hành thì cũng đổi lại cái a3s hay em muốn đổi cái kháv cũng được hả anh ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.29375,
+         "id": "1010662",
+         "field_search": "question",
+         "question": "Em vừa cập nhật android 6.0 cho máy Oppo f1s, em thấy mát chạy tốn nhiều ram hơn lúc còn ở android 5.1. Anh( chị) cho em hỏi là như vậy điện thoại của em có phải vị virus không và có cách nào khắc phục không ạ. Em cảm ơn và mong sớm nhận được hồi đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.274284,
+         "id": "1136101",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi hôm vừa rồi em có mua Oppo f9ko bên tgdd Lê văn việt ngày 2.12 ,ko bit là có phải bên trung tâm đã dán sẵn miếng dán chống trầy xước cho điện thoại luôn  ko vậy ak . Em cảm ơn Anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.21912,
+         "id": "778762",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi số IMEI này của máy iPhone 5S có phải là hàng chính hãng không anh nhé? 358769057777631 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.210571,
+         "id": "1007679",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi ben mình có pin điện thoại sky không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.19716,
+         "id": "763969",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em mới mua iPhone 5s bản 16GB gold máy quốc tế bản Mỹ mà sao em lắp sim gì cũng toàn 3 4 vạch rất ít khi đầy sóng là do sao vậy ạ, nó có ảnh hưởng gì đến sóng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.165901,
+         "id": "739516",
+         "field_search": "question",
+         "question": " Anh ơi..!em mua con iPhone 4 mà đã cài sẵn icloud. Giờ cứ bắt nhập mk icloud mà em không biết thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.161627,
+         "id": "961419",
+         "field_search": "question",
+         "question": " Anh ơi, em đăng kí mua vật phẩm trên game mà nó bị như vậy giờ làm sao anh ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.017885,
+         "id": "989828",
+         "field_search": "question",
+         "question": "em muốn mua 1 chiếc điện thoại giá từ 3 đến 5 triệu chơi game tốt pin khỏe với màn hình to thì anh chị có thể tư vấn cho em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.987698,
+         "id": "1023306",
+         "field_search": "question",
+         "question": "Anh ơi em muốn hạ ios11 xuốg 10.3.3 nhưng em ko có laptop em lại tgdd hạ đc ko anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.959848,
+         "id": "1010803",
+         "field_search": "question",
+         "question": "Anh cho em hỏi là em đang dùng máy Sky a870 ạ .Máy em có mật khẩu mà giờ bị mất bàn phím ảo và không thể dùng giọng nói được vậy bây giờ em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.92603,
+         "id": "1147894",
+         "field_search": "question",
+         "question": "Em mới mua oppo a3s loại 32gb mà sao em thấy chơi nó lag hơn con a3s 16gb vậy anh. ( Game bị lag , nhập bàn phím thì cực chậm)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.86931,
+         "id": "1168287",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi điện thoại vivo y91c không hỗ trợ tai nghe giờ em mua về xong gắn zo được ko  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.803438,
+         "id": "1012082",
+         "field_search": "question",
+         "question": "anh ơi em muốn mua sony xa1 ultra  trả góp ạ anh có thể tư vân em dc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.681635,
+         "id": "1022491",
+         "field_search": "question",
+         "question": " anh cho em hỏi em mua đt oppo a39 5 tháng rồi h em muốn bán lại thế giới đích động có được không anh  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.644344,
+         "id": "904419",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi chút. e quên mất ID của icloud trên iphone 5s giờ không kích hoạt được điện thoại thì phải làm sao ạ? xin các anh chị chỉ giúp cho. em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.629583,
+         "id": "753011",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi tgdd có dich vụ sửa chữa máy tính không  ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.624153,
+         "id": "1018470",
+         "field_search": "question",
+         "question": "chà anh chị. hôm trước em có hỏi vấn đề về laptop đã được các anh chị giải đáp. em muốn hỏi thêm là em đã mua bản quyềnoffice luôn rồi nhưng lúc cài đặt các anh chị đó không nói những vấn đề này cũng như mật khẩu .... bây giờ làm sao em có thể lấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.622917,
+         "id": "990236",
+         "field_search": "question",
+         "question": "Cho em hỏi mình mua điện thoại trả góp tình trạng bây giờ là nhà em xa, em có chứng minh nhân dân với thẻ shinhan bank vậy có mua trả góp được không anh / chị ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.543234,
+         "id": "1014875",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Em vừa mua laptop bên mình ạ. Lap em có thêm mấy số bên hông mà em bấm thì không lên ạ. Vậy em chỉnh sao ạ?  Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.444199,
+         "id": "1165945",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn thay pin điện thoại HUAWEI NOva 2i. Cho em hỏi giá pin nhiêu vậy anh cho em biết giá được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.434898,
+         "id": "757950",
+         "field_search": "question",
+         "question": "  Anh ơi cho em hỏi máy của em iPhone 5S bây giờ iOS 9.2 có hạ xuống iOS 8 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.410084,
+         "id": "795779",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi laptop em mua giờ em đem ra chạy lại chương trình được không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.38595,
+         "id": "1017319",
+         "field_search": "question",
+         "question": "Chào a/c ạ!Mà anh chị ơi cho em hỏi :mà ipad 4 bên anh chị còn không ạ?Em ở cần thơ ạ.Cảm ơn a/c.Em mong có sự phản hồi từ a/c ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.359581,
+         "id": "999319",
+         "field_search": "question",
+         "question": "anh ơi có thể cho em hỏi tại sao bàn phím của dell inspiron 15 7000 gaming 7567 lại không có đèn bàn phím không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.274378,
+         "id": "764991",
+         "field_search": "question",
+         "question": " iPhone 4 của em bị treo táo mà em lại không mua máy ở TGDĐ thì em có được mang máy đến sửa không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.213564,
+         "id": "989385",
+         "field_search": "question",
+         "question": "Cho em hỏi anh chị em muốn mua điện thoại trả góp  em chỉ có hộ khẫu công chứng minh gốc có mua đượn ko anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.185577,
+         "id": "1165101",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi tài khoản facebook của em giờ quên mật khẩu có cài số điện thoại nhưng bấm vô quên mật khẩu thì nó không gửi mã về điện thoại thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.134895,
+         "id": "799436",
+         "field_search": "question",
+         "question": "Chào anh cho em hỏi iPhone 4S của em sao sạc đầy pin 100% rồi em sử dụng được khoảng 30 phút lại hết pin lý do tại sao vậy anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.133633,
+         "id": "1154444",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi 6s máy bị mất vân tay giờ đem qua sửa thì mất bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.095448,
+         "id": "1000784",
+         "field_search": "question",
+         "question": "Em đang sài con oppo f1 , em có cài đặt màn hình khóa cho điện thoại , nhưng giờ em muốn hũy màn hình khóa đi thì nó không chi phép , anh hướng dẫn giúp em ạ như hình dưới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.052923,
+         "id": "1008688",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi là. Bảo hành dán màn hình điện thoại là bảo hành cái j thế anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.009787,
+         "id": "988311",
+         "field_search": "question",
+         "question": "Cho em hỏi pin điện thoại lenny2 có giá bao nhiêu vậy có bán không anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.985254,
+         "id": "1001681",
+         "field_search": "question",
+         "question": "Em có mua 1 Lenovo A7000 plus giờ em muốn đổi sang điện thoại khác vậy trung tâm có thu hồi máy của em k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.97564,
+         "id": "756549",
+         "field_search": "question",
+         "question": "Cho em hỏi iPad của em quên mất iCloud và bây giờ không mở máy được, vậy nếu em mang lên TGDD anh chị giúp em được không ạ? Máy phiên bản quốc tế ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.96695,
+         "id": "1021115",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi cái htcpro vpn của htc one m8 sao không hoạt động vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.945837,
+         "id": "1019280",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại của em là oppi f3 lite, có nút cảm biến vân tay nổi lên mà bé nhà em nó bấm mạnh vào nên nút cảm biến bị lún xuống, như vậy có ảnh hưởng gì đến điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.938679,
+         "id": "1154686",
+         "field_search": "question",
+         "question": "TGDD có root được oppo a37 không vậy. mình đã làm mọi cách mà không root được. mong anh chị phản hồi sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.935139,
+         "id": "759834",
+         "field_search": "question",
+         "question": " Em bị mất điện thoại vây em có kiểm tra được những hình ảnh trong máy nhờ icoud không vậy anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.930756,
+         "id": "1014622",
+         "field_search": "question",
+         "question": "chào các anh chị tại shop! anh chị cho em hỏi là em có mua 1 chiếc ASUS zenphone 3 max, bữa nay em sạc pin thì bị treo logo 5 tiếng rồi không vô được, xin hỏi là em có được hỗ trợ bảo hành không nếu không thì Fix lại thì mất bao nhiêu tiền ạ, cảm ơn anh chị mong anh chị phản hồi sớm giúp, em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.925611,
+         "id": "1004277",
+         "field_search": "question",
+         "question": "SamSung Galaxy S6e của em bị hư nút đa nhiệm không bấm được có sửa được không ạ và chi phí là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.876637,
+         "id": "766019",
+         "field_search": "question",
+         "question": "Anh ơi sao iPhone 5s của em vừa mua hôm nay sáng vẫn sài bình thường nhưng bây giờ bàn phím không hoạt động, nhập số không được, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.852112,
+         "id": "1148268",
+         "field_search": "question",
+         "question": " cho mk hỏi, khi vào đa nhiệm của máy Oppo A3s ứng dụng có hình ổ khoá như vậy có nghĩa là gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.847744,
+         "id": "1137336",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi: em dùng 5s, bây giờ bị loạn cảm cứng + màn hình 2 màu. Nhưng vẫn sử dụng bình thường, lâu lâu bấm cảm ứng nó không ăn thôi. Cho em hỏi là có cách nào khắc phục không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.813858,
+         "id": "993573",
+         "field_search": "question",
+         "question": "cho em hỏi  mua điện thoại iphon cũ có cho trả góp ko vậy anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.732622,
+         "id": "1164836",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi sau khi em reset máy lại...em không bấm được tắt mở đèn bàn phím nữa..em xin cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.690073,
+         "id": "1139274",
+         "field_search": "question",
+         "question": "cho em hỏi..em muốn mua trả góp điện thoại oppo f7 youth và đang dùng thẻ agribank ( success) vậy có thể sử dụng dịch vụ này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.59049,
+         "id": "848029",
+         "field_search": "question",
+         "question": "Chào anh chi .Anh chị cho em hỏi .điện thoại em giờ có tài khoản icloud rồi nhưng em muốn đăng ký tài khoản khác có được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.590324,
+         "id": "773019",
+         "field_search": "question",
+         "question": " Anh chị ơi cho em hỏi tí, bên mình có còn hàng iPhone không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.577677,
+         "id": "1144055",
+         "field_search": "question",
+         "question": "Cho em hỏi Tại sao điện thoại huawei y7 pro mới mua được 6 tháng nhưnh bây giờ sử dụng nó lại bị nhấp  nháy màn hình có sọc đen liên tục. Như vậy có ảnh hưởng gì đến máy không.Mong anh chị giúp em cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.575827,
+         "id": "1158741",
+         "field_search": "question",
+         "question": "Anh/Chị ơi máy iphone 8 của em hồi trước muốn mở nguồn chỉ cần nhấn 1 lần là được, nay muốn mở phải giữ hơi lâu. Đó có phải bị hư không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.55611,
+         "id": "795790",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi:em có mua phần mềm diệt virut Bitdefender Internet Security mới được khoảng 2 - 3 tháng, nhưng khi em đưa mấy cho bạn mượn thì nó lở tay xóa mất. z em đem laptop qua bên anh chị, anh chị cho thể khôi phục lại giùm em được không ạ.mong nhận được hồi âm sớm của anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.529184,
+         "id": "1012013",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi imei 355673073893732 có phải điện thoại bên anh chị không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

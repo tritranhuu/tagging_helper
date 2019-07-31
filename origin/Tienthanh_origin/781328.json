@@ -1,0 +1,801 @@
+{
+   "id_query": "781328",
+   "total": 34114,
+   "total_current": 100,
+   "max_score": 93.11064,
+   "origin_question": "Mình mua máy iPhone 5s ở đây vào tháng 4/2014 giờ máy mình xuất hiện lỗi màn hình xanh rồi tự động tắt nguồn có thể cho mình biết lỗi gì và sửa hết bao nhiêu không?",
+   "hits": [
+      {
+         "score": 37.57815,
+         "id": "788425",
+         "field_search": "question",
+         "question": "Bố mình vừa cho mình chiếc iphone 4s đã được jailbreak, lúc mình reset máy thì máy tắt nguồn rồi hiện lên một vòng tròn chạy được 3, 4 tiếng rồi vẫn chưa thấy gì ? Cho mình hỏi máy bị làm sao và có thể sửa được không và nếu có thì sửa ở chỗ nàoPS: máy bố mình mua ở Viettel",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.130962,
+         "id": "786257",
+         "field_search": "question",
+         "question": "Chào, em đang xài iPhone 6 dạo gần đây máy của em đang xài bỗng dưng bị đứng màn hình sau đó hiện màn hình màu xanh rồi tự động tắt nguồn, em khởi động lại xài bình thường và sau đó lại bị lỗi như vậy? Không biết như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.037125,
+         "id": "1160850",
+         "field_search": "question",
+         "question": "Mình có mua samsung note 5 tại thế giới di động và đã hết bảo hành. Máy ngày hôm nay tự nhiên bị liệt cảm ứng ở 4 góc màn hình. Nhưng hiện tại mình chưa mang được đến kiểm tra. Không biết có mẹo khắc phục tạm thời nào không? Và mình muốn hỏi đối với máy của mình nếu đem sửa chữa tại thế giới di động với lỗi kể trên thì giá thành sửa chữa khoảng bao nhiêu tiền? Mình xin cảm ơn và mong phản hồi từ công ty.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.677063,
+         "id": "1024215",
+         "field_search": "question",
+         "question": "chào bạn mình mua iphone 6s bên thegoididong 4 tháng trước nhưng giờ phát hiện ra 3d touch của mình không hoạt động. mình có thể mang máy đi sửa ở thegioididong không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.28063,
+         "id": "783296",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5s mua ở tgdd hết bảo hành 3 tháng. Gần đây xuất hiện lỗi không có dịch vụ, khi mình set lại mạng thì lại có mạng được khoảng 1h lại bị mất mạng máy chạy 9.2. Xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.72169,
+         "id": "1007672",
+         "field_search": "question",
+         "question": "Mình mua laptop tại Thế giới di động. Thời gian gần đây,  màn hình laptop của mình thường bị đổi màu và xuất hiện sọc màu,  bên bạn có hỗ trợ sửa chữa lỗi này không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.536697,
+         "id": "1161855",
+         "field_search": "question",
+         "question": "Máy Iphone 6 của mình bị hở màn hình Khi ấn mạnh vào màn hình nghe tiếng lộp bộp Hiện tại mình đang ở Bến Cát-Bình Dương Mình có thể gửi máy để sửa ở TGDĐ được không. Máy của mình vừa hết bảo hành được vài tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.201702,
+         "id": "1016576",
+         "field_search": "question",
+         "question": "Mình mới mua 1 chiếc điện thoại J7 Prime cách đây 2 tháng tại TGDĐ. Dạo gần đây điện thoại hay bị lỗi khóa màn hình rồi tự sáng màn hình lại. Phải reset lại máy mới hết. Hiện tượng này ngày càng thường xuyên hơn. Mình không cài bất cứ app hình nền hay phím tắt khóa màn hình nào. Khắc phục lỗi này thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.02465,
+         "id": "776645",
+         "field_search": "question",
+         "question": "Laptop mình mấy ngày gần đây khi khởi động máy thì xuất hiện lỗi này, không biết là gì? Mong QTV chỉ khắc phục, Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.983624,
+         "id": "750731",
+         "field_search": "question",
+         "question": "Hi. Mình có một con iphone 4 white đã jaibreak, hiện nay đang bị treo itunes, mình đã thử retore mà không vẫn xuất hiện lỗi, lúc thì lỗi 1, lúc lỗi 14,3104, không biết bên thế giới di động có nhận sửa chữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.68983,
+         "id": "1153789",
+         "field_search": "question",
+         "question": "Laptop hiện ra màn hình xanh nhưng chạy hết 100 thì khởi động lại máy và chạy bình thường là lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.350475,
+         "id": "1154153",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi máy mình hãng xiaomi hết bảo hành bây giờ bị liệt 3 nút điều hướng và màn hình bị lỗi tự bị thu nhỏ màn hình và lặp đi lặp lại vậy có thể mang xuống TGDĐ kiểm tra sửa chửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.30097,
+         "id": "1024431",
+         "field_search": "question",
+         "question": "màn hình Máy Samsung j3 của mình tự nhiên bị tách đôi, đổi màu... rồi sập nguồn. Nó khởi động lại nhưng lại tiếp tục lỗi nên sập nguồn. Cứ liên tục như vậy...Cho mình hỏi đây là lỗi gì, khách quan hay chủ quan? Mình phải làm sao để máy bình thường trở lại?Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.20998,
+         "id": "785574",
+         "field_search": "question",
+         "question": "Nâng cấp lên ios 9.0.2 máy iphone 5 thành công được một lúc thì bị xanh màn hình rồi tự động khởi động lại vẫn bị xanh màn hình có thể chỉ mình cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.17885,
+         "id": "811044",
+         "field_search": "question",
+         "question": " Mọi người cho mình hỏi ic nguồn của iphone 5s hiện giờ là bao nhiêu ạ và ở tgdd có ic nguồn không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.04403,
+         "id": "973311",
+         "field_search": "question",
+         "question": "mình có mua 5s ở TGDD đươc 5 tháng rồi. mua dùng được hơn tháng là thấy hiện tượng xanh màn hình và khởi động lại. mấy ngày hôm nay máy có hiện tượng như vậy rất nhiều và bị rung màn hình. vậy mình khác phục hiện tượng đó thế nào? Và mang ra siêu thị TGDD bảo hành được ko ạ? Nếu có thể liên hệ giúp m vào số 0165354xxxx . cảm ơn nhóm hỗ trợ TGDD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.87958,
+         "id": "814409",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng iPhone 5 dạo gần đây nó hay tắt nguồn có cuộc gọi đến cũng bị tắt nguồn, khi mở lên thì màn hình nhấp nháy rồi tự động tắt, vậy điện thoại mình gặp vấn đề gì và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.872562,
+         "id": "751920",
+         "field_search": "question",
+         "question": "Lỗi máy ASUS không thể khởi động: Tình hình máy ASUS X555LD của em giờ bật nút nguồn khởi động thì chỉ hiện cái logo của hãng rồi màn hình ko hiện gì lên nữa( chỉ sáng sáng) nguồn và quạt vẫn chạy. Xin các anh/chị các bạn chỉ cách khắc phục lỗi này. em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.555279,
+         "id": "1001373",
+         "field_search": "question",
+         "question": "Máy của mình Arbuts mình tự tắt nguồn xong mình khởi động thì màn hình trắng và có chữ Arbuts",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.514397,
+         "id": "797114",
+         "field_search": "question",
+         "question": " Add cho mình có 1 cái iPhone 5 trắng bị lỗi màn hình và cảm ứng thì bây giờ thay hết bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.096516,
+         "id": "1004819",
+         "field_search": "question",
+         "question": "Mình đang dùng thì laptop tự sập nguồn. Sau đó có thử bật lại nhưng máy không lên và cắm sạc cũng k vào. Có ai biết đây là lỗi gì và cách khắc phục k ạ? :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.094841,
+         "id": "1163827",
+         "field_search": "question",
+         "question": "QTV cho em hỏi sao máy em cứ tắt màn hình là tự động tắt nguồn luôn là bị lỗi gì vậy ? Máy em samsung a8 star",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.012714,
+         "id": "874884",
+         "field_search": "question",
+         "question": "Ipad của mình khi mở ra thì trên màn hình xuất hiện dòng chữ \" Đang xác minh cập nhật\" rồi đứng luôn không thể điều khiển được. Tắt nguồn rồi mở lại cũng vẫn y như cũ. Không biết máy đã bị bịnh gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.000772,
+         "id": "1147309",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình có hỗ trợ sửa laptop không ạ? Vì em mua laptop bên mình đã lâu rồi và hết bảo hành nên không biết bên mình còn hỗ trợ sửa không? Và nếu với lỗi không mở nguồn lên được thì sửa tầm bao lâu và mất phí là bao nhiêu? Em mong nhận được phản hồi sớm. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.871134,
+         "id": "1162741",
+         "field_search": "question",
+         "question": "Dear Thế Giới Di Động,Tôi có mua một laptop envy 13 tại Thế Giới Di Động vào hồi tháng 9/2018. Hiện tại, màn hình máy tính của tôi có xuất hiện 2 vết đốm sáng trên màn hình. Thì không biết là lỗi này do nguyên nhân gì? Và tôi có thể mang ra để nhờ nhân viên tư vấn và bảo hành được không?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.766245,
+         "id": "928728",
+         "field_search": "question",
+         "question": "Chào ad. Mình mua lap ở Điện máy xanh được 1 năm. Lúc mua được cài win 8.1. Giờ máy cứ hiện lỗi explorer.exe và bị màn hình đen khi khởi động, chỉ thấy trỏ chuột. Giờ mình đến ĐMX cài lại win có bị mất phí ko? Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.646584,
+         "id": "1154116",
+         "field_search": "question",
+         "question": "Máy mình mua tại shop . Máy ip xr cũ đang dùng thì bị sập nguồn rồi mình khởi động lại máy lại bình thường cho mình hỏi là lỗi gì ạ . Mình đang nghi máy bị lỗi nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.55197,
+         "id": "1010021",
+         "field_search": "question",
+         "question": "Chào tgdđCho mình hỏi mình đăng nhập icloud trên iphone 5s nhưng bây giờ mình muốn đăng xuất thì lại không được. Và máy báo lỗi : (Không thể xác minhĐã có lỗi khi kết nối icloud.)Mod giúp mình với ạ 😥😥😥",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.498318,
+         "id": "965384",
+         "field_search": "question",
+         "question": "iPhone 5s của tôi màn hình tắt nguồn liên tục mỗi lần tắt là màn hình xanh ... Mất ít nhất 2 phút để dt tự động lên nguồn lại ...giờ tôi gửi đi bảo hành thì mất thời gian bao lâu vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.4197,
+         "id": "835292",
+         "field_search": "question",
+         "question": "Mình xài máy tính bảng asus mua hơn 1 năm . Hiện máy bị sọc trắng rồi chuyển sang trang màn hình . Tắt nguồn khởi động lại xài được . Nhưng nay bị như vậy nhưng tắt nguồn khởi động lại hiện màn hình trắng . Vậy là bị làm sao . Cách sửa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.400341,
+         "id": "1153356",
+         "field_search": "question",
+         "question": "Tôi xài oppo f7 sau mỗi lần tắt nguồn và mở lại tôi nhập mật khẩu thì bị treo khoảng 1 phút và hiện màn hình chính khoảng 1 phút tự động tắt nguồn? Vậy máy bị lỗi gì thế ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.257938,
+         "id": "1135267",
+         "field_search": "question",
+         "question": "Dạ e mua iphone 6 vào tháng 4 năm nay máy không có lỗi gì lúc mua với giá 7t rưỡi giờ e muốn đổi iphone 6s plus thì phải bù thêm bao nhiêu nữa ạh ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.21931,
+         "id": "1145649",
+         "field_search": "question",
+         "question": "máy tính của minh hiện đang dùng win 10 và bỗng nhiên đuôi của các tệp tin trong máy tự động đổi thành tfudet. Cho mình hỏi máy của mình bị lỗi gì và cách sửa lỗi như thế nào vậy. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.031298,
+         "id": "1147662",
+         "field_search": "question",
+         "question": "Mình đang dùng Nokia 3.1 Ram 3gb, máy bị lỗi tự động Restart liên tục.  TGDD cho mình biết máy bị lỗi gì và khắc phục như thế nào nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.933525,
+         "id": "1157394",
+         "field_search": "question",
+         "question": "Mình mua máy realme C1 ở thế giới di động cách đây mấy tháng hiện tại máy tự nhiên sập nguồn không lên.mình muốn mang ra bảo hành nhưng mất phiếu mua hàng rồi thì còn được bảo hành nữa không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.862333,
+         "id": "826713",
+         "field_search": "question",
+         "question": "Chào các bạn! Mình đang dùng iphone4, khi sạc pin % báo đầy rồi máy tự tắt nguồn. Mình bấm nút khởi động thì màn hình hiển thị rắc cắm và pin đã hết. Cắm nạp vào lại hiển thị pin hết, rất lâu máy không lên là bị sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.743538,
+         "id": "1150328",
+         "field_search": "question",
+         "question": "IP X của mình đang sử dung face bị sập nguồn đột ngột, không thể khởi động lại được, cắm sạc ko máy khởi động lại??? Đây là lỗi gì? Có cách nào khắc phục không?Máy mình mua tại TGDĐ khoảng 1 năm, chưa chai pin, chưa sửa chữa, va đập gì.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.720413,
+         "id": "844671",
+         "field_search": "question",
+         "question": "Màn hình laptop em bị chập chờn rồi tự động tắt vs chế độ sleep, cơ mà máy cũng tự động mở màn hình lại luôn, nếu mở lên thì trong khoảng 30s nó lại tắt, có khi thì 1 tiếng sẽ bị tắt. Em đem ra tiệm sửa mà chủ tiệm bảo không tìm thấy lỗi. Admin cho e hỏi máy e bị lỗi gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.705791,
+         "id": "772877",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, khi mình ấn nút nguồn iPhone 6S để tắt máy thì màn hình sáng lên 1 lần rồi mới tắt, không biết máy có bị làm sao không, Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.702652,
+         "id": "1017952",
+         "field_search": "question",
+         "question": "Mình mua xiaomi redmi note 4 tại tgdd đã hơn 4 tháng. Bây giờ cắm thẻ nhớ vào tải video từ bộ nhớ trong vào thẻ nhớ thì truyền dc khoảng 300mb thì lập tức máy tự sập nguồn. Ko biết có phải lỗi phần cứng ko, em đổi thẻ khác vẫn bị như vậy ạ. Cho em hỏi lỗi thế thì sửa thế nào, có dc bảo hành ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.67191,
+         "id": "884680",
+         "field_search": "question",
+         "question": "Máy e bị rơi đập xong bị vào nước nhưng e có kính cường lực lúc bật lên thì bị vệt xanh là cay xong sau đó tắt máy đi bật lên thì bình thường vòng 5s lại bị e đã tắt nguồn đi bây giờ sửa ở thế giới di động phí sửa là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.618347,
+         "id": "1147233",
+         "field_search": "question",
+         "question": "mình đang dùng asus zenfone go, mày mình bị tự động tắt nguồn, và hiện lên logo asus inseach of incredible, lần đầu mình tháo pin, lắp lại mở nguồn thì hiện lên adroid đang tối ưu hóa ứng dụng mình để tối ưu xong thì máy vào dc bình thường. minh đã cài đặt máy về khôi phục gốc, mày bị nhiều lần như vậy. Tuy nhiên mới đây nhất, máy tự tắt nguồn khi khởi động lại thì treo logo asus inseach of incredible không thể lên dc màn hình, ko biết máy mình bị làm sao ạ, mình cảm ơn ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.590117,
+         "id": "996632",
+         "field_search": "question",
+         "question": "Chào các bạn hỗ trợ kỹ thuật,Cho mình hỏi 1 vấn đề:Mình dùng mua iphone 6splus ở thế giới di động được khoảng 2 tháng rồi. Mấy hôm nay máy mình có hiện tượng là gọi điện thoại đi lần đầu thì không nghe thấy gì, tắt đi gọi lại thì được; tương tự cắm tai nghe vào lần đầu cũng không được, rút ra cắm lại vào thì được.Các bạn có biết lỗi này là gì và khắc phục được không?Mong sớm nhận được phản hồi từ các bạn.Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.5031,
+         "id": "838082",
+         "field_search": "question",
+         "question": "Iphone 6 em mua ở TGDD được hơn 1 tháng nay nó xuất hiện 1 điểm chết màu đò... Đây có phải lỗi kĩ thuật và được đổi máy mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.50117,
+         "id": "751391",
+         "field_search": "question",
+         "question": "Em mua iphone 6s plus mới được hơn 1 tháng. Mà giờ đang quay video tự nhiên bị sập màn hình. Bao nhiêu lâu nó mới khởi động lại. Sau đó vào quay video hay chụp ảnh màn hình đều đen xì. Và vào album xem lại các video cũ. Màn hình vẫn đen chỉ có tiếng thui. Lỗi đây la do nhà sx rồi. Em có được đổi máy mới không. Hay là lại chỉ mang đi bảo hành thôi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.486786,
+         "id": "899781",
+         "field_search": "question",
+         "question": "Trước kia mình có dùng iphone 3gs, nhưng bây giờ mình đã chuyển qua dùng iphone 4. Tuy nhiên, mình đăng nhập cùng 1 mật khẩu apple ở cả 2 máy. Hôm qua, em mình lấy iphone 3gs và chụp vài tấm hình thì thấy ảh từ iphone lại xuất hiện ở iphone 4. Mình cũng mở iphone 3gs ra xem thì lại thấy ảnh từ iphone 4 cũng xuất hiện ở iphone 3gs. Mình có vào Cài đặt và tắt Kho ảnh, điện thoại báo nếu tắt kho ảnh sẽ xóa hình trên các thiết bị iphone nên mình không dám tắt. Do đó mình muốn hỏi làm sao để ảnh của 2 máy không chuyển qua nhau nữa. Mình xin cảm ơn trước!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.439837,
+         "id": "1138550",
+         "field_search": "question",
+         "question": "sau khi mình nhấn khởi động lại máy asus zenfone 2 thì bị báo lỗi màn hình có hình sợi dây sạc và không thể lên nguồn được nữa. mình đã thử khởi động mấy lần nhưng vẫn không lên. sử dụng tổ hợp phím nguồn cộng volum up củng k xuất hiện chế độ recovery. mong ad chỉ cách xử lý với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.393236,
+         "id": "1158622",
+         "field_search": "question",
+         "question": "Em mới mua laptop Asus x541ua i3 bên mình vào tháng 8 2018. Nhưng thời gian vừa rồi dùng máy rất chậm, thậm chí còn bị đơ cả tiếng mới trở lại bình thường. Hôm nay máy còn bị lỗi gì đó, máy tự động gõ ra kí tự ***** mặc dù mình ko gõ gì cả. TGDD có thể giúp em khắc phục lỗi này được ko ạ? Và nếu đem máy ra cửa hàng ra sửa thì có mất chi phí gì ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.369993,
+         "id": "758541",
+         "field_search": "question",
+         "question": "QTV cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn cũng không lên, nút Home bị hư rồi, giờ làm cách nào cho máy mở lên được ạ? Ở TGDD có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.332071,
+         "id": "1008407",
+         "field_search": "question",
+         "question": "Điện thoại mình là ip6 plus đang chạy bản 9.3.2 trong khi sử dụng nó bị màn hình đen hoặc xanh sau đó tự reset máy. Cho mình hỏi là bị lỗi ở gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.264217,
+         "id": "793359",
+         "field_search": "question",
+         "question": "AD cho mình hỏi iPhone 5S gắn sim vào rồi nhưng hay bị báo là không có dịch vụ mình tắt nguồn khởi động lại nhưng vẫn bị như vậy giờ làm sao cho hết vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.173014,
+         "id": "994534",
+         "field_search": "question",
+         "question": "máy sony m4 mua dc  khoảng 1 năm .mình đang xài thì bị rơi vào nước ...giờ mở nguồn lên thì tự động tắt máy...thứ nhất nếu bán thì bên mình có mua lại không( mua lại máy khác). thứ 2 nếu sửa chữa thì bao lâu mới có .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.14132,
+         "id": "1009184",
+         "field_search": "question",
+         "question": "MÌnh hiện đang dùng máy asus zenphone 2 bản 5.5 bị hư phần nguồn bên trong máy và bể màn hình nên mình không khởi động lên được  cho hỏi bên TGDĐ có thay màn hình và sửa phần nguồn không vậy giá thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.067001,
+         "id": "923957",
+         "field_search": "question",
+         "question": "Hiện tại mình đang xài cây 5s mà sao nó cứ tắt nguồn hoài, lúc dùng thì không sao lúc mà mình không dùng thì máy tự tắt nguồn. mình đã thay pin rồi mà vẫn bị. vậy cho hỏi máy mình bị gì vậy? xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.053112,
+         "id": "824643",
+         "field_search": "question",
+         "question": "mình có mua 1 laptop dell inspiron 15 3543 được khoảng hơn 1 tháng nhưng tự dưng máy có hiện tượng đứng máy hoặc là treo máy. mình phải ấn nguồn hoặc tháo pin ra mới có thể khởi động lại được. cho mình hỏi là do lỗi gì ạ??? mà nếu mình đưa ra thế giơi di động thì có bị mất phí k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.046978,
+         "id": "1156479",
+         "field_search": "question",
+         "question": "Máy mình nova i3 bị lỗi bóng mờ màn hình rất khó chịu xuất hiện nhiều lần vậy tgdđ sẽ bảo hành cho mình bằng cách gửi máy sửa chữa trong bao lâu hay là đổi máy ạ.Dưới là hình hạn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.936493,
+         "id": "876849",
+         "field_search": "question",
+         "question": " iphone mình bị lỗi 601 thì phải làm sao. sửa thì hết bao nhiêu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.935009,
+         "id": "758542",
+         "field_search": "question",
+         "question": "QTV cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn lên cũng không lên, nút Home thì bị hư rồi, giờ làm cách nào cho máy mở lên được ạ? Ở TGDD có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.935009,
+         "id": "758513",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn cũng không lên, nút home thì bị hư rồi, giờ làm cách nào cho máy mở lên được à? Ở tgdd có sửa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.861917,
+         "id": "1020554",
+         "field_search": "question",
+         "question": "máy mình bị ẩn hết tất cả ứng dụng, k có gì hiện thị trên màn hình cả. mình phải vuốt từ trên xuống để vào cài đặt rồi cài cử chỉ chuyển động màn hình tắt để mở các ứng dụg. bây giờ phải làm sao để nó hiện ứng dụng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.80759,
+         "id": "1138034",
+         "field_search": "question",
+         "question": "máy mình hôm nay khi khởi động lại thì bị đứng ở chỗ load luôn  . không biết là do lỗi gì . red mi note 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.75394,
+         "id": "803270",
+         "field_search": "question",
+         "question": "iPhone 6 16gb của mình bị tình trạng đơ, mình đã môi phục cài đặt gốc nhưng lâu lâu nó vẫn bị. Cho mình hỏi là máy sửa lỗi phần mềm bao nhiu? Máy mình mua ở TGDĐ đi 1 năm 4 tháng vậy còn bảo hành không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.74707,
+         "id": "1144114",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại Huawei nova 3i tự động mất hình nền mất hết ứng dụng, hiện màn hình như mới khôi phục dữ liệu. Tắt nguồn khởi động lại thì trở lại bình thường.Vậy là bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.718204,
+         "id": "804266",
+         "field_search": "question",
+         "question": "Iphone của mình hiện đang gặp vấn đề. Khi mình muốn tải ứng dụng thì hiện ra phần đăng nhập tà khoản, mình không ấn hủy mà ấn luôn về màn hình chính và máy bắt đầu bị đơ tắt nguồn rồi khởi động lại cũng không được. Bạn có thể cho mình cách giải quyết không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.65439,
+         "id": "862722",
+         "field_search": "question",
+         "question": "iphone 4 8GB sử dụng cạn pin bị lỗi 1970, để máy thật sự hết pin thì mở lên được, lên trang chủ cập nhật phần mềm xong, sử dụng được vài giờ thì bị sập nguồn màn hình đen thui, cấm sạc vào màn hình hiện lên trái táo rồi biến mất, không thể mở máy được. Vậy xin hỏi bây giờ phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.556692,
+         "id": "1137982",
+         "field_search": "question",
+         "question": "sky a890 chỉ lên logo rồi tự tắt thì là lỗi gì ạ. cho em hỏi bên mình có nhận sửa k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.556387,
+         "id": "814192",
+         "field_search": "question",
+         "question": "Em đang xài iphone 6 đang lướt wed thì bị đứng máy e có nhấn nút tắt nguồn nhưng không được rồi nó hiện xanh màn hình rồi khởi động máy lại khởi động xong vẫn xài bình thường máy bị vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.521889,
+         "id": "1165693",
+         "field_search": "question",
+         "question": "anh chị có thể giúp tư vẫn giúp em được không? máy của em là htc one m8. mỗi lần vào mạng là nó lại auto tắt wifi và hiện lên màn hình như trong ảnh, anh chị có thể cho em biết lỗi này là lỗi gì và khắc phục nó ntn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.494493,
+         "id": "782785",
+         "field_search": "question",
+         "question": "Mình mới mua máy iphone 6 gần được một tuần mà giờ không thể tắt ứng dụng chạy ngầm , màn hình không thể trượt được, máy cũng không tự khóa màn hình được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.46659,
+         "id": "654921",
+         "field_search": "question",
+         "question": "Lỗi máy tự khởi động lại khi chơi game và màn hình có biểu hiện giật rồi khởi động lại hoặc đứng máy .mất ứng dụng chụp ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.411915,
+         "id": "1024021",
+         "field_search": "question",
+         "question": "Cho tôi hỏi máy tính bảng galaxy tab E  đag xài thì nó bị xọc màn hình . tắt nguồn mở nguồn lên thì màn hình màu xám không thấy gì hết . cảm ứng vuốt thì bình thường . cho hỏi bị gì mà sửa bao nhiêu tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.391045,
+         "id": "1165697",
+         "field_search": "question",
+         "question": "anh chị có thể giúp tư vẫn giúp em được không? máy của em là htc one m8. mỗi lần vào mạng là nó lại auto tắt wifi và hiện lên màn hình như trong ảnh, anh chị có thể cho em biết lỗi này là lỗi gì và khắc phục nó ntn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.370058,
+         "id": "805199",
+         "field_search": "question",
+         "question": " Máy tính mình khởi động xuất hiện thông báo như ảnh là bị lỗi gì? Hướng dẫn mình các khắc phục được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.334885,
+         "id": "1152775",
+         "field_search": "question",
+         "question": "Mình dùng máy HTC e9 được 2 năm, bây giờ máy tự nhiên bị treo logo không thể tắt nguồn. mình nên làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.33235,
+         "id": "1137094",
+         "field_search": "question",
+         "question": "mình mua 1 chiếc điện thoại samsung j7 pro được chưa đầy 1 năm. trước đây máy hoạt động rất tốt, mình cũng không làm rơi vỡ gì máy. nhưng tự nhiên màn hình máy bị hỏng, nhấp nháy rất khó nhìn, vậy mình vẫm có thể mang ra thế giới di động để sửa đúng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.30077,
+         "id": "1148252",
+         "field_search": "question",
+         "question": "Máy laptop acer của mình bị lỗi màn hình xanh stop code : bad system config info mà nhấn vào system restore thì không được thì phải làm sao đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.229673,
+         "id": "1160992",
+         "field_search": "question",
+         "question": "Xin chào shop. Em từng mua laptop dell tại thegioididong gia lai và hiện máy em hết thời gian bảo hành rồi. Dạo này máy tính em bị lỗi ko tắt được chế độ máy bay nên ko thể vào mạng đc... Ko biết có cách nào sửa ko và e có thể đem ra thegioididong tại tphcm sửa ko ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.194792,
+         "id": "871865",
+         "field_search": "question",
+         "question": " Màn hình iphone 5s bị xanh màn hình tự khởi động lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.18203,
+         "id": "1009056",
+         "field_search": "question",
+         "question": "Em mua j7prime đươc 3 tháng gân đây máy hay bị màn hình vẫn báo có sóng nhưng không thể nào thưc hiện cuộc gọi.chi tắt nguồn khởi động lai thì lai ok.mong được giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.090054,
+         "id": "767915",
+         "field_search": "question",
+         "question": " Laptop của mình mua ở điện máy xanh. Giờ bị lỗi win hay sao á. Nên mình hỏi giờ ra thế giới di động bảo hành được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.028399,
+         "id": "876911",
+         "field_search": "question",
+         "question": "máy mình mấy hôm gần đây xuất hiện hiện tượng góc trái màn hình bị đen lại. khoảng 4 lần. 3 làn đầu bị đen như thế, mình tắt nguồn khởi động lại thì lại sáng bình thường. tôi hôm qua mình vẫn dùng bình thường,sạc đủ 100% pin rút xạc để đến sáng hôm nay vẫn không bị tụt pin. tuy nhiên sáng nay mình phát hienj máy lại bị đen góc trái màn hình, mình lại tắt nguồn rồi khở động lại nhưng không mất phần đen màn hinh, đồng thời pin của máy hiamr nhanh, không dùng cũng tụt pin xuống còn 0% và sập nguồn, mình xạc vào thì lên pin rất lâu. màn hình vẫn bị đen và máy rất nong. điện thoại của mình iphone 6 plus nên bình thường pin dùng đc lâu và k bị nóng . Các bạn tư vấn giúp mình xem ntn ạ. Trời mưa bão nên chưa thể qua thế giwois di động trục tiếp được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.024006,
+         "id": "1020187",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình mua máy oppo f1w từ tháng 6 năm ngoái đến tháng 7 năm nay bị lỗi ám màn hình cho đến hôm nay nặng hơn. Và mình cũng chán dùng oppo, mình muốn quay lại dùng iphone nên muốn bán lại máy thì bán được giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.01016,
+         "id": "818142",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí nhé, mình đang sài con iphone 5S, mấy bữa nay tự nhiên mình vuốt màn hình nó không đc nên k làm gì đc, mình phải tắt nguồn bằng nút home và nút nguồn mới tắt đc, nhưng bật lên lại vẫn vậy, k biết là bị gì nữa, ngta goi đén chuông vẫn đỗ nhưng k vuốt để nghe dc, vậy ad cho mình hỏi là máy mình bị gi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.932858,
+         "id": "869740",
+         "field_search": "question",
+         "question": "mình mới đi sửa ở thế giới di độnng về được cỡ 1 tháng nay lại bị lỗi này nữa. laptop asus win 8mình bật máy khởi động thì chỉ lên được hình cửa sổ windows 8 ban đầu rồi không thấy lên gi nữa, màn hình đen. Máy vẫn nhận chuột, vẫn có hình con trỏ chuột trên máy. Minh thử khởi động lại nhưng không thể vào được safemode, cũng không dùng tổ hợp phím Ctrl + Atl + Del được. Màn hình vẫn đen xì. Cho mình hỏi là máy mình bị làm sao và khắc phục thế nào? Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.921085,
+         "id": "773010",
+         "field_search": "question",
+         "question": "Cho mình xin hỏi tí mình mới mua iPhone 6S dùng được hơn 1 tuần, thi thoảng mình tắt màn hình nó nháy 2 lần xong mới tắt hẳn, nhưng mình tắt nguồn đi bật lại thì không việc gi.Xin hỏi lỗi đó là lỗi gì?Có nghiêm trọng không để mình đi bảo hành .Thân gửi !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.91917,
+         "id": "1135133",
+         "field_search": "question",
+         "question": "Mình mua máy a7 2018 từ ngày 30.10 đến nay máy có hiện tượng tự tắt nguồn rồi lên lại. Từ trươcd tới giờ tần suất 4 hay 5 lần j rồi. Mong phản hồi từ TGD Đ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.895493,
+         "id": "761492",
+         "field_search": "question",
+         "question": "Mình đang dùng laptop dell inspiron n4050. Mình mới cài phần mềm magic deskop, khi vào thì bị đơ máy,mình tắt và khởi động lại máy thì lại hiện lên hình màu đen và chỉ xuất hiện con trỏ chuột còn lại không thấy gì cả, mình muốn hết hiên tượng này thì phải làm sao ạ.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.882513,
+         "id": "755019",
+         "field_search": "question",
+         "question": "Cho em hỏi, e sửa dụng iphone 5s khi sửa dụng tự nhiên mở máy không được, tắt nguồn cũng không được, như vậy là máy bị gì, và khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.882078,
+         "id": "1160633",
+         "field_search": "question",
+         "question": "dạ anh/ chị cho em hỏi thăm 1 chút ạ ?  cuối tháng 2.em có mua htc u12lite. tới 25/3 do bị lỗi tự động tắt nguồn và lỗi mã khóa . em đã được đổi máy mới.   mà hôm nay 14/4 máy htc lại bị lỗi như cũ. bây giờ em có thể đổi sang nokia 8.1 mà k bị tốn phí k ạ. em trả góp bên hc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.869907,
+         "id": "823236",
+         "field_search": "question",
+         "question": " bqt cho e hỏi iphone của e cứ bị xanh màn hình rồi khởi động lại .như vậy là bị lỗi gì ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.80595,
+         "id": "1140020",
+         "field_search": "question",
+         "question": "Cho hỏi lỗi màn hinh xanh laptop co sửa k ạ. No cứ tự tắt bật ko ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.737482,
+         "id": "791568",
+         "field_search": "question",
+         "question": " iPhone 5 của mình có viền xanh nhạt quanh màn hình, ad cho hỏi có phải lỗi gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.718636,
+         "id": "786622",
+         "field_search": "question",
+         "question": "CHo mình hỏi iPhone 5S bây giờ có giá bao nhiêu vậy ạ và nếu mua 2 máy thì có được hưởng chương trình khuyến mãi gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.677122,
+         "id": "1016330",
+         "field_search": "question",
+         "question": "điện thoại em đang sử dụng là sony xperia XA, bây giờ có hiện tượng đang sử dụng thì bị \"tự động quay lại\". Em vào cài đặt-->ứng dụng thì hiện ra trang \"ứng dụng\" xong tự động thoát ra lại trang \"cài đặt\".Lướt facebook thì kéo xuống rồi điện thoại tự động lên lại đầu trang.... và nhiều hiện tượng khác tương tự việc điện thoại tự động back lại,tự động trượt.Bây giờ thì màn hình không thể mở khóa do  không trượt hết được. Quét virus thì không thấy,màn hình vẫn còn mới không bị trầy xướt. Tắt nguồn,khởi động lại vẫn có hiện tượng đó.Không biết điện thoại đang có vấn đề gì ạ,em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.658628,
+         "id": "1133945",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có 1 máy zenfone 3 bi lỗi flip cover không tắt được dù đã khởi động lại va reset lại nhưng vẫn không được máy hiện tại mua khoản hơn 1 năm bị lỗi như vậy đem đến trung tâm hổ trợ có mất phí không có thì khoản bao nhiêu và khoản bao lâu mới xong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.658628,
+         "id": "1133948",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có 1 máy zenfone 3 bi lỗi flip cover không tắt được dù đã khởi động lại va reset lại nhưng vẫn không được máy hiện tại mua khoản hơn 1 năm bị lỗi như vậy đem đến trung tâm hổ trợ có mất phí không có thì khoản bao nhiêu và khoản bao lâu mới xong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.638302,
+         "id": "1164835",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi: mình có mua Macbook Air bên TGDĐ, hiện tại máy đang bị sọc màn hình, và thỉnh thoảng sập nguồn khi khởi đông. Mình có thể bảo hành máy ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.578304,
+         "id": "1023991",
+         "field_search": "question",
+         "question": "Máy ip của mình lâu lâu màn hình xanh lên rồi sập nguồn rồi lại khởi động lại. Nguyên nhân tại sao và cách khắc phục, cảm ơn ......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.53672,
+         "id": "1167771",
+         "field_search": "question",
+         "question": "Màn hình realme2pro vừa mua đc2 tuần giờ vỡ màn hình.Nó k hiện gì trên màn hình nữa,Sửa được không và mất bao nhiêu tiền anh",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

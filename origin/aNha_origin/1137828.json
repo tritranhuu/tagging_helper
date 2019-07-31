@@ -1,0 +1,801 @@
+{
+   "id_query": "1137828",
+   "total": 30740,
+   "total_current": 100,
+   "max_score": 62.90036,
+   "origin_question": "Cho hỏi là trên smartphone android có nên đóng đa nhiệm thường xuyên không ad ?",
+   "hits": [
+      {
+         "score": 20.873985,
+         "id": "1143117",
+         "field_search": "question",
+         "question": "Xin chào, Cho mình hỏi giờ điện thoại android của mình bị hư các phím hone, trở lại, đa nhiệm vậy có ứng dụng nào hiện các phím ảo đó trên màn hình không ạ?Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.37447,
+         "id": "1019117",
+         "field_search": "question",
+         "question": "Chào ad, cho em hỏi, trên điện thoại android của em thường xuyên không nhận được mạng wifi nào, trong khi máy tính hoặc các thiết bị khác đều sử dụng mạng wifi đó bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.275248,
+         "id": "1161143",
+         "field_search": "question",
+         "question": "Ad cho hỏi tí có cách bật để mở chức năng đa cửa sổ trên Android 6.0.1 ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.081442,
+         "id": "1151336",
+         "field_search": "question",
+         "question": "Cho e hỏi giờ muốn mở đa nhiệm mà không cần ấn núp home trên ip8 plus s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.007442,
+         "id": "1160673",
+         "field_search": "question",
+         "question": "Ad cho hỏi làm sao để tăng đa nhiệm mi note 5 miui 10.2 ạ ??? Mong giải đáp !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.301277,
+         "id": "1005342",
+         "field_search": "question",
+         "question": "android 7.1.1 cập nhật trên asus zenfone 3 max 5.5 đa hêt lôi chưa ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.729246,
+         "id": "1016383",
+         "field_search": "question",
+         "question": " Sam sung j7 pro tại sao không có đèn sáng của phím đa nhiệm và phím trở về  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.610464,
+         "id": "1148268",
+         "field_search": "question",
+         "question": " cho mk hỏi, khi vào đa nhiệm của máy Oppo A3s ứng dụng có hình ổ khoá như vậy có nghĩa là gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.332024,
+         "id": "747145",
+         "field_search": "question",
+         "question": " Phím back và phím đa nhiệm samsung j7 có sáng không vậy quản trị viên? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.196348,
+         "id": "795810",
+         "field_search": "question",
+         "question": " Cho mình hỏi samsung s6 2 đèn nút back và đa nhiệm không sáng. cách bật nó lên với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.99398,
+         "id": "1003295",
+         "field_search": "question",
+         "question": "Cho hỏi đt samsung galaxy j5 2016 muốn bật tính năng đa nhiệm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.82684,
+         "id": "1153628",
+         "field_search": "question",
+         "question": "Có nên cập nhật thường xuyên các ứng dụng trong ch play k...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.665052,
+         "id": "1149733",
+         "field_search": "question",
+         "question": "E đang sài đt Samsung Galaxy J2 Prime, màn hình của e hay tự động nhảy sang phần đa nhiệm mà e không hề nhấn vào nút đa nhiệm và sau khi bị zậy xong nút đa nhiệm cũng liệt luôn, khi nhắn tin cũng vậy, cứ như vậy liên tục mấy chục lần",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.628975,
+         "id": "1004277",
+         "field_search": "question",
+         "question": "SamSung Galaxy S6e của em bị hư nút đa nhiệm không bấm được có sửa được không ạ và chi phí là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.426605,
+         "id": "1161019",
+         "field_search": "question",
+         "question": "Ad  cho mình hỏimình có trả góp dt bên home credit nếu mình đóng trễ thì tối đa dc bao lâu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.414751,
+         "id": "1137230",
+         "field_search": "question",
+         "question": "tại sao máy samsung a3 2015 nút đa nhiệm không sáng lên vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.359596,
+         "id": "1150420",
+         "field_search": "question",
+         "question": "Cho mình hỏi vsmart joy 1 hơi game có mượt không ạ. Có bị giật lag thường xuyên không. Trên tựa game liên quân, crossfire lengden",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.116777,
+         "id": "871533",
+         "field_search": "question",
+         "question": " Cho e hỏi là iphone 5s thường xuyên không bắt được ừii thì có phải là bị lỗi không? Và em có được đổi máy mới không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.333872,
+         "id": "1011457",
+         "field_search": "question",
+         "question": "mình nên mua smartphone cũ nào để chơi game 3d khi mà mình chỉ có 2 triệu đây ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.177189,
+         "id": "835997",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình tải game trên máy tính mà máy tính mình báo là wep không an toàn thì máy tính mình có bị nhiệm virut ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.13227,
+         "id": "1138549",
+         "field_search": "question",
+         "question": "Anh ơi em muốn hỏi, điện thoại của em là con oppo f7 mua hồi 30/4 đến giờ  bấm không ăn các phím đa nhiệm vậy anh , vậy em có đem máy đến tgdd không anh ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.077963,
+         "id": "770224",
+         "field_search": "question",
+         "question": "hiện em đang sử dụng lap levono. cho em hỏi là máy cắm sạc thường xuyên thì pin có ảnh hưởng gì không ạ. nếu như pin thường xuyên cắm sạc qua đêm hoặc cắm sạc khi pin đang đầy để sử dụng thì có sao không ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.983846,
+         "id": "1020763",
+         "field_search": "question",
+         "question": "Em thường xuyên hay tải phim trên chrome về máy em (máy em là Lenovo Vibe P1) nhưng từ khi em nâng cấp lên Android 6.0 thì lúc tải phim về máy toàn báo là lỗi videoplayback, không thể tải được. Như vậy là sao ạ? Xin hãy giúp đỡ em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.912092,
+         "id": "816093",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Iphone5 16GB thường xuyên bị đứng máy và mình không thao tác được bất cứ việc gì trên máy. Đã update phần mềm mới và khởi động lại máy nhiều lần nhưng máy vẫn không thao tác được. Cho mình hỏi TGDĐ có nhận sửa máy ngoài không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.73252,
+         "id": "960379",
+         "field_search": "question",
+         "question": " Cho mình hỏi là Samsung A5 2017 có thể lên android 7 không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.582594,
+         "id": "941630",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang xài điện thoại iphone 5s 16GB nhưng điện thoại e thường xuyên bị tắt nguồn không hiểu lý do tại sao vậy nên làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.579008,
+         "id": "1161145",
+         "field_search": "question",
+         "question": "Mình đang dùng đt oppo f1s phiên bản Android là 5.1 thì có nên tải phiên bản 6.0 trên mạng xuống không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.501708,
+         "id": "1014249",
+         "field_search": "question",
+         "question": "ad cho e hỏi tối hum nay e có qua quán mua điện thoại nhưng em không cầm đủ tiền nên mua trả góp nhưng ngân hàng đóng cửa rồi nên em chưa lấy được máy nên cho em hỏi ngày mai nếu em không mua trả góp nữa mà trả hết tiền thì có được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.277893,
+         "id": "988994",
+         "field_search": "question",
+         "question": "Mình muốn mua Ipad có hỗ trợ đọc được file autocad, xin hỏi mình nên mua dòng sản phẩm nào có thể đọc được .Vì mình thường xuyên sử dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.265182,
+         "id": "819609",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi ứng dung nào giúp smartphone trở thành tay cầm chơi game trên PC windows 8.1,cảm ơn ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.251095,
+         "id": "997816",
+         "field_search": "question",
+         "question": "tôi đã đóng tiền bên fe credit từ ngày 25/06 nhưng đến nay tôi vẫn chưa nhận được tin nhắn báo đóng tiền , thường khi tôi đóng tiền khoảng 2 ngày là có tin nhắn nhưng nay vẫn không có là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.156871,
+         "id": "1151978",
+         "field_search": "question",
+         "question": "cho em hỏi, laptop của em thường xuyên tự động update, mấy ngày nay nó cứ update mãi, mở máy lên là nó update. cho em hỏi có cách nào khắc phục không ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.112057,
+         "id": "1023800",
+         "field_search": "question",
+         "question": "Admin cho e hỏi là e xài oppo neo 5 được 1 thời gian và thường xuyên cập nhật ứng dụng mới , nhưng thường xuyên bị không phản hồi về các ứng dụng như : Facebook , Zalo , google , YouTube ,...và cách ứng dụng khác , vậy cho e hỏi là bị gì , nguyên nhân và cách sửa chữa...! E cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.961074,
+         "id": "879654",
+         "field_search": "question",
+         "question": "tại sao ipad ảir 2 của tôi chạy đa nhiệm chia đôi màn hình không đều nhau đc? không kéo qua cho đều màn hình đc như lúc mới mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.806057,
+         "id": "756237",
+         "field_search": "question",
+         "question": "IPad mini 2 đang chạy iOS 9.0.2, h mình muốn xuống iOS 8.4.1 để chạy mượt hơn có được không và 8.4.1 đã có đa nhiệm chưa. Mong sớm hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.792253,
+         "id": "754835",
+         "field_search": "question",
+         "question": "Ipad mini 2 wifi 16g của mình chạy không được mượt và có dấu hiệu chậm, đơ màn hình khi chạy đa nhiệm. Vậy mình có nên lên iOS 9.1 hay cần hạ xuống 8.4.1 để máy hoạt động nhanh và hiệu quả nhất? Mong sớm được hồi âm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.742472,
+         "id": "998935",
+         "field_search": "question",
+         "question": "Smartphone 512mb ram nên dùng trình duyệt web nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.677242,
+         "id": "1142712",
+         "field_search": "question",
+         "question": "Dt j7 prime của mình không hiểu tại sao bấm nút đa nhiệm lại không phán ứng trước lúc bị như vậy thì vẫn sử dụng bth",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.593885,
+         "id": "1146947",
+         "field_search": "question",
+         "question": "Làm sao để chuyển đa nhiệm từ trạng thái ứng dụng sang bảng vậy TGDĐ, em đang sử dụng OPPO A3S  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.557104,
+         "id": "1169195",
+         "field_search": "question",
+         "question": "Đa nhiệm realme 3 khi vào game out ra đều load lại từ đầu,còn các ứng dụng khác thì ko sao chỉ riêng vs game v có dc coi là lỗi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.513031,
+         "id": "996605",
+         "field_search": "question",
+         "question": "Cho em hỏi : Em cần mua 1 laptop tầm 15 triệu đổ lại có card rời ,đa nhiệm tốt, pin tốt , chạy tốt phần mềm CAD ,LOL, hiệu năng ổn và bảo hành tốt ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.3575535,
+         "id": "773496",
+         "field_search": "question",
+         "question": " Cho em hỏi có ứng dụng trên ios nào giống applock android không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.198529,
+         "id": "873943",
+         "field_search": "question",
+         "question": "Ad cho e hỏi , tại sao mình tải app trên appstore mà cứ để \" không phải lúc này - Thử lại\" Hoài z á ?? K tải đa j hết , làm sao để khắc phục tải app đa đây ?! Giúp e vs , huhuhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.188952,
+         "id": "1134271",
+         "field_search": "question",
+         "question": "Máy Huwei của mình thường xuyên bị lỗi toàn bắt người dùng reset là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.033859,
+         "id": "1161071",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro tôi đã xoá các ứng dụng trong đa nhiệm, còn cách nào để úng dụng ko chạy ngầm ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.013082,
+         "id": "1149765",
+         "field_search": "question",
+         "question": "Cho em hỏi có cách nào root máy J7 Pro android 8.1 không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.97977,
+         "id": "1138811",
+         "field_search": "question",
+         "question": " Nên chọn loại smartphone gì giá tầm trung mà cấu hình ok ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.979133,
+         "id": "1145425",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại iphone6 plus . Do máy chỉ được một sim nên mình thường xuyên thay sim liên tục. Như vậy có ảnh hưởng gì đến máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.889192,
+         "id": "994409",
+         "field_search": "question",
+         "question": "Ad ơi em muốn mua một smartphone 2_3tr ạ . Màn hình 5.5inch và camera sau trên 10mp, pin trên 3000 ạ. Nhờ ad tư vấn giúp ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.810077,
+         "id": "1137903",
+         "field_search": "question",
+         "question": "Ad cho mik hỏi sao cái đc 8 plus của mik mua đc 1 tháng r xài bình thường mà sao dung lượng tối đa của pin nó tuột 1% là sao zậy. Mik ko vừa sạc vừa sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.772679,
+         "id": "1003903",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là Đợt trước e có đóng tiền hàng tháng . Nhưng em nộp chậm mất một tháng lên bị phạtThế nên giờ e có thể mua trả góp được nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.745414,
+         "id": "1134275",
+         "field_search": "question",
+         "question": "Máy Huwei của mình thường xuyên bắt người dùng phải khôi phục cài đặt gốc là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.734327,
+         "id": "998438",
+         "field_search": "question",
+         "question": "Máy em là samsung j7 preme dạo này cứ 1lúc là nó cứ tự phát quảng cáo cho dù ở đâu cũng vậy, em ẩn đa nhiệm thì thấy file system os đang chạy. Cho em hỏi tại sao lại bị như vậy và làm sao để xóa nó đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.683626,
+         "id": "1009878",
+         "field_search": "question",
+         "question": "cho e hỏi với ạ .a e có mua điện thoại trả góp h lại đi lm nên ko đóng tiền được vậy e có được đóng hộ ko ạ ,cần đem theo gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.639588,
+         "id": "781982",
+         "field_search": "question",
+         "question": " Samsung Galaxy Tab E 9.6 có cập nhật lên android 5.1 được không vậy ad. Hiện tại android là 4.4 ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.639282,
+         "id": "925714",
+         "field_search": "question",
+         "question": "Ad ơi em lỡ tay xoá mất ứng dụng youtobe trên máy iphon 4 thường . Giờ cài lại nhưng máy đòi ios 8.0 trở nên . Ad cho em hỏi có cách nào lấy lại ứng dụng đó ko ah ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.60953,
+         "id": "1000632",
+         "field_search": "question",
+         "question": "ad cho mình hỏi!!!!mình sd đt sony experia Xa mà mình lỡ nâng cấp phiên bản android lên 7.0. Sau khi nâng cấp xong thì điện thoại mình thường bị đơ đơ ko biết làm cách nào để trở về như ban đầu hoặc là e có nên khôi phục cài đặt gốc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.600239,
+         "id": "899636",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi samsung j7 prime bị lỗi vân tay một chạm cứ mỗi lần bỏ túi là thường xuyên bị khóa màn hình mấy chục phút có khi 1 tiếng vậy có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.381533,
+         "id": "1022122",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm sao để tắt thanh đa cửa sổ trên Vega Sky",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.331366,
+         "id": "1132295",
+         "field_search": "question",
+         "question": " Cho em hỏi là Android từ 8.0 có gỡ bản cập nhật ra được không ạ ???!!! Lên Android 8.0 chơi Liên Quân không được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.252521,
+         "id": "919035",
+         "field_search": "question",
+         "question": "Có ứng dụng nào trên iphone giống với call timer trên android không vậy ad? Em tìm thấy ứng dụng call monitor nhưng hoạt động không chạy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.251398,
+         "id": "781437",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có chiếc iPhone 5s gửi bên nhật về đang dùng máy cứ báo mất tín hiệu sống và thường xuyên báo kích hoạt máy liệu có sửa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.249694,
+         "id": "1010889",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi sao máy asus zenfone go em thường xuyên load tin messenger lâu và không xem được những video đã gửi vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.245107,
+         "id": "765276",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua Oppo r7 lite lúc đầu xài không sao bây giờ xài khoảng 5 phút là máy nóng hẳn lên . Điện thoại em không cập nhật chương trình nặng chỉ có zalo, face, và mesenger thôi. Cho em hỏi vậy là như thế nào ạ. 3g cũng không bật thường xuyên.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.243082,
+         "id": "1162296",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptol Dell của em rất thường xuyên bắt update ngay chỗ shut down. Em để chế độ sleep thay cho shut down có ảnh hưởng gì đến pin không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.236053,
+         "id": "1154871",
+         "field_search": "question",
+         "question": "Cho hỏi em đa bật chỉ biểu tượng ứng dụng nhưng ứng dung vẫn có khung trên M20. Phải lam sao??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.222488,
+         "id": "1023449",
+         "field_search": "question",
+         "question": "Cho e hỏi A5 2017 của e máy vẫn có 2 vạch sóng mà người khác gọi đến vẫn bị thuê bao. Thường xuyên bị như vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.211095,
+         "id": "1158931",
+         "field_search": "question",
+         "question": "E chào tgdđ,  xin lỗi đã làm phiền . Mong tgdđ giẩu đáp thắc mắc của e ạ . E xin cơn nhiều ạ .smartphone của e có hiện tượng giật , lag.  Mà hiện tượng giật là thường xuyên . Kiểu như là thao tác vào màn hình thì ko ăn , lại còn rung lên rung xuống màn hình . Nhiều khi đang xem video mà bị vậy . Phải nhấn 2 - 3 lần thì mới ăn . Hiện tượng máy của e có khi mà bản cập nhật thiết bị đưa về , nhưng e ko cập nhật mà hoãn lại . Ko biết smartphone của e có bị hư ko ạ , hay bị lỗi gì ạ ? A/c có thể cho e biết nguyên nhân ft cách khắc phục ko ạ .Smartphone e đang dùng là Samsung Galaxy A6 2018 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.210091,
+         "id": "1151709",
+         "field_search": "question",
+         "question": "Cho hỏi Máy SS A7 2018 mới trên tgdd là 6.990.000đ mà máy cũ 1.990.000đ thì có nên mua không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.19691,
+         "id": "919198",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop Acer One 14 Z1402-39KT có chế độ ngắt sạc không? Nếu không thì cách dùng thế nào mới hiệu quả, mình cần làm việc với nó thường xuyên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.185554,
+         "id": "754276",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình có mua iPhone 4S bên TGDĐ, thời gian gần đây, máy tuột pin rất nahnh, dù không lên mạng thường xuyên , vậy pin bị hư hay sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.161873,
+         "id": "994339",
+         "field_search": "question",
+         "question": "máy tính asus của e thường xuyên bị đơ khi sd là bị gì ạ, em phải khởi động mt thì mới sd được...có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.1577425,
+         "id": "845702",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi là máy em chạy win 8.1 mua tại thegioididong em cài phần mềm shadow defen để đóng băng. Hôm qua em gỡ đóng băng khởi động máy lại thì thấy nó chạy rất nhanh khoảng 18 giây là vào được màn hình lock screen (từ lúc mua tới giờ là khoảng 1 phút hơn) sau khi nhập pass xong thì nó hiện đã khoá (tại em cài tiếng việt) em nhập lại pass rồi nó đứng khựng luôn ở màn hình welcome không thao tác gì được em phải tắt nóng bằng nút power khởi động lại thì bình thường. Vậy lỗi của em là sao ạ? có ảnh hưởng gì máy không? tại máy em cài nhiều chương trình phải mua nên không thể cài lại win được nên mong ad chỉ cho em cách fix ạ em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.107483,
+         "id": "1161934",
+         "field_search": "question",
+         "question": "TGDD oi. Minh đang dung dong may galaxy j8. Minh đa nang câp android 9.0, giơ minh muôn xuong lai android 8.0 . Không biêt TGDD co giup minh xuông đuoc khong vây a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.067406,
+         "id": "1159243",
+         "field_search": "question",
+         "question": "Máy e đang dùng thì có hiện tượng đơ cảm ứng ban đầu thì ít nhưng càng ngày càng thường xuyên là tn ạ ( máy e là iphone 6)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.06325,
+         "id": "1154923",
+         "field_search": "question",
+         "question": "EM đang cần mua smartphone trả góp từ 3-4tr ạ. em là fan của xiaomi và samsung và hiện đang ở khu vực đà nẵng không biết ad có thể tư vấn không ạ? máy cần pin và dung lượng khá.Nếu 2 hãng kia mức độ trả trước cao thì admin có thể tư vẫn em hãng khác cũng được miễn là android",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.061276,
+         "id": "1005463",
+         "field_search": "question",
+         "question": "Máy mình mua đến tháng 11 là hết bảo hành. Hiện giờ máy hay bị lỗi cảm biến vân tay. Khe sim một nhiều lúc không nhận. Trướng hợp này sảy ra thường xuyên. Cần hỗ trợ của ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.0506935,
+         "id": "1156671",
+         "field_search": "question",
+         "question": "Tại sao điện thoại realme 2 của em vào cài đặt, thuận tiện thông minh, mà mất tiêu đa nhiệm màn hình rồi ạ làm sao để hiện lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.0433035,
+         "id": "745739",
+         "field_search": "question",
+         "question": "sony m5 của mình rất mau nóng máy,với mau hết pin nữa,o chế độ chờ và cũng tắt hết đa nhiệm chỉ rút sạc ra khoản 2h mà mất 20% pin.Như vậy máy có bị lỗi gì không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.035255,
+         "id": "993357",
+         "field_search": "question",
+         "question": "Giữa máy nokia 5 và samsung j7 2016 thì máy nào tốt hơn ạ về: cấu hình,  độ bền bỉ, đa nhiệm, game,  chụp ảnh,  xem phim,  chạy youtube....  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.989944,
+         "id": "813536",
+         "field_search": "question",
+         "question": " laptop của mình cứ thường xuyên bị ngắt kết nối wifi hoặc không kết nối wifi được luôn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.942955,
+         "id": "752932",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện tại điện thoại em là dòng iPhone 5. Bây giờ em muốn gỡ phần mềm từ 9.1 xuống 8.3 hoặc 8.4 có được không ạ? Với lại diệt virus. Điện thoại em thường xuyên bị đứng trượt mở nguồn không qua.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.900016,
+         "id": "795265",
+         "field_search": "question",
+         "question": "tôi có 1 iPad mini 3 retina cellular 16GB mua cách nay 4 tháng cũng của thegioididong ,xài rất ít, chủ yếu tôi muốn sử dụng chụp lại tài liệu thầy giảng nhưng nay tôi thấy bất tiện vì nó cồng kềnh và nặng hơn smartphone nên định đổi lấy smartphone. Cho hỏi có chính sách nào cho đổi như vậy không?.Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.890469,
+         "id": "998533",
+         "field_search": "question",
+         "question": "Cho hỏi cách cài tiếng việt cho firefox trên android",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.881009,
+         "id": "1133721",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình bỏ thánh sim vô điện thoại Sony Z3 thì máy vô mạng bình thường nhưng khi mình dùng Z3 làm wifi hostpot thì các máy khác dù đa kết nối được mạng Z3 phát ra nhưng vẫn không vô mạng được riêng Z3 thì dùng bình thường, cho hỏi là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.87023,
+         "id": "1148931",
+         "field_search": "question",
+         "question": "Tại sao máy Nokia 5.1 plus ram 3g chỉ mới tải pubg mobile, Facebook, messager, Zalo mà sao khi mở đa nhiệm thì các ứng dụng lại phải load lại vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.861778,
+         "id": "771068",
+         "field_search": "question",
+         "question": "Ad ơi, cho em hỏi, em xài 6S 64GB, nhưng thỉnh thoảng máy bị chớp chớp ở phía đầu màn hình khi mở máy, từ khi up lên 9.2 thì bị thường xuyên hơn, add cho em hỏi trường hợp của em là bị lỗi gì? Em xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.812338,
+         "id": "773506",
+         "field_search": "question",
+         "question": " Chào ad cho tôi hỏi tôi mới dùng android vậy sdcard0 và sdcard1 là gì vậy?Xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.785045,
+         "id": "994701",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi sao vào facebook trên PC nó cứ hiện vui lòng thử đóng và mở lại cửa sổ trình duyệt của bạn vậy ạ? Nhưng vào trên điện thoại thì dc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.783439,
+         "id": "1010142",
+         "field_search": "question",
+         "question": "Cho e hỏi smartphone nào có camera tốt chụp đẹp vậy ạ và lướt mượt nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.75832,
+         "id": "1139640",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu dùng nhiều chế độ hiệu suất tối đa cho lap windown 10 Ultimate Perfomance có sao k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.726114,
+         "id": "991716",
+         "field_search": "question",
+         "question": "Chào qtv cho em hỏi bên mình có bán smartphone elephone p8 mini k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.71813,
+         "id": "1156847",
+         "field_search": "question",
+         "question": "Xin chào!mình hiện đang sử dụng Nokia 3.1.sau khi đt cập nhật thì mình k thể xài đa nhiệm theo cách cũ nữa.Mong bên TGDD hỗ trợ mình.Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.703503,
+         "id": "1152772",
+         "field_search": "question",
+         "question": "Cho e hỏi e dùng samsung galaxy J7 mà nút nguồn tăng giảm âm lượng với ba nút đa nhiệm không dùng được thì phải làm sao ạ chỉ có tháo pin ra và cài vào lại bật nguồn lên mới chợ được nhưng vẫn không dùng được mấy nút đó thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.691935,
+         "id": "1134290",
+         "field_search": "question",
+         "question": "Đầu bút Spen của galaxy note FE thường xuyên bị ket. tôi có được bảo hành ko vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.688148,
+         "id": "998776",
+         "field_search": "question",
+         "question": "cho e hỏi mobistar lai zumbo j có bản nâng cấp lên android 7.0 chưa ad. và làm thế nào để nâng cấp lên android 7.0 v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.654168,
+         "id": "1019866",
+         "field_search": "question",
+         "question": "Cho em hỏi có cách nào để bật tiết kiệm pin trên android mà vẫn hiện bong bóng và thông báo messenger khi mình có tin nhắn đến như Ios không, em đang dùng android 5.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.584082,
+         "id": "992810",
+         "field_search": "question",
+         "question": " Cách loại bỏ các quảng cáo rác trên  smartphone  như thế nào vậy admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.566924,
+         "id": "1001699",
+         "field_search": "question",
+         "question": "Cho hỏi Luancher thích hợp cho smartphone 512mb ram?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

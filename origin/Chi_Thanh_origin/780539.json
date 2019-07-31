@@ -1,0 +1,801 @@
+{
+   "id_query": "780539",
+   "total": 34031,
+   "total_current": 100,
+   "max_score": 130.51996,
+   "origin_question": "Admin cho em hỏi em xài iPhone 5 đã jailbreak, do em không biết khi muốn gỡ phần mềm jailbreak ra khỏi máy đã bấm Cài Đặt Chung > Đặt Lại > Xóa Tất Cả Nội Dung Và Cài Đặt , bây giờ máy em bị treo táo phải làm sao?",
+   "hits": [
+      {
+         "score": 89.13081,
+         "id": "828150",
+         "field_search": "question",
+         "question": "Máy của mình đã jailbreak. Khi bấm vào Đặt lại Tất cả Cài đặt có bị treo táo không? Không phải bấm vào Xóa Tất cả Nội dung và Cài đặt nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.328564,
+         "id": "803974",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi vào cài đặt xoá tất cả nội dung và cài đặc thì iphone của mình có bị treo táo không...? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.538853,
+         "id": "740015",
+         "field_search": "question",
+         "question": "EM dùng iphone 5 ,đã jaibreck sau khi em xóa tất cả và đặt lại thì máy bị treo táo Ad có thể hướng dẫn em cách khắc phục được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.76038,
+         "id": "846658",
+         "field_search": "question",
+         "question": "e dùng iphone 5 đã Jailbreak và cài Cydia . con e nó nghịch máy xóa cài đặt và h bị treo máy . h phải làm thế nào để khắc phục được lỗi này ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.43174,
+         "id": "781174",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi, em đang sài iPhone 5S em muốn xóa tất cả nội dung và cài đặt máy bắt nhập mã giới hạn là sao zạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.34068,
+         "id": "851732",
+         "field_search": "question",
+         "question": "Ad cho em hỏi ip của em quên mật khẩu icloud bây giơ em đặt lại tất cài đặt thì có bị sao ko ,không phải là xoá mọi nội dung và cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.08676,
+         "id": "806548",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là iPhone 5 8.1.1 đã jaibreak em cài đặt lại giờ bị treo táo restore lại giờ có lấy lại được giữ liệu không ạ ? Em càm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.454594,
+         "id": "779335",
+         "field_search": "question",
+         "question": " Cho em hỏi là khi mình xoá tất cả nội dung và cài đặt lại trên iPhone 5 thì có xoá luôn tài khoản iCloud không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.416412,
+         "id": "740701",
+         "field_search": "question",
+         "question": "Mình đang dùng iPhone 5 phiên bản 8.2 đã Jailbreak nhưng sơ ý đã khôi phục cài đặt máy và trong quá trình upload và sai kết quả là máy bị treo táo luôn, vậy mình phải làm sao khắc phục sự cố này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.576286,
+         "id": "754954",
+         "field_search": "question",
+         "question": "Em hỏi ad tí máy của em jailbreak em bị lỗi. đã xóa jailbreak để khôi phục lại. bây giờ muốn jailbreak lại có đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.400135,
+         "id": "763257",
+         "field_search": "question",
+         "question": "  Sao máy em cài đặt lại iPhone rồi máy bị treo luôn giờ phải làm sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.303925,
+         "id": "867435",
+         "field_search": "question",
+         "question": "Anh ơi em jb 9.3 xong khởi động nguồn lại vô Cydia bị văng ra em đọc trên mạng thì khởi động nguồn lại sẽ mất jb nhưng vẫn còn icon Cydia em định sẽ đặt nội dung và cài đặt vậy có bị treo táo không anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.904354,
+         "id": "1169176",
+         "field_search": "question",
+         "question": "Điện thoại em Samsung galaxy note 3 không cập nhật được phiên bản mới nhất của messages em gỡ cài đặt sau đó tải lại thì không tải lại được em đã thử tất cả mọi cách trên mạng như gỡ dữ liệu cache gỡ cài đặt cập nhật ch play rồi mà không tải được ạ máy em bị làm sao thế giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.38452,
+         "id": "1140777",
+         "field_search": "question",
+         "question": "cho em hỏi. điện thoại của e thuộc hãng samsung galaxy j7 prime. bây giờ e muốn xóa tất cả dữ liệu và ứng dụng cài đặt cả tất cả tài khoản google( trở về máy mới và chưa có thông tin gì) thì e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.001175,
+         "id": "795218",
+         "field_search": "question",
+         "question": "cho e hỏi e xài iPhone 6s .. e bấm vô phần cài đặt rồi không biết sao bấm vô cái gì mà giờ nó ra ntn .. giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.956196,
+         "id": "853609",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi iPhone 5s của mình đã jaibreak có cydia,giờ mình khôi phục cài đặt bị treo táo mình phải làm tnao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.91426,
+         "id": "936731",
+         "field_search": "question",
+         "question": "Cho em hỏi: cái iPad 4Có phải khi đặt lại-->> xóa nội dung và đặt lại cài đặt gốc thì iPad e sẽ trở về như là mới k? Có phải giống như iPad em bị người khác cài k cho vào wifi của người đó, nếu e cài lại là có nghĩa e đã xóa thông tin mọi thứ của iPad và em có thể vào dc wifi người đó đúng k? Em muốn tìm cách thay đổi giống như là IT hay ID j đó của máy..Em cảm ơn :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.57206,
+         "id": "955753",
+         "field_search": "question",
+         "question": "Bên mình có dịch vụ fix lỗi treo táo ko ạ? Hum qua mình \" Đặt lại\" => xoá tất cả nội dung và cài đặt=> nó khởi động lại rồi loading được 30% thì ko thấy hiển thị loading nữa và treo táo,mong sớm nhận được phản hồi bên bạn,tks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.55061,
+         "id": "1020854",
+         "field_search": "question",
+         "question": "Cho mình hỏi, sao nhấn vào messenger thì điện thoại lại báo messenger đã dừng lại. Mình gỡ cài đặt và tải lại, khỏi động máy lại mà vẫn bị. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.152138,
+         "id": "765263",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 4S, mình muốn cài đặt tất cả cài đặt cho điện thoại nhưng khi cài đặt máy yêu cầu nhập mã khóa của bạn. Cho hỏi mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.055614,
+         "id": "1017048",
+         "field_search": "question",
+         "question": "Cho em hỏi s em vào cài đặt. Bấm vào sao lưu va cài đặt lại thì đt thoại báo la cài đặt đã dừng la s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.597702,
+         "id": "835119",
+         "field_search": "question",
+         "question": "Máy iPhone của em bị mất hết các phần mềm như cài đặt, ảnh,cuộc gọi, tin nhắn và nhiều nữa là bị làm sao.làm thế nào cài đặt lại được.giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.518448,
+         "id": "1138799",
+         "field_search": "question",
+         "question": "Cho em hỏi sao bây giờ máy e không cài được APK vậy ạ. Tất cả các apk đều ko cài đượcNó chỉ hiện ứng dụng không được cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.11993,
+         "id": "797672",
+         "field_search": "question",
+         "question": "iphone 6 váo cài đặt, vào cài đặt chung, vào cập nhật phần mềm, máy hiện thị iOS 9.2.1 Apple lnc Đã tạm dừng. Hỏi như thế này có bị gì không, cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.050735,
+         "id": "796956",
+         "field_search": "question",
+         "question": " Em đang sử dụng iPhone 4 nếu cài đặt lại bản gốc có bị mất Jailbreak không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.983467,
+         "id": "757565",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 16Gb bây giờ em muốn Jailbreak máy để dùng một số phần mềm thì có ảnh hưởng gì không ạ? Em thanks trước !!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.698578,
+         "id": "875264",
+         "field_search": "question",
+         "question": "máy em đang sài là win 8 có cài sẵn phần reader nên có thể đọc pdf, nhưng em đã lỡ cài đặt foxit reader sau đó em gỡ, bây h em không mở pdf bằng reader được, em phải làm sao ạ? em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.612286,
+         "id": "805111",
+         "field_search": "question",
+         "question": "Mình đang dùng Iphone 4s hôm nay mình cập nhật phần mềm trong phần cài đặt xong máy bị treo cáp Itunes bây giờ phải làm thế nào xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.6013,
+         "id": "789774",
+         "field_search": "question",
+         "question": "Em mới mua lại 1 chiểc iPhone 5 về dùng được ít ngày thì cháu nhỏ nghịch nhập sai mật khầu .em mang ra thợ thì họ chạy lại lại phần mềm và nâng cấp lên ios9.2.1 em về sử dụng thì thấy nhiều lúc máy bị đơ và duyệt wet chậm không xem phim được .em muốn hỏi máy e đã gặp vấn đề j .bây giờ e khôi phục cài đặt thì máy có trở về phần mềm cũ được không .và khi khôi phục có bị treo không vì e không biết kiểm tra jb .máy em là phiên bản quốc tế vì em dùng được nhiều mạng .các anh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.554432,
+         "id": "1134414",
+         "field_search": "question",
+         "question": "Tại sao em không vào được app store dù em đã cài đặt giờ như các cách. Cài đặt lại máy vẫn không được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.409435,
+         "id": "1159465",
+         "field_search": "question",
+         "question": "Cho em hỏi cách xóa id apple và đặt lại tất cả kể cả id luôn làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.352463,
+         "id": "758281",
+         "field_search": "question",
+         "question": "Máy em vừa bị lỗi Win nên vừa cài lại. hiện nay máy muốn cài lại các chương trình làm việc như Power point , Word,.... và một số phàn mềm khác nhưng khi tải xong em không cài đặt được. em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.144405,
+         "id": "834865",
+         "field_search": "question",
+         "question": "Tại sao iPhone 3GS của tôi ko tải đc Appvn chưa Jailbreak khi vào appstore.com ko xuất hiện các phần cài đặt còn khi vào appvn thì cũng ko xuất hiện phần cài đặt e chỉ jailbreak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.082397,
+         "id": "1160161",
+         "field_search": "question",
+         "question": "Máy em cài đặt phần mềm Unikey bảng gõ tiếng việt nhưng phần mềm làm cho máy chậm và có nhiều lúc em gõ nó không theo chính tả mà nhảy chữ lum la. Em không gở cài đặt được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.854298,
+         "id": "761301",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi máy em có phải chính hãng không ạ. với lại em tải iOS 9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt, cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.21055,
+         "id": "807447",
+         "field_search": "question",
+         "question": " Hướng dẫn khôi phục lại phần cài đặt đã bị xóa iPhone 6  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.117176,
+         "id": "796537",
+         "field_search": "question",
+         "question": "iphone 4s của em mới mua dùng được một thời gian thì cứ thấy yêu cầu cài đặt phần mềm gì đó em không nhớ.em đồng ý cài đặt sau đó máy bị treo hoàn toàn,như vậy là bị thế nào,sửa chữa ra sao và chi phí nhiều không ạ.Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.865883,
+         "id": "780854",
+         "field_search": "question",
+         "question": " AD cho em hỏi, em muốn xóa tất cả các nội dung  ứng dụng trên iPhone máy báo nhập mã giới hạn là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.779507,
+         "id": "864083",
+         "field_search": "question",
+         "question": "Máy em mới reset lại win. Nó mất các phần mềm được cài đặt trong ổ C không nói rồi, nó còn mất cả Intel(R) Processor Graphics. Giờ làm sao cài lại vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.55032,
+         "id": "687700",
+         "field_search": "question",
+         "question": "Phần mềm tozaco tải về tới lúc cài đặt máy báo lỗi cài đặt ứng dụng .cho em hỏi làm sao để khắc phục ạ .máy zp5 android4.4_2 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.546867,
+         "id": "741525",
+         "field_search": "question",
+         "question": " Lúc mình cài đặt lại máy nó không có chạy mà cứ treo màn hình trái táo là do bị gì á? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.43766,
+         "id": "761294",
+         "field_search": "question",
+         "question": "Em tải ios9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt. cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.41377,
+         "id": "889733",
+         "field_search": "question",
+         "question": "iPad của tôi khi mua ở cửa hàng cài đặt tất cả, bây giờ sau 2 năm sử dụng muốn cài thêm trò chơi thì bị hỏi password của Icloud. Cửa hàng bán ngày trước đã dẹp bây giờ phải làm sao đây? Xin chỉ giúp cách xóa tài khoản cũ để thiết lập tài khoản Icloud mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.139236,
+         "id": "1011887",
+         "field_search": "question",
+         "question": " máy em bị như thế là lỗi gì. Em đã xóa dữ liệu, cài đặt lại google play rồi mà vẫn không được.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.130062,
+         "id": "753403",
+         "field_search": "question",
+         "question": "QTV ơi. Cho em hỏi bao giờ mới có iPhone 4s 16Gb hoặc 32gb ạ?Và nếu như e mua iphone 4s 8Gb thì sau khi cửa hàng đã cài đặt tất cả thì còn khoảng bao nhiêu dung lượng trống nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.934254,
+         "id": "1164168",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, làm sao để cài đặt đc phần mềm đã tải về trên máy Huawei p30 live",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.877625,
+         "id": "812247",
+         "field_search": "question",
+         "question": "Tôi mới mua máy tính tại TGDĐ, khi bị trục trặc, tôi đã ra TGDĐ và nhân viên kỹ thuật đã cài lại win, nhưng sau khi cài đặt, máy bị loạn một số phím, bị mất phần mềm diệt virut mà tôi đã mua bản quyền và bộ Office tôi đã mua tại TGDĐ. Giờ phải làm thế nào để khắc phục những sự cố trên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.876205,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.852486,
+         "id": "814218",
+         "field_search": "question",
+         "question": "Mình sử dụng iPad mini và iPhone 6, sáng mình có sạc cả hai máy cùng một lúc, khoảng đến trưa mình kiểm tra thì cả hai máy đều khong lên phần trăm nào, mình có lên mạng tìm thì họ nói phải đặt lại cài đặt. Mình đặt thử lại cài đặt ở IPhone 6 thì một lúc sau phần trăm pin đã lên bình thường nên mình cũng đặt lại cài đặt của IPad nhưng phần trăm pin lại không tăng được. Mình phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.84544,
+         "id": "1164280",
+         "field_search": "question",
+         "question": "ad cho hỏi xíu ạ. mình sài điện thoại huawei nova 2i mình cài phần mềm color flash launcher nó làm thay đổi giao diện màn hình mình và k cho mình gỡ cài đặt nó, mình muốn trở về giao diện cũ và gỡ cài đặt phần mềm đó thì phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.808826,
+         "id": "903791",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em cài đặt pass iphone của em là chữ, xong rồi em tắt máy mở lại để bấm pass thử xem sao thì lại không mở được. Em không biết em có bấm sai cái gì không, chứ pass chữ bấm lại tận 2 lần, em không nhớ tài khoản icoud thì giờ phải làm sao? Giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.73972,
+         "id": "789979",
+         "field_search": "question",
+         "question": "Cho e hỏi sau khi jailbreak máy iPhone/iPad thì ứng dụng Cydia tự động xuất hiện trên màn hình chính hay là phải cài đặt?Và máy iPad của e chưa được jailbreak thì có thể nhờ tiệm của mình jailbreak giùm được không ạ và việc đó có mất phí không?Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.6503,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.620937,
+         "id": "830480",
+         "field_search": "question",
+         "question": "Cho e hỏi là mình gỡ cài đặt messenger ròi bây giờ muốn cài đặt lại nó kêu cần phải đăng nhập tài khoản google của mình là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.56903,
+         "id": "1022148",
+         "field_search": "question",
+         "question": "em đặt lại máy và các phần mềm word, excel, power point bị mất đi, có thể hướng dẫn em cài lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.5252,
+         "id": "927652",
+         "field_search": "question",
+         "question": "Em sử dụng máy samsung galaxy tab 4.7 t231 vừa rồi em root được và dùng phần mềm root explorer để xóa các tệp không cần thiết của hệ thống để máy có bộ nhớ nhiều hơn nhưng em lại xóa nhầm tệp của hệ thống bây giờ mày hiện lên dòng chữ tiến trình com.android.systemui đã dưng và không vào được màn hình chính,em đã hard reset và vào đến phần cài đặt ngôn ngữ thì không vào được nữa,em đã thử cài lại rom qua odin nhưng máy không nhận cáp usb nên em đã cài rom qua thẻ nhớ ngoài những máy vẫn báo lỗi không cài được.vậy mong các pro nào biết chỉ giúp em với em xin chân thành cảm ơn.số điện thoại của em:0167436xxxx.gmail:parksoora88@gmail.com.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.456516,
+         "id": "799427",
+         "field_search": "question",
+         "question": "Máy của em là iphone 5s. em vào xem phim có cảnh báo là máy đã nhiễm virus. Mở Safari ra ở phần thường xuyên truy cập lại có cảnh báo. Ấn vào cảnh báo máy báo có virus và yêu cầu làm theo thao tác diệt virus. em muốn bỏ chỗ cảnh báo đó đi thì phải làm sao? (Em đã cài đặt lại iphone rồi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.24804,
+         "id": "935963",
+         "field_search": "question",
+         "question": "em có down window7backgroundchager vào năm ngoái để dùng khá tốt. nhưng năm nay khi em muốn thay đổi lại thì nó không dùng đc nữa và em đã uninstall app đi bằng program and feature. Nhưng khi em down lại app đấy và cài đặt thì app không cài được và báo 1 trong các phần mềm vẫn đang chạy sẵn, đúng là khi em bật máy thì cái ảnh em đặt từ năm ngoái vẫn giữ nguyên.. Vậy phải làm thế nào để cài lại app đấy ạ /?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.224106,
+         "id": "761762",
+         "field_search": "question",
+         "question": " Máy em do cài đặt lại nên mất cái tròn trên màn hình ai biết cài lại không chỉ với ạ trên máy iPhone.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.19061,
+         "id": "855004",
+         "field_search": "question",
+         "question": "Ad ơi. Cho mình hỏi. Iphone 5s của mình sau khi mình đặt lại cài đặt gốc thì máy sử dụng bị nóng. Trước khi đặt lại cài đặt thì dùng wifi vs 3g tẹt ga, ko bao giờ bị nóng. Nhưng sau khi đặt lại cài đặt thì mình sử dụng 3g mới được 5 phút máy đã nóng ran lên rùi. Cho mình các khắc phục với. Thanks ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.02333,
+         "id": "752968",
+         "field_search": "question",
+         "question": "Tôi hiện tại đang dùng iPhone 6+ hiện trạng bây giờ điện thoại của tôi rơi vào tình trạng nhận được cuộc gọi và gửi tin nhắn, tra cước ok, nhưng muốn gọi đi đến 1 thuê bao bình thường hoặc tổng đài là không gọi được. Tôi đã cài đặt là mạng, xoá tất cả nội dung đã cài đặt, nhưng mấy hôm sau lại bị. Mong ad có cách nào giải quyết hộ tôi. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.91549,
+         "id": "756730",
+         "field_search": "question",
+         "question": " Khi xóa cài đặt lại tất cả các ứng dụng của hệ điều hành iOS chúng ta cần phải làm gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.902523,
+         "id": "996537",
+         "field_search": "question",
+         "question": "Tôi muốn đặt lại mật khẩu màn hình chính nhưng phần cài đặt đã bị vô hiệu hóa tôi phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.902523,
+         "id": "996535",
+         "field_search": "question",
+         "question": "Tôi muốn đặt lại mật khẩu màn hình chính, nhưng phần cài đặt đã bị vô hiệu hóa, tôi phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.694496,
+         "id": "871900",
+         "field_search": "question",
+         "question": "Cho em hỏi với tài khoản facebook và messages của em có vấn đề. Khi đăng nhập vào nó tự động thoát ra màn hình máy chủ. Em đã thử gỡ cài đặt rồi tải lại, khởi động lại máy vài lần nhưng đều không được. Ad giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.660416,
+         "id": "875327",
+         "field_search": "question",
+         "question": " ad cho em hỏi lỗi này là bị làm sao vậy . đã thử cài đặt lại mạng , reset máy và cục phát wifi nhưng vẫn ko được  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.630608,
+         "id": "1145354",
+         "field_search": "question",
+         "question": "cho em hõi a7 2018 của em có phải bị lỗi bàn phím không : khi comment trên youtube máy không hiện ra dòng chữ mình đang nhập, trên instagram cũng không thể thấy phần tin nhắn mình đang nhập cũng như trong story,... đã thử xóa và cài đặt, khởi động máy lại nhưng vẫn không hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.578262,
+         "id": "751761",
+         "field_search": "question",
+         "question": "  Em xài iPhone 3GS cho em hỏi máy cài được phần mềm phát wifi không và phần mềm nào là phù hợp phải mua hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.52248,
+         "id": "810731",
+         "field_search": "question",
+         "question": "Em đã cài đặt lại win trên thegioididong.com tại trà vinh cách đây khoảng 30 ngày nhưng bây giờ máy em nó để như thế này : your windows license expires on saturday , April 16, 2016 contact your system admin to get a key giờ em phải làm sao ạ ? với lại hình như là cài win = usb à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.51592,
+         "id": "1163480",
+         "field_search": "question",
+         "question": "Chào admin. Em có mua cho mẹ 1 máy Mobiistar Lai Z cách đây 2 - 3 năm. Gần đây máy hay tự động gửi tin nhắn ra các đầu số nước ngoài, phí 2500đ/tin với nội dung \"i want to enjoy content\" cùng với 1 dãy số.Em đã thử khôi phục cài đặt gốc và ra cửa hàng Viettel để chặn tất cả các loại dịch vụ của sim rồi nhưng đt vẫn tiếp tục tự gửi tin nhắn.Em không biết lí do và cách khắc phục ntn ạ. Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.482105,
+         "id": "997097",
+         "field_search": "question",
+         "question": "điện thoại huawei gr5 2017 đã ra mắt cập nhật android 7 , nhưng điện thoại em không nâng lên được do trong phần cài đặt chưa có bản cập nhật, vậy em phải chờ đến khi máy em nhận được bản update phải không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.475147,
+         "id": "1004615",
+         "field_search": "question",
+         "question": "  Mình muốn gỡ cài đặt fb nhưng khi ấn vào gỡ cài đặt n hiển thị như này. Bây giờ nhấn ok hay hủy ạ. Thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.400444,
+         "id": "766029",
+         "field_search": "question",
+         "question": "Chào ad , hôm nay em muốn hỏi về vấn đề jailbreak máy, em đã download cái chương trình để jailbreak ios 8.3 nhưng em không hiểu tại sao nó không thành công . nó bảo rằng ; please download lasted verision gì đó, bây giờ em phải làm gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.24639,
+         "id": "1148529",
+         "field_search": "question",
+         "question": "Ad cho hỏi: e đang dùng iphone 6plus, e đã nâng cấp lên ios 12 nhưng máy chạy quá chậm, bây giờ e muốn cài đặt lại ios 10.3.3 thì phải làm sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.171654,
+         "id": "882548",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, trong thời gian sử dụng laptop e có tải một số ứng dụng về nhưng làm máy không chaỵ được, sau đó em vào phần thiết lập lại PC mà không làm mất tài liệu lưu trong máy, sau khi hoàn tất em lỡ tay xoá mất ứng dụng 365 office đã được cài đặt sẵn trong máy. Vậy anh chị có thể cài đặt lại cho em được không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.042828,
+         "id": "1157889",
+         "field_search": "question",
+         "question": "Gỡ cài đặt bản cập nhật phần mềm cho A6 plus sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.03507,
+         "id": "1153296",
+         "field_search": "question",
+         "question": "Em có máy xiaomi mi4 mới,  khi cài phần mềm trên 100mb trên chplay thì cứ chạy đến 100% là lỗi. Em đã thử qua vài phần mềm trên 100mb đều k được. Em cài qua file apk từ bên ngoài thì cài đặt xong cũng không chạy được phần mềm đó luôn.  Xin hoit vậy là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.97091,
+         "id": "996432",
+         "field_search": "question",
+         "question": "Cho em hỏi , điện thoại em là j7 prime , tại sao em tải phần mềm về thì nó chỉ hiện lên màng hình chờ không có ở màn hình chình giờ muốn gở cài đặt thì vào CHPlay để tìm tên ứng dụng đó mới gở cài đặt được . Trong khi đó lúc trước máy em không có bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.768982,
+         "id": "789212",
+         "field_search": "question",
+         "question": "Hiện máy iphone 6 của mình bị đơ, mình đã đặt lại cài đặt nhưng giờ nó chỉ hiện lên màn hình trắng khởi động với trái táo suốt. Vậy máy mình đang bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.734077,
+         "id": "755951",
+         "field_search": "question",
+         "question": " Em có sài 1 con iPhone 4s 32g em đã nâng lên ios 9.2 giờ em muốn  Jailbreak thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.69444,
+         "id": "790271",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em bị treo táo nhưng khi restore lại máy được 70% thì nó thông báo lỗi 3194, vậy giờ em phải làm sao để restore lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.688038,
+         "id": "777171",
+         "field_search": "question",
+         "question": "tgdd cho mình hỏi, iPhone của mình bị chậm, mình vào phần cài đặt lại tất cả, thế là giờ ko vào dc mạng 3G nữa là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.656536,
+         "id": "1166439",
+         "field_search": "question",
+         "question": "sao mình cài đặt lại máy xiaomi redmi note 5 thì tới phần chọn quốc gia mình bấm chọn việt nam là máy lại bị reset ra ngoài vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.62796,
+         "id": "922132",
+         "field_search": "question",
+         "question": "Cho em hỏi sau khi chạy lại chương trình thì máy em mất cydia,có ai biết vì sao không ạ?làm thế nào cài đặt lại?(em dùng ip4s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.590813,
+         "id": "785015",
+         "field_search": "question",
+         "question": " Mua iphone 4s cũ có cài đặt sim ghép rồi giờ muốn gỡ bỏ thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.52875,
+         "id": "778873",
+         "field_search": "question",
+         "question": " Máy em có cài Windows 10 hỏi cài đặt Turbo Pacal thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.514507,
+         "id": "774862",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 đã lên iOS 9.2 vừa nẫy máy có bản cập nhật iOS 9.2.1 em không tải mà sao máy đã tự tải về vậy em có lên cài đặt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.50937,
+         "id": "767714",
+         "field_search": "question",
+         "question": "Ip6 của e lúc mua chạy ios 8 của tgdđ. Sau đó e jailbreak. Vừa rồi e lên 9.2 và ko jailbreak nữa. Cho e hỏi như vậy máy e bây giờ có khôi phục cài đặt gốc (reset được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.336525,
+         "id": "775722",
+         "field_search": "question",
+         "question": " Cách gỡ cài đặt của chương trình làm sao ạ ? máy Dell em mới mua i3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.324352,
+         "id": "991508",
+         "field_search": "question",
+         "question": "dạ .ad giúp em vs. em bị nỗi j ý ạ . nội dung là thế này :  em có vô phần: cài đặt > touch ID & mật mã > mở khoá ip . và nó hiện nội dung \" Thật Bại . không thể hoàn thành thiết lập . vui lòng quay lại và thử lại \"  Giúp em vs ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.317986,
+         "id": "1161327",
+         "field_search": "question",
+         "question": "cho em hỏi máy Xaomi redmi 5 Miui 10 xóa hết dữ liệu đăng nhập lại yêu cầu nhập tài khoản google cũ mới vô cài đặt máy được thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.312794,
+         "id": "792101",
+         "field_search": "question",
+         "question": "Cho em hỏi cách gỡ bỏ Assistive touch trên Samsung j2. Em đã vào quản lý ứng dụng gỡ cài đặt nhưng vẫn không được. cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.304573,
+         "id": "781591",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi mình có mua con iPhone 4 mà khi mình vô mục cài đặt -> cài đặt chung -> bàn phím thì không có gì với lại mình vô phần sử dụng thì nó bị văng ra màn hình chính?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.28313,
+         "id": "1167721",
+         "field_search": "question",
+         "question": "Giúp mình với, mình đang dùng Sony Xperia M4 Aqua xóa mess đi mà không tài nào cài đặt lại được. Đã kiểm tra dung lượng và kết nối wifi, tất cả đều ổnMình cũng thử xóa dữ liệu CH Play và Dịch vụ GG Play nhưng vẫn không cài đặt được. Mong được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.282547,
+         "id": "918251",
+         "field_search": "question",
+         "question": " Em khôi phục lại cài đặt gốc nhưng quên không nhớ tài khoản icloud nữa. Bây giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.176414,
+         "id": "1143805",
+         "field_search": "question",
+         "question": "Do vô tình chạm vào màn hình nên em đã cài đặt ứng dụng Photo360Editor trên galaxy app, vì vậy chế độ chụp ánh trên camera của Note FE cũng bị thay đổi. Cho em hỏi co cách nào để gỡ/xóa bỏ cài đặt ứng dụng này và trở về trạng thái camera của Note FE như ban đầu không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.164997,
+         "id": "809717",
+         "field_search": "question",
+         "question": " ad cho e hỏi, iPhone khi đặt lại tất cả cai đặt có bị mất ảnh không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.048134,
+         "id": "812419",
+         "field_search": "question",
+         "question": " mã lỗi 0x80070422 làm em không cài đặt facebook trên store được. lý do vì sao ạ?Em xài máy dell inspiron 3552 win 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.0478,
+         "id": "788913",
+         "field_search": "question",
+         "question": "    em dùng iphon4 .e vao phần xóa cài đặt mạng giờ nó như thế nay em phải xử lí thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

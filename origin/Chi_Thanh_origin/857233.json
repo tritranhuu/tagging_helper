@@ -1,0 +1,801 @@
+{
+   "id_query": "857233",
+   "total": 25277,
+   "total_current": 100,
+   "max_score": 53.02181,
+   "origin_question": " tại sao tải camera 360 trên IOS về không xài được cũng không xóa được? ",
+   "hits": [
+      {
+         "score": 27.323784,
+         "id": "939253",
+         "field_search": "question",
+         "question": " tại sao iphone 4 của em ios 7.1.2 không tải facebook về được mà máy ip4s cũng ios 7.1.2 tải về được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.566141,
+         "id": "766105",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải camera 360 về iPad nhưng trên màn hình iPad nó không hiện cái biểu tượng của app camera 360 phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.868923,
+         "id": "774534",
+         "field_search": "question",
+         "question": "Em xài iPhone 4 iOS 7.1.2 nhưng tải cam360 về thì xài không được. Thử lên tải ứng dụng appstorevn để tải các ứng dụng khác thì cũng không được luôn.Cho rồi hỏi làm sao để em tải được các ứng dụng trên appstorevn hay phải root máy.Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.117462,
+         "id": "1144324",
+         "field_search": "question",
+         "question": "Cho em hỏi là ip 6 camera thường bị quay ngược thì làm thế nào ạ? Em đã khởi động lại và không được, em cũng tải thử app camera 360 về làm theo hướng dẫn cũng kg đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.626411,
+         "id": "949042",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao khi cài đặt phần mềm tải trên mạng về trên win 10 không được vậy. các file crack đều bị xóa khi tải về. có cách nào cài được không ạ. Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.42316,
+         "id": "750681",
+         "field_search": "question",
+         "question": " Tại sao iOS 9.0 lại không thể tải được Appvn trên web? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.755825,
+         "id": "831334",
+         "field_search": "question",
+         "question": " bạn ơi! cho mình hỏi, sao iphone se mình tải facebook, camera 360 về ko đc ạ!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.439564,
+         "id": "830517",
+         "field_search": "question",
+         "question": " Tại sao iPhone 4 chụp camera 360 lại bị giật khong chụp được vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.618618,
+         "id": "1148137",
+         "field_search": "question",
+         "question": "Cách xoá 360 root trên điện thoại samsum  do vô ý tải về mà xoá không được vui lòng giúp dùm mình nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.25389,
+         "id": "1142639",
+         "field_search": "question",
+         "question": "Tại sao ko tải đc zingplay trên ios 12 nhỉMuốn chơi game cũng chịu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.230394,
+         "id": "747623",
+         "field_search": "question",
+         "question": "anh chị cho tôi hỏi: tôi dùng laptop asus 360 cài đặt kingsoft, khi tải các file word trên mạng về thì không mở được, làm sao để mở a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.03583,
+         "id": "781701",
+         "field_search": "question",
+         "question": " Tôi vừa mua iphone 6s tải ứng dụng camera 360 về sao lại có chữ trung quốc. giao diện chữ trung quốc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.611912,
+         "id": "1156156",
+         "field_search": "question",
+         "question": "Tại s tui không cài file ứng dụng đã tải về trên google được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.376085,
+         "id": "757972",
+         "field_search": "question",
+         "question": " Tại sao iPhone 4s iOS 7.1 không tải được Picsart photo studio? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.362589,
+         "id": "761591",
+         "field_search": "question",
+         "question": " Sao em chụp hình bằng gậy selfie không được vậy, em đang dùng iPhone 6 và camera 360 v7.1.1? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.090857,
+         "id": "805823",
+         "field_search": "question",
+         "question": " Tại sao mình không xóa được ảnh và STT trên Zalo làm cách nào để xóa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.052406,
+         "id": "764673",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua về win 10. tại sao không tải được game online và không chơi game online trên zing được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.889668,
+         "id": "880813",
+         "field_search": "question",
+         "question": " Sao xài lumia550 tải về ứng dụng như zalo nó cứ không được là sao vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.830908,
+         "id": "851557",
+         "field_search": "question",
+         "question": " Tại sao iPhone 5s mình mới mua chụp ảnh bằng camera 360 rất sáng, xài khoản 2 tuần thì chụp k rõ nét và mờ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.722557,
+         "id": "1007344",
+         "field_search": "question",
+         "question": "Trên samsung j7 pro tại sao mình không tải themes mới được? Nhấn vào nút Tải Về nhưng không có phản hồi? Mong bên dịch vụ hỗ trợ sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.709991,
+         "id": "774938",
+         "field_search": "question",
+         "question": " iPhone lên iOS 9 chụp camera 360 lưu hình bị nqang lam sao để máy như cũ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.675236,
+         "id": "827967",
+         "field_search": "question",
+         "question": " Tại sao khi tải hình động trên mạng về máy lại không xem được , hình vẫn đứng im . Mình dùng iphone 5s . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.61285,
+         "id": "993510",
+         "field_search": "question",
+         "question": "Cho mình hỏi .Sao mình không tải được ứng dụng zalo trên IP4 thường,Vào appstore thì máy bảo chỉ tải được trên iOS 8. .Vậy có cách nào để mình tải ứng dụng zalo về không nhĩ ! Có gì mọi người chỉ mình với nhé !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.586657,
+         "id": "766461",
+         "field_search": "question",
+         "question": "  Lumia có xài tango được không? Sao em tải về mà nó hiện ra như vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.471289,
+         "id": "1149705",
+         "field_search": "question",
+         "question": "Xin hỏi tại sao gần đây máy của em tải ảnh trên pinterest về điện thoại lại không được mặc dù em xài ứng dụng đó đã 2 năm vẫn tải về bình thường. Em không biết đã gặp sự cố gì nhưng lần cuối em tải được ảnh trên đó về là vào ngày 24 tháng 1. Điện thoại em là samsung galaxy j4 2018. Em tìm cách khắc phục nhưng không được nên xin nhờ đội ngũ tgdđ giúp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.435223,
+         "id": "806797",
+         "field_search": "question",
+         "question": "Chào ad? mình xài điện thoại ip5, nhưng hình ảnh mình đã xóa trong \"đã xóa gần đây\" luôn, cách dây cũng 5 tháng, không sao lưu trên icloud. vậy mình có thể lấy lại hình được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.420656,
+         "id": "938480",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cái iphone 5 của em chỉ vào được camera còn vào các ứng dụng khâc gì không được về màng hình chính cũng không được, nút home cũng sài không được, tắt nguồn cũng không luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.407476,
+         "id": "767883",
+         "field_search": "question",
+         "question": " Mình xài iOS 9.2 giờ có thể về lại 8.4 được không QTV? Nếu về được làm cách nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.375025,
+         "id": "771732",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 3GS 32 GB chạy iOS 6.1.3 , mình tải ứng dụng trên appvn nhưng máy không tải về được. Giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.374414,
+         "id": "1136838",
+         "field_search": "question",
+         "question": " Tại sao máy của mình tải Zalo về lại không hiện trên màn hình mà phải vào cài đặt mới mở được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.349232,
+         "id": "1006311",
+         "field_search": "question",
+         "question": " Mình không tải Facebook về má được ... hệ điều hành ios 10.0.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.264101,
+         "id": "799105",
+         "field_search": "question",
+         "question": " Tại sao mình không phát được wifi trên ipad air 2 ios 9.0.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.22025,
+         "id": "1168996",
+         "field_search": "question",
+         "question": "Tại sao không cập nhật được youtube ? Tải thì máy hiển thị không thể tải app về trong lúc này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.175182,
+         "id": "1149150",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Mình dùng Oppo a3s , tại sao mình không tải các ứng dụng trên Google Play về thẻ SD được mà nó lại tải trên lưu trữ thiết bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.172237,
+         "id": "886827",
+         "field_search": "question",
+         "question": " Mình muốn lưu video tải về từ ứng dụng smart surfer sang camera roll trên ios thì làm cách nào nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.053497,
+         "id": "834719",
+         "field_search": "question",
+         "question": " Tại sao em tải liên minh được 2.05.3 GB rồi mà nó bị lỗi không tải được nữa là sao ạ, em xài win 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.035017,
+         "id": "1005217",
+         "field_search": "question",
+         "question": "có laptop nào vừa xoài 360 vừa tải được nhiều game không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.013897,
+         "id": "792688",
+         "field_search": "question",
+         "question": "Em xài ios 9.2.1 nhưng sao em tải appcola nó chỉ hiện lên trang màu trắng th chứ ko tải về được bây giờ em phải làm s??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.986927,
+         "id": "838732",
+         "field_search": "question",
+         "question": " Tại sao game tải về máy tính rồi mà không choi được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.939735,
+         "id": "876483",
+         "field_search": "question",
+         "question": "Tại sao viber trên lumia 1520 không có tiếng việt? Xóa rồi tải lại cũng vậy . Ngôn ngữ máy của e là tiếng việt mà. Nó toàn hiện tiếng pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.908323,
+         "id": "863735",
+         "field_search": "question",
+         "question": " Tại sao trong đt của e hok tải được CydiaTìm Kím trong AppStore cũng không có ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.84526,
+         "id": "818933",
+         "field_search": "question",
+         "question": " Tại sao em đã tải về rồi mà không cài đặt được facebook chỉ tải được fb lite là sao ạ chỉ em với.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.789885,
+         "id": "843931",
+         "field_search": "question",
+         "question": " Tại sao em tải Messenger lại về máy, mà máy lại ghi là không tải được ứng dụng là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.729156,
+         "id": "808358",
+         "field_search": "question",
+         "question": " Tại sao em không thể xóa được nhạc trên Mp3 của điện thoại oppo joy r1001 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.69474,
+         "id": "911905",
+         "field_search": "question",
+         "question": " Máy galaxy a7 2016 sao không xem được ảnh 360 độ trên facebook hả admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.649212,
+         "id": "1024156",
+         "field_search": "question",
+         "question": "tại sao máy em không đăng kí được icloud giúp em với tại vì không đăng nhập được cái nớ nên máy em không tải được ứng dụng về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.394428,
+         "id": "1003561",
+         "field_search": "question",
+         "question": "cho em hỏi lap top e khi e tải clip trên utube về rồi thì không mở được là vì sao ạ ? e tải thử 1 bài hát trên mp3 xuống nghe thử mà cũng k đc luôn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.364328,
+         "id": "1164132",
+         "field_search": "question",
+         "question": "Tại sao máy samsung j4 core không tải được ứng dụng trên ch play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.364218,
+         "id": "800562",
+         "field_search": "question",
+         "question": " AD cho em hỏi iOS 9.2 tải Cydia về được không vậy nếu được thì bằng cách nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.34792,
+         "id": "767600",
+         "field_search": "question",
+         "question": "Trên Laptop có phần mềm iTools rồi mà khi cắm jack vô để tải dữ liệu như hình ảnh, video hay xóa dữ liệu mà sao không truy cập vô File được, cũng không coi được hình ảnh luôn, nhờ add chỉ dùm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.23227,
+         "id": "1020792",
+         "field_search": "question",
+         "question": "cho em hỏi A5 2017 tải hiệu ứng camera về mà ko dùng được. Ad có thể hướng dẫn em được không? Em có tìm trên mạng mà ko thấy. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.22809,
+         "id": "890716",
+         "field_search": "question",
+         "question": "Cho em hỏi mấy ngày trước e tải file trên fb về vẫn đọc được bình thường, nhưng hôm nay tải về kg đọc được, và cái file cũ cũng kg đọc được luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.223291,
+         "id": "1157806",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao coolpad mega 5 của em bật camera thì nó hiện lên như vậy,bật flash cũng không được vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.185442,
+         "id": "875969",
+         "field_search": "question",
+         "question": " cách xóa phiên bản ios vừa tải về thì vào đâu ad ơi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.183826,
+         "id": "950683",
+         "field_search": "question",
+         "question": " E tải ngoại tuyến trên youtobe về không xem được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.181995,
+         "id": "978161",
+         "field_search": "question",
+         "question": "Hiện tại e đag xài ip4, nhưng lỡ xóa mất facebook mà tải lại thì nó đòi ios 8.0 mới tải đc. V bây h phải làm s mới tải lại đc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.13818,
+         "id": "1022974",
+         "field_search": "question",
+         "question": "Tại sao điện thoại obi mv1 tải facebook về không được điện thoại android đang khởi động và mở máy lên không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.112423,
+         "id": "867978",
+         "field_search": "question",
+         "question": " Tại sao laptop em tải cái gì cũng không được hết vậy? Nó cứ quay quay hoài là sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.098583,
+         "id": "1154715",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao em đã tạo icloud.com  rui e vào tải cac ứng dụng vidu nhu camera ...tai không được la do sao ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.036068,
+         "id": "799041",
+         "field_search": "question",
+         "question": " Tại sao máy tính laptop dell của e không mở được camera? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.02213,
+         "id": "1143151",
+         "field_search": "question",
+         "question": "Em dùng máy zumbo s2017 sao ko vào được camera với tải camera về thì ko quay đc sáng camera sau và cảm trc nó bị ngược ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.007488,
+         "id": "762603",
+         "field_search": "question",
+         "question": "Sao Samsung tab 4 7 inch tải ứng dụng về thẻ nhớ không được, chỉ tải về bộ nhớ máy, đầy là không tải về được, có cách nào tải trực tiếp về thẻ nhớ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.001377,
+         "id": "1163637",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm sao để chuyển từ dạng mới mà Samsung cho cập nhật về dạng cũ, cảm giác kéo sang ngang không được tiện, kéo lên trên để xóa cũng khá bất tiện",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.980675,
+         "id": "774851",
+         "field_search": "question",
+         "question": "Mọi người giúp với ạ. Máy em là iPhone 4 không hiểu sao cứ vào ứng dụng camera 360 là bị out ra ngoài. Mặc dù em đã xoá rồi tải lại nhưng vẫn không được. Có ai biết lỗi ở đâu không ạ. Chỉ em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.974226,
+         "id": "762750",
+         "field_search": "question",
+         "question": "Em đang xài Laptop Dell lúc trước em đã tạo tài khoản mirosoft và tải ứng dụng về máy được,nhưng ngần đây lên cửa hàng tải ứng dụng về thì tài khoản mirosoft lại báo tải về không được,nó cứ báo lỗi. Em cũng thử đăng xuất,đăng nhập lại mà vẫn không được. Ngày giờ kiểm tra thiô bẫn đúng.Xin QTV giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.944061,
+         "id": "1022079",
+         "field_search": "question",
+         "question": "ad cho e hỏi sao e tải tệp văn bản trên mạng về mà mở không được.e xài nokia 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.8906,
+         "id": "928402",
+         "field_search": "question",
+         "question": "Máy mình là ip4 phiên bản 7.1.2 mình l thể tải được facebook và messenger về máy.nó toàn hiển thị là ứng udngj này yêu cầu ios 8.8 trở lên mới tải về và sử dụng được.là sao vậy.lúc trước mình vẫn tải và dùng được như thường nhưng sau khi xóa để tải lại thì lại k dc.mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.867756,
+         "id": "884476",
+         "field_search": "question",
+         "question": " Xoá ứng dụng trên ios 10 kiểu gì ạ em tải về xoá không đươc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.820372,
+         "id": "790225",
+         "field_search": "question",
+         "question": "Cho hỏi em xài Iphone 3GS 6.1.6 16gb sao mà xài ứng dụng nào cũng bị lag máy em ít ứng dụng lắm có cái văng ra luôn tắt hết ứng dụng chạy ngầm cũng vậy, có thể nói 99% các ứng dụng trên AppStore mà iphone này tải về được xài đều văng và lag rất nhiều ( nặng hay nhẹ đều hoàn toàn như vậy ) không một ứng dụng nào mà xài Bình thường được . Mong giúp đỡ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.77915,
+         "id": "806900",
+         "field_search": "question",
+         "question": " Lần trước mình có tải về đc nhưng đã xóa đi giờ muốn tải lại zalo mà không được? bạn xem giúp mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.77239,
+         "id": "1161631",
+         "field_search": "question",
+         "question": "Tôi đã Tải Facebook like lại máy tại sao không quay trực tiếp trên Facebook được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.721266,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.707531,
+         "id": "1159546",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao không lưu được file đính kèm trên messenger về ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.668009,
+         "id": "1166227",
+         "field_search": "question",
+         "question": "Mình tải clear dọn rát trến CH play . về dọn rát trên máy, sau khi dọn xong hình ảnh bị xóa mất 1 phần chụp từ camera dt, có cách nào lấy hình lại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.631899,
+         "id": "1134945",
+         "field_search": "question",
+         "question": "Mình mua máy hưaweinova 3i, lúc mới mua về máy có nhiều game mặc định, trong đó có game Dragon Mania. mình lỡ tay xóa game khỏi máy. bây h muốn cài lại, nhưng tìm trên CH Play cũng ko thấy game này, tải ở nhiều trang khác cũng không được, mong Qtv giúp mình link gốc tải được không ạ. cám ơn nhiều. biểu tượng game đây ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.610292,
+         "id": "811023",
+         "field_search": "question",
+         "question": " Cho em hỏi ứng dụng để tải về video trên iphone 5S IOS 9.2.1 không ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.536423,
+         "id": "1159635",
+         "field_search": "question",
+         "question": "Khi tải file về được. Nhưng khi xuất excel thì báo lỗi. Tải game cũng k được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.511738,
+         "id": "998102",
+         "field_search": "question",
+         "question": "Em dùng oppo joy 3 tại sao em tải fb về nó không cài đặt được hiện báo lỗi 24",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.48999,
+         "id": "811604",
+         "field_search": "question",
+         "question": "Mình đang xài iOS 9.3.1 muốn tải game metal slug free thì làm thế nào tải trong app store không có tải bên AppVN thì không cài được, giúp mình nha?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.452824,
+         "id": "806798",
+         "field_search": "question",
+         "question": "minh xài iPhone 6s plus giờ mình muốn tải video phim về máy mà phần mềm free video và một số phần mềm đã bị xóa trên appstore!giờ mình mún tải thì phải làm sao ạ?????????????? minh đã thử rất nhìu phần mềm nhưng không có chỗ để tải về???????mong phản hồi sớm ạ????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.409157,
+         "id": "993514",
+         "field_search": "question",
+         "question": "ID ơi cho mình hỏi mình đang xài iphone6 nhưng tại sao mình vô appstore tải ứng dụng không được vậy ạ. Mình tải tất cả ứng dụng như: facebook, messenger, snow,... mình bấm vô tải cái nó xoay để tải về rồi sao đó ngưng trở lại như củ không xoay và cho tải nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.398024,
+         "id": "1159826",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao mình tải cái file word về mà lúc mình vào xem thì nó hiện như thế, có một số file word khác thì mình tải được bình thường, nó hiện tải về hoàn tất mà mình vào xem thì không mở được file. Mình có thử tải cách khác là down trên máy tính xong gửi qua messenger fb rồi mình down về thì mở được bình thường. Nhưng vậy thì bất tiện lắm. Mình xài ss a8 star",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.335472,
+         "id": "1008450",
+         "field_search": "question",
+         "question": "Camera 360 sau khi update là bị như vậy không vào được, xoá sẽ mất ảnh bên trong nên phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.330029,
+         "id": "564322",
+         "field_search": "question",
+         "question": "Tại sao mình cai mp3 hay nhaccuatui..về điện thoại nge nhạc trưc tuyến thì đc.nhưng k tải nhạc ve đc vậy QTV..dù xài wifi cũng k đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.228266,
+         "id": "1012761",
+         "field_search": "question",
+         "question": "Tại sao mình không tải được theme, khi tải nó hiển thị là: \" không thể tải hình về trong hiển thị hình dạng bàn phím\" giúp mình với. Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.218262,
+         "id": "1144675",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao tải video trên youtube về nó cứ để 0%, hoặc 1vài video tải về được xem có khi bị rít, sao khi tắt mạng thì vào xem không được, có khi để lỗi hoặc để video thiếu tệp. Em đang dùng itel s11 plus. Mong giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.214823,
+         "id": "836853",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao không tìm được film trên zing ạ? Tìm film nào cũng ra vậy hết ạ!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.196188,
+         "id": "1147044",
+         "field_search": "question",
+         "question": "Thegioididong có hỗ trợ cập nhật ios trên Iphone 7 không? tại xài ios 8.1.2 nó hay bị lỗi quá. hiihi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.185972,
+         "id": "1143380",
+         "field_search": "question",
+         "question": "tại sao cái máy oppo F1 của em không thể xóa được tệp video trên thẻ nhớ. Cũng không thể định dạng được ( định dạng xong tự phục hồi trong vài giây). em đã dùng nhiều ứng dụng nhưng không kết quả. Mong ad tư vấn cách xử lý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.182074,
+         "id": "880736",
+         "field_search": "question",
+         "question": "Cho e hỏi. Tại sao phần mền download clip trên youtube khi tải về laptop chỉ sử dụng được 30 ngày. Bây giờ phải đăng kí là sao, rồi sao e có thể đăng kí được, có tốn phí không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.118391,
+         "id": "808093",
+         "field_search": "question",
+         "question": "tại sao tải game cf về laptop không được, và tại game từ google play và cài đặt cần pass ; email or phone , nhưng tôi không có.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.08072,
+         "id": "1142244",
+         "field_search": "question",
+         "question": "Không xóa được faccboock trên samsung A8 là sao mong giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.078754,
+         "id": "888182",
+         "field_search": "question",
+         "question": "admin cho e hỏi điện thoại iphone 5 của e bị hư màn hình . ngoài việc sử dụng icloud để tải ảnh thì còn cách nào khác để lấy ảnh trên cuộn camera về được không ạ . tại e đăng nhập icloud nhưng nó chỉ về có vài tấm à . help me !!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.03682,
+         "id": "760245",
+         "field_search": "question",
+         "question": " Tại sao khi chat video trên viber trên laptop, camera lại không tự mở lên? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.028473,
+         "id": "922293",
+         "field_search": "question",
+         "question": "Khi đã xóa bộ nhớ đệm trong máy, có tải lại được tin nhắn trên kakaotalk được không nếu được thì làm cách nào ạ? Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.003136,
+         "id": "1022595",
+         "field_search": "question",
+         "question": "Cách tải video trên iPhone  từ YouTube và lưu về máy trong cuộn camera",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.001263,
+         "id": "772357",
+         "field_search": "question",
+         "question": "Mình không có nhu cầu nâng cấp lên ios 9.2 nhưng DT của mình đã tự động tải về bản cập nhật ios 9.2. Vậy xóa bản cập nhật tự động tải về iPhone như thế nào?nhờ các bạn hướng dẫn. xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.992527,
+         "id": "802927",
+         "field_search": "question",
+         "question": "1 tuần trước em còn tải được fjle trên facebook về mà hôm nay lại không tải được.tải về báo tải xuống không thành công. Em dùng HTC ONE MAX. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.956644,
+         "id": "742098",
+         "field_search": "question",
+         "question": " iPhone 5 ios 9 không slide to unlock được cũng không restore được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

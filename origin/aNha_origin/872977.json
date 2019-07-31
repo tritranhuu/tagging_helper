@@ -1,0 +1,801 @@
+{
+   "id_query": "872977",
+   "total": 33333,
+   "total_current": 100,
+   "max_score": 149.32513,
+   "origin_question": "Hi. Cho e hỏi , vua mua ipad air2 bên mình về. Bin là 65% . Vậy có cần sạc liền ko hay xai hết cạn bin rồi sạc 8 tiếng ? Thoi gian sac ipaf air 2 sau 3 lần mấy tiếng thì đầy",
+   "hits": [
+      {
+         "score": 48.35063,
+         "id": "997362",
+         "field_search": "question",
+         "question": "Mình lỡ sạc ip 6 mới mua 2 lần đầu sạc 2 tiếng mấy r có sao không? Lần t3 có cần sạc 8 tiếng ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.304344,
+         "id": "1010800",
+         "field_search": "question",
+         "question": "Nokia 5 mới mua về có cần sạc đủ 8 tiếng sau 3 lần không ạ? Lần đầu sạc khoảng 8 tiếng nhưng mấy đứa nhỏ vừa sạc vừa dùng thì có vấn đề gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.66452,
+         "id": "1155528",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình mới mua cái a30. Lần đầu sạc pin có cần phải sac 8 tiếng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.089283,
+         "id": "1167765",
+         "field_search": "question",
+         "question": "Ad ơi OPPO f11 pro mới mua có cần sạc 3 lần 8 tiếng k. Hay chỉ sạc đầy r sai ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.554073,
+         "id": "948455",
+         "field_search": "question",
+         "question": "E mới mua macbook air, lúc ở chỗ mua nhân viên có nói là mac sạc những 8 tiếng mới đầy nhưng e sạc (lần 2) thì thấy chỉ mất 2 tiếng là đầy nhưng em vẫn để tới 9-10 tiếng, cho em hỏi như vậy máy có bth k ạ?Với lại phần dung lượng điện sạc đầy em vô coi lúc đầu là 7050 1 tiếng sau e coi lại thì còn có 7038 vậy là sao ạ?Xin lỗi em hỏi hơi nhiều vì lần đầu e sử dụng mac nên không rõ ToT",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.502747,
+         "id": "794072",
+         "field_search": "question",
+         "question": "Em mới thay pin mới cho máy iphone 5 ấy nhưng lần đầu em quên sạc 8 tiếng rồi, vậy thì 3 lần sau e bắt đầu sạc 8 tiếng được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.544655,
+         "id": "1163657",
+         "field_search": "question",
+         "question": "Oppo F11 sạc lần đầu có nên sạc 8 tiếng không ạ, hay chỉ cần sạc đầy rồi rút ra thôi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.504948,
+         "id": "785262",
+         "field_search": "question",
+         "question": " lenovo a7010 đầy pin tự ngắt sạc. vậy cho e hỏi lần đầu có cần sạc đủ 8 tiếng k vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.026897,
+         "id": "1138886",
+         "field_search": "question",
+         "question": "Trước máy ss j5 2k15 của em sạc 2-3 tiếng là đầy, bây giờ phải sạc đến 8 tiếng . Sạc 2-3 tiếng chỉ được có 20% là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.767567,
+         "id": "939463",
+         "field_search": "question",
+         "question": "E mới mua ip5 về, sạc lần đầu vừa đủ 2-3h r xài hết hẳn xong sạc lần 2 cũng cỡ như vậy, vậy thì lần 3, e có cần phải sạc 8-10h nữa không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.71395,
+         "id": "827689",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại ip5s sạc đầy dùng được bao lau vậy điện thoại em nhanh hết bin không biết có phải bin bị hỏng rồi hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.686752,
+         "id": "1002583",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dùng lenovo a7000. Trước đây e vừa sạc bin vừa xem phim vẫn vô bin như bình thường. Nhưng bây giờ em vừa sạc vừa xem phim thì bin vô rất yếu rồi tuột bin như không cắm sạc. Vậy có phải do bin em bị chai rồi không ạ, hay là do máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.6349,
+         "id": "775775",
+         "field_search": "question",
+         "question": "Máy mình là iPhone 6S Plus. Mình không có sạc 3 lần 8 tiếng lần đầu sử dụng vậy có sao không?Mấy lần sau này phải sạc tới bao nhiêu thì tốt ạ? Có cần thiết phải tới 100% không? Tới mức pin bao nhiêu thì cần cắm sạc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.59638,
+         "id": "1019158",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 điện thoại samsung A5 2017, lúc mình mở máy lên thì pin còn 78%. QTV cho mình hỏi mình có cần xài hết pin rồi sạc 8 tiếng hay không hay chỉ cần sạc đầy 100% pin là được. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.513897,
+         "id": "996815",
+         "field_search": "question",
+         "question": "Mình mới mua ip 6 v thì có cần sạc 8 tiếng trong 3 lần đầu không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.35542,
+         "id": "1016263",
+         "field_search": "question",
+         "question": " cho mình hỏi điện thoại Nokia 5 mới mua có cần sạc 3 lần đầu 8 tiếng k ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.393734,
+         "id": "805225",
+         "field_search": "question",
+         "question": " S7 edge lần đầu sạc pin có cần sạc 8 tiếng không vậy qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.363064,
+         "id": "1147935",
+         "field_search": "question",
+         "question": "em vừa mua galaxy a7 và đươc nhân viên tư vấn là sạc đt khi đt còn dưới 20% và sac cỡ 3 đến 4 tiếng thì sẽ đầy nhưng lúc sạc thì chỉ sạc có gần 1 tiếng là đầy ,,e muốn hỏi như vậy là đt có bị chai pin kh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.71325,
+         "id": "1000939",
+         "field_search": "question",
+         "question": "samsung galaxy s8 có cần sạc đủ 8 tiếng trong 3 lần không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.491417,
+         "id": "903494",
+         "field_search": "question",
+         "question": "E mới mua máy ở hệ thống( ip 5s) . Sau khi sạc 2 lần. Thấy máy rất hao pin. Nhân viên cũng k nói phải sạc như thế nào. Vậy sau khi e sạc lại 3 lần 8 tiếng nếu máy còn hao pin. Có đổi dc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.471844,
+         "id": "799481",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5s nhưng trong 3 lần sạc đầu tiên vì lý do công việc mình không thể sạc đủ 8 tiếng vậy có ảnh hưởng gìì không? Và lần sạc thứ 4 này mình có thể sạc 8 tiếng đc ko? AD trả lời giúp mình với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.32681,
+         "id": "1020976",
+         "field_search": "question",
+         "question": "Cho e hỏi oppo f3 mớ mua về có cần sạc từ 8 đến 10 tiếng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.96044,
+         "id": "1015316",
+         "field_search": "question",
+         "question": "E vừa mua oppo f3 được 1 tuần. E sạc đủ 3 lần 8 tiếng. Nhưng máy rất nhanh hết pin. E không  chơi game hay xem phim gì hết. Cũng hạn chế wifi . 3g thì không  xài nhưng máy rất nhanh hết pin. Chỉ vài tiếng đã hết trong khi dung lượng pin tới 3200mAh. Giống như đã xài máy rất lâu rồi vậy. 1 ngày e hạn chế lắm cũng sạc 2 lần. Cho e hỏi tại sao ạk.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.910686,
+         "id": "1148294",
+         "field_search": "question",
+         "question": "Điện thoại nokia 5.1 plus mình mới mua bên TGDD 2 ngày trước mình có cần sạc 1 ngày 8 tiếng không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.87796,
+         "id": "800351",
+         "field_search": "question",
+         "question": " Mình mua lap và đang sạc lần đầu sạc 10 tiếng mà sạc được 4 tiếng đèn tắt báo đầy thì vẫn để sạc đúng không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.830124,
+         "id": "1134077",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại samsung J7 Prime (sử dụng dc 1 năm) bình thường mình sạc pin tầm 3t lầy đầy nhưng tấm mấy lần sạc gần đây thì sạc tới 5-6 t mới đầy mình sợ cục sạc hư nên mua bộ sạc samsung chính hãng 2A (sạc nhanh)về sạc cũng 5-6 tiếng mới đầy. Vậy cho mình hỏi vấn đề ở đây là máy bị j hay cục sạc có vấn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.682743,
+         "id": "919569",
+         "field_search": "question",
+         "question": "cho e hỏi máy iphone 5 của e sạc pin nhanh đầy và cũng nhanh hết có phải đã bị chai rồi không và có phải thay bin ngày không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.48281,
+         "id": "924340",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua 1 điện thoại samsung Galaxy J7 Prime, 3 lần sạc pin đầu tiên mình có cần phải sạc đủ 8 tiếng không ạ ? xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.177658,
+         "id": "777825",
+         "field_search": "question",
+         "question": "Có ai dùng iPhone 6s cho mình biết nó sạc bao lâu thời gian để đầy 100% pin vậy ạ...máy mình sạc hơn 3 tiếng mới đầy,mình lo lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.897076,
+         "id": "1135300",
+         "field_search": "question",
+         "question": "Có phải sạc pin 3 lần đầu điện thoại A3s là 8 tiếng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.822933,
+         "id": "1002641",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại em ko biết bị gì nữa mà sạc nó ko vô bin em cúp nguồn sạc thì nó mới vô còn mở nguồn sạc thì nó ko vô toàn báo bin yếu rồi sập nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.738922,
+         "id": "764859",
+         "field_search": "question",
+         "question": "Em mới mua Asus X453S, khi sạc đầy pin chỉ dùng được 2 tiếng liên tục đã cạn pin . vậy có phải là máy tính có vấn đề gì không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.733692,
+         "id": "1145035",
+         "field_search": "question",
+         "question": "mình mới mua 1 cái ss a6 vs 1 cai ss j6 vậy cho mình hỏi có cần sạc 8 tiếng mới dc sử dụng hay ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.418232,
+         "id": "1138627",
+         "field_search": "question",
+         "question": "Cho e sạc dt lần đầu 6 tiếng có sao không ? hay nhất định phải 8 tiếng,  e mới  sài OPPO A3S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.998352,
+         "id": "1015294",
+         "field_search": "question",
+         "question": "Em mới mua galaxy a7 đổi trả 1 tuâgn mà sạc bị lỏng từ lúc mua. Hết pin sạc lại thì máy báo cần dùng đúng phụ kiện của máy , rồi lại báo sạc chậm. Em sạc 2 tiếng mới đầy pin ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.968224,
+         "id": "1133564",
+         "field_search": "question",
+         "question": "cho mình hỏi, hôm trước mình mới mua samsung j6 plus, lần sạc đầu tiên là 3 tiếng xong, không hiểu sao từ lần sạc thứ 2 trở đi sạc ít nhât 6 tiếng đồng hồ mới xong, liệu bộ sạc có vấn đề gì phải không?. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.87635,
+         "id": "1150890",
+         "field_search": "question",
+         "question": "Em lỡ sạc lần đầu của nova 3i 8 tiếng rồi thì có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.721214,
+         "id": "777859",
+         "field_search": "question",
+         "question": "Chào a.c cho em hỏi em dùng iPhone 6 chạy 9.2 thì sạc pin chỉ hơn 2 tiếng đầy. Em vừa nâng lên 9.2.1 mà sạc hơn 3 tiếng nó mới đầy ah. Sạc em là sạc chính hãng . Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.716957,
+         "id": "1010789",
+         "field_search": "question",
+         "question": "Cho hỏi sao j7 của em lúc ms mua thì sạc đầy là 2 tiếng mấy mà sao bây h đc cỡ một tháng là sạc hơn 3 tiếng ms đầy. Với lại sao dùng 5 _6 phút là nó giảm 1% pin vậy ad pin có bị sao không . Ak vs lại 27.0 Mb là bao nhiêu Gb vậy ạ Rep nhanh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.674576,
+         "id": "769243",
+         "field_search": "question",
+         "question": " iPhone 5s mới mua sạc thế nào ad? Vẫn 3 lần đầu 8 tiếng phải không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.609715,
+         "id": "808879",
+         "field_search": "question",
+         "question": " Iphone 5s của em bị hư bin hay nóng may dung đc 3 tieng là hết bin .. Có phải bin hư k a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.432007,
+         "id": "1168645",
+         "field_search": "question",
+         "question": "Thế redmi note 7 sạc pin một lần là mấy tiếng vậy??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.326126,
+         "id": "996665",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao dt ss j7 của mình lúc mơí xài thì sạc tầm 2 tiếng rươĩ là đầy pin nhưng giờ mình phải sạc tới 4 đến 5 tiếng mơí đầy pin ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.279594,
+         "id": "1019977",
+         "field_search": "question",
+         "question": "em dùng ss j7 pr được mấy tháng. trước đây sạc khoảng hơn 2 tiếng là đầy pin. Bây giờ em sạc hơn 3 tiếng nhưng chỉ đến 92%. Cho em hỏi là đt của em có bị sao không ạ? Khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.236042,
+         "id": "1004976",
+         "field_search": "question",
+         "question": "điện thoại mình mua dc khoảng 5 tháng nhưng cục sạc của mình bị gì sạc rất lâu khoảng 9 tiếng mới đầy pin trong khi mình mượn cục sạc của ông anh thì chỉ khoảng 2 tiếng rưỡi là đầy. vẫn còn bảo hành ko biết mình có thể đổi lại sạc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.182358,
+         "id": "777661",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 6s của em sạc hơn 3 tiếng mới đầy 100% pin...gần đây thì máy em có dấu hiệu sạc không được đầy 100% nó chỉ đến 70% cho dù e đã tặt nguồn để khởi động lại,như vậy là may em bị sao ko ạ và thời gian sạc 3 tiếng như vay có lâu quá không?em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.17842,
+         "id": "997384",
+         "field_search": "question",
+         "question": " Ad cho m hỏi m mới mua J5 prime có cần sạc đủ 810 tiếng 3 lần đầu không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.061153,
+         "id": "762997",
+         "field_search": "question",
+         "question": " Cho em hỏi thời lượng sạc iPhone 5s là bao lâu ạ. Vì máy em sạc chưa đến 2 tiếng là đầy rồi. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.01297,
+         "id": "903269",
+         "field_search": "question",
+         "question": "Hi Admin,Mình có một số câu hỏi về Iphone 6plus, rất mong sự hỗ trợ từ phía TGDD.1. Mình có dãy ký tự kiểu máy: FGAJ2X/A. Vậy nguồn gốc của máy có dãy ký tự này là ở đâu?2. Mình mới mua Iphone 6plus, củ sạc là loại 3 chân. Mình muốn hỏi hàng chính hãng Apple thì củ sạc như thế nào? Sạc chính hãng Apple đối với Iphone 6plus, nếu sạc từ 20% pin đến 100% pin mất bao nhiêu lâu? (Trong điều kiện không sử dụng wifi, 3G? và trong điều kiện tắt nguồn?3. Trong 3 lần sạc đầu tiên có cần sạc liên tục 8-10 tiếng không? Và cách bảo quản pin thế nào là tối ưu nhất? (Thời gian giữa các lần sạc cách nhau bao lâu là hợp lý?Thanks & Regards!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.00617,
+         "id": "1159029",
+         "field_search": "question",
+         "question": "Cho e hỏi với.e vừa mới mua đt oppo a3s vậy trong 3 lần đầu có cần sạc trong vòng 8h ko ạ. Và có cần xả hết pin từ lần sạc trc đó ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.968578,
+         "id": "806884",
+         "field_search": "question",
+         "question": "Chào các anh chị, em có 1 cái iphone 4S, em mới mua được gần 1 tháng thì không biết sao bin vẫn hiện thị 100% dù sài cả 2 3 tiếng, mới cắm sạc thì đã đầy 100%, trước đó thì không như vậy, nhờ anh chị giải đáp dùm em ạ, Thanks you!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.788694,
+         "id": "780290",
+         "field_search": "question",
+         "question": " Pin iphone 5 mới vừa thay có cần sạc 8 tiếng lần đầu không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.766119,
+         "id": "797088",
+         "field_search": "question",
+         "question": "Neo 7 có tự ngắt điện khi sạc đầy không, Mình mua đt này khoảng 1 tháng nhưng hôm nay mình lo sạc 9 tiếng khi sạc là 8% pin thì có ảnh hưởng gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.386034,
+         "id": "771369",
+         "field_search": "question",
+         "question": " Cho em hỏi  Sạc iphone 4s 8 tiếng mà không đầy pin là bị sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.239202,
+         "id": "1010743",
+         "field_search": "question",
+         "question": "Em  vua moi mua chiet ASUS zephon 3 max 5.5 Sao 1 thang su dung thi cap nhat androi 7.1 thi bin sac rat cham . Va có  lúc  sac khong vào  luon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.192408,
+         "id": "851518",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang dung ip5S mà thời gian gần đây sac pin rất lâu đầy tầm phải 5,6h mới đầy pin ( mà đầy rồi thì dùng bthuong chứ ko nhanh hết pin đâu) nhưng tgian sạc lâu quámình đã ktra cáp sạc,vệ sinh đầy đủ cho hỏi máy vậy bị jkcảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.185522,
+         "id": "834109",
+         "field_search": "question",
+         "question": "Xin chào Ad! Cho em hỏi là, e đang dùng đt iphone 5s vậy lần sạc pin đầu tiên có phải sạc pin 8-10 tiếng ko ạ!? Mà nếu lỡ ko sạc thì phải làm sao!? Có hậu quả gì ko ạ!? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.114895,
+         "id": "990469",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5s ios 10.3.1 mình thắc mắc về pin sạc đầy 100% sau 30-40 phút thì xuống 99% và còn lại thì cứ 3 phút tụt 1% trong tình trạng dùng wifi lướt web, xem phim.... thì thời gian dùng đc 4 tiếng là còn 20% vậy pin có ổn ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.092648,
+         "id": "1160544",
+         "field_search": "question",
+         "question": "Mình dùng Oppo a3s máy bị sập khi sạc sau vài tiếng. Bị mấy ngày nay rồi. Như vậy là hỏng gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.979229,
+         "id": "1153641",
+         "field_search": "question",
+         "question": "Điện thoại realme 2 của e mới mua về có cần sạc 8h 3 lần k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.804312,
+         "id": "1004272",
+         "field_search": "question",
+         "question": "mình mới mua j7 pro hôm qua có cần sạc đủ 8 tiếng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.695581,
+         "id": "746847",
+         "field_search": "question",
+         "question": " Cho e hỏi s oppo joy 3 nhanh hết bin vậỵ ạ có cách nào giúp làm lâu hết bin hơn hk ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.691214,
+         "id": "1010604",
+         "field_search": "question",
+         "question": "mình mua pin sạc dư phòng polyme 10000 hồi tháng 7, pin báo không đầy dù minh sạc 8 tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.57945,
+         "id": "1132365",
+         "field_search": "question",
+         "question": " Sạc điện thoại A6 4 tiếng chưa đầy, sạc theo đt. Mới mua gần 2 tuần. Cho e hỏi lí do với ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.569132,
+         "id": "1020474",
+         "field_search": "question",
+         "question": "Đt em là oppo A37, em mới mua và sạc được 3 lần thôi. Em vẫn để thêm hơn nửa tiếng khi báo đầy, nhưng không sử dụng gì thì sau khoảng 1 tgian nó vẫn bị mất 1 -2% pin thì là có bị sao không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.548723,
+         "id": "1168178",
+         "field_search": "question",
+         "question": "điện thoại vivo v15 mới mua có cần sạc 8 tiếng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.478298,
+         "id": "894105",
+         "field_search": "question",
+         "question": " Cho em hỏi em mới thay pin con iPhone 5 của em vậy có cần sạc đủ 8 tiếng ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.4636,
+         "id": "1159022",
+         "field_search": "question",
+         "question": "Máy e là huawei y6 prime 2018 . sao mấy bữa nay máy sạc pin đầy ngâm để đó 1 hay 2 tiếng j đó thì nó tự khởi động lại lun . vậy nó bị lỗi j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.428919,
+         "id": "1021424",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang xài samsum J7 prime e mún sạc bin nhưng nó báo bin ở tình trạng thấp k sạc được như vậy máy e nó bị gì zạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.41026,
+         "id": "1153992",
+         "field_search": "question",
+         "question": "Cho em hỏi SS j4+ và j6+ mất bao lâu thì sạc đầy ạ?Em thấy j4+ sạc trước j6+ khoảng nửa tiếng ( lúc đó j4+ là 11%. J6+ là 15%) nhưng khoảng 2-2.5 tiếng sau thì j4+ là 56% còn j6+ là 71%. Vậy pin ở máy nào có vấn đề ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.310194,
+         "id": "1151610",
+         "field_search": "question",
+         "question": "Sạc  pin  điện thoại Huawei y9 có  cần  sạc  8 tiếng  k  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.232113,
+         "id": "813507",
+         "field_search": "question",
+         "question": "laptop/asus-a456ua-i5-6200u-4gb-500gb-ưin10 mình mới mua dc 2 ngày. Mình sạc đầy pin mà chỉ xài dc 4 tiếng rưỡi là cò 5%. Cho hỏi sao mau hết pin vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.069622,
+         "id": "769646",
+         "field_search": "question",
+         "question": " Mình mới có iPhone vào đâu để lên internet, có cần sạc pin 8 tiếng khi mới mua không vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.962559,
+         "id": "1157630",
+         "field_search": "question",
+         "question": "Điện thoại iphone 7plus sử dụng bao nhiêu  bin rồi nên sạc vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.848757,
+         "id": "776559",
+         "field_search": "question",
+         "question": " Cho em hỏi nếu iPhone 6s mà sạc pin thì chắc chắn mấy tiếng sẽ đầy pin ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.798136,
+         "id": "1143132",
+         "field_search": "question",
+         "question": "Cho e hỏi chiếc xiaomi redmi note 6 pro sạc bao lâu mới đầy vậy ạ , em dùng xạc của máy mà mới xạc có 2 tiếng là đầy rồi. Pin 4000 mAh mà xạc nhanh vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.767538,
+         "id": "1159392",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro tại sao. Có khi sạc từ 20 đến 100 thì chỉ khoảng 2 tiếnng mấy. Có khi lại lên đến 3 tiếng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.72815,
+         "id": "1016210",
+         "field_search": "question",
+         "question": "Cho mình hỏi là j7 của mình mới mua đc 3 tháng. Bình thường xạc pin khoảng 1 tiếng rưỡi là đầy. Mấy ngày gần đây xạc gần 3 tiếng mới đc 90% là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.691418,
+         "id": "992050",
+         "field_search": "question",
+         "question": "   iPhone sạc mấy tiếng đầy pin làm sao biết đã đầy pin?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.629269,
+         "id": "1024534",
+         "field_search": "question",
+         "question": "samsung j7 prime của em dạo này sạc pin rất lâu, từ 3% sạc đầy cần 5-6 tiếng đồng hồ,trong khi em đã tắt hết ứng dụng chạy ngầm ,wifi,3G.Em đã khôi phục cài đặt gốc vẫn sạc chậm.Không biết là cáp sạc hay điện thoại e có vấn đề gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.624142,
+         "id": "1148958",
+         "field_search": "question",
+         "question": "Cho hỏi máy j7 prime e bị gì tự nhiên đang sạc từ lên 94% tự nhiên chấp chị mô khoảng 2 giây nó tụt lần xuống94-93-92-91-90-89trong vòng có mấy giây và dạo gần đây nó sạc rất lâu tới 3 tiếng 30 phút lận trước đây có 2 tiếng 30 thôi. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.556274,
+         "id": "855404",
+         "field_search": "question",
+         "question": "Máy mình 5s . mặc dù thay 4 quả pin rồi nhưng về ko dùng vẫn bị tụt thậm chí sạc đầy 100% và tắt hết ứng dụng và mạng . sáng ngủ dậy chỉ sau 7 tiếng mà pin tụt hơn 1 nửa . cho mình hỏi lỗi này là bị sao vậy . và khi sạc dây kết nối với củ sạc thì ko lên pin phải vừa dùng vừa sạc mới lên còn sạc bằng máy tính thì lên bình thương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.316162,
+         "id": "990982",
+         "field_search": "question",
+         "question": "Cho e hỏi e mua máy mà k để ý cục sạc Mang máy về nhà mới để ý thấy sạc k có chữ gì là của hãng là sao ạ. Và cắm sạc 2A mà pin 4000mah sạc gần 4 tiếng mới đầy pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.13941,
+         "id": "1138618",
+         "field_search": "question",
+         "question": "E dùng máy oppo f5 khi vừa dùng vừa sạc thì mấy bị tụt pin còn khi sạc bình thường thi phải 6 tiếng mới đầy a/c cho e hỏi tại Sao vậy ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.10722,
+         "id": "1160524",
+         "field_search": "question",
+         "question": "Cho e hỏi dòng máy sasunga30 sac bin bao nhiu giờ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.9852,
+         "id": "1000998",
+         "field_search": "question",
+         "question": "Xin chào ad , cho mình hỏi bin của sản phâm oppo f1 bao nhiu MHA ạ . Và với cục sạc dự phòng Y105 10.000mah thì sạc được mấy lần cho điện thoại oppo f1 , mong phản hồi từ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.94638,
+         "id": "897029",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi laptop asus của mình từ khi mua về giờ vẫn sạc đầy 100% bình thường nhưng thời gian gần đây không sạc đầy được nữa cho dù mình sạc cả ngày thì máy vẫn ko đầy, cứ charing mãi nà. Như vậy pin của mình bị lỗi gì hay hỏng vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.913282,
+         "id": "1133391",
+         "field_search": "question",
+         "question": "Mình vừa mua con Note 9, mình cắm sạc 3 4 tiếng đồng hồ mà sạc ko đầy được đt, phải rút ra cắm lại mới sạc tiếp được, bỏ sạc qua đêm sáng ra chỉ được 27% pin, rất bực mình. Cho mình hỏi lỗi này mình được đổi máy mới hay ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.894058,
+         "id": "782873",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao pin iphone 5s nhanh tuột vậy, mình vừa mua máy mới hôm qua nhân. Viên noi là sạc 3 lần 8 tiếng để kich pin. Mình không biết khi kích pin xong thì pin có giữ lâu không ạ. Minh len mạng bằng wifi khoảng 5 phút là tuột 2 đến 3% pin. Giúp mình với. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.893337,
+         "id": "1023784",
+         "field_search": "question",
+         "question": "Mình sài S8 plus.nhưng vừa sạc bin vừa sài có sao k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.846258,
+         "id": "1133303",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mi8 life mới mua có cần thực hiện 3 lần sạc đầy đầu tiên hay không, nếu có thì xạc như thế nào để đúng kĩ thuật.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.76171,
+         "id": "1004928",
+         "field_search": "question",
+         "question": "-điện thoại e sạc pin khoảng 5 6 tiếng mới đầy? ko biết là do sạc hay do pin e bị hư ạ-ở shop mình có bán pin cho điện thoại samsung j5 2016 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.753775,
+         "id": "1136427",
+         "field_search": "question",
+         "question": "Em chào anh/chị cho em hỏi là máy tablet samsung galaxy TabE của em nó mau hết pi, sạc thì mất khoảng gần 3 tiếng mới đầy. Bên anh chị có thay pin không ạ và chi phí khoảng bao nhiêu ạ?  E lướt qua web bên mình thì chỉ thấy pin sạc dự phòng thôi ạ. Cám ơn anh/chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.716265,
+         "id": "1020762",
+         "field_search": "question",
+         "question": "Điện thoại e mua được hơn 4 năm rồi, mua ở thế giới di động là galaxy note 3 SM- N9000. sau đó có bị hư main nên e thay main. Khi vào thông tin thiết bị thì lại hiển thị là SM - N9005. e nghĩ là lúc thay người ta bỏ cái main model N9005 vào. Sau đó cục sạc bị hư sạc ko vào nên e có dùng cục sạc của Samsung nhưng dòng đt khác để sạc, vẫn dùng pin nguyên thủy khi mới mua về lúc đầu ở TGDD. sử dụng được 1 thời gian thì pin hao nhanh dữ dội. Chơi game và coi video trên YouTube tầm 30 phút là muốn hết pin. E mới mua cục sạc và pin mới chính hãng luôn để thay vào. E cũng sạc 8 tiếng cho 3 lần đầu luôn nhưng vẫn hao dữ dội. E ko xem video, ko chơi game, chỉ mở wifi lướt Facebook 1 tí mà hao mười mấy phần trăm pin. Lúc đầu e cho là do xài sạc ko đúng dòng đt và pin bị chai nên e thay mới hết. Nhưng bây giờ thay rồi vẫn bị hao nhanh. Mong admin giải đáp giúp e là nó bị lỗi gì vậy ạ ? Cần thay những thứ gì nữa ? E cảm ơn nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.609875,
+         "id": "1137745",
+         "field_search": "question",
+         "question": "điện thoại zenfone 5 sạc 4 tiếng chưa đầy pin vì sau vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.593252,
+         "id": "1013774",
+         "field_search": "question",
+         "question": "các anh cho em hỏi chút ạ. em vừa mua đt iphone 7plus. khi đt còn 1% pin e cắm sạc lần đầu tiên. Sạc 19 tiếng mới được 50% pin. Như vậy là có vấn đề về pin hay bình thường vậy ạ? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.528664,
+         "id": "1139161",
+         "field_search": "question",
+         "question": "Đt oppo A71 mua từ 8/2018. Trước giờ sạc 3-4 tiếng đã đầy, hôm qua tới nay xuất hiện tình trạng sạc pin 9h chưa đầy. Mong có cách khắc phục và xử lí. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.489153,
+         "id": "1148990",
+         "field_search": "question",
+         "question": "em mới mua chiếc điện thoại oppo A3s sử dụng đc 1 tháng và sạc dth rất tốt. bình thường sạc tầm khoảng 4 tiếng là đầy bữa nay đã sạc 5 tiếng rồi mà dth đc 32% là do nguyên nhân gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.455685,
+         "id": "996083",
+         "field_search": "question",
+         "question": "Thời gian sạc pin tốt nhất cho điện thoại sam sung galaxy j7 prime là khoảng mấy tiếng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

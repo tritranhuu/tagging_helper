@@ -1,0 +1,801 @@
+{
+   "id_query": "867287",
+   "total": 25158,
+   "total_current": 100,
+   "max_score": 83.06604,
+   "origin_question": " GIúp mình với máy mình ip 5s 9.2 đã jailbreak, mình restore lại thì máy báo lỗi 3004, 2005, 17 ",
+   "hits": [
+      {
+         "score": 25.878502,
+         "id": "862830",
+         "field_search": "question",
+         "question": "Chào bạn hiện tại mình đang dung iphone 6 lock ios 9.3.3 và mình đã jailbreak được. Trong quá trình fix lỗi mình đã khởi động lại máy và bị treo màn hình táo. Mình đã restore nhưng sau đó itunes vẫn yêu cầu nhập mật khẩu trên ip nhưng ip vẫn bị treo. Vậy mình phải làm như thế nào để có thể khởi động lại máy như bình thường. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.247498,
+         "id": "798344",
+         "field_search": "question",
+         "question": "Ad ơi có trường hợp này giúp mình chút.mình backup dữ liệu của con 4s ios 9.2.1 lên máy.sau đó mình restore lại vào 5s lock đã jailbreak 7.1 bằng itunes và itool nhưng k đc.mặc dù vẫn thấy file backup trên máy nhưng itunes t k thấy.giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.085245,
+         "id": "875790",
+         "field_search": "question",
+         "question": "Tại sao restore máy iphone 5 đã jailbreak không có icloud xong rồi mà lúc kích hoatj iphone lại báo có icould?? mong Ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.79718,
+         "id": "1010021",
+         "field_search": "question",
+         "question": "Chào tgdđCho mình hỏi mình đăng nhập icloud trên iphone 5s nhưng bây giờ mình muốn đăng xuất thì lại không được. Và máy báo lỗi : (Không thể xác minhĐã có lỗi khi kết nối icloud.)Mod giúp mình với ạ 😥😥😥",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.32562,
+         "id": "782122",
+         "field_search": "question",
+         "question": "mình vừa mua ip 6s lúc mình chưa lên 9.2 thì máy dung vẫn bt nhưng mình vừa lên 9.2 thì dùng bị lỗi phần trăm pin như kiểu máy dùng lâu ngày bị pin ảo ấy thì phải làm như thế nào, tắt máy bị bật lại lúc sau lại bị :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.11845,
+         "id": "810905",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9.2 đã jailbreak được chưa vậy???????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.860466,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.50924,
+         "id": "880313",
+         "field_search": "question",
+         "question": " Mình dùng ip 5s. Hiện máy đang báo lỗi sao lưu và không thể sai lưu bản mới.vậy mình pải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.484297,
+         "id": "833019",
+         "field_search": "question",
+         "question": " Mình bị mất ip 5s nhưng máy đã bị sập nguồn thì liệu có tìm lại đc ko?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.115278,
+         "id": "778883",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9.2 đã jailbreak được chưa vậy thế giới di động? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.67615,
+         "id": "756063",
+         "field_search": "question",
+         "question": " Máy mình như vậy Restore lên 9.2 có vấn đề gì không bạn. Thanks bạn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.34634,
+         "id": "1009554",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính dell của mình dùng win 7 32bit khi cắm dây cáp usb kết nối với điện thoại thì máy tính báo lỗi và tự khởi động lại. Khắc phục giúp mình với. Cảm ơn nhiều1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.247618,
+         "id": "1143284",
+         "field_search": "question",
+         "question": "Mình có máy ipad air 2 và đang chạy ios 11.3 đã jailbrek máy. Hôm quá có xoá nhầm các tweak gì đó và sau khi respring lại máy thì nó hiện ở màn hình xin chào. Không thể nào vào được bên trong. Khi restore bằng itunes thì báo phải tắt find my iphone. Và mình đã xoá bỏ hết bằng máy tính: icloud.com/#findXin mọi ngưởi giúp đở làm sao restore lại ipad mà vẫn ở ios cũ với. Link quay lại video:",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.239824,
+         "id": "762909",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 5s. khi thực hiện cuộc gọi  facebook messenger thì không được. máy báo carrier or country doesn't support calling. có bạn nào biết cách fix lỗi này không giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.028172,
+         "id": "771911",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Ip của mình bị hack icloud. Mình kiểm tra kích hoạt thì hệ thống báo ở chế độ \"bật\" rồi. Icloud của mình vẫn hiển thị trong máy, khi mình nhập pass cũ thì không được, mình đổi pass mới hệ thống báo đã đổi thành công, nhưng khi nhập pass mới vào máy thì lại báo pass hoặc ID không đúng. Giờ mình muốn thoát ID này khỏi máy thì mình phải làm sao? Máy mình 4s ios 7 chưa jailbreak, mình có thể khôi phục cài đặt được không. Mong ad cho ý kiến. Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.924858,
+         "id": "797841",
+         "field_search": "question",
+         "question": " Bạn ơi mình có iPhone 5s , mình bh muốn restore lại thì làm thế nào và restore xong thì active như thế nào ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.674337,
+         "id": "790271",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em bị treo táo nhưng khi restore lại máy được 70% thì nó thông báo lỗi 3194, vậy giờ em phải làm sao để restore lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.668806,
+         "id": "1020342",
+         "field_search": "question",
+         "question": "chào ad. mình đang quay clip mà máy mình hết ping. chưa cúp nguồn. mình thấy yếu mình tắt chứ không phải máy cúp nguồn luôn. sau đó mình mở lại thì nó báo lỗi. nhờ ad giúp...... mình đã thử khởi động lại nhưng vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.643099,
+         "id": "778077",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5s và muốn restore lại máy có cách nào để giữ lại danh bạ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.606918,
+         "id": "825850",
+         "field_search": "question",
+         "question": "zalo báo không đủ bộ nhớ để nhận.(lỗi 506)mình đã gỡ các ứng dụng cũ.nhưng vẫn không được.khởi động lại máy cũng không được.ai biết cách khắc phục lỗi giúp e với ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.604393,
+         "id": "995815",
+         "field_search": "question",
+         "question": "Mình kích hoạt lại ip ko đc. Máy báo ko thể kích hoạt vì không thể kết nối với máy chủ. Chỉ cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.594887,
+         "id": "768358",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5S hiện đang dùng iOS 9.0.2  theo bạn có nên nâng cấp lên 9.2 không.liệu nâng cấp lên 9.2 thì máy có bị lỗi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.587578,
+         "id": "1154116",
+         "field_search": "question",
+         "question": "Máy mình mua tại shop . Máy ip xr cũ đang dùng thì bị sập nguồn rồi mình khởi động lại máy lại bình thường cho mình hỏi là lỗi gì ạ . Mình đang nghi máy bị lỗi nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.51249,
+         "id": "887454",
+         "field_search": "question",
+         "question": " mình cài ios 10 bằng itunes nhưng ns báo lỗi này trong khi máy đt còn hơn 9gb, giúp mình với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.48894,
+         "id": "898224",
+         "field_search": "question",
+         "question": " Mình đag dùng ip5s mua tại bên bạn . Máy còn 17 pin thì sập nguồn báo hết pin . Máy mình bị sao vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.423836,
+         "id": "848004",
+         "field_search": "question",
+         "question": "Khi đăng nhập facebook thì máy điện thoại báo là phiên đã hết hạn đăng nhập lại nhưng khi làm theo thì lại không được mình phải làm sao đây giúp mình với cảm ơn nhiu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.390486,
+         "id": "989918",
+         "field_search": "question",
+         "question": "cho hỏi mình có cái iphone 5 vô youtube máy báo lỗi .. đã xảy ra lỗi hướng dẫn mình chỉnh lại nhe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.19481,
+         "id": "912804",
+         "field_search": "question",
+         "question": " Cho mình hỏi phí Restore lại Ip 3GS bao nhiêu ? Máy bị đứng màn hình có biểu tượng dây cáp và iTunes ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.804646,
+         "id": "997710",
+         "field_search": "question",
+         "question": "Máy mình bị báo lỗi \" không may là quy trình bộ nhớ phương tiện đã dừng lại \". Cửa hàng với ứng dụng chụp ảnh, video đều không vào đc. Mình khôi phục cài đặt gốc máy vẫn báo lỗi. Phải làm ntn để máy hoạt động bt đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.768608,
+         "id": "768669",
+         "field_search": "question",
+         "question": "Sau khi mình reset lại máy thì iPhone không không kết nối được mạng ( trong wifi không hiện lên SSID tên wifi ) mình đã chạy lại fimrware, restore lại máy resetting lại máy nhưng vẫn không được , mình cũng reset lại network đến giờ vào không thấy SSID và không kết nối được wifi, mong ad giúp .Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.569834,
+         "id": "1005497",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao con ip 5s của mình gọi video call trên zalo hay mesenger, mình nói người ta không nghe mà người ta nói lại thì mình nghe. Mong bạn chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.523254,
+         "id": "819719",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi là đã jailbreak được ios 8.4.1 trên ip 5 chưa ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.514683,
+         "id": "869694",
+         "field_search": "question",
+         "question": "Cho mình hỏi!- mình jb 9.3.2 của PP đầu tiên- sau đó mình restore vì có bản của Pangu- khi restore trong điện thoại cydia và tweak k mất- mình mới jb của Pangu và khi jb thành công vào cydia thì báo rằng could open filed var/...Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.473986,
+         "id": "778167",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Máy mình chạy iOS 9.2 máy giờ có hiện tượng không kéo được trung tâm thông báo hay trung tâm kiểm soát ở trên và dưới màn hình khi mở máy, còn khi khoá máy thì vẫn kéo được. Vậy ad cho mình hỏi như vầy là do lỗi hệ điều hành hay do mình đã cài đặt vào phần nào ạ. Mong ad chỉ dõ dùm mình với ạ. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.418066,
+         "id": "761752",
+         "field_search": "question",
+         "question": "Cho mình hỏi là con iPhone 5S của mình nâng lên 9.2, lần đầu vào chơi FIFA 16 thì bình thường nhưng mấy lần sau mình vào lại thì bị đá ra (mình có thói quen tắt ứd chạy nền khi thoát game), mình đã xoá và tải lại nhiều lần nhưng vẫn bị (trước khi nâng lên iOS 9.2 thì ko bị zay). Vậy lỗi là do game hay iOS?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.372017,
+         "id": "783296",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5s mua ở tgdd hết bảo hành 3 tháng. Gần đây xuất hiện lỗi không có dịch vụ, khi mình set lại mạng thì lại có mạng được khoảng 1h lại bị mất mạng máy chạy 9.2. Xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.343039,
+         "id": "754954",
+         "field_search": "question",
+         "question": "Em hỏi ad tí máy của em jailbreak em bị lỗi. đã xóa jailbreak để khôi phục lại. bây giờ muốn jailbreak lại có đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.234026,
+         "id": "786938",
+         "field_search": "question",
+         "question": "admin giúp mình với! iphone 5 của mình. dùng phần mềm iboot check thì pin nó bị chai. mình đi thay pin. nhưng từ khi thay pin máy mình liên tục bị reset. sạc pin thì phần trăm không thay đổi. dùng cũng không giảm. đã test lại 5 cục pin mà vẫn gặp tình trạng này. mình đã restore lại máy. upđate lên ios 9.2.1 mà không được. liệu có phải nguyên nhân tại phần cứng không! mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.210072,
+         "id": "759672",
+         "field_search": "question",
+         "question": " Máy em là iPhone 6 Plus và đã lên 9.2 có jailbreak được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.178806,
+         "id": "939772",
+         "field_search": "question",
+         "question": "Anh mình mua lại 1 chiếc iphone 7 plus nhưng sau khi mua thì chủ cũ đã restore và ko có apple ID thì mình phải làm sao bạn mình liên lạc lại thì chũ cũ không giúp anh mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.158401,
+         "id": "781968",
+         "field_search": "question",
+         "question": "Mình đang dùng iPhone 5, lên Ios 8.3 thi khi kết nối wifi máy báo sai mật khẩu, mặc dù mình đã nhập đúng, BQT giúp mình với.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.97857,
+         "id": "760416",
+         "field_search": "question",
+         "question": " Mình đang xài iPhone 5 Lock iOS 8.4.1 chưa jailbreak thì có nên update lên iOS 9.2 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.967083,
+         "id": "770771",
+         "field_search": "question",
+         "question": "Cần giúp đỡ. Hiện mình đang xài đt iPhone 6s plus. Hôm nay lúc đt còn 7% pin. Mình cắm sạc vào sạc máy báo sạc, xong một hồi khoảng 4..5 tiếng sau mình xem lại máy, thấy máy báo pin vẫn 7%, xong mình thử reset lại máy thì thấy pin 100%, cho mình hỏi đây là lỗi gìThân!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.95946,
+         "id": "798231",
+         "field_search": "question",
+         "question": "Mình mua Ip 5s tại Hải Phòng, cho hỏi máy bị lỗi như thế nào thì được đổi máy khác, vì máy mình bị hiện tượng pin hao nhanh, cảm ứng đôi lúc bị đơ. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.850761,
+         "id": "743269",
+         "field_search": "question",
+         "question": "Có ai không giúp mình với . Mình đang sử dụng máy ip5 bản qt . Máy mình gặp lỗi 3G . Khi mình lắp sim viettel để vào mạng thì không được . Nhưng khi mình thay sim mobie vào lại vào đc mạng như bình thường là sao . A bik giúp mình với . Cảm ơn m.n",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.810839,
+         "id": "803097",
+         "field_search": "question",
+         "question": "Zalo mình cứ cập nhật giờ bị sai mặc dù giờ ở máy mình vẫn đúng. Ad biết khắc phục lỗi này không giúp mình với. Mình cũng đã thử xoá đi cài lại vẫn bị vậy.... Mình đang dùng ip5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.7601,
+         "id": "807320",
+         "field_search": "question",
+         "question": " Máy tính mình khi khởi động xong báo lỗi như Hình, chỉ mình cách khắc phục với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.747643,
+         "id": "1002269",
+         "field_search": "question",
+         "question": "Mình đang ip 5s. Tuần trước do máy bị rơi nên sụp nguồn, mình đi sửa và phải thay phần cứng. Khi sửa về, máy mình chỉ đăng nhập vào icloud được, còn ITunes & App Store thì không thể nào đăng nhập được. Mỗi lần đăng nhập là máy báo nhập mã xác minh ( trong khi mình chẵng biết chỗ quái nào để nhập mã  xác mình cả). Mọi người giúp đỡ em với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.696354,
+         "id": "773675",
+         "field_search": "question",
+         "question": "Mình mới sử dụng iPhone 5S. Lắp sim sang máy khác thì vẵn có danh bạ của sim. Nhưng lắp sang iPhone thì lại không có. Ad giúp mình khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.614643,
+         "id": "1136232",
+         "field_search": "question",
+         "question": "Máy mình sử dụng là Sony Xperia C5 Ultra Dual. Cho mình hỏi là tại sao máy mình khi kết nối vpn (uu, cm...) thì vào game lại báo không kết nối. Xin bạn hãy giúp mình với ạ. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.601196,
+         "id": "799524",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản iCloud cho iPhone 5s .nhưng khi mình vào tải các ứng dụng máy lại bắt nhập mật khẩu của tài khoản khác. Mình phải làm như thế nào a?. Xin trợ giúp mình với. Cám ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.554941,
+         "id": "756059",
+         "field_search": "question",
+         "question": "Máy mình sử dụng các nhà mạng được hết, máy không dùng sim ghép, mình sử dụng iPhone 4s, vậy mình muốn restore lên bản 9.2 , vậy có bị khóa mạng hay không? Thanks Quản trị viên. Hóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.544533,
+         "id": "773464",
+         "field_search": "question",
+         "question": "Ad giúp mình với. Minh vừa mua con iPhone 6s plus. Hiện tại mình cài cùng 1 chế độ nhưng khi có cuộc gọi đến thì có khi nó đổ chuông, có khi lại ko, mình gạt nút chỉnh chế độ xuống rồi gạt lên thì nó đổ chuông lại bình thường. Nghi ngờ do lỗi hệ điều hành, nhưng mình đã update từ ios 9.1 lên ios 9.2 nhưng ko khắc phục được. Như vậy là bị máy bị lỗi gì vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.53125,
+         "id": "834951",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đang dùng laptop dell, dạo gần đây khi bật máy lên nó cứ kêu tít tít liên tục, mình đã quét virus nhưng phần mềm báo là an toàn, vậy máy mình bị như vậy có cách nào để tắt nó đi hay là máy của mình bị lỗi phần cứng không, QTV giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.416662,
+         "id": "739491",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình đang xài ip 6 plus xách tay bản mỹ, sang hòm qua mình xài thì máy k len , mn hinh đen , nen mình đã lấy điện thoại mẹ mình để call vào, sau đó màn hình hiện len thì mình đã restore máy lại, nhưng restore xong thì Touch ID hoàn toàn khong sử dụng được. Lúc mình gạt qua cái \" iPhone Unlock \" thì máy chuyển hẳn qua là failed... Khong cho dấu van tay luon ạ. Có ai biết xin giải đáp dùm mình? Nếu sửa thì có được khong và chi phí khoảng bao nhieu ạ ? Máy ,ình vẫn còn bảo hành của Apple khong biết có bảo hành ở Việt Nam được khong ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.377838,
+         "id": "760417",
+         "field_search": "question",
+         "question": "Admin hướng dẫn mình cài lại iPhone 4S sau khi iPhone 4S quên mật khẩu ( passcode ) mình đã xóa iPhone 4s trên tài khoản iCloud.com ( IP 4s mình đã jiailbreak và đang chạy iOS 8.4), hiện giờ mình khôi phục và cập nhật lại iOS 9.2 qua iTunes phiên bản mới nhất 12.3.2 không thành công, Admin hướng dẫn mình với, thanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.372084,
+         "id": "1007469",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo A37 mà lên google xem phim online lại không xem được, nó cứ báo lỗi các thứ... ??? Ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.315084,
+         "id": "773670",
+         "field_search": "question",
+         "question": "Ad giúp mình với. Minh vừa mua con iPhone 6s Plus. Hiện tại mình cài cùng 1 chế độ nhưng khi có cuộc gọi đến thì có khi nó đổ chuông, có khi lại không, mình gạt nút chỉnh chế độ xuống rồi gạt lên thì nó đổ chuông lại bình thường. Nghi ngờ do lỗi hệ điều hành, nhưng mình đã update từ iOS 9.1 lên iOS 9.2 nhưng không khắc phục được. Như vậy là bị máy bị lỗi gì vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.302965,
+         "id": "811402",
+         "field_search": "question",
+         "question": "QTV giúp mình chút xíu.Iphone 5s của mình xài bình thường. Nhưng lúc mình gọi Video khoảng 5 tới 10 phút thì máy rất là nóng. Qtv giúp mình giải đáp thắc mắc này với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.237661,
+         "id": "847085",
+         "field_search": "question",
+         "question": "Hiện giờ mình đang xài iphone 6 hôm trước mình có restore iphone sau khi restore thì mình thấy iphone cứ báo lỗi không đủ dung lượng mới khi tải ứng dụng lỗi đó là bị gì vậy adFix lỗi làm sao???Đem ra thegioididong có sửa được không vậyCảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.212126,
+         "id": "838963",
+         "field_search": "question",
+         "question": "latop dell n4050. sau khi cài lại win máy không thể cài winrar được. tải drive thông qua máy tính khác thì máy báo lỗi.hiện giờ máy không vào được mạng vì cắm dây internet không nhận. cài dirver wifi báo lỗi. cài winrar báo lỗi nên không thể giải nén phần mềm tự tìm dirver. xin giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.202648,
+         "id": "1000067",
+         "field_search": "question",
+         "question": "Em dùng oppo A37f, khi em gọi máy báo lỗi không thể kết nối mạng di động nhưng khi khởi động lại máy thì được, khoảng thời gian ngắn lại báo lỗi. Ad giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.164806,
+         "id": "1016826",
+         "field_search": "question",
+         "question": "mình đang sử dụng con iphone 5s nhưng vừa rồi restore nên bị bắt đăng nhập tài khoản icloud nhưng mình quên cả ID và pass. bên kỹ thuật hỗ trợ giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.076248,
+         "id": "815596",
+         "field_search": "question",
+         "question": " Đã có thể jailbreak 9.2 chưa ad. Có rồi thì tải ở đâu được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.017422,
+         "id": "830861",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao mình sạc pin báo đã sạc nhưng không thấy tăng % pin nào, mặc dù mình đã tắt nguồn khởi động lại nhưng k đc. hiện tại máy mình đã sập nguồn. mình đang dùng ip4s.mong m.n giúp đỡ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.016327,
+         "id": "762972",
+         "field_search": "question",
+         "question": "Mình muốn cập nhập iPhone lên iOS 9.2 nhưng khi vào cập nhật phần mềm thì máy kiểm tra phần mềm rất lâu ko biết làm sao để cập nhật ad chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.001633,
+         "id": "765824",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi máy mình dùng giờ thấy không ổn. Máy khá nóng khi dùng 3g pin tụt khá nhanh. Mình muốn chạy lại phần mềm liệu khi chạy xong có ổn định hơn không. Máy mình hiện đag ở iOS 9.2 iPhone 5S?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.001238,
+         "id": "778114",
+         "field_search": "question",
+         "question": " QTV cho hỏi đã có bản jailbreak ios 9.2 chưa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.975441,
+         "id": "770829",
+         "field_search": "question",
+         "question": "  Jailbreak ios 9.2 đã có bản chính thức chưa ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.936556,
+         "id": "767239",
+         "field_search": "question",
+         "question": " Ad Ơi. CHO EM HỎI HIỆN EM ĐANG DÙNG MÁY IPHONE 4S CHẠY IOS 9.2 EM MUỐN jailbreak MÁY LẠI THÌ LÀM THẾ NÀO Ạ v ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.921293,
+         "id": "775041",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình dùng ip 5 ios 9.2 mà sao lúc chơi fb bình thường lúc chơi tiếp có lúc tự văng ra là sao nhỉ. Mình cũg đã thử test máy lại mà cũg thế. Nói chug chơi 3 4 lần là bị 1 lần",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.87592,
+         "id": "811123",
+         "field_search": "question",
+         "question": " Cho em hỏi là bản iOS 9.2 đã jailbreak được chưa ạ????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.864939,
+         "id": "900896",
+         "field_search": "question",
+         "question": "Mình dùng IP 5s sau khi khôi phục lại máy, phần cài đặt nhập Icloud mình hiện thông báo:Phê duyệt IP này. Truy cập vào một trong các thiết bị khác của bạn được đăng nhập vào icloud để phê duyệt IP này. loading báo chờ mà mình đăng nhập icloud vào mà không biết phê duyệt ở đâu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.802221,
+         "id": "1139352",
+         "field_search": "question",
+         "question": "Chào bạn, Máy Nokia 3 mình mua hôm 17/11. Hôm nay mình có cuộc gọi đến mà nói bên kia không nghe được. Bạn xem giúp mình nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.787945,
+         "id": "767043",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình đã dùng tango trước đây rồi, giờ tải lại về lap dùng nhưng khi nhập số điện thoại thì không vào được, bị báo lỗi đăng nhập. ai biết chỉ cách fix lỗi với.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.73856,
+         "id": "811250",
+         "field_search": "question",
+         "question": "Mình sài iphone 5S. Khi sạc pin, mình kiểm tra tài khoản *101# thì điện thoại báo là \"lỗi khi thực hiện yêu cầu, lỗi không xác định\". có ai gặp trường hợp tương tự như mình không? có thể giúp mình không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.664448,
+         "id": "828749",
+         "field_search": "question",
+         "question": "Chào ad ad, Mình cài đặt lại iphone, đã hơn 24 tiếng đồng hồ mà đăng nhập ID và Ap store thì nó chạy lâu và kết quả nó báo : Không thể xác minh, lỗi kết nối với máy chủ ID Apple, giờ phải làm sao vậy ad. Mình cũng xem lại múi giờ, và còn tắt máy khởi động rất nhiều lần. Ad có thể hướng dẫn giúp mình được không. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.628128,
+         "id": "1017664",
+         "field_search": "question",
+         "question": "Mình có mua 1 máy điện thoại Sámung Note5 của thegioididong. Máy mình chưa từng root. Nhưng khi sử dụng app thì app báo mình bị hạn chế một số tính năng do máy đã root. Mình đã kiểm tra và đúng là máy chưa root. Vậy lỗi này là như nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.625427,
+         "id": "944444",
+         "field_search": "question",
+         "question": "Mình dùng 6s, khi đăng hình thì nó báo là \"Không thể đồng bộ nhật ký lên máy chủ\". Mình đã xóa ứng dụng cài lại, tắt nguồn khởi động lại đều ko dc. Vui lòng hỗ trợ mình với. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.600739,
+         "id": "813328",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng Samsung a5 trước vẫn mở file word với excel bình thường, nhưng bây giwof lại không mở được nữa. máy báo là không định dạng được.mog ad giúp mình với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.57705,
+         "id": "998999",
+         "field_search": "question",
+         "question": " admin cho lỗi này thì sữa như thế nào ạ, sau khi bị mình đã reset lại máy nhưng vẫn bị như thế này mong ad giúp   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.546455,
+         "id": "772382",
+         "field_search": "question",
+         "question": " Jailbreak ios 9.2 đã có bản chính thức chưa ad?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.520998,
+         "id": "871493",
+         "field_search": "question",
+         "question": "loptop của mình là lotop hp, kết nối wifi thì mạnh nhưng lên mạng lại không được trong khi máy hiển thị là đã kết nối rồi. có ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.437477,
+         "id": "1148292",
+         "field_search": "question",
+         "question": "Cho mình hỏi với , hôm nay mình đăng nhập Instagram mà nó cứ báo như thế này , mình đã khởi động lại máy , thậm chí xóa ứng dụng rồi cài lại vẫn bị như vậy , mình có thử đăng nhập bằng máy khác thì vẫn vào bình thường , vậy mình phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.430931,
+         "id": "774448",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi FPT có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.427738,
+         "id": "1010353",
+         "field_search": "question",
+         "question": "Cho mình hỏi ạMình xài ip6s+ tự nhiên hnay không gửi tn sms dc, máy cứ báo có lỗi nhưng mình thử lại nhiều lần vẫn vậy. Mình đã tắt nguồn bật lại nhưng vẫn vậy. Mình gửi sms cho bạn mình và bạn mình hoàn toàn ko xài ip nên không có chuyện tại imess dc ạ. Mong nhận dc câu trl sớm từ TGDĐ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.417873,
+         "id": "879645",
+         "field_search": "question",
+         "question": "Cho mình nhờ với... máy mình bị treo táo.. bây giờ mình restore lại nhưng mà đang thực hiện lỗi (9) tức là thiếu dung lượng pin.. vậy làm thế nào để sạc đầy pin được trong tình trạng máy đang bị treo táo như thế này ạ.. :( đang hoang mang lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.41107,
+         "id": "756857",
+         "field_search": "question",
+         "question": " Mình mới mua iPhone 6s, máy đã tự cập nhật phần mềm ios 9.2. Vậy mình có nên cài đặt không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.410679,
+         "id": "895265",
+         "field_search": "question",
+         "question": "-  Số 29 đường Trần Đăng Ninh, P.Tam Thanh, TP.Lạng Sơn, Lạng Sơn giúp mình với . iphone 4s của mình mua mới ở đây nhưng mình không biết icloud của ai ,  mình thấy nặng máy quá mà chưa kiểm tra nên đã restore . vậy ai là chủ của icloud này liên hiện với mình được không ạ . sđt 01646407666 . email : playl3oy9xxx@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.367905,
+         "id": "774452",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.358131,
+         "id": "874672",
+         "field_search": "question",
+         "question": " Chào bạn. Mình mới mua ip 6s plus. Máy báo điều khoản sử dụng iCloud đã thay đổi. Nhấn OK có sao không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.339714,
+         "id": "1010918",
+         "field_search": "question",
+         "question": "Mình muốn phát Wifi từ máy tính dùng win 7 cho đt dùng. mình đã share và Wifi đã hiển thị dòng Internet acess.. tuy nhiên trên điện thoại vẫn báo chưa có internet.. Trước đây mình đã thử và thành công.. nhưng dạo này không hiểu sao lại không share đc! trên máy oppo A11W thì nó hiển thị dòng đang lấy địa chỉ IP và chờ rất lâu vẫn không cấp đc!! mong TGD Đ tư vấn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.313116,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.27771,
+         "id": "997213",
+         "field_search": "question",
+         "question": "Chào TGDD mình sài IP 5s quốc tế . Cho mình hỏi . Máy mình bị trường hợp là khi mình gọi cho bất kỳ một số điện thoại nào điện thoại mình đều bị báo là bận . Có lúc tự hết không bị nữa . Và hầu hết là bị . Số gọi đến hoàn toàn là bình thường Cả kể gọi tổng đài 197 đều bị tương tự . Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.275492,
+         "id": "1144954",
+         "field_search": "question",
+         "question": "vấn đề của mình khá phức tạp :DD ipad của mình bị vô hiệu hóa do nhập mk sai quá nhiều vậy nên trên màn hình chờ nó có ghi là \" connect to intunes \" , mik cũng đã vào tunes sau đó thì restore lại rồi thế nhưng cho đến khi bước triết xuất dữ liệu thì nó lại thông báo rằng ipad của mình ko đủ dung lượng thế nên là không restore được . Bây giờ thì phải làm sao hả ad :((( , mong ad giúp mình , mình xin cảm ơn trước:D",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.222363,
+         "id": "1020394",
+         "field_search": "question",
+         "question": "máy mình là galaxy J5 máy báo UI hệ thống với cả chế độ an toàn, bây giờ màn hình cũng không lên luôn, giúp mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.217537,
+         "id": "793019",
+         "field_search": "question",
+         "question": "Máy của mình là somy Xperia M5 dual. Khi bật camera thì máy báo lỗi: máy ảnh hoặc đèn nháy có thể đang được ứng dụng khác sử dụng.Hãy đóng ứng dụng đó và thử lại. Mình đã kiểm tra nhưng ko thấy ứng dụng nào chạy và dùng camera và đèn cả. Mong các bạn giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.178406,
+         "id": "1135470",
+         "field_search": "question",
+         "question": "Giúp mình với ạ. Mình dùng ip 6, thời gian gần đây máy liên tục báo không đủ dung lượng để cập nhật phần mềm, mình đã xoá bớt ứng dụng nhưng không được, mãi mấy tuần sau tự dưng lại cập nhật được, ứng dụng cũng không tải được vì máy báo không đủ dung lượng trống, có lúc thậm chí còn không chụp ảnh được. Nhưng khi mình kiểm tra dung lượng thì máy còn trống nhiều, dung lượng đã dùng không vượt quá 18/32G. Mình không hiểu tại sao, không biết làm thế nào khắc phục được. Sau khi đã cập nhật phần mềm thì tình trạng này vẫn thế. Không thể tải thêm ứng dụng dù dung lượng trống còn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.168428,
+         "id": "962707",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 7 ios 10.2.1Hôm qua khởi động lại máy thì máy báo không kích hoạt được imessage và facetime. Mình làm đủ cách không được. Sau đó lắp sim 10 số vào thay sim 11 số trong máy ip thì lại kích hoạt đc ngay. Lắp lại sim 11 số vào thì lại báo không kích hoạt đc. Ad chỉ cách cho m xử lý trường hợp này với. M dùng mạng viettel.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

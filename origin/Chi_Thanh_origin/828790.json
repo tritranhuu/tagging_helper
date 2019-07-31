@@ -1,0 +1,801 @@
+{
+   "id_query": "828790",
+   "total": 33726,
+   "total_current": 100,
+   "max_score": 66.42185,
+   "origin_question": " Mod hay QTV cho em hỏi nếu em xoá iphone đi mà lấy lại được thì em phải làm thế nào để mở lại máy ạ ? Giúp e, ",
+   "hits": [
+      {
+         "score": 31.779882,
+         "id": "1155739",
+         "field_search": "question",
+         "question": "QTV giải đáp giúp em với ạ. Em đang lấy lại fb mà nó cứ tới bước đó là ko được nữa ạ,  em phải làm thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.04737,
+         "id": "1160959",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ , bây giờ em có con iphone 6 plus nhưng bị dính icloud em muốn xoá tài khoản luôn phải làm cách nào ? Mail thì cũng không có nên em không lấy lại mật khẩu được Mà điện thoại lại phiên bản cũ ios 9.0.2 Nếu em lên tgdđ sữa chửa phải mất bao nhiêu tiền ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.658424,
+         "id": "635973",
+         "field_search": "question",
+         "question": " Nếu tắt wifi trên máy tính để bàn thì phải làm thế nào?cho em hỏi bật lại kiểu gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.517107,
+         "id": "886660",
+         "field_search": "question",
+         "question": "Em quên mã iphone. làm thế nào để mở lại đc vậy??Chỉ cho em cách tìm lại và nếu ra cửa hàng thì tìm lại mất bao nhiêu tiện??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.376205,
+         "id": "741907",
+         "field_search": "question",
+         "question": " AD ơi e bị người khác xoá iPhone bằng iCloud thì làm cách nào để mở lại vậyMong ad giúp e với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.872303,
+         "id": "1023363",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ. Dạo này insta của em vào xong toán bị out ra ý ạ. Mà nó bị out ra suốt mấy ngày dù em đã tắt nguồn rồi bật lại, reset cài đặt. Đến lúc mà em xoá đi ins r down lại thì lại dùng được. Nhưng chỉ dùng đc hơn 1 ngày là nó lại out ra liên tục ý ạ. Xong e cứ cách 1 ngày phải xoá 1 lần để dùng được. Mà mới vào ins được mấy giây là nó đã out ra r ý ạ chưa kịp làm gì ạ. Cho e hỏi làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.864416,
+         "id": "788661",
+         "field_search": "question",
+         "question": "Em đang dùng hệ điều IOS 9.2.1. Gần đây không vài messenger được. Em coá đi để dowload lại mà không xoá đc. Cập nhật mới cũng không được. Thì phải cài lại messenger như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.682634,
+         "id": "774457",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 6. Máy em có dùng tài khoản iCloud và mật khẩu mở máy, nhưng em lại không bật 3g. Em có đi làm lại sim rồi. Em có bật tìm ip rôi, giờ em làm sao để có thể lấy lại được máy mình không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.472656,
+         "id": "835718",
+         "field_search": "question",
+         "question": " Tôi quên tài khoản iCloud làm như thế nào mà lấy lại được tài khoản để mở được iphone 4S đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.256773,
+         "id": "779038",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em mới cài đặc gốc máy iPhone 4 ios7.1.2 lại giờ mở lên máy đòi phải nhập id apple mà em lại quên id rồi vậy giờ phải làm sao để mở máy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.599083,
+         "id": "778614",
+         "field_search": "question",
+         "question": "Cho e hỏi em lỡ bấm xoá hình ở trong camera 360 mà bây h em đang xài đt iPhone 6 bây giờ làm sao để khôi phục lại hình em mới xoá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.529203,
+         "id": "911919",
+         "field_search": "question",
+         "question": "Facebook em bị lỗi nên em xoá và tải lại , vào appstore thì facebook hiện chữ ''mở'' và không tải lại được , em đã tắt nguồn ,đặt lại, tắt hay bật giới hạn , vào dung lượng để xoá app nhưng vẫn không được , anh chị giúp em :( , giờ cứ như nó còn kẹt đâu đấy nên hiện chữ ''mở'' không tải lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.42376,
+         "id": "998348",
+         "field_search": "question",
+         "question": "Sao iphone 7 plus của em mới mua được 5 ngày mà em tạo vân tay rồi khóa máy thì mở bằng vân tay không được ạ em làm đi làm lại hoài mà vẫn vậy cho hỏi có bị lỗi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.375332,
+         "id": "746994",
+         "field_search": "question",
+         "question": " em cài lại mật khẩu mà khi mở lại lại không mở được máy của em bị quên icloud. ai biết chỉ giúp em cách mở máy. làm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.337038,
+         "id": "758615",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ em lập mail trên vi tính rồi! Và sau khi nhập mail trên iPhone thì không được thư đến em phải làm sao! Em làm đi làm lại mà vẫn không dùng được mail trên iPhone của em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.2945,
+         "id": "903791",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em cài đặt pass iphone của em là chữ, xong rồi em tắt máy mở lại để bấm pass thử xem sao thì lại không mở được. Em không biết em có bấm sai cái gì không, chứ pass chữ bấm lại tận 2 lần, em không nhớ tài khoản icoud thì giờ phải làm sao? Giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.27539,
+         "id": "1139821",
+         "field_search": "question",
+         "question": "facebook của e e quên mật khẩu mà số điện thoại xác minh thì số đó e bị mất, gmail thì em dùng yahoo mà k nhớ mật khẩu nên k lấy lại được. bây giờ làm sao để lấy lại mk ạ??? giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.042818,
+         "id": "798555",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi em quên mật khẩu giới hạn trên iphone 5 thì làm thế nào thì lấy lại mật khẩu giới hạn được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.989578,
+         "id": "864143",
+         "field_search": "question",
+         "question": "em hỏi giúp anh trai em một chút ạ. anh trai e có mua trả góp một máy iphone 6plus. trả trước 1 nửa. anh ý đã mua được 20 ngày, giờ muốn trả lại thì phải thanh lý hợp đồng đúng ko ạ. nhưng e chưa hiểu thanh lý hợp đồng là phải làm như thế nào ạ. anh chị giải thích giúp em để em mang máy trả lại cửa hàng cho nhanh nhất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.92186,
+         "id": "822712",
+         "field_search": "question",
+         "question": "Cho e hỏi em quên tên tài khoảng app store nhưng em còn nhớ mật khẩu!vậy giờ em phải làm thế nào để lấy lại tài khoảng app store vậy tgdd???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.90385,
+         "id": "1169318",
+         "field_search": "question",
+         "question": "Zalo em bị đăng xuất ra. Mà em không nhớ mật khẩu, sdt zalo cũng bị mất. Vậy em làm cách nào lấy lại mật khẩu hay làm sao để biết được sdt trên để đăng ký lại sdt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.849583,
+         "id": "788037",
+         "field_search": "question",
+         "question": "QTV cho em hỏi giấy bảo hành miến dán màn hình laptop của em bị mờ chữ hết giờ em muốn đi dán lại màn hình phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.785585,
+         "id": "1162633",
+         "field_search": "question",
+         "question": "em có mua laptop bên mình. sau khi em cài lại win thì quên ko nhớ tài khoản microsoft mà shop đã lập cho e. ko biết khách hàng khi mua máy thì sẽ được lập tài khoản như thế nào ạ. làm sao để e lấy lại tài khoản đó ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.769264,
+         "id": "793390",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tại sao mỗi kho em vào ứng dụng như mp3 zing, Facebook hay chrome thì nó đều bắt nhập ID Apple để tiếp tục, làm thế nào để xoá nó đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.634737,
+         "id": "1021367",
+         "field_search": "question",
+         "question": "Cho em hỏi đt samsung của em bây giờ cứ tắt 5-10p sau mở lại nó lại hiện bản available + số % rồi released ram gì ấy. Bây giờ em muốn tắt đi thì phải làm sao ạ ??? Mong nhận được phản hồi sớm của QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.52812,
+         "id": "747087",
+         "field_search": "question",
+         "question": "Cho em hỏi khi khôi phục cài đặt gốc nhưng em không sao lưu lai hình ảnh số điện thoại vào iCloud hoặc iTune trên máy tính thì làm thế nào để có thể lấy lại được. Máy của em là iPhone 6S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.499535,
+         "id": "879081",
+         "field_search": "question",
+         "question": " em đi sửa điện thoại bị thay mất tài khoản icuod giờ muốn lấy lại icoud cũ thì làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.443106,
+         "id": "925949",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 4 có thể lên IOS 8 được không vậy. Nếu được thì phải làm như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.25446,
+         "id": "1140654",
+         "field_search": "question",
+         "question": "cho em hỏi em đang dùng máy samsung a8 2016 mà bây giờ gọi đi ko được làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.21699,
+         "id": "1137030",
+         "field_search": "question",
+         "question": "Cho em hỏi là làm thế nào để không hoàn toàn xóa ảnh vĩnh viễn ạ, làm thế nào mà ảnh vừa chụp được lưu trên google drive hay bất cứ ứng dụng nào mà khi mình bấm xóa ảnh trong thùng rác thì em vẫn có thể tìm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.076418,
+         "id": "1158452",
+         "field_search": "question",
+         "question": "Em đang dùng OPPO A3s. Sau khi em xoá FaceBook và vào tải lại thì được báo như thế này . Em nghĩ lỗi này là do bên Thế Giới Di Dộng. Em đã gọi lên tổng đài nhưng không có hướng giải quyết. Cho em hỏi giờ phải là m sao để tải lại Facebook ạ. Trước em có xoá đi tải lại 2 lần vẫn được. Nhưng đến lần này thì bị báo lỗi thế này ạ. Mong khắc phục sớm lỗi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.01116,
+         "id": "998361",
+         "field_search": "question",
+         "question": "Cho mình hỏi nhỏ em trước đó nó xài iPhone và tai hayday về chơi, giờ cho mình, mình muốn chơi phải xoá nick cũ làm sao, mình xoá đi tải lại mà vẫn còn nick cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.008764,
+         "id": "845524",
+         "field_search": "question",
+         "question": " Mất mật khẩu tài khoản google của iPhone thì phải làm như thế nào để lấy lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.973671,
+         "id": "815093",
+         "field_search": "question",
+         "question": "Nếu zalo của em bị hack, nhưng xui 1 cái là đã mất sim từ lâu, phải làm thế nào để xóa luôn tài khoản hoặc lấy lại mật khẩu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.921398,
+         "id": "759245",
+         "field_search": "question",
+         "question": "Nếu em mua lại iphone nhặt được mà bị khóa màn hình và icloud báo mất máy thì thay ổ cứng máy thì có dùng được không hay có cách nào khác để dùng được máy không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.847614,
+         "id": "849590",
+         "field_search": "question",
+         "question": " Cho em hỏi sau khi reset lại máy tính các ứng dụng bị xoá hết lại trở về như mới em phải làm gì để cài đặt máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.836794,
+         "id": "890209",
+         "field_search": "question",
+         "question": "lúc trước khi mua máy, máy có microsoft office, nhưng bị lỗi win và đi cài lại, thì bị mất luôn, e phải làm sao để lấy lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.817642,
+         "id": "849474",
+         "field_search": "question",
+         "question": " em bị hỏng sim muốn lấy lại mật khẩu zalo em phải làm thế nào?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.778147,
+         "id": "1167138",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em dùng A10 mà sao lúc nó mở khóa bằng khuôn mặt nhanh, lúc thì mở đi mở lại vẫn không được là sao ạ. Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.757618,
+         "id": "752672",
+         "field_search": "question",
+         "question": "cho em hỏi iphone 6 của e đang dùng mà tối đi ngủ ko động dến sáng hôm sau mở ko lên.dùng phím home và phím nguồn để mở thì lên,e có restore lại trên mt nhưng hôm sau vẫn bị tình trạng như vậy,mà máy không lỗi gì cả.vậy máy em bị gì và sửa làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.711967,
+         "id": "855834",
+         "field_search": "question",
+         "question": "Chào ad, em có 1 chiếc ipad nhưng vì nhà có e nhỏ nên hay nghịch máy làm cho máy bị vô hiệu hóa đến 24 triệu giờ. Ad cho em hỏi, nếu máy đã bị vậy thì e có thể làm cách nào để mở máy đc không? Mở máy mà ko mất hình ảnh và video không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.70452,
+         "id": "739520",
+         "field_search": "question",
+         "question": "  Qtv cho em hỏi Làm thế nào để đăng xuất tài khoản iCloud trên iPhone ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.672485,
+         "id": "1168714",
+         "field_search": "question",
+         "question": "Em dùng Mi a2 lite ạSau khi e update phiên bản mới thì bị mất hết ảnh cũ ạ. Làm thế nào để lấy lại ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.67141,
+         "id": "775945",
+         "field_search": "question",
+         "question": " Em đang dùng ipad Air 2 và lỡ tay xoá camera360, giờ em muốn khôi phục lại phần mềm này thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.606989,
+         "id": "788229",
+         "field_search": "question",
+         "question": " cho em hỏi laptop của e lâu ko sử dụng nên quên mất password mở máy. giờ em phải làm sao để reset lại password ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.544685,
+         "id": "995328",
+         "field_search": "question",
+         "question": "Bây giờ e lỡ xoá mất messenger trên iphone 4 thì làm thế nào để cài lại ạ? E lên app vn để tải mà nó yêu cầu jailbreak, e lại k có sử dụng laptop nữa ạ? Anh/chị chỉ dẫn cho e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.528105,
+         "id": "999593",
+         "field_search": "question",
+         "question": "mod nào kiểm tra giúp e. e sửa đt trên hãng. mà nay hạn lấy đt. mod nào xem giúp e xem đt e đã sửa xong chưa ạ. nguyễn công long 096696350",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.48665,
+         "id": "757118",
+         "field_search": "question",
+         "question": " AD cho em hỏi nếu máy dính icloud thì dùng ID Apple lấy lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.48412,
+         "id": "1007422",
+         "field_search": "question",
+         "question": "Em lỡ xoá bản cập nhật của google play giờ cập nhật lại phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.47565,
+         "id": "743660",
+         "field_search": "question",
+         "question": "Anh chị qtv ơi. Cho e hỏi điện thoại iphone của em. Khi check imei thì hiện dòng : Check SIM lock mà máy nhận cả sim viettel với sim vinaphone .Vậy iphone của em là bản quốc tế phải không hay là máy dựng tư vấn giúp em với qtv?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.459969,
+         "id": "1165144",
+         "field_search": "question",
+         "question": "cho em hỏi là điện thoại sky 4G LTE của em đang dùng thì đột ngột bị đơ màn hình, tắt đi là không bật lại được thì phải sửa thế nào ạ? (Em đã tháo pin để khởi động lại nhưng không khởi động được)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.42067,
+         "id": "1148409",
+         "field_search": "question",
+         "question": "Em mới bị mất máy. Em muốn lấy lại dữ liệu thông qua icloud nhưng khi đăng nhập ID Apple thì không được. gmail em vẫn dùng không được công nhận là một tài khoản ID. Hay là kẻ gian đã đổi tài khoản của mình ạ?Làm thế nào để e lấy lại được ạ? Có những thứ rất quan trọng trong máy ạ.Em mong nhận được câu trả lời sớm nhất ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.39996,
+         "id": "993452",
+         "field_search": "question",
+         "question": "Đổi lại  máy??? Em vừa mua máy oppo a37(neo9) nhưng em cãm thấy không ưng ý. Em muốn đổi lại máy mới có được không ạ. Nếu được mình sẻ phải làm thủ tục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.366106,
+         "id": "878502",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone của em cứ mỗi lần xạc pin đầy thì nó lại mất wifi khi tắt nguồn mở lại rồi mới có. Cho em hỏi làm cách nào để hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.365234,
+         "id": "802263",
+         "field_search": "question",
+         "question": "Cho Em Hỏi:Tháng Trước Em Mua Laptop Của TGDĐ.Sau Đó Em Cài Win Lại Mà Bị Lỗi.Bây Giờ Thì Phải Mang Đi Bảo Hành Như Thế Nào Ạ?.Mong Anh Chị Giúp Em.Em Chân Thành Cảm Ơn!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.36418,
+         "id": "1001727",
+         "field_search": "question",
+         "question": " Máy của em sao lại bị như vậy ạ. Em muốn chạy lại phần mền thì phải làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.359829,
+         "id": "825845",
+         "field_search": "question",
+         "question": " Em lã xoá hình trong mục  Đã xoá gần đây  trên iPhone 6Plus . Em muốn phục hồi lại ảnh được không ạ ? Chỉ em cách đi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.34646,
+         "id": "1006039",
+         "field_search": "question",
+         "question": "Máy HP probook 450 của e nó bị mất windowhello trong phần Sign-in options . Hôm qua em vẫn setup fingerpri t được ạ mà tự nhiên hôm nay e mở lên thì nó mất tiêu. Phải lấy lại làm s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.341793,
+         "id": "782062",
+         "field_search": "question",
+         "question": " Em xoá zalo tren ios mà giờ cài đặt lại không được là thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.335672,
+         "id": "1158293",
+         "field_search": "question",
+         "question": "Cho em hỏi là iphone 6 hãng còn thu lại không ạ ? . Máy em mua lúc tháng 8 vừa đi bảo hành do k sửa được nên được đổi máy mới cũng ip6 . Nếu em muốn đổi lên 7 thì phải bù bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.302822,
+         "id": "790430",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy iphone 5 của em mở khoá màn hình xong bị đơ cảm ứng rồi em khoá lại mở lên vẫn bình thường tại sao lại như vậy ạ có phải mang đi sửa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.297161,
+         "id": "1137872",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi. Em dùng ip6s plus mà trên thanh công cụ bị mất chữ viettel thì làm sao để có lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.253143,
+         "id": "871242",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, ứng dụng facebook và messages của em đang xài mà bỗng dưng thoát ra ngoài rồi em vào lại mãi không được, nó trắng bóc à, em đợi miết cũng không được, gỡ đi cài lại mấy lần cũng không được, chạy lại chương trình xoá hết cũng không được luôn, giờ em phải làm sao đây ạ ??? hichic",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.197159,
+         "id": "855130",
+         "field_search": "question",
+         "question": "Em bị mất 5s 16G ios bản gốc, em đã tạo icloud nhưng giờ ko nhớ ID, chưa xác nhận mail thì phải làm thế nào để lấy lại tài khoản ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.074976,
+         "id": "812521",
+         "field_search": "question",
+         "question": "Em mua cũ lại iPhone 6s plus nhưng đã cài khoá vân tay, mà chủ máy lại không ở đây, vậy em phải làm sao mới mở được máy và sử dụng ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.036947,
+         "id": "1157378",
+         "field_search": "question",
+         "question": "Máy em ios 9 muốn cập nhật lên ios 12 thì bị thế này em , nếu em ra ngoài cập nhật khi nào có bản mới muốn cập nhật thì phải làm thế nào ạ với lại em không có máy tính nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.03562,
+         "id": "1155894",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu giới hạn ở iphone 7plus ios 10.3 thì làm sao để lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.035069,
+         "id": "1135140",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại em reset máy lại mà em quên cái mật khẩu google thì có cách nào lấy lại khồng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.012632,
+         "id": "798947",
+         "field_search": "question",
+         "question": "Em dùng iPhone mà bây giờ máy hay tự thoát ra khỏi ứng dụng đang xem thỳ phải làm sao ?Em đã xoá bớt trang và ứng dụng đi mà vẫn bị , ngày càng nhìu lần",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.998407,
+         "id": "788193",
+         "field_search": "question",
+         "question": "Cho em hỏi??? Hqa đến giờ em lấy móng tay cào qua lại camera truớc sau iPhone 5s nhiều lần ( phải hơn 10 lần ạ) ??? Vậy camera có bị trầy hay bị ảnh hưởng gì không ạ??? Em không biết sao mình lại làm vậy nữa...ad tl giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.985954,
+         "id": "772058",
+         "field_search": "question",
+         "question": "Em bị hack nick iCloud dựa vào gmail em lấy lại được tài khoản nhưng iPhone của em bảo không thể sử dụng tài khoản này để mở iPhone này là làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.896425,
+         "id": "755443",
+         "field_search": "question",
+         "question": "Qtv cho tôi hỏi. Tôi dùng laptop Asus pin không thể tháo rời. Nếu laptop của tôi bị đơ, đứng máy thì tôi phải làm như thế nào để tắt máy hay khởi động lại máy. Vì không thể tháo pin ra như cách mọi người vẫn làm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.866047,
+         "id": "821364",
+         "field_search": "question",
+         "question": " AD cho em hỏi máy em win 10 mở ứng dụng không được nó lên ntn phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.834137,
+         "id": "801244",
+         "field_search": "question",
+         "question": "Cho em hỏi 1 chút ạ. Hôm trước em backup dữ liệu của mẹ em vào macbook. Đến hôm nay mẹ em chuyển sang dùng samsung. Em muốn hỏi là bây giờ phải làm thế nào để lấy lại dữ liệu trong phần backup kia khi không có iphone ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.833145,
+         "id": "887926",
+         "field_search": "question",
+         "question": "Em lỡ xoá tin nhắn hình ảnh trong cuộc hội thoại trên Viber . Em cũng đã xoá ảnh gốc trên iPhone 5s và iCloud . Làm cách nào em có thể lấy lại ảnh đó trên viber ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.80675,
+         "id": "1144940",
+         "field_search": "question",
+         "question": "Cho em hỏi muốn lấy đc mã thì phải làm sao ạ Ních facebook của em nó bị như vậy ạ   Warning \"Bạn đã thử nhập quá nhiều mã. Vui lòng thử lại sau.\" giờ em phải làm như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.715837,
+         "id": "855057",
+         "field_search": "question",
+         "question": " cho em hỏi em mới cài win8 cho máy tính mà em mở video trong máy không được thì em phải làm sao ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.708727,
+         "id": "1156553",
+         "field_search": "question",
+         "question": "Anh cho em hoi em co iPhone 6 ven tai khoản icloud giờ phải làm sao để xoá icloud được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.707151,
+         "id": "763634",
+         "field_search": "question",
+         "question": "QTV cho em hỏi: em đang dùng con Lenovo A7000. vừa reset lại máy và thấy máy không thể bật Dolby Atmos được nữa. bây giờ em phải làm sao ạ.nếu chỉ em reset lại máy thì cũng ko cần thiết đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.676916,
+         "id": "743669",
+         "field_search": "question",
+         "question": "Anh chị qtv ơi, cho em hỏi, điện thoại iPhone của em, khi check imei thì hiện dòng : Check SIM lock mà máy nhận cả sim viettel với sim vinaphone, vậy iPhone của em là bản quốc tế phải không hay là máy dựng. tư vẫn giúp em với QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.676243,
+         "id": "767239",
+         "field_search": "question",
+         "question": " Ad Ơi. CHO EM HỎI HIỆN EM ĐANG DÙNG MÁY IPHONE 4S CHẠY IOS 9.2 EM MUỐN jailbreak MÁY LẠI THÌ LÀM THẾ NÀO Ạ v ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.649244,
+         "id": "883129",
+         "field_search": "question",
+         "question": "Em sài ip4s. Dạo này khi nghe nhạc offline trên mp3 thì đc 1 bài chạy hết nhảy qua bài khác thì lại không phát nhạc. Phải mở lại máy để điều chỉnh. Khoá máy lại như vậy. Cho em hỏi phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.625933,
+         "id": "916561",
+         "field_search": "question",
+         "question": "QTV cho em hỏi, laptop em mới đi cài lại win7, do loa ngài máy tính em bị rách nên xài bằng loa phụ, bây giờ cắm jack loa phụ vô thì loa ngoài và loa phụ đều phát ra tiếng luôn, em phải khắc phục thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.619347,
+         "id": "1021607",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu ipad thì làm sao để lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.610989,
+         "id": "912808",
+         "field_search": "question",
+         "question": "Em quên mật khẩu icloud nhưng khi lấy lại bằg email thì chính cái icloud đó là email luôn thế là không thể nào đặt lại đc mật khẩu mới. Anh chị ad cho e hỏi là có cách nào để lấy lại không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.512249,
+         "id": "770725",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại FPT S550 có chụp màn hình được không ạ nếu được thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.466394,
+         "id": "746369",
+         "field_search": "question",
+         "question": "  Em mất mậy khẩu Apple giờ muốn lấy lại thì làm thế nào nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.427244,
+         "id": "929350",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng máy tính win 7 mà máy em nó không báo cuộc gọi đến mà toàn báo cuộc gọi nhỡ nhưng goi đi vẫn được thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.407,
+         "id": "1138373",
+         "field_search": "question",
+         "question": "máy meizu m3s mà cứ bị lỗi chương trình không đăng nhập được vào ch play. em có đi chạy lại chương trình rồi nhưng được một lát lại lỗi . cho em hỏi phải làm sao đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.34169,
+         "id": "1020797",
+         "field_search": "question",
+         "question": "E vào zing và cứ báo \" Đã xảy ra lỗi(-102)\". E dùng iph5s, máy bị thế 3 ngày rồi, e xoá đi tải lại rồi khởi động lại máy nhiều lần vẫn k đc thì phải làm sao ạ? E k muốn dùng UD nhaccuatui. Ad giúp e với ạ. E cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.321453,
+         "id": "1013641",
+         "field_search": "question",
+         "question": "Em đang sử dụng oppo f1s lúc em cài vân tay+ mẫu hình để mở khóa bây giờ em quên mẫu hình mở khóa.. vậy làm như thế nào để thay ạ ( vào cài đặt cũng phải mở lại mẫu hình cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.321344,
+         "id": "1155719",
+         "field_search": "question",
+         "question": "ad ơi cho hỏi nếu em mua Samsung S10 mà không lấy quà thì giá như thế nào khi mua thẳng ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.310026,
+         "id": "1024488",
+         "field_search": "question",
+         "question": "Mình dùng Redmi 4X, mà lỡ tay vô chế độ fastboot của máy. giờ làm sao để quay lại dùng như bình thường được vậy? Mod nào giúp mình với!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.30081,
+         "id": "942964",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi máy em chạy win 10 giờ máy em bị lỗi 0xc000021a thì có cách nào khắc phục được không ạ .hay phải chạy lại win",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.297749,
+         "id": "881909",
+         "field_search": "question",
+         "question": "Cho em hỏi là e đang dùng iphone nhưng bây h e múôn chuyển sang dùng lenovo thì lấy lại đầy đủ danh bạ từ iphone sang lenovo thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.243448,
+         "id": "1024456",
+         "field_search": "question",
+         "question": "ad ơi, làm thế nào để bỏ cái phần mờ mờ này đi ạ? e thấy hồi trước em để nền trắng vẫn đc, sau đấy e đổi nền khác xong đặt lại nền trắng nó bị thế này:(( ad giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.221182,
+         "id": "749228",
+         "field_search": "question",
+         "question": "Em có nghe nói dòng samsung có tổ hợp phím Power+home+volume up nó sẽ restar lại máy. QTV có cách khóa nào k ạ. Em đặt mật khẩu máy nhưng bạn em toàn lấy để restar lại. QTV trả lời hộ em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.220547,
+         "id": "758542",
+         "field_search": "question",
+         "question": "QTV cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn lên cũng không lên, nút Home thì bị hư rồi, giờ làm cách nào cho máy mở lên được ạ? Ở TGDD có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.203268,
+         "id": "1139886",
+         "field_search": "question",
+         "question": "dạ cho em hỏi em muốn mua trả góp 2 sp nhưng một người đứng tên được không ạ, nếu được thì em phải làm như thế nào ạ? em cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

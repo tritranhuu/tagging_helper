@@ -1,0 +1,801 @@
+{
+   "id_query": "806378",
+   "total": 25328,
+   "total_current": 100,
+   "max_score": 70.15627,
+   "origin_question": " Anh chị cho em hỏi..lỗi này thì khắc phục làm sao ạ  ",
+   "hits": [
+      {
+         "score": 41.2842,
+         "id": "1015557",
+         "field_search": "question",
+         "question": " Cho e hỏi bị như thế này thì phải làm sao và cách khắc phục  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.10627,
+         "id": "1018362",
+         "field_search": "question",
+         "question": "Bên mình cho em hỏi, sau khi em nghe nhạc trên mp3.zing và Spotify qua tai nghe theo máy thì khi rút ra lại không phát loa ngoài được ạ, cho hỏi cái này là lỗi gì vậy ạ và em phải khắc phục làm sao ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.674427,
+         "id": "851395",
+         "field_search": "question",
+         "question": " qtv cho em hỏi khắc phục lỗi DRIVERPOWERSTATEFAILURE win 8.1 dòng asus làm như thế nào được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.51067,
+         "id": "1010967",
+         "field_search": "question",
+         "question": "Anh cho em con asus zenphone 5 của em bị chập chờn wifi thì cho em hỏi làm các nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.201714,
+         "id": "851226",
+         "field_search": "question",
+         "question": " cho em hỏi làm sao để khắc phục lỗi 0x80070020 trên laptop em đang sài windows 8.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.026505,
+         "id": "872253",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi cách khắc phục thiết bị không được hộ trợ 2028 trên zalo của dòng asus5 đi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.680603,
+         "id": "1017708",
+         "field_search": "question",
+         "question": "Em đang sử dụng con galaxy Grand 2. Vừa up ROM CM 12.1 lên Android 5.1. Sử dụng được một lát thì bị lỗi Rất tiếc Rebuchet đã dừng lại. Khắc phục lỗi này ntn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.638565,
+         "id": "832116",
+         "field_search": "question",
+         "question": " Laptop em là dell inspiron 5458 bị treo logo và bị lỗi file reconvery khắc phục làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.642097,
+         "id": "1010701",
+         "field_search": "question",
+         "question": "Mấy anh mấy chị ơi cho em hỏi asus zenfone go có nâng lên android 6 hay 7 được ko ạ nếu đc thì nâng làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.450592,
+         "id": "811222",
+         "field_search": "question",
+         "question": "cho em hỏi cái lỗi win cái giúp em khắc phục lỗi win........................................................................................................................................................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.636414,
+         "id": "795491",
+         "field_search": "question",
+         "question": "Chào anh chị em đang xài iphone 6 chạy ios 9.2.1 e hạ xuống ios9.2 thì bị lỗi 17 và bị treo máy khôi phục lại máy mãi mà không được giờ em phải làm sao????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.170395,
+         "id": "783731",
+         "field_search": "question",
+         "question": "cho em hỏi máy em bị khóa icloud mà e nhậ sai nhiều quá nó ghi. Iphone bị vô hiệu hóa. thử lại sau \" 24.220.744 \" như này thì làm thế nào. cho e cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.336407,
+         "id": "1010972",
+         "field_search": "question",
+         "question": "Cho em hỏi con asus zenphone5 của em bị chập chờn wifi thì làm thế nào để khác phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.661213,
+         "id": "870197",
+         "field_search": "question",
+         "question": "tại sao khi máy của mình mỗi lần vào facebook đều bị lỗi k có phản hồi như này và cho minh cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.071365,
+         "id": "750615",
+         "field_search": "question",
+         "question": "Cho e hỏi e có mua cái laptop X550LD  4G core i7 . e cài windows 8, nhưng khi chơi game liên minh huyền thoại thì có hiện tượng thường hay bị restart. có biểu tượng :( và 1 số dòng chữ tiếng anh . khi khởi động máy lên lại thì chơi bình thường nhưng 1 lúc sau thì lại bị như tình trạng trên  . vậy e phải làm như thế nào để khắc phục lỗi trên . mong anh chị chỉ giúp  .  e cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.8098,
+         "id": "828763",
+         "field_search": "question",
+         "question": "Ad ơi, vô appstore tải về thì thấy cái này: Không thể xác minh- Đã có lỗi khi kết nối với ID Apple thì làm sao ạ? Cám ơn ad nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.659399,
+         "id": "1164043",
+         "field_search": "question",
+         "question": "Máy của em là máy HTC m8 ạ. Gần đây, máy em bị lỗi và xuất hiện dòng chữ \"Mã hóa không thành công\". Em đã thử đặt lại điện thoại nhiều lần nhưng khi nó khởi động lại thì hiện dòng chữ \"Rất tiếc, Cài đặt đã dừng lại\". Cho em hỏi cách khắc phục lỗi với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.277708,
+         "id": "768175",
+         "field_search": "question",
+         "question": "Em có Dell Vostro Latitude 3450. Em muốn tắt/mở phím \"Fn\" thì làm như thế nào ạ? Mong các anh chị giúp cho em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.998669,
+         "id": "1152706",
+         "field_search": "question",
+         "question": "Em đang xài asus zenfone 4 max mà sao mỗi lần xài cái thông báo hệ thống người dùng đã dừng với mỗi khi tắt màn hình điện thoại là ngăt mạng làm cho không nhận được tin nhắn zalo hay messenger ad có thể khắc phục lỗi này được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.982685,
+         "id": "803284",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu wechat nhưng làm đến thế này thì không biết làm như thế nào nữa mong anh chị QTV hướng dẫn. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.679525,
+         "id": "942971",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng 6plus ios 10.1.1 mà để qua đêm(9 tiếng) pin tự bị tụt khoảng 14% mà mình không hề dùng(đã tắt wifi).Mình muốn lên ios 10.2.1 thì có khắc phục được lỗi tự tụt pin không ạ và bản này dùng có ổn định không ạ.Mong QTV giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.637897,
+         "id": "996356",
+         "field_search": "question",
+         "question": "Cho mình hỏi may asus zenphone 3max 5.5 mình mua duoc khoảng 2 thang khi cài khóa vân tay thì có thông báo là phần cứng vân tay không khả dụng. Vậy là lỗi gì ạ giúp mình khắc phục với. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.506443,
+         "id": "772561",
+         "field_search": "question",
+         "question": "  Điện thoại Oppo neo 5 vào Messenger cứ bị thế này phải làm sao để khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.493753,
+         "id": "1147986",
+         "field_search": "question",
+         "question": "Cho em hỏi bên anh chị có bán honor 7c không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.406853,
+         "id": "765209",
+         "field_search": "question",
+         "question": " Đối với Laptop asus, khi wifi bị giới hạn thì làm sao khắc phục được tình trạng đó? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.24127,
+         "id": "779172",
+         "field_search": "question",
+         "question": "Ad biết khắc phục lỗi 101 của sim ghép koVói cả làm sao để biết mìh dụng mạng nào khi mới đăng nhập sim ghép",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.215956,
+         "id": "1010312",
+         "field_search": "question",
+         "question": "Ai biết cách khắc phục vụ này thì giúp em với ạ ! Điện thoại em là ASUS zenfone 3 max ! Em xin cảm ơn ạ ! Ngay cả khi gắn tai nghe bấm tăng âm lượng nó cũng ghi vậy luôn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.18252,
+         "id": "997545",
+         "field_search": "question",
+         "question": "Em khôi phục cài đặt gốc xong giờ vào ưnǵ dụng trong máy cứ như bị lỗi thời í,vào ch play thì tìm toàn ra những game từ thời nào rồi còn bị lỗi mất kết nối với máy chủ,các anh chị giúp em với em xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.730818,
+         "id": "816288",
+         "field_search": "question",
+         "question": "  Mọi người ơi cho e hỏi sao lại k xem đc trên đt ạ, có cách nào khắc phục k ạ, e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.628254,
+         "id": "1009435",
+         "field_search": "question",
+         "question": "Xin.hỏi, lỗi như vậy là sao vậy ạ? Hiện e đang dùng điện thoại oppo neo5 ạ, mong được anh chị giải đáp ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.595901,
+         "id": "807596",
+         "field_search": "question",
+         "question": "Em không thể kết nối với Messenger bằng dữ liệu di động ạ. Khi bắt wifi thì có kết nối được ạ . lỗi này sửa sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.093258,
+         "id": "866955",
+         "field_search": "question",
+         "question": "Mình có download file SetupOneNote về và cài đặt thì nó hiển thị lỗi thế này. Cho mình hỏi là nó đang báo lỗi gì ạ -_- Hiện lap mình đang xài Office Plus 2013 hđh Win 7.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.814028,
+         "id": "828533",
+         "field_search": "question",
+         "question": "E xài lg g2Vào fb thì bảo ko truy cập đcE xài mạng 3g ko choNhưg wifi lại choXin hỏi khắc phục vào fb = 3g đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.464226,
+         "id": "1015742",
+         "field_search": "question",
+         "question": "   cho mình hỏi nó hiện cái này lên rồi ko sạc đc pin thì phải làm ntn ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.371273,
+         "id": "1154989",
+         "field_search": "question",
+         "question": "cho em hỏi ở trong máy của em có 1k6 ảnh,14 video  nhưng sao em vào icloud đồng bộ để sao lưu lại trên máy tính thì chỉ hiện lên 550 cái ảnh,6 video ? cách khắc phục như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.333506,
+         "id": "985953",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi iphone của em sạc thì vào nhưng không lên pin để lâu cạn pin sập nguồn luôn nhưng vẫn sạc vào đc mà k lên là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.21921,
+         "id": "755635",
+         "field_search": "question",
+         "question": "Máy iphone của tôi tự nhiên nghe gọi với âm thanh bé không thể nghe được. Xin hỏi cách khắc phục sự cố này thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.114592,
+         "id": "1142121",
+         "field_search": "question",
+         "question": "Đây là lỗi gì vậy ạ, mỗi khi khởi động máy thì cửa sổ này lại hiện lên. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.888153,
+         "id": "895525",
+         "field_search": "question",
+         "question": "Laptop của e ko bắt được wifi của nhà trong khi điện thoại vẫn bắt được và vào bình thường(wifi nhà hàng xóm thì laptop vẫn bắt được bình thường). QTV cho e hỏi thế là bị làm sao và cách khắc phục ntn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.824594,
+         "id": "1153573",
+         "field_search": "question",
+         "question": "cho e hỏi cách khắc phục khi màn hình bị hở sáng ở cạnh đáy ạ ? e dùng realme c1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.719158,
+         "id": "1139638",
+         "field_search": "question",
+         "question": "Cho e hỏi? Máy e đang dùng là zenzon4 max pro bây giờ nó bị đơ và loạn cảm ứng thì khắc phục như thee nào ạ? Hoặc nếu sửa màn hình cảm ứng thì hết bn tiền v?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.450962,
+         "id": "939588",
+         "field_search": "question",
+         "question": " Cho em hỏi cách nâng cấp từ ios 7 lên ios 8 hay 9 thì làm sao ạ ? em đang sài iphone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.33758,
+         "id": "921708",
+         "field_search": "question",
+         "question": " Laptop cuả em có 1 số phím bấm k được nhưng k phải bị lờn. Làm saođể khắc phục anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.291307,
+         "id": "749611",
+         "field_search": "question",
+         "question": "Em là sinh viên công nghiêp thái nguyên muốn mua laptop thì anh chị tư vấn cho em mua loại nào mà chơi cs go mượt và kẻ vẽ đồ họa tốt tiện cho sau này đi làm tầm 15 triệu trở xuống.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.28538,
+         "id": "1016883",
+         "field_search": "question",
+         "question": "Asus 3max5.5 chơi liên quân bị  thoát games  làm  sao khắc phục,khôi phục  cai đặt góc van không hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.187717,
+         "id": "1139614",
+         "field_search": "question",
+         "question": "chị cho em hỏi cách tắt âm camera ip7 ios 11.2.6 bản hàn sao ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.853924,
+         "id": "890270",
+         "field_search": "question",
+         "question": "Em vừa nhận lap mới Asua 453s, hiện tại máy yêu cầu thế này, anh chị kiểm tra giúp em phải làm gì tiếp theo nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.753035,
+         "id": "1138574",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi thế giới di động có pin huawei y6 ll không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.563791,
+         "id": "773518",
+         "field_search": "question",
+         "question": "Cho em hỏi chút. máy em bị lỗi boot mode is set to: UEPI with lagacy: OPROM secure boot : Off ,là bị làm sao ạ. Máy dell inspiron 14z. cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.461815,
+         "id": "1021629",
+         "field_search": "question",
+         "question": "ad cho hỏi máy em đang sử dụng là Samsung Galaxy Y GT-S5360 nó bị liệt màn hình bây giờ làm sao khắc phục ? em thử lấy đồ vợt muỗi nhưng k hiệu quả :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.068182,
+         "id": "840929",
+         "field_search": "question",
+         "question": " cho e hỏi máy e iphone 4skhông đổ chuông mà vẫn nghe nhạc đượccho 3 hỏi khắc phục sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.005829,
+         "id": "823755",
+         "field_search": "question",
+         "question": " QTV cho e hỏi, e dung zen 5 sao e tải zalo là hiện ra lỗi này  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.905693,
+         "id": "776508",
+         "field_search": "question",
+         "question": "Tại iPhone 4 của em khị bị va chạp nhẹ phía sao màng hình hoặc đặc xuống thì nó bị tắt nguồn thế có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.822285,
+         "id": "1015532",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi điện thoại có số miêu 357202078391910 đã chuyển đi bảo hành chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.802902,
+         "id": "1007682",
+         "field_search": "question",
+         "question": "anh cho em hỏi tý ạ em đóng tiền lãi của máy chả góp thì đóng song bên anh có đưa cho em cái biên lai đóng hộ thì em phải gửi cái mã nào cho bên anh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.577429,
+         "id": "744456",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi muốn cài cydia cho iphone 4 thì làm như thế nào ạ, iphone của em hiện tại chạy phiên bản 7.1.2?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.512646,
+         "id": "837353",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi tại sao mà cài đặt messenger rồi mạ khi lên wed thì nó k cho vào tin nhắn, bảo là vào messenger hoặc không hiện lên trang wed ấy. Vậy có cách nào khắc phục k ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.458769,
+         "id": "761137",
+         "field_search": "question",
+         "question": "Cho em hỏi máy này là máy thế nào vậy ạ?                                                                                                ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.267498,
+         "id": "1009696",
+         "field_search": "question",
+         "question": "Cho tôi hỏi hiện tôi dùng asus zefone2 tại sao không biết mấy ngày hôm nay máy tôi cứ không dùng một lúc là tự nhiên mất mạng và khởi động lại thì mới có cho tôi hỏi cách khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.199083,
+         "id": "820516",
+         "field_search": "question",
+         "question": "Em vào facebook thì nó báo như thế này(hình bên dưới) quản trị viên chỉ e cách khắp phục được không ạ...e xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.07384,
+         "id": "805498",
+         "field_search": "question",
+         "question": "ad cho em hỏi laptop asus win 10 e mua ở tgdd gần đây ấn vào nút start nhưng ko hiện lên, ad hướng dẫn e khắc phục đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.064419,
+         "id": "796422",
+         "field_search": "question",
+         "question": "cho em hỏi là mt của em là loai Asus X44H.em mua được lâu rồi.dạo gần đây em sạc pin k đk đầy.chỉ đk 97% thôi ạ.nếu mà vừa sử dụng vừa nạp pin thì đk 1 tí là sạc bị nóng ạ.cho em hỏi là em nên làm gì trong trường hợp này ạ.lỗi do đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.028606,
+         "id": "1021600",
+         "field_search": "question",
+         "question": " Giờ bị như vậy thì phải làm sao ạ giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.015562,
+         "id": "960444",
+         "field_search": "question",
+         "question": "Cho mìh hỏi điện thoại của mình tự dưng bị chuyển tiếng từ loa dưới lên loa trên cách khắc phục thế nào ạ hãng oppo A11w",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.984797,
+         "id": "1013069",
+         "field_search": "question",
+         "question": "Cho em hỏi..em có điện thoại samsung galaxy s7 egle mua ở nước ngoài...vô tình người bên đó quên thoát gmail..ông anh em mua lại gửi về việt nam.khi về việt nam em mở máy lên thì báo bảo mật gmail không chính xác. Giờ em phải làm sao..mong nhận được sự phản hồi của anh chị ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.903755,
+         "id": "998418",
+         "field_search": "question",
+         "question": "Zenfone 2 loa ngoài nghe rất nhỏ.xin hỏi cách khắc phục? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.821236,
+         "id": "992585",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn mua oppo A39 trả góp thì giá sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.669167,
+         "id": "859535",
+         "field_search": "question",
+         "question": " Ad giúp e với. Làm sao để loại bỏ mấy tin rác này ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.613247,
+         "id": "828792",
+         "field_search": "question",
+         "question": " Khi đăng nhập fb và message thì nó hiệnthế này là sao ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.601479,
+         "id": "888631",
+         "field_search": "question",
+         "question": "Đây là lỗi gì vậy ad. Nó thay đổi toàn bộ giao diên của máy mình và lúc tắt máy bật lại thì dữ liệu cũ mất hết. Bày cách khắc phục cho mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.565369,
+         "id": "961055",
+         "field_search": "question",
+         "question": "  Máy j2 prime em mới mua về dc 3 ngày thì bị thế này là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.517944,
+         "id": "993102",
+         "field_search": "question",
+         "question": "Xin chào đội ngũ hỗ trợ thế giới di động !Mình ở Hải Dương và có mua 1 máy tính laptop X441U Hiệu ASUS ! Mình đã mua được 2 tháng và đã ra bảo hành 1 lần và được các anh chị đổi cho 1 máy khác ! Thật sự mình rất thất vọng với sản phẩm này ! Nhiều lỗi và chạy rất chậm ! Mình muốn đổi máy này sang 1 hãng khác có được không ? và thủ tục thế nào ? mong các anh chị hỗ trợ cho em ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.37838,
+         "id": "831957",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone 5s mà lúc ng ta gọi đến đèn phía sau kh nháy thì làm thế nào cho nó nháy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.342913,
+         "id": "823213",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi là cách khắc phục messenger. E có tải đi tải lại app này và đăng nhập trong khi có internet đầy đủ, zalo facebook vẫn lên ầm ầm tại sao khi đăng nhập messenger nó lại báo k có kết nối internet",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.113272,
+         "id": "855692",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em vừa mua máy iphone 5 được khoảng 2 tuần nhưng đến hôm nay sạc pin không vào mà tự tắt nguồn rồi khi cắm sạc thì để pin đang vào nhưng cả ngày không lên nguồn ? ad giúp em khắc phục tình trạng này với =.=- và có khi em vừa sạc vừa sử dụng thì pin lại hết và tắt nguồn sảy ra tình trạng như trên !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.03456,
+         "id": "1156388",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có thể game không ạ có thì em lên mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.980085,
+         "id": "1153377",
+         "field_search": "question",
+         "question": "Chào ad. Em đang dùng đt J7. Hiện tại máy của em báo hệ thống nóng. Em đã tắt nguồn nhưng vẫn không được. Liệu có cách nào khắc phục được không ạ. Máy em mua 9 tháng thì còn bảo hành không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.932674,
+         "id": "921694",
+         "field_search": "question",
+         "question": " cho e hỏi e quên mật khẩu ipad bây giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.920778,
+         "id": "782419",
+         "field_search": "question",
+         "question": " Iphone 4 sau khi khôi phục cài đặt gốc thì nó bị lỗi không đăng nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.907124,
+         "id": "807646",
+         "field_search": "question",
+         "question": "Chào anh. Cho em hỏi dt Mobiistar Kool Lite của em khi bấm vào tên danh bạ thì không gọi dt bình thường được, mà nó tự động chuyển sang cuộc gọi video rồi báo \"ngắt kết nối\". Em phải làm sao để gọi bình thường được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.804592,
+         "id": "1136286",
+         "field_search": "question",
+         "question": "@Hoàng Trung:  Ứng dụng viber của tôi báo đã gửi tin nhắn đi nhưng người nhận không nhận được trong khi việc sử dụng tính năng tiếp nhận cuộc gọi đến từ địa chỉ không nhận được tin nhắn vẫn bình thường? Xin hỏi cách khắc phục tình trạng này? Mình dùng Ip6 và vinaphone bạn ah. Thêm nữa là hiện tượng này chỉ xảy ra với duy nhất 1 nick viber, còn với các người dùng viber khác thì vẫn nhắn tin, nghe gọi bình thường, trong khi nick viber ko nhận được tin nhắn từ mình này lại phải liên lạc thường xuyên nhất nên ko biết phải làm sao, bạn giải thích và hướng dẫn mình cách khắc phục nhé. Cảm ơn bạn rất nhiều...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.779245,
+         "id": "807638",
+         "field_search": "question",
+         "question": " Máy laptop của em bị lỗi win thì mang lên tgdd được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.77311,
+         "id": "999423",
+         "field_search": "question",
+         "question": "Cho em hỏi máy Galaxy Tab A6 của em bị đơ ở màn hình khoá giờ làm sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.378838,
+         "id": "911167",
+         "field_search": "question",
+         "question": "Cho e hỏi IP5 của e cài ios10 ko có jailbreak. Hiện tại ai gọi tới thì đọc tên người gọi luôn. E muốn tắt đọc tên nên làm sao ạ??? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.295422,
+         "id": "763133",
+         "field_search": "question",
+         "question": " Sao máy tính bảng Asus của em bị mất màu rồi em nên làm thế nào để phục hồi màu như cũ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.289423,
+         "id": "1024269",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao những cuộc gọi đi hay đến mỗi lần nhắc máy tl thì máy lại tự động bật chế độ Không làm phiền khiến cả 2 đều không thể nghe được gì vậy ạ ,làm sao để tắt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.174927,
+         "id": "767994",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi máy này có phải chính hãng Apple không ạ 013888007203329 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.06771,
+         "id": "986456",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang dùng hp core i7 hệ điều hành windows 7. E nghịch sao mà bị mất biểu tượng chư e trên thanh tasbar dẫn đến biểu tượng mạng xuất hiện dấu c đỏ. Ad cho e hỏi làm sao để khôi phục lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.974007,
+         "id": "740590",
+         "field_search": "question",
+         "question": " Download ứng dụng về mà ghi lỗi cú pháp thi làm sao ạ? điện thoại nokia XL giúp dùm với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.95923,
+         "id": "872096",
+         "field_search": "question",
+         "question": "E đang dùng laptop hp win 10 nhưng k hiểu sao sáng nay bật máy lên tự dưng màn hình xanh có chữ shutting down đang load.Vậy cho e hỏi là máy e đang bị sao và cách khắc phục tnào ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.914663,
+         "id": "1164370",
+         "field_search": "question",
+         "question": "Cho mình  hỏi  con j6 mình  lên android9  sụt  pin  thì  vì sao nhỉ mình  muốn  về  lại  androi8 thì  phải  làm  gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.914211,
+         "id": "806802",
+         "field_search": "question",
+         "question": "E chào cả nhàAd ơi cho e hỏi e có con máy tính ASUS mấy ngày hôm nay tự dựng có hiện tượng xuất hiện màn hình xanh như thế này,yêu cầu phải cắm sạc mới đc, rồi lại xuất hiện như thế nàysau đó e chọn phím \"q\" thì vào đc màn hình khởi động win 7 bình thường ạ.E không biết mt e bị vậy là thế nào và phải làm sao đây ạ.Mong a chị giải đáp giúp e. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.90655,
+         "id": "1165690",
+         "field_search": "question",
+         "question": "Cho e hỏi. SS note 8 của e ko nhận được âm báo thông báo khi có mess đến, bật màn hình thì thấy có biểu tượng nhưng ko nghe đc âm báo dù e đã để chế độ chuông và đã kiểm tra các cài đặt thông báo kĩ càng. Mong các ac cho e cách khắc phục. e cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.850878,
+         "id": "889047",
+         "field_search": "question",
+         "question": " Màn hình laptop asus cảm ứng bị loạn, rung giật nguyên nhân là gì và cách khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.835737,
+         "id": "844893",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi xíu đc k ạ . E muốn mua 1 chiếc iPhone 6s 64gb trả góp . Thì k biết e sẽ có thủ tục như thế nào ạ . E đang đi làm với mức lương 5tr mà trả trước 30% thì e k đủ tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.798645,
+         "id": "765846",
+         "field_search": "question",
+         "question": "Em sử dụng iphone 4s tối qua vẫn bình thường nhưng sáng nay thì không thể bắt được wifi, wifi thì ở chế độ tắt và bặt lại không được ạ. Cho em hỏi như thế là bị gì và phải làm sao ạbạn em nói là iphone 4 năm 2016 không thể bắt được wifi là có thật không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.76406,
+         "id": "1138593",
+         "field_search": "question",
+         "question": "cho em hỏi là em đang dùng iphone6 plus nhưng cứ dùng tầm 5 phút là tự reset lại.vậy là làm sao ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.727427,
+         "id": "1003626",
+         "field_search": "question",
+         "question": "e muốn lấy danh bạ từ máy j3 trên thiết bị thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.693096,
+         "id": "1155850",
+         "field_search": "question",
+         "question": "mình đang dùng samsung note9 mà không biết sao giờ khỏi động lên nó báo lỗi giao diên người dùng. không thao tác được gì luôn. Bạn nào giúp mình cách khắc phục với nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

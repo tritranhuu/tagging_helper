@@ -1,0 +1,801 @@
+{
+   "id_query": "870022",
+   "total": 13132,
+   "total_current": 100,
+   "max_score": 83.38197,
+   "origin_question": " Làm sao de jeabreak i phone 5s clock vay adminn ôi. ",
+   "hits": [
+      {
+         "score": 20.719341,
+         "id": "1023321",
+         "field_search": "question",
+         "question": "Cho hoi khi nao TGDD moi nhan dat truoc I Phone X vay?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.04096,
+         "id": "858619",
+         "field_search": "question",
+         "question": " i phone 5s đang sạc pin máy nóng mà sạc cũng nóng là bị gì vậy shop? cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.728558,
+         "id": "838142",
+         "field_search": "question",
+         "question": " I phone bị xước mà muốn thay lại vỏ thì sao ạ? có tốn kém k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.583998,
+         "id": "1011122",
+         "field_search": "question",
+         "question": "A chị cho e hỏi làm thế nào để i phone không bị đơ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.38932,
+         "id": "1019773",
+         "field_search": "question",
+         "question": "đt i phone 5s xách tay mỹ mở mang hết bn admở xong bưa sau có phải mở lại k có thang hang vn luôn k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.811316,
+         "id": "1142327",
+         "field_search": "question",
+         "question": "chào bạn, trước mình có mua i phone 8  plus ở bên mình, nay muốn mua thêm i phone xs 256GB thì có được hưởng chương trình khuyến mãi gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.675658,
+         "id": "995056",
+         "field_search": "question",
+         "question": "xin hõi minh moi mua ipad 2017 32G  bãn 3g 4g ! mua dc 4 ngay ! gio minh muon đổi sang i phone 6s hoac i phone 7 hàng da qua su dung. co dc ko ? va co mat phí gi ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.300642,
+         "id": "851025",
+         "field_search": "question",
+         "question": " Cho toi hoi toi nhap sai mat khau i cloud may lan bi khoa thi lam sao de mo duoc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.113152,
+         "id": "1162605",
+         "field_search": "question",
+         "question": "anh ơi cho e hỏi ,e có i phone 5 s mà ruotj nó bị hư thì e làm gì hã a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.891079,
+         "id": "1023967",
+         "field_search": "question",
+         "question": "lam sao de ha ios11 xuong ios 10.3.3 vay ?              .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.881072,
+         "id": "834485",
+         "field_search": "question",
+         "question": "   I phone 4 của mình bị như vậy nhưng mình không nhớ được mật khẩu thì phải làm như thế nào. Help me ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.864664,
+         "id": "1166033",
+         "field_search": "question",
+         "question": "i phone x bi vo hieu hoa .phai ket noi itune gia bao nhieu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.810783,
+         "id": "1154430",
+         "field_search": "question",
+         "question": "lao sao de be khoa cua iphone vay gffghfghfghfghfghfgh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.676141,
+         "id": "1138819",
+         "field_search": "question",
+         "question": " Lam sao de dang ki lai sieu thah sim vietnam vay................... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.604427,
+         "id": "1021376",
+         "field_search": "question",
+         "question": "i phone 8 va 8 plus ạ cho em xin cái giá của việt nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.574063,
+         "id": "794170",
+         "field_search": "question",
+         "question": " A chị kiểm tra giúp xem máy e có phải chính hãng k ạ. Em dùng i phone 5  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.452065,
+         "id": "997039",
+         "field_search": "question",
+         "question": "Toi la nguoi My. Toi khong gioi tieng Viet. alert('XSS'); I want to buy a phone for my Vietnamese boyfriend from $200 to $300. I must have 4G and can run Viber.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.135531,
+         "id": "962439",
+         "field_search": "question",
+         "question": "I phone 5s của mình tại sao vân tay không nhạy cho lắm ... 1 lần mở khoá phải 2-3 lần hoặc không nhận vân tay luôn 😩 Đã xoá vân tay rồi cài lại vân tay mới cài khoảng 3-4 lần mới thành công",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.695261,
+         "id": "1008193",
+         "field_search": "question",
+         "question": "Lam sao de go telex tren meizu m5 bang ung dung gboard vay a ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.6486435,
+         "id": "1148043",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động tp đồng hới tình quảng bình còn i phone 6s không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.084995,
+         "id": "973317",
+         "field_search": "question",
+         "question": "Cho mình hỏi i Phone 6 đang sự dụng phần mềm chụp ảnh. Hết pin đot ngột, máy nóng rang khoảng 30p bay giờ sạc khoảng 6tiéng vẫn không mở nguồn lên phải làm sau ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.743642,
+         "id": "1151375",
+         "field_search": "question",
+         "question": "Hello cho hoi la neu minh dem iphone x toi. Co service de unlock phone duoc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.729554,
+         "id": "1016128",
+         "field_search": "question",
+         "question": "Add cho e hỏi đt a5 2017 bị rớt nuoc. Ở cổng sạc và chổ ghim tay phone bị uot và có cát vay đt em có làm sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.627855,
+         "id": "1011583",
+         "field_search": "question",
+         "question": "Cho hỏi bên thế giới di động của mình face là j . Do mình thấy có 1 số trang face dg chao giải thưởng i phone 7 . Ths ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.623579,
+         "id": "869596",
+         "field_search": "question",
+         "question": " Ac ơi cko e hói máy i phone 6 của e bi mất đồng thơi cung ko đinh vi đc máy nằm ớ đâu jờ phaj lm sao hả ac ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.135877,
+         "id": "1022624",
+         "field_search": "question",
+         "question": "Em da lam theo huong dan de bai mat van tay may bao thanh cong nhung mo thi khong duoc may bao nhu vay la sao vay..mong duoc giai dap.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.12361,
+         "id": "1016793",
+         "field_search": "question",
+         "question": "Ad cho minh hoi lam the nao de tat che do an toan vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.044548,
+         "id": "905039",
+         "field_search": "question",
+         "question": "The gioi cho minh hoi 1 van deMinh mua 1 i phone 6s plup nhung hiện da phiên ban os10.1Thi cap nhat dc chua, he điều hanh do đua len dung co bi loi hay kgVi hom trước minh dung i phone 6 plup minh cap nhat thi hay bi các loi va loi rát nhieuTheo các ban thi co nen cap nhat hay chua?Namnguyen91cp@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.920825,
+         "id": "1001260",
+         "field_search": "question",
+         "question": "Co ban Online tai phone Cua Oppo ko vay..m muon mua lam the nao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.863398,
+         "id": "918774",
+         "field_search": "question",
+         "question": "cho minh hoi:laptop minh moi mua gan day ma mo loa ngoai khong dc chi nghe dc tay nghe thoi. vay cho minh hoi lam sao de mo dc loa ngoai vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.785036,
+         "id": "868954",
+         "field_search": "question",
+         "question": " goi facetime video tren phone 5s khong nghe duoc tieng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.685334,
+         "id": "920226",
+         "field_search": "question",
+         "question": " Tai sao iPhone 5s không nhan được itoonls được vay anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.60784,
+         "id": "891465",
+         "field_search": "question",
+         "question": " Em wem thai khoan id apple gio phai lam j de sai duoc may vay ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.532334,
+         "id": "843232",
+         "field_search": "question",
+         "question": "Ad cho e hỏiBình thường thì khi vuốt lên thanh setting từ dưới lên của i phone nó sẽ có màu sắcNhưng của em lại là một màu xám mặc dù em đã lên ios 9.3.2Giờ em muốn có màu sắc như vậy thì phải làm sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.362362,
+         "id": "872196",
+         "field_search": "question",
+         "question": " Cho em hoi de cai mat khau cho may chay window10 thi lam the nao vay a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.264429,
+         "id": "1023793",
+         "field_search": "question",
+         "question": "Xiaomi not 4x và j Phone 5s thì cái nào sẽ tốt hơn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.254304,
+         "id": "830444",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi trên màn hình iphone 5s của mình xuất hiện thêm biểu tượng messenger bị mờ, nhấp vào ko dc, là bị làm sao ntn de xoá dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.176482,
+         "id": "1009829",
+         "field_search": "question",
+         "question": "Cho e hoi sao Dt iPhone 6s plus khong sử dung de một ngay no hao hut hon 40 Vay pin co bi hu k ă",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.026609,
+         "id": "870262",
+         "field_search": "question",
+         "question": " toi lap icloud song toi quen mat khau lam the nao de lal lai duoc mat khau vay ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.999634,
+         "id": "1154792",
+         "field_search": "question",
+         "question": "Minh muon mua dt tra gop thj thu tuc de mua nhu the nao co nhamh ko vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.990557,
+         "id": "906486",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy tính mình win 10 home khong co gpedit.msc.gio lam the nao de co gpedit.msc vay ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.990557,
+         "id": "1018250",
+         "field_search": "question",
+         "question": "J5 prime ko su dung de ban dem toi sang mat 1314pin vay may co bi hao pin ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.874261,
+         "id": "855112",
+         "field_search": "question",
+         "question": " Tat phim home ao iphone 5s lam sao vay ad no hien kho choi game hoai ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.716978,
+         "id": "996124",
+         "field_search": "question",
+         "question": "e muon mua tra gop vay dieu kien de e mua tra gop la gi ah.ck e co 1 khoan vay ben Fe creid thi e co dk mua tra gop nua ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.55209,
+         "id": "925110",
+         "field_search": "question",
+         "question": "Trước app youtube của mình khi xem 1 video ,kéo xuống dưới có mấy video đề xuất, mà giờ không có nữa, có phải máy mình bị hỏng không mình dùng i phone 5c lock",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.532234,
+         "id": "1007958",
+         "field_search": "question",
+         "question": "Cho minh hoi minh co mua may tai tgdd bay gio minh ko muon sai nua muon ban de mua dien thoai khac vay ben tgdd co mua lai may ko vay...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.443125,
+         "id": "841665",
+         "field_search": "question",
+         "question": " xin vui long huong dan toi dang su dung tango thi thiet bi bi chan vay lam the nao de cai datlai thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.261992,
+         "id": "806097",
+         "field_search": "question",
+         "question": " Minh bị quen mk iCloud và Mail làm sao de lấy lại hoặc xoá đi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.233489,
+         "id": "1144665",
+         "field_search": "question",
+         "question": "Mình vừa mua oppo a3s và bị lỗi Youtube là ko tắt nut tới lui dừng khi phóng to. Phả i làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.172556,
+         "id": "874539",
+         "field_search": "question",
+         "question": " Cai ung dung chạm 2 lan de mo khoa mang hình iPhone 5s nhu the nao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.106475,
+         "id": "926751",
+         "field_search": "question",
+         "question": "E đang dùng iPhone 5 . Gan đây e nhắn tin trên mang xã hội cho bạn be người thân em những cuộc nói chuyện ấy đều đi chuyển đen máy của chồng e . Cho e hỏi làm cách nao de hủy cải đo va vì sao lại vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.10077,
+         "id": "908901",
+         "field_search": "question",
+         "question": " Em co Mua tra gop dien thoi iPhone 5s Nhung gio e khong co du kha nag de gop nua thi e fai lam Sao ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.027576,
+         "id": "908523",
+         "field_search": "question",
+         "question": "i phone 4s để 1 lúc tự tắt nguồn bật nguồn lại chạy bình thường để 1 lúc lại tắt. đã thay pin, resset lại máy nhưng ko được. có cách nào giúp tôi chuẩn đoán bệnh gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.027576,
+         "id": "817176",
+         "field_search": "question",
+         "question": "Cho a hỏi cái này nha ví dụ như cái đt của anh là i phone 3 thì anh đem lên hãng của e đổi để bù tiền mua cái mới dc hk z cho ah pk đi nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.888704,
+         "id": "1009692",
+         "field_search": "question",
+         "question": "The gioi di dong co thay  man hinh iphone 5s ko vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.866039,
+         "id": "831325",
+         "field_search": "question",
+         "question": " thay cum nut home tren iphone 5s bao nhiu vay QTV ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.863466,
+         "id": "908605",
+         "field_search": "question",
+         "question": "Tôi dùng i phone 4s cài đặt chế độ tự động khóa màn hình thì máy tắt nguồn luôn muốn dùng lại phải khởi động. Để chế chộ không khóa màn hình thì máy không sao nhưng hết pin nhanh? có cách nào giúp tôi? máy bị bệnh gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.858613,
+         "id": "1151982",
+         "field_search": "question",
+         "question": "realme c1 của e sao e gắn tai phone vào không nghe đc âm thanh ở tai phone ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.817691,
+         "id": "1017973",
+         "field_search": "question",
+         "question": "anh da mua cai sim ben em va da dang ky voi cmnd roisdt la 01223030655 hien anh dang bi van de la van con nguoi dang su dung cai sdt nay va ho dang dung de dang nhap vao cac chuong trinh tren mang va cac van de khac . hien anh nen lam gi day khi ma nhieu sdt la goi nham so anh va con nhieu van de nua ... ben e sao ban a cai sim gi ki vay .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.774914,
+         "id": "1165773",
+         "field_search": "question",
+         "question": "hello,     can i sell my old iphone in this shop?      i have a Iphone 6 plus 124gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.718555,
+         "id": "886271",
+         "field_search": "question",
+         "question": "Cho e hoi. May tinh asus cua e luc xai thi binh thuong, khi tat r bat lai thi no hien len hibernating. Con cá chay hoai k dừng. Lam sao de khac phuc tinh trang nay vay?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.709301,
+         "id": "952652",
+         "field_search": "question",
+         "question": " Thegioididong co thay vo iphone 5s k, va gia la bao nhieu vay ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.702794,
+         "id": "1019094",
+         "field_search": "question",
+         "question": "Hiện tại do mình ngu người và thận trọng bảo mật quá tay, nên mình đã không thể nhận được sms mã xác minh để đăng nhập facebook xác minh 2 bước, mặc dù mình ghi số đúng. Làm sao đây!!!!!! Ôi cái **** Facebook!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.620754,
+         "id": "937654",
+         "field_search": "question",
+         "question": " Làm sao xoá mot nguoi bạn khoi danh ba mesenger cua facebook vay ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.601918,
+         "id": "937588",
+         "field_search": "question",
+         "question": "Tại sao laptop của e đag sd thì màn hình tắt tối đen. Nhưng đèn vẫn sáng. Bật phím caps clock thì k hiện lên ạ. E xài laptop asus tp550l",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.593452,
+         "id": "1024045",
+         "field_search": "question",
+         "question": "lam on cho hoi. lam cach nao de cai tool vao may samsung j2 vay? vi vao thanh nay co hi la file cua ban bi dung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.56132,
+         "id": "823754",
+         "field_search": "question",
+         "question": " Em co the dem iPhone 5s ra TGDD de tai mien phi nhung ung dung tinh phi dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.487251,
+         "id": "1013516",
+         "field_search": "question",
+         "question": "toi bam nut nguon va nut home de chup man hinh thi no de lµ UI He Thong Da Dung lam sao de sua loi nay ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.360799,
+         "id": "837534",
+         "field_search": "question",
+         "question": "Bạn ơi ! Sao ipad minh khi chup camera 360 . No ko tu luu anh vao thu vien vay , trong khi do minh da vo cai dat de luu vo thu vien , nhung khi chup no van ko luu vo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.283049,
+         "id": "1142399",
+         "field_search": "question",
+         "question": "Em xài ss j7 prime k có múi giờ hà nội thì làm sao vay add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.277338,
+         "id": "798564",
+         "field_search": "question",
+         "question": "Em mua iPhone 5s được hai tháng. Mà giờ loa ngoài tự nhiên không nghe đc. Muốn nghe em phải cắm phone mới nghe đc. Loa điện thoại em bị sao vậy ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.241502,
+         "id": "768664",
+         "field_search": "question",
+         "question": "mình bị mất đt iPhone 5s 16g, máy có cài dặt icloud và bật chế độ find my phone. Mình vào PC tìm thì báo thiết bị đang ngoại tuyến. Vậy làm thế nào khóa đc máy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.224699,
+         "id": "941270",
+         "field_search": "question",
+         "question": " i phoon 4 có kết nooi với ti vi sony được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.216616,
+         "id": "1139963",
+         "field_search": "question",
+         "question": "Cho mình hỏi... Dt Samsung j7 hiển thi 2 cai sim tren man hình là  bi gì. Làm  sao de tat no",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.180034,
+         "id": "867207",
+         "field_search": "question",
+         "question": " A cho e hoi iphone 5s chep mhac tu iphone wa usb dc ko vay ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.157581,
+         "id": "1161163",
+         "field_search": "question",
+         "question": "làm sao để đăng ký wechat được vay qtv e đăng ky mãi ma không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.129715,
+         "id": "827379",
+         "field_search": "question",
+         "question": " 5s mau vang ,dung luong 11,9GB,kha dung 10,9GB vay may e la bao nhieu GB? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.003742,
+         "id": "1003671",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để khắc phục sự cố đứng hình logo của may mobistar vay? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.938143,
+         "id": "1135703",
+         "field_search": "question",
+         "question": "Chao a chi...hien tai e muon mua dt iphone 6s plus tra gop...vay e có thể mựợn BLX va CMT cua nguoi quen de dang ky duoc khong...va e muon tra gop trong vong 12 thang...vay so tien e phai tra truoc la bao nhieu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.924582,
+         "id": "1018558",
+         "field_search": "question",
+         "question": "mode A1550FCC IDBCGA 1550IC579CA1550SERIALXS78LLHGC5là ipad i v a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.920436,
+         "id": "844665",
+         "field_search": "question",
+         "question": "Mấy anh ơi cho em hỏi. Sao cái iphone của e không cắm tai phone. Mà vẫn hiện tai phone vậy. Người khác gọi đếm phải đeo tai phone mới nghe được. Nghe nhạc và xem video cĩng thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.90181,
+         "id": "839991",
+         "field_search": "question",
+         "question": " Iphone 5s choi game Dream League.Game hay bi dung.Cho e hoi tai may hay tai game vay AD?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.8996,
+         "id": "873816",
+         "field_search": "question",
+         "question": "cho tui hoi toi sai iphone 6 plus nhung ma khi cap nhat lai hien thi ket noi itunes thi phai lam sao?tui co su dung itunes de khoi phuc nhung no hien thi thong bao loi khong xac dinh <9>, vay phai lam sao? xin cam on9>                \r\n\r\n                                    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.862417,
+         "id": "1023569",
+         "field_search": "question",
+         "question": "Mn cho mình hỏi tai Sao tai Phone oppo a39 lại nghe nhỏ vậy lúc trc  nghe to lắm, nếu bị hỏng thì tại may hay tại dây Phone nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.836553,
+         "id": "954096",
+         "field_search": "question",
+         "question": "Mình dùng ip7 thì khi nghe bằng dây phone mà có người gọi tới bấm nghe thì không nghe bằng dây phone được. Do dây nghe hay sao vậy? :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.794283,
+         "id": "977043",
+         "field_search": "question",
+         "question": " Làm sao để đổi sim 4g vay the gioi di động, có cần thông tin, giấy tờ gì không ha ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.7385845,
+         "id": "950816",
+         "field_search": "question",
+         "question": " iPad của mình đang dùng gọi là i pad gì bạn hãy giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.737676,
+         "id": "1154977",
+         "field_search": "question",
+         "question": "Co nen len ios 12.1.4 tren ip 6s.len co mac lô i hay ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.729097,
+         "id": "824748",
+         "field_search": "question",
+         "question": "Qtv làm ơn cho hỏi tại sao đt chạy window phone thì không bị virut con laptop chạy window thì bị và cần phải cài đặt phần mềm diệt virut.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.727062,
+         "id": "774239",
+         "field_search": "question",
+         "question": " Ad ơi tải nhạc làm nhạc chuông ở iPhone 5s thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.71066,
+         "id": "913174",
+         "field_search": "question",
+         "question": " lam sao de chan cac ung dung quảng cáo nay????????????????????????  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.669804,
+         "id": "996884",
+         "field_search": "question",
+         "question": "cho tôi hỏitai phone của tôi mua được 2 ngày ... hôm nay phát hiện 1 bên nghe to 1 bên nghe nhỏcho hỏi tai phone của tôi bị sao ? có dduocj bảo hành không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.643486,
+         "id": "1013447",
+         "field_search": "question",
+         "question": "May itel 1516 vai tieg lai noi da thay doi the sim, cham de thiet lap la bi j. Lam sao de k hien nua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.621159,
+         "id": "764343",
+         "field_search": "question",
+         "question": "  Cho mình hỏi iPhone 5s lỗi camera thì làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.6206875,
+         "id": "1139259",
+         "field_search": "question",
+         "question": " Sao e cắm tai phone vào mà khi có cuộc gọi đến vừa phát trong tai phone mà vừa loa ngoài nữa ạ? Có ai bị như e ki? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.620626,
+         "id": "949088",
+         "field_search": "question",
+         "question": "cho minh hoi sao may win 10 ko vao dc excel vay cu bam ma hien ra thong bao dang nhap microsoft j do ma minh lai ko biet ma khi quay lai no lai ko hien len cho de danh chu xin tu van cho minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.601429,
+         "id": "996078",
+         "field_search": "question",
+         "question": "bạn có cách nào fix lỗi ôi hỏng của gg chrome ko ạ. mình xóa cài lại mà vẫn bị ạ. giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.598863,
+         "id": "811422",
+         "field_search": "question",
+         "question": "Quan tri viên oi mị dang dung dien thoai iPhone 4s phiên ban 16gb mị muốn hoi la ban co the giúp minh lam the nao de co dk ma pin cua iPhone 4s ko vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 8.590443,
+         "id": "879099",
+         "field_search": "question",
+         "question": "Toi mua ipad o chi nhanh công ty CP the gioi di dong tại cua hang 479 Nguyễn Trãi, nay cua hang chuyen di cho khac, toi muon lien he lai de xin hoa don da ban ipad cho toi. Vay toi can den dia chi nao de xin cap lai ? Xin giup toi, cam on!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

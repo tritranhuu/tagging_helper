@@ -1,0 +1,802 @@
+{
+   "id_query": "1017622",
+   "total": 28620,
+   "total_current": 100,
+   "max_score": 83.40515,
+   "origin_question": "Cho e hỏi sao e xài grap nó kêu là tắt lớp mở màn hình là sao z mong trả lời nhanh giùm e",
+   "short": "lỗi lớp phủ màn hình",
+   "hits": [
+      {
+         "score": 30.516151,
+         "id": "1009047",
+         "field_search": "question",
+         "question": "Cho e hỏi e đã tắt hết lớp phủ màn hình ở điện thoại samsung j7 prime mà nó vẫn bị lỗi lớp phủ màn hình giờ làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.623856,
+         "id": "997537",
+         "field_search": "question",
+         "question": "Ad cho e hỏi nó e đag cầm con j7 prime mỗi lần tải ứng dụng về là nó kêu tắt lớp phủ j e tìm k đc ạ gửi ảnh cho ad xem mà nó cũng kêu v lun",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.39444,
+         "id": "820150",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là đt ip5s của e sao khi e nhấn vào 4 góc của đt thì có 1 góc kêu nhỏ mà e nhge nói ip là k bị như z không lẻ đt e bị thay màn hình à mong ad sớm tl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.122736,
+         "id": "1001949",
+         "field_search": "question",
+         "question": "Em đã tắt lớp phủ màn hình rồi mà sao nó vẫn báo là chưa tắt lớp phủ màn hình là sao ạ. Giờ em phải làm như thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.067656,
+         "id": "1023322",
+         "field_search": "question",
+         "question": "Cho e hỏi là e đang dùng chiếc iphone6 dạo gần đây e k biết máy e bị sao. E tắt hết 3G và cả wifi e chỉ nghe nhạc thôi nghe được gần 1 tiếng thì máy e nóng bất thường cà hao pin rất nhanh là sao thế ạ? Mong được câu trả lời!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.66129,
+         "id": "1017004",
+         "field_search": "question",
+         "question": " Cho e hỏi làm sao tắt lớp phủ màn hình trên điện thoại masstel. N535 đc vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.381464,
+         "id": "1015257",
+         "field_search": "question",
+         "question": "E xài ss j3 16, sao điện thoại e nó cứ tự động tắt ứng dụng khi tắt màn hình vậy ạ ?  E đang mở mp3 nghe nhạc xong tắt màn hình đi là nghe đc tầm 10' là nó tự tắt lun, (đây là e ko có hẹn giờ tắt nhạc đâu nhé), mấy cái ứng dụng khác như mess cũng bị tương tự lun.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.762217,
+         "id": "785567",
+         "field_search": "question",
+         "question": " Có thể jaibreak ios 9.2 chưa ạ??Trả lời nhanh giùm e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.373919,
+         "id": "999036",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, e muốn sửa danh bạ mà nó cứ hiện là phát hiện lớp phủ màn hình, e cũng lên google tra rồi làm theo vẫn k được. Mong ad chỉ giúp ạ( e dùng samsung j7 prime ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.941828,
+         "id": "1162194",
+         "field_search": "question",
+         "question": "cho e hỏi máy e lúc sài không sử dụng mật khẩu nhưng khi tắt nguồn máy mở lên nó kêu nhập mã kích hoạt iphone là nó bị gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.517859,
+         "id": "1165381",
+         "field_search": "question",
+         "question": "Cho e hỏi là máy e sao tắt màn hình nó không khóa lại ạ.đợi khoảng 1 2 phút nó mới khóa mật khẩu lại.Oppo F11 pro ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.453356,
+         "id": "900772",
+         "field_search": "question",
+         "question": "Chào Ad? Cho e hỏi tango của e nó bị làm sao ấy? Người ta nhắn tin với gọi video là e nhận đc. Còn e trả lời thì người khác ko nhận đc. Xoá ứng dụng rồi cài lại vẫn như vậy. Đăng kí tài khoản khác thì nó kêu thiết bị của bạn đã bị chặn. Giờ làm sao mới xài lại đc ứng dụng tango hả ad..??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.393574,
+         "id": "1022114",
+         "field_search": "question",
+         "question": "Cho e hỏi coi youtube từ từ bị tắt hình là s z chỉ e cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.225122,
+         "id": "789782",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s. Hum qa e bị tắt màn hình, gọi vẫn đổ chuông mà màn hình vẫn đen thui, e thử gọi mấy lần vẫn như z? Lúc đó e vẫn bật wifi, đang onl fb và zalo, màn hình đen ko lên nhưng vẫn có chuông nhận thông báo. Sáng nay e ms biết cách mở sáng màn hình lại. Vậy tối hqa đến giờ đt e vẫn bật mạng đến lúc mở lên, z đt e có thể bị sao ko ạ??? QTV tư vấn giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.02453,
+         "id": "1153260",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi đt oppo F7 lâu rồi e k tắt nguồn, bây giờ e tắt nguồn rồi mở lên nó cứ khởi động lại là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.017168,
+         "id": "1002326",
+         "field_search": "question",
+         "question": "Cho e hỏi chup màn hình sao z e chul hoai ko dc xin ah gúp e dc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.741316,
+         "id": "1023813",
+         "field_search": "question",
+         "question": "e mới mua máy inripson 15 dc 3 tháng mà cũng chua sài nhiều, hôm qua đang xài thì hết pin thì e cắm sạc vào , máy nó kêu lên và bị treo là sao mong ac tl e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.650808,
+         "id": "847290",
+         "field_search": "question",
+         "question": " Ad cho em hỏi lớp phủ màn hình là gì ạ và làm sao đẻ tắt nó vì em cứ bị nó hiện lên hoài . cám ơn ad ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.59485,
+         "id": "1134416",
+         "field_search": "question",
+         "question": "Cho e hỏi đt e dùng là ss j2 prime hết pin sập nguồn e cắm sạc vào nó lên màn hình khóa nhưng vuốt để mở lại bị đứng màn hình. E tắt đi khởi động lại nhưng k ăn thua. Nó cứ sáng màn hình suốt e ấn nút tắt màn hình k đc. Sạc lâu nóng máy mà k đầy pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.53247,
+         "id": "1018431",
+         "field_search": "question",
+         "question": "Cho e hỏi là e đang dùng ssj3 thì nó đột ngột tắt nguồn là vì sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.513655,
+         "id": "1006619",
+         "field_search": "question",
+         "question": "AD cho e hỏi với ạ, e có cái máy Samsung Galaxy C9 Pro ý, v e chụp màn hình nó kêu cái tiếng cách 1 cái là chụp dc, e muốn đổi tiếng kêu khác khi chụp màn hình có dc ko ạ, và đổi kiểu gì ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.208687,
+         "id": "1012965",
+         "field_search": "question",
+         "question": "Cho e hỏi điện e ..là j7prim ..e tải về một ứng dụng hiện giờ trên màng hình khi tắt máy ak... Rồi nó hiện lên h và dòng chữ slide to unlock ( trượt để mở khóa ) như trược mà nó vẫn không mở ...mong các a giúp đỡ e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.193026,
+         "id": "1021318",
+         "field_search": "question",
+         "question": "Cho e  hỏi là ip 3 còn hỗ trợ bên id apple ko , mong trả lời giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.120657,
+         "id": "999905",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi tại sao máy của e xài được khoảng 301h là tự động tắt v??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.084564,
+         "id": "875480",
+         "field_search": "question",
+         "question": "E vừa mua 1 máy tính trả góp tại thế giới di động. Và vô ý mở máy ban đêm rồi đè máy thẳng ra :) giờ màn hình lúc e tỉnh nó vẫn sọc sọc k thấy hình e tắt khởi động lại thì màn hình k sáng nữa. Cho e hỏi máy e bị sao và sửa chữa ntn ạ :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.076525,
+         "id": "1161349",
+         "field_search": "question",
+         "question": "E xài f9 mới mua đc 4ngay, trong mục tự động tắt màn hình, e cài là 2p, nhưng sau đó đc 3 4 tiếng hay có khi 1tiếng thì nó lại tự động trở về 15s là sao v ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.989964,
+         "id": "1022710",
+         "field_search": "question",
+         "question": "E có sài điện thoại oppo a37...e có tải snow về khi chụp ảnh,mình lưu ảnh thì snow lại lưu trong quản lí tệp/hình ảnh, sao không lưu được vào thư viện giúp e với,mong ad trả lời e nhanh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.829632,
+         "id": "1001723",
+         "field_search": "question",
+         "question": "Mình muốn cấp quyền cho ứng dụng nhưng nó bảo là phải tắt lớp phủ màn hình là cần phải tắt cái gì dậy bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.801462,
+         "id": "1145063",
+         "field_search": "question",
+         "question": "Hiện tại e đang xài huawei nova 3e ah. Ko hiểu sao gần đây nó lại mất tính năng xạc nhanh. Cho e hỏi là nó bị gì và hướng giải quyết sao vậy ah. E chân thành cảm ơn nhiều ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.775045,
+         "id": "1168171",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo a7 e đặt  nào  mới có mong add trả lời nhanh em biết em còn mua sản phẩm khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.762383,
+         "id": "1005224",
+         "field_search": "question",
+         "question": "E đã thử sử dụng mạng khác để vào imuzik mà vẫn k được là sao ạ ?? Mong a chị trả lời ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.669952,
+         "id": "834005",
+         "field_search": "question",
+         "question": " E xài Dell Vostro 2421..lúc khởi đọng nó hiện lên như z là bị gì z qtv???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.556309,
+         "id": "1017979",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại Sam Sung J5 Prime đang xài bị treo và đứng màn hình k bấm gì đc... h nó tắt đen màn hình và mở k lên lun rồi ạ .... cho em hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.500051,
+         "id": "1001977",
+         "field_search": "question",
+         "question": "ae cho e hỏi máy e sau khi bị sập nguồn thì bây giờ e mở lên nó lại hiện mấy ứng dụng như máy ảnh, đèn pin,..trong một vòng tròn và e muốn mở tin nhắn thì nó báo \"hãy mở nắp và mở khóa màn hình bảo mật\" là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.473202,
+         "id": "1014930",
+         "field_search": "question",
+         "question": "Cho e hỏi em lỡ làm rớt cái dt mà co dán màn hình cái dt của e bị vỡ kính bên trong.z cho e hỏi thay kính bn tiền ạ mong trả lời tin nhắn sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.350374,
+         "id": "1162403",
+         "field_search": "question",
+         "question": "E xài samsung A6 đt e không di chuyển đc các ứng dụng nó ghi là bố cục màn hình chờ đã khóa phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.348623,
+         "id": "873514",
+         "field_search": "question",
+         "question": "Cho em hỏi là e cài đặt cập nhật IOS 9.3.4 nó yêu cầu nhập mật khẩu... Là mật khẩu gì vây ạ.. Mong ad trả lời sớm ạ. Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.340458,
+         "id": "945560",
+         "field_search": "question",
+         "question": " Ad cho e hỏi ứg dụng nào cắt nhạc tốt nhất nhỉ trả lời nhanh nhanh nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.310703,
+         "id": "1010452",
+         "field_search": "question",
+         "question": "Cho e hỏi sao máy samsung galaxy j2 prime của e nó hiện như z ạ lúc nào coi video 360 là nó như z ạ có cách nào khác phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.253408,
+         "id": "1140272",
+         "field_search": "question",
+         "question": "E mún thay màng hình iphone 6spull giá nhiu z ak rất mong được tra lơi nhanh nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.245806,
+         "id": "994659",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi e đang xài iphone 6s quốc tế mà sao tắt âm camara ko đc ạ. E tắt bằng cần gạt âm nhưng vẫn ko đc là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.230785,
+         "id": "1156295",
+         "field_search": "question",
+         "question": "Xin chào TGDDCho e hỏi cái này ạE đang xài máy HTC derise 10 pro Sao máy e mỗi lần tắt máy hay khởi động lại hơn 10 phút mới lên nguồn và cầm máy nghe nóng lắm.Xài pin tới 60% là nó tuột nhanh lắm có khi 50% rồi 40% là tắt nguồn luôn Cho e hỏi máy bị hư pin hay là nguồn vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.210432,
+         "id": "876900",
+         "field_search": "question",
+         "question": "cho e hỏi là khi e bật voiceover của iphone 5 lên mà màn hình bị tối đen không hiện lên thì phải làm sao ạ. chụp ảnh màn hình vẫn kêu. người gọi đến nhạc chuông vẫn có nhưng tại sao màn hình lại không sáng. mà từ khi e bật voiceover lên thì màn hình mới thế ạ. xin cho e  biết là tại sao lại như vậy và cách khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.14887,
+         "id": "768571",
+         "field_search": "question",
+         "question": "ad cho e hỏi sao e tải 1 số game trên microsoft store xuống mở lên đc 1 xíu là nó tắt mất ko dùng đc. e dùng laptop chạy win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.086117,
+         "id": "1017862",
+         "field_search": "question",
+         "question": "Cho e hỏi đt e oppo s1 e tải cái j nó cx kêu đang tải xuống mà để gần 15p nó vẫn chưa chạy % là sao ạ, mà mạng nhà e vẫn bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.831911,
+         "id": "1023095",
+         "field_search": "question",
+         "question": "Mà cho em hỏi là em xài samsung galaxy j2 prime mà đt cứ hay chớp nhá phia trên màn hình và nó bị đứng nên minh không thể nt or dt hay sử dụng được gì hết khoảng một lúc sau thì nó mới hết, e đã thử tắt nguồn mở lại, cập nhật phần mềm nhưng nó vẫn cứ bị như vậy là sao ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.813526,
+         "id": "1004931",
+         "field_search": "question",
+         "question": "E xài asus zenfone go, lúc trước mở ZenMotion lắc lắc cái nó chụp màn hình, mà nay sao e lắc hoài mà nó ko chụp được vậy :(( e cũng có tải mấy cái ứng dụng chụp màn hình mà cũng ko chụp được luôn :( Bây giờ làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.770828,
+         "id": "1154693",
+         "field_search": "question",
+         "question": "ad cho e hỏi. E mới mua đt oppo A3s tại TGDD. Khi e tắt màn hình máy đi, nhưng được 1 lúc, nó lại sáng. cứ tuần hoàn như vậy. Tắt lại sáng. ad cho e hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.765265,
+         "id": "1016662",
+         "field_search": "question",
+         "question": "Ip của e là iphone 5s và mơis hôm trước máy đột nhiên lên các kẻ sọc màu sắc khác nhau trên màn hình. E muốn hỏi là nếu cứ để như vậy thì máy còn sử dụng đc bao lâu nữa ạ? Mong anh chị sẽ trả lời e sớm. E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.7482,
+         "id": "988698",
+         "field_search": "question",
+         "question": " Cho e hỏi làm sao mới tắt được cái chế độ nghiêng đt tự động nó sáng màn hình, E dag sai iPhone 6splus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.71531,
+         "id": "1015366",
+         "field_search": "question",
+         "question": "Máy e lúc mua máy cho xài win 10 nhưng giờ nó kêu active nhưng e muốn gỡ win 10 cài win 7 xài thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.694021,
+         "id": "1004145",
+         "field_search": "question",
+         "question": "Cho e hỏi mây tính e mới mở liền thì màn hình thì bị tắt đen máy vẫn sáng vẫn thấy con chuột nhưng lại không thể nào sử dụng được. Không thực hiện thao tác tắt máy được luôn ạ Cho e hỏi như thế này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.650976,
+         "id": "786011",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone5s của e tắt gạt bên hong máy mà chụp hình vẫn có tiếng thì e phải làm sao ạ tl nhanh giúp e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.623394,
+         "id": "1020919",
+         "field_search": "question",
+         "question": "Da cho e hỏi ip của e nó bị sao z nó thỉnh thoảng lại hiện lên  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.589462,
+         "id": "922574",
+         "field_search": "question",
+         "question": " Cho e hỏi tắt âm chụp hình iPhone 6 làm sao? E đã thử bật nút gần bên âm lượng xuống mà khi chụp vẫn kêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.570105,
+         "id": "1140487",
+         "field_search": "question",
+         "question": "E xài oppo A3s e muốn hỏi làm sao để chỉnh độ sáng màn hình lâu , nó chỉ sáng 15s mỗi lần e đều chỉnh 1' nhưng khi màn hình tắt thì cài đặt trở về 15s có cách nào chỉnh mặc định kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.547493,
+         "id": "1013734",
+         "field_search": "question",
+         "question": "Cho e hỏi tại s khi e gọi trên messenger lại không có biểu hiện trên gương mặt ạ ? E sd samsung galaxy grand prime g531h và messenger e cập nhật mới nhất rồi ạ . Mong qtv trả lời e nhanh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.540956,
+         "id": "1160302",
+         "field_search": "question",
+         "question": "Cho e hỏi ký hiệu kế bên wifi là gì v...làm s để tắt nó...e xài ipad wifi 2018 nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.503893,
+         "id": "896819",
+         "field_search": "question",
+         "question": " QTV ơi cho e hỏi thư viện ảnh của e bị z là sao ạ Làm sao để khắc phục ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.435642,
+         "id": "819059",
+         "field_search": "question",
+         "question": "Cho hỏi là ip5 của e đang xài bình thường bị mất nút home ảo mà vô cài đặt mở lại thì n vẫn lên như bình thường ạ rồi n lại tự tắt nữa cho e hỏi nguyên nhân là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.349968,
+         "id": "1154477",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang sài điện thoại oppo A39 nhưng e ko tao email pop 3 dx là tại sao z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.310003,
+         "id": "1136508",
+         "field_search": "question",
+         "question": "Ad ơi sao dt e màn hình khóa sao nó chập chập là sao ad oppo a83 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.28541,
+         "id": "746455",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 6 lúc thì bị lỗi mở không lên, lúc thì tắt màn hình cứ kêu như mở radio là bị gì vậy ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.11205,
+         "id": "1004602",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi làm sao để reset oppo xbo V5 vậy mong duyệt nhanh dùm e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.057428,
+         "id": "780011",
+         "field_search": "question",
+         "question": "Cho em hỏi..em dùng iphone 4s, lúc em tắt nguồn và mở lên lại thì màn hình của em không lướt để mở khóa được vậy là sao, những nút home vẫn hoạt động bình thường nhờ tgdd trả lời dùm em.em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.956232,
+         "id": "1151156",
+         "field_search": "question",
+         "question": "Cho e hỏi e xài A5 2017 sao đt e k có báo cuộc gọi nhỡ trên màn hình chính vậy ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.916513,
+         "id": "882679",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao laptop hp của em lại có 2 pin như hình ạ. Đó là lỗi hay gì? Nếu k lỗi thì chức năg của pin 1 là gì? Sao lại k khả dụg? Bật tắt nó ở đâu ạ? Còn lỗi thì khắc phục làm sao? Em Mong có câu trả lời sớm !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.845123,
+         "id": "1013426",
+         "field_search": "question",
+         "question": "Em mới mua máy oppo f1s 2017 ở tgdđ vào tắt phần tiên đoán văn bản thì bàn phím n thành như thế này. Mong shop trả lời nhanh giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.803106,
+         "id": "1156464",
+         "field_search": "question",
+         "question": "máy e ss m20 nó bị như này e sạc máy nó đến 30-40% là nó đưng k vào pin nũa. e phải dến mở màn hình mới vào pin lại dc ạ cho e hỏi lỗi máy hay bị s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.790104,
+         "id": "1010882",
+         "field_search": "question",
+         "question": "cho e hỏi e mới mua dt htc disire １０ pro giờ nó báo hiển thị truy cập ứng dụng bị lớp phủ màng hình mà e thử rồi xoá phần mềm virus clear.... vẫn bị. vấn đề là gì mong dc sự hổ trợ. bị khoảng ３ ngày rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.786743,
+         "id": "1155759",
+         "field_search": "question",
+         "question": "mình mua dt j6 khi mở màn hình thì bị mờ ùi sáng lên là bị sao z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.782269,
+         "id": "1001947",
+         "field_search": "question",
+         "question": "Em đã tắt lớp phủ mà máy vẫn báo là chưa tắt lớp phủ màn hình. Giờ em phải làm như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.774895,
+         "id": "1144060",
+         "field_search": "question",
+         "question": " cho e hỏi e xài oppo f9 nhưng tự nhiên hiện khả năng truy cập thì làm sao để tắt nó đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.683613,
+         "id": "825799",
+         "field_search": "question",
+         "question": "ad cho e hỏi tại sao latop của em mấy hôm nay cứ bật máy lên là quạt nó quay mạnh kêu thành tiếng rât to mặc dù chỉ mới mở máy lên thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.65657,
+         "id": "1003353",
+         "field_search": "question",
+         "question": " Cho e hỏi điện thoại em bị rớt nhưng không bị bể màn hình. Nhưng nó bị như thế này là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.654125,
+         "id": "1166790",
+         "field_search": "question",
+         "question": "Sao e tắt chế độ sạc nhanh bằng cáp rồi... màn hình khóa hiện lên sạc bình thường rồi mà sao em sạc 50% pin e sạc 1 tiếng đã đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.60371,
+         "id": "1010775",
+         "field_search": "question",
+         "question": "Minh dang su dung samsung J7 prime mình doalown ứng dụng về và mở lên khong dc nhưng dt báo là phát hiện lớp phủ màn hình yêu cầu tắt lớp phủ đo...cho minh hỏi phải tìm va tắt no nhu the nao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.598524,
+         "id": "1009985",
+         "field_search": "question",
+         "question": "Làm sao để tắt lớp phủ màn hình cho điện thoại j7prime ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.581486,
+         "id": "811701",
+         "field_search": "question",
+         "question": "Mn ơi cho e hỏi iPhone 6 của e hôm qua vẫn dùng bình thường nhưng hôm nay xem phim màn hình cứ tự nhiên tối dần đi và tự động tắt màn hình là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.557007,
+         "id": "1001081",
+         "field_search": "question",
+         "question": "cách tắt lớp phủ màn hình ss galaxy s5 của nhật là như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.497938,
+         "id": "1008395",
+         "field_search": "question",
+         "question": "Tại sao đt oppo F1w của e hay bị đứng màn hình, không thể tắt nguồn hay làm gì được hết, rồi nó mở lại màn hình, e nhìn lên thanh thấy 2 sim y như mới bị thoát ra hoặc không nhận sim ấy ạ. cho e hỏi cách khắc phục ạ. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.484915,
+         "id": "774832",
+         "field_search": "question",
+         "question": "Mọi người giúp em với. iPhone 5s của em. Sao tin nhắn cứ đến chậm. Ví dụ như tin nhắn e vừa gửi ngta trả lời liền nhưng khoảng 30 ' saou e mới nhận dc tn nhắn. Và ghi trên màn hình là 30' truoc. Lý do là sao. E cảm thấy hơi bất tiện. Ai biết cách khắc phục giúp e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.461733,
+         "id": "1151979",
+         "field_search": "question",
+         "question": "Alo. Chào a.c. vui lòng cho e hỏi tại sao đt e mới mua mà tiêu thụ data nhanh quá. E xài a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.4528,
+         "id": "874822",
+         "field_search": "question",
+         "question": "Cho e hỏi cái sao cái iphone 5s của e đang xài mà nó bị lật ngược màn hình lên . Dưới thì lên trên trên thì xuống dưới vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.452007,
+         "id": "763868",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 6s cua mình đang chạy ios 9.1 khi ấn nút khóa màn hinh có lúc bị chớp màn hình 2 lần. bình thường chỉ cần ấn 1 cái là màn hình tắt luôn. giờ ấn khóa nó lại hiện thêm 1 lần nữa mới tắt màn hình. kiểu dạng như chụp ảnh màn hình vậy. cho e hoie là như thế là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.440336,
+         "id": "1139118",
+         "field_search": "question",
+         "question": "e xài ip 7 pl mà khi mở nhạc phía sau máy cứ rung cảm giác khó chịu ạ. k biết là lỗi máy hay sao ạ. mong ad tl dúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.426678,
+         "id": "1160384",
+         "field_search": "question",
+         "question": "Cho e hỏi trên đt Oppo f11 pro làm thế nào để xem full màn hình và tính năng trình giám sát tai nghe thông minh e thấy ghi cho phép trải nghiệm karaoke là sao z ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.409576,
+         "id": "1018294",
+         "field_search": "question",
+         "question": " Đt bị lớp phủ màn hình thì làm sao để tắt ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.367107,
+         "id": "1138942",
+         "field_search": "question",
+         "question": "Cho e hỏi e xài dt A5 2017 đt e hay bị tắt đen màn hình nhưng khi có ai gọi thì vẫn nghe đổ chuông nhưng k bấm nghe đc vì màn hình bị tắt đen e có bấm đồng thời phim giảm âm lương +phim nguồn để mở lên nhưng 1 lát vẫn bị tiếp có cách nào để khắc phục cho nó k bị nữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.25544,
+         "id": "986301",
+         "field_search": "question",
+         "question": "Cho e hỏi là fb trên ip của e sao chỗ này nó không có phần messenger với lời mời kb ạ? Liệu đây có phải là bản mới nhất của fb k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.243685,
+         "id": "1140977",
+         "field_search": "question",
+         "question": "a/c cho e hỏi : cái đtdđ samsung A7-2018 128g hôm qua e mua nó nhanh hết pin lắm, e sạc đầy mới dùng có 10 phú mà nó đac mất 15% pin là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.225454,
+         "id": "1000713",
+         "field_search": "question",
+         "question": "cho e hỏi .. điện thoại e mua được 7 tháng .. bị rơi vỡ màn hình .. z có được bảo hành k z ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.224283,
+         "id": "1017787",
+         "field_search": "question",
+         "question": "Điện thoại Sony XA tại sao có nhiều ứng dụng khi vào nó có thông báo bị lớp phủ màn hình.ad giúp mình cách tắt lớp phủ màn hình đó được k ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.162298,
+         "id": "1155084",
+         "field_search": "question",
+         "question": "Làm sao tắt được tính năng sáng màn hình khi rung hay lắc ở nokia 6.1plus.nhiều khi có cuộc gọi đến mà mình đang đi là nó tự trả lời luôn,rất bất tiệnThanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.15454,
+         "id": "1007845",
+         "field_search": "question",
+         "question": "E muốn hỏi làm sao để cho máy htc one m7 tự tắt màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.130606,
+         "id": "999710",
+         "field_search": "question",
+         "question": "Cho em hỏi đt em là j7 prime mới mua đc 5 tháng mà sao vào mấy cái ứng dụng nó bắt cài đặt lớp phủ màn hình là sao. Rùi còn ảnh thì nó tự lưu luôn ko bít sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.116802,
+         "id": "1156902",
+         "field_search": "question",
+         "question": "Em đang dùng samsung galaxy a50 .cứ mỗi lần nhất lên là màn hình dt lại sáng.cho e hỏi làm sao để tắt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.104462,
+         "id": "1015626",
+         "field_search": "question",
+         "question": "Làm sao để tắt tính năng vuốt xuống hiển thị google trên màn hình chính đây ad chỉ mình với.  Và làm sao để tắt các ứng dụng của google  đây. Mong ad sớm trả lời  câu hỏi của  mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.093277,
+         "id": "1137826",
+         "field_search": "question",
+         "question": "Xin chào shop,Shop cho em hỏi là shop có hỗ trợ chà lớp chống loá của màn hình macbook không? hiện tại thì mà hình của e đang bị bong lớp chống loá.Mong shop phản hồi!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

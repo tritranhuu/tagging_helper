@@ -1,0 +1,801 @@
+{
+   "id_query": "765128",
+   "total": 32441,
+   "total_current": 100,
+   "max_score": 78.24023,
+   "origin_question": " Em muốn mua iPhone 5 cũ ở TGDĐ còn không ạ hoặc iPhone 5S cũ giá từ 67 triệu thì TGDĐ có bán không ạ? ",
+   "hits": [
+      {
+         "score": 38.22797,
+         "id": "801069",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDĐ có bán iPhone 5S cũ không giá trong tầm bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.929073,
+         "id": "781620",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở TGDĐ có bán iphone 5S cũ không? Mình mua lumia 730 được hơn 1 năm và muốn bán lại mua iphone 5s thì mình phải làm sao ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.046787,
+         "id": "835831",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDĐ ở Quảng Ninh  Hạ Long có máy ip 5 hoặc 5s bản quốc tế cũ bán lại k hông ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.264797,
+         "id": "811688",
+         "field_search": "question",
+         "question": " Bên TGDĐ còn iPhone 5 không ạ và giá bán là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.093647,
+         "id": "784313",
+         "field_search": "question",
+         "question": "Admin cho em hỏi ạ! Em có con iphone 5 muốn bán bù qua để mua iphone 5s thì tgdđ có nhận thu không ạ và giá dao động bao nhiêu ạ? Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.978687,
+         "id": "750650",
+         "field_search": "question",
+         "question": " Cho tôi hỏi dòng iPhone 5, iPhone 5s còn hàng ở TGDĐ không? Hiện tại giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.861523,
+         "id": "1158944",
+         "field_search": "question",
+         "question": "Em có 2 triệu và muốn mua điện thoại coolpad mega 5 cũ. Thì không biết ở cửa hàng thegioididong có bán lại điện thoại cũ hay không a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.651848,
+         "id": "754302",
+         "field_search": "question",
+         "question": "  Qtv cho em hỏi TGDĐ có bán pin iPhone 5 không ạ, giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.5487,
+         "id": "747932",
+         "field_search": "question",
+         "question": "  Cho em hỏi tại TGDĐ có bán iPhone cũ không anh, tính mua mà tìm không ra máy cũ anh chỉ giúp em với! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.077885,
+         "id": "753098",
+         "field_search": "question",
+         "question": "  Em mua cây iPhone 5S của TGDĐ 32Gb bây giờ em muốn bán lại TGDĐ có thu lại không anh và giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.66639,
+         "id": "830883",
+         "field_search": "question",
+         "question": " TGDĐ còn bán iphone 4s 8GB không ạ ? nếu còn thì giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.52712,
+         "id": "803249",
+         "field_search": "question",
+         "question": " Ở TGDĐ có bán laptop từ 4 triệu trở xuống không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.060781,
+         "id": "825442",
+         "field_search": "question",
+         "question": " Chào TGDĐ,Cho em hỏi ở đây có mua lại laptop cũ không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.619875,
+         "id": "812540",
+         "field_search": "question",
+         "question": "Cho em hỏi, em có một cái iphone 5 cũ giờ em muốn đổi lấy 5s mới hoặc iphone 6s, và em sẽ bù tiền thêm để đổi, có được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.363585,
+         "id": "750551",
+         "field_search": "question",
+         "question": " Hệ thống cửa hàng tại Vinh có bán iPhone 5S cũ không bạn? Giá bán bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.124325,
+         "id": "1151834",
+         "field_search": "question",
+         "question": "TGDĐ có dịch vụ đổi cũ lấy mới không ạ mình muốn một IPhone 7 plus32G để mua IPX64G thì bù khoảng bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.935537,
+         "id": "995288",
+         "field_search": "question",
+         "question": "Mình mới mua lại iphone 6 cũ TGDĐ, nhưng khi về nhập Icloud thì lại hỏi như thế này, liệu có phải máy vẫn còn dính Icloud của chủ cũ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.87487,
+         "id": "743516",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở TGDĐ có bán hàng trưng bày không ạ? Và nếu bán thì cho mình hỏi luôn đối với iPhone 4S và 5S thì có giá là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.526747,
+         "id": "864161",
+         "field_search": "question",
+         "question": " Cho mình hỏi ở đây có bán iphone 5 màu trắng cũ không. Nếu có cho mình xin cái giá ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.438156,
+         "id": "814527",
+         "field_search": "question",
+         "question": " Mua iphone 6s cũ tại TGDĐ có tốt không hay mua 6s mới ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.197876,
+         "id": "768414",
+         "field_search": "question",
+         "question": " Ở tgdd có nhập iPhone 5 cũ không ạ admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.122637,
+         "id": "1135254",
+         "field_search": "question",
+         "question": "Em mua iphone 8 ở tgdđ ngày 20/07/2018 giá 21tr nay e muốn bán lại đt mà đt còn nguyên k trầy gì hết chỉ mất tai phone thôi thì còn giá bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.801643,
+         "id": "804050",
+         "field_search": "question",
+         "question": " TGDĐ có laptop cũ không ạ?                     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.717842,
+         "id": "1015406",
+         "field_search": "question",
+         "question": "Tại sao một số điện thoại cũ hỗ trợ giá sốc còn lại thì không ạ? Em cần tư vấn mua iphone 7 cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.570135,
+         "id": "781305",
+         "field_search": "question",
+         "question": "Mình có thể tới tgdđ để dán duy nhất kính cường lực ở mặt sau điện thoại iphone 5s mới mua ở tgdđ được không ? Và giá là bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.508621,
+         "id": "1162055",
+         "field_search": "question",
+         "question": "Cho em hỏi TGDĐ có mua máy cũ không ạ..Em xin cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.330505,
+         "id": "802586",
+         "field_search": "question",
+         "question": " Tgdd o thanh hóa có bán iPhone 5s cũ giá tầm 5tr không vậy qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.25699,
+         "id": "772523",
+         "field_search": "question",
+         "question": " Cho hỏi thế giới di động ở Tuy Hoà Phú Yên có bán iphone 5 cũ trả góp không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.198784,
+         "id": "1166251",
+         "field_search": "question",
+         "question": "muốn đỗi điện thoại cũ với điện thoại cũ còn bão hành mua tại tgdđ thì phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.879513,
+         "id": "772050",
+         "field_search": "question",
+         "question": " Ad ơi tgdđ có bán iPhone lock không ad em muốn mua iPhone lock có nên mua không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.755903,
+         "id": "1135971",
+         "field_search": "question",
+         "question": "Chào tgdđ ! Hiện tại tôi muốn mua 1 tai nghe iphone 6 thì bên tgdđ có bán riêng ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.719837,
+         "id": "782002",
+         "field_search": "question",
+         "question": " iPhone 5s cũ 90 bán bao nhiêu ạ cho em hỏi?                           ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.615923,
+         "id": "1165452",
+         "field_search": "question",
+         "question": "Điện thoại em mua đc 1 năm r bán cũ lại cho tgdđ đc k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.546677,
+         "id": "761250",
+         "field_search": "question",
+         "question": "  Cho em hỏi ở Bình Phước có iPhone 5S cũ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.336948,
+         "id": "759922",
+         "field_search": "question",
+         "question": " TGDĐ mình có bán điện thoại iPhone 5 trả góp không ạ? Nếu có thì  trả như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.196772,
+         "id": "1012022",
+         "field_search": "question",
+         "question": "Add cho em hỏi chi nhánh TGDĐ Gia LộcHải Dương có bán máy Sony Xperia XA Dual cũ không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.077627,
+         "id": "1148181",
+         "field_search": "question",
+         "question": "Galaxy J7 Pro không mua ở TGDĐ thì có bán được không? Giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.020683,
+         "id": "1145446",
+         "field_search": "question",
+         "question": "Cua hang có bán iphone 6 plus cũ k vậy có bán thì giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.976635,
+         "id": "811311",
+         "field_search": "question",
+         "question": " Xin hỏi Thế giới di động có bán điện thoại Iphone 5 mới hoặc cũ ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.863735,
+         "id": "759317",
+         "field_search": "question",
+         "question": " Ad cho em hỏi TGDD mình có còn bán iphone 5 không ạ, nếu không thì ad biết ở đâu bán không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.652008,
+         "id": "1018640",
+         "field_search": "question",
+         "question": "tgdđ có bán iphone 6s lock hay samsung galaxy 5s kh vậy . nếu vậy thì ở đâu mới bán",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.615507,
+         "id": "1155892",
+         "field_search": "question",
+         "question": "mình muốn mua OPPO F9 6GB CŨ. ở hưng yên còn máy không ạ và giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.59469,
+         "id": "807051",
+         "field_search": "question",
+         "question": " cho mình hỏi bên tgdđ có bán iPhone 5 không ạ . sao mình thấy không còn kinh doanh nữa vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.580147,
+         "id": "833098",
+         "field_search": "question",
+         "question": " Cho tôi hỏi ở thế giới di động có bán iPhone 6s trôi bảo hành không . Nếu có thì tôi sẽ mua với giá 5 triệu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.539627,
+         "id": "1002038",
+         "field_search": "question",
+         "question": "Shop có thu mua điện thoại cũ không ak ? Em có một cái iPhone 5s dùng được nửa năm, còn dùng tốt cần bán hấp ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.534815,
+         "id": "1014786",
+         "field_search": "question",
+         "question": "em muốn mua 1 máy s7 cũ ở hà giang với giá 6930000 nhưng em ở tp huế thì có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.41095,
+         "id": "1142299",
+         "field_search": "question",
+         "question": "Mình mua con ss galaxy a6plus ở tgdđ hơn 1 tháng nay, giờ mình muốn bán lại thì tgdđ thu lại giá bao nhiêu ạ. Mây còn rất mới, tốt, chưa trầy xước, chưa rớt. Lúc mua mình mua 6tr9 ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.208109,
+         "id": "793804",
+         "field_search": "question",
+         "question": " Cho hỏi máy iphone 5s bị vỡ kính ở TGDĐ có thay được không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.113111,
+         "id": "885108",
+         "field_search": "question",
+         "question": " cho e hỏi có iphone 5s cũ ở ls k. giá bnhieu. trả trước 0d được k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.041004,
+         "id": "1159628",
+         "field_search": "question",
+         "question": "Cho mình hỏi tgdđ có mua đt cũ trước kia đã mua tại tgdđ không v?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.917099,
+         "id": "1156202",
+         "field_search": "question",
+         "question": "Điện thoại là Nokia 5, mua từ 1 năm trước không phải ở TGDD, giờ em muốn đổi cũ lấy mới qua Nokia 5.1 có được không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.800585,
+         "id": "1009289",
+         "field_search": "question",
+         "question": "ad cho e hỏi cửa hàng mình còn iphone 6 plus cũ bán k và giá bán bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.730787,
+         "id": "1162997",
+         "field_search": "question",
+         "question": "cho e hỏi.đt e trả góp còn ư tháng..bây giờ e muốn bán đt thì e phải trả hết mới bán được...cho e hỏi nếu đt TGDĐ mua lại của e là 5 triệu,mà tổng số tiền e còn nợ là 2 triệu,thì e lấy 3 triệu thôi còn 2 triệu còn lại để thanh toán số tiền còn nợ được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.639376,
+         "id": "753894",
+         "field_search": "question",
+         "question": "  Cho mình hỏi TGDĐ còn bán iPhone 3GS không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.533245,
+         "id": "828478",
+         "field_search": "question",
+         "question": " tgdđ binh duong có iphone 5s hàng trưng bày k ạ? nếu có thì giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.280699,
+         "id": "998413",
+         "field_search": "question",
+         "question": "TGDĐ có bán USB 3G không? E mua laptop ở nơi khác có thể đem đến TGDĐ sửa được không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.226313,
+         "id": "830102",
+         "field_search": "question",
+         "question": " Mình muốn hỏi CH có iPhone 5 32gb không . mình muốn được tư vấn về giá đt cũ và mới luôn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.221573,
+         "id": "853098",
+         "field_search": "question",
+         "question": " Tgdđ có thay màn iPhone 5s không nhỉ?? giá bao nhiêu nếu có thay? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.202065,
+         "id": "1010934",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên TGDĐ có mua lại máy cũ ko ạ. Máy mình mua của tgdd luôn ạ, còn bảo hành.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.19623,
+         "id": "891692",
+         "field_search": "question",
+         "question": " Cho em hỏi e muốn thay pin iPhone 5 tgdđ có hỗ trợ k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.173204,
+         "id": "999055",
+         "field_search": "question",
+         "question": "E cần mua máy iphone 6plus 16gb máy cũ bên mình e ở huyện phúc thọ có còn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.106712,
+         "id": "772688",
+         "field_search": "question",
+         "question": " TGDĐ ở Cam Ranh có bán iPhone 4s 16GB hay 32GB không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.09735,
+         "id": "762708",
+         "field_search": "question",
+         "question": "Em muốn mua sản phẩm iPhone 5S cũ. Cho em hỏi hệ thống cửa hàng tại Lào Cai có không ạ? Và mức giá như thế nào ạ? Dùng sp iPhone đã qua sử dụng có yên tâm về chất lượng không ạ? Có bảo hành không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.062798,
+         "id": "808899",
+         "field_search": "question",
+         "question": "Cửa hàng có bài viết giảm giá ip 5s xuống còn 250$. Vậy nếu muốn mua mình ra các cửa hàng của tgdđ có được mua ip với giá đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.027672,
+         "id": "754369",
+         "field_search": "question",
+         "question": " TGDĐ có thay pin iPhone 4s không ạ? Nếu có thì giá khoảng bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.995646,
+         "id": "763795",
+         "field_search": "question",
+         "question": "iPhone 5S còn không ạ?? Mức giá bây giờ còn bao vậy?Nếu mua iPhone 5S với iPhone 6 thì cái nào hơn ạ??Giá cả thế nào? Và nếu như mua trả góp thì như nào ạ?Nói giá cụ thể với iPhone 5S và iPhone 6 hộ em?Em cảm ơn ạ :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.973246,
+         "id": "764823",
+         "field_search": "question",
+         "question": " Cho em hỏi shop có thu mua laptop cũ không được mua tại cửa hàng TGDĐ không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.954264,
+         "id": "747551",
+         "field_search": "question",
+         "question": " Cho mình hỏi dòng iphone của Ấn Độ này TGDĐ còn bán không? Giá có khác với máy của máy Việt Nam không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.936472,
+         "id": "1023302",
+         "field_search": "question",
+         "question": "AD cho em hỏi là em có mua 1 máy Iphone 5s 16g ở tgdd khoảng chừng 5-6 tháng em muốn bán lại tgdd mình có thu lại không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.93116,
+         "id": "1146015",
+         "field_search": "question",
+         "question": " Cho em hỏi. Muốn mua máy cũ giá tốt từ tỉnh khác thì phải lam những gi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.907549,
+         "id": "1140909",
+         "field_search": "question",
+         "question": "Mình muốn lên đời từ iphone 5 lên iphone 5s liệu bên hãng có còn hỗ trợ ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.860903,
+         "id": "1017499",
+         "field_search": "question",
+         "question": "Bên tgdđ chi nhánh Tây ninh còn bán iphone 5c ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.816635,
+         "id": "795661",
+         "field_search": "question",
+         "question": " Em mua iPhone cũ em muốn kiểm tra có ẩn iCloud không thì làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.77755,
+         "id": "807603",
+         "field_search": "question",
+         "question": " Khi tạo apple id mới thì ứng dụng và game trên apple id cũ còn không tgdđ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.726608,
+         "id": "760376",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em ở quy nhơn em muốn mua dây sạc ipad 4. Không biết là ở TGDĐ quy nhơn có không ạ. Giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.693068,
+         "id": "869121",
+         "field_search": "question",
+         "question": " cho em hỏi iphone 5 ở thế gioididong giờ còn bán ko ak. và bán thì giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.668522,
+         "id": "789790",
+         "field_search": "question",
+         "question": " Em muốn mua Macbook Pro 13  2015  hoặc 15 thì có cửa hàng TGDĐ nào ở TP.HCM kinh doanh sản phẩm này không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.665627,
+         "id": "771303",
+         "field_search": "question",
+         "question": " Anh chị gì ơi cho em hỏi iPhone 5s cũ có góp được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.60633,
+         "id": "763426",
+         "field_search": "question",
+         "question": " Em có mua 1 chiếc iPhone 5s từ 0410 tổng giá là 9tr 370 nghìn vậy giờ muốn trả lại thì còn khoỏang bao nhiêu tiền ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.570835,
+         "id": "1016022",
+         "field_search": "question",
+         "question": "cho em hỏi ở đây có mua lại máy cũ không ạ , em muon ban lai 1 chiếc iphone ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.528461,
+         "id": "1001970",
+         "field_search": "question",
+         "question": "e mua q luna pro cũ ở tgdđ cũng đã 5 tháng r. bây giờ máy k thể bắt wifi và không thể tắt nguồn thì khắc phục ra sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.49174,
+         "id": "1016939",
+         "field_search": "question",
+         "question": "e có máy asus zenfone gomua hôm 27/2/2017,mua ở tgdđ lun ạ....giờ nó cứ như cảm ứg k còn nhạy nữa nên e muốn bán thì tgdđ thu lại bao nhiêu ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.469112,
+         "id": "999326",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 7plus hôm 1252017 giờ mình muốn bán lại cho tgdđ cho mình hỏi giá trị còn lại để mình tham khảo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.468552,
+         "id": "1012266",
+         "field_search": "question",
+         "question": "Em có 1 laptop mang HĐH là Free DOS và em muốn mua windows 10 bản quyền thì TGDĐ có bán không và khi cài thì cài ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.46355,
+         "id": "1167053",
+         "field_search": "question",
+         "question": "Điện thoại f9 còn bảo hành mua ở thế giới di động bây giờ em muốn bán để mua đt f11 thì tgdđ thu vào bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.440023,
+         "id": "1165788",
+         "field_search": "question",
+         "question": "mình muốn bán điện thoại cũ không biết bên thế giới di động có nhận mua máy cũ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.41555,
+         "id": "836696",
+         "field_search": "question",
+         "question": " Em ở Lào Cai em có Iphone 5 cũ phiên bản 6.1 em muốn lên 8.4 có được ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.319302,
+         "id": "1008019",
+         "field_search": "question",
+         "question": "Cho tôi hỏi TGDĐ huyện Giồng trôm là:Máy nà chơi game nặng tot với giá từ 2 triệu đến 3 triệu . Màn hình 5.2 hoặc 5.5 inch.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.302008,
+         "id": "804110",
+         "field_search": "question",
+         "question": " Còn iphone 5 trắng cũ 16g bả, quốc tế không vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.266594,
+         "id": "786451",
+         "field_search": "question",
+         "question": " TGDĐ có cài được jaibreak Iphone 5s hỗ trợ IOS 9.1 không ạ có thì ad liên lạc với em nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.24274,
+         "id": "757725",
+         "field_search": "question",
+         "question": " Siêu thị điện thoại bên mình có mua máy cũ không ạ. Em dùng iphone 5 16gb bản quốc tế. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.22262,
+         "id": "1163936",
+         "field_search": "question",
+         "question": "Cho em hỏi nhà mình còn máy iphone 6splus cũ không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.209396,
+         "id": "1169297",
+         "field_search": "question",
+         "question": "Iphone mình mua ở TGDĐ qua nước khác sử dụng đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.20568,
+         "id": "1136758",
+         "field_search": "question",
+         "question": " ở đây có thu điện thoại cũ ko ạ ? em cần bán đt cũ của mình để mua đt mới ở đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.17929,
+         "id": "1140362",
+         "field_search": "question",
+         "question": "Hiện em thấy TGDĐ không còn kinh doanh máy Nokia 1 mới nữa, chỉ còn bán máy đổi trả thôi. Vậy TGDĐ có còn nhập hàng Nokia 1 về bán nữa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.12997,
+         "id": "777400",
+         "field_search": "question",
+         "question": " Bên TGDĐ có thay màn hình iPhone 4 không ạ? Giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.10711,
+         "id": "994845",
+         "field_search": "question",
+         "question": " Cho em hỏi ở TGDĐ có bán cục sạc Samsung J1 2016 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.091248,
+         "id": "792598",
+         "field_search": "question",
+         "question": " Cho em hỏi ở shop có bán điện thoại iphone 5 hoac 5s hàng sách tay không ạ. Bao nhiêu tiền ạ. Có góp không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.090282,
+         "id": "1135719",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng máy s8plus mua của TGDĐ . Giờ tôi muốn đổi sang iphone XS ( tôi mua luôn bên TGDĐ ) thì bên TGDĐ thu lại máy s8plus của tôi giá ntn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

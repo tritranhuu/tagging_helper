@@ -1,0 +1,801 @@
+{
+   "id_query": "1023650",
+   "total": 29056,
+   "total_current": 100,
+   "max_score": 92.810234,
+   "origin_question": "Qtv ơi sao điện thoại của em nó ko lên màn hình mà nó cứ xoay rùi khởi động ứng dụng hoài nó ko lên màn hình chính nữa",
+   "hits": [
+      {
+         "score": 60.99727,
+         "id": "1023651",
+         "field_search": "question",
+         "question": "QTV ơi em xài điện thoại obi mv1 (Cyanogen) mà sao em đang chơi tự nhiên nó sập nguồn rồi em mở lên nó cứ xoay rùi khở động ứng dụng hoài mà nó không lên màn hình nữa.Bây h em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.065796,
+         "id": "1008819",
+         "field_search": "question",
+         "question": "Máy e tắt nguồn mở lên thì bị android đang nâng cấp cho khởi động ứng dụng mà nó ko lên mạng hình cũ chạy khởi động hoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.149826,
+         "id": "1163392",
+         "field_search": "question",
+         "question": "máy samsung galaxy note 10.1 của mình ấn khởi động lại ko lên nguồn nữa ,mà ấn giữ nút nguồn nó kêu như lên nguồn mà màn hình vẫn đen và án màn hình nó kêu thì ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.692524,
+         "id": "761837",
+         "field_search": "question",
+         "question": " Tại sao máy Sony M4 khởi động lại rất lâu mà không lên nó cứ chạy màn hình khởi động. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.026146,
+         "id": "1137264",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi, em có sử dụng một cái điện thoại coolpad R106 nó cứ khởi động hoài nhưng nó không lên màn hinh được. mong sự chỉ dẩn của anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.133736,
+         "id": "1005426",
+         "field_search": "question",
+         "question": "điện thoại Samsung J7 Prime của mình lâu lâu cái màn hình nó cứ bị gì ấy, mình không sử dụng nữa mình tắt màn hình nhưng nó cứ sáng lên, mình để yên cho nó tự tắt, nó tắt xong lại sáng lên, làm sao để sửa đc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.21331,
+         "id": "1144048",
+         "field_search": "question",
+         "question": "Em có chiếc iPhone 5 k bật lên màn hình. Đc mà khi sạc nó k lên màn hình mà nó cứ rung chỉ em sửa vs achị ơi!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.614727,
+         "id": "781508",
+         "field_search": "question",
+         "question": "Tại sao laptop của em khi khởi động nó lại không vào màn hình được mà cái con sâu nó cứ quay quài còn có biểu tượng win nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.587593,
+         "id": "816253",
+         "field_search": "question",
+         "question": "Sao máy tính của e nó đang chạy bình thường mà tự nhiên nó lại chạy ra cái màn hình ngang là sao???với lại em khởi động máy lại nó cũng ko dk. màn hình nó tối thui à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.025528,
+         "id": "1018270",
+         "field_search": "question",
+         "question": "J7 prime của em bị ngấm nước nó bị nổi sáng màn hình ở phần trên màn hình điện thoại . Bật ứng dụng nào lên nó cũng không hoạt động được và luôn hiện lên bảng điều chỉnh âm anh em tắt hoài không được . Không biết bên anh chị có hỗ trợ về vấn đề này không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.677166,
+         "id": "785464",
+         "field_search": "question",
+         "question": " Nâng cấp lên ios 9.0.2 máy iphone 5 sử dụng bình thường một lúc nó bị lỗi màn hình xanh cứ khởi động lai ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.497623,
+         "id": "1004931",
+         "field_search": "question",
+         "question": "E xài asus zenfone go, lúc trước mở ZenMotion lắc lắc cái nó chụp màn hình, mà nay sao e lắc hoài mà nó ko chụp được vậy :(( e cũng có tải mấy cái ứng dụng chụp màn hình mà cũng ko chụp được luôn :( Bây giờ làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.306522,
+         "id": "899580",
+         "field_search": "question",
+         "question": "Cho em hỏi máy  ấn mãi màn hình vẫn không lên được cứ tối om gọi điện thì nó vẫn lên màn hình. Để một lúc nó mới lên là do bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.780537,
+         "id": "999710",
+         "field_search": "question",
+         "question": "Cho em hỏi đt em là j7 prime mới mua đc 5 tháng mà sao vào mấy cái ứng dụng nó bắt cài đặt lớp phủ màn hình là sao. Rùi còn ảnh thì nó tự lưu luôn ko bít sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.72322,
+         "id": "1160667",
+         "field_search": "question",
+         "question": "dạ cho em hỏi điện thoại của em bị cấn giờ điện thoại nó không còn lên hình nữa thì phải làm sao ạ . mà em muốn thay màn hình điện thoại samsung j3 ( 2016) bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.631336,
+         "id": "999911",
+         "field_search": "question",
+         "question": "mk có 1 cái máy samsung j5 nó bị lỗi: khởi động vẫn đỗ chuông cảm ứng vẫn lên âm thanh nhưng màn hình lại ko lên nó vẫn đen xì... m.n giải thích cho mk vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.45695,
+         "id": "1151069",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi sao điện thoại oppo f9 đặt màn hình chính sao nhỏ tí dậy chỉ mình làm cho nó to lên dùm đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.283882,
+         "id": "847290",
+         "field_search": "question",
+         "question": " Ad cho em hỏi lớp phủ màn hình là gì ạ và làm sao đẻ tắt nó vì em cứ bị nó hiện lên hoài . cám ơn ad ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.933113,
+         "id": "1141573",
+         "field_search": "question",
+         "question": "Sao e nhấn rồi mà nó cứ xoay hoài miết tổi gio ko tai dc miến nào luôn ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.568672,
+         "id": "1001515",
+         "field_search": "question",
+         "question": "máy đt acer của mình nó hay bị tắt nguồn. đợi 15 phút sau mình khởi động lại được thì mình đặt lại về dữ liệu gốc. là nó đen màn hình luôn. bật nguồn thì nó chớp màn hình. sạc thì ko thấy lên màn hình... Trung tâm giải đáp giúp mình với ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.49459,
+         "id": "1016362",
+         "field_search": "question",
+         "question": "Điện thoại mình là a7 2015. Mình đã tắt chế độ xoay màn hình rồi mà nó vẫn tự xoay là sao ạ ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.486317,
+         "id": "1159953",
+         "field_search": "question",
+         "question": "điện thoại của em là sam sung j2 prime. từ hôm qua nó cứ bị tắt nguồn suốt thôi ạ. lúc e khởi động lại nó hiện màn hình như thế này là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.385765,
+         "id": "1138906",
+         "field_search": "question",
+         "question": "cho hỏi màn hình của samsung j7 pro sao nó cứ xoay ngang hoài.  tôi muốn quay doc lại nhung k dc. làm sao cài đặt lại vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.341568,
+         "id": "798673",
+         "field_search": "question",
+         "question": "Cho hỏi ạ! Tại sao em ko thể tải thêm ứng dụng từ app store trên iphone 5s ạ, em bấm vào nút tải mà nó chỉ cứ quay quay ko dừng , và rất lâu nữa, còn khi ra màn hình chính thì nó hiện ra hình vuông trống và chữ đang chờ thôi. Đợi qua bao nhieu ngày rồi mà vẫn thế , gíup đỡ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.32879,
+         "id": "989493",
+         "field_search": "question",
+         "question": "sao máy tính bảng Samsung SM T531 của em không xem ngày của tôi trên mess được vậy ạ?? không xem cũng không đăng được luôn mở lên là nó tối thui với lại nó cứ xoay màn hình :((( bị sao vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.29814,
+         "id": "996849",
+         "field_search": "question",
+         "question": "oppo neo 5 của em dạo này nó cứ hay bị tình trạng đứng máy bấm nút nguồn mà k sáng màn hình lên khi màn hình lên r thì lại k ăn cảm ứng bây giờ em phải làm s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.266956,
+         "id": "1016309",
+         "field_search": "question",
+         "question": "Điện thoại mình là a7 2015. Mình đã tắt chế độ xoay màn hình rồi mà nó vẫn tự xoay là sao ạ ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.81965,
+         "id": "1005236",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại LG G2 Docomo cắm sạc vào điện thoại để sạc pin thì màn hình điện thoại hiện lên pin chứ ko hiện lên màn hình chính thì phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.295837,
+         "id": "797425",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi điện thoại iP6 của mình tự dưng lại tự khóa màn hình ko hiểu nguyên nhân lúc bấm nút nguồn lúc được lúc không rồi lắc lắc điện thoại thì nó lên màn hình, lắc lắc thì nó khóa màn hình cho hỏi như vậy bị hư gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.25785,
+         "id": "1000907",
+         "field_search": "question",
+         "question": "Màn hình điện thoại samsung của em hay chớp nháy lắm . Vậy đt nó có bị làm sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.243263,
+         "id": "830568",
+         "field_search": "question",
+         "question": "Qtv ơi cái iPhone 4s của em cài mật khẩu khóa màn hình bị thằng bạn em mở nhiều lần giờ bật màn hình lên nó kêu iphone của bạn đã bị vô hiệu hóa giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.086056,
+         "id": "1009680",
+         "field_search": "question",
+         "question": "cho em hỏi tý. Em đang dùng máy sony m4, nhưng tự nhiên nó cứ bị tắt nguồn khởi động lại liên tục. Khi thì nó lên khi thì nó ra màn hình trắng xong lại tắt khởi động lại. Ad giúp em xem nó lỗi gì và cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.804153,
+         "id": "1142971",
+         "field_search": "question",
+         "question": "Galaxy j6 của em, cứ vài phút khi em xem phim trên google thì nó lại chuyển từ màn hình lớn thành màn hình bé và nằm ở góc điện thoại. Em phải làm sao để nó đừng tự động và cứ ở yên đó được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.72079,
+         "id": "1002254",
+         "field_search": "question",
+         "question": "Sao tôi muốn kéo ứng dụng ra màn hình chính không được vậy và nó ghi màn hình chính đã bị khoá máy tôi là asus zenfone2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.652988,
+         "id": "1015257",
+         "field_search": "question",
+         "question": "E xài ss j3 16, sao điện thoại e nó cứ tự động tắt ứng dụng khi tắt màn hình vậy ạ ?  E đang mở mp3 nghe nhạc xong tắt màn hình đi là nghe đc tầm 10' là nó tự tắt lun, (đây là e ko có hẹn giờ tắt nhạc đâu nhé), mấy cái ứng dụng khác như mess cũng bị tương tự lun.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.576536,
+         "id": "1022512",
+         "field_search": "question",
+         "question": "Admin ơi em có chiếc máy asus zenfone2 thì hôm qua em đã khôi phục cài đặt gốc thì đã lên và bị sao âý. Nó bị cứ chạm vào màn hình là nó hiện đồng hồ lên ko biết sao chỉ em khắc phục như thế nào đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.429829,
+         "id": "761142",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi iPhone 4S của em đang chạy Instagram  thì bỗng dưng bị treo lại, không thể ấn phím Home, khóa màn hình thì nó ko lên màn hình nhập passcode mà vẫn giữ nguyên ứng dụng Instagram. Gọi thử vào cũng không lên nổi. Như thế là bị làm sao vậy ạ và có cách gì sửa được không?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.396673,
+         "id": "1168532",
+         "field_search": "question",
+         "question": "Điện thoại của mình đang khóa màn hình thì bị những tin nhắn rác như thế này hiện thị lên. Nó không vào mục tin nhắn mà cứ tự động hiện thị trên màn hình. Nhiều khi mình không để ý dễ bấm nhầm. TGDD giúp mình cách chặn nó lại với, Thanks nhiều nhiều!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.291271,
+         "id": "782219",
+         "field_search": "question",
+         "question": " Sao laptop em khi mở lên nó hiện vậy hoài ạ? cứ update mà 4 hoài ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.26643,
+         "id": "1010696",
+         "field_search": "question",
+         "question": "Em dùng mtb samsung note 10.1, lúc bật thấy màn hình bị tối hơn một góc. Khởi động lại máy thì sau khi tắt màn hình đi lại ko sáng nữa, trong khi ứng dụng vẫn chạy.Em nhấn nguồn + volume down, nó ra gì đó, em nhấn volume up để đông ý. H nó cứ hiện ra thế này mãi là s ạ.Mai em đến vùng xa xôi hẻo lánh cần dùng e nó để phát 3g, ko kịp đến trung tâm bảo hành a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.25677,
+         "id": "1022586",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi là con iphone 5 của e tự dưng bị khởi động lại mà không vào màn hình chính đc. cứ khởi động tới táo rồi tắt rồi khởi động lại liên tục như vậy ạ. pin của điện thoại e cũng đang bị chai nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.18229,
+         "id": "1145069",
+         "field_search": "question",
+         "question": "Sao oppo f9 khi khóa màn hình rồi, tự nhiên mình cầm đt nó tự động sáng màn hình lên vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.173971,
+         "id": "1136539",
+         "field_search": "question",
+         "question": " Em mới mua về sao wifi em mở nó lên nó cứ quay hoài vậy à chứ nó không hiện lên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.173466,
+         "id": "996811",
+         "field_search": "question",
+         "question": "Tại sao màn hình điện thoại mình nó cứ hiện chữ SAMSUNG, k làm kiểu gì khới động máy đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.076725,
+         "id": "817003",
+         "field_search": "question",
+         "question": "Cho em hỏi: máy em ip5 16gb bây giờ em cập nhật phần mềm mà sao cái kiểm tra cập nhật nó xoay lâu thế ạ. tắt màn hình đi luôn ạ. mở lên vẫn xoay. :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.965786,
+         "id": "1008824",
+         "field_search": "question",
+         "question": " Máy bị tắt nguồn khởi động lại thì bị lên mạng hình android đang nâng cấp cụ chạy khởi động ứng dụng hoài. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.931087,
+         "id": "837014",
+         "field_search": "question",
+         "question": " Anh ơi em sủu dụng đt iiphone 4 em mở nguồn lên mk s nó k nổi màn hình v anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.842926,
+         "id": "1001001",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi em đang sử dụng asus memo pad 8 mua đc khoảng 1 năm hôm nay em đang sử dụng 2 ứng dụng là messenger và chơi game xong nó tự động chay màn hình sạc không lên tắt nguồn không dc rồi em để nos hết pin cũng không dc nó vẫn chay màn hình ad ơi giúp em với :(((((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.841663,
+         "id": "1151878",
+         "field_search": "question",
+         "question": "xin hỏi điện thoại sam sum j6 tắt màn hình rồi mà một lúc nó lại sáng màn hình lên thì cài đặt tắt ở đâu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.734772,
+         "id": "1007617",
+         "field_search": "question",
+         "question": "Mình muốn hỏi điện thoại của mình đang dùng là samsung j5 mình để chế độ màn hình chờ là 15s nhưng cứ sau 15s nó lại tự động sáng mình đã tât đi nhưng nó vẫn tự động sáng lên mình không biết máy mình có bị vấn đê gì ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.732006,
+         "id": "1134416",
+         "field_search": "question",
+         "question": "Cho e hỏi đt e dùng là ss j2 prime hết pin sập nguồn e cắm sạc vào nó lên màn hình khóa nhưng vuốt để mở lại bị đứng màn hình. E tắt đi khởi động lại nhưng k ăn thua. Nó cứ sáng màn hình suốt e ấn nút tắt màn hình k đc. Sạc lâu nóng máy mà k đầy pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.659636,
+         "id": "1159030",
+         "field_search": "question",
+         "question": "Mấy chuyên gia cho e hỏi điện thoại của e tối hôm trước còn dùng được, đến sáng hôm sau thì bật lên nó lại bị đen hết màn hình ý nhưng màn hình vẫn sáng. Lúc khởi động lại thì thỉnh thoảng nó lại hiện lên chập chờn chữ vivo ..gì gì đó, xong lại đen hết màn hình. Mong các cao nhân tư vấn giúp e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.425001,
+         "id": "1017322",
+         "field_search": "question",
+         "question": "ddiện thoại của em cứ khoá màn hình là vài giây sau nó sáng lên liên tụcchán lắm cho em cách khắc phục samsung j2 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.40721,
+         "id": "1150706",
+         "field_search": "question",
+         "question": "Samsung galaxy note8 của mình hiện tại bị tình trạng không tự động xoay màn hình được và bị tự động tối màn hình (dù tắt chế độ Bật sáng màn hình tự động) chỉnh thanh sáng tối cũng ko sáng lên được, phải reset lại máy thì màn hình mới sáng lên lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.31233,
+         "id": "1009049",
+         "field_search": "question",
+         "question": "Điện thoại em là iphone 5. Cứ tự xoay ngược màn hình như...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.286991,
+         "id": "1157589",
+         "field_search": "question",
+         "question": "Điện thoại oppo a3s của em sao tự nhiên lại tắt nguồn mở hoài nó cũng không lên mà xạc mở cũng không lên vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.2182,
+         "id": "1133410",
+         "field_search": "question",
+         "question": "bạn ơi mình có sử dụng samsung tabe E nó bị đơ màn hình ko khởi đọng được chỉ tắt được thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.209902,
+         "id": "1162286",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi. Em đang xài Asus zenfone max. Mấy tháng nay em chỉ dùng điện thoại để lên mạng này nọ thôi chứ ko gọi điện. Hôm nay em có gọi thử cho 1 người bạn, đang gọi thì điện thoại tắt màn hình đen thui, sau khi gọi xong màn hình vẫn đen, em mở tất cả mọi cách vẫn ko lên nguồn :( Em nhờ bạn e gọi qua số điện thoại em thì nó lại lên nguồn bấm vẫn bình thường. Nhưng khi mình bấm nghe nói chuyện thì màn hình lại tắt đen. Cho em hỏi là nó bị bệnh gì vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.10177,
+         "id": "1143866",
+         "field_search": "question",
+         "question": "Máy J7+ tự nhiên đang sài thì hư nút home. Em bấm hoài ko lên mà mỗi lần mở màn hình khóa thì nó vẫn ghi là bạn hãy kiểm tra lại dấu vân tay các kiểu. Em cx lau sạch nút home mà nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.092136,
+         "id": "1138926",
+         "field_search": "question",
+         "question": "Anh ơi máy hưawei y9 sao lại ko chơi đc liền quân z anh mở lên nó hiện chữ liền quần r tối màn hình luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.91596,
+         "id": "802589",
+         "field_search": "question",
+         "question": "Ứng dụng zalo của mình bị ẩn.ko thấy trên màn hình chính.chỉ khi nào có thông báo nó báo trên điện thoai.còn ko là ko thấy nó nằm ở đâu để vào.lumia 520.giúp mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.74861,
+         "id": "1014985",
+         "field_search": "question",
+         "question": "lap asus của em tắt nguồn mà sao nó cứ tự động bật lên ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.698069,
+         "id": "1146617",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại em là Iphone X . Xem youtube hoặc facebook lâu lâu nó cứ bị đơ ko nhấn được phải tắt màn hình xong mới nhấn được. Ko biết cái này do lỗi ứng dụng phải ko. Lại lúc trước em xem Youtube cứ nhấn chạy nhanh 10s trên youtube nhanh. Ko bit là do lỗi ứng dụng ko mong BQT hỗ trợ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.618824,
+         "id": "836997",
+         "field_search": "question",
+         "question": "ad ơi . em có máy iphone 5s lúc nghe điện thoại thì màn hình ko tắt mà có tật thì phải đặt ngón tay vào đó khoảng 5s thì nó mới tắt .cho em hỏi nó bị sao thế ạ.em xin cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.560608,
+         "id": "998333",
+         "field_search": "question",
+         "question": "Sau zumbo s2 bi tat màn hình bam k lên hoài za. Dem sat pin chuk thi nó lại len",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.556747,
+         "id": "953998",
+         "field_search": "question",
+         "question": " mình lỡ tay xóa mesenger trên màn hình chính điện thoại iphone. làm sao để mở nó lại đươc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.547707,
+         "id": "1017979",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại Sam Sung J5 Prime đang xài bị treo và đứng màn hình k bấm gì đc... h nó tắt đen màn hình và mở k lên lun rồi ạ .... cho em hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.5294,
+         "id": "1158974",
+         "field_search": "question",
+         "question": "Em mới mua samsung a30 ạ,cho e hỏi tại sao điên thoại của em lúc có cuộc gọi đến ko sáng màn hình mà chỉ có chuông thôi ạ,phải bật nút nguồn nó mới lên ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.489323,
+         "id": "797764",
+         "field_search": "question",
+         "question": " qtv ơi có ứng dụng nào truyền hình ảnh video không dây từ điện thoại lên laptop không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.354351,
+         "id": "748214",
+         "field_search": "question",
+         "question": "Cho mình hỏi... Điện thoại iphone 4s mình vô màn hình chính không được, nó đòi apple id nhưng mình quên nick của nó rồi, giờ phài làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.274057,
+         "id": "1004586",
+         "field_search": "question",
+         "question": "điện thoại mở lên nguồn nhưng k vào màn hình chính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.248901,
+         "id": "912068",
+         "field_search": "question",
+         "question": "màn hình máy tính pc của mình bình thường dùng ko sao nhưng khi khởi động game lên thì bị mất 1/3 màn hình bên phải , đen ko có j hết ? cho mình xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.240921,
+         "id": "1143680",
+         "field_search": "question",
+         "question": "cho e hỏi màn hình điện thoại itel 1508 plus cứ để android đang khởi động đang tối ưu hóa ứng dụng là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.081772,
+         "id": "934686",
+         "field_search": "question",
+         "question": "Mình mới mua iphon4 mà ko hỉu sao này mình cứ xài đk khoảng 30% pin là bị sập nguồn rồi khởi động ko lên.phải xạc pin nó mới lên nguồn là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.036642,
+         "id": "1159074",
+         "field_search": "question",
+         "question": "Điện thoại mình là a7 2018, nhưng dạo này khi tắt điện thoại thì một lát sau nó lại tự hiện lên màn hình chờ của mình lúc này phải bấm thoát ra thì nó mới trở về màn hình khóa còn không bấm thoát thì một lát sau nó sẽ tự trở về màn hình khóa. Đt của mình đang bị gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.986952,
+         "id": "1156921",
+         "field_search": "question",
+         "question": "Mình có chiếc Xiaomi redmi 5 plus mà tải ứng dụng nó không xuất hiện trên màn hình mà phải khởi động lại mới có vậy thì máy bị làm sao và cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.979984,
+         "id": "798651",
+         "field_search": "question",
+         "question": " Khi mở laptop lên vẫn hoạt động nhưng không lên màn hình chỉ thấy hình ảnh lờ mờ vậy nó bị gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.926874,
+         "id": "875623",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao cái iphone6 của em nó vẫn sáng đèn màn hình nhưng màn hình lại ko hiện gì cả mà chỉ thấy 1 màu đen thôi ạ. em phải làm gì để sửa đc nó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.91498,
+         "id": "1024058",
+         "field_search": "question",
+         "question": "Ad ơi samsung j5 2016 sau khi root nó cứ lỗi lên lỗi xuống. Đôi lúc nó tắt màn hình rồi lại mở, cứ lặp đi lặp lại... rồi khi mở còn hiện lên \"TouchWiz đã dừng\". Trường hợp này phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.87994,
+         "id": "773448",
+         "field_search": "question",
+         "question": "ad ơi con iPhone 5 của e màn hình bên trái của nó bị hở, e ko biết đỏ bừng kéo hay pin chai bị phồng nữa, ad nhận sửa ko ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.870037,
+         "id": "1144601",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy oppo f1s cứ bị hiện lên 1 cái hàng kiểu load máy nó cứ load xog lại hiện lên màn hình chính nhưng chưa kịp mấy giây lại hiện lên cái khung load tiếp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.851366,
+         "id": "1023434",
+         "field_search": "question",
+         "question": "cho em hỏi em đang chơi game tự nhiên màn hình dt em tắt và bật nguồn nó hiện  Đang tối ưu hoá 1 trên 129 ứng dụng em đợi xong thì nó lại hiện cái vòng tròn mở nguồn lên xong rồi lại hiện dòng  Đang tối ưu hoá 1 trên 129 ứng dụng cứ thế mà nó ;ập lại em tháo pin doi nó hết pin làm các kiểu thì nó cứ hiện dòng  Đang tối ưu hoá 1 trên 129 ứng dụng giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.753754,
+         "id": "1153237",
+         "field_search": "question",
+         "question": "Sao Mobell tab 7c của em nó cứ khởi động nguồn tối ưu hoá ứng dụng rồi tắt bật miết là sao ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.738876,
+         "id": "999300",
+         "field_search": "question",
+         "question": "Màn hình j7  k cảm ứng được tự nhiên đang sài nó tắt màn hình luôn mà lẤy máy khác gọi vào sim thì nó.vẫn đổ.chuôn nhưng k lên màn hình là.bị gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.734825,
+         "id": "1156877",
+         "field_search": "question",
+         "question": "Mình có chiếc Xiaomi redmi 5 plus mà tải ứng dụng nó không xuất hiện trên màn hình mà phải khởi động lại mới có vậy thì máy bị làm sao và cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.716074,
+         "id": "1158590",
+         "field_search": "question",
+         "question": "mình mới mua e ssa50 nhưng khi tải ứng dụng từ chplay thành công thì ko thấy  nó xuất hiện trên màn hình chính. Mình thử vào ch play, cài đặt nhưng ko thấy mục \"Bật hiển thị ứng dụng trên màn hình\" như hướng dẫn. Máy mình bị lỗi à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.674932,
+         "id": "1023437",
+         "field_search": "question",
+         "question": "cho em hỏi em đang chơi game tự nhiên màn hình dt em tắt và bật nguồn nó hiện Đang tối ưu hoá 1 trên 129 ứng dụng em đợi xong thì nó lại hiện cái vòng tròn mở nguồn lên xong rồi lại hiện dòng Đang tối ưu hoá 1 trên 129 ứng dụng cứ thế mà nó ;ập lại em tháo pin doi nó hết pin làm các kiểu thì nó cứ hiện dòng Đang tối ưu hoá 1 trên 129 ứng dụng giúp em EM SÀI OPI",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.669779,
+         "id": "741969",
+         "field_search": "question",
+         "question": "Điện thoại em bị rơi và bây giờ nó sọc màn hình và cảm ứng không ăn, cho em hỏi điện thoại em nó bị gì vậy, điện thoại iPhone 5S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.59027,
+         "id": "1011000",
+         "field_search": "question",
+         "question": "Tại sao khi gọi video điện thoại lại tự tắt màn hình và bấm nút nguồn lại ko lên hình máy của em là asus max",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.573627,
+         "id": "744710",
+         "field_search": "question",
+         "question": "laptop em sao tắt và khởi động lâu..khi khởi động nó để we couldn't complete the updates.undoing changes.don't turn off your compurter và chạy phần trăm hoài mà không lên thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.50088,
+         "id": "1148003",
+         "field_search": "question",
+         "question": "Em mua laptop ve khởi động lên nhưng màn hình đen vậy làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.47508,
+         "id": "743838",
+         "field_search": "question",
+         "question": " Cho em hỏi sao laptop của em mở lên thì nó hiện như hình mà không lên vây nó bi gì vây anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.431456,
+         "id": "1001926",
+         "field_search": "question",
+         "question": "ad ơi em dùng Samsung Mini  GT S5360 . Máy em rút sạc ra rồi mà nó vẫn tự sạc. Sau đó em lên mạng tìm cách khắc phục ấn vào RIÊNG TƯ->ĐẶT LẠI DỮ LIỆU CỦA NHÀ SX-> kHỞI ĐỘNG LẠI ĐIỆN THOẠI. Nhưng mà sau đó khởi động lại nó không tải đc các ứng dụng facebook, mess,... nữa và máy vẫn tự sạc. Sau đó sdung wifi đc vài ngày hôm nay nó lại k kết nối đc. Ad có thể chỉ em cách phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.258804,
+         "id": "771216",
+         "field_search": "question",
+         "question": " Điện thoại Oppo R1001 sao tự tắt nguồn và mở lên thì nó hiện lên chữ Oppo rồi nó tắt lại ạ, sao bị hoài vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.215466,
+         "id": "756518",
+         "field_search": "question",
+         "question": " Thế giới di động có nhận sửa điện thoại không? iPhone 5 của mình nó bị hở màn hình. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.201675,
+         "id": "1010917",
+         "field_search": "question",
+         "question": "con lgk7 của em giờ ko xoay màn hình đc.em cũng bật zoay màn hình rồi cũng ko xoay.vào xem pim bật toàn màn hình thì ko đc luôn chơj game cũng z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.196205,
+         "id": "1160464",
+         "field_search": "question",
+         "question": "Mình sài samsung j7pro giờ mình sạc pin thì màn hình dt ko tắt nó sáng hoài cho hỏi máy bị gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.169447,
+         "id": "1020443",
+         "field_search": "question",
+         "question": "Anh ơi điện thoại PhiLips của em vào khởi động lại nó hiện dùng chữ com.android.settings thì phãi làm sao đễ khởi động lại máy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.078985,
+         "id": "1016340",
+         "field_search": "question",
+         "question": "Samsung a7 2017 của tôi tắt chế độ xoay màn hình rồi mà tại sao màn hình vẫn xoay được",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

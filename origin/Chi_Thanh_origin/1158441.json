@@ -1,0 +1,801 @@
+{
+   "id_query": "1158441",
+   "total": 28240,
+   "total_current": 100,
+   "max_score": 66.46045,
+   "origin_question": "ad cho mình hỏi google chrome 64bit khác với 32 bit ở điểm nào vậy",
+   "hits": [
+      {
+         "score": 22.055275,
+         "id": "1157849",
+         "field_search": "question",
+         "question": "cài win 10 pro 32 bit bao nhiêu tiền vậy ad?     ..........",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.135633,
+         "id": "875721",
+         "field_search": "question",
+         "question": " Những laptop ở tgdd có cài sẵn windows vậy là 32 hay 64 bit vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.497921,
+         "id": "754323",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop acer ram 2GB, core i3, 32 bit cài windows nào tốt nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.339674,
+         "id": "845330",
+         "field_search": "question",
+         "question": "Cho e hỏi google chrome ở máy tính của e bị lỗi C:\\Program Files (x85)\\Google\\chrome\\application\\chrome.execlass not registered",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.406483,
+         "id": "757404",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách đặt Google Chrome làm mặc định trên máy tính thì phải làm sao vậy? Mình muốn chuyển trang từ trang istartpageing sang Google Chrome thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.406017,
+         "id": "772123",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách download google chrome với mình down nó toàn ghi không tìm thấy file chrome.exe thôi! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.106094,
+         "id": "752686",
+         "field_search": "question",
+         "question": " laptop em đang từ win10 32 bit thì làm sao cài lên được win10 64 bit ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.786106,
+         "id": "1000120",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách cài đặt google Chrome và youtube trên galaxy book",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.753115,
+         "id": "1000619",
+         "field_search": "question",
+         "question": "ad cho mình hỏi, mình sai zenfone 2, làm sao để cài cho google chrome lưu file về thẻ nhớ thay vì về máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.609015,
+         "id": "786021",
+         "field_search": "question",
+         "question": " Có link cài đặt driver bluetooth cho win 7 32 bit không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.48104,
+         "id": "866868",
+         "field_search": "question",
+         "question": "ad cho em hỏi là hiện tại bây h e đang win 8.1 pro mà là 32 bit. e xài intel(R) Core(TM) i5 M420 @ 2.53Ghz 2.53Ghz thì e có nâng lên 64 bit được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.466595,
+         "id": "1141439",
+         "field_search": "question",
+         "question": "Mình muốn chặn tnhan rác từ google chrome trên oppo f5 thì làm sao ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.02175,
+         "id": "838194",
+         "field_search": "question",
+         "question": " Lỗi facebook xảy ra trên Google Chrome sửa làm sao ạ ad?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.586533,
+         "id": "1145495",
+         "field_search": "question",
+         "question": "Cho tôi hỏi ở mỹ tho địa điểm tgdd nào bán iphone 8 cũ vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.508438,
+         "id": "862548",
+         "field_search": "question",
+         "question": " AMIN CHO MÌNH HỎI TẮT POPUP TRÊN CHROME VÀ SAFARI TREN IPHONE HOẶC IPAD CHỖ NÀO VẬY? CẢM ƠN. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.390976,
+         "id": "843980",
+         "field_search": "question",
+         "question": "Tại sao win 10-64bit lại không cài được ứng dụng trên store vậy ad, toàn thông báo lỗi. Laptop mình mua ở TGDĐ chưa được 3 tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.361576,
+         "id": "757609",
+         "field_search": "question",
+         "question": "Chào QTV!Mình có máy Vaio lúc mua có sẵn windows 8 64 bit, nhưng không hiểu sao nhiều lần qua TGDĐ reset ổ C lại mà vẫn cứ lắc, đơ, em nghĩ chắc RAM 2G không kham nỗi HĐH 64 bit thì phải, nhưng không dám cài win 32 bit sợ mất bản quyền windows, nên anh chị tư vấn giúp em với ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.200468,
+         "id": "1142296",
+         "field_search": "question",
+         "question": "Cho mình hỏi chi nhánh 32 nào có dán cường lực cho xiaomi mi A2 lite vậy? giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.149213,
+         "id": "996843",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo a37  a37fw với oppo a37 neo9 khac nhau ở điểm na",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.848133,
+         "id": "842815",
+         "field_search": "question",
+         "question": "Laptop hp Cấu hình: i5 3210M 2.50GhzRam: 4gb (đang định lên 8gb)Card: intel(R) HD graphics 40001696Mb1366 x 768 (32 bit) 40HzCó chơi được GTA 5 với call of duty không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.733974,
+         "id": "1023478",
+         "field_search": "question",
+         "question": "điện thoại của em là samsung j3 (2016) em có 3 trình duyệt dc cài sẵn là google, samsung interner brower và google chrome. Cho em hỏi là có nên xóa trình duyệt nào ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.363972,
+         "id": "1005771",
+         "field_search": "question",
+         "question": "Laptop Asus G752VS i7 ram 32 GB được trang bị dòng card đồ họa nào vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.207156,
+         "id": "807949",
+         "field_search": "question",
+         "question": "Chào QTV. mình mua iPhone 6s plus ở tgdd được mấy tháng. Nay mình thấy trên màn hình có một điểm chết rất nhỏ. Cho mình hỏi nếu thật sự đúng là điểm chết trên màn hình nhưng chỉ duy nhất một điểm thì có được bảo hành đổi cái khác ko. Tuy nhỏ nhưng mình thấy rất khó chịu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.123676,
+         "id": "1150349",
+         "field_search": "question",
+         "question": "Cho mk hỏi nokia 8.1 đã có bản 128GB chưa, và bán ở địa điểm TGDĐ nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.095061,
+         "id": "846381",
+         "field_search": "question",
+         "question": " cho mình hỏi iphone 5c 2 mạng với 3 mạngkhác nhau ở chỗ nào vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.714617,
+         "id": "1161357",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, có cách nào kiểm tra được chất lượng loa thoại của điện thoại Samsung a5 2017 không vậy, cảm giác thấy nó nghe không rõ so với cái khác cùng hãng.Thanks ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.697435,
+         "id": "762969",
+         "field_search": "question",
+         "question": " Cho mình hỏi dây là iPad phiên bản nào và xuất xứ ở đâu vậy ad ............?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.691071,
+         "id": "771949",
+         "field_search": "question",
+         "question": " Em ở Long Thành vậy địa điểm xem máy iPhone 4s nào gần nhất ạ màu trắng nha. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.670256,
+         "id": "876474",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách cài đặt nhận thông báo khi sử dụng facebook trên chrome ở màn hình khóa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.515123,
+         "id": "996078",
+         "field_search": "question",
+         "question": "bạn có cách nào fix lỗi ôi hỏng của gg chrome ko ạ. mình xóa cài lại mà vẫn bị ạ. giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.498737,
+         "id": "762967",
+         "field_search": "question",
+         "question": " Cho mình hỏi đây là iPad phiên bản nào va xuất xứ ở đâu vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.474246,
+         "id": "991696",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là mình có dán bảo vệ với cường lực bên thế giới di động dán bảo hành...vậy bảo hành có áp dụng dc ở những cửa hàng của thế giới di động khác không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.373168,
+         "id": "836034",
+         "field_search": "question",
+         "question": "Mình on facebook bằng chrome nhưng mấy bữa nay tin nhắn của mình bị nói đã chuyển qua messenger. Cho mình hỏi có cãhs nào nhắn tin lại bình thường tren chrome ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.35722,
+         "id": "1159799",
+         "field_search": "question",
+         "question": "Nên mua samsung  m10 hay vivo y91c hơn vậy..m10 hơn y91c điểm nào... Y91c hơn m10 điểm nào.. Nên mua loại nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.298642,
+         "id": "1157526",
+         "field_search": "question",
+         "question": "Mình gặp một lỗi khi dùng facebook trên trình duyệt web google chrome- Hình ảnh có âm thanh hay video , đoạn ghi âm, mọi người gửi qua cho mình bằng messenger đều không nghe được.. Lúc trước thì được , bây giờ thì không- Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.29431,
+         "id": "1003791",
+         "field_search": "question",
+         "question": "Cho minh hoi minh moi mua j7 prime mà bi điểm chết màn hinh vay có đc đổi máy khác ko vay ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.130933,
+         "id": "1009315",
+         "field_search": "question",
+         "question": "Mình mua laptop có áp dụng đồng thời quà tặng với chương trình giảm tiền theo điểm k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.129016,
+         "id": "988150",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình quên mật khẩu User account control thì phải làm sao vậy ad có cách nào khắc phục không ad? Nó bị như vậy mình không thể cài phần mềm nào vô được hết nhờ ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.053311,
+         "id": "996911",
+         "field_search": "question",
+         "question": "cho e hỏi e vào chrome mà bị lỗi như thế này,giúp e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.03389,
+         "id": "904837",
+         "field_search": "question",
+         "question": "lúc mua laptop em có mua office 365 Personal 32-bit/x64 English ở cửa hàng thegioididong, gần đây em nhận được mail bảo là office của em sắp hết hạn và cần đăng ký gia hạn là sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.020224,
+         "id": "993753",
+         "field_search": "question",
+         "question": "Laptop Asus A555DG,ADM FX-8800P Radeon R7,12 Compute Core 4C+8G 2.10 GHz, Ram 8G, 64 bit, HDD 1TB. Xin hỏi với cấu hình như vậy có thể chơi GTA 5 k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.986591,
+         "id": "755297",
+         "field_search": "question",
+         "question": " Làm thế nào để root Honor 4C vậy ad? Chỉ cho mình với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.9419985,
+         "id": "1153040",
+         "field_search": "question",
+         "question": "Cho mình hỏi thăm Mình mới mua cái oppo A3s 16g mà lên google nó bị lag và giật quá Vậy bây giờ mình đổi máy khác đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.926892,
+         "id": "1136876",
+         "field_search": "question",
+         "question": "Cho em hỏi làm cách nào để đặt 1 file nén với nhiều mật khẩu khác nhau nhưng vẫn mở được ạ? Ví dụ mình nhập 123 hoặc 789 đều mở được ấy ạ? Làm thế nào vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.88685,
+         "id": "912817",
+         "field_search": "question",
+         "question": " chào ad. cho mình hỏi cách mở lại điểm truy cập cá nhân trên ipad. mình sài ipad 4, iso   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.839281,
+         "id": "809621",
+         "field_search": "question",
+         "question": " Cho mình hỏi. iPhone 5 Thường 32  16 GB . Bao nhiêu tiền ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.785331,
+         "id": "834617",
+         "field_search": "question",
+         "question": " Máy tính em mới mua sao h lên wed cốc cốc với googel chrome được vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.772438,
+         "id": "1000063",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi. máy laptop chơi gta đc k Acer aspire v3574 ram 4.00gb 64bit Operating System, x64based processor",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.757097,
+         "id": "1160803",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Mình dùng đt A72017 sau khi đăng nhập lại tài khoản google và samsung thì không tìm thấy danh bạ nữa mặc dù đã đồng bộ. Ad giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.707605,
+         "id": "1015626",
+         "field_search": "question",
+         "question": "Làm sao để tắt tính năng vuốt xuống hiển thị google trên màn hình chính đây ad chỉ mình với.  Và làm sao để tắt các ứng dụng của google  đây. Mong ad sớm trả lời  câu hỏi của  mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.65902,
+         "id": "1148898",
+         "field_search": "question",
+         "question": "ở khu vực huế real me C1 bán ở địa điểm nào ạ và còn hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.658729,
+         "id": "957069",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi tí ạ . Sao máy mình nhắn tin cho 1 số khác mà số khác đấy k nhận đc tin nhắn mà tin nhắn đó nó lại nhắn về máy mình vậy . Ad giúp mình với . Lúc trước icloud của mình có dùng 2 máy nhưng bây giờ có 1 máy thôi mọi người giúp mình với mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.649078,
+         "id": "927637",
+         "field_search": "question",
+         "question": "Trên ứng dụng bảo mật của Zalo rất an toàn bảo mật đối với tất cả các tài khoản ! Đó là một ưu điểm nhưng cũng có một nhược điểm . Chính vì bảo mật đó mà những cặp vợ chồng xa ko gần nhau có những điều dấu kín tin nhắn riêng tư , những bl bảo mật khi mà ng Vk hay ng Ck ko thể bit . Vậy có thể nào hay có cách nào để 2 tài khoản như 1 để biết và tin tưởng nhau ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.58959,
+         "id": "916995",
+         "field_search": "question",
+         "question": "mình dùng laptop asus tp550lb, cứ dùng khoảng 30' thì máy bị loạn cảm ứng ở 1 điểm duy nhất( màn hình chạm liên tục vào 1 điểm), có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.546339,
+         "id": "819406",
+         "field_search": "question",
+         "question": "Laptop acer có cấu hình:intell(R)pentium(R)CPU21174@1.80 GHZ 1.80 GHZRam 4.00GB(3.31GB usable)32-bit operating sýtem choi được game cf hay lol ko a quan tri vien",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.531695,
+         "id": "751612",
+         "field_search": "question",
+         "question": "Các anh em cho mình hỏi có cây iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.531695,
+         "id": "751160",
+         "field_search": "question",
+         "question": "Các anh em cho mình hỏi có cây iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.51661,
+         "id": "1001578",
+         "field_search": "question",
+         "question": "Mà e đang xài samsung j2 prime, ma trên trang chủ của google chrome thị có đến 8 biểu tượng của các trang mạng truy cập thường xuyên, nhưng trên google của đt e hiện chỉ có được 4 biểu tượng thôi, mình có cách nào để bổ sung thêm biểu tượng vào trang chính của google để mình tiện truy cập không. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.49948,
+         "id": "759945",
+         "field_search": "question",
+         "question": " Cho em hỏi tí ad, iPhone 6 của cửa hàng mình bán xuất xứ từ những quốc gia nào vậy ad? Tư vấn giúp em với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.490468,
+         "id": "1002758",
+         "field_search": "question",
+         "question": "Chào TGDD, cho mình hỏi mình mới mua máy iPhone 6 32 GB ở TGDD hơn 10 ngày nhưng sao mình kiểm tra pin thì nó chỉ còn có 1100 mah, vậy TGDD có nhận bảo hành pin và thay cho mình không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.479596,
+         "id": "800038",
+         "field_search": "question",
+         "question": "ad cho mình hỏi làm thế nào để restore lại máy iphone vậy? mình download file ở đâu để có file chuẩn vậy ad? thanks rất nhiều. rất mong được hỗ trợ.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.296436,
+         "id": "1160101",
+         "field_search": "question",
+         "question": "Tại sao Samsung A50 tải file từ Google chrome khi tải lưu vào bộ nhớ trong thì bình thường còn tải lưu vào thẻ nhớ thì Google bị văng ta hiện thông báo ứng dụng tiếp tục dừng. Vào Chrome mục tải xuống mở file vừa tải cũng bị văng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.253338,
+         "id": "1168224",
+         "field_search": "question",
+         "question": "google zalo chrome fb đều vào được nhưng khi tìm kiếm gì trên google là cứ xoay vòng tròn zalo không điện được fb video bắt lên cứ xoay yotube bắt lên cũng xoay mạng wifi cực mạnh cứ như là điện thoại với mạng có vấn đề",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.127336,
+         "id": "1152967",
+         "field_search": "question",
+         "question": "cho mình hỏi mình dùng máy samsung j5 Prime và muốn đăng xuất tài khoản google khỏi CH Play mà các ứng dụng khác thì vẫn giữ nguyên bình thường thì làm thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.12294,
+         "id": "1010772",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi là chip A8 bằng với chip Exynos nào vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.113564,
+         "id": "1018805",
+         "field_search": "question",
+         "question": "sau khi mang máy đi cài win lại thì mình thấy máy mình khởi động chậm hơn,tức là từ lúc bấm nút khởi động máy đến lúc vào đc trang web nó lâu hơn,cứ quay quay hoài lát mới load ra đc trang web google chrome, so với trước khi cài lại win-- thì máy rất nhanh. có khi nào do cài win ảnh hưởng vậy không admin ơi. mình chụp lại ảnh này. ad xem có phải mình đang truy cập mạng bằng tốc độ USB 3.0 không ạ. tại vì mình nghe nói 3.0 truy cập dữ liệu nhanh hơn 2.0. có cách nào khắc phục được không ad .mong ad tư vấn giúp nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.041101,
+         "id": "1140983",
+         "field_search": "question",
+         "question": "Cho em hỏi: em đang dùng cái samsung galaxy s3, em thay bin xong bật nguồn lên mà nó cứ ở trạng thái đang bật nguồn..mãi vẫn ở trạng thái đó..ai bit cách khắc phục giúp e với ,e c.ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.004182,
+         "id": "994128",
+         "field_search": "question",
+         "question": "ad cho em hỏi là máy laptop em là máy Dell chạy win8.1pro 64bit mà dạo này chơi lmht lag quá em muốn đặt lại tất cả về ban đầu như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.987325,
+         "id": "1007853",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là nếu ở cơ sở chỗ em ở hết hàng thì lúc mình đặt hàng ở nơi khác về thì có được trả không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.931627,
+         "id": "940984",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi máy Intel 2130 tắt âm bàn phím ở đâu vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.925911,
+         "id": "782099",
+         "field_search": "question",
+         "question": "Em có mua laptop Dell inspiron 3543 RAM 4G ở shop và đã được cài sẵn win 8.1 bản quyền sau đó thì em có up lên win 10. Cách đây vài ngày em có cài bản win 7 professional mà là bản 32 bit nên em thấy rất phí RAM. Vậy bây giờ cho em hỏi là em mang máy ra shop thì shop có thể cài lại bản win cũ được không ạ ?. Nếu được thì mang ra chi nhánh nào cũng được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.868772,
+         "id": "786548",
+         "field_search": "question",
+         "question": "AD ơi , cấu hình máy em chơi gta 5 được không và có thể giảm cấu hình để chơi không .Hệ điều hành Windows 8.1 Pro 32-bit (6.3, Build 9600) (9600.winblue_rtm.130821-1623) Nhà sản xuất Hewlett-Packard Bộ vi xử lý Intel(R) Core(TM) i3-4005U CPU @ 1.70GHz (4 CPUs), ~1.7GHz RAM 4096MB RAM DirectX DirectX 11 Card đồ họa Intel(R) HD Graphics Family VRAM chuyên dụng 0 MB Tổng VRAM 1253 MB Độ phân giải đang dùng 1366 x 768 (32 bit) (60Hz) Độ phân giải gốc 1366 x 768(p) (59.987Hz)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.856035,
+         "id": "1139950",
+         "field_search": "question",
+         "question": " Ở TGDD có bán thẻ game garena không ? Gia lai có địa điểm TGDD nào bán không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.85463,
+         "id": "778173",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6, không hiểu sao pin đang ở mức 32% thì lại thấy báo xuống 14% rồi sập nguồn. Khi cắm sạc vào lại hiện lên 32%, khi kiểm tra thì thấy phần Design Capacity 1751, Full Charge capacity là 1600. vậy có mức chai pin này có phải là nghiêm trọng không, có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.822804,
+         "id": "1152400",
+         "field_search": "question",
+         "question": "Cho mình hỏi J6  không có máy tính trong máy vậy và Google play âm nhạc nữa , cho mình hỏi là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.813469,
+         "id": "1018738",
+         "field_search": "question",
+         "question": "Cho em hỏi đt của em bị gì vậy ạ,  reset lại rồi vẫn bị,  không đăng nhập vào được google,  google play,  youtube.... Em nên làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.807014,
+         "id": "1160923",
+         "field_search": "question",
+         "question": "Cho mình hỏi ss A6 thì văn bản tải về mở ở đâu và cách xóa như thế nào? Với lại mình muốn xem đã sử dụng bai nhiêu GB thì xem ở đâu vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.780902,
+         "id": "744401",
+         "field_search": "question",
+         "question": " em dùng win8, lúc mở cốc cốc và google chrome, phải đến 30 phút mới mở lên được. Phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.765628,
+         "id": "1155645",
+         "field_search": "question",
+         "question": "Cho em hỏi mẫu samsung s10 bên mình đã có hàng chưa? và giá bán như thế nào? Thông số kỹ thuật ra sao và có những điểm gì nổi bật so với những mẫu smartphone cũng dòng S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.763775,
+         "id": "1003602",
+         "field_search": "question",
+         "question": "xóa tài khoản google J7 Pro như thề nào vậy QTV...bypass đủ kiểu vẫn chưa ok, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.751664,
+         "id": "1140481",
+         "field_search": "question",
+         "question": "Qtv ơi cho mình hỏi mình muốn đăng xuất tài khoản google của mình trên máy samsung có cách nào đăng xuất mà vẫn giữ lại được dữ liệu với gmail k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.7467375,
+         "id": "1168020",
+         "field_search": "question",
+         "question": "Ad check lại giá trị máy vsmart joy 1 của sdt 0334683257 đến thời điểm hiện tại giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.728535,
+         "id": "1164812",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại em là Iphone X. Lâu lâu chơi bị nhạy cảm ứng thử nhiều cách fix mà vẫn như vậy. Không bit bên TGDD mình có cách nào fix không giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.713755,
+         "id": "1163107",
+         "field_search": "question",
+         "question": "cho mình hỏi là khi mk vào google thì làm thế nào để vào đc web ngay không cần phải thông qua google chorm như thế này nữa? mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.6864195,
+         "id": "1003317",
+         "field_search": "question",
+         "question": "Ban đầu cái phần mình khoanh đỏ ấy ạ, ban đầu ở đó có 1 thanh tìm kiếm google nhưng bây giờ lại ko thấy nữa, mình đã thử kéo thanh google lại đó rồi nhưng vẫn bị sự cố tải tiện ích con. Bạn nào biết khắc phục sự cố này làm ơn giúp mình với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.640745,
+         "id": "836865",
+         "field_search": "question",
+         "question": "ad cho em hỏi là samsung j5 có máy điểm chạm vây ak, em thấy tui bạn em sai samsung j3 mà có 3 điểm chạm còn em thì không đựơc ak ad chỉ em cách khôi phục nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.635973,
+         "id": "751089",
+         "field_search": "question",
+         "question": " iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.62609,
+         "id": "1019390",
+         "field_search": "question",
+         "question": "Cho tôi hỏi màn hình điện thoại tự động cảm ứng tại 1 điểm mình không nhấn: Tôi không chạm vào màn hình mà nó cũng tự cảm ứng, tôi chạm chỗ khác nó cũng cảm ứng chố đó. Vậy tôi có thể khắc phục nó được không hoặc vô hiệu hóa điểm tại đó, còn nếu phải đem sửa thì giá bao nhiêu vậy!  Điện thoại LENOVO P1ma40",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.596584,
+         "id": "1160561",
+         "field_search": "question",
+         "question": "Mình có mua máy Huawei Nova 3i tại TGDĐ q2 vào ngày 29/1/2019 với giá 6.490.000 đến thời điểm hiện tại bên TGDĐ thu máy vào với giá thế nào ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.570121,
+         "id": "1009508",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi máy mixaomi 4a có bán ở huyện Bắc Bình k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.569915,
+         "id": "832344",
+         "field_search": "question",
+         "question": "máy tính của cháu có biểu tượng cốc cốc và google chrome nhưng bấm vào thì nó không chịu lên. đợi 1 rất lâu thì nó mới lên cho cháu hỏi cách khắc phục đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.530455,
+         "id": "992757",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ipad . Khi người khác gọi massage cho mình thì 2 cái nút xanh ( đồng ý ) và nút đỏ  ( từ chối ) nó không hiển thị vậy . Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.5215225,
+         "id": "1005855",
+         "field_search": "question",
+         "question": "Lenovo Yoga 3 Pro màn hình hỗ trợ cảm ứng tối đa bao nhiêu điểm vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.505906,
+         "id": "1161523",
+         "field_search": "question",
+         "question": "Ad cho hỏi mình có đặt cọc 500k con oppo f11 ở siêu thị, giờ mình muốn lấy lại cọc để mua mẫu khác có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.499934,
+         "id": "796821",
+         "field_search": "question",
+         "question": " cho mình hỏi laptop Dell Inspiron 3552 n3050 sản xuất ở nước nào vậy ?. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.494936,
+         "id": "771732",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 3GS 32 GB chạy iOS 6.1.3 , mình tải ứng dụng trên appvn nhưng máy không tải về được. Giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.466861,
+         "id": "1138605",
+         "field_search": "question",
+         "question": " Huawei Nova 2i  808 đánh giá còn mày ở những địa điểm nào để em ra trực tiếp coi   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.440123,
+         "id": "1007701",
+         "field_search": "question",
+         "question": "add .Cho em hỏi. .máy samsung j7 Reset xog đăng nhập tài khoản google khác xog kh đc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.437829,
+         "id": "1165569",
+         "field_search": "question",
+         "question": "chơi game trên black shark 2 với ip xs max thì cái nào hơn vậy ad. Để mình lựa mà mua máy:))P/s: không tính pin và giá, các yếu tố khác ngoài hiệu năng và màn hình nhé ad",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

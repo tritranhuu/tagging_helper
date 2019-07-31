@@ -1,0 +1,801 @@
+{
+   "id_query": "812582",
+   "total": 23890,
+   "total_current": 100,
+   "max_score": 52.661163,
+   "origin_question": " muốn tắt chế độ Samsung Retail Mode thì phải làm sao ad? ",
+   "hits": [
+      {
+         "score": 25.652853,
+         "id": "832201",
+         "field_search": "question",
+         "question": " cho mình hỏi muốn tắt chế độ chặn cuộc gọi đến trên dt samsung galaxy E5 thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.514637,
+         "id": "1154224",
+         "field_search": "question",
+         "question": "Nokia 6.1plus ko thoát chế độ Download mode dc ,máy vẫn tắt nguồn dc nhưng mở lại vẫn ở chế độ Download mode",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.957329,
+         "id": "1155948",
+         "field_search": "question",
+         "question": "Em đang xài J3 pro mà muốn tắt chế độ Workspace thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.76902,
+         "id": "1143517",
+         "field_search": "question",
+         "question": " Giúp mình làm sao để tắt chế độ này máy samsung j4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.68839,
+         "id": "1015212",
+         "field_search": "question",
+         "question": "Làm sao để tắt chế độ an toàn ở máy samsung j3 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.239473,
+         "id": "817739",
+         "field_search": "question",
+         "question": " Ad ơi... cho mình hỏi j7 có chế độ riêng tư không vậy... nếu muốn cài đặt thì phải làm sao... thanks ad nhé... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.078243,
+         "id": "1022354",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn tắt chế độ ko làm phiền của zenphone 4 max pro thì làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.668442,
+         "id": "833431",
+         "field_search": "question",
+         "question": " Cách tắt chế độ an toàn trên Samsung Galaxy S3 thế nào ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.124023,
+         "id": "1009009",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi e sử dung oppo f1 trong phần trung tâm bảo mật lúc quét nhanh máy e lỡ tay nhấn vào phần mở chế độ dữ liệu di động sau 2 giây tắt máy sẽ bị tắt dữ liệu di động bây giờ e muốn xoá cái chế độ này thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.531937,
+         "id": "828534",
+         "field_search": "question",
+         "question": " Muốn biết mình đang bật hay tắt chế độ tìm iphone thì sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.40979,
+         "id": "1142507",
+         "field_search": "question",
+         "question": "Anh cho em hỏi làm sao để tắt chế độ an toàn trên samsung s3 a. Mong a giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.356241,
+         "id": "1146621",
+         "field_search": "question",
+         "question": "Cho e hỏi tắt chế độ nhà phát triển ở oppo f5 thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.292353,
+         "id": "925250",
+         "field_search": "question",
+         "question": " Samsung galaxy grand 2 làm sao tắt chế độ rung khi chơi game trong game không có phần vibration ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.068598,
+         "id": "1018162",
+         "field_search": "question",
+         "question": "Cho em hỏi . em muốn chuyển chế độ 3G thành 4G ở đien thoai samsung galaxy s2hd lte phải làm sao vay anh . Giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.889982,
+         "id": "769524",
+         "field_search": "question",
+         "question": " iPhone 5s của em bị mất chế độ rung thì phải làm sao a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.732021,
+         "id": "997464",
+         "field_search": "question",
+         "question": "làm sao để tắt chế độ talk back kho máy không trượt được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.730606,
+         "id": "1009501",
+         "field_search": "question",
+         "question": "Làm sao để tắt chế độ 5s tắt màn hình của j7 pro ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.685026,
+         "id": "1138983",
+         "field_search": "question",
+         "question": "Samsung j8 . Có chế độ chạm vào màn hình để mở đt lên mà không cần phải bấm nút nguồn không ạ ?Với em muốn cài đặt chế độ mỗi khi có thông báo từ messenger hoặc cái ứng dụng khác thì có nháy đèn led lên thì phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.56828,
+         "id": "986514",
+         "field_search": "question",
+         "question": " cho em hỏi em bật chế độ ánh sáng đêm giờ muốn vô tắt mà nó hiện như vậy không tắt được làm sao đây????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.522139,
+         "id": "1158723",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ. Đt e là hãng SamJ4+, vì e mới mua nên lúc sạc pin màn hình đt vẫn ở chế độ sáng với giao diện. Giờ e muốn tắt chế độ giao diện đó lúc sạc pin thì phải làm s???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.410152,
+         "id": "1145662",
+         "field_search": "question",
+         "question": "làm sao để tắt chế độ ban đêm trên j7 plus ạTư nhiên giờ nó đổi sang chế độ này luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.3696,
+         "id": "873524",
+         "field_search": "question",
+         "question": " Muốn thay đổi mạng 2g sang mạng 3G thì làm sao ạ.iphone 4s k có chế độ chuyển đổi sang 3G phải k ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.252848,
+         "id": "860750",
+         "field_search": "question",
+         "question": " QTV cho em hỏi  muốn tắt chế độ lọc nghiêm ngặt của fb làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.24268,
+         "id": "1138567",
+         "field_search": "question",
+         "question": "cho em hỏi là làm sao để sử dụng tính năng không gian trò chơi trên colorS 5.1 ạ em đang dùng oppo a3s mà không biết làm sao để sử dụng cái tính năng đó hiệu quá nhất  mỗi khi vào game là em phải vào đó trước rồi chọn chế độ làm việc thì chế độ đó mới có tác dụng phải không ạ ?hay là em chọn chế độ làm việc xong rồi để đó, out ra tắt máy rồi vào lại game thì chế độ làm việc đó còn tác dụng không ạ ?hay là em phải vào lại không gian trò chơi chọn lại chế độ đó rồi vào game mới có tác dụng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.21243,
+         "id": "1163339",
+         "field_search": "question",
+         "question": "Cách tắt chế độ an toàn của máy samsung A6...................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.089876,
+         "id": "781712",
+         "field_search": "question",
+         "question": "Chỉ mình cách tắt hoàn toàn chế độ uefi trên laptop HP Pavilion 14, mình tắt rồi mà Easy BCD 2.3 cứ báo chưa tắt uefi mode, đọc cách chạy song song Remix os mà thèm quá...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.01228,
+         "id": "1020325",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình dùng Asus zenfone max.hồi trước mình có bật cái chế độ permanently delete.bh mình muốn tắt nó đi thì tắt ở đâu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.681475,
+         "id": "1162026",
+         "field_search": "question",
+         "question": "Tắt chế độ an toàn trên samsung grand prime như thế nào ạ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.658298,
+         "id": "1161460",
+         "field_search": "question",
+         "question": " muốn tắt cái này trên samsung a20 phải làm sao                                                          .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.616394,
+         "id": "1160361",
+         "field_search": "question",
+         "question": "tắt chế độ đen trắng trên samsung A50 cách khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.612103,
+         "id": "889128",
+         "field_search": "question",
+         "question": " mình vừ dùng zalo, đã thiết lập tắt các chế độ nhưng về số điện thoại thì không ẩn cho, thì phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.566818,
+         "id": "1004765",
+         "field_search": "question",
+         "question": "điện thoại em lỡ bật chế độ xem ảnh bằng máy in, vậy em muốn chỉnh xem trên bộ sưu tập thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.500393,
+         "id": "1140872",
+         "field_search": "question",
+         "question": "Cho mình hỏi chách tắt chế độ an toàn trên đt samsung c9 pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.447107,
+         "id": "1016340",
+         "field_search": "question",
+         "question": "Samsung a7 2017 của tôi tắt chế độ xoay màn hình rồi mà tại sao màn hình vẫn xoay được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.43911,
+         "id": "1163946",
+         "field_search": "question",
+         "question": "làm sao để tắt chế độ mở khóa bàn phim của điện thoại Mobell M529",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.24043,
+         "id": "1001563",
+         "field_search": "question",
+         "question": "Oppo A57 mình muốn tắt mã hóa ứng dụng này thì phải làm sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.230547,
+         "id": "760725",
+         "field_search": "question",
+         "question": " Làm sao tắt được bàn phím laptop Asus khi ở chế độ máy tính bảng Win 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.230547,
+         "id": "1137152",
+         "field_search": "question",
+         "question": "Làm sao để tắt chế độ để tin nhắn không rõ nguồn gốc của đt oppo f9 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.219826,
+         "id": "1137975",
+         "field_search": "question",
+         "question": "Cho e hỏi samsung galaxy j6 tắt chế độ xoay màn hình ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.13899,
+         "id": "1008106",
+         "field_search": "question",
+         "question": "cho em hỏi sao em lên google mà không thấy được hình ảnh và video . mà em đã bật chế độ không hình ảnh giúp em làm sao tắt được chế độ đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.044222,
+         "id": "1167625",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Mình mới mua máy Oppo F11 bên shop. khi chụp hình thì mặc định có chữ OPPO F11 ở bên dưới hình ảnh, giờ muốn tắt chế độ này thì làm thế nào. Nhờ Ad chỉ hộ giúp. Tks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.9446,
+         "id": "1158645",
+         "field_search": "question",
+         "question": "sao để tắt chế độ fastboot trên mobiistar lai yuna x",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.944086,
+         "id": "997414",
+         "field_search": "question",
+         "question": "làm sao để tìm điện thoại tắt nguồn ko có gps còn wifi ỡ chế độ im lặng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.914795,
+         "id": "1022297",
+         "field_search": "question",
+         "question": " mình muốn thoát chế độ chế em mà mjnh wuen luôn mật khẩu phải làm như nào bạn máy mình galaxy tap a6 cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.515675,
+         "id": "1023260",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi để điện thoại ở chế độ khóa mà muốn hiển thị thời gian thì phải làm thế nào vậy.mình dùng j7prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.479538,
+         "id": "768698",
+         "field_search": "question",
+         "question": " Em muốn vào chế độ  Recovery cho Sony m4 thì làm cach nào vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.460587,
+         "id": "1013655",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để bật chế độ ban đêm cho máy Samsung galaxy J3 2016 v ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.441786,
+         "id": "1164386",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ! Em vừa mua 1 máy samsung galaxy A50, máy ảnh của máy chỉ chụp được chế độ âm bản, không chụp được chế độ bình thường ? Vậy em phải làm như thế nào mới có thể điều chỉnh lại ạ ?? Xin cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.316608,
+         "id": "1166112",
+         "field_search": "question",
+         "question": "Điện thoại samsung A8 bị cảnh báo độ ẩm cổng sạcusb thì phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.313469,
+         "id": "1149235",
+         "field_search": "question",
+         "question": "làm thế nào để bật tắt chế độ sặc nhanh trên oppo a7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.305367,
+         "id": "1002688",
+         "field_search": "question",
+         "question": "làm sao để tắt bàn phím khi sử dụng nokia 5 và tăt chế độ rung khi nhắn tin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.124235,
+         "id": "781797",
+         "field_search": "question",
+         "question": " Em sử dụng máy iphong 3g bị vào chế độ recoverybây giờ làm sao dể thoát hả ad?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.115606,
+         "id": "908605",
+         "field_search": "question",
+         "question": "Tôi dùng i phone 4s cài đặt chế độ tự động khóa màn hình thì máy tắt nguồn luôn muốn dùng lại phải khởi động. Để chế chộ không khóa màn hình thì máy không sao nhưng hết pin nhanh? có cách nào giúp tôi? máy bị bệnh gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.113684,
+         "id": "1022859",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt chế độ chụp selfie bằg hành động hay cử chỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.933608,
+         "id": "1145919",
+         "field_search": "question",
+         "question": "Samsung j7 pro tự nhiên mất rung, cho dù có bật chế độ rung...Làm sao để rung lại bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.878602,
+         "id": "931775",
+         "field_search": "question",
+         "question": "Ad ơi! Cho e hỏi xíu ạ . laptop của e là dell vostro 3458 để máy ở chế độ sleep sau đó bật lại thì bị mất âm thanh. restart thì lại có tiếng bình thường. e muốn khắc phục lỗi này thì phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.872459,
+         "id": "1160418",
+         "field_search": "question",
+         "question": "Mình đang sài j4. Khi bật chế độ nghe nhạc thì k thể gọi đi được. Phải tắt nhạc mới gọi được. Ad cho hỏi có cách nào k cần tắt nhạc mà vẫn gọi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.775963,
+         "id": "915760",
+         "field_search": "question",
+         "question": "E lỡ tay nghịch đt iphone rồi bật chế độ dành cho người khiếm thị,gjo làm sao để tắt đc chế độ do vậy đt gjo cứ nói tiếng anh hoài không sử dụng gì đc hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.773722,
+         "id": "825973",
+         "field_search": "question",
+         "question": "Samsung A7 2016 của mình sao ko tự bật chế độ sạc nhanh được. Mình sạc từ 10h đêm đến 4h30 sáng đc 80% thôi. Có phải bị lỗi gì ko ad ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.731968,
+         "id": "1015245",
+         "field_search": "question",
+         "question": "Phải làm bằng  Cách nào để thoát chế độ an toàn trên android",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.724164,
+         "id": "787294",
+         "field_search": "question",
+         "question": "Trên máy acer aspire e15 i7/4G/VGA2G pin liền thì làm sao để chuyển từ chế độ dùng pin sang chế độ dùng điện trực tiếp vậy QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.605253,
+         "id": "823266",
+         "field_search": "question",
+         "question": "Em muốn tắt chế độ tự lưu ảnh khi chụp hoặc là nhận khi sử dụng các ứng dụng zalo và facebook thì làm như thế nào? Mở lên rồi mà lại ko tắt được. Haizz",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.588238,
+         "id": "988698",
+         "field_search": "question",
+         "question": " Cho e hỏi làm sao mới tắt được cái chế độ nghiêng đt tự động nó sáng màn hình, E dag sai iPhone 6splus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.586802,
+         "id": "916444",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn tắt âm camera trên iPhone 7 plus làm sao? Mình đã gạt thử nút bên trái cho nó về chế độ im lặng rồi ma chụp vẫn nghe kêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.491597,
+         "id": "1158902",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi, điện thoại oppo f1s của đang ở chế độ tiếng trung mình muốn thành tiếng việt làm như thế nào ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.436893,
+         "id": "1163502",
+         "field_search": "question",
+         "question": "Ad ơi, t muốn hỏi 2 vấn đề. T mới mua ĐT Huawei P30 lite. Nhưng đang dùng ứng dụng ví dụ messenger thì ứng dụng bị tắt(rất nhiều lần) và tắt phần chế độ đoán từ ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.185031,
+         "id": "837808",
+         "field_search": "question",
+         "question": "Mình đã bật chế độ siêu tiết kiệm dữ liệu rồi tắt chế độ đi mà biểu tượng đó cứ nằm mãi trên góc màn hình và màn hình chờ mà sao mình tắt biểu tượng đó mãi k đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.130758,
+         "id": "1016362",
+         "field_search": "question",
+         "question": "Điện thoại mình là a7 2015. Mình đã tắt chế độ xoay màn hình rồi mà nó vẫn tự xoay là sao ạ ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.09577,
+         "id": "1008449",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏiĐiện thoại samsung galaxy j3 của e bị rơi, rồi ở bên dưới góc trái màn hình hiện chế độ an toàn. Thì bây giờ e phải làm sao để nó không hiện nữa ạ ? E khôi phục cài đặt gốc vs tắt nguồn và khởi động lại vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.07244,
+         "id": "1016309",
+         "field_search": "question",
+         "question": "Điện thoại mình là a7 2015. Mình đã tắt chế độ xoay màn hình rồi mà nó vẫn tự xoay là sao ạ ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0303135,
+         "id": "1137730",
+         "field_search": "question",
+         "question": "Máy e samsung J7, khi tắt máy thì nó tự động tắt nguồn và phải khởi động lâu mới lên, em phải làm sao !?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.006922,
+         "id": "1161428",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua đt samsung A20 khoảng được 1 tuần mà hình cứ tắt vài phút là lại tự sáng. phải cài đặc như thế nào để tắt chế độ này. Mong hổ trợ nhanh chống . Thnaks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.984961,
+         "id": "781908",
+         "field_search": "question",
+         "question": "Ad ơi. Cho e hỏi e đang dùng máy gionee f103 mới đc 3 tháng . E để chế độ tiết kiệm pin sau luo sạc lại và muốn thoát khỏi chế độ này thì l thoát đc... Ad coi giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.960745,
+         "id": "916427",
+         "field_search": "question",
+         "question": "Samsung J7 của e hiển thi sai giờ mặc dù e đã bật chế độ tự cập nhật là sao ạ.phải khắc phục ra sao ad chỉ e với! thank ad ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.949541,
+         "id": "1160934",
+         "field_search": "question",
+         "question": "Làm sao bật đc chế độ nhà phát triển của redmi 6a v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.933291,
+         "id": "781008",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5S vì mình để chế độ tiết kiệm pin 30s thì tắt màn hình nền khi có cuộc gọi đến một chút xíu màn hình tắt rồi thù mở lên không chổ nào để bấm trả lời cuộc gọi đến, phải khắc phục làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.901169,
+         "id": "807375",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi là mình muốn thay màn hình laptop asus x550c thì giá và chế độ bảo hành ntn ak. Thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.894779,
+         "id": "825559",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi mình muốn tắt hiển thị cập nhật phần mềm trên cài đặt trên IOS 9.1.1 thì phải làm sao đây??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.854322,
+         "id": "799606",
+         "field_search": "question",
+         "question": " Bật chế độ nguồn điện thấp khi pin iphone 5 còn nhiều thì có làm sao không vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.799615,
+         "id": "1001002",
+         "field_search": "question",
+         "question": "Cách tắt chế độ an toàn của điện thoại sam sung j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.752706,
+         "id": "844835",
+         "field_search": "question",
+         "question": " Samsung j5 2016 sao gửi tin nhắn không cài đặt chế độ luôn hỏi SIM vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.734047,
+         "id": "1149118",
+         "field_search": "question",
+         "question": "điện thoại samsung galaxy a7 2018 của em bị đổ dung dịch khử mùi vào, bây giờ phím âm lượng (cả tăng lẫn giảm) bị liệt không thể điều chỉnh âm lượng được, kính camera bị bám hơi nước, điện thoại về chế độ safe mode nhưng không trở về chế độ bình thường được. cho em hỏi nguyên do và cách khắc phục ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.642631,
+         "id": "1156988",
+         "field_search": "question",
+         "question": "Mình dùng samsung A5 2017 điện thoại mình bị mất chế độ rung.bây giờ làm thế nào để khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.537384,
+         "id": "1018661",
+         "field_search": "question",
+         "question": "Samsung galaxy a9pro của mình màn hình tự động sáng tự động tối mà trong khi đó mình k để chế độ tự động là làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.530185,
+         "id": "1143477",
+         "field_search": "question",
+         "question": "Cách tắt chế độ khiếm thị trên máy tính bảng Tab A SMT385",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.513638,
+         "id": "1022641",
+         "field_search": "question",
+         "question": " Làm sao để cài đặt chế độ ngủ của điện thoại Huawei GR5 2017..  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.501474,
+         "id": "1021863",
+         "field_search": "question",
+         "question": "  ko hiểu sao em tắt chế độ night light ko đc z? em đã thử nhiều cách lắm ròi đó.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.499181,
+         "id": "807377",
+         "field_search": "question",
+         "question": " Ad cho m hỏi là m muốn thay màn hình laptop Asus x550c thì giá và chế độ bảo hành ntn ak. Thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.490484,
+         "id": "840714",
+         "field_search": "question",
+         "question": "Ip mình bị mất. Mình chọn chế độ xóa ip trong icloud. Vậy khi mình chọn chế độ này thì người nhặt được ip của mình có dùng được ip của mình hay không? Và chế độ xóa ip có phải là chế độ khóa máy vĩnh viễn khi không có pass đăng nhập icloud không add?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.485955,
+         "id": "770157",
+         "field_search": "question",
+         "question": "   Em vào icloud thì bị lỗi như này..   Em muốn tắt iphone thì phải làm sao ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.375841,
+         "id": "1147021",
+         "field_search": "question",
+         "question": "Tôi muốn tắt chức năng rung khi nhắn tin trên Nokia 3,1 thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.323952,
+         "id": "996713",
+         "field_search": "question",
+         "question": " Cách tắt chế độ chặn cuộc gọi đi trên điện thoại oppe neo7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.317232,
+         "id": "1009203",
+         "field_search": "question",
+         "question": "Làm sao bật chế độ im lặng cho sony xa dual f3116 vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.186784,
+         "id": "944541",
+         "field_search": "question",
+         "question": " Ad cho e hỏi máy samsung j5 prime của e bị đơ k tắt nguồn hay làm gì được thì làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.151365,
+         "id": "996930",
+         "field_search": "question",
+         "question": "Em muốn bỏ khóa màn hình nhưng nó cứ để vầy, dù em đã tắt chế độ quản trị viên thiết bị ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.101975,
+         "id": "930498",
+         "field_search": "question",
+         "question": " Cho hỏi là iphone 4s chạy ios 9 muốn đổi chế độ 2g sang 3g và ngược lại thì sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.098003,
+         "id": "1143589",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách tắt chế độ tjn nhắn MMS trên note 9 như nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.068849,
+         "id": "1154555",
+         "field_search": "question",
+         "question": "Cho  hỏi cách tắt chế độ máy bay trên realme 2 bằng cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.059985,
+         "id": "832303",
+         "field_search": "question",
+         "question": "ad cho mình hỏi là mình dùng iphone se. hiện muốn tắt chế độ tự động cập nhật trên app store. xem hướng dẫn thì vào cài đặt rồi vào iTunes & App store nhưng vào cài đặt thì mình không thấy có dòng iTunes & App store. mong ad chỉ giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

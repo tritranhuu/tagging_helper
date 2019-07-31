@@ -1,0 +1,801 @@
+{
+   "id_query": "1008776",
+   "total": 32562,
+   "total_current": 100,
+   "max_score": 94.58119,
+   "origin_question": "Xin chào tgdđ,cho e hỏi là làm sao để những biểu tượng sắp xếp lại theo mặc định máy z ạ...e cảm ơn(điện thoại oppo a33w ạ)",
+   "hits": [
+      {
+         "score": 32.087933,
+         "id": "992976",
+         "field_search": "question",
+         "question": "Em muốn hỏi làm cách nào để sắp xếp ứng dụng một cách tùy chỉnh trên màn hình chính ạ?  Vì mỗi lần em kéo để sắp xếp thì các ứng dụng sẽ được dồn lên phía trên hết chứ không theo ý em. Em dùng Oppo F3. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.467949,
+         "id": "1023750",
+         "field_search": "question",
+         "question": "Mình sử dụng samsung j7 prime. Làm thế nào để sắp xếp ảnh của bộ sưu tập theo từng ngày ạ.( lúc trước nó sắp xếp theo từng ngày mà giờ sắp xếp loạn tất cả lên). Kím vẫn k thấy mục sắp xếp theo thời gian trong bọ sưu tập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.921202,
+         "id": "1153717",
+         "field_search": "question",
+         "question": "Chào mọi người,Cho e hỏi là hiện tại e sắp đủ 20 tuổi (25/3/1999) thì e có thể mua trả góp máy tính được không ạ. E có cmnd và bằng lái ạ.Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.809887,
+         "id": "1023476",
+         "field_search": "question",
+         "question": "Máy e oppo a37 e rút tai nghe rồi nhưng vẫn hiện biểu tượng làm sao bây giờ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.774897,
+         "id": "1159726",
+         "field_search": "question",
+         "question": "* Xin hướng dẫn cách copy nhạc từ máy tính sang điện thoại và cách mở  đèn pin điện thoại Mobell S61. * Các ứng dụng cài mặc định theo điện thoại nhưng ít dùng thì có gỡ bỏ được ko ạ (Mobell S61)Xin cảm ơn!.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.118677,
+         "id": "1009428",
+         "field_search": "question",
+         "question": "Cho e hỏi ip7 ios 10.3.3 sao khi chụp ảnh lại tụt pin nhanh thế ạ? Những ứng dụng khác pin vẫn ổn định ạ. E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.022236,
+         "id": "1134127",
+         "field_search": "question",
+         "question": "Ad cho e hỏi tí: làm sao để cài đặt hiện tin nhắn messenger khi e đang xem phim hoặc onl fb trên điện thoại oppo a3s ạ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.954945,
+         "id": "847473",
+         "field_search": "question",
+         "question": " Cho e hỏi cái sao icon trên màn hình ip4s sắp xếp tùm lum vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.713001,
+         "id": "1022884",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi. E đang dùng đt oppo a39. Nhưng kg hiểu sao máy của e bây giờ cứ hiện lên đã phát hiện một con virus hoài thôi. E đã thử diệt theo yêu cầu của máy, nhưng ngày hôm sau lại như vậy. Xin hỏi anh chị giờ e phải làm sao để khắc phục ạ?  Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.387604,
+         "id": "1166159",
+         "field_search": "question",
+         "question": "TGDĐ cho e hỏi là cái biểu tượng cài đặt nó tự chuyển sa...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.318419,
+         "id": "998951",
+         "field_search": "question",
+         "question": " Cho e hỏi biểu tượng vòng tròn giữa gạch nối làm sao hết ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.272886,
+         "id": "1115336",
+         "field_search": "question",
+         "question": "E sắp k dùng điẹn thoại trong 1 thời gian dài tầm 2 tháng vậy e mún bảo quản điện thoại lâu ngày k sử dụng thì e phải là sao ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.120922,
+         "id": "826486",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để chụp màng hình máy laptop dell inspiron 14 vậy ạ. e xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.030512,
+         "id": "1160384",
+         "field_search": "question",
+         "question": "Cho e hỏi trên đt Oppo f11 pro làm thế nào để xem full màn hình và tính năng trình giám sát tai nghe thông minh e thấy ghi cho phép trải nghiệm karaoke là sao z ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.010363,
+         "id": "998458",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy e reset lại nhưng sao nó lên tới chỗ xin chào là không dùng cảm ứng được ạ  . máy em j1 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.828554,
+         "id": "1008469",
+         "field_search": "question",
+         "question": "Cho em hỏi Oppo A33w của em dùng android 5.1. TGDĐ cho em hỏi máy có thể nâng cấp hệ điều hành hay không và nếu nâng cấp có gặp lỗi không ạ. Cảm ơn TGDĐ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.639887,
+         "id": "1155118",
+         "field_search": "question",
+         "question": "Mình sử dụng oppo f9. Ban đầu album ảnh vẫn hiển thị theo thời gian bth. Nhưng giờ nó bị sắp xếp lung tung ảnh cũ ảnh mới. mình tìm k thấy phím menu hay gì để chọn lựa cách sắp xếp. Mong ad chỉ giúp mình ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.624828,
+         "id": "995839",
+         "field_search": "question",
+         "question": " cho em hỏi biểu tượng chỗ khoanh màu là gì và tắt nó làm sao????? ad chỉ dùn em e cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.620506,
+         "id": "953281",
+         "field_search": "question",
+         "question": " Cho e hỏi sao fb của e nó lại mất biểu tượng kết bạn vs tin nhắn ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.331255,
+         "id": "1163504",
+         "field_search": "question",
+         "question": "Làm sao để đổi emoji mặc định oppo a71k thành emoji khác ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.164215,
+         "id": "1004372",
+         "field_search": "question",
+         "question": "Điện thoại oppo a33w của em không hiện logo nhà mạng viettel là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.017439,
+         "id": "1154477",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang sài điện thoại oppo A39 nhưng e ko tao email pop 3 dx là tại sao z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.76666,
+         "id": "896819",
+         "field_search": "question",
+         "question": " QTV ơi cho e hỏi thư viện ảnh của e bị z là sao ạ Làm sao để khắc phục ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.752785,
+         "id": "840958",
+         "field_search": "question",
+         "question": " cho e hỏi tý ạ tại sao e vào appstore các mục khác vào đk những bảng xếp hạng e lại không vào đk nó cứ quay mãi.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.7194,
+         "id": "828592",
+         "field_search": "question",
+         "question": "Cho e hỏi. Điện thoại e không thông báo tin nhắn zalo, thì làm sao ạ. E đã làm theo mấy cách trên mạng chỉ mà cũng không được. Xin chỉ giúp e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.698755,
+         "id": "1154714",
+         "field_search": "question",
+         "question": "xin chào TGDĐ tôi mua máy samsung galaxy J 7 plus tại TGDĐ, còn trong thời gian bảo hành, cho mình hỏi TGDĐ có thu lại đt này không ạ? giá thu lại như thế nào ạ? xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.501665,
+         "id": "763965",
+         "field_search": "question",
+         "question": "Ad cho em hỏi điện thoại iPhone 4 báo bị 6 virus làm hư hỏng pin và em chót làm theo quảng cáo nhập số điện thoại và gửi tin nhắn rồi giờ phải làm sao ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.412958,
+         "id": "915202",
+         "field_search": "question",
+         "question": "E là sinh viên học ngành kế toán. E đang có ý định mua laptop để phục vụ cho việc học của mình. E chủ yếu chỉ sử dụng một số phần mềm của kế toán nên k cần máy có cấu hình mạnh. Xin TGDĐ tư vấn giúp e nên mua của hãng nào là tốt ạ. E xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.370226,
+         "id": "1138798",
+         "field_search": "question",
+         "question": "Xin chào,Cho em hỏi có cách nào để phát video có sẵn trong máy hay trên youtube trực tiếp lên facebook trên điện thoại ạ?Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.358454,
+         "id": "797752",
+         "field_search": "question",
+         "question": " Ad chỉ e cách làm thế nào để tải video trên facebook về điện thoại iphone 5s thì làm thế nào ạ xin cảm ơn àd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.34953,
+         "id": "1012006",
+         "field_search": "question",
+         "question": "anh chị QTV cho e hỏi bên TGDĐ có dán màn hình với decal laptop ko ạ? và cho e xin giá với ạ. e xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.311134,
+         "id": "988524",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi, e phát wifi từ laptop theo cách ad hoc, ở mục netwwork and sharing center đã xuất hiện biểu tượng waiting for uess chữ đậm, trong đó signal streng là excilent mà sao điện thoại androi không thấy hiện ra wifi này vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.290697,
+         "id": "994270",
+         "field_search": "question",
+         "question": "Cho e hỏi Máy e là Asus X540LJXX315DE có làm mất win bản quyền Giờ e muốn lấy lại thì làm ntn ạE xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.015583,
+         "id": "929028",
+         "field_search": "question",
+         "question": "Cho e hỏi vì sao pin của e vẫn tốt mà tụt pin hoài,không dùng cũng tụt. Hay do e mới cập nhật IOS 10.2 ạ. Điện thoại e là Ip 5s ạ. Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.96791,
+         "id": "1011443",
+         "field_search": "question",
+         "question": "E dùng ĐT oppo f1s lỡ xoá mất máy ảnh,  tìm và cài lại vẫn k được. Làm thế nào để có biểu tượng máy ảnh trên màn hình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.913918,
+         "id": "1142827",
+         "field_search": "question",
+         "question": "Mình đang xài j8. Cho mình hỏi là làm sao để chuyển ảnh cũng như là ứng dụng từ bộ nhớ điện thoại sang thẻ sd vậy ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.840984,
+         "id": "988528",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi, e phát wifi từ laptop theo cách ad hoc, ở mục netwwork and sharing center đã xuất hiện biểu tượng waiting for uess chữ đậm, trong đó signal streng là excilent mà sao điện thoại androi không thấy hiện ra wifi này vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.818054,
+         "id": "1006671",
+         "field_search": "question",
+         "question": " bỏ cái biểu tượng đó thì làm sao ạChỉ cho e cách với ạ Nó khá phiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.730099,
+         "id": "1141432",
+         "field_search": "question",
+         "question": "Cho e hỏi y7 pro 2018 e định đổi lại máy y7 pro 2019 e bù thêm bao nhiu tiền nữa z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.721558,
+         "id": "1018941",
+         "field_search": "question",
+         "question": "cho e hỏi là dưới 4 triệu mua điện thoại nào là ổn nhất ạ ,,e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.69153,
+         "id": "1149262",
+         "field_search": "question",
+         "question": "cho e hỏi. e  muốn trả góp đt oppo f9 thì thủ tục ntn và cần những gì vậy ạ. trong trường hợp e trên 20 tuổi nhưng vừa xin nghỉ việ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.634142,
+         "id": "1017940",
+         "field_search": "question",
+         "question": " Làm sao để sắp xếp hoặc bỏ bớt các ứng dụng trên thanh trạng thái laizumbo s  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.599855,
+         "id": "1022947",
+         "field_search": "question",
+         "question": "Chào TGDĐ ạ. E đang sử dụng đt J7 prime. E muốn hỏi là tại sao e chụp hình bằng cam trước khi cho hình nó bị ngược lại so với chiều mình chụp. Lỗi đó làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.523157,
+         "id": "1134467",
+         "field_search": "question",
+         "question": "cho e hỏi, em mua điện thoại nokia 3 ở cửa hàng TGDĐ, em làm rơi điện thoại hư màn hình cảm ứng. Vậy bên mình có thay màn hình ko ạ, nếu có cho em xin giá thay màn hình là  nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.464458,
+         "id": "1008480",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi là biểu tượng hình tròn gạch chéo trên thanh công cụ đó là gì v ạ nó nằm ở ngay sóng di động kh thể liên lạc đc vs ai. Làm cách nào để bỏ cái đó ạ. E sài ss j7pimre ạ. Giúp dùm e ạ e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.454906,
+         "id": "1139243",
+         "field_search": "question",
+         "question": " chào ad.. cho e hỏi xíu được không ạ... nếu e muốn mua điện thoại trả góp thì cần những gì ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.428967,
+         "id": "1005480",
+         "field_search": "question",
+         "question": "Điện thoại Xiaomi 4A bị màu màn hình âm bản.  Làm sao để trả về mặc định là dương bản?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.415745,
+         "id": "1004960",
+         "field_search": "question",
+         "question": "  Cho e hỏi làm sao để bỏ thanh google này đi ạ . Nhìn vướng quá . E cảm ơn ạ !! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.340933,
+         "id": "1020669",
+         "field_search": "question",
+         "question": "Xin chào ạ! Em vừa mua điện thoại samsung a7 2017. Nhưng không hiểu sao loa nghe từ bên kia nói rất nhỏ ạ mặc dù đã tăng max âm lượng cuộc gọi đến rồi (không phải nhạc chuông). Nhờ ad giúp đỡ khắc phục ạ. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.330282,
+         "id": "1015252",
+         "field_search": "question",
+         "question": "Cho e hỏi đt thoại s7 sged của e  sao thế này ạ. Chỉ cjo e cách khắc phục với. E xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.320976,
+         "id": "1001087",
+         "field_search": "question",
+         "question": "Shop cho e hỏi xíu ạ. Chuyện là e vừa mua con asus live nhưng khi khởi động xong thì đã có sẵn một số phần mềm như facebook, mess, insta, e đang hoang mang vì lúc mua điện thoại e đã đập hộp r. Ngta bảo là máy đã đc mặc định. Nhưng e vẫn thấy lo. Vậy cho e hỏi có phải là dòng asus đc mặc định như vậy ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.297274,
+         "id": "1013299",
+         "field_search": "question",
+         "question": " Ad cho hỏi galaxy tab a 9.7 bàn phĩm bị thu nhỏ lại, làm cách nào để phóng to như mặc định ban đầu. Cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.229942,
+         "id": "1143890",
+         "field_search": "question",
+         "question": "cho em hỏi ạ làm thế nào để cho biểu tượng gaem fi4 ra màn hình destop vậ ạlàm ơn giúp em với ạ >>>>................................................................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.170868,
+         "id": "791705",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4 thường. Không hiểu sao lại mất biểu tượng app store mình muốn lấy lại thì như thế nào ad. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.169062,
+         "id": "1155180",
+         "field_search": "question",
+         "question": "Tôi mua đt A13 ở cửa hàng TGDĐ, cho hỏi đt này có kiểm tra được định vị vị trí điện thoại không? Nếu có xin hướng dẫn cho tôi. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.15838,
+         "id": "1141690",
+         "field_search": "question",
+         "question": "Cho e hỏi muốn cài đặt theo dõi định vị điện thoai cua mg khác thì làm thế nào ạ. E dg sài samsung j7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.04569,
+         "id": "752355",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e có cái điện thoại ip 4s mà cái id apple(cloud) e đã quên và bây giờ không thể nhớ đc. Làm sao để xoá cái icloud và lập lại cái mới ạ.. E chân thành cảm ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.032948,
+         "id": "1158931",
+         "field_search": "question",
+         "question": "E chào tgdđ,  xin lỗi đã làm phiền . Mong tgdđ giẩu đáp thắc mắc của e ạ . E xin cơn nhiều ạ .smartphone của e có hiện tượng giật , lag.  Mà hiện tượng giật là thường xuyên . Kiểu như là thao tác vào màn hình thì ko ăn , lại còn rung lên rung xuống màn hình . Nhiều khi đang xem video mà bị vậy . Phải nhấn 2 - 3 lần thì mới ăn . Hiện tượng máy của e có khi mà bản cập nhật thiết bị đưa về , nhưng e ko cập nhật mà hoãn lại . Ko biết smartphone của e có bị hư ko ạ , hay bị lỗi gì ạ ? A/c có thể cho e biết nguyên nhân ft cách khắc phục ko ạ .Smartphone e đang dùng là Samsung Galaxy A6 2018 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.030739,
+         "id": "1151867",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi biểu tượng dấu  là gì và cách tắt như thế nào. Mình dùng máy HTC One M8. Cám ơn nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.005434,
+         "id": "1153001",
+         "field_search": "question",
+         "question": "E chào ad, cho e hỏi : e đã cài đặt lại điện thoại , máy bắt xác minh tài khoản gmail của người quen biết , nhưng người đó đã quên mật khẩu, e dùng gmail của e vẫn không được, cho e hỏi : cách xóa vụ xác minh trên điện thoại? e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.971786,
+         "id": "1146160",
+         "field_search": "question",
+         "question": "E dùng itel s11plus ạ. Đã để đĩa chép mặc định là thẻ SD. Nhưng khi tải ứng dụng về thì lại lưu ở bộ nhớ trong là sao ạ. Và e muốn chuyển ứng dụng sang thẻ SD thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.942947,
+         "id": "1136438",
+         "field_search": "question",
+         "question": "Cho e hỏi: máy điện thoại Nokia 5 của e sau khi tắt nguồn và khởi động lại thì điện thoại yêu cầu mã Pin. Mà e không biết mã Pin. Vậy cho e xin cách khắc phục ạ.E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.926039,
+         "id": "1140921",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao điện thoại Oppo a3s 16G mà chỉ xài được có 8G thôi ạ Làm sao để mở thêm G ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.856535,
+         "id": "996761",
+         "field_search": "question",
+         "question": "xin chào admin,điện thoại mình là SS galaxyJ5 2016, mình mua tại TGDĐ, bị vào nước, màn hình xuất hiện đường sọc và bị mờ. Xin hỏi nếu mình đêm đến của hàng TGDĐ bất kỳ đều được hỗ trợ đúng ko ạ? và chi phí là bao nhiêu ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.84744,
+         "id": "909118",
+         "field_search": "question",
+         "question": " cho e hỏi là khi em mở máy tính ấn vào biểu tượng google, cốc cốc thì khoảng 5 phút sau nó mới hiện lên là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.836199,
+         "id": "814559",
+         "field_search": "question",
+         "question": "ad cho e hỏi như này là bị sao ạ. trước e dùng win 10 vẫn hoạt động bình thường. nhưng sau 1 thời gian camera k hoạt đông. e reset lại máy mà vẫn k đc là sao ạ. xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.8119,
+         "id": "1151866",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi biểu tượng dấu  là gì và cách tắt như thế nào. Mình dùng máy HTC One M8. Cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.802809,
+         "id": "1162055",
+         "field_search": "question",
+         "question": "Cho em hỏi TGDĐ có mua máy cũ không ạ..Em xin cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.795502,
+         "id": "772814",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao cái Samsung Galaxy Note 3 mình sử dụng được 1 ngày thì bị hiển thị biểu tượng tai nghe mặc dù mình không cắm tai nghe? Và như thế nên lúc gọi ko nói hay nghe được. Lỗi thứ 2 là máy hay bị tắt nguồn tự khởi động lại? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.783072,
+         "id": "811197",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại htc 826 không chụp bằng camera trước được nữa, không có biểu tượng selfi nữa, phải làm sao cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.776237,
+         "id": "1138589",
+         "field_search": "question",
+         "question": "Cho e hỏi oppo a3s để vậy là sao aạ? Làm ơn giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.772787,
+         "id": "1159805",
+         "field_search": "question",
+         "question": "Xin chào. Mình muốn hỏi là TGDĐ có update máy ASUS Win 10 từ 32bit lên 64bit không ạ?. Nếu có thì phí sẽ là bao nhiêu ạ?. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.719997,
+         "id": "992611",
+         "field_search": "question",
+         "question": "Máy e đang sài là ip6s. Sau một thời gian tìm hiểu về những tính năng mà ios11 đem lại thì e mới thử nâng cấp lên xem sao. K ngờ thì hậu quả để lại là máy bị đơ và khó sài quá,e muốn phát điên lên mất. E có nghe nói là mình có thể kết nối với máy tính và tải phần mềm gì đó về để có thể kéo lại xuống ios 10.3.2 được. Cho e hỏi TGDĐ có thể giúp e đc k ạ??Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.70333,
+         "id": "1013280",
+         "field_search": "question",
+         "question": "mình sử dụng oppo neo3 bị mất biểu tượng danh bạ, nhật ký cuộc goi là, sao để hiện thị lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.668476,
+         "id": "998648",
+         "field_search": "question",
+         "question": "E xài điện thoại oppo f1s,  e muốn up lên android 6.0 cho e hỏi bên TGDĐ có làm giúp e được không ạ?? Và làm free hay tính phí ạ (nếu có thì phí bao nhiu)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.660624,
+         "id": "1117059",
+         "field_search": "question",
+         "question": "Chào TGDĐ .. cho e xin tư vấn về dòng máy nào tốt để mình dùng.. phục vụ cho sinh viên nhàng xây dựng ạ.. e đang phân vân.. k biết mua loại nào tốt và rẻ để cho e của e đi học ạ. Tầm 12tr trở lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.66002,
+         "id": "1145877",
+         "field_search": "question",
+         "question": "E chào ac ạAc cho e hỏi sao Oppo lại ko thể xem nổi youtube ạXóa đi, tải lại vẫn ko đc ạE xóa cả cabchate, reset lại máy xong cập nhật cũng ko dc ạ.Ac xem có cách nào giúp e ko ạE cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.637884,
+         "id": "1007818",
+         "field_search": "question",
+         "question": "Ah ơi cho em hỏi làm sao để kết nối điện thoại với máy tính khi điện thoại bị treo logo và không thể vào recovery được. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.625898,
+         "id": "1164819",
+         "field_search": "question",
+         "question": "Xin chào, cho e hỏi bên mình có hỗ trợ mua lại điện thoại củ không ạ, đt này lúc trước e mua bên tgdd luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.54855,
+         "id": "1166495",
+         "field_search": "question",
+         "question": "Ad cho e hỏi màn hình điện thoại oppo f5 của e bị mờ với chạy sọc màu là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.501997,
+         "id": "750287",
+         "field_search": "question",
+         "question": "Cho e hỏi ịp của e kiểu máy ghi là MD298J/A khi chụp ảnh camera vẫn phát ra âm thanh mặc dù e đã để thanh gạt ở chế độ im lặng rồi tắt âm các thứ.để khắc phục phải làm ntn ạ? e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.457535,
+         "id": "1144971",
+         "field_search": "question",
+         "question": "Chào ad, Em đang có ý định bán máy cũ để mua góp ViVo11i, thế em cần làm những gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.454014,
+         "id": "1019756",
+         "field_search": "question",
+         "question": "Cho e hỏi dt samsung j2prime nó cứ báo dung lượng sắp hết z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.424417,
+         "id": "1009181",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn bỏ biểu tượng KBs trên màng hình điện thoại APO A37 cần phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.376812,
+         "id": "1148482",
+         "field_search": "question",
+         "question": "Mình dùng ss J3 Pro, nhiều khi bộ sưu tập của mình lúc vào xem thì những tấm ảnh theo thứ tự thời gian không sắp xếp kế nhau, xuất hiện tấm này lại ở ngày này còn tấm kế nó lại ở ngày kia, nhìn rất khó chịu và lộn xộn! Có thể giúp mình cách khắc phục được không ạ? Mình xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.314795,
+         "id": "997589",
+         "field_search": "question",
+         "question": "xin chào. cho e hỏi, e cần tư vấn mua hàng trực tiếp thì phải làm sao ạcảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.30272,
+         "id": "777856",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng ios 9.2. Khi nhập pass để mở khóa đt thông thường thì các biểu tượng ứng dụng sẽ hiện ra theo kiểu từ ngoài zoom vào trong nhìn rất mượt, nhưng điện thoại của tôi lại không hiển thị vậy, nó hiện ra ngay làm cho có cảm giác màn hình bị giật, cho tôi hỏi lý do là tại phần mềm hay sao. cám ơn rất nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.269384,
+         "id": "1020796",
+         "field_search": "question",
+         "question": "cho e hỏi shop có bán pin điện thoại lenovo A6010 không ạ? e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.251047,
+         "id": "1023281",
+         "field_search": "question",
+         "question": "Cho mình hỏi samsung galaxy j1 của mình cứ khởi động lại máy hay tắt nguồn bật lại cứ bị biến mất những biểu tượng mà mình đưa ra màn hình, mình lại đưa một biểu tượng khác vào đúng chỗ của cái biểu tượng bị mất, sau đó khởi động lại máy thì thấy hiện tượng 2 cái biểu tượng đè chồng lên nhau. Cứ biến mất biểu tượng thế này mình khó chịu lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.241352,
+         "id": "816690",
+         "field_search": "question",
+         "question": " Biểu tượng pin iPhone chuyển sang màu đen là sao ạ? Xin anh chị giúp em! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.235317,
+         "id": "1140487",
+         "field_search": "question",
+         "question": "E xài oppo A3s e muốn hỏi làm sao để chỉnh độ sáng màn hình lâu , nó chỉ sáng 15s mỗi lần e đều chỉnh 1' nhưng khi màn hình tắt thì cài đặt trở về 15s có cách nào chỉnh mặc định kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.21238,
+         "id": "805715",
+         "field_search": "question",
+         "question": "ChoCho e hỏi e xái lap top asus 540l . khi e tắt máy thi máy của e bi như vậy la sao ạ . xin chi e cach khắc phuc ạ e xin cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.200512,
+         "id": "1158159",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm biểu tượng hình tam giác này là gì và làm sao để tắt đi? Mình dùng s10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.17355,
+         "id": "1150365",
+         "field_search": "question",
+         "question": "Chào anh chịLaptop của e đang dùng win10,hôm qua e đang kết nối wifi và xem youtube bình thường thì đột nhiên bị ngắt kết nối, em kiểm tra lại thì thấy không còn biểu tượng wifi nữaĐây là lỗi gì và khắc phục như thế nào ạ Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.161432,
+         "id": "1156225",
+         "field_search": "question",
+         "question": "cho em hỏi sao máy oppo a3s e ms tải môi game bupg chơi mak sao máy đơ z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.13715,
+         "id": "904419",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi chút. e quên mất ID của icloud trên iphone 5s giờ không kích hoạt được điện thoại thì phải làm sao ạ? xin các anh chị chỉ giúp cho. em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.069868,
+         "id": "1010712",
+         "field_search": "question",
+         "question": "Mình dùng đt sony. Khi thực hiện cuộc gọi máy xuất hiện biểu tượng không làm phiền như hình. Cho hỏi làm sao để tắt với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.056194,
+         "id": "1022616",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi điện thoại của em sao biểu tượng to vá rồi mình khắc phục làm sao chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.037508,
+         "id": "849772",
+         "field_search": "question",
+         "question": "Chào QTV! Cho tôi xin hỏi là cấu hình của máy tôi như thế này đủ điều kiện để chạy windows 10 32bit không ạ!xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}
