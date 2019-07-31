@@ -1,0 +1,801 @@
+{
+   "id_query": "1139122",
+   "total": 30882,
+   "total_current": 100,
+   "max_score": 84.50496,
+   "origin_question": "anh ơi , e dung điện thoại xiaomi redmi not 3, sau khi khởi động lại thì phần wifi của e bị đứng. bấm vào không phản ứng gì",
+   "hits": [
+      {
+         "score": 29.43952,
+         "id": "1020168",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi con wiko lenny 2 của e vào phần đặt lại điện thoại trên máy thì nó tắt nguồn và khởi động lại máy và vào phần recovery để factory reset cũng ko đc lun là nó bị j z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.689253,
+         "id": "1164957",
+         "field_search": "question",
+         "question": "Cho e hoi tại sao điện thoại xiaomi redmi not 5 của e dạo nay cứ tắt màn hình liên tục vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.679419,
+         "id": "1020443",
+         "field_search": "question",
+         "question": "Anh ơi điện thoại PhiLips của em vào khởi động lại nó hiện dùng chữ com.android.settings thì phãi làm sao đễ khởi động lại máy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.108372,
+         "id": "1168649",
+         "field_search": "question",
+         "question": "E ơi a là Khải 0983509138:A mới mua điện thoại xiaomi redmi 7, giờ a muốn tắt nguồn hoặc khởi động lại vẫn không được, a ấn nguồn thì nó lại hiện \"Trợ lý\". Vậy e hướng dẫn cho a cách thoát trợ lý, có gì cho nhân viên kỹ thuật gọi cho a nhé. Anh cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.110285,
+         "id": "1157246",
+         "field_search": "question",
+         "question": "Anh ơi cho e hỏi điện thoại iphone 7 plus của e khi sử dụng nhiều hay bị đơ cảm ứng nhấn k vô r nút trợ năng trên màn hình cũng đơ đứng theo. Hay bị liệt cảm ứng phía trái màn hình là bị gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.098354,
+         "id": "1144482",
+         "field_search": "question",
+         "question": "e đang sài sony xa.  Đang onl fb thì đt e báo fb đứng, rồi màn hình bị dừng nên e tắt nguồn khởi động lại máy. lúc đang khởi động lại đến chữ XPERIA thì n đứng luôn. Không tắt k lm gì được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.71444,
+         "id": "1024338",
+         "field_search": "question",
+         "question": "E đang dùng điện thoại oppo a57. Cứ mỗi lần e cắm xạc pin vào máy là máy tự khởi động lại. E nghĩ là tại nguồn điện nhưng e đổi chỗ cắm điện thì cứ cắm xạc vào máy là máy lại tuwj khởi động lại. Máy e bị gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.56686,
+         "id": "1005993",
+         "field_search": "question",
+         "question": "Em đang sử dụng điện thoại samsung galaxy note4 cách đây ko lâu đt bị vào nước sau khi sấy khô sử dụng đc vài bữa thì nó bị đơ hay đứng máy và tự khởi động lại cho e hỏi giờ phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.562063,
+         "id": "842261",
+         "field_search": "question",
+         "question": "iPhone 3 của e bị em quậy, giờ nó không thể vuốt được cũng Ko phải bị đứng bấm vào biểu tuong thì xuất hiện ô vuông , nhap 2 lan mới vô, khắc phục sau ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.436722,
+         "id": "1022586",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi là con iphone 5 của e tự dưng bị khởi động lại mà không vào màn hình chính đc. cứ khởi động tới táo rồi tắt rồi khởi động lại liên tục như vậy ạ. pin của điện thoại e cũng đang bị chai nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.427147,
+         "id": "905370",
+         "field_search": "question",
+         "question": "Laptop của e khi cập nhật lại Windows 10 thì wifi đang sử dụng thì tự động ngắt phải khởi động lại máy mới vào wifi lại được là sao a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.321777,
+         "id": "1136438",
+         "field_search": "question",
+         "question": "Cho e hỏi: máy điện thoại Nokia 5 của e sau khi tắt nguồn và khởi động lại thì điện thoại yêu cầu mã Pin. Mà e không biết mã Pin. Vậy cho e xin cách khắc phục ạ.E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.225302,
+         "id": "1148022",
+         "field_search": "question",
+         "question": "Sao con xiaomi redmi a2 lite của e phát wifi ko điện thoại nào bắt được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.81659,
+         "id": "1144888",
+         "field_search": "question",
+         "question": " Cho e hỏi e đang xài ip7 plus.e có chụp chân dung hiệu ứng chiều sâu, chụp xong vẫn là là ảnh chân dung nhưng sau vài giờ lại thành ảnh thường không có hiệu ứng chiều sâu. Cho e v đt e có vấn đề gì không ạ? Khởi động lại máy vẫn còn bị ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.589787,
+         "id": "1006202",
+         "field_search": "question",
+         "question": "cho em hỏi hiện tại em đang dùng đt sam sung A7(2017), sau khi bấm cập nhật phần mềm máy e tắt và bắt đầu khởi động lại, nhưng khi màn hình hiển thị chữ samsung là nó bị đứng máy luôn, em thử tắt bằng cách bấm đồng thời nút nguồn và nút giảm âm lượng thì máy có tắt nhưng lại khởi động lại ngay lập tức và trở về trạng thái chữ samsung tiếp, cho em hỏi máy em đang bị lỗi gì và cách khắc phục, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.391018,
+         "id": "1136725",
+         "field_search": "question",
+         "question": " Ad ơi s điện thoại của e . E vào ứng dụng cài đặt r e bấm vào hiển thị và giao tiếp bằng cử chỉ cái nó để là   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.320143,
+         "id": "1150704",
+         "field_search": "question",
+         "question": "Cho e hỏi là e không dùng điện thoại 3 tháng , sam sung j7 grime . Xong 3 tháng sau e sữ dụng lại thì điện thoại có bị sụp nguồn hay khóa sim hay gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.295969,
+         "id": "1161362",
+         "field_search": "question",
+         "question": "ad ơi mình nên mua realme 3 hay xiaomi redmi note 7 vậy ,mong phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.907118,
+         "id": "1023576",
+         "field_search": "question",
+         "question": "Tại sao khi điện thoại của tôi tự nhiên khởi động lại , đôi lúc chơi game tự động thoát ra . Tôi đã thử reset lại nhưng vẫn không được . Tôi thử tháo sim và chơi game thì máy không bị đứng và thoát ra nữa . Vậy điện thoại tôi bị hư gì vậy là do sim hay do máy . Tôi xài asus zenfone 3 max 5.5 mới mua ở thế giới di động thủ đức .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.640196,
+         "id": "1142965",
+         "field_search": "question",
+         "question": "Xiaomi redmi not5a prime sau khi cập nhật phần mềm sạc pin không vào là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.500256,
+         "id": "1011305",
+         "field_search": "question",
+         "question": "TGDD cho e hỏi điện thoại xiaomi redmi note 4 khi sạc pin đầy 100% nó có tự động ngắt k ạ? Và loại pin của nó là pin gì ạ?Điện thoại xiaomi redmi note 4 của e khi đầy 100% pin thì biểu tượng dấu sét khi cấm sạc trên viên pin vẫn hiện mà nó không mất đi như 1 số dòng máy khác. Có phải là pin vẫn tiếp tục được nạp không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.497879,
+         "id": "999944",
+         "field_search": "question",
+         "question": "thiết bị nhớ của e k biét tại sao sau khi e rút ra khỏi máy tính xong lắp lại máy tính thông báo phả format thẻ nhớ. e bấm vào format thì lại hiện thông báo thẻ nhớ được bảo vệ. hiện tại e lắp vào điện thoại thì k nhận thẻ. e phải làm thế nào ạ. mong anh chị giúp đỡ e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.419859,
+         "id": "1133859",
+         "field_search": "question",
+         "question": "Điện thoại của em là samsung j3 đang chơi liên quân thì nó bị khởi động lại rồi sau đó em vào cài đặt resert lại điện thoại nhưng chơi được mấy ngày thì nó trở lại như cũ mong anh chị giúp em tìm giải pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.410292,
+         "id": "837727",
+         "field_search": "question",
+         "question": " Vì Samsung galaxy tab A6 lại hay bị không hoạt động hoặc không phản ứng và phải khởi động lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.358326,
+         "id": "1137479",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện tại e đang xài điện thoại xiaomi a2 lite. Ở phần dưới của điện thoại có 2 dãy loa. Khi xài thì chỉ có dãy loa hoạt động. Không biết dãy còn lại bị sao hay là do vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.335548,
+         "id": "1160325",
+         "field_search": "question",
+         "question": "Anh Ơi em phân vân quá! Em muốn mua 1 chiếc máy mà khó quá! Anh giúp em với!1, Xiaomi Redmi Note 4x2, Xiaomi Redmi 53,Xiaomi Redmi note 44,Xiaomi Mi 55,Xiaomi Redmi 5A6,Xiaomi Redmi 3 ProNhu cầu của em là Pin trâu Và chơi Pubg Mobile ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.260973,
+         "id": "1160381",
+         "field_search": "question",
+         "question": "Anh Ơi em phân vân quá! Em muốn mua 1 chiếc máy mà khó quá! Anh giúp em với!                1, Xiaomi Redmi Note 4x                     2, Xiaomi Redmi 5                     3,Xiaomi Redmi note 4                      4,Xiaomi Mi 5                              5,Xiaomi Redmi 5A                               6,Xiaomi Redmi Note 3 Pro                                     Nhu cầu của em là Pin trâu Và chơi Pubg Mobile ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.254393,
+         "id": "1001603",
+         "field_search": "question",
+         "question": "Máy Nokia 3 anh mới mua, không biết tại sao dung facebook và zalo rất chậm, có khi đứng luôn. tình trạng wifi thì manh bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.253204,
+         "id": "993616",
+         "field_search": "question",
+         "question": "Điện thoại ip5s của e tắt nguồn thì sạc pin được còn khi khởi động máy lên lại k vào pin có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.235271,
+         "id": "788803",
+         "field_search": "question",
+         "question": "Anh chị ơi. máy của em sau khi khôi phục cài đặt ok. khi khởi động lên nó tự cập nhật phần mềm mới lên 9.2.1 ( ban đầu là 9.2) như vậy có ảnh hưởng gì ko?.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.192564,
+         "id": "1160330",
+         "field_search": "question",
+         "question": "Anh Ơi em phân vân quá! Em muốn mua 1 chiếc máy mà khó quá! Anh giúp em với!        1, Xiaomi Redmi Note 4x           2, Xiaomi Redmi 5      3,Xiaomi Redmi note 4     4,Xiaomi Mi 5           5,Xiaomi Redmi 5A              6,Xiaomi Redmi 3 Pro          Nhu cầu của em là Pin trâu Và chơi Pubg Mobile ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.162245,
+         "id": "1138034",
+         "field_search": "question",
+         "question": "máy mình hôm nay khi khởi động lại thì bị đứng ở chỗ load luôn  . không biết là do lỗi gì . red mi note 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.089294,
+         "id": "1139541",
+         "field_search": "question",
+         "question": "điện thoại j7 prime của e bị mất bàn phím, e đã tắt máy khởi động lại cũng k dc, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.88651,
+         "id": "1160663",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 8plus của e sạc tới 80% thì lại ko lên pin nữa, e khởi động lại thì lên 82% nhưng cắm sạc tiếp lại ko lên pin nữa. E rất hoang mang ko biết điện thoại có bị gì ko ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.675024,
+         "id": "1019053",
+         "field_search": "question",
+         "question": "Mình dùng xiaomi redmi note4 sau khi cập nhật lên android 7.0 và miui8.5 máy mình bị lỗi vào wifi k tự động bắt, phải vào cài đặt đợi 1 lúc mới tìm đc wifi và chạm vào thì mới kết nối đc, thêm cái ứng dụng fb rất hay bị dừng( k bị out nhưng đơ và phải đợi 1 lúc).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.639492,
+         "id": "1008518",
+         "field_search": "question",
+         "question": "Anh cho em hỏi: Điện thoại của em mỗi lần chạy app hơi lâu, rồi máy em bị giật hoặc đứng máy, em cho khởi động lại máy thì khi em vào lại ứng dụng đó đã bị mất, mỗi lần như vậy em phải cài lại. Còn app nào có file obb thì file obb biến thành 0B ạ. Đôi khi nhạc cũng bị mất, file nhạc còn 32kb hoặc 0B ạ. Giúp em với. Điện thoại em là Lenovo a369i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.576885,
+         "id": "786993",
+         "field_search": "question",
+         "question": "Iphone 4s của mình bị rơi, lỗi wifi, nguồn kém, thỉnh thoảng không nhận sim. Khi cài đặt lại máy khởi động lại đến phần lựa chọn vùng quốc gia thì không vào đc hỏi cách sửa thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.45156,
+         "id": "1002316",
+         "field_search": "question",
+         "question": "iphone 7 e mới mua 2 tháng nhưng sao lại bị đứng màn hình không khởi động được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.339483,
+         "id": "1144114",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại Huawei nova 3i tự động mất hình nền mất hết ứng dụng, hiện màn hình như mới khôi phục dữ liệu. Tắt nguồn khởi động lại thì trở lại bình thường.Vậy là bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.10656,
+         "id": "1020244",
+         "field_search": "question",
+         "question": "anh ơi , sau điện thoại của em 1-2 tuần lại không vào được youtube hay google ạ, em xóa ứng dụng rồi tải về vẫn không vào dc. em cài đặt lai thì dùng được 1 hay tuần lại bị lại .. em đang dùng iphone 6s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.060715,
+         "id": "1136459",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại j7+ mà wifi vứ bị tắt liên tục khi cập nhật ứng dụng m thử khởi động lại luôn rồi mà vẫn không được ạ mong mọi người chỉ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.017426,
+         "id": "1009009",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi e sử dung oppo f1 trong phần trung tâm bảo mật lúc quét nhanh máy e lỡ tay nhấn vào phần mở chế độ dữ liệu di động sau 2 giây tắt máy sẽ bị tắt dữ liệu di động bây giờ e muốn xoá cái chế độ này thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.01597,
+         "id": "867435",
+         "field_search": "question",
+         "question": "Anh ơi em jb 9.3 xong khởi động nguồn lại vô Cydia bị văng ra em đọc trên mạng thì khởi động nguồn lại sẽ mất jb nhưng vẫn còn icon Cydia em định sẽ đặt nội dung và cài đặt vậy có bị treo táo không anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.004694,
+         "id": "1142277",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop của e khi khởi động lên nó tự động vào Www2.savemax.store sau đó ní tắt máy luôn. Cho e hỏi khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.986906,
+         "id": "1143680",
+         "field_search": "question",
+         "question": "cho e hỏi màn hình điện thoại itel 1508 plus cứ để android đang khởi động đang tối ưu hóa ứng dụng là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.980335,
+         "id": "915147",
+         "field_search": "question",
+         "question": "- thegioididong giúp e với- e tò mò đi phần vùng thẻ nhớ trên PC bằng phần mềm miniTool Parition Wizard- thành công xong máy PC của e k nhận thẻ nhớ nữa e xóa thẻ SD bằng điện thoại bằng cách vô cài đặt dung lượng xóa thẻ SD và mất phân vùng rồi mà máy tính vẫn k nhận còn cắm vào điện thoại thì vẫn nhận cắm dây cáp từ điện thoại vào PC thì thẻ SD nó mất luôn phải khởi động lại mới nhận lại dc thẻ SD mong thegioididong giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.956139,
+         "id": "757049",
+         "field_search": "question",
+         "question": "iPhone 6 Plus của mình khi cắm sạc or tai nghe vào. Sau đó vào phần điện thoại để gọi và thao tác thì bị treo. Mình restart lại thì ok.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.883848,
+         "id": "799916",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 6 16GB của e mới tải có 3 ứng dụng à sao nó cứ báo dung lượng sắp đầy , rồi vào ứng dụng không được cứ bị dăng ra ngoài , rồi bị đứng máy nữa , có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.882542,
+         "id": "832841",
+         "field_search": "question",
+         "question": "Cho E Hỏi Iphone 4 Của E Lỡ Bấm Nhầm Cái Gì Đó :( Nó Bị Đen Màn Hình Nhấn Vào Thì Nó Tiếng Anh Em Chẳng Hiểu Ai Giup E Với :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.855568,
+         "id": "1023591",
+         "field_search": "question",
+         "question": "cho em hỏi là sau khi em tải bản cập nhật iso 11 về hoàn thành thì e vào zalo gọi không được. em thử tắt máy khởi động lại cũng không được. và khi có ai gọi đến thì nghe chuông nhưng không thấy nút bấm trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.823357,
+         "id": "1019076",
+         "field_search": "question",
+         "question": "Khi nãy e mới gởi điện thoại để gởi lên hãng ( cỡ 7h ngày 3/9/2017). Máy bị khởi động treo logo, em quên hỏi giá bao nhiêu. Nếu mắc quá, e hồi lại được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.748058,
+         "id": "1011423",
+         "field_search": "question",
+         "question": "Điện thoại A5 2016 bị khởi động lại thất thường.Em dùng điện thoại được hơn nửa năm, gần đây khi kết nối wifi lên mạng hoặc thao tác với điện thoại nhiều thì máy thường tắt nguồn khởi động lại. Có khi đang gọi điện máy cũng tự động khởi động lại. Cho em hỏi có phải lỗi do phần mềm hay virus và cách khắc phục. Em cảm ơn ạ. (Em đã mang máy ra TGDĐ　để được tư vấn và đã được nhân viên hỗ trợ nâng cấp phần mềm nhưng không hiệu quả)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.730692,
+         "id": "752310",
+         "field_search": "question",
+         "question": "Có ai giúp e vs. Con iPhone 4 của em tự dưng bị khởi động lại khi e cắm nhầm dây av nghe nhạc loa vi tính. Khi khởi động lại thì máy bị nghe rè và nhỏ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.712002,
+         "id": "1137790",
+         "field_search": "question",
+         "question": "XIAOMI REDMI NOTE 4 e mua 3-5-2018 đến h 12-12-2018 thì điện thoại e bị đen màn hình và mở nguồn k lên vậy giờ e gửi tgdđ sửa nguồn có được giảm % không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.685495,
+         "id": "997185",
+         "field_search": "question",
+         "question": "Điện thoại j5 (2016) của e thường xuyên bị hiện quảng cáo, có nhiều lúc hiện trắng màn hình ko bấm trở về được, ko tắt nguồn đc phải tháo pin ra và khởi động lại, cho e hỏi như vậy là bị gì và TGDĐ có bảo hành vs máy bị như vậy ko ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.603327,
+         "id": "761434",
+         "field_search": "question",
+         "question": "Laptop của em lâu lâu hay bị lỗi not responding, có khi bị khi mới khởi động máy, có khi đang xài bình thường thì bị, cho hỏi máy em bị lỗi gì, làm sao để khắc phục, xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.519972,
+         "id": "956947",
+         "field_search": "question",
+         "question": "Sao e xoá đa nhiệ liê tục mà sao khi vào fb hay mess là nó lag kinh khủng vậy , wifi nhà e 3 vạch nhé . Nó còn báo lỗi ứng dụng ko phản hồi liên tục nưa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.431015,
+         "id": "997665",
+         "field_search": "question",
+         "question": "Chào ad, Cho em sử dụng điện thoại Grand Prime G531, Androi 5.1.1, điện thoại báo cập nhật phần mềm, em đã vào cập nhật rồi khi máy khởi động lại khoảng 3 phút sau lại báo cập nhật nữa và hiện tại em đã cập nhật 3 lần rồi nhưng vẫn báo cập nhập. Vậy em phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.363712,
+         "id": "1140317",
+         "field_search": "question",
+         "question": "Cho e hỏi sao B612 của e lại bị chuyển sang chế độ chụp chân dung ạ, em đã thử tắt nguồn khởi động lại ko đc, cũng thử xóa phần mềm và tải lại cũng ko đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.334902,
+         "id": "1001926",
+         "field_search": "question",
+         "question": "ad ơi em dùng Samsung Mini  GT S5360 . Máy em rút sạc ra rồi mà nó vẫn tự sạc. Sau đó em lên mạng tìm cách khắc phục ấn vào RIÊNG TƯ->ĐẶT LẠI DỮ LIỆU CỦA NHÀ SX-> kHỞI ĐỘNG LẠI ĐIỆN THOẠI. Nhưng mà sau đó khởi động lại nó không tải đc các ứng dụng facebook, mess,... nữa và máy vẫn tự sạc. Sau đó sdung wifi đc vài ngày hôm nay nó lại k kết nối đc. Ad có thể chỉ em cách phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.333828,
+         "id": "1153490",
+         "field_search": "question",
+         "question": "Hi page. Em mua điện thoại xiaomi redmi 4a bên thế giới di động. Mọi khi vào vào youtube, Facebook xem các video thì không vấn đề gì nhưng đến hôm nay thì em không thể xem được video trên cả 2 ứng dụng kể cả wifi căng đét. Em đã thử xoá và cài lại hai ứng dụng nhưng mở lại vẫn bị ạ. Em mong page cho em xin cách khắc phục ạ. Mong page trả lời càng sớm càng tốt ạ. Em cảm ơn page ♥️♥️♥️",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.28638,
+         "id": "813185",
+         "field_search": "question",
+         "question": "cho em hỏi e có con ip6 plus đang xài bình thường. tự nhiên chế độ bật wifi bị mờ ko bật được. e thử tắt nguồn khởi động lại thì bị treo táo, nhưng cắm xạch lại lên. rút xạc ra một lúc lại tắt nguồn.được đâu khoảng một ngày thì treo táo luôn. không nhận itunes luôn. nó cử treo một lúc lại khởi động lại và vẫn treo táocho e hỏi nó bị lỗi gì được ko anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.28507,
+         "id": "1022598",
+         "field_search": "question",
+         "question": "Điện thoại của mình vừa chạy lại chương trình ngoài tiệm điện thoại. Họ nói chạy không được. Nhưng mình thấy sau khi làm xong mở nguồn  thì vào được tới mục chọn ngôn ngữ máy thì đứng. Không biết có phải do màn hình cảm ứng không nhạy hay không. Nhưng lúc chưa chạy chương trình thì vẫn nhạy. Bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.282541,
+         "id": "1000430",
+         "field_search": "question",
+         "question": "E đang sử dụng điện thoại Samsung j2 prime. Máy đang sử dụng wifi thì bị đơ mạng, khi vào các ứng dụng thì thông báo \" không có kết nối\". Tắt wifi máy đi bật lại thì sử dụng được 1 lúc thì lại gặp tình trạng như vậy. E mog các ac tư vấn giúp e về tinhd trạng này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.278088,
+         "id": "654921",
+         "field_search": "question",
+         "question": "Lỗi máy tự khởi động lại khi chơi game và màn hình có biểu hiện giật rồi khởi động lại hoặc đứng máy .mất ứng dụng chụp ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.259497,
+         "id": "1159030",
+         "field_search": "question",
+         "question": "Mấy chuyên gia cho e hỏi điện thoại của e tối hôm trước còn dùng được, đến sáng hôm sau thì bật lên nó lại bị đen hết màn hình ý nhưng màn hình vẫn sáng. Lúc khởi động lại thì thỉnh thoảng nó lại hiện lên chập chờn chữ vivo ..gì gì đó, xong lại đen hết màn hình. Mong các cao nhân tư vấn giúp e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.180744,
+         "id": "919235",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao cái Iphone 5 của em mỗi lần vào camera trước chạm hơi mạnh vào màn hình là bị đứng máy, Có khi khởi động lại thì màu đen hoàn toàn dù để 2-3p vẫn không có hiện cammera lên, Em đã Reset, Khởi động lại mọi thứ vẫn không được, Thế máy em bị lỗi phần mềm à ?. Sửa khoảng bao nhiêu vậy ? Phiên bản hiện tại IP5 của em là 10.1.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.16567,
+         "id": "1165148",
+         "field_search": "question",
+         "question": "Cho e hỏi sao điện thoại e đang sử dụng ở những ứng dụng khác thì Youtube của đt cứ tự động xuất hiện và chạy. Đôi khi vào xem Youtube thì Youtube lại tự động tắt và thoát ra khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.164047,
+         "id": "1002023",
+         "field_search": "question",
+         "question": "e đang xài zenfone go, sau khi cập nhật hệ thống thì máy cứ khởi động lại đến khi thấy logo asus thì lại tắt và khởi động lại mãi như vậy là bị j và làm sao khắc phục vậy mấy ac ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.045418,
+         "id": "1142074",
+         "field_search": "question",
+         "question": "Mình đang xài samsung j7 prime. Điện thoại bị đơ mình khởi động lại máy. Sau khi khởi động bàn phím điện thoại mình không đánh chữ được nửa nhưng sticker trong zalo thì vẫn gửi được. Xin trợ giúp dùm cho mình ạ. Cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.031384,
+         "id": "907418",
+         "field_search": "question",
+         "question": "Anh chị ơi giúp e với. E cài win xong tự dưng cái laptop của e bị lỗi, e ko rành về máy tính lắm nên e ko biết cách sửa. Tình hình là khi khởi động không vào thẳng win mà hiển thị cái bảng này . Phải nhấn esc mới vào win đc. Có thể giúp e sửa lỗi ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.008852,
+         "id": "1011273",
+         "field_search": "question",
+         "question": "cho mình hỏi, điện thoại của mình( oppo f1)  mua tại tgdđ đã hết thời gian bảo hành. Máy mình bị đứng, sau đó đen màn hình và tự khởi động lại. Bên tgdđ có kiểm tra giúp mình được không ? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.97921,
+         "id": "1018449",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao 2 ứng dụng màu trắng đó k có trên màn hình chính mà khi e vào chỗ phần dung lượng này để xoá nhưng 1 lúc sau nó lại hiện lên.Ai giúp e xoá nó vs please😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.960703,
+         "id": "1158962",
+         "field_search": "question",
+         "question": "Laptop của mình không thể mở được video, khi bấm vào video thì máy báo Package could not be registered",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.938126,
+         "id": "1156921",
+         "field_search": "question",
+         "question": "Mình có chiếc Xiaomi redmi 5 plus mà tải ứng dụng nó không xuất hiện trên màn hình mà phải khởi động lại mới có vậy thì máy bị làm sao và cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.926981,
+         "id": "823236",
+         "field_search": "question",
+         "question": " bqt cho e hỏi iphone của e cứ bị xanh màn hình rồi khởi động lại .như vậy là bị lỗi gì ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.926538,
+         "id": "1168074",
+         "field_search": "question",
+         "question": "Em muốn mua cái xiaomi redmi not 7 nhưng bây giờ em chưa đủ tiền em muốn đặt điện thoại này để mai chiều em tới em mua cho dễ thì phải làm sao anh ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.906124,
+         "id": "996409",
+         "field_search": "question",
+         "question": "E dùng sky a900, bây giờ dth của e liên tục ứng dụng không phản hồi kèm theo là bị đơ khi ấn vào các ứng dụng đó, ấn nút home thì nó lại quay về bình thường mặc dù e đã cập nhật lại, xóa các app không cần thiết, xong reset lại máy mà nó vẫn bị như thế Mấy cái khác thì chỉ vào dc 1 lúc \r\nCứu e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.897984,
+         "id": "1005486",
+         "field_search": "question",
+         "question": "Điện thoại của em đang dùng thì máy báo Hệ thống đã dừng lại nên em tắt nguồn rồi khởi động lại. Nhưng khi khởi động thì máy đứng yên ở chữ ASUS đang chạy chứ không load tiếp, em phải làm sao ạ? Em hiện đang sử dụng zenfone c ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.887106,
+         "id": "1013155",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi là. Sao e gõ nhẹ phần camera vào tay thì chổ camera có vật gì ở trong kêu ấy anh ip6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.874119,
+         "id": "1166439",
+         "field_search": "question",
+         "question": "sao mình cài đặt lại máy xiaomi redmi note 5 thì tới phần chọn quốc gia mình bấm chọn việt nam là máy lại bị reset ra ngoài vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.83085,
+         "id": "1145638",
+         "field_search": "question",
+         "question": "Máy mình xiaomi redmi4a có cài chức năng chạm 2 lầm để mở màn hình nhưng sao khi cài tắt nguồn và thử cham 2 lần thì điện thoại đột nhiên khởi động lại sau khi mìh chạm 2 lần vào máy?  Là như  nào v ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.779045,
+         "id": "1156877",
+         "field_search": "question",
+         "question": "Mình có chiếc Xiaomi redmi 5 plus mà tải ứng dụng nó không xuất hiện trên màn hình mà phải khởi động lại mới có vậy thì máy bị làm sao và cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.7675,
+         "id": "1017086",
+         "field_search": "question",
+         "question": "Em dùng xiaomi redmi 4x Hôm trước hình như em có bấm nhầm vào đồng bộ gì đó nên bị mất 1 vài cái ảnh Em muốn lấy lại thì làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.740833,
+         "id": "1148076",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang xài oppo neo 7 lúc trước không bị nhưng dạo gần đây khi cắm tai nghe vào điện thoại thì nó bị lỗi cảm ứng dù k động j vào điện thoại không biết có cách nào sữa chữa k mong tgdd tl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.706516,
+         "id": "1006222",
+         "field_search": "question",
+         "question": "Vào youtube thi xảy ra lỗi, khi tắt máy khởi động lại thi khoảng vài tiếng bị lỗi lại... ad cho e hỏi la máy bị gì vậy. Sony xa ultra.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.682026,
+         "id": "1139199",
+         "field_search": "question",
+         "question": "Chạo anh chị ạ... hiện tại em đang sử dụng samsung galaxy a7... em mới mua khoảng 1 tháng ạ... trong thời gian sử dụng gần đây máy có hiện tượng giật lag đứng máy và tự động khởi động lại điện thoại, và có trường hợp màn hình vẫn sáng nhưng vào các ứng dụng rất lâu ạ...từ bắt đầu sữ dụng sản phẩm đến nay đã có 2 bản cập nhập hệ thống. Sau mỗi lần cập nhật xong thì máy bị lag và khởi động lại điện thoại...anh chị có thể giải thích giúp em hiện tượng nàu với ạ... có ảnh hưởng dì đến điện thoại không ạ. Em xin cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.672699,
+         "id": "822708",
+         "field_search": "question",
+         "question": "s lumia của e vào facebook k đc ạ?? nó ghi k thể kết nối dữ liệu, mà trong khi đó e xài wifi, messenger củg k đc lun! e thử khởi động lại mk củg k đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.617062,
+         "id": "809957",
+         "field_search": "question",
+         "question": "chào ad. e mới mua laptop dell insprion 3552, dùng khoảng đc 3 tuần, mấy hôm nay khi dùng wifi thì biểu tượng wifi có dấu x màu đỏ có chữ not connected- no connection are available và nó ko hiện bất kỳ 1 địa chỉ wifi nào luôn, e restart máy thì lại dùng đc mạng khoảng 30 phút thì lại bị dấu x màu đỏ. ad giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.58734,
+         "id": "1144096",
+         "field_search": "question",
+         "question": "Chao ac ..e su dung Điện thoại iPhone 6s plus..luc moi mua ve ket noi WiFi Rat tot..nhung tu khi e tat nguon cat may khoang 1tuan sau..thi k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.561962,
+         "id": "993766",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao điện thoại của e lại không có Siri trong phần cài đặt vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.557785,
+         "id": "942878",
+         "field_search": "question",
+         "question": "Ad cho e hỏi xíu nhé; ip4s của e mỗi lần có cuộc gọi đến thì màn hình lại hiện chữ này, chọn vào nội dung thì không có tác dụng, chỉ có khởi động lại máy thôi. Cảm ơn ad nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.51299,
+         "id": "921573",
+         "field_search": "question",
+         "question": " Ad ơi tại sao sau khi khởi động lmhtnos lại hiện ra dòng này vậy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.500887,
+         "id": "1159074",
+         "field_search": "question",
+         "question": "Điện thoại mình là a7 2018, nhưng dạo này khi tắt điện thoại thì một lát sau nó lại tự hiện lên màn hình chờ của mình lúc này phải bấm thoát ra thì nó mới trở về màn hình khóa còn không bấm thoát thì một lát sau nó sẽ tự trở về màn hình khóa. Đt của mình đang bị gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.477392,
+         "id": "869301",
+         "field_search": "question",
+         "question": "E vừa đi cài win về, laptop e chạy vẫn khá tốt, nhưng khi e cắm thử  vào và rút ra thì phần cảm ứng của máy e không điều khiển được nhưng khi cắm chuột vào lại thì vẫn sử dụng được, bàn phím e cũng không thao tác nhanh như trước. A/c cho e hỏi đấy là lỗi gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.441664,
+         "id": "1166325",
+         "field_search": "question",
+         "question": "Mình đang dùng galaxy a5, sau khi cập nhật phần mềm thì máy khởi động lại liên tục. Cho mình hỏi máy bị lỗi gì và cách khắc phục như thế nào ạ?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.434906,
+         "id": "1009532",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang sử dụng galaxy s7 edge mà khi bấm nút nguồn màn hình k khóa liền mà phải tới khoảng 1 phút sau mới khóa, còn khi nghe điện thoại thì màn hình sau khi tối không tự động sáng lại trong khi đã bật cảm biến rồi thì xử lý sao ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.416922,
+         "id": "1159971",
+         "field_search": "question",
+         "question": "ad ơi xiaomi redmi note 7 có chống nước ko vậy? mong phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.409454,
+         "id": "1135659",
+         "field_search": "question",
+         "question": "Shop ơi, cho em hỏi là nếu thay cảm ứng của Asus Zenfone 3 Max giá bao nhiêu ạ? Điện thoại em tự nhiên bị cảm ứng không ăn thì phí như thế nào ạ? Không rớt gì luôn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

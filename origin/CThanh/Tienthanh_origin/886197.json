@@ -1,0 +1,801 @@
+{
+   "id_query": "886197",
+   "total": 29181,
+   "total_current": 100,
+   "max_score": 56.99686,
+   "origin_question": " Tại sao camera không cho hiển thị cuộc gọi video với messenger hay viber? ",
+   "hits": [
+      {
+         "score": 26.489008,
+         "id": "876525",
+         "field_search": "question",
+         "question": "Tại mục quản lý quyền ứng dụng, phải chọn ở tính năng \"ghi âm hoặc ghi âm cuộc gọi\" với viber và messenger, nếu không khi gọi bằng viber hoặc messenger thì người nghe không nghe được mình nói gì. Như vậy cuộc gọi của mình có bảo mật không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.156921,
+         "id": "1165127",
+         "field_search": "question",
+         "question": "Cài hiển thị log cuộc gọi cho a7 2018 thế nào...........................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.432964,
+         "id": "760245",
+         "field_search": "question",
+         "question": " Tại sao khi chat video trên viber trên laptop, camera lại không tự mở lên? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.36533,
+         "id": "1135777",
+         "field_search": "question",
+         "question": " Cho em hỏi 2 máy Oppo dùng chung Ocloud thì có hiển thị được cuộc gọi hay tin nhắn gửi chung không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.051281,
+         "id": "1163804",
+         "field_search": "question",
+         "question": "Mình dùng Samsung S8 Plus.  Mặc dù đã lưu tên trong danh bạ nhưng khi gọi đến không hiển thị tên người gọi.  Tuy nhiên,  trong list cuộc gọi đến/đi lại hiển thị tên sau khi cuộc gọi kết thúc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.96645,
+         "id": "937281",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 5 và ipad cùng chung 1 accounds , mỗi lần mình nhắn tin hay gọi điện thoại trên iphone nó đều hiển thị trên ipad . Mình muốn chặn tin nhắn hay cuộc gọi hiển thị trên ipad thì làm thế nào ad giúp mình với . Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.94901,
+         "id": "1007278",
+         "field_search": "question",
+         "question": "Tại sao khi em tăng âm lượng lên thì âm thanh không to lên mà trên màng hình lại hiển thị âm thanh cuộc gọi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.532333,
+         "id": "1141487",
+         "field_search": "question",
+         "question": "Các anh chị giúp em với ạ. Điện thoại j6 plus của e khi đang nghe cuộc gọi bình thường, thì người khác gọi điện qua messenger không báo gì hết ạ? Với khi đang nói chuyện messenger thì có cuộc gọi bình thường đến, mình nghe hay không thì cuộc gọi messenger lại không nghe được bên kia nói gì? Mong anh chị giúp em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.220165,
+         "id": "769941",
+         "field_search": "question",
+         "question": " Tại sao mình thấy viber chặn cuộc gọi mà tin nhắn vẫn gọi được để đã chuyển? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.784733,
+         "id": "781636",
+         "field_search": "question",
+         "question": "Tại sao zenfone 5 của mình. Gọi nói chiện bt nhưng khi gọi video ví dụ như tango line viber thì đối phương không nghe mình nói . ai biết chỉ mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.774271,
+         "id": "1167878",
+         "field_search": "question",
+         "question": "Máy samsung note 5 có cuộc gọi đến nhưng không thông báo cuộc gọi mà chỉ hiển thị cuộc gọi bị từ chối. Bạn chỉ giúp cách khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.687399,
+         "id": "1158443",
+         "field_search": "question",
+         "question": "con c5 của tôi cuộc gọi đến không hiển thị tên người gọi mặc dù đã lưu trong danh bạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.287916,
+         "id": "828207",
+         "field_search": "question",
+         "question": "m tải viber từ bluestack nhung ko gọi được.khi đang thực hiện cuộc gọi thì viber tự ngắt cuộc gọi và thoát ra ngoài và khi có cuộc gọi đến mình nhấn trả lời thì viber cũng tự ngắt đi??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.195595,
+         "id": "930540",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao máy mình khi gọi đi lại không hiển thị thời gian cuộc gọi . Gọi đã bắt máy rồi .mà khi người khác gọi tới lại có ,mình dùng iphone 6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.127777,
+         "id": "1020535",
+         "field_search": "question",
+         "question": "Điện thoại ko nhận đc cuộc gọi từ số khác. Khi có cuộc gọi đến chỉ hiển thị rất tiếc, điện thoại đã bị dừng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.114464,
+         "id": "1134796",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ip XS, khi quay màn hình cuộc gọi video thì không thu được tiếng mặc dù khi quay màn hình lúc nghe nhạc xem phim vẫn có tiếng bình thường, có cách nào để thu luô cả tiếng khi quay cuộc gọi video không ạ? (Mình làm theo hướng dẫn là nhấn giữ nút ghi màn hình để hiển thị micro nhưng micro không hiển thị khi mình thực hiện thao tác này???)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.075111,
+         "id": "1159341",
+         "field_search": "question",
+         "question": "tại sao e bật tất cả nút thông báo.. nhưng mỗi khi tin nhắn đến messenger hay zalo .. tại sao máy k hiển thị? e đang dùng xs max. ad giúp e!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.793644,
+         "id": "1016223",
+         "field_search": "question",
+         "question": "Em đang sử dụng đt ss j2 prime ma sao thực hiện các cuộc gọi video trên messenger lại bị tối không thấy ro hình ảnh dù đủ ánh sáng ( đặc biệt ban đêm không thay gi luôn! Thực hiện các cuộc gọi video trên zalo van cho hình ảnh rõ ràng) ac giúp e khắc phục với! E thank's",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.713453,
+         "id": "758055",
+         "field_search": "question",
+         "question": " iPhone 5 cuộc gọi đến không hiển thị tên người gọi mặc dù đã lưu trong danh bạ, cách khắc phục như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.616064,
+         "id": "868483",
+         "field_search": "question",
+         "question": "Cho mình hỏi trên máy 640 của mình ứng dụng messenger của mình có biểu tương gọi video nhưng tại sao không thể gọi được vây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.580559,
+         "id": "764531",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình dùng Lumia 435 gọi bằng viber nhưng không xem được video là sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.47668,
+         "id": "762287",
+         "field_search": "question",
+         "question": " Tại sao khi mình cài viber trên laptop thì nó lại không đồng bộ tin nhắn và cuộc gọi trên điện thoại của mình nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.46008,
+         "id": "1000719",
+         "field_search": "question",
+         "question": "Mình đang dùng sam sung J7 prime. giờ máy mình tự nhiên nhật ký điện thoại không hiển thị các cuộc gọi nhỡ hay gọi đến và đi trong ngày nữa. Và số mình liên lạc nhiều nhất lưu trong danh bạ không hiển thị, trừ khi gõ hẳn tên trong mục tìm kiếm mới hiển thị. Giờ khắc phục tn m.n hướng dẫn giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.243376,
+         "id": "951958",
+         "field_search": "question",
+         "question": " Ad cho hỏi điện thoại nokia x2 có gọi video qua viber được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.22805,
+         "id": "1141430",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài oppo f1s mình muốn bỏ lệnh hiển thị hình màu sắc nhấp nháy khi có cuộc gọi đến thì làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.208187,
+         "id": "844391",
+         "field_search": "question",
+         "question": "Adm cho e hỏi iphone 5s của em không hiển thị chi tiết cuộc gọi. A chị chỉ giúp em phần cài lại ở mục nào với ạ. Xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.196653,
+         "id": "1165097",
+         "field_search": "question",
+         "question": "cho em hỏi là khi tin nhắn messenger đến mà tại sao màn hình không mở lên ạ mặc dù em đã mở hiển thị thông báo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.105295,
+         "id": "718008",
+         "field_search": "question",
+         "question": " Tại sao chụp ảnh mà lại không lưu được vào thư viện  là thư viện không hiển thị ảnh kể cả chụp  camera thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.083706,
+         "id": "1167899",
+         "field_search": "question",
+         "question": "Máy samsung note5 có cuộc gọi đến nhưng không thông báo mà chỉ hiển thị cuộc gọi bị từ chối trong danh mục điện thoại. Bạn chỉ giúp cách khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.082651,
+         "id": "818544",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao ip6 của e cài đặt ảnh người gọi mà nó k hiển lên màng hình khi có cuộc gọi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.993904,
+         "id": "817073",
+         "field_search": "question",
+         "question": "Lỗi Messenger của facebook , trên hệ điều hành AndroidMessenger của mình đã là ver mới nhất rồi nhưng khi thực hiện cuộc gọi video với bất cứ ai nó đều cho 1 cái thông báo như vầyRất tiếc bạn không thể thực hiện cuộc gọi :Họ không thể thực hiện cuộc gọi ngay bây giờVà người khác gọi đến mình cũng chẳng có thông báo , ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.971256,
+         "id": "771522",
+         "field_search": "question",
+         "question": " Tại sao máy Samsung Galaxy J2 gọi video lại bảo là kết thúc cuộc gọi, đã xảy ra lỗi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.930185,
+         "id": "1135365",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em đang bị lỗi : DỪNG CUỘC GỌI KHI VIDEO CALL TRÊN MỌI ỨNG DỤNGem dùng con Lenovo S90 - A , đã nâng cấp androin của máy lên phiên bản mới nhất , update messenger,facebook,viber,skype,... lên mọi phiên bản mới nhất.Em gọi video call , trên máy vẫn hiện ra hình ảnh em , nhưng ko hiện ra hình ảnh người bên kia mà báo là : ĐANG CHỜ KẾT NỐI . xong rồi 5s nó tự động ngắt cuộc gọiEm đã thử dùng messenger, skype, viber,.. đều bị như vậy khi call = video, call thường rất okay.Admin giúp em vớiEm cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.620996,
+         "id": "1012761",
+         "field_search": "question",
+         "question": "Tại sao mình không tải được theme, khi tải nó hiển thị là: \" không thể tải hình về trong hiển thị hình dạng bàn phím\" giúp mình với. Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.456814,
+         "id": "864722",
+         "field_search": "question",
+         "question": "Message vs viber gọi video bên kia nói mình nghe nhưng mình nói bên kia không nghe.nhưng gọi không thì nghe.chỉ gọi video là không nghe thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.310368,
+         "id": "779077",
+         "field_search": "question",
+         "question": " Cho mình hỏi cái ứng dụng massenger của mình cài trên iPhone 4s hiện tại không hiển thị nút gọi nữa là sao vậy?thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.259455,
+         "id": "1018232",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để hiển thị bong bóng messenger của máy a5 2017 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.211786,
+         "id": "1007909",
+         "field_search": "question",
+         "question": "Cho e hỏi, tại sao e không onl mà messenger hiển thị là nick của e đang hoạt động. Không biết là có phải e đã cài đặt nhầm chỗ nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.170101,
+         "id": "1157274",
+         "field_search": "question",
+         "question": "Cho e hỏi khi chuyển camera sau trong cuộc gọi video ở ứng dụng skype thì bị màu xám xịt không hiện lên camera sau thì khắc phục như nào ạ. Samsung j7 pro.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.050909,
+         "id": "996526",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao máy mình không thể hiển thị toàn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.952068,
+         "id": "1005983",
+         "field_search": "question",
+         "question": "Tại sao máy em không hiển thị nội dung cuộc gọi đến ạ. Có người gọi đến là màn hình tối om ạ. Em phải nhấn nút home mở khóa màn hình rồi vuốt màn hình xuống mới biết được ai gọi rồi mới trả lời cuộ gọi được ạ. Ai biết chỉ giúp em với. Em cám ơn ạ.Em xài XA Ultra ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.877499,
+         "id": "874831",
+         "field_search": "question",
+         "question": " Viber hiển thị trạng thái thưc tuyến cách đây 7ph co nghĩa là gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.844255,
+         "id": "812845",
+         "field_search": "question",
+         "question": "Thi thoảng con 6s của mình có cuộc gọi đến nhưng k hiển thị người gọi điện mở màn cũng vậyTại sao lại như vậy và có cách nào khắc phục ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.827618,
+         "id": "922937",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình gọi viber ,bên kia bắt máy nhưng mà mình bật video lên thì nó báo hiện tại số đien thoại này ko thể gọi video ,nhưng người bên kia không biết gì về thông báo đó ,rồi một lát sau lại gọi được vậy là bị gì vậy ,giup mình vơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.661242,
+         "id": "874872",
+         "field_search": "question",
+         "question": " Em dùng lumia 535 sao ko gọi video bằng messenger dc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.58259,
+         "id": "1136077",
+         "field_search": "question",
+         "question": "1/Tôi mua mới mua điện thoại samsung A7 được vài ngày nhưng nó không hiển thị cuộc gọi nhỡ. Khi tôi khôi phục lại cài đặt gốc thì nó đã hiện thị cuộc gọi nhỡ. Như vậy là máy bị lỗi hhay sao?2/ khi đang dùng điện thoại với mức độ sáng mà tôi chỉnh tự dưng màn hình nó tối lai. Vậy là chế độ của điện thoại là vậy. Hay do máy bị lỗi.Như vậy tôi có thể đổi điên thoại mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.578924,
+         "id": "770249",
+         "field_search": "question",
+         "question": "e xài đt ip 5 ios 9.2,  ảnh hiển thị cho sdt e lưu trong danh bạ khi sđt gọi đến ảnh hiển thị rất nhỏ ở góc phải màn hình em phải làm sao để ảnh của người gọi khi gọi đến hiển thị full màn hình ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55775,
+         "id": "889860",
+         "field_search": "question",
+         "question": "Qtv chi mình hỏi vấn đề này xíu. Mình cài viber trên samsung a5 (2015) khi gọi trên viber bình thường ko sao, mà chuyển qua loa ngoài hay chế độ video thì có tiếng hú và nói vọng. Mình xài zalo hoặc các phần mềm gọi video khác thì ko bị lỗi như vậy. Mong Qtv cho mình câu trả lời ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.469118,
+         "id": "839619",
+         "field_search": "question",
+         "question": "tin nhắn viber của mình gửi đến một người nhwg hiển thị đã chuyển nhiều ngày, mình muốn hỏi: có phải người đó dùng chế độ ẩn đã xem hay là mình bị chặn viber. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.392647,
+         "id": "806206",
+         "field_search": "question",
+         "question": " Lỗi không gọi được video call trên facebook messenger trên laptop ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.367294,
+         "id": "988179",
+         "field_search": "question",
+         "question": "Mình xài iPhone 6 , gọi messenger với Zalo bấm loa ngoài hay video thì nói bên kia không nghe còn bên kia nói mình vẫn nghe bình thường . Còn mình gắn dây phone vào hay gọi bình thường không video không loa ngoài thì bình thường không bị gì hết  Gọi FaceTime củng bình thường không có lỗi vậy cho mình hỏi đó có phãi chịu chứng lỗi main không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.340935,
+         "id": "1023537",
+         "field_search": "question",
+         "question": "Cho em hỏi e đang xài mobell nova i7 camera trước 5.0 mà sao khi em gọi video bằng messenger thì hình ảnh tối om vậy ạ? Tiện cho em hỏi luôn có bán wedcam cho điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.275257,
+         "id": "1158204",
+         "field_search": "question",
+         "question": "Mình dùng xiaomi a2 hai ngày nay có người gọi đến điện thoại đổ chuông nhung không hiển thị thấy ai gọi. Một lúc sau mới thấy cuộc gọi nhỡ. Mong ad gúp mình. Chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.224745,
+         "id": "746007",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới dùng galaxy a8 dc 3 hôm. Nhưg khi e thực hiện cuộc gọi video trong ứng dụng viber thì hôk thấy có video. Và hiện lên dòg chữ đó. Qtv có thể cho e biết lý do đc ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.199621,
+         "id": "1157397",
+         "field_search": "question",
+         "question": "Em không biết do lỗi gìVào youtube xem được,nhưng nó không  hiển thị video mới bên dưới video đang xem.Chỉ hiển thị các bình luận dưới video đang xem thôi!Như hình bên dưới!Mong anh chị giúp em cho nó lại bình thường! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.156126,
+         "id": "861873",
+         "field_search": "question",
+         "question": "mọi người ơi....sao messenger của em ko hiển thị bong bóng chat ạ?? khi có tin nhắn thì phải vào messenger mới xem đc? giúp em với ạ..em dùng 6s plus ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.042225,
+         "id": "756669",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5 khi nhận cuộc gọi thì máy hiển thị những ký tự lạ trước rồi mới hiển thị người gọi tới. Khi màn hình mở thì những ký tự này sẽ tự mất còn khi màn hình khoá thì nó nằm im luôn và không thoát được luôn chỉ có tắt nguồn và khởi động lại máy. Chỉ khi nhận cuộc gọi thôi. Ai biết cách cứu tôi gấp. Cám ơn nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.025581,
+         "id": "924805",
+         "field_search": "question",
+         "question": " Làm sao để tắt âm khi bấm số iPhone 7 ? Và cài đặt âm thanh cuộc gọi đến cho Zalo, Viber? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.989635,
+         "id": "896018",
+         "field_search": "question",
+         "question": "E mua 1 iphone cũ đt đó dính icloud và e đã xoá và nhập icloud của e nhưng trong cuộc gọi e không gọi nhưng hiển thị những số đt lạ là sau ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.938835,
+         "id": "998070",
+         "field_search": "question",
+         "question": "Làm ơn cho hỏi Nokia 3 khi có tin nhắn hoặc cuộc gọi nhỡ đến màn hình luôn hiển thị, nháy đèn như Samsung J7 hay màn hình tối phải mở vuốt màn hình mới nhìn thấy.Xin cảm ơn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.919928,
+         "id": "1159001",
+         "field_search": "question",
+         "question": "Mình dùng Nokia 6.1 plus khi bên kia gọi đổ chuông nhưng màn hình máy mình không hiển thị cuộc đến.Bạn tư vấn giúp mình , sdt 0965128237 Tên Lợi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.901564,
+         "id": "695717",
+         "field_search": "question",
+         "question": "Tại sao ảnh không hiển thị trong thư viên ảnh. Nhưng vẫn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.854536,
+         "id": "862723",
+         "field_search": "question",
+         "question": " tại sao lumia 540 không gọi điện được bằng facebook messenger được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.847317,
+         "id": "814421",
+         "field_search": "question",
+         "question": " Làm sao để dùng video call dc add. xài bằng viber skype hay cái gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.77005,
+         "id": "923364",
+         "field_search": "question",
+         "question": "Tại sao khi em gọi messenger bật video lên e nói bên kia k nghe thấy nghe thấy gì nhưng e vẫn nghe họ nói bình thương ( tắt video tjif gọi bình thường ạ ) e dùng iphone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.768038,
+         "id": "818848",
+         "field_search": "question",
+         "question": "oppo F1 có thể gọi và nhận được cuộc gọi video không? minh xem trong phần cài đặt thì không thấy.neu không co thât thi qua buồn cho sản phầm này.gọi video bây giờ trở nên thông dụng tại sao máy lại co phần ứng dụng này nhi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.767372,
+         "id": "759524",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là tại sao Messenger của em không gọi được video mà Appstore yêu cầu cập nhật liên tục rồi ạ? em đang dùng iphone 5S, mong anh chị giúp em với ạ? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.718363,
+         "id": "1009400",
+         "field_search": "question",
+         "question": "Mình xài điện thoại Sony XA. Mình muốn hỏi khi có cuộc gọi quốc tế gọi đến mà mình muốn điện thoại hiển thị quốc gia nào đang gọi tới thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.716743,
+         "id": "988183",
+         "field_search": "question",
+         "question": "Mình xài iPhone 6 , gọi messenger với Zalo bấm loa ngoài hay video thì nói bên kia không nghe còn bên kia nói mình vẫn nghe bình thường . Còn mình gắn dây phone vào hay gọi bình thường không video không loa ngoài thì bình thường không bị gì hết  Gọi FaceTime củng bình thường không có lỗi vậy cho mình hỏi đó có phãi chịu chứng lỗi main không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.687035,
+         "id": "1134449",
+         "field_search": "question",
+         "question": "Mình sử dụng iphone 6s plus ban đầu khi số gọi đến không hiển thị tên mình tải app contact pro về chuyển số 0 thành +84 có thể hiện tên liên lạc được. Nhưng kể từ khi chuyển 11 số sang 10 số thì số gọi đến không hiển thị tên nữa mặc dù mình đã lưu cả 0 hoặc +84 vd như 039 hay +8439 thì điện thoại vẫn không hiển thị tên. Xin giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.642504,
+         "id": "1017596",
+         "field_search": "question",
+         "question": "Cho e hỏi. E có máy j7pro khi đang xem video mà có người  gọi tới, khi nghe xong cuộc gọi ,e xem tiếp video mà không nghe được tiếng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.601452,
+         "id": "777101",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 5S trả góp hôm 05/01/2016máy hay bị có cuộc gọi đến có chuông có dung mà không hiển thị ai gọi, không tắt không nghe được hết chuông thì báo cuộc gọi nhỡ và nhiều lúc có cuộc gọi không thể gạt nghe được, lại còn bị thế này nữa, em gửi ảnh không biết có phải lỗi nặng không, em mang ra Thế giới di động họ chỉ nâng cấp lên 9.2.1 song trả lại không biết thế nào, ad xem hướng khắc phục như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.596224,
+         "id": "1147644",
+         "field_search": "question",
+         "question": "Tại Sao zalo ng gọi đến báo có cuộc gọi khác trong khi máy e k có 1 cuộc gọi nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.496063,
+         "id": "1009960",
+         "field_search": "question",
+         "question": "Mình dùng sony TX, khi chơi game liên quân cứ đến trận thứ 3 là bị out ra ko vô đc, với lại khi gọi và cả gọi video trên messenger thường hay bị tắt đột ngột,  ad chỉ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.49255,
+         "id": "988703",
+         "field_search": "question",
+         "question": "các cao nhân cho hỏi?tại sao cuộc gọi mặc định trên điện thoại có tốc độ phản hồi nhanh hơn so với cuộc gọi trên những ứng dụng khác thông qua mạng wifi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.47182,
+         "id": "840672",
+         "field_search": "question",
+         "question": "cho e hỏi với ạe dùng laptop gọi video call or cuộc gọi thoại trên facebook thì mình nghe được người bên kia nói nhưng người bên kia không nghe được mình nói là sao ạ?e cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.437397,
+         "id": "761453",
+         "field_search": "question",
+         "question": "Chào các anh chị kĩ thuật viên. Cho em hỏi vì sao khi em upload video lên face bằng điện thoại iPhone 3s lại không được. Vào kho ảnh chỉ hiển thị ảnh không hiển thị toàn bộ video, mà em gởi tin nhắn video qua face không được. Hơn nữa khi em nhấp vào đoạn video đó để chia sẻ thì chỉ hiển thị chia sẻ được qua \"Gửi thư\" \"youtube\" mà thôi. Có thể khắc phục được không ạh? Khắc phục như thế nào xin giúp dùm em với. Chớ bây giờ trong điện thoại em rất nhiều video của bạn bè được ghi lại mà muốn chia sẻ lên face lại không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.421947,
+         "id": "1155961",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi trê S9 Plus, còn hỗ trợ chức năng nhấn 1 lần để nhận cuộc gọi thay vì vuốt màn hình k ạ? Máy e bị tình trạng cuộc gọi nhỡ và thông báo trên Viber không hiện thị trên màn hình, phải vô ứng dụng mới biết. Có cách nào khắc phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.39422,
+         "id": "1001413",
+         "field_search": "question",
+         "question": "Mình dùng oppo f1s mình gọi cho sdt bạn mình. Bạn mình xài Samsung s7 . Nó hiển ĐÃ CHUYỂN CUỘC GỌI và sau đó thông báo là thuê bao hiện không liên lạc được. Là do bạn minh tắt máy hay sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.359808,
+         "id": "1004629",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao đt samsung j7 prime của mình gọi video bằng ứng dụng messenger nhưng lại ko nhìn thấy hình ảnh của người mình gọi. nhưng người khác gọi cho mình thì lại nhìn thấy hình ảnh bình thường??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.350176,
+         "id": "1162341",
+         "field_search": "question",
+         "question": "em đang xài điện thoại huawei y6 II .Khi có người gọi đến ,nhấn nghe máy thì không nghe được mà nó hiển thị mạng điện thoại trễ đang thực hiện cuộc gọi .Cho em hỏi có cách nào khắc phục được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.217793,
+         "id": "1158471",
+         "field_search": "question",
+         "question": "Làm sao để hiển thị sạc nhanh hay không nhanh trên c9 pro thế ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.10164,
+         "id": "811300",
+         "field_search": "question",
+         "question": " Tại sao điện thoại iphone 4S của em bỏ sim vào không hiển thị mạng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.100243,
+         "id": "1009641",
+         "field_search": "question",
+         "question": "Samsung galaxy j2 prime có cuộc gọi nhưng không hiện ra gọi đến sim nào.muốn chỉnh sửa cuộc gọi đến sim 1 hay sim 2 thì cài đặt sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.094147,
+         "id": "1007739",
+         "field_search": "question",
+         "question": "Cho hỏi làm sao để xóa những cuộc gọi trong messenger.  Mình sài Samsung GALAXI  j7 PRICE. Mong Thế Giới Di Động  giúp cho",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.977837,
+         "id": "1160942",
+         "field_search": "question",
+         "question": "Vì sao khi tôi tắt chuyển tiếp cuộc gọi thì máy báo là không tắt được chuyển hướng cuộc gọi đối với những cuộc gọi k trả lời và k được cung cấp bởi nhà mạng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.977422,
+         "id": "1016442",
+         "field_search": "question",
+         "question": "Cho mình hỏi với . Cách khắc phục đt iphone 5s bị rè loa , sôi  . Khi mình nhấn phím hay gọi , hay nhận cuộc gọi đều  bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.970307,
+         "id": "1010998",
+         "field_search": "question",
+         "question": "Em là ngọc anh em muốn hỏi là có cách nào để em thay hình ảnh của em trong cuộc gọi video trên messenger khi em không muốn cho người gọi cho em thấy em đang làm gì mà chỉ thấy hình dại diện hoặc hình em cài sẵn được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.917486,
+         "id": "1158333",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại như vậy là sao ạ? Sao e không thể chụp hay quay video bằng camera của điện thoại??  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.909668,
+         "id": "1164681",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi hiện tại mình đang xài Samsung J3, khi mình gọi vào điện thoại của em mình thì bên điện thoại em mình hiển thị cuộc gọi nhỡ từ mình và tự động tắt.. mình xem thì thấy biểu tượng chặn ở đt em mình nhưng mình đã xem lại thì sdt mình k có trong danh sách chặn cuộc gọi, cũng đã thử tắt chế độ chuyển tiếp cuộc gọi nhưng vẫn không được. Chỉ có em mình gọi lại được cho mình còn mình thì chỉ không gọi được cho sdt của em mình thôi. Cả 2 đt đều là Samsung J3 ạ. Mọi người ai biết cách khắc phục xin chỉ giùm mình với. Mình cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.89403,
+         "id": "989249",
+         "field_search": "question",
+         "question": "em sử dụng messenger cho pc, nhưng hôm trước em xóa history của google chorme, trong đó có password. Xong em vô lại messenger mà nó không hiển thị khung đăng nhập mà thay vào đó là cái vòng hiển thị là nó đang load cứ load mãi không ngừng, lâu thiệt lâu cũng không hiện khung đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.84424,
+         "id": "1159095",
+         "field_search": "question",
+         "question": "Tại sao Zalo lại hiển thị đối phương đang vừa mới truy trập trong khi họ đang hoạt động mà cứ hiển thị hoạt động 3 hoặc 4 giờ trước trong khi họ đang hoạt động và nhắn tin với mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.721695,
+         "id": "864915",
+         "field_search": "question",
+         "question": " Mình dùng Sony C3 gọi line, cuộc gọi video có hình ảnh nhưng không nghe âm thanh từ người bạn gọi. Admin giúp vs ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.716758,
+         "id": "1165603",
+         "field_search": "question",
+         "question": "Iphone x của em. Sử dụng video call trên msg và face time k hiển thị cam là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.686415,
+         "id": "993420",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Tại sao mình đang thực hiện cuộc gọi muốn ấn nút nguồn để khóa màn hình sao cuộc gọi cũng kết thúc luôn vậy. Mình dùng iphone",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6687155,
+         "id": "859439",
+         "field_search": "question",
+         "question": " Zalo trên điện thoại không hiển thị nhóm nhưng trên pc của mình vẫn hiển thị giúp mình với minh cảm ơn nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.625171,
+         "id": "1005497",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao con ip 5s của mình gọi video call trên zalo hay mesenger, mình nói người ta không nghe mà người ta nói lại thì mình nghe. Mong bạn chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.619302,
+         "id": "858607",
+         "field_search": "question",
+         "question": " CHO HỎI MÌNH DÙNG ĐIỆN THOẠI OPPO f1 KHI GỌI VIDEO VIBER KHÔNG CÓ HÌNH CỦA NGƯỜI BÊN KIA LÀ LỖI GÌ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6052065,
+         "id": "1004245",
+         "field_search": "question",
+         "question": "Xin chỉ giúp cách làm hiển thị trên màn hình chờ của NOKIA 3 như: Ngày tháng, giờ, cuộc gọi nhỡ, tin nhắn... giống như thời NOKIA E71; E72.Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

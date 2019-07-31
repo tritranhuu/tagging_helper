@@ -1,0 +1,801 @@
+{
+   "id_query": "993606",
+   "total": 34932,
+   "total_current": 100,
+   "max_score": 256.61176,
+   "origin_question": "Chào tgdd,Mình đang sử dụng máy DELL mua ở TGDDHôm qua máy mình vẫn hoạt động bình thường, tuy nhiên, hôm nay bỗng nhiên wifi kết nối nhưng không hoạt động.Cụ thể là mình đã kết nối (connected), tuy nhiên vẫn bị No internet.Biểu tượng wifi phía dưới thì không bắt đc cột sóng nào (trong khi phía trên là full)Không phải vấn đề với router vì dt vẫn kết nối bình thường, mình cũng đã test trên nhiều wifi và đều bị.Xin cho mình hỏi là máy mình bị lỗi gì và cách khắc phục đc không ạ? (những cách đơn giản trên mạng mình đã thử qua nhưng không khả quan)Xin cảm ơn.",
+   "hits": [
+      {
+         "score": 126.49581,
+         "id": "791494",
+         "field_search": "question",
+         "question": "Chào admin thegioididong; Mình xài laptop dell vostrol 5470, vừa cái lại win7 64 bit. Minh đã cài driver wifi (cài nhiều lần từ các nguồn khác nhau), laptop đã bắt sóng wifi và sử dụng bình thường. Tuy nhiên biểu tượng cột sóng wifi trên thanh taskbar lại có dấu sao màu vàng (như là chưa kết nối wifi), phải ấn vào nó mới thấy kết nối wifi (connected và hiện thị số vạch sáng)Mình thử nhiều cách nhưng vẫn không sử được, nhờ admin giúp mình nhé. Cám ơn rất nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.979195,
+         "id": "793205",
+         "field_search": "question",
+         "question": "Minh sử dụng iphone 6, đang bình thường tự nhiên không kết nối wifi được nhưng vẫn kết nối 3G bình thường, khôi phục cài đặt gốc, nhập mật khẩu ID Apple thì máy báo là: đã có lỗi khi kết nối với ID Apple, giờ phải làm sao, add giúp mình với, cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.503235,
+         "id": "1146650",
+         "field_search": "question",
+         "question": "mình mới mua 1 iPhone 6s plus tại TGDĐ chưa được 1 tháng. Hôm kia đang lướt Facebook ngon lành thì Wifi tự nhiên ngắt kết nối, mình cố kết nối lại nhưng không được và bị báo sai mật khẩu (nhưng mình khẳng định 100% là không sai). Sau đó mình có thử kết nối Wifi của mấy nhà xung quanh nhưng đều không được (vẫn chắc chắn mật khẩu đúng). đến khi ra của hàng TGDĐ thì nhân viên hỗ trợ lại kết nối được Wifi ở shop và nói là Wifi nhà mình bị lỗi. Lỗi thế nào được khi mình đã thử kết nối Wifi của nhiều nhà, vậy là máy mình lỗi chứ phải không? Giờ làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.899475,
+         "id": "1138921",
+         "field_search": "question",
+         "question": "Mk đg sử dụng Huawei y6 prime, hôm qua vẫn sử dụng wifi bình thường, nhưng hôm nay kết nối wifi thì vạch wifi vẫn hiện lên nhưng lại có dấu chấm than và ghi là không có kết nối Internet.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.84746,
+         "id": "1134222",
+         "field_search": "question",
+         "question": "Điện thoại của mình là Nokia 3 mới mua được 3 tháng. Mấy ngày gần đây thì khi mình mở kết nối Wifi thì máy chỉ hiện dòng chữ đang tìm mạng Wifi suốt nhưng máy mình không tìm ra được một mạng nào trong khi máy mọi người đều hiện rất nhiều  mạng và bắt được Wifi. Xong có lúc máy đt của mình đã dò được  wifi r thì khi gõ mật khẩu vào thì vẫn không kết nối được wifi, chỉ hiện mỗi dòng \"đã lưu\" ở dưới tên mạng wifi. chắc chắn lỗi không phải do ổ phát wifi vì máy của ng khác vẫn kết nối bình thường. Mình đã ra TGDĐ và đc cập nhật lên Android 8, ngay lúc đó thì bắt đc wifi nhưng sau đó khi về nhà thì lại không tìm được mạng wifi nào nữa dù xung quanh nhà mình có rất nhiều mạng wifi. Mong admin giải đáp giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.90231,
+         "id": "1150365",
+         "field_search": "question",
+         "question": "Chào anh chịLaptop của e đang dùng win10,hôm qua e đang kết nối wifi và xem youtube bình thường thì đột nhiên bị ngắt kết nối, em kiểm tra lại thì thấy không còn biểu tượng wifi nữaĐây là lỗi gì và khắc phục như thế nào ạ Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.514244,
+         "id": "899947",
+         "field_search": "question",
+         "question": "chào ad.... có thể giúp m giải quyết vấn đề này không ạ...m đang dùng dt lumia chia sẻ kết nối internet qua wifi để bắt vào laptop.... mọi ngày vẫn bình thường... nhưng giờ nó bị thế này....khi bật chia sẻ ở đt thì máy tính và dt đều nhận kết nối.. nhưng trên máy tính nó hiện như hình dưới....m làm mọi cách mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.63814,
+         "id": "1152118",
+         "field_search": "question",
+         "question": "xin chào admin, mình mới sử dụng máy dell mua của cửa hàng bên mình. mình đang có vấn đề muốn KT hãng giúp mình. mình dùng lap bắt wifi của công ty mình thì hiện lên như thế này. tên wifi là cái cuối cùng đấy. có vòng tròn và dấu x bên trong. mình không kết nối được .Wifi này thì mình dùng cho điện thoại ok. Vậy xin cho mình hỏi mình phải làm thế nào để khắc phục lỗi trên và kết nối mạng wifi như trên được. Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.777374,
+         "id": "1134390",
+         "field_search": "question",
+         "question": "Em đang dùng máy sony z4, trước máy em vẫn kết nối wifi bình thường, nhưng 1 tuần nay máy em kết nối thì hiện đã kết nối nhưng wifi có chấm than, em thay ip tĩnh vẫn không được. Các wifi nhà khác máy em kết nối bt chỉ có wifi nhà em mới vậy. Anh/chị cho e hỏi e vậy là máy e bị sao ạ và khắc phục ntn ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.56363,
+         "id": "1003930",
+         "field_search": "question",
+         "question": "Laptop mình đang sử dụng có wifi và bluetooth bình thường. Sau khi mở máy ngày hôm nay thì tự nhiên bị mất wifi, bluetooth. Mình vào setting tìm cũng không có. Cho mình hỏi cách khắc phục cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.74,
+         "id": "1144144",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ,Tôi mua máy HP Pavilion x360 Convertible 14-cd0xxx được 2 tháng, tháng đầu kết nối wifi rất tốt, các mày khác rớt mạng nhưng máy tôi vẫn chạy tốt. Tuy nhiên thời gian gần đây máy thường kết nối không ổn định, thường xuyên rớt mạng nhưng các máy khác vẫn ổn định.Xin hỏi máy tôi gặp vấn đề gì và cần phải làm thế nào?Trân trọng cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.03431,
+         "id": "774297",
+         "field_search": "question",
+         "question": "Máy của mình (Samsung S3) bị lỗi xác thực khi kết nối WiFi, hầu như tất cả WiFi đều xảy ra lỗi xác thực,hoặc có khi hiện chữ đang kết nối và đang tìm rồi cứ lặp lại mà không kết nối được.cho mình hỏi có cách nào giải quyết vấn đề trên không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.67209,
+         "id": "999289",
+         "field_search": "question",
+         "question": "cho mình hỏi lỗi kết nối SSL này là thế nào ạ mình mình vào mạng bằng wifi thì vẫn bình thường nhưng tắt wifi sang 4G dùng thì mạng cứ báo như vậy vậy cách khắc phục là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.186676,
+         "id": "768751",
+         "field_search": "question",
+         "question": "Mình xài Asus x450c, win7, vẫn kết nối wifi vào mạng bình thường nhưng ở cột sóng wifi nó hiện dấu gạch chéo màu đỏ như này. Ai biết cách sửa chỉ mình với ạ. mình cám ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.37164,
+         "id": "986797",
+         "field_search": "question",
+         "question": "Ad giải đáp giúp mình với ạ. Mình sử dụng iphone 5s, khi mình sử dụng 1 ứng dụng nào đó cần phải sử dụng 3G hoặc wifi. Mình sử dụng wifi thì cứ vào ứng dụng là wifi bị mất, nhưng vào cài đặt mình vẫn thấy đang kết nối wifi. Vậy có phải kết nối wifi của mình bị hỏng không? Cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.06026,
+         "id": "1021605",
+         "field_search": "question",
+         "question": "sao không kết nối với mạng dây, wifi vẫn sử dụng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.97863,
+         "id": "1021436",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình đang dùng điện thoại oppo a37. tự nhiên không kết nối wifi được. trong khi mình ấn dò các mạng vẫn hiện căng đét. nhưng khi ấn kết nối nó chỉ quay quay rồi tự động thoát luôn. không kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.891365,
+         "id": "1169365",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Dt kết nối được với wifi nhưng chỉ vào wed được. Còn xem trên youtube hay chơi game thì lại không có mạng. Dt khác thì kết nối bình thường. Mình thử đỗi IP thì sài được xíu cũng lại bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.57728,
+         "id": "824947",
+         "field_search": "question",
+         "question": "Chào ad cho mình hỏi chút ạ? Ở cty của mình có mạng wifi mở? Lúc trước mình có vô được.nhưng hôm nay mình lại không vô được. Mình đã thử rieset lại máy ui.ấn quên ui đăng nhập lại.nói chung là thử những cách mình biết.mà các điện thoại khác vẫn vô được. Mình kết nối lại thì máy báo \" không kết nối được\". Mong ad giúp đỡ. Cám ơn..!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.015625,
+         "id": "871493",
+         "field_search": "question",
+         "question": "loptop của mình là lotop hp, kết nối wifi thì mạnh nhưng lên mạng lại không được trong khi máy hiển thị là đã kết nối rồi. có ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.333244,
+         "id": "1007813",
+         "field_search": "question",
+         "question": "a chị cho e hỏi. samsung galaxy j7 bị lỗi kết nối wifi đc khoảng 30s thì bị lỗi internet không sẵn dùng là sao ạ. trong khi những đt khác vẫn kết nối và vào mạng bình thường ạ. e thử resest lại modem, hkởi động lại đt, khôi phục cài đặt gốc vẫn không được. ac có thể giúp e khác phục đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.07943,
+         "id": "1166440",
+         "field_search": "question",
+         "question": "em dg xài chiếc nokia 8.1, mấy hôm nay ko piết sao khi xài wifi thì vào mang đc tầm 2 giờ thì máy ngưng kết nối vào báo mạng không có internet dù các máy khác xài vẫn bình thường,em đã thử nhiều cách khắc phục nhưng máy vẫn như vậy, mong ltv có thể giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.04022,
+         "id": "750542",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy Dell Inspiron 5547 i5 và em muốn kết nối với điện thoại qua bluetooth nó vẫn hiện lên thiết bị để kết nối nhưng vào kết nối thì không được ạ. Có cách nào khắc phục lỗi đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.914345,
+         "id": "1159082",
+         "field_search": "question",
+         "question": "Hi. Mình mới mua Samsung M20 cách đây 1 tuần, mình bật bluetooth lên thì tìm kiếm và kết nối được với các điện thoại khác nhưng không thể tìm kiếm được tai nghe (mình dùng WI C400 của sony). Trong khi tai nghe của mình vẫn hoạt động bình thường (kết nối với các thiết bị khác bình thường). Làm ơn cho mình hỏi làm sao kết nối với Samsung M20 với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.82031,
+         "id": "828394",
+         "field_search": "question",
+         "question": "mình dùng dữ liệu thì vẫn vào được n dùng wifi thì ko kết nối facebook đc lại ko thể nhắn tin trên messenger.Mình đã thử mấy mạng wifi khác nhau nhưng vẫn ko được,giứp mình đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.72118,
+         "id": "801153",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi máy mình là Lenovo Ideapad S400 khi nâng cấp lên windows 10 thì dùng gần được 1 tháng, sau đó bị lỗi không thể kết nối được wifi, mình đã thử nhiều cách như dùng lệnh như https://www.thegioididong.com/hoi-dap/khac-phuc-loi-khong-su-dung-duoc-wifi-tren-windows-689132 nhưng không thành công, vì không tìm thấy giá trị gì đó, cũng đã thử với các drivers wifi trên trang chủ lenovo, nhưng vẫn không có tác dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.37637,
+         "id": "768669",
+         "field_search": "question",
+         "question": "Sau khi mình reset lại máy thì iPhone không không kết nối được mạng ( trong wifi không hiện lên SSID tên wifi ) mình đã chạy lại fimrware, restore lại máy resetting lại máy nhưng vẫn không được , mình cũng reset lại network đến giờ vào không thấy SSID và không kết nối được wifi, mong ad giúp .Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.482414,
+         "id": "1152823",
+         "field_search": "question",
+         "question": "mình dùng samsung a8 Star, máy thường xuyên mất kết nối wifi, trong khi các máy bên cạnh vẫn bắt wifi rất tốt, wifi luôn trong tình trạng tìm kiếm kết nối wifi, nhưng khi bắt đc wifi thì lại mất wifi rất nhanh, or biểu tượng wifi có dấu \" ! \", ad hỗ trợ giúp, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.20509,
+         "id": "803017",
+         "field_search": "question",
+         "question": "Máy tính mình bắt được sóng wifi nhưng không vào mạng được. Khi mình đem máy tính đến nơi khác bắt wifi thì lại kết nối được. Điện thoại mình phát wifi cũng kết nối được. Máy tính cứ hiện No internet access. Giúp mình với!! Mình đang làm việc gấp lắm mà máy tính cứ bị vậy.Rất mong được sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.13934,
+         "id": "1156356",
+         "field_search": "question",
+         "question": "em sử dụng Nokia 8.1 android 9 tự nhiên không kết nối được wifi trong khi laptop em để kế bên vẫn kết nối đươc thì máy em bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.58823,
+         "id": "1016849",
+         "field_search": "question",
+         "question": "Chào tgdd , cho mình hỏi điện thoại của mình gặp vấn đề là khi kết nối wifi thì kết nối vẫn bình thường nhưng khi vào trang web hoặc xem youtube thì chỉ được 1,2 phút rồi ko chạy được nữa. Mình tắt wifi rồi mở lại thì cũng chạy được 1,2 phút rồi cũng vậy luôn. Vậy bây giờ mình phải làm sao đây ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.416664,
+         "id": "871779",
+         "field_search": "question",
+         "question": "mình sử dụng máy tính, dùng câu lệnh trong C để phát wifi cho điện thoại ok ngon lành. Sau khi cài lại win cho máy tính vẫn dùng câu lệnh trong C phát wifi thì điện thoại kết nối wifi được ,nhưng không vào được mạng. Đã làm nhiều cách theo thông tin trên mang nhưng không đươc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.3881,
+         "id": "1010918",
+         "field_search": "question",
+         "question": "Mình muốn phát Wifi từ máy tính dùng win 7 cho đt dùng. mình đã share và Wifi đã hiển thị dòng Internet acess.. tuy nhiên trên điện thoại vẫn báo chưa có internet.. Trước đây mình đã thử và thành công.. nhưng dạo này không hiểu sao lại không share đc! trên máy oppo A11W thì nó hiển thị dòng đang lấy địa chỉ IP và chờ rất lâu vẫn không cấp đc!! mong TGD Đ tư vấn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.32479,
+         "id": "1016563",
+         "field_search": "question",
+         "question": "Em hiện dùng j2 prime máy em khi kết nối cùng 1 wifi máy khác đều kết nối đc nhưng máy em tuy nhập mật khẩu đúng nhưng máy báo là mật mã sai. Cho em cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.24029,
+         "id": "828352",
+         "field_search": "question",
+         "question": "chào bạn.cho mình hỏi sao minh đăng nhập messenger cứ báo là k thể kết nối internet trong khi wifi đầy cột sóng.mình thử xóa và cài lạ vẫn như vậy. tắt nguồn máy đăng nhập lại vẫn bị như z. bạn có thể chỉ mình cách khắc phục không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.06089,
+         "id": "866890",
+         "field_search": "question",
+         "question": " Mình dùng Lenovo ideapad 100s mới mua nhưng ko kết nối đc wifi là sao? Máy điện thoại vào bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.70738,
+         "id": "869173",
+         "field_search": "question",
+         "question": "hic, mình có mua owe TGDĐ 1 máy laptop acer aspire v3-371 nhưng từ đó đến nay máy cứ bị trục trặc về wifi hoài, kết nối lúc nào cũng full cột sóng wifi, ko mất kết nối nhưng thường xuyên ko thể tải nổi trang vì tốc độ tải xuống quá chậm, phải reset máy nhiều lần mới hết. TGDĐ có thể tư vấn dùm nó bị gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.670265,
+         "id": "768330",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5S đợt giáng sinh giá 8,5 triệu mấy hôm nay thấy kết nối wifi rất kém. Kết nối báo 2 vạch sóng mà không vào được mạng, trong khi máy bên cạnh vẫn vào bình thường. Mình tắt Wifi đi bật 3g vẫn dùng bình thường. Tình trạng này bị mấy ngày hôm nay rồi, lúc thì có mạng lúc thì không vào đc trong khi máy vẫn báo 2 vạch sóng wifi.Cho mình hỏi như thế có phải lỗi phần cứng không? Hay do lỗi gì? Ông anh cũng đang định mua 1 iPhone 5S như mình nhưng thấy máy mình lỗi như thế lại lo, tiền rẻ thật nhưng chất lượng kém, lại nghi ngờ các bạn bán hàng kém chất lượng nên giá thấp. Mong sớm được giải đáp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.43941,
+         "id": "1157090",
+         "field_search": "question",
+         "question": "Lỗi kết nối kém wifi trên iPhone x không thể tìm thấy wifi và ngồi sát cục wifi nhưng sóng vẫn yếu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.34213,
+         "id": "793254",
+         "field_search": "question",
+         "question": "Ko biết ip 3GS em bị gì mà wifi bị :- Bắt được wifi kết nối được wifi đó nhưng ko kết nối Internet được mặc dù máy khác là được- Hoặc là kết nối wifi không được ( thỉnh thoảng ) máy khác làm được- Kết nối wifi lâu=> Em đã reset mạng và cài đặt rồi nhưng ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.286415,
+         "id": "1153315",
+         "field_search": "question",
+         "question": "em xài samsung j đời cũ kết nối wifi và bluetooth và chơi những game online trong nước thì chạy bình thường nhưng chơi game nước ngoài thì lại báo là mạng kết nối không ổn định có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.18333,
+         "id": "1021659",
+         "field_search": "question",
+         "question": "Cho e hỏi là sao điện thoại huawei y5 2017 e mới mua được gần 1tháng kết nối wifi bình thường nhưng cách đây hai ngày thì kết nối được nhưng khồng dùng được wifi ạ, kết nối wifi rồi nhưng lại ghi là không kết nối wifi nào hết và bên cạnh hiện lên dấu \"!\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.8029,
+         "id": "995815",
+         "field_search": "question",
+         "question": "Mình kích hoạt lại ip ko đc. Máy báo ko thể kích hoạt vì không thể kết nối với máy chủ. Chỉ cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.76183,
+         "id": "871254",
+         "field_search": "question",
+         "question": "Iphone 5s bật wifi xem video trên mạng xã hội và youtube thì lại mất wifi, khi kết nối lại được nhưng lại mất, có khi không kết nối được và mắt phải tự động chọn nhà mạng. Cho em hỏi đo là do nguyên nhân nào dù em đã thử mọi cách cỏ thể làm wifi bất sóng tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.42606,
+         "id": "1141895",
+         "field_search": "question",
+         "question": "trung tâm tgdd cho em hỏi: máy của em là samsung s7 thường mua được 3 tháng thì bị tình trạng là không thể kết nối với các thiết bị không dây như wifi bluetooth.em gửi 2 tấm hình, tuy wifi tắt nhưng nó vẫn chạy còn biểu tượng wifi thì khi bấm vào thì nó sáng mờ. trung tâm có thể tư vấn cho em về cách khắc phục được không ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.40119,
+         "id": "1133721",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình bỏ thánh sim vô điện thoại Sony Z3 thì máy vô mạng bình thường nhưng khi mình dùng Z3 làm wifi hostpot thì các máy khác dù đa kết nối được mạng Z3 phát ra nhưng vẫn không vô mạng được riêng Z3 thì dùng bình thường, cho hỏi là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.95648,
+         "id": "1148460",
+         "field_search": "question",
+         "question": "mình đang sd máy xiaomi redmi 5pl hôm nay mình có dò wifi để kết nối nhưng không dò đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.949265,
+         "id": "781740",
+         "field_search": "question",
+         "question": "Máy tính cháu là Lenovo sử dụng win 7 mấy bữa trước cháu sử dụng máy với wifi bình thường nhưng không biết cháu bấm nhầm cái gì đó mà bây giờ máy không kết nối được wifi nữa. Nó cứ hiện cột sống với dấu X màu đỏ cháu đã tìm đủ mọi cách để khắc phục nhưng nó không được. Rồi cháu thấy người ta bảo mở wifi cháu vào mở thì nó hiện như trong ảnh(Turn wrieless on nhưng bị ẩn) làm cháu không mở wifi và kết nối được nữa.. Xin giúp cháu với cháu cảm ơn nhiều ạ! Vì bây giờ cháu đang rất cần máy để học ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.93701,
+         "id": "1007987",
+         "field_search": "question",
+         "question": "Chào Thế giới di động.Mình tên là: Nguyễn Văn ToànDTDĐ: 093895xxxxMình có mua 01 điện thoại Sony Z5 tại Thế giới di động cách đây hơn 1 năm rồi.Điện vẫn sử dụng bình thường, nhưng hay bị lỗi mạng Wifi (bị mất kết nối, hay bị lag và hay bị gián đoạn Wifi).Mình kính nhờ TGDĐ tư vấn giúp mình tìm nguyên nhân và cách khác phục lỗi nêu trên.Xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.9204,
+         "id": "1139417",
+         "field_search": "question",
+         "question": "Shop ơi giúp mình với mình mới mua Xiaomi redmi note5 pro rất hay bị mất kết nối wifi mình đã thử nhiều bản rom nhưng không khắc phục được gì mong shop sớm tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.78107,
+         "id": "774448",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi FPT có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.6198,
+         "id": "956084",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình vừa tạo 1 nick facebook mới, mình gửi lời mời kết bạn cho các bạn của mình, đặt avatar, ảnh bìa fb, nhưng phần trò chuyện, mình nhắn tin cho các bạn không được, tình trạng wifi thì vẫn bình thường, ngay phần trò chuyện có hiện lên là trò chuyện trên facebook không khả dụng, mình đã bật trò chuyện ngay từ đầu, nhưng khi nhắn thì vẫn bị lỗi, giống như bị mất mạng, nhắn không qua ấy, nhưng wifi nhà mình vẫn bình thường. Mình có đăng nhập nick ấy vào điện thoại nhưng nó vẫn bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.40172,
+         "id": "823784",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mạng nhà mình kết nối bt, máy tính vẫn vào facebook đc mà sao đt mình k vào đc. Dùng 3g cũng không vào đc. đt báo \" chúng tôi đang gặp sự cố khi nhận dữ liệu\". Trong khi đó mình thử kết nối mạng wifi khác thì lại vào bt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.308365,
+         "id": "1159325",
+         "field_search": "question",
+         "question": "Ad cho mình xin phép hỏi đc ko ạ Máy mình bắt wifi chơi game lâu lâu là nó tự ngắt wifi vài giây , rồi kết nối lại bình thường , là bị gì thế ạMình đang dùng Xiaomi redmi 5 plus ạ.Thanks gửi tới ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.27863,
+         "id": "756377",
+         "field_search": "question",
+         "question": "Mình muốn xóa với danh sách wifi đã kết nối trên điện thoại samsung J5 nhưng không biết cách adm giúp mình với....thank ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.25628,
+         "id": "897678",
+         "field_search": "question",
+         "question": "Tôi sài laptop lenovo yoga 500 mà wifi máy bắt lúc nào cũng có dấu tam giác màu vàng có dấu thăng bên trong và đề là k có internet nhưng tôi truy cập mạng vẫn dc nhưng yếu.. các máy laptop xung quanh tôi hoặc đt đều kết nối cùng 1 wifi đó mạnh và bình thường.. cách khắc phục là ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.16245,
+         "id": "774452",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.04996,
+         "id": "822991",
+         "field_search": "question",
+         "question": "Qtv cho em xin hỏi là khi em cài đặt Windows 10 lên máy tính bằng cách tải xuống từ trang chủ của Microsoft, sau khi cài đặt xong thì máy không thể nhận mạng từ wifi dù đã kết nối ạ,em đã kiểm tra mạng và mạng vẫn kết nối được với các thiết bị khác.Vậy thì có thể cho em hỏi cách khắc phục lỗi này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.986,
+         "id": "1145340",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop của mình là Asus Vivobook S15 X510UQR. Hôm qua mình cập nhật Win xong thì máy kêu khởi động lại máy. Khi khởi động lên thì bị mất Wifi. Mình đã dùng mọi cách để khắc phục nhưng không được. Sau đó cài Driver Wifi thì mới sử dụng được Wifi. Và tình trạng khi tắt máy mở máy lên vẫn mất Wifi, tiếp tục cài Driver mới sử dụng được Wfifi. Ngay cả phím chức năng Fn cũng vậy. Kỹ thuật viên có thể giúp mình giải quyết vấn đề được không. Mình xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.88314,
+         "id": "810338",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 6s, vừa mới cập nhật ios 9.3. Kết nối wifi lúc có lúc k, mạng wifi kết nối trên laptop vẫn bt. Giúp mình khắc phục cái.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.6121,
+         "id": "1155135",
+         "field_search": "question",
+         "question": "Mi8 lite bắt wifi kém quá có cách nào khắc phục không qtv. Nhưg máy khác kết nối bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.31539,
+         "id": "828347",
+         "field_search": "question",
+         "question": "Qtv, mình không vào được facebook từ trưa đến giờ, mặc dù đã tắt mở lại mấy nhiều lần, sau đó có xóa ứng dụng facebook để tải lại nhưng lại không thể tải lại ứng dụng mặc dù kết nối mạng vẫn bình thường, khi tải về lại thì báo lỗi -504, cho mình xin cách khắc phục ạ. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.31071,
+         "id": "808783",
+         "field_search": "question",
+         "question": "da anh chị cho e hoi, máy tínhcủa em hiệu acer thường không thể vô mạng bình thường, thường mất mạng hoặc ngắt kết nối khi sử dung wifi, e đã thử với mạng dây cáp thì lâu lâu cũng bị ngắt. thế máy em có khắc phục được không. máy của e mua vào 12-2015, e xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.97454,
+         "id": "786844",
+         "field_search": "question",
+         "question": "Em đang có chiếc iPhone 5 phiên bản ios 9.2.1 mà kết nối wifi kém quá khoảng 10m là không kết nối được chỉ nhận được tín hiệu thôi, các máy khác vẫn kết nối được bình thường ạ với lại e cũng thử ở 2 modem khác nhau rồi nhưng cũng vậy chỉ được 3-5m thôi ạ 7m là chập chờn còn 10m đổ ra là không kết nối được ạ (tín hiệu wifi 3 vạch bth) lỗi này do đâu? Và phải khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.73545,
+         "id": "1024108",
+         "field_search": "question",
+         "question": "Em dùng Iphoen 6 Plus, hôm nay em có update máy lên IOS 11 nhưng vì lag giật, giảm hiệu năng máy nên em đã sử dụng phần mềm 3utool để về lại IOS 10.3.3. Nhưng khi em kích hoạt lại Iphone thì bị báo lỗi 'Khoogn thể kích hoạt iPhone của bạn vì khoogn thể kết nối với máy chủ kích hoạt\". Em sử dụng mạng wifi để active bình thường, bấm 'Thử lại\" nhiều lần nhưng vẫn không active lại máy được. Anh/chị tư vấn giúp em với, em đang rất lo lắng ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.72081,
+         "id": "1143908",
+         "field_search": "question",
+         "question": "Ad giúp mình là mình có 1 con itel s11 plus vấn đề wifi khi nhập mã vào báo đã kết nối không có internet là sao ạ đầy sóng nhưng ko mạng thử máy khác thì ok còn máy itel thì không dc mạng lúc có lúc không thử các bước điều vô vụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.383835,
+         "id": "874479",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi mình dùng iphone5 mấy hôm nay máy mình báo cập nhật ứng dụng mình vào app store cập nhật nhưng máy chỉ báo là không thể tải vào lúc này mình thử tải trò chơi khác chỉ thấy load chứ không chạy phần trăm và cũng báo lỗi không thể tải wifi mình hoạt động bình thường không có vấn đề gì cả mình thử khởi động lại máy rồi cũng chuyển qua tài khoản app store khác nhưng cũng không được ad tư vấn giúp mình với mình cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.3147,
+         "id": "767030",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi iPhone 5s tại sao khi chọn kích hoạt imessge và facetime máy báo không kích hoạt được và đang chờ kích hoạt hoài vẫn không được, mình kiểm tra kết nối mag và kích hoạt lại mình đã tất bật nhiều lần vẫn như vậy . Xóa cả những ứng dụng nhắn tin miễn phí vẫn không được mà máy là bản quốc tế mọi người giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.29474,
+         "id": "992851",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: mình xài ip6 nhưng lỡ bấm vào \"quên mạng này\" và bây giờ mình không thể kết nối lại wifi đó nữa mặc dù đã reset network,và nhập mật khẩu wifi thì nó cũng báo là không đúng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.96941,
+         "id": "889677",
+         "field_search": "question",
+         "question": "qtv cho mình hỏi pc của bình tự nhiên micro không hoạt động cắm tai nghe vô và nói trên micro tai nghe người khác vẫn không nghe được là lỗi do đâu ạ và cho mình xin cách khắc phục với ạ .........thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.91508,
+         "id": "1155700",
+         "field_search": "question",
+         "question": "Chào anh chị KTV! Em có con iphone 6s mua của TGDD cũng lâu rồi. Máy bị lỗi wifi khá khó hiểu. Khi dùng wifi tại nhà, lướt web, apps hoàn toàn bình thường, nhưng khi chơi game online (LineAge2 Revolution) thì game liên tục mất kết nối do gián đoạn, các máy khác chơi bình thường. Khi ra wifi quán cafe thì iphone 6s chơi ok không bị mất kết nối.Vậy là do sóng wifi iphone yếu, đồng thời do mạng wifi nhà yếu có phải không ạ?(em đã áp dụng mọi cách từ update os, khôi phục mọi cài đặt,...)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.30249,
+         "id": "872305",
+         "field_search": "question",
+         "question": "Trước đây mình lướt facebook bình thường nhưng hiện nay lại bị như thế này, mình dùng kết nối wifi lướt web hay chơi game vẫn bt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.26758,
+         "id": "756927",
+         "field_search": "question",
+         "question": "Điện thoại OPPO Neo 7. kết nối được rất nhiều wifi nhưng một số wifi sau khi đã nhập mật khẩu thì cứ báo đã lưu, được bảo mật bằng WPA/WPA2  mà không kết nối, trong khi các điện thoại khác kết nối bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.82311,
+         "id": "747056",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi, app store đang sử dụng bình thường nhưng sau đó vào lại thì hiển thị  kết nối được. Mình sử dụng wifi bình thường, ngày giờ không sai lệch gì hết. Trường hợp này phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.818886,
+         "id": "823069",
+         "field_search": "question",
+         "question": "iPhone của mình vào messenger thì bị lỗi kết nối, trong khi mạng khỏe xem phim lướt web vẫn bình thường, tối qua safari còn không vào được Facebook nữa, làm sao để khắc phục vậy, chỉ giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.62512,
+         "id": "744958",
+         "field_search": "question",
+         "question": " Zenfone 5 không kết nối được với wifi mặc dù biết mật khẩu và laptop vẫn vào bình thường là sao?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.55198,
+         "id": "813536",
+         "field_search": "question",
+         "question": " laptop của mình cứ thường xuyên bị ngắt kết nối wifi hoặc không kết nối wifi được luôn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.43588,
+         "id": "752850",
+         "field_search": "question",
+         "question": "Xin cho hỏi iPhone 5S của mình không thể thao tác được chức năng \"phone\" trên điện thoại, các chức năng khác vẫn hoạt động bình thường. Mình đã khởi động lại nhiều lần vẫn không thao tác được. Xin vui lòng chỉ giúp mình cách khắc phục. Cảm ơn rất nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.412155,
+         "id": "839300",
+         "field_search": "question",
+         "question": "Tại sao điện thoại iPhone 5 chỉ có mỗi fb là có mạng trong khi đó wifi vẫn bình thường mà khi vào youtube hay mp3 , app store .. đều không kết nối đc mạng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.36603,
+         "id": "802401",
+         "field_search": "question",
+         "question": "Máy tính của em kết nối Wifi được nhưng em không thể truy cập Internet bằng Microsoft Edge được. Nhưng khi em sử dụng trình duyệt Cốc Cốc thì vẫn vào được bình thường là bị lỗi gì ạ? Xin chỉ em cách sửa. (Đặc biệt khi em sử dụng mạng có dây thì Edge mới vào được bình thương).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.14353,
+         "id": "782429",
+         "field_search": "question",
+         "question": "Anh ơi em mới mua điện thoại iphone 5s được 15 ngày hôm nay em kết nối wifi thì nó ghi là sai pass và không kết nối dc em đã tắt và khởi động lại máy nhưng vẫn không kết nối dc . Trường hợp của em có cần mang ra thegioididong sữa ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.123276,
+         "id": "794932",
+         "field_search": "question",
+         "question": "messenger không kết nối đc trong khi wifi vẫn ổn định.mình xóa đi tải lại rồi vẫn lỗi khác phục thế nào ạ mình dùng ip 6+",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.07613,
+         "id": "749018",
+         "field_search": "question",
+         "question": "Iphone 4s của em đang sử dụng bình thường thì tự động tắt nguồn và không thể mở lên được dù em đã thử cắm sạc. Sau đó em có thể kết nối với iTunes nhưng vãn không có kết nối luôn. Bên mình có thể giúp em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.95986,
+         "id": "1149237",
+         "field_search": "question",
+         "question": "Mình mua điện thoại ip 7+ 32Gb được 2 tuần. Nhưng về sử dụng thấy hay bị mất sóng, dùng mạng wifi hay mạng di động cũng thường xuyên bị mất kết nối mạng. Chiếc 7+ cũ mình dùng thì không có bị tình trạng này. Cho mình hỏi đây là lỗi của sản phẩm hay gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.93849,
+         "id": "1023679",
+         "field_search": "question",
+         "question": "Chào bạn,Mình đang dùng điện thoại Obi SF1, dạo gần đây mình thấy điện thoại có  tự restart máy, sau khi restart vẫn hoạt động bình thường. Tuy nhiên, hôm nay máy restart chưa xong và đứng màn hình luôn. Mình cố  nhấn và đè nút khởi động máy nhưng không có  gì thay đổi. Mình mua máy ở thegioididong chi nhánh đường lê văn thọ, gò vấp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.88643,
+         "id": "1000098",
+         "field_search": "question",
+         "question": "hiện tại mình sài ip 6splus ios 8.1 facebook thì sai được còn vào messenger là bị out ra ! mở 3g thì sài bình thường - mình đã thử xóa cả face và messenger + kết nối wifi khác nhưng vẫn bị out !! chỉ có sài 3g là ko bị gì thôi mong dc sự giúp đở và khắc phục của mod ! !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.70917,
+         "id": "861195",
+         "field_search": "question",
+         "question": "Mình dùng iphone5, wifi nhà mình mạnh. Máy nào cũng đầy vạch trừ cái ip5 của mình. Bắt được wifi nhưng xuống 1 vạch là tự ngắt kết nối. Ngồi kế cục wifi thì đầy vạch lướt web nhanh. Nói chung chỉ dùng được khi đầy sóng wifi. Giúp mình cách khắc phục. Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.63888,
+         "id": "988627",
+         "field_search": "question",
+         "question": "cho hỏi laptop lenovo 100s của tôi gần đây xảy ra tình trạng bị mất wifi, đường truyền nhà tôi vẫn bình thường nhưng 2 hôm nay khi đang dùng thì đột nhiên wifi bị mất rồi lại có. đặc biệt là đôi lúc mất hẳn luôn trình kết nối wifi. tôi vào phần setting network cũng không tìm thấy trình wifi. tôi phải shut down và bật lại nhiều lần. xin hỏi đó là do nguyên nhân nào và làm thế nào để sửa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.51799,
+         "id": "760382",
+         "field_search": "question",
+         "question": "Chào thế giới di động cho mình hởi 1 chút là mình đang sử dụng iPhone 6 nhưng may minh gặp 1 chút vấn đề là nhận được cuộc gọi nhưng mình không nghe được và nói đầu dây bên kia cũng không nghe được. Mình cũng đã thử gọi đi và tình trạng vẫn như vậy khi mình tắt nguồn và khởi động lại thì mọi thứ đều ổn vậy máy mình làm sao và cách khắc phục vấn đề. Máy mình đang sử dụng là hàng chính hãng mua ở Viettel.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.141495,
+         "id": "1162485",
+         "field_search": "question",
+         "question": "Mình xài oppo a3s khi mình gọi zalo mà để qua đêm vs bạn thì khoảng 3,4h  gì thì tự động ngắt kết nối bên mình ko thấy đc thông tin cuộc gọi dù đã bật rồi, trước đó mình xài samsung j2 pro gọi như thế vẫn bình thường, người đó cũng để thế ko có tắt cuộc gọi nhưng vẫn ngắt kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.13496,
+         "id": "757935",
+         "field_search": "question",
+         "question": "Em dùng ipad 2. Em vào setting em kết nối wifi thì ok. Nhưng nó không hiện cột sóng wifi và bị lỗi kết nối các anh chị giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.55861,
+         "id": "1149200",
+         "field_search": "question",
+         "question": "Em sử dụng redmi 4x dạo này điện thoại thường xuyên mất kết nối rồi có lại gây phiền phức khi chơi game online. Trong khi các máy khác dùng chung wifi đều bình thường. Cho em hỏi nó có vấn đề gì và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.49772,
+         "id": "1000040",
+         "field_search": "question",
+         "question": "điện thoại Huawei của mình trước h kết nối wifi bình thường tự dưng hôm nay k bắt được wifi nữa nút bật wifi nhấn k được là sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.3499,
+         "id": "843131",
+         "field_search": "question",
+         "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.23247,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.22925,
+         "id": "949479",
+         "field_search": "question",
+         "question": "Ip 6 mình vừa xóa facebook rồi tải lại k được nó hiện là : cập nhật này hiện tại không khả dụng hãy thử lại sau. Mình đã thử kết nối với wifi khác nhưng tải không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.18828,
+         "id": "788611",
+         "field_search": "question",
+         "question": "em đang sử dụng HTC Desire 620G dual sim.em kết nối điện thoại với máy tính.vẫn ok lắm.r em cut mấy bức ảnh trong máy qua máy tính.nhưng load cứ lâu thế nào ấy.nên em quết định reset lại máy tính.đến lúc khỏi động lên thỳ điện thoại em không còn có thể kết nối với máy tính đc nữa.nhưng trên điện thoại vẫn có biểu tượng đã kết nối thông qua usb bình thường.làm s đây ạ?ai giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.17363,
+         "id": "1002930",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy mình là samsung galaxy j2. Từ lúc mua tới giờ mình không thể gọi video qua mess hay zalo đc, mỗi lần gọi video đều bị mất mạng, mất cả sóng đt vì mình xài 3g. Trong khi đó cùng loại nhưng máy bạn mình lại có thể gọi video bình thường. Ngoài ra tất cả đều sử dụng được bình thường. Vậy tại sao và phải khắc phục nó như thế nào để mình có thể gọi video bình thường? Cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.98705,
+         "id": "918849",
+         "field_search": "question",
+         "question": "Admin ơi, cho mình hỏi máy đt lumia của mình lúc kết nối bluetooth với máy Dell thì nó chỉ hiện đã ghép nối chứ không hiện Đã kết nối. Do đó không gửi file được mà chỉ nhận được file. Mong ad giúp đỡ. Mình ad 1 ảnh ví dụ nhưng máy mình đều hiện đã ghép nối chứ không hiện đã kết nối như trong ảnh. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "789420",
+   "total": 34290,
+   "total_current": 100,
+   "max_score": 115.44579,
+   "origin_question": "Cho e hỏi em mua máy lenovo a7000 về su dụng được khoảng gần 3 tháng, ban đầu camera rất bình thường. Nhung sau bây giờ camera sau bị nhòe và mờ không thay hinh được là vi sao?",
+   "hits": [
+      {
+         "score": 49.79807,
+         "id": "743517",
+         "field_search": "question",
+         "question": "Em muốn hỏi là tại sao camera của máy em Lenovo A7000 lại bị mờ khi chụp camera sau thì không thấy chữ và rất mờ? Làm sai khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.978252,
+         "id": "837169",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi là iphone 5s cứ chuyển từ camera sau sang camera trước là mà hình bị đơ không dùng đc camera trước còn camera sau vẫn dùng được bình thường ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.31904,
+         "id": "796023",
+         "field_search": "question",
+         "question": "camera sau ip6 bi mờ khi chụp gần là bị sao vậy ? đã thử cùng khoảng cách với máy khác thì thấy rõ.bên TGDD có kiểm tra và sửa không ? phí hết nhiêu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.20332,
+         "id": "1021568",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e dùng ip 6+,camera trước bình thường nhưng camera sau chụp xa lúc lấy nét thì nét nhưng chụp xong lưu vào thì ảnh bị mờ nhoè, chụp gần vẫn nét là bị sao ạ? Mong ad giải đáp giúp e , e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.869175,
+         "id": "791698",
+         "field_search": "question",
+         "question": "Sony m4 lúc đầu bị camera mờ, chụp hình như có màn sương. Sau khi reset máy thì chụp hình rõ. Cho hỏi tình trạng camera mờ có xảy ra nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.643864,
+         "id": "1152236",
+         "field_search": "question",
+         "question": "A7 2018 mới mua sử dụng được 10 ngày phát hiện khi chuyển từ  chế độ camera trước sang chế độ camera sau thì ở cụm camera sau phát ra âm thanh két két rất nhỏ. Hỏi máy bị vậy là bị gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.39429,
+         "id": "770982",
+         "field_search": "question",
+         "question": "Hi mọi người ! Cho mình hỏi một chút. Mình dùng iPhone 4S. Trước vẫn dùng bình thường. Dạo gần đây, camera 360 của mình có vấn đề. Vào selfie camera trước lúc giơ lên chụp thì bình thường, nhưng nhấn chụp và lưu hình thì bị ám đỏ. Camera sau thì màu bình thường nhưng lưu hình rất lâu, có khi không lưu được và đang chụp thì bị đẩy ra. Lỗi vậy là sao hả mọi người? Ai biết thì chỉ cho em cách khắc phục với ạ! Thanks mọi người!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.90395,
+         "id": "1143151",
+         "field_search": "question",
+         "question": "Em dùng máy zumbo s2017 sao ko vào được camera với tải camera về thì ko quay đc sáng camera sau và cảm trc nó bị ngược ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.867027,
+         "id": "766479",
+         "field_search": "question",
+         "question": "Cho mình hỏi tí, mình có con 5S, camera sau thì chụp hình bình thường nhưng ấn nút chuyển camera trước thì nó không chuyển được mà nó cứ giữ hình ảnh camera sau, camera trước không hoạt động được. Nó có bị lỗi gì không ạ? Làm sao khắc phục nhỉ? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.767075,
+         "id": "1137305",
+         "field_search": "question",
+         "question": "Em đang dùng samsung galaxy j6,tại sao camera trong mesenger lại bị mờ và hột,camera bên ngoài thì bình thường ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.68032,
+         "id": "743734",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ. Máy e ip4s khi chụp camera sau của camerA 360 thì cứ bị đảy ra ngoài mà camera trước thì k sao. Bây giờ e phải làm sao ạ 😢😢😢😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.660027,
+         "id": "1008206",
+         "field_search": "question",
+         "question": "Thật ko hiểu nổi đang sử dụng camera trước sau bình thường oppof1s plus.  Vậy mà bản cập nhập này làm  cho camera bị lộn ngược còn ko dùng được camera sau nữa phát tởm với hãng oppo. Xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.61156,
+         "id": "1007351",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi camera j5 2016 của e bị mờ vậy bây chừ thay camera giá cỡ bao nhiêu để e chuẩn bị ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.453903,
+         "id": "1009780",
+         "field_search": "question",
+         "question": "Máy Lenovo A7000 Plus của e mua cx đc gần 2 năm rồi. Trong khoảng 3-4 tháng gần đây. Màn hình cảm ứng bắt đầu có dấu hiệu bị loang ố vàng xung quanh (sắp đến giữa màn hình rồi) Vậy bây giờ e muốn sửa hoặc thay màn hình thì mang ra TGGD có sửa k ạ? Máy e mua ở TGGD cx gần 2 năm r",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.403004,
+         "id": "1157272",
+         "field_search": "question",
+         "question": "Điện thoại Samsung galaxy j7 pro. Khi sử dụng các ứng dụng khác camera điều sử dụng bình thường. Nhưng khi gọi trên skype thì camera trước và sau điều không sử dụng được cho e hỏi tại sao ạ. E đã bật quyền truy cập máy ảnh cho ứng dụng rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.690464,
+         "id": "1150394",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ Em đang sài Samsung j7prime cấu hình vẫn ổnNhưng camera trước lâu lâu cứ bị lỗi không chụp được ạ . camera sau vẫn ổn nhé, thường em bị em sẽ xóa dữ liệu hoặc bộ nhớ đệm của máy ảnh rồi khởi động lại sau 1 thời gian thì chụp lại được camera trước , nhưng này bị thường xuyên làm em rất bực mình ạ , em mang ra tgdd thì hộ chỉnh không được bảo hư camera trước, e mang về chỉnh lại 1 lúc sau lại chụp được ạ . không biết làm sao để khác phục trường hợp này ạ . Em lên tra thì thấy nhiều bạn thay nhưng vẫn bị ạ .Mong anh chị tư vấn với ạ 💕",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.718824,
+         "id": "787001",
+         "field_search": "question",
+         "question": "Camera iPhone 5 bi mờ lúc chụp đuợc hình lúc không chụp được . Cho tôi hỏi máy tôi bị gì . Nếu thay camera thì giá là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.690802,
+         "id": "751942",
+         "field_search": "question",
+         "question": "Tình hình là tôi mới mua 1 chiếc Lenovo Vibe P1 hôm qua,khi về nhà mở Wifi 3G ban đầu bình thường xong lúc sau mở WIfi có 3 vạch nhưng mạng không vào...mở 3g cũng không vào được mạng.( sim 3g còn 2Gb dung lượng)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.3156,
+         "id": "1002162",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ, e có làm rơi máy xuống đất và va chạm gầm camera sau của e bây giờ nó chụp bị nứt hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.307512,
+         "id": "787682",
+         "field_search": "question",
+         "question": "Tôi có mua lại một máy iPhone 5s đã qua sử dụng tại thegioididong ngày 12/2. Sau khi về sử dụng được 4 ngày thì camera trước của máy bị lệch vị trí so với ban đầu. Tôi sử dụng không làm rơi hay va đập vậy lỗi này có được đổi trả không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.130596,
+         "id": "833150",
+         "field_search": "question",
+         "question": "Tôi mới mua máy Samsung J5 2016, nhưng camera sau chụp hình hay bị mờ (hình chụp xong xem lại còn mờ hơn camera trước) có phải máy bị lỗi gì k ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.90302,
+         "id": "1009124",
+         "field_search": "question",
+         "question": "Camera sau của sony xa bị mờ và phát ra tiếng rè khi chụp là lỗi gì a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.815557,
+         "id": "1019206",
+         "field_search": "question",
+         "question": "Camera sau của em bị trầy sướt, khi chụp bính thì ảnh bị mờ không thấy gì hết. Giờ em muốn thay thì phải tốn cở bao nhiêu tiền ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.60552,
+         "id": "912343",
+         "field_search": "question",
+         "question": "Add cho hỏi ip6 plus của mình nghe gọi bình thường, loa trong ngoài ok, quay phim camera sau ngon lành, nhưng quay phim camera trước không có tiếng là sao???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.467686,
+         "id": "1020716",
+         "field_search": "question",
+         "question": "bên trung tâm cho e hỏi máy e mới mua đc 3 tháng mà lúc mua về loa bình thường sau 3 tháng nó lại nhỏ dần đi nếu muốn nghe thì phải đeo tai nghe mới nghe và nói chuyện được thì có được bảo hành không ạ và bảo hành trong bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.317837,
+         "id": "1016210",
+         "field_search": "question",
+         "question": "Cho mình hỏi là j7 của mình mới mua đc 3 tháng. Bình thường xạc pin khoảng 1 tiếng rưỡi là đầy. Mấy ngày gần đây xạc gần 3 tiếng mới đc 90% là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.278252,
+         "id": "781779",
+         "field_search": "question",
+         "question": "Nắp sau iphone 5s của e ở phần trên gần camera ý. E thấy ko được phẳng như phần bên dưới là bị sao ạ. Phần trắng và vàng giáp nhau ý ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.904682,
+         "id": "996787",
+         "field_search": "question",
+         "question": "Tại sao máy samsung galaxy j2 prime chụp camera thường và camera snow b612 hay tất cả các camera khác hình đều mờ ko rõ nét. Nhất là snow và b612. Chụp có ánh sáng cao cũng vậy. Camera của máy em có phải bị hư không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.835335,
+         "id": "803588",
+         "field_search": "question",
+         "question": "Mình mua iPad cách đây 3 tuần lúc mua mình có dán keo sau lưng máy mà bây h keo có vẻ bong tróc ngoài viền máy với lại camera sau k được rõ lắm không biết có phải do nhân viên dán keo quên khoét phần keo ở camera sau k nữa. Túm lại là nghe đồn có bảo hành không biết bây giờ minh đến cửa hàng có đuợc dán lại không vậy????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.832954,
+         "id": "907438",
+         "field_search": "question",
+         "question": "Tôi mua máy Lenovo Vibe P1 cách đây 7 tháng, trước đây máy vào Facebook và Phát video trực tiếp bình thường, nhưng cách đây nữa tháng thì khi tôi phát video trực tiếp trên Facebook thì sau 3 giây đếm ngược xong là Camera bị treo, lúc đầu tôi thử Cập nhật phiên bản Facebook về nhưng vẫn bị treo, tôi gỡ Ứng dụng ra và cài lại vẫn bị như vậy, tôi tiến hành phục hồi cài đặt gốc nhưng vẫn không phát được. Cuối cùng tôi đã Factory Reset lại máy nhưng kết quả vẫn như không!Tôi đăng câu hỏi này kính mong QTV hổ trợ phục hồi cho tôi. (*) Khi vào phát trực tiếp video trên Ứng dụng Bigo live thì máy hoạt động bình thường ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.82679,
+         "id": "1136250",
+         "field_search": "question",
+         "question": "dt sony xperia , camera sau bị mờ , mong ad giúp khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.817812,
+         "id": "1010764",
+         "field_search": "question",
+         "question": "Cho em hỏi là cục sạc laptop em có bị chạm và sau khi em mua cục sạc mới về sử dụng lại máy thì em thấy máy bị lag. Không giống như bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.643576,
+         "id": "1140293",
+         "field_search": "question",
+         "question": "Điện thoại em mua chưa được 1 tháng còn trong thời hạn bảo hành bị hư camera sau em đổi cái mới được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.442957,
+         "id": "1003699",
+         "field_search": "question",
+         "question": "Ad cho hỏi máy e nokia 3 mua ngày 24/6/2017 về sài tới giờ máy bị lỗi ko mở đc camera thì bị sao ạ? Và giờ e đổi lại máy mới có được ko ạ? Mong phản hồi từ ad. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.404099,
+         "id": "756403",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 5 lên IOS 9.1 có phải là làm cho Camera chính và phụ không được rõ nét và bị hơi mờ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.35605,
+         "id": "814559",
+         "field_search": "question",
+         "question": "ad cho e hỏi như này là bị sao ạ. trước e dùng win 10 vẫn hoạt động bình thường. nhưng sau 1 thời gian camera k hoạt đông. e reset lại máy mà vẫn k đc là sao ạ. xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.102943,
+         "id": "1165094",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em có 1 con iphone 6s plus mới mua tháng gần đây. Giá 11tr mấy. Chỉ bị hư camera sau, ko trầy gì cả.Muốn lên con iphone 7 plus thì đổi phải mất khoảng nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.084276,
+         "id": "1002583",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dùng lenovo a7000. Trước đây e vừa sạc bin vừa xem phim vẫn vô bin như bình thường. Nhưng bây giờ em vừa sạc vừa xem phim thì bin vô rất yếu rồi tuột bin như không cắm sạc. Vậy có phải do bin em bị chai rồi không ạ, hay là do máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.917778,
+         "id": "1134219",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi máy moto g5s plus có chống bụi không. Mình mới sử dụng chưa được 1 tháng camera sau đã có bụi vào trong rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.754005,
+         "id": "1136653",
+         "field_search": "question",
+         "question": "ad cho e hỏi ipx nó bị nứt mặt kính camera sau thay bao nhiu ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.68503,
+         "id": "998304",
+         "field_search": "question",
+         "question": "mình dùng sony xa... camera rất kém. nhiều bạn nói là do kính camera bị trầy ( kính camera mình cũng trầy rất nhiều )... cho em hỏi có phải vậy không ? nếu thay kính thay bao lâu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.59003,
+         "id": "1138519",
+         "field_search": "question",
+         "question": "Tôi sử dụng đt samsung J2 2016 bị rơi mất miếng kiếng camera sau nên chụp hình rất mờ . Ở thegioididong có thay miếng kiếng đoa ko ạ . Và thời gian sữa chữa có lâu ko ạ . Xin cảm on QTV nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.499756,
+         "id": "1020882",
+         "field_search": "question",
+         "question": "Chào ad,Em sử dụng điện thoại Sony XA. Em muốn thay camera sau do bị trầy. Vậy cho em hỏi chi phí là bao nhiêu ạ? Em cám ơn! Mong nhận được hồi âm ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.464321,
+         "id": "787490",
+         "field_search": "question",
+         "question": " Cho em hỏi??? Em lỡ để điếu thuốc đang cháy sát camera sau iphone 5s??? Vậy camera có bị sao không ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.378838,
+         "id": "1151548",
+         "field_search": "question",
+         "question": "3 camera sau và camera trước của huawei mate 20 có chống rung ko shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.363052,
+         "id": "1157274",
+         "field_search": "question",
+         "question": "Cho e hỏi khi chuyển camera sau trong cuộc gọi video ở ứng dụng skype thì bị màu xám xịt không hiện lên camera sau thì khắc phục như nào ạ. Samsung j7 pro.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.314732,
+         "id": "816776",
+         "field_search": "question",
+         "question": "Iphone 5s không bật flash được, camera sau cũng không hoạt động (bị lỗi như hình). Em đã tắt nguồn để qua đêm mở lại vẫn không được, restore bằng itune về lại như mới thì camera sau và đèn flash vẫn không hoạt động!Mong ad và các bác tư vấn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.173841,
+         "id": "1165215",
+         "field_search": "question",
+         "question": "Điện thoại iphonx bị rơi vỡ màn hình và dùng bình thường nhưng sáng hôm sau bị loạn tự nhảy cảm ứng. Cho e hỏi bây giờ thay màn hình ngoài thì có hết được không ạ hay cả main nữa ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.16124,
+         "id": "1015730",
+         "field_search": "question",
+         "question": "Cho mình hỏi TGDĐ có thay camera sau máy Samsung J5 2015 không và giá cả như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.05334,
+         "id": "1002767",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang dùng ss a5 2017 nhưng camera sau chụp hình mờ. K lấy nét . Chụp xa k rõ. Vậy e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.042492,
+         "id": "1005018",
+         "field_search": "question",
+         "question": "Chào QTV! Em muốn hỏi là điện thoại J5 của em mua từ tháng 12 năm ngoái vậy bây giờ còn được bảo hành không ạ?Hiện tại điện thoại của em đang gặp lỗi camera sau bị mờ vậy em có thể mang đến cửa hàng của thế giới di động để bảo hành được không? Nếu hết bảo hành rồi thì chi phí sửa chữa như thế nào ạ?Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.997643,
+         "id": "1001064",
+         "field_search": "question",
+         "question": "Em vừa mua điện thoại SamSung Galaxy J7 prime màu đen. Vừa bắt đầu sữ dụng tãi 1 game và zalo, messenge. Nhưng pin đã tụt hơn 20% sau nữa giờ, máy rất nóng. Như vậy có không bình thường quá không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.91793,
+         "id": "1144324",
+         "field_search": "question",
+         "question": "Cho em hỏi là ip 6 camera thường bị quay ngược thì làm thế nào ạ? Em đã khởi động lại và không được, em cũng tải thử app camera 360 về làm theo hướng dẫn cũng kg đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.883595,
+         "id": "1002253",
+         "field_search": "question",
+         "question": "báo giá thay võ mặt sau máy htc U play bị vỡ mới mua được 3 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.823019,
+         "id": "802692",
+         "field_search": "question",
+         "question": "khi sử dụng camera laptop gọi video qua face thì mở được lúc đầu khoảng phút là bị tắt.cho em hỏi cách để mở lại hay cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.7731,
+         "id": "1014810",
+         "field_search": "question",
+         "question": "Tôi đang xài j7pro.lúc mới mua về thời lượng pin sử dụng ở chế độ khong tiết kiệm pin sạc đầy là 40 giờ sau khi xài được 1 tháng sạc đầy rồi mà chỉ được 30-31 giờ vậy?làm cách nào để được như ban đầu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.750721,
+         "id": "765177",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng iPhone 5 khi chụp hình camera trước nó hiện hình của camera sau và đứng im luôn ko chụp được lá bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.55833,
+         "id": "1011670",
+         "field_search": "question",
+         "question": "Xin chào TGDD cho m hỏi bên TGDD có tấm kính chắn camera sau của đt j7 prime k. M làm vỡ lớp kính đó giờ chụp ảnh rất mờ k chụp dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.543615,
+         "id": "1133464",
+         "field_search": "question",
+         "question": "iphone 6 plus bị lỗi camera sau trên main thì thay camera mới hay làm gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.518007,
+         "id": "1022117",
+         "field_search": "question",
+         "question": "Cho hỏi sao dien thoai mobell nova p2 bị lỗi k có camera sau và khong co đen pin luôn, nhưng bi đảo ngược về camera trước và đen pin trước thì có. Nhưng bi ngược khi chup ảnh, đả kiếm cách khắc phục nhưng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.503714,
+         "id": "1001039",
+         "field_search": "question",
+         "question": "cho e hỏi máy lenovo A7000 sao cắm thẻ nhớ  SD 8G  vào nhận  xong 1 lúc sau lại báo là thẻ không dc hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.444328,
+         "id": "1158594",
+         "field_search": "question",
+         "question": "Em dùng samsung A6+, mặt kính che camera phía sau bị vỡ (chỉ vỡ mặt kính che không ảnh hưởng tới camera). Cho em hỏi thay hết bao nhiêu tiền và có lâu không. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.430204,
+         "id": "837823",
+         "field_search": "question",
+         "question": "Tình hình là lúc sáng sử dụng facebook vẫn bình thường tự nhiên bây bây giờ báo lỗi không vào được vẫn có 3G vẫn vào mạng và nge nhạc onl bình thường đang rất bực bội mấy anh chị giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.418785,
+         "id": "1009290",
+         "field_search": "question",
+         "question": "Mình dùng Samsung s8, khi mở camera sau thì màn hình đen còn mở camera trước thì vãn hoạt động bình thường. Cho mình hỏi điện thoại mình bị gì vậy ạ. Và cách khắc phục thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.375088,
+         "id": "1143805",
+         "field_search": "question",
+         "question": "Do vô tình chạm vào màn hình nên em đã cài đặt ứng dụng Photo360Editor trên galaxy app, vì vậy chế độ chụp ánh trên camera của Note FE cũng bị thay đổi. Cho em hỏi co cách nào để gỡ/xóa bỏ cài đặt ứng dụng này và trở về trạng thái camera của Note FE như ban đầu không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.3725,
+         "id": "997372",
+         "field_search": "question",
+         "question": "Cho em hỏi thay camera mất nhiều tiền không ạ máy em không hiểu làm sao mới dùng đượcc 4 tháng mà hỏng camera rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.350712,
+         "id": "1145594",
+         "field_search": "question",
+         "question": "Mình hỏi một chút về 2 camera sau của điện thoại nokia 6.1 plus. Theo quảng cáo là đằng sau có 2 camera nhưng thực tế vào phần chụp ảnh rồi lấy tay che 1 trong 2 camera đi thì thấy chỉ có 1 camera hoạt động là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.25647,
+         "id": "999650",
+         "field_search": "question",
+         "question": "Chào ad em mới mua samsung galaxy j5 prime lúc đầu vào camera thì giao diện có đầy đủ các cài đặt nằm phía trên nhưng khi mở lại camera thì mất hết cài đặt hay các chế độ chụp. E đã khôi phục cài đặt gốc sau đó vào lần nữa thì bình thường và vào những lần sau thì lại bị lỗi như thế ac nào giúp e với ạ, có cách nào khắc phục khác không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.174013,
+         "id": "1017908",
+         "field_search": "question",
+         "question": "Máy em Lenovo a7000 lúc trước thẻ nhớ hoạt động bình thường sao giờ khôi phục cài đặt gốc lại máy ko hỗ trợ thẻ SD sandisk là bị j vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.169012,
+         "id": "999540",
+         "field_search": "question",
+         "question": "cho e hỏi là bảo hành dán màn hình 3 tháng có được áp dụng ở cơ sở khác với cơ sở mình dán ban đầu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.15856,
+         "id": "1149118",
+         "field_search": "question",
+         "question": "điện thoại samsung galaxy a7 2018 của em bị đổ dung dịch khử mùi vào, bây giờ phím âm lượng (cả tăng lẫn giảm) bị liệt không thể điều chỉnh âm lượng được, kính camera bị bám hơi nước, điện thoại về chế độ safe mode nhưng không trở về chế độ bình thường được. cho em hỏi nguyên do và cách khắc phục ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.074163,
+         "id": "934976",
+         "field_search": "question",
+         "question": "lúc em mua iphone 4s lóck về gắn sin ghép vô sau đó máy hiện lên chọn hãng của sim, nhưng lúc đó không biết gì nên em chọn đại, bây giờ thì làm sau để trở lại như lúc ban đầu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.056475,
+         "id": "1148654",
+         "field_search": "question",
+         "question": "Minh dang su dung samsung galaxy s7 eg ve chst luong thi minh rat thich nhung sao camera truoc khi mo len chup co duong xanh vach ngang mang hinh la sao z. Man hinh may minh su dung van binh thuong chi co ong kinh camera la bi z thoi. Mong bạn giup dum minh. Minh xin cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.053644,
+         "id": "772033",
+         "field_search": "question",
+         "question": " Màn hình ipad của em bị bể và hư camera sau! Có sửa được không ạ? Nếu sửa được thì bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.022532,
+         "id": "1146324",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tớ mua Nokia 3 cách đâu 10 tháng bây giờ máy có hiện tượng cắm sạc nạp pin là máy sập nguồn và có lúc không sập máy nhưng khi sử dụng tốc độ rất châm, sau đó đủ pin thì phải khởi động lại . Tôi hỏi cách khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.008299,
+         "id": "783642",
+         "field_search": "question",
+         "question": "Xin hỏi iPhone mình sau khi cài đặt LineDeco và Icon Ppa (Ứng dụng thay đổi icon và theme) thì không kéo được thanh status/notification bar ở trên đầu xuống chỉ có xem được ở accessive touch ! Bây giờ làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.96793,
+         "id": "753862",
+         "field_search": "question",
+         "question": "Em dùng vivas lotus 2, hôm nọ khôi phục cài đặt gốc thì không dùng được camera sau. Vào máy ảnh nó cũng không hiện đổi camera trước vs sau luôn. Lỗi này là lỗi gj và khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.952782,
+         "id": "1017653",
+         "field_search": "question",
+         "question": "-A chị ơi cho em hỏi ạ ,nếu như sam sung a5 2017 của em e thay màn kính trước sau ạ ,vậy khi e thay xong rồi máy e còn chống nước được như ban đầu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.852753,
+         "id": "1020857",
+         "field_search": "question",
+         "question": "Cho mình hỏi, SS J7 Pro mình gõ nhẹ vào phần đầu mặt lưng sau, gần camera thì có tiếng rẹt rẹt, như ỏ trong bị lỏng gì ấy. Vậy có bị gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.824854,
+         "id": "798374",
+         "field_search": "question",
+         "question": "cho hỏi máy tính HP của mình mới mua , lúc đầu màn hình cảm ứng chạy bình thường nhưng hồi sau lại không nhân được nữa phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.811852,
+         "id": "830693",
+         "field_search": "question",
+         "question": "Mình mua Iphone 6 ở TGDD được 1 tháng sau đó mình thấy màn hình bị đen mờ góc trên bên trái ( gần cột sóng) có mang bao hanh được không ? Và bảo hành ở đâu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.738262,
+         "id": "1140651",
+         "field_search": "question",
+         "question": "Cho  em  hỏi  máy  oppo A37 của  em  mất  chế  độ  chuyển  camera  trước  chỉ  dùng  được  mỗi  sau  ,từ  khi  cập  nhật  mới  ,em  đã  thử  xoá  dữ  liệu  camera  k  được  ,và  khôi  phục  cài  đặt  gốc  cũng  k  được  ....vậy  em  phải  làm  sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.720982,
+         "id": "1015501",
+         "field_search": "question",
+         "question": " Điện thoại mình camera sau không hoạt động . Máy ảnh bị mất phần chuyển camera",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.699377,
+         "id": "773140",
+         "field_search": "question",
+         "question": " máy em mua dc 2 3 tháng j đó mà nay e mới sài camera h nó bị z là thế nào z ad.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.696411,
+         "id": "788109",
+         "field_search": "question",
+         "question": " E lỡ ấn mạnh ngón tay xuống camera sau ip 5s. Z camera sau có bị lún hay bị ảnh hưởng gì ko ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.696194,
+         "id": "1020717",
+         "field_search": "question",
+         "question": "Mình mới mua máy bluboo,lúc đầu chụp ảnh bình thường,nhưng sau khi update 6.0 android thì không sử dụng được cam sau nữa,vào máy ảnh thì mất chức năng cam sau luôn,cam trước thì bị lộn ngược,có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.682364,
+         "id": "755677",
+         "field_search": "question",
+         "question": " iPhone 6 bị vỡ kính bảo vệ camera sau bên TGDD có nhận thay không nhỉ? Và giá thay bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.617619,
+         "id": "777298",
+         "field_search": "question",
+         "question": "Em sử dụng iphone 4. App vivavideo của em khi cho chạy  trong ứng dụng thì rất nét đến khi down về cuộn camera lại bị mờ nhoè đi chất lượng kém. Có cách nào khắc phục không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.5937,
+         "id": "1164638",
+         "field_search": "question",
+         "question": "Máy mình mua được 5 tháng, lúc đầu thì sạc rất nhanh nhưng bây giờ thì sạc rất lâu nếu pin dưới 30% thì sạc phải mất 3 đến 4 tiếng mới đầy 100% cho mình hỏi tại sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.587805,
+         "id": "794072",
+         "field_search": "question",
+         "question": "Em mới thay pin mới cho máy iphone 5 ấy nhưng lần đầu em quên sạc 8 tiếng rồi, vậy thì 3 lần sau e bắt đầu sạc 8 tiếng được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.587334,
+         "id": "1001662",
+         "field_search": "question",
+         "question": "main máy oppo thường chỉ xài được khoảng 3 năm thôi phải không? em thấy mấy máy oppo không anh chàng nào sống thọ hết cả, thường thường là bị treo logo sau đó hư luôn main",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.523443,
+         "id": "1156614",
+         "field_search": "question",
+         "question": "Anh cho em hỏi , tại sao chụp  ảnh bằng Camera sau S8 vào ban đêm lại xuất hiện Chấm sáng trắng ạ , cái có cái không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.478762,
+         "id": "1010946",
+         "field_search": "question",
+         "question": "Cho hỏi. Samsung J5 prime bị bể kính màn hình, hình ảnh và cảm ứng bình thường, bên thegioididong có nhận thay và sửa chữa k ? Máy mua ở thegioididong được 3 tháng rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.441076,
+         "id": "1164923",
+         "field_search": "question",
+         "question": "cho e hỏi Lúc trước e vẫn cài đặt mess bình thường. Sau khi e xóa và không tải lại được nữa. Trong khi mọi ứng dụng khác vẫn tải được bình thường. E đã thử xóa dữ liệu và làm mọi hướng dẫn nhưng vẫn không được . Vậy giờ e phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.439438,
+         "id": "831907",
+         "field_search": "question",
+         "question": " Cho em hỏi giờ máy tính em camera bị lỗi giờ có cách nào sửa được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.314865,
+         "id": "1019990",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi. E đang sử dụng sony xa ultra f3216. Hôm qua e có khôi phục cài đặt gốc. Sau khi khôi phục thì camera truoc bị rung không lấy nét được. Nó cứ rung rung hình ảnh mờ. Xin quản trị viên giúp e cách khắc phục và chỉnh lại ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.259474,
+         "id": "1136713",
+         "field_search": "question",
+         "question": "cho mình hỏi cái mặt kính sau camera samsung galaxy s6 plus bị bể thay dc k vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.25683,
+         "id": "1021072",
+         "field_search": "question",
+         "question": "cho em hỏi em mua huawei gr5 2017 này ở tgdd từ hồi tháng 8/2017 sau khi đem về em test game Liên Quân thì vài ngày đầu cái nút điều khiển duy chuyển trong game vẫn bình thường nhưng vài hôm sau em đang duy chuyển thì nút điều khiển bị đơ ra lâu lâu dừng lại nữa ấn 2-3 lần mới ăn vậy cho e hỏi đó là do game hay do máy của e ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.222048,
+         "id": "1158732",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Đt e mua đc 1 tháng 10 ngày, Giờ bị lỗi camera và lỗi vân tay thì e có được 1 đổi 1 ko ạ iphone 6s plus",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

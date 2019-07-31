@@ -1,0 +1,801 @@
+{
+   "id_query": "777415",
+   "total": 17153,
+   "total_current": 100,
+   "max_score": 61.369854,
+   "origin_question": " Anh ơi em muốn lập tài khoản iTunes, anh tạo giùm em nhé? ",
+   "hits": [
+      {
+         "score": 30.691027,
+         "id": "768612",
+         "field_search": "question",
+         "question": "  Làm thế nào tạo tài khoản AppStore em làm mà không được anh chị lập giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.927494,
+         "id": "796790",
+         "field_search": "question",
+         "question": " Anh chị tạo giúp em cái tài khoản app cho iPhone nha. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.62921,
+         "id": "912386",
+         "field_search": "question",
+         "question": " Tạo giùm em cái tài khoản iphone app store được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.532757,
+         "id": "768671",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi mình muốn copy danh bạ trong ip5 cần có tài khoản apple id nhưng làm sao mình tạo tài khoản đó đc ad có phải tài khoản đó là tài khoản icloud ko ad. ad giúp giùm em vs em cảm ơn ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.029562,
+         "id": "766560",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iPhone 4 của em đã thiết lập 3 tài khoản iCloud bây giờ em muốn lập thêm 1 tài khoản iCloud nữa được không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.947695,
+         "id": "797020",
+         "field_search": "question",
+         "question": " Anh chi tạo giúp em tài khoản app store cho iphone nha..!! Em làm mất rồi nhưng em không biết tạo lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.760658,
+         "id": "1015721",
+         "field_search": "question",
+         "question": "Anh ơi em đung iPhone 5 mà em từ trước giờ em ko có tài khoản id nay em lập tài khoản mà phải xác minh nhưng em lo bít xác minh ở đau và vào đâu để xác minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.66169,
+         "id": "775723",
+         "field_search": "question",
+         "question": " Cho em biết cách tạo tài khoản iTunes Store với ạ. Em đăng kí hoài không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.154398,
+         "id": "848029",
+         "field_search": "question",
+         "question": "Chào anh chi .Anh chị cho em hỏi .điện thoại em giờ có tài khoản icloud rồi nhưng em muốn đăng ký tài khoản khác có được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.95714,
+         "id": "893297",
+         "field_search": "question",
+         "question": "Anh (Chị) cho em hỏiBữa em mua máy iphone 5s tại tgdd thị xã buôn hồ ban đầu mới mua em k biết sài ip. Về rất nhiều vấn đề có cả tài khoản nên anh nhân viên lấy tài khoản của tgdd đăng nhập máy em luôn. Giờ thì em đăng xuất lại rồi em dùng tài khoản em tự tạo nhưng mà cứ mỗi lần ứng dụng cập nhật là cứ thấy tài khoản của tgdd là sao anh (chị)Giờ em muốn xoá bỏ tài khoản đó luôn thì phải làm sao... Giúp em với .Cảm ơn anh (chị)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.862537,
+         "id": "990233",
+         "field_search": "question",
+         "question": " Anh ơi Điện thoại của em Bị hiện Chữ iTunes là sao anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.452513,
+         "id": "839346",
+         "field_search": "question",
+         "question": "Ad ơi, e đang tạo tài khoản ID Apple nhưng gặp một số vấn đề, ad giúp e vs nhé, e xin cảm ơn !ad ơi, e đã tạo r mà nó ghi e thế này :\" Để được hỗ trợ, hãy liên hệ Hỗ trợ iTunes tại địa chỉ www.apple.com/support/itunes/ww/. \"Ad giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.446564,
+         "id": "813532",
+         "field_search": "question",
+         "question": " anh ơi nếu iphon 4 s mà em dặt tài khoản bay h em ko nhớ thì em còn cánh nào để em mở máy ko anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.396196,
+         "id": "795101",
+         "field_search": "question",
+         "question": " Em hỏi chút ad ơi.đt của muốn Cài đặt Lại tài khoản iTunes Và thay tài khoản iTunes Cũ thì làm Ntn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.322498,
+         "id": "770000",
+         "field_search": "question",
+         "question": " Em muốn tạo tài khoan itunes store thì phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.299664,
+         "id": "809082",
+         "field_search": "question",
+         "question": " em lập tài khoản cho iPhone 4 mà không được giúp em lập một tài khoản với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.284521,
+         "id": "919759",
+         "field_search": "question",
+         "question": " anh ơi, tại sao tài khoản itune store của e với tài khoản id apple lại khác nhau vậy anh.     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.238478,
+         "id": "760573",
+         "field_search": "question",
+         "question": "Em bị hết phiên tạo tài khoản iCloud miễn phí, bây giờ em muốn dùng 1 iPhone khác đang còn số lượt đăng kí tài khoản iCloud để lập iCloud nhưng máy đó đã có iCloud rồi thì phải làm sao để lập thêm iCloud nữa ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.993782,
+         "id": "768514",
+         "field_search": "question",
+         "question": "Qtv ơi cho em hỏi. Em dùng IPhone em muốn lưu ảnh, video vào tài khoản Google được không ạ. Và làm cách nào mong anh chị trả lời dùm em. Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.975008,
+         "id": "776427",
+         "field_search": "question",
+         "question": "Cho e hỏi tài khoản icloud : e dùng tài khoản được 2 tháng rồi tự nhiên bị mất tk icloud, e thử tạo mới bằng chính gmail ban đầu thì e test thử tạo tk này trên itunes (nhưng e chưa tạo sau khi qua bước 1). hình như tk của e mất hẳn khỏi server Apple rồi??? Anh giải thích hộ em với ạ. em cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.89551,
+         "id": "911247",
+         "field_search": "question",
+         "question": "em dùng iphone4 em đã có 3 tài khoản,cả 3 đều quên mk, giờ em muồn tạo tài khoản mới thì phải làm sao? em làm theo y như web chỉ mà không được.Mong anh giúp dùm em!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.619667,
+         "id": "826794",
+         "field_search": "question",
+         "question": "anh ơi cho em khi mà chạy chương trình cho iphone lại yêu cầu nhập tài khoản icloud .Mình nhập tài khoản icloud khác khi đã đăng ký trên APPLE ID được không vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.338022,
+         "id": "793766",
+         "field_search": "question",
+         "question": " Ad ơi tạo giúp e tài khoảng iphone với,,Tạo rồi gọi qua giùm e nha add ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.309538,
+         "id": "813856",
+         "field_search": "question",
+         "question": "Muốn xác minh tài khoản ID ntn hả anh vì em ko biết xác minh cái tài khoản ID ntn ho nên em muốn gửi lời để hỏi công ty mình mong các anh có thể giải mã hộ em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.249035,
+         "id": "787754",
+         "field_search": "question",
+         "question": "Em dùng chung tài khoản icloud vs 1nguoi bây h e muốn đổi nhung e chua có tài khoản khac muốn lập thì phải lập ở dâu và như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.051609,
+         "id": "836734",
+         "field_search": "question",
+         "question": "Chào anh chị ạ!! Em không dùng viber và cũg không có tài khoản Viber luôn!! Hôm qua viber có gửi cho em mã COD để xác nhận khi tạo tài khoản ý ạ!! Và tiếp theo là liên tiếp 3 cuộc gọi từ nước ngoài, tuy ngiên em không nghe máy! Em khẳng định là lúc đấy em KHÔNG tạo tài khoản viber vậy mà viber gửi mã!! Em đang bị gì vậy ạ?? Mong anh chị giúp đỡ em với!! Em đang bị hack ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.9565,
+         "id": "807484",
+         "field_search": "question",
+         "question": " Tạo tài khoản cho iPhone em tạo không được.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.941746,
+         "id": "1006639",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi là nếu điện thoại em bị mất em muốn nhờ thế giới di động kiếm giùm em được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.87339,
+         "id": "743772",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi? Em đã tạo ID thành công. Nhưng nó không gửi qua Mail để xác minh tài khoản ạ chỉ giúp em với em xài iPhone 4s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.835272,
+         "id": "825139",
+         "field_search": "question",
+         "question": "Anh cho em hỏi máy em đang dùng bình bị đơ máy xong bắt thiết lập lại tài khoản mà em nhập tài khoản icloud của em vào mà không được máy bảo tài khoản này không thể mơe máy được . có khi nào thêm được 1 tk icloud vào máy em không? mong ac giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.810368,
+         "id": "991885",
+         "field_search": "question",
+         "question": "cho em hỏi,em có mua máy cũ iphone 6 quốc tế, nhưng em ko tạo tài khoản icloud được do icon icloud trong phần cài đặt bị mờ nên ko bấm vô được, vậy làm sao để em có thể xóa tài khoản icloud cũ trước đó để lập tài khoản mới cho em được ạ? hướng dẫn em tạo tài khoản icloud mới đi ạ, e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.78996,
+         "id": "766586",
+         "field_search": "question",
+         "question": " Anh ơi sao tài khoản TGDĐ không đăng nhập iPhone được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.727234,
+         "id": "796720",
+         "field_search": "question",
+         "question": "Em làm mất tài khoản App trên iPhone rồi mà tạo lại phải co thẻ atm gì đó nhưng em chưa sử dụng thẻ anh chị tạo giúp em 1 tai khoan mới được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.698946,
+         "id": "795858",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em DK tài khoản app store nhưng em đăng nhập vào thì google bảo gmali em vùa tạo không tồn tại vậy là sao nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.403744,
+         "id": "898375",
+         "field_search": "question",
+         "question": "Hi. Cho em hỏi tại sao em tạo tài khoản ID apple đăng nhập được vào app store và itunes mà lại không đăng nhập được icloud?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.242163,
+         "id": "1164494",
+         "field_search": "question",
+         "question": "E có tài khoản icloud nhưng e tải zing play về họ kêu e đăng nhập tài khoản itunes khi e tạo tài khoản itunes theo hướng dẫn của thế giới di động thì lại báo ko thể tạo tk lúc này,giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.130152,
+         "id": "1163996",
+         "field_search": "question",
+         "question": "bạn ơi cho tớ hỏi máy iphone5s nó bị khóa kích hoạt em lại quên tài khoản anh có thể mở cho em đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.019968,
+         "id": "778762",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi số IMEI này của máy iPhone 5S có phải là hàng chính hãng không anh nhé? 358769057777631 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.893476,
+         "id": "895156",
+         "field_search": "question",
+         "question": " Tạo cho em cái tài khoản AppleEmail. phanminhduong1029gmail.com ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.872421,
+         "id": "827140",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi tai sao khi tao được apple id xong, nhưng khi em đăng nhập bằng tài khoản đó lại bảo không xác dịnh được. Tại sao vây anh có thể giúp em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.83862,
+         "id": "904431",
+         "field_search": "question",
+         "question": " Xoá tài khoản iCLoud chưa lập thành như thế nào? Mình muốn lập lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.81087,
+         "id": "753592",
+         "field_search": "question",
+         "question": " Em muốn tạo tài khoản iCloud thì phải làm như thế nào vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.76529,
+         "id": "924245",
+         "field_search": "question",
+         "question": "A ơi cho em hỏi em mua 1 máy ip5s ở tgdd huyện gia bình và đăng nhập tài khoản itunes của bên mình giờ em muốn xin mật khẩu itunes bên mình để cập nhật app có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.615746,
+         "id": "768249",
+         "field_search": "question",
+         "question": "iPhone sao lại cần tài khoản liên tục vây. Hôm bữa ra tgdđ anh kỹ thuật có cho tài khoản nhưng hôm nay bị mất. Anh chị có thể cho em xin tài khoản mới đc ko. Vì đường xa ko ra tgdđ được. Gửi qua sđt giúp em 0933978xx2 cám ơn anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.60901,
+         "id": "767624",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là em mới mua lại điện thoại iPhone, giờ em muốn thoát tài khoản iCloud đó ra để tạo một tài khoản mới có được không ạ? Em nghe nói là mỗi máy chỉ dùng được một tài khoản thôi, thế giờ em tạo cái mới có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.595552,
+         "id": "989653",
+         "field_search": "question",
+         "question": "Xin ad hãy tạo giúp em tài khoản itune App... em tạo nó đòi visa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.595163,
+         "id": "1147048",
+         "field_search": "question",
+         "question": "Anh chị ơi...cho em hỏi ạ...khi em resest lại máy samsung galaxy j4 pro thì em quên đăng xuất...khi nhìn lại thì mất tài khoản google, không resest được...anh chị có cách nào giúp em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.581615,
+         "id": "1147051",
+         "field_search": "question",
+         "question": "Anh chị ơi...cho em hỏi ạ...khi em resest lại máy samsung galaxy j2 pro thì em quên đăng xuất...khi nhìn lại thì mất tài khoản google, không resest được...anh chị có cách nào giúp em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.492764,
+         "id": "1166130",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại vivo ở thế giới di động sao về nhà e ko tạo được tài khoản wechat ạ. Anh chị biết chỉ dùm e với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.449629,
+         "id": "810293",
+         "field_search": "question",
+         "question": " anh ơi em tạo hết icloud miễn phí rồi em tạo trên máy tính nhưng vẫn không đăng nhập được thì làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.357582,
+         "id": "1022238",
+         "field_search": "question",
+         "question": "Dạ cho hỏi khi tạo tài khoản ID xong sao k hoàn tất và đăng nhập vào iTunes đc ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.343538,
+         "id": "1022111",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi em vừa mới mua lap và cài bộ office 365 rồi ạ cửa hàng mình cung cấp cho em tài khoản microsoft nhưng chẳng may em lạc mất thì làm thế nào để lấy lại tài khoản đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.262579,
+         "id": "781897",
+         "field_search": "question",
+         "question": " Anh ơi em muốn xuống lại ios 7.1.2 thì làm sao anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.215153,
+         "id": "1022189",
+         "field_search": "question",
+         "question": "Thế giới di dộng cho mình hỏi sao khi mình cài lại windows 8.1 trên laptop khi tới bước thiết lập tài khoản Microsoft thì hiện ra thông báo \"Tài khoản của bạn Có sự cố và chúng tôi không thể thiết lập tài khoản Microsoft của bạn. Bây giờ bạn có thể tạo một tài khoản cục bộ. Chúng tôi sẽ giúp bạn thiết lập tài khoản Microsoft của bạn sau.\" mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.068008,
+         "id": "765573",
+         "field_search": "question",
+         "question": " Em đã tạo hết tài khoản icloud làm thế nào để em có thể tạo thêm được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.916883,
+         "id": "994463",
+         "field_search": "question",
+         "question": "chỏ hỏi tạo giùm em id couid iphone 4s giùm được không em tạo hoài không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.913082,
+         "id": "767700",
+         "field_search": "question",
+         "question": " Anh chị ơi chỉ giùm với, xác minh id Apple kiểu nào ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.852575,
+         "id": "771945",
+         "field_search": "question",
+         "question": " Mình không biết tạo tài khoản app để tải game cho iPhone ad mình với mình cảm ơn trước nhé. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.842562,
+         "id": "1023509",
+         "field_search": "question",
+         "question": "Anh ơi. Ipad em vào cập nhật ứng dụng nó bắt nhập mật khẩu tài khoản cũ mà cái tài khoản ấy lâu rồi và nó cũng không phẢi cái trong cài đặt luôn. Nhập linh tinh nó bảo là tài khoản này bị khoá rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.815533,
+         "id": "806712",
+         "field_search": "question",
+         "question": " Hiện em đăng nhập tài khoản Facebook không được là sao anh có cách nào giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.794434,
+         "id": "772238",
+         "field_search": "question",
+         "question": " Em muốn tạo tài khoản Apple cho iPhone 4s 16G thù phải làm thế nào ạ ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.784763,
+         "id": "770058",
+         "field_search": "question",
+         "question": "Cho em hoi em thoát icloud cũ ra và lập icloud mới nó cứ hiện là thiết bị của bạn không còn đủ điều kiện để tạo một tài khoản icoud mới vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.756699,
+         "id": "906311",
+         "field_search": "question",
+         "question": " Em tạo 1 tài khoản app store hoài mà không được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.616325,
+         "id": "1162322",
+         "field_search": "question",
+         "question": "Khi em mới mua dt thì có tạo một tài khoản như vậy. Samsung account nếu bây giờ em muốn thay đổi sang tài khoản gmail khác thì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.604162,
+         "id": "781771",
+         "field_search": "question",
+         "question": " Tài khoản Appstore có giống tại khoản iCloud không ạ. Muốn tạo tài khoản iCloud thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.597664,
+         "id": "785468",
+         "field_search": "question",
+         "question": " Tại sao khi em lập tài khoản id apple nó lại ghi  máy không đủ điều kiện để lập ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.450943,
+         "id": "801533",
+         "field_search": "question",
+         "question": " Anh ơi em ra TGDĐ nhờ hỗ trợ tạo giúp Apple ID miễn phí bằng ịPhone được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.426094,
+         "id": "1022689",
+         "field_search": "question",
+         "question": "Chào anh chị ạ , em mới mua máy oppo f3 nhưng em lại không thể nhập được tài khoản gmail, mong anh chị hỗ trợ em với ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.412884,
+         "id": "794624",
+         "field_search": "question",
+         "question": " Các anh cho em hỏi muốn cài itunes cho iPhone 5 thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.403736,
+         "id": "1023306",
+         "field_search": "question",
+         "question": "Anh ơi em muốn hạ ios11 xuốg 10.3.3 nhưng em ko có laptop em lại tgdd hạ đc ko anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.372726,
+         "id": "752249",
+         "field_search": "question",
+         "question": " Ai giúp em lập 1 tài khoản icloud vớiEm đã làm nhiều lần.báo đã thành công r nhập vào tài khoản lại không được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.30938,
+         "id": "1010735",
+         "field_search": "question",
+         "question": "Anh ơi em muốn  root máy  trên Samsung Galaxy j2 thì em nên làm  sao mong anh giúp  dỡ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.236624,
+         "id": "807981",
+         "field_search": "question",
+         "question": " Cho em hỏi tài khoản iTunes  App Store dùng để làm gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.20419,
+         "id": "1152133",
+         "field_search": "question",
+         "question": "Muốn xóa tài khoản account phải làm sao vậy add ơi giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.108362,
+         "id": "743615",
+         "field_search": "question",
+         "question": "AD ơi cho em hỏi sao em vào email thì báo là điện thoại này bị giới hạn tạo tài khoản là sao em không vào được iCloud luôn hix",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.084867,
+         "id": "801522",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi em đang dùng iPhone 4S có thể dùng hai tài khoản iCloud được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.059063,
+         "id": "798270",
+         "field_search": "question",
+         "question": " Anh tư vấn giùm em , em có 5tr muốn mua laptop để chơi lm nên dùng máy loại nào vậy a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.05185,
+         "id": "769861",
+         "field_search": "question",
+         "question": "chào các quản trị viên, mọi người ơi em tự lập 1 tài khoản icloud cho apple của mk nhưng em lập bằng 1 email không có sẵn như vậy có làm sao không ạ ? . em đang rất cần sự trợ giúp ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.030544,
+         "id": "1012082",
+         "field_search": "question",
+         "question": "anh ơi em muốn mua sony xa1 ultra  trả góp ạ anh có thể tư vân em dc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.992199,
+         "id": "748255",
+         "field_search": "question",
+         "question": "Anh ơi máy của em là iPhone 5 ios 9 máy em đã jailbreak, xong bây em muốn nâng cấp lên ios 9.1 thì em vào itunes dow bản cập nhập 9.1 về thì máy em hiện lên là '' phụ kiện có thể không đc hỗ trợ '' thì có làm sao ko anh, vẫn nâng cấp được phải không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.920048,
+         "id": "1152279",
+         "field_search": "question",
+         "question": "Tạo giúp em tài khoản để tải game trên app store được không, em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.904713,
+         "id": "994115",
+         "field_search": "question",
+         "question": " Thế giới tạo tài khoản id apple dùm em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.90207,
+         "id": "766578",
+         "field_search": "question",
+         "question": " Anh ơi sao e ko vào được tài khoản, mật khẩu của tgdđ ko tải được,   vay tai khoang iOS di ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.852896,
+         "id": "1162633",
+         "field_search": "question",
+         "question": "em có mua laptop bên mình. sau khi em cài lại win thì quên ko nhớ tài khoản microsoft mà shop đã lập cho e. ko biết khách hàng khi mua máy thì sẽ được lập tài khoản như thế nào ạ. làm sao để e lấy lại tài khoản đó ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.851624,
+         "id": "1150280",
+         "field_search": "question",
+         "question": "Iphone6 em nhập Sai mật khẩu nhiều lần và giờ bị vô hiệu hóa giờ em phải làm sao giúp đỡ em với nhé anh chị ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.839737,
+         "id": "790173",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em bị khoá tài khoản icloud do nhập sai nhiều lần vì ông anh ko nhớ mật khẩu. Giờ e cầm lại máy thì e biết mật khẩu nhưng không mở khoá tài khoản đc. Câu hỏi bảo mật thì khi lập tk thì e lại ghi linh tih nên giờ không nhớ. Vậy e có cách nÀo mở khoá tài khoản lại ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.807217,
+         "id": "817646",
+         "field_search": "question",
+         "question": "Em có nhắn tin cho 1 tài khoản zalo bị khóa! Mà số điện thoại lập tài khoản ấy h đã đk dùng để lập tk zalo khác! Thì liệu nd tn e gửu cho tk bị khóa kia, tài khoản mới có đọc đk k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.79775,
+         "id": "749303",
+         "field_search": "question",
+         "question": "Chào Thế giới di động,Trước đây em mua ipad 2 tại Thế giới di động ở Đà Nẵng, lúc đó em được các anh chị tạo tài khoản icloud cho nhưng hiện tại em ko nhớ mật khẩu lúc đó là gì cả. Anh chị hỗ trợ kiểm tra lại cho em xin lại mật khẩu được không?Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.793255,
+         "id": "737358",
+         "field_search": "question",
+         "question": " Tôi muốn tạo tài khoản apple phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.760033,
+         "id": "770773",
+         "field_search": "question",
+         "question": "Ad hồi sáng em có nhờ anh bên TGDD tạo giúp em tài khoản iCloud rồi, em đi thay loa điện thoại bị người ta xóa ID iCloud, Ad cho em hỏi làm sao lấy lại được ID tại em không nhớ ID em nhớ mật khẩu iCloud thôi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.72771,
+         "id": "761388",
+         "field_search": "question",
+         "question": "Cho em hỏi cách chuyển vùng tài khoản App Store sang Trung Quốc , em muốn tải một số ứng dụng nhưng không biết cách chuyển. Nhờ anh chị giúp em. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.692425,
+         "id": "988623",
+         "field_search": "question",
+         "question": "làm sao để tạo dc tài khoảng itunes vậy ad ? mình tạo hoài mà không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.69217,
+         "id": "881839",
+         "field_search": "question",
+         "question": " anh ơi em muốn bẻ khóa win 7 anh hổ trợ em với tại em chư rành về công nghệ cho lắm akkkkkkkkkkk  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.666937,
+         "id": "1143034",
+         "field_search": "question",
+         "question": "(Em có 1 vấn đề này cần giải quyết mong mấy ông ad giúp cho ạ)  Một hôm em tạo 1 tài khoản trên Vk ( Vkontakte), vào mục tạo em bấm đăng nhập Vk bằng Facebook và nó cho em1 cái tài khoản luôn   Giờ em không nhớ mật khẩu và tên tài khoản giờ phải làm sao đây ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.599318,
+         "id": "769869",
+         "field_search": "question",
+         "question": " Anh chị tao giúp em tài khoản cái máy em không lên tải ứng dụng về được , máy của em la may iphone 4 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.594105,
+         "id": "1004349",
+         "field_search": "question",
+         "question": "Tôi muốn tạo tài khoản iclod trên mạng thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.54302,
+         "id": "786721",
+         "field_search": "question",
+         "question": "Anh ơi.. Em đăng nhập và đăng xuất icloud bình thường.. Giờ em đăng xuất không dùng icloud nữa. Thỳ sau này bán máy đi ngta có tạo được icloud mới riêng của ngta không anh ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.534184,
+         "id": "769259",
+         "field_search": "question",
+         "question": " Anh ơi sao em tạo tài khoản trên iPhone 3gs không được anh nó kêu câu mình cần visa gì đó chứ không có chữ không.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.505623,
+         "id": "760458",
+         "field_search": "question",
+         "question": " Em không tải app từ store đươc, em đã tạo tài khoản rồi,làm sao,đây ,giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

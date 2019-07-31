@@ -1,0 +1,801 @@
+{
+   "id_query": "1166871",
+   "total": 28120,
+   "total_current": 100,
+   "max_score": 80.80339,
+   "origin_question": "Điện thoại samsum A70 1 ngày sạc 1 lần có ảnh hưởng tới pin và tuổi thọ của đt không",
+   "hits": [
+      {
+         "score": 39.27481,
+         "id": "999949",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại iphone 5S em bật wifi cả ngày có mau hết pin, ảnh hưởng tới tuổi thọ pin không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.26231,
+         "id": "764518",
+         "field_search": "question",
+         "question": " Khi xạc iPhone 6s plus xong thì ít sử dụng có ảnh hưởng tới tuổi thọ của pin không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.791626,
+         "id": "1024389",
+         "field_search": "question",
+         "question": "Khi đã sạc đầy pin laptop nhưng không rút dây sạc mà vẫn sử dụng có ảnh hưởng gì đến tuổi thọ pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.73638,
+         "id": "1007554",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có con a7 2016 và có chế độ sạc nhanh, sạc cũng cũng từ trong máy luôn thì sạc nhanh có ảnh hưởng gì đến tuổi thọ pin không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.20062,
+         "id": "1151053",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi là mình vừa mua chiếc ĐT Huawei y7 pro 2019 và ĐT mình ngày nào cũng sạc pin có làm cho tuổi thọ pin giảm đi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.389317,
+         "id": "1153448",
+         "field_search": "question",
+         "question": "Hãy chỉ tôi cách sài điện thoại đúng để tăng tuổi thọ của pin, cũng như cách sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.130196,
+         "id": "786700",
+         "field_search": "question",
+         "question": "Mình nghe một thông tin là không nên sạc iPhone 6s tới 100% và không nên dùng dưới 40% để hạn chế chai pin... điều này có đúng không và cho mình cách để kéo dài tuổi thọ của pin. mình cảm ơn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.82407,
+         "id": "992872",
+         "field_search": "question",
+         "question": "Mình muốn mua cục sạc dự phòng, cho mình hỏi lõi pin lion và polyme loại nào tốt hơn ah? Loại nào sạc duy trì tuổi thọ pin điện thoại  hơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.589554,
+         "id": "1013384",
+         "field_search": "question",
+         "question": "Dây cáp samsung Tab E sac cho điện thoại  samsung S5 có ảnh hưởng tới pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.567823,
+         "id": "785823",
+         "field_search": "question",
+         "question": "Mình nghe một thông tin là không nên sạc iphone6s tới 100% và không nên dùng dưới 40% để hạn chế chai pin... điều này có đúng không và cho mình cách để kéo dài tuổi thọ của pin. mình cảm ơn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.1121,
+         "id": "797088",
+         "field_search": "question",
+         "question": "Neo 7 có tự ngắt điện khi sạc đầy không, Mình mua đt này khoảng 1 tháng nhưng hôm nay mình lo sạc 9 tiếng khi sạc là 8% pin thì có ảnh hưởng gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.649843,
+         "id": "1163119",
+         "field_search": "question",
+         "question": "Hãy chỉ tôi cách sạc pin đúng khắc và những điều cần tránh để tăng tuổi thọ pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.323116,
+         "id": "1140969",
+         "field_search": "question",
+         "question": "sạc iphone 5c bằng laptop có ảnh hưởng gì tới pin máy ko nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.809248,
+         "id": "1002552",
+         "field_search": "question",
+         "question": "Em đang dùng con J7 prime. em sạc máy từ 11h đêm tới 7h sáng. như vậy có ảnh hưởng gì tới pin của máy không ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.370045,
+         "id": "1143152",
+         "field_search": "question",
+         "question": "Mình bị mất điện thoại ngày 5/1/2019 và bản sao lưu trên itunes của mình từ ngày 20/11/2018 cơ. Tuy nhiên trên Apple Watch của mình vẫn còn tin nhắn và ảnh tới lúc mình mất điện thoại cơ. Vậy mình có thể lấy lại tin nhắn và ảnh từ Apple Watch sang điện thoại mới được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.192379,
+         "id": "792684",
+         "field_search": "question",
+         "question": "Thỉnh thoảng vài ngày em thường xuyên để máy báo pin yếu mới sạc pin ạ??? Vậy có bị ảnh hưởng gì tới máy ko a? Em xài iPhone 5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.190954,
+         "id": "1164048",
+         "field_search": "question",
+         "question": "Gần đây đt e sạc pin hơi lâu đầy ạ. E sài đt oppo f1s có phải là do sài lâu r nên tuổi thọ pin giảm nên là sạc lâu vô k ạ. Nếu thay pin thì có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.143805,
+         "id": "1165032",
+         "field_search": "question",
+         "question": "Cho e hỏi lý do khiến iphone chỉ 1 2 ngày mà giảm 1% hiệu năng đỉnh của pin vậyĐiện thoại 15% pin đem ra sạc có gọi là cạn pin đem sạc kSạc đầy pin xong chơi game có bị hư pin kNgày chỉ đc sạc pin 1 lần thỳ tốt cho pin hay như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.327688,
+         "id": "745689",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi việc máy tính tự điều chỉnh xung nhịp có ảnh hưởng như thế nào đến hiệu suất làm việc và tuổi thọ của máy mặt lợi và hại của việc khung điều chỉnh cao ví dụ máy 1.60ghz có thể tự lên 2.70ghz so với máy 2.2ghz-2.7ghz.về lâu dài việc khung điều chỉnh cao có ảnh hưởng gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.139763,
+         "id": "1163142",
+         "field_search": "question",
+         "question": "Điện thoại samsum A50 pin còn 50  có cấm sạc được ko vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.95406,
+         "id": "791990",
+         "field_search": "question",
+         "question": "Mính có sạc điện thoại ip 4 bằng sạc của ipad e thì thấy ng ta bảo là sạc như thế dễ nổ máy nên lần sau đừng dùng sạc đó nữa !!! Lúc đó mình sạc ip đc Đến 49 % pin rồi ... Phiền thegioididong giải đáp giúp mình là nếu sạc ip 4 bằng sạc của ipad em có ảnh hưởng đến pin và có bị nổ máy không !??!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.665188,
+         "id": "1162033",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi sạc điện thoại mà bật chế độ tiết kiệm pin thì có ảnh hưởng gì đến máy không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.275375,
+         "id": "1152409",
+         "field_search": "question",
+         "question": "điện thoại em mới mua nhưng sạc lần 1 chỉ lên được 98 và máy vẫn hiện thị đang sạc. máy của em là Ip7.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.163523,
+         "id": "1010605",
+         "field_search": "question",
+         "question": "Em mới mua ip 6 được 1 tháng thì xả pin. Sau lần đó thì máy để standby cứ 1 tiếng xuống 1%. Để máy sáng 30% coi video được 5-10 phút thì xuống 10% pin. Pin thế là có vấn đề không ạ?? Và có nên sạc pin điện thoại qua đêm không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.8265,
+         "id": "923378",
+         "field_search": "question",
+         "question": "Chào ad ! mình dùng iphone 7plus, nếu sạc cổng 2A của sạc dự phòng esaver 10.000mAh, thời gian sạc đầy khá nhanh như vậy có ảnh hưởng gì đến pin điện thoại ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.738808,
+         "id": "1163229",
+         "field_search": "question",
+         "question": "Chào admin,Em mua điện thoại galaxy a50 khoảng 1 tuần, hiện tại em thấy sắp có galaxy a70, em hỏi muốn đổi sang galaxy a70 có được không và nếu được thì chịu phí như thế nào ạ?Cám ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.614584,
+         "id": "1155558",
+         "field_search": "question",
+         "question": "Máy vivo y91i bật tiết kiệm pin khi pin còn đầy có ảnh hưởng gì tới máy không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.414513,
+         "id": "1169033",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng chiếc iphone 6s , nhưng theo tôi quan sát chiếc điện thoại của tôi không thể tự động ngắt pin khi sạc đầy nữa , vậy như thế sẽ có ảnh hưởng gì lớn đến điện thoại không? và có thể khắc phục không? cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.335306,
+         "id": "844595",
+         "field_search": "question",
+         "question": "QTV ơi cho em hỏi , em sạc pin dt iphone 5s 1 ngày rưởi vẫn không đầy pin, trong khi sạc em không dùng hay đụng tới! Vậy pin bị chai phải không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.330204,
+         "id": "874909",
+         "field_search": "question",
+         "question": "Cho e hỏi e dùng iphone 5s khi e tắt nguồn và để 1 ngày pin k tụt và khi mở máy lên k dùng tới và tắt cả 3g mà pin vẫn tụt 60% pin 1 ngày ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.147112,
+         "id": "924467",
+         "field_search": "question",
+         "question": "Ad ơi điện thoại mình mua ở Mỹ nguồn điện 110V về Việt Nam sạc ở nguồn điện 220v thì có ảnh hưởng gì không AD...điện thoại iphoe 6 và 6 plus!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.077818,
+         "id": "1014649",
+         "field_search": "question",
+         "question": "Em mới mua con j7 pro được 1 tuần. Trong một tuần đó có 2 lần còn 40% em đã cắm sạc, và có một lần 89% em rút ra. Mà em để điện thoại qua đêm thì hao 6%, còn bình thường thì 1 tiếng hao 1%. Em muốn hỏi là pin có vấn đề gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.017958,
+         "id": "1151787",
+         "field_search": "question",
+         "question": "Đèn báo pin của laptop em nháy đỏ liên tục. Máy vẫn không có gì bất thường. Vậy có ảnh hưởng gì xấu tới máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.995707,
+         "id": "883210",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi . Em có đọc trên một vài trang web họ bảo rằng : Pin của laptop asus sẽ tự động ngắt sạc khi đầy 100% , khi đó chúng ta có thể để nguyên sạc trong ổ điện không cần rút ra và sử dụng máy bình thường vì lúc này máy không sử dụng điện từ pin mà sử dụng điện trực tiếp từ sạc . Cứ để nguyên như vậy không rút ra có thể xài được khoảng 5 ngày ( vì mỗi ngày pin sẽ xuống 1% do nuôi linh kiện ) . Khi còn 94% thì rút sạc ra và xài bình thường vì lúc này máy sẽ tự động kết nối sạc để sạc đầy lại 100% , nếu không rút thì máy sẽ vừa sạc vừa xả sẽ bị chai pin . Khi nào còn 10% thì sạc đầy và tiếp tục làm như trên , làm như vậy sẽ hạn chế số lần sạc pin giúp pin lâu chai . Cách sử dụng như vậy có đúng không ? Việc cắm sạc liên tục không rút ra khi pin đã đầy và dùng có ảnh hưởng gì không ? Em cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.950386,
+         "id": "775588",
+         "field_search": "question",
+         "question": " Máy tính Acer Aspire E15 E5573G53A4 dùng pin trong thế khi dùng và sạc có ảnh hưởng không ad ơi. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.79992,
+         "id": "909766",
+         "field_search": "question",
+         "question": " Vừa sạc vừa sử dụng laptop pin liền có ảnh hưởng gì không ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.709307,
+         "id": "998525",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em mua samsung j3 LTE lúc tháng 10, lúc mới mua điện thoại sạc nhanh lắm tầm 1h30p, xài đến nay pin sạc chậm lắm ạ, 3-4t mới được 80%, pin em bị gì vậy ạ, nếu pin bị giảm tuổi thọ thì thay bao nhiu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.652317,
+         "id": "1163817",
+         "field_search": "question",
+         "question": "Chào ad mình ms mua samsung j6+dc vài ngày mà sao mình sạc đt cục sạc bị nóng và điện thoại xài dc 1 lúc là bị nóng máy vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.633171,
+         "id": "1013790",
+         "field_search": "question",
+         "question": "Lúc trước pin cạn sạc tầm 2h là đầy và lúc cắm sạc thì hiện trên màng hình là sạc nhanh. Tự nhiên bây giờ pin cạn sạc tới 8h và hiện trên màng hình là sạc bằng cáp. Đồng thời sạc 1 cục sạc và cáp?Bị như thế là sao vậy?Và điện thoại còn bảo hành. TGDD có thể bảo hành cục sạc mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.504744,
+         "id": "804131",
+         "field_search": "question",
+         "question": " Mấy anh chị cho em hỏi máy em lumia 532 mà sạc samsung có bị ảnh hưởng tới máy ko ạ và sạc lumia giá bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.490936,
+         "id": "924340",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua 1 điện thoại samsung Galaxy J7 Prime, 3 lần sạc pin đầu tiên mình có cần phải sạc đủ 8 tiếng không ạ ? xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.435875,
+         "id": "1141703",
+         "field_search": "question",
+         "question": "máy e k cập nhật bản ios mới có ảnh hưởng gì tới việc máy nhanh hết pin và sập nguồn k ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.253174,
+         "id": "1161502",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em cắm sạc khi ấy là còn 20% pin, nhưng do máy sạc lâu phải mất 4 tiếng thì mới sạc đầy pin. Lúc em rút sạc thì máy mới đến 80%,không biết có ảnh hưởng gì đến chất lượng pin không ạ( e dùng Oppo 3as)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.235594,
+         "id": "1139178",
+         "field_search": "question",
+         "question": "Tôi có mua 1 cái SS J7 pro tại TGDD khoảng 1 năm, nhưng gần đây buổi tối tôi còn khoảng 50% sau 1 đêm không xài gì hết, sáng ra còn 28%. Tôi có cập nhật phần mềm và không tải gì nhiều ứng dụng, chủ yếu xem phim nghe nhạc lướt web. 1 ngày có khi sạc 1 lần có khi không cần sạc. Vậy đt tôi đang bị gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.123318,
+         "id": "1151576",
+         "field_search": "question",
+         "question": "Samsung j6 sạc chậm hơn 3 tiếng mới đầy pin có ảnh hưởng gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.093645,
+         "id": "949203",
+         "field_search": "question",
+         "question": " Cho e hỏi cái này ạ đt e là ip5s , khi nghe nhạc e nghe taig tai nghe của đt oppo thì có ảnh hưởng j tới ip k ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.072529,
+         "id": "1140519",
+         "field_search": "question",
+         "question": "Cho e hỏi e xài nova 3i e bị mất sạc. E dùng sạc của oppo 5v2A  có bị ảnh hưởng đến đt ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.045107,
+         "id": "1015965",
+         "field_search": "question",
+         "question": "Em có thể trả góp 1 lần 2 điện thoại và số tiền dươi 10tr được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.009613,
+         "id": "1006699",
+         "field_search": "question",
+         "question": "Điện thoại sony XA của mình k phát đc loa ngoài. Chuông cuộc gọi tới và chuông báo thức k kêu. Mình khởi động lại thì bình thường 1 ngày lại bị lại. Hình như cứ sạc điện thoại là bị như thế. Giờ phải làm ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.993753,
+         "id": "1022986",
+         "field_search": "question",
+         "question": "Mình đang sài Xiaomi redmi note 4 mua tại TGDĐ mình thấy trên web có nhiều người ghi là tối ưu hóa bộ nhớ vậy cho mình hỏi đó là gì? Việc tối ưu hóa lên cao có ảnh hưởng gì tới tuổi thọ máy không ? Máy mình là ram 3GB nhưng mình chỉ thấy free 1.4 /3GB nhưng mình không cho chạy nền gì cả vậy là sao và có cách khắc phục không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.96957,
+         "id": "1162851",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là điện thoại Samsung Galaxy a7 có bị ảnh hưởng gì khi sử dụng cục sạc khác ngoài của Samsung kh ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.923193,
+         "id": "775775",
+         "field_search": "question",
+         "question": "Máy mình là iPhone 6S Plus. Mình không có sạc 3 lần 8 tiếng lần đầu sử dụng vậy có sao không?Mấy lần sau này phải sạc tới bao nhiêu thì tốt ạ? Có cần thiết phải tới 100% không? Tới mức pin bao nhiêu thì cần cắm sạc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.903475,
+         "id": "1148294",
+         "field_search": "question",
+         "question": "Điện thoại nokia 5.1 plus mình mới mua bên TGDD 2 ngày trước mình có cần sạc 1 ngày 8 tiếng không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.899544,
+         "id": "963535",
+         "field_search": "question",
+         "question": "cục sạc ip của em bị hỏng do chưa có điều kiện mua sạc chính hãng và em luôn sạc bằng cục pin dự phòng vậy ad cho em hỏi là sạc ip bằng sạc dự phòng có ảnh hưởng gì đến máy không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.744797,
+         "id": "1162620",
+         "field_search": "question",
+         "question": "Cho mình hỏi chế độ nguồn điện thấp trên iPhone có ảnh hưởng j tới pin hay máy k v?Giảm hoạt động nền là j v?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.735117,
+         "id": "878794",
+         "field_search": "question",
+         "question": "pin laptop lúc nào cũng cắm sạc và dùng trong 1 tuần mới rút sạc . nhiều lần như vậy pin có bị chai k ạ?, và những việc gây chai pin là gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.708069,
+         "id": "786855",
+         "field_search": "question",
+         "question": " Mình thường sạc iphone 5s không đầy 100 pin, thường khoảng được 90 là rút sạc. Vậy có ảnh hưởng gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.655193,
+         "id": "998739",
+         "field_search": "question",
+         "question": "Bạn ơi bạn có thể tư vấn giúp mình 1 chiếc điện thoại bên bạn có giá rơi vào khoảng 4-5tr mà có pin trâu  hoặc pin không trâu nhưng có công nghệ sạc nhanh và chụp ảnh đẹp mà thích hợp chơi game không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.648342,
+         "id": "990382",
+         "field_search": "question",
+         "question": "Cho e hỏi e dùng iphon4 tại sao khi sạc đt e đã tắt hết ứng dụng và k động j tới đt nữa mà Sao cứ sạc đến tren80% pin thì đt lại sập nguồn, lần nào cũng thế à.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.599852,
+         "id": "1135300",
+         "field_search": "question",
+         "question": "Có phải sạc pin 3 lần đầu điện thoại A3s là 8 tiếng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.56367,
+         "id": "761444",
+         "field_search": "question",
+         "question": "Dạ em đang dùng iPhone 4S, cách đây khoảng 1 tháng, điện thoại của em có bị thấm nước và em đã đem đi sửa, khi về em dùng đt bình thường, nhưng đt của em không biết sao, màn hình cứ tối đen không lên mấy lần, em có gọi thử thì vẫn gọi được nhưng màn hình đt vẫn tối đen, không lên được. Em phải đợi khi đt hết pin, cắm sạc thì mới có thể sử dụng lại được. Cho em hỏi là đt của em bị gì và sửa chữa như thế nào ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.551102,
+         "id": "758833",
+         "field_search": "question",
+         "question": "Cho mình hỏi sử dụng iPad thâu đêm từ 22h30 đến 4h30  phút sáng có làm cho iPad suy giảm tuổi thọ không ạ? Trong khi sử dụng máy vừa sạc đầy 100% và đã dút sạc để sử dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.471504,
+         "id": "1145281",
+         "field_search": "question",
+         "question": "Cho mình hỏi con Nokia 8.1 có cần sạc 8h trong 3 lần đầu k, sạc k dự có ảnh hưởng j k TGDD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.282547,
+         "id": "1133825",
+         "field_search": "question",
+         "question": "Đt mình mới mua dòng xiaomi redmi note 6 pro sao mới sạc lần đầu cục sạc và điện thoại nóng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.278667,
+         "id": "1015316",
+         "field_search": "question",
+         "question": "E vừa mua oppo f3 được 1 tuần. E sạc đủ 3 lần 8 tiếng. Nhưng máy rất nhanh hết pin. E không  chơi game hay xem phim gì hết. Cũng hạn chế wifi . 3g thì không  xài nhưng máy rất nhanh hết pin. Chỉ vài tiếng đã hết trong khi dung lượng pin tới 3200mAh. Giống như đã xài máy rất lâu rồi vậy. 1 ngày e hạn chế lắm cũng sạc 2 lần. Cho e hỏi tại sao ạk.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.21268,
+         "id": "799481",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5s nhưng trong 3 lần sạc đầu tiên vì lý do công việc mình không thể sạc đủ 8 tiếng vậy có ảnh hưởng gìì không? Và lần sạc thứ 4 này mình có thể sạc 8 tiếng đc ko? AD trả lời giúp mình với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.172638,
+         "id": "1166342",
+         "field_search": "question",
+         "question": "Ad cho e hỏi A80 samsum khi nào ra mở bán vậy Giá hiện tại của A70 là bao nhiêu thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.161589,
+         "id": "1007306",
+         "field_search": "question",
+         "question": "mình mua ip7 tại tgdd cũng được 1 tháng.mấy ngày hôm nay, cứ để đt từ tối tới sáng là bị tụt mất 10-12% pin.vậy có phải pin đt mình bị lỗi rồi ko? mình đã tắt hết các app và để chế độ tiết kiệm pin rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.150843,
+         "id": "1166503",
+         "field_search": "question",
+         "question": "cho e hỏi, e mua điện thoại SamSung galaxy A70. và mua thêm sạc dự phòng. Nhưng dây cáp của điện thoại này ko cắm vào sạc dự phòng đc. Vậy bên mình có bán dây cáp để sử dụng đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.104092,
+         "id": "988209",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop nên dùng màn hình FHD hay 4k và nó có ảnh hưởng nhiều đến Pin và độ nóng của máy không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.044182,
+         "id": "1013774",
+         "field_search": "question",
+         "question": "các anh cho em hỏi chút ạ. em vừa mua đt iphone 7plus. khi đt còn 1% pin e cắm sạc lần đầu tiên. Sạc 19 tiếng mới được 50% pin. Như vậy là có vấn đề về pin hay bình thường vậy ạ? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.000437,
+         "id": "1019981",
+         "field_search": "question",
+         "question": "Kiểm tra điện thoại còn bảo hành đến ngày bao nhiêu?  Pin sạc điện thoại bị cũ có đổi được hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.985798,
+         "id": "749004",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi có nên jailbreak iphone 4 ios 7.1.2 không ạ? Mà nếu jailbreak có hao pin hay ảnh hưởng gì tới máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.908447,
+         "id": "1020474",
+         "field_search": "question",
+         "question": "Đt em là oppo A37, em mới mua và sạc được 3 lần thôi. Em vẫn để thêm hơn nửa tiếng khi báo đầy, nhưng không sử dụng gì thì sau khoảng 1 tgian nó vẫn bị mất 1 -2% pin thì là có bị sao không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.815619,
+         "id": "1159206",
+         "field_search": "question",
+         "question": "Điện thoại mình bị rớt mạng hoài, kể cả vào zalo hay f cứ mấy mươi phút lại bị rớt mạng 1 lần, đã tắt và khởi động lại đt hoài, rất bực mình. Điện thoại của mình là A8 start",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.760244,
+         "id": "993889",
+         "field_search": "question",
+         "question": "cho em hỏi, không biết oppo neo9, sạc 2 lần trên ngày có nhanh hỏng pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.73533,
+         "id": "1000043",
+         "field_search": "question",
+         "question": "Cho em hỏi tầm 14 ngày trước đt của em bị hư và e có mang đến cửa hàng gần nhà để sửa , em vừa lấy về cách đây vài phút và người sửa lại bảo \" tại cục sạc hư về đổi cái mới đi \" . sạc hư gì mà sửa tới 10 mấy ngày bh nói nv mà từ lúc lấy đt về pin nc tuột rất nhanh e sạc ntn cũng k vào pin , sạc bằng mọi loại sạc đều k vào pin thì bh e phải ntn . e đang rất giận vì cách làm việc của nhân viên cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.730865,
+         "id": "1020490",
+         "field_search": "question",
+         "question": "Dạ chào anh chị, em mua dây cáp của bên tgdd lúc đó 1 đổi 1 trong vòng 1 năm. chưa hết 1 năm, sao dây sạc lại sạc điện thoại mà làm pin dt tuột làm em phải thay cục pin mới. cho em hỏi em còn đổi được không. sdt em mua hàng là 01677032324",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.704996,
+         "id": "1006162",
+         "field_search": "question",
+         "question": "tắt pc không đúng cách, cúp điện đột ngột nhiều lần, ảnh hưởng đối với pc thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.666498,
+         "id": "780396",
+         "field_search": "question",
+         "question": "Cho em hỏi, em dùng iphone 4, bị rơi xuống nước mang đi sấy dùng lại được rồi nhưng đến mấy ngày hôm sau sạc pin vào rất châm và cuối cùng pin nó không vào nữa, điện thoại tắt nguồn sạc cũng không vào. Dùng sạc khác nó cũng vẫn vậy. Hiện tại điên thoại em đang bị tắt nguồn không sạc được pin, cắm sạc để 1 lúc nó tự bất nguồn, rung rồi lại tự tắt... Cho em hỏi pin của em có sao không vậy, hu hu..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.65671,
+         "id": "1012865",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi trước em mua điện thoại ở thế giới di động vào ngày 11-2-2017,củ sạc của em bị hỏng sạc cả ngày mà nó k nên nổi 1% cho em hỏi em có dk đổi củ mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.64391,
+         "id": "1164585",
+         "field_search": "question",
+         "question": "Chào bạn cho tui hỏi. Sao đt tui a6 sạc 1 lần gần 5 6 tiếng mà vẫn ko đầy pin đc.là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.578045,
+         "id": "1010383",
+         "field_search": "question",
+         "question": "Điện thoại của mình là J7 prime, nếu bây giờ jack cắm bị lỗi chỉ nghe được 1 bên head phone thì mình dùng tai nghe bluetooth thì có bị ảnh hưởng ko hay xài bình thường ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.49131,
+         "id": "1007946",
+         "field_search": "question",
+         "question": "pin điện thoại lenovo A6010 của e sạc lên 79 xong nó kêu tít 1 cái rồi xuống 50 là bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.445812,
+         "id": "1150352",
+         "field_search": "question",
+         "question": "Chào ad cho em hỏi: em đang dùng ss j7pro đc 1 năm rồi.mà dạo gần đây khoảng 1 tháng em sạc thấy pin chậm đầyThì cho em hỏi là do củ sạc hay do pin ạ? Cho em xin giá pin chuẩn và củ sạc chuẩn của đt luôn nhéMong ad trả lời sớm.em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.385862,
+         "id": "1011305",
+         "field_search": "question",
+         "question": "TGDD cho e hỏi điện thoại xiaomi redmi note 4 khi sạc pin đầy 100% nó có tự động ngắt k ạ? Và loại pin của nó là pin gì ạ?Điện thoại xiaomi redmi note 4 của e khi đầy 100% pin thì biểu tượng dấu sét khi cấm sạc trên viên pin vẫn hiện mà nó không mất đi như 1 số dòng máy khác. Có phải là pin vẫn tiếp tục được nạp không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.34405,
+         "id": "1135689",
+         "field_search": "question",
+         "question": "cho mình hỏi. Nếu như mình mua điện thoại nokia 1 cũ, có thanh toán bằng được bằng Zalopay. và được hưởng \"khuyến mại 50% nhưng >=250k vnd không\"?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.326517,
+         "id": "848345",
+         "field_search": "question",
+         "question": "Đối với laptop có pin liền thì cách sử dụng như thế nào để tránh chai pin, và vừa dùng laptop vừa cắm sạc có ảnh hưởng gì nhiều đến pin không? ai biết chỉ em cách dùng đúng với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.254189,
+         "id": "1160882",
+         "field_search": "question",
+         "question": "Em có 1 con sony xperia xz dual mua tại thế giới di động nay em sạc pin có báo đèn sạc nhưng % càng thấp em đã reset máy nhiều lần và kiểm tra củ sạc và cáp sạc hoàn toàn bình thường.điện thoại em mua gần 2 năm nên em nghĩ hư bin vậy bên mình có thể thay pin cho em được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.236412,
+         "id": "1014127",
+         "field_search": "question",
+         "question": "em có mua trả góp điện thoại hết 1 lần và trả xong rồi. vậy cho em muốn mua thêm cái điện thoại nữa có cần chụp hình, và làm thủ tục vay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.21663,
+         "id": "1134077",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại samsung J7 Prime (sử dụng dc 1 năm) bình thường mình sạc pin tầm 3t lầy đầy nhưng tấm mấy lần sạc gần đây thì sạc tới 5-6 t mới đầy mình sợ cục sạc hư nên mua bộ sạc samsung chính hãng 2A (sạc nhanh)về sạc cũng 5-6 tiếng mới đầy. Vậy cho mình hỏi vấn đề ở đây là máy bị j hay cục sạc có vấn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.20557,
+         "id": "1165051",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại galaxy J7 prime, phụ kiện có kèm tai nghe và sạc pin. Giờ sạc pin của tôi không vào pin nữa không biết có được bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.198729,
+         "id": "992136",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 6s mà lúc nào cũng bật chế độ nguồn điện thấp dù mới sạc đầy xong có ảnh hưởng gì đến pin k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.152592,
+         "id": "989839",
+         "field_search": "question",
+         "question": "Cho em hỏi, em đang sài iphone 5s em thường xuyên để chế độ pin màu vàng để tiết kiệm pin. Như vậy có làm ảnh hưởng gì tới pin ko????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.151712,
+         "id": "803264",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi laptop sạc đủ pin nếu để lâu mà không rút ổ cắm ra có ảnh hưởng gì không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.080475,
+         "id": "1006168",
+         "field_search": "question",
+         "question": "Em vừa mưa Oppo F3 tại TGDD ngày 22/7, em sạc đc 2 lần 8h rồi mà 1 đêm pin bị hụt 6% như vậy có ổn không??? Trả lời giup em với nha!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.043943,
+         "id": "764824",
+         "field_search": "question",
+         "question": "Thế giới di động cho em hỏi, em dùng iPhone 4S lúc trước chạy iOS 8.4.1. Hôm kia em cập nhật nó lên iOS 9.2 và rất hao pin. Trước khi cập nhật thì pin dùng được hơn 1 ngày mới phải sạc. Cập nhật xong thì pin dùng không tới một ngày. Em muốn hỏi là giờ em muốn hạ firmware xuống 8.4.1 lại thì bên Kỹ thuật của mình có hỗ trợ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.0275,
+         "id": "1161987",
+         "field_search": "question",
+         "question": "E dùng xiaomi redmi note 7. Carema lồi ạ. Ko bt như vậy có dễ bị trầy xước và ảnh hưởng đến chất lượng hình ảnh ko khi camera va chạm mạnh vs 1 vật khác. Camera của e có bị xước 1 chút ở viền (viền thôi ạ),ví dụ có 2 camera,nhưng ko bị xước mà chỉ xước ở viền ngoài thì có ảnh hưởng j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.010199,
+         "id": "998421",
+         "field_search": "question",
+         "question": "điện thoại j7 của mình cứ 3p lại rung và chuông  1 lần nhưng không hề có tin nhắn hoặc gmail vì đả tắt mạng . cần ad khắc phục giùm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

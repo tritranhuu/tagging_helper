@@ -1,0 +1,801 @@
+{
+   "id_query": "771304",
+   "total": 28285,
+   "total_current": 100,
+   "max_score": 80.59268,
+   "origin_question": " Cho hỏi thay nút nguồn và nút home của iPhone 5 giá bao nhiêu, sửa thì giá bao nhiêu? ",
+   "hits": [
+      {
+         "score": 35.591618,
+         "id": "770803",
+         "field_search": "question",
+         "question": " Pin iPhone 5 giá bao nhiêu vậy? và thay bao lâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.72656,
+         "id": "1002356",
+         "field_search": "question",
+         "question": "Thay pin chính hãng cua iphone 5 giá bao nhiêu ạ và thay trong bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.13041,
+         "id": "1163992",
+         "field_search": "question",
+         "question": "bên mình có thay nút home IP5s không ạ ? và cho em hỏi nếu được thì giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.706482,
+         "id": "755531",
+         "field_search": "question",
+         "question": " Thay màn hình iphone 5 giá bao nhiêu thế? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.235893,
+         "id": "847318",
+         "field_search": "question",
+         "question": " Tgdd có thay ổ cứng iphone 5 không và giá là bao nhiêu vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.752838,
+         "id": "1004074",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ, e muốn thay màn hình iphone 5 đc không ạ? Và giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.668236,
+         "id": "769598",
+         "field_search": "question",
+         "question": " Cho em hỏi nếu mà thay kính cường lực iPhone 5 thì giá khoảng bao nhiêu thế ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.322119,
+         "id": "751103",
+         "field_search": "question",
+         "question": " Mình muốn thay pin iphone 5 giá bao nhiêu. Báo giá cho mình biết được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.274342,
+         "id": "791571",
+         "field_search": "question",
+         "question": " Xin hỏi ở tgdd có thay màn hình đt iPhone 5 không ạ??? ..và nếu có giá thì bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.252556,
+         "id": "800817",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi iPhone 5 giá giờ bao nhiêu em muốn mua nhưng có nhiều giá quá em muốn biết chính xác giá của nó là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.038507,
+         "id": "794580",
+         "field_search": "question",
+         "question": " Thay mặt kính iPhone 5 giá bao nhiêu vậy anh chị ơi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.739872,
+         "id": "766764",
+         "field_search": "question",
+         "question": "  thegioididong khi nào nhập iphone 5 và giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.631247,
+         "id": "1141100",
+         "field_search": "question",
+         "question": "IPhone5 giá bao nhiêu? IPhone5S giá bao nhiêu? IPhone 6 giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.58575,
+         "id": "766149",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có thay màn hình iPhone 5 không ạ ? Nếu có thì giá bao nhiêu ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.534412,
+         "id": "762737",
+         "field_search": "question",
+         "question": " iPhone 5 và 5s hiện tại giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.471792,
+         "id": "768579",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi thay mặt kính cảm úng của Zenfone 5 giá bao nhiêu ạ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.381945,
+         "id": "867919",
+         "field_search": "question",
+         "question": " May iPhone 6s cua minh bi nút mang hình ,thay gia bao nhieu nhi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.239883,
+         "id": "766247",
+         "field_search": "question",
+         "question": " iPhone 5 new còn hàng không , giá bao nhiêu ạ. có trả góp và lãi xuất bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.184345,
+         "id": "1162973",
+         "field_search": "question",
+         "question": "Cho em hỏi là thay màn kính iphone 5s thì giá bao nhiêu ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.177328,
+         "id": "757370",
+         "field_search": "question",
+         "question": " AD ơi cho mình hỏi tại cửa hàng TGDĐ có thay được màn hình iPhone 5 không? Và giá khoảng bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.062271,
+         "id": "771444",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi, TGDĐ thay pin iPhone 4 được không và giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.042847,
+         "id": "836250",
+         "field_search": "question",
+         "question": " Cho em hỏi ở đây có thay pin iphone không và giá là bao nhiêu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.004028,
+         "id": "869121",
+         "field_search": "question",
+         "question": " cho em hỏi iphone 5 ở thế gioididong giờ còn bán ko ak. và bán thì giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.00172,
+         "id": "1146772",
+         "field_search": "question",
+         "question": "Thay pin cho Oppo A3s giá bao nhiêu vậy Ad.Điện máy xanh có hỗ trợ thay không, giá pin và tiền công thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.992981,
+         "id": "1133847",
+         "field_search": "question",
+         "question": "cho hỏi ở tgdd có nhận thay pin ip5 không ạ? và thay mất bao nhiêu lâu? giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.867037,
+         "id": "881225",
+         "field_search": "question",
+         "question": " TGDĐ có thay vỏ iphone 6s plus k?nếu thay thì giá bao nhiêu và trong thời gian bao lâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.740185,
+         "id": "988056",
+         "field_search": "question",
+         "question": " cho mình hỏi, tgdt có thay pin iphone 4s ko ạ,và giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.64502,
+         "id": "823474",
+         "field_search": "question",
+         "question": " Thay kính iphone 5 thường giá bao nhiêu tại thế giới dt ở cà mau ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.50278,
+         "id": "1013419",
+         "field_search": "question",
+         "question": "Cho em  hỏi nếu thay pin của sony e4 thì giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.427822,
+         "id": "1155049",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi là thay pin cho iphone 5s thì giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.319532,
+         "id": "781601",
+         "field_search": "question",
+         "question": " Cho mình hỏi thay màn hình iphone 4 giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.319323,
+         "id": "895719",
+         "field_search": "question",
+         "question": " Xin cho hỏi trên của hàng có thay màn hình iPhone 4s không. giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.314194,
+         "id": "757447",
+         "field_search": "question",
+         "question": " Thay kiếng màn hình điện thoại iPhone 5 giá bao nhiêu vậy....thời gian bao lâu thì nhận lại máy vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.12762,
+         "id": "781556",
+         "field_search": "question",
+         "question": " Thay phím home với pin iphone 4 giá nhiêu                                       ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.067225,
+         "id": "1013262",
+         "field_search": "question",
+         "question": "cho e hỏi là bên mình có sửa nút nguồn của iphone 3gs không ạ, và giá là bao nhiêu, cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.967052,
+         "id": "831227",
+         "field_search": "question",
+         "question": " Cho em hỏi giá sửa chửa iphone 3s bị sập nguồn là bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.954567,
+         "id": "1155065",
+         "field_search": "question",
+         "question": "E muốn thay màng hình iPhone 6s mà k biết giá bao nhiêu nên e muốn hỏi giá màng hình iPhone 6s có giá bao nhiêu ạ.e cảm on ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.9459,
+         "id": "994539",
+         "field_search": "question",
+         "question": "thay mặt kính sau của đt samsung galaxy note 5 chính hãng của samsung giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.9119,
+         "id": "811688",
+         "field_search": "question",
+         "question": " Bên TGDĐ còn iPhone 5 không ạ và giá bán là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.83317,
+         "id": "761288",
+         "field_search": "question",
+         "question": " TGDD không có iphone 5 à. Nếu có thì giá của nó là bao nhiêu vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.74166,
+         "id": "754656",
+         "field_search": "question",
+         "question": " Cho mình hỏi giá cái Gmate cho thẻ sim của iphone giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.625006,
+         "id": "845865",
+         "field_search": "question",
+         "question": " iPhone 5 lock như thế nào giá bao nhiêu .............. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.60818,
+         "id": "1164437",
+         "field_search": "question",
+         "question": "cho e hỏi đt iphone 8plus giá bao nhiêu,mua trả góp thì trả trước bao nhiêu ạ và có mấy màu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.577494,
+         "id": "770930",
+         "field_search": "question",
+         "question": " Thay màn hình iPhone 3 giá bao nhiêu vậy?               ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.514616,
+         "id": "759722",
+         "field_search": "question",
+         "question": "Cho em hỏi là thay kính màn hình iPhone 3GS là bao nhiêu không tính màn hình LCD nhé  và thay home nguồn pin vỏ hết bao nhiêu vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.496641,
+         "id": "1137740",
+         "field_search": "question",
+         "question": " anh chj cho hỏi giá thay màn hình iphone xs là bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.456842,
+         "id": "1133821",
+         "field_search": "question",
+         "question": "Cho hỏi thay màn hình samsung j6 thì giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.394024,
+         "id": "1133894",
+         "field_search": "question",
+         "question": "Cho em hỏi thay mặt kính lưng của s8 giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.374067,
+         "id": "1163045",
+         "field_search": "question",
+         "question": "Cho em hỏi, giá thay màn hình redmi note 5 là bao nhiêu ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.321676,
+         "id": "752507",
+         "field_search": "question",
+         "question": " Cho mình hỏi . mình có một điện thoại iphone 5s bị hư nút home thì có sửa được không?. và sửa mất bao nhiêu tiền ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.277649,
+         "id": "918605",
+         "field_search": "question",
+         "question": " thay nút home iphone 4 hết nhiêu tiềnvây anh và mất bao nhiêu lau vậy anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.276512,
+         "id": "832052",
+         "field_search": "question",
+         "question": " Cho em hỏi thay màn hình cảm ứng cho iPhone 5s giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.274584,
+         "id": "766470",
+         "field_search": "question",
+         "question": " Cửa hàng có thay màn hình cảm ứng cho iphone 5s và giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.261633,
+         "id": "909364",
+         "field_search": "question",
+         "question": " Bên mình có thay main iphone 5s không vậy? Nếu có thì giá bao nhiêu và bảo hành bao lâu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.231625,
+         "id": "837113",
+         "field_search": "question",
+         "question": " Thế giới di động ninh bình có thay main iphone 5 ko ạ?giá là bao nhiêu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.12887,
+         "id": "763110",
+         "field_search": "question",
+         "question": " iPhone 5 giá bao nhiêu  vậy mọi người cho mình biết với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.029194,
+         "id": "991496",
+         "field_search": "question",
+         "question": "Thay màn hình iphone 6 plus giá bao nhiêu....................................................................... vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.982597,
+         "id": "742065",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên TGDĐ có thay màn hình iPhone 5S ko? nếu thay giá bao nhiêu? và có bảo hành không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.93322,
+         "id": "1010634",
+         "field_search": "question",
+         "question": "Cho em hỏi,Thay loa ngoài của iPhone 5 bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.921417,
+         "id": "779553",
+         "field_search": "question",
+         "question": " Cho em hỏi là thay vỏ ngoài iPhone 5 hết bao nhiêu đấy ạ ? có thay thì hết khoảng bao nhiêu ngày ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.879547,
+         "id": "1158262",
+         "field_search": "question",
+         "question": "Cho em hỏi Thay màn hình oppo f1s thì giá bao nhiêu ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.802486,
+         "id": "868551",
+         "field_search": "question",
+         "question": " thegioididong có thay pin cho iphone 4s không? giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.800488,
+         "id": "760948",
+         "field_search": "question",
+         "question": " Cho mình hỏi shop có iPhone 5 có giá bao nhiêu? Có cho trả góp không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.779644,
+         "id": "794740",
+         "field_search": "question",
+         "question": " Cho em hỏi em muốn thay pin iphone 5s có không vậy? Giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.678146,
+         "id": "1133419",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn thay pin Oppo F9 thì giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.641926,
+         "id": "1159992",
+         "field_search": "question",
+         "question": "bên bạn có thay pin iphone 7 khôngnếu thay giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.634077,
+         "id": "1024022",
+         "field_search": "question",
+         "question": "cho e hỏi giá iphone 6 và lphone 6s mới bây giờ giá bao nhiêu zậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.612305,
+         "id": "780024",
+         "field_search": "question",
+         "question": " Cho mình hỏi TGDĐ có bảo hành thay pin cho iphone 5S không? Giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.610865,
+         "id": "785529",
+         "field_search": "question",
+         "question": " điện thoại iphone 4s bị dính icloud có sửa được không và giá bao nhiêu vậy anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.609539,
+         "id": "1166180",
+         "field_search": "question",
+         "question": "Cho em hỏi : Màn hình kiếng và cảm ứng của máy Xiaomi Redmi 5 Plus bị vỡ thì tiền thay lại là bao nhiêu và trong bao nhiêu ngày thì có thay xong ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.553402,
+         "id": "1141468",
+         "field_search": "question",
+         "question": "Cho mình hỏi giá thay miếng áp lưng sau của sam sung galaxy A82018 giá bao nhiêu vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.508259,
+         "id": "754302",
+         "field_search": "question",
+         "question": "  Qtv cho em hỏi TGDĐ có bán pin iPhone 5 không ạ, giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.46624,
+         "id": "1010008",
+         "field_search": "question",
+         "question": "cho em hỏi thay vỏ j7 prime giá bao nhiêu vậy ???????????????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.462376,
+         "id": "1159636",
+         "field_search": "question",
+         "question": "Cho em hỏi thay mặt kính cường lực cảm ứng Gorilla Glass 4 của samsung j7 pro giá bao nhiêu ạ . Và trong bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.438253,
+         "id": "1152685",
+         "field_search": "question",
+         "question": "Cho em hỏi dt iphone 6 phus bị hư mút home sửa khoảng bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.366396,
+         "id": "1003681",
+         "field_search": "question",
+         "question": "chiếc j5 2016 của e bị đứt loa trong cho e hỏi sửa giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.337051,
+         "id": "1003558",
+         "field_search": "question",
+         "question": "E muốn thay kính sau và mặt kính trước của điện thoại galaxy s7 edge thì hỏi giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.33668,
+         "id": "1136020",
+         "field_search": "question",
+         "question": "cho hỏi mặt kính của màn hình vivo v5 bị trầy xước có thay được không và giá bao nhiêu 1 lần thay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.324587,
+         "id": "986018",
+         "field_search": "question",
+         "question": " Em muốn hỏi thế giới di động iPhone 6 giá bao nhiêu ạ ???Và em muốn trả góp thì trả trước bao nhiêu?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.311525,
+         "id": "1158344",
+         "field_search": "question",
+         "question": "Thay pin và màn cảm ứng của mobiistar Zumbo j2 hết bao nhiêu ạ.  Cho e giá luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.24378,
+         "id": "1153470",
+         "field_search": "question",
+         "question": "Cho hỏi thay pin huawei nova 2i giá bao nhiêu vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.243141,
+         "id": "1014974",
+         "field_search": "question",
+         "question": "Cho em hỏi? Thay màn hình VEGAA870k  giá khoảng bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.243141,
+         "id": "1009039",
+         "field_search": "question",
+         "question": "cho mình hỏi thay man hình galaxy tap6 giá bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.221989,
+         "id": "750650",
+         "field_search": "question",
+         "question": " Cho tôi hỏi dòng iPhone 5, iPhone 5s còn hàng ở TGDĐ không? Hiện tại giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.213291,
+         "id": "997184",
+         "field_search": "question",
+         "question": "Thay nút home cho A9 Pro giá bao nhiêu v ad ?Em xài lâu ngày nút home bị lỏng.không còn cứng như lúc trước.khó chịu lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.178036,
+         "id": "787001",
+         "field_search": "question",
+         "question": "Camera iPhone 5 bi mờ lúc chụp đuợc hình lúc không chụp được . Cho tôi hỏi máy tôi bị gì . Nếu thay camera thì giá là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.17535,
+         "id": "1149139",
+         "field_search": "question",
+         "question": "giá của thay màn hình samsung j8 bao nhiêu vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.160192,
+         "id": "850170",
+         "field_search": "question",
+         "question": " cho mình hỏi tgdd có thay pin iphone 5 không? nếu thay thì bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.102003,
+         "id": "747091",
+         "field_search": "question",
+         "question": " Cho mình hỏi màn hinh iphone 6 giá bao nhiêu ạ.. em đang cần thay gấp? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.088667,
+         "id": "1001672",
+         "field_search": "question",
+         "question": " cho mih ? thay màn hình trog của sony xperia giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.054499,
+         "id": "776883",
+         "field_search": "question",
+         "question": " Xin hỏi thay màn hình cảm ứng, máy iphone 6 giá bao nhiêu, và thế giới di động có thay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.040878,
+         "id": "994723",
+         "field_search": "question",
+         "question": "Cho mình hỏi thay màng hình cảm ứng của Oppo Neo 9s giá bao nhiêu tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.008123,
+         "id": "1159111",
+         "field_search": "question",
+         "question": "Dạ alo , e ở tphcm j7 pro e bị liệt cảm ứng cho e hỏi giá sửa là bao nhiêu vậy ạ * 3 nút home , back và cửa sổ vẫn dùng đc *",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.007189,
+         "id": "1135203",
+         "field_search": "question",
+         "question": "Cho e hỏi thay mặc kính camera redmi 6 giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.993378,
+         "id": "992943",
+         "field_search": "question",
+         "question": " Mình muốn thay màn hình chính hãng iPhone 6 giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.96334,
+         "id": "774774",
+         "field_search": "question",
+         "question": " Cho mình hỏi pin của iPhone 4 chính hãng giá bao nhiêu tiền vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.931734,
+         "id": "1000908",
+         "field_search": "question",
+         "question": "cho em hỏi thay pin iphone 5 bao nhiêu vậy ạpin của em dùng được tầm 5 phút dù đầy pin tự dưng nó cũng tắt nguồn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.911863,
+         "id": "999272",
+         "field_search": "question",
+         "question": "ad cho e hỏi, thay cảm ứng màn hình của oppo f1s giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.908024,
+         "id": "845498",
+         "field_search": "question",
+         "question": " cho e hỏi là mình thay màn hình iphone 5 giá nhiêu ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

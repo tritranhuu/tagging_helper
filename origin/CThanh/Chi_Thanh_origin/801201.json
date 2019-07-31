@@ -1,0 +1,801 @@
+{
+   "id_query": "801201",
+   "total": 30943,
+   "total_current": 100,
+   "max_score": 70.684944,
+   "origin_question": " Như này là sao vậy ad? Sao vẫn còn tài khoản của cửa hàng bắt buộc khi em mua ứng dụng của AppStore vậy   ",
+   "hits": [
+      {
+         "score": 33.395252,
+         "id": "756782",
+         "field_search": "question",
+         "question": "Mình mua lại iPhone 5 cũ của cửa hàng. Dem về cài icloud tài khoản gì cũng của mình cả rồi mà sao khi cập nhật ứng dụng thì bắt gõ mật khẩu icloud của tài khoản củ nhỉ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.872057,
+         "id": "781769",
+         "field_search": "question",
+         "question": "Ad cho em hỏi.khi em tạo tài khoản icloud của em và em đăng nhập vào máy rồi mà khi vào appstore lại hiện 1 tài khoản icloud khác là sao vậy.cách khắc phục như nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.851181,
+         "id": "781933",
+         "field_search": "question",
+         "question": " iPhone của em muốn tải ứng dụng về đều bắt buộc phải nhập mật khẩu Apple là sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.395111,
+         "id": "768883",
+         "field_search": "question",
+         "question": "Em tải game trong google play mà nó báo như thế này là sao Bạn chưa truy cập ứng dụng Cửa hàng Google Play (biểu tượng giỏ hàng màu trắng) trên thiết bị của bạn bằng tài khoản email này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.352058,
+         "id": "1023652",
+         "field_search": "question",
+         "question": " Làm sao để xử lý tài vụ tài khoản là bắt buộc ở trên máy sky a900 vậy ạ hhuhu giúp e  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.57091,
+         "id": "746552",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua lại điện thoai ịpone 5 tại cửa hàng. Khi e cài đặt lại tài khoản app store thì bắt buộc phải cung cấp Thông tin về thẻ tín dụng. Nhưng e không có thẻ tín dụng. Vậy giờ e phai làm sao giúp e với ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.49833,
+         "id": "758671",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng iPhone 5 em đã đăng nhập tài khoản appstore mới rồi mà khi em tải ứng dụng về máy toàn yêu cầu nhập mật khẩu của tài khoản cũ là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.970013,
+         "id": "860785",
+         "field_search": "question",
+         "question": " AD cho em hỏi là khi cập nhập app trên appstore là nó lại kêu mình đăng nhập tài khoản id của chủ cũ là sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.12118,
+         "id": "832955",
+         "field_search": "question",
+         "question": " Cho hỏi sao em vào Appstore tải các ứng dụng về mà không được. Tài khoản của bạn bị vô hiệu hóa phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.046442,
+         "id": "1161178",
+         "field_search": "question",
+         "question": "Em muốn xoá tài khoản bắt buộc trên điện thoại vivo v3 thì phải làm sao ạ ( tài khoản gg đã bỏ không sử dụng từ lâu rồi ạ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.686575,
+         "id": "1137457",
+         "field_search": "question",
+         "question": "Hiện tại em đang xài iPhone 5 của bạn em bán lại nhưng mà vào AppStore có những ứng dụng cần cập nhật mà em không biết mật khẩu của tài khoản trong máy vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.416761,
+         "id": "1154606",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao em vào CH play tải ứng dụng mà CH play bảo \"yêu cầu xác thực, Bạn cần đăng nhập vào tài khoản của mình\", trong khi đó em đã đăng nhập vào tài khoản Google của em rồi ạ. Nhiều ứng dụng bị vậy lắm ạ. Em đã thử xóa tài khoản Google và dữ liệu CH phay rồi nhưng mà không khắc phục được tình trạng này ạ. Ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.373627,
+         "id": "893627",
+         "field_search": "question",
+         "question": " Làm sao để chuyển tài khoản AppStore canada về lại Việt nam vậy ad   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.260765,
+         "id": "900772",
+         "field_search": "question",
+         "question": "Chào Ad? Cho e hỏi tango của e nó bị làm sao ấy? Người ta nhắn tin với gọi video là e nhận đc. Còn e trả lời thì người khác ko nhận đc. Xoá ứng dụng rồi cài lại vẫn như vậy. Đăng kí tài khoản khác thì nó kêu thiết bị của bạn đã bị chặn. Giờ làm sao mới xài lại đc ứng dụng tango hả ad..??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.504301,
+         "id": "800022",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. lúc mình mua máy về có sử dụng tài khoản icloud của đứa bạn. sau đó mình đã sử dụng tài khoản icloud của mình. mình kiểm tra các thứ vẫn là tài khoản của mình nhưng khi mình cập nhật ứng dụng trong app store thì có phần itunes store bắt nhập mật khẩu cho id appel và khi đó nó hiện lên tài khoản của bạn mình.cho hỏi bây giwof mình phải làm thế nào để đăng xuất vĩnh viễn cái tài khoản của bạn mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.252382,
+         "id": "938461",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.210009,
+         "id": "629183",
+         "field_search": "question",
+         "question": " Làm sao để thay đổi tài khoản itunes store của cửa hàng... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.197054,
+         "id": "938453",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.72313,
+         "id": "1134369",
+         "field_search": "question",
+         "question": "Em đã lỡ tay xoá Cửa hàng CH play, giờ chỉ còn dịch vụ của Google Play. Làm sao để lấy lại Cửa hàng CH play vậy? Trước khi em xoá thì màn hình chính cũng không còn biểu tượng mặc dù trong cài đặt vẫn còn cả Cửa hàng CH play và Dịch vụ của Google Play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.688051,
+         "id": "993053",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là máy em còn được bảo hành. Vậy khi em ra cửa hàng khác sửa tại sao lại mất bảo hành vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.687248,
+         "id": "904234",
+         "field_search": "question",
+         "question": "Làm sao để kiểm tra xem imei của iphone là chính hãng? Tài khoản appstore vs icloud có là một không? Nếu ko thì tạo tài khoản icloud làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.431097,
+         "id": "783747",
+         "field_search": "question",
+         "question": "Làm sao để đổi ngôn ngữ của appstore iphone vậy ad em lỡ đổi thành tiếng mĩ để tìm ứng dụng thegioididong rồi mà không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.330996,
+         "id": "889733",
+         "field_search": "question",
+         "question": "iPad của tôi khi mua ở cửa hàng cài đặt tất cả, bây giờ sau 2 năm sử dụng muốn cài thêm trò chơi thì bị hỏi password của Icloud. Cửa hàng bán ngày trước đã dẹp bây giờ phải làm sao đây? Xin chỉ giúp cách xóa tài khoản cũ để thiết lập tài khoản Icloud mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.237463,
+         "id": "796717",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản icloud và dùng rất bình thường. Nhưng có 1 vài ứng dụng khi mình cập nhật thì nó cứ ra tài khoản icloud của người khác ( nếu mình cài đặt 1 ứng dụng mới nó vẫn sử dụng tài khoản của mình)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.000093,
+         "id": "1018113",
+         "field_search": "question",
+         "question": "E dc A trai cho máy iphone 6 plus, nhưng khi e tải ứng dụng về, tên của ứng dụng lại là tiếng Hàn, trong khi ID của e là Id việt và appstore cx là appstore việt, vậy e phải làm thế nào ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.953577,
+         "id": "804389",
+         "field_search": "question",
+         "question": "CHo em hỏi là sao em thoát tài khoản itunes store của người trước ra rồi và đăng nhập tài khoản của em vào rồi mà bây giờ e cập nhật ứng dụng hay tải gì nó vẫn yêu cầu mật khẩu ních của người cũ kia.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.842419,
+         "id": "805614",
+         "field_search": "question",
+         "question": " Khi tài khoản zalo của em bị khóa vậy người khác có còn thấy bài viết của em nữa không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.796011,
+         "id": "772058",
+         "field_search": "question",
+         "question": "Em bị hack nick iCloud dựa vào gmail em lấy lại được tài khoản nhưng iPhone của em bảo không thể sử dụng tài khoản này để mở iPhone này là làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.638226,
+         "id": "754777",
+         "field_search": "question",
+         "question": "Em đăng kí tài khoản iD Apple, iTunes, mà đến bước này nó không có chữ ''none'' bắt buộc em phải nhập số thẻ. Em phải làm như thế nào ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.627876,
+         "id": "815917",
+         "field_search": "question",
+         "question": "Em có iphone 4s lúc đầu em mới mua máy tại cửa hàng em nhớ bên cửa hàng tải cho em 1 số ứng dụng bằng tải khoản của họ, em dùng 1 tuần sau a thấy appstore hiện cập nhập bản mới mới lại em dùng tài khoản của mình rồi nên lúc cập nhập a vô tình ấn sai nên cái ứng dụng đó hiển thị đang chờ mãi không xoá đi được liệu em chạy lại phần mềm có mất đi được không ạ, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.327076,
+         "id": "991634",
+         "field_search": "question",
+         "question": " Cho em hỏi là em đã đăng nhập tài khoản ID Apple mới rồi khi cập nhật ứng dụng lại còn tài khoản cũ á? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.176394,
+         "id": "759050",
+         "field_search": "question",
+         "question": " Tại sao em cài đặt tài khoản appstore mà bảo bật cookie nữa là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.164524,
+         "id": "800117",
+         "field_search": "question",
+         "question": " Khi vừa mua máy về bạn phải đăng nhập tài khoản microsoft để có thể tải game và ứng dụng từ cửa hàng store và tận... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.128746,
+         "id": "919848",
+         "field_search": "question",
+         "question": " Lỗi này là sao vậy ad,fb với các ứng dụng khác vẫn chạy bt chỉ mỗi messenger là bị nv thôi.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.094439,
+         "id": "840722",
+         "field_search": "question",
+         "question": " QTV ơi sao Facebook báo là tài khoản của rm bị vô hiệu hóa vậy ? Phải làm sao thì mới lại tài khoản ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.923836,
+         "id": "1143606",
+         "field_search": "question",
+         "question": "Mình có mua cái máy của hãng Huawei media pad ple701_L T2pro do cháu mình cai mật khẩu Ma nó quên thấy vậy mình bẻ cái mât khẩu luôn ai ngờ cứ tưởng như máy thường mở nguồn nó bảo bắt buộc phải có tài khoản sao lưu của  google nó mới cho sài bình thường mà giờ quên mất mật khẩu và tài khoản google rồi toàn dữ liệu quan trọng khong biết có cách nào giúp với ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.814423,
+         "id": "780309",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao máy của em muốn tạo một ID Apple mới mà máy bắt trả phí. . . có còn cách nào để thay tài khoản mà không mât phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.676107,
+         "id": "786754",
+         "field_search": "question",
+         "question": " iPad của em bị bắt kích hoạt lại, nhưng tài khoản iCloud đó không phải của em thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.633778,
+         "id": "806718",
+         "field_search": "question",
+         "question": "AD ơi.em có 2 tài khoản Facebook làm sao để có thể đăng xuất tài khoản này rồi xuất hiện ảnh để đăng nhập vào tài khoản kia vậy AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.544827,
+         "id": "919841",
+         "field_search": "question",
+         "question": "   Sao trên mess ip tài khoản của tui hiện lên giao diện này còn vào tài khoản khác nó lại bth chỉ mìh với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.506048,
+         "id": "799524",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản iCloud cho iPhone 5s .nhưng khi mình vào tải các ứng dụng máy lại bắt nhập mật khẩu của tài khoản khác. Mình phải làm như thế nào a?. Xin trợ giúp mình với. Cám ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.422602,
+         "id": "837987",
+         "field_search": "question",
+         "question": "Ipad của mình do cháu mình lúc cài game đăng nhập password sai nhiều lần quá nên tài khoản appstore( là gmail của mình) bị thông báo là vô hiệu, giờ khi cập nhật ứng dụng gì mới là nó hiện ra tài khoản là thegioididongduchoa714@gmail.com mà mình không có password nên cập nhật không được, admin có cách nào cho mình xin password hay cách nào bỏ tài khoản này được không? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.318365,
+         "id": "748459",
+         "field_search": "question",
+         "question": "Cái iphone 6 của em không dùng mà vẫn bị tụt pin, mặc dù em đã tắt hết các ứng dụng và wifi, 3g .. Vào kiểm tra xem pin có bị chai không thì nó báo dung lượng pin là 1900mah khi sạc đầy. Vậy cho em hỏi tại sao iphone của em bị như vậy và có thể khắc phục được không, em có thể mang ra cửa hàng để kiểm tra không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.316938,
+         "id": "844250",
+         "field_search": "question",
+         "question": "Cho hỏi IP 3GS 6.x bây giờ lag và văng hầu hết các ứng dụng tải về vậy nếu em vào AppStore mua một ứng dụng nào đó thì khi mua như vậy ứng dụng có bị lag và văng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.290722,
+         "id": "814295",
+         "field_search": "question",
+         "question": "Tại sao tải ứng dụng cho ip5, nó cứ ghi như thế này thì làm sao anh.VD : \" không thể tải Zalo vào lúc này \" là sao anh , tải hoài mà vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.225128,
+         "id": "904144",
+         "field_search": "question",
+         "question": "Làm sao kiểm tra imei của iphone biết chính hãng hay không? Em mới dùng iphone lần đầu nên không rành về iCloud cho lắm làm sao tạo tài khoản. Tài khoản appstore vs iCloud có là 1 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.203833,
+         "id": "1000996",
+         "field_search": "question",
+         "question": " Tại sao tài khoản iCloud của mình chưa xác minh mà lại như thế này?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.178198,
+         "id": "1020579",
+         "field_search": "question",
+         "question": " Tài khoản icloud bắt nhập mk liên tục sau đó e iforgot lập mk khẩu mới thì lại bị như này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.082685,
+         "id": "1163297",
+         "field_search": "question",
+         "question": "Ad ơi tại sao em ko tải đc ứng dụng này trên ftios vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.029528,
+         "id": "783567",
+         "field_search": "question",
+         "question": " Tai sao em đăng xuất id apple khỏi máy rồi. Nhưng khi cập nhật ứng dụng nó vẫn bắt nhập mật khẩu của cái id đấy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.006666,
+         "id": "773687",
+         "field_search": "question",
+         "question": " AD cho em hỏi là máy em mua ở cửa hàng vẫn còn hạn bảo hành, vậy em muốn chạy lại win có được không ạ, em xin cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.005272,
+         "id": "1023509",
+         "field_search": "question",
+         "question": "Anh ơi. Ipad em vào cập nhật ứng dụng nó bắt nhập mật khẩu tài khoản cũ mà cái tài khoản ấy lâu rồi và nó cũng không phẢi cái trong cài đặt luôn. Nhập linh tinh nó bảo là tài khoản này bị khoá rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.944777,
+         "id": "945250",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi tại sao máy em k tìm thấy ứng dụng trên appstore như những máy khác vẫn có ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.93317,
+         "id": "998108",
+         "field_search": "question",
+         "question": "ad ơi em có cái máy samsung grand prime khi khôi phục máy xong nó bắt xác minh tài khoản goole em đăng nhập rồi mà ko đc thì phải làm như nào vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.56503,
+         "id": "935580",
+         "field_search": "question",
+         "question": "A ơi e bị người ta vào tài khoản zalo đời làm sao đó bị : tài khoản của bạn bị khóa đáng yêu cầu xóa tài khoản. H e phải làm sao a.e vẫn còn sdt đk của e a làm ơn chỉ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.540474,
+         "id": "1147426",
+         "field_search": "question",
+         "question": "Làm sao để chuyển số điện thoại này sang số điện thoại kia khi facebook bắt buộc xác nhận danh tính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.531975,
+         "id": "1020526",
+         "field_search": "question",
+         "question": "Mình dùng ip5. Tại sao khi vô appstore tải ứng dụng thì tốc độ tải rất chậm dường như là ko chạy% trong khi đó mình vô ytb xem phim vẫn bt. Thế là sao ạ và khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.530994,
+         "id": "986022",
+         "field_search": "question",
+         "question": "trường hợp của em như sao : bạn em có mua lại con iphone 5 của một ngừoi bạn, sao đó nó chạy chương trình lại máy thì máy bảo phải mập tài khoản ai cờ lao củ của máy, đến khi hỏi lại tài khoản củ của máy thì người chủ củ của máy bảo là không nhớ. thế em phải làm gì đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.503082,
+         "id": "1001035",
+         "field_search": "question",
+         "question": "Cửa hàng em hỏi.Điện thoại samsung galaxy của em không tải ứng dụng gì sao cứ bị đầy bộ nhớ thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.461725,
+         "id": "856969",
+         "field_search": "question",
+         "question": "Iphone của em. Sao cứ từ 30 giây đến 1 phút thì lại bị đơ, không sử dụng được màn hình cảm ứng, trong khi các nút cứng vẫn sử dụng được. E đã khởi động lại nhưng vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.44339,
+         "id": "1023218",
+         "field_search": "question",
+         "question": "DSao em không thể gỡ cài đặt ứng dụng Youtube và Facebook được vậy ạ??? Nó chỉ hiện Buộc dừng và tắt hoi à!!! Hãy giúp em gỡ bỏ ứng dụng này với??? 😢😢😢😢 đt em là Samsung J1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.413536,
+         "id": "996768",
+         "field_search": "question",
+         "question": "máy của tôi là ip6+. trên ứng dụng app store nó báo tải miễn phí nhưng khi tôi tải về hoặc cài đặt thì nó lại báo bạn cần nhập tài khoản để mua. nó bắt mua chứ không cho tải miễn phí.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.365898,
+         "id": "788775",
+         "field_search": "question",
+         "question": "tại sao khi đăng ký tài khoản icloud mình đăng ký mail của mình . nhưng khi xác minh lại tài khoản hệ thống lại giử cho mình mail khác là sao. giúp mình với . tài khoản icloud của mình đã bị khóa.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.353588,
+         "id": "803258",
+         "field_search": "question",
+         "question": " Ad tại sao máy em không cập nhật được ứng dụng trên appstore ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.315674,
+         "id": "1024053",
+         "field_search": "question",
+         "question": "em đã đăng xuất tài khoản này rồi và muốn tải ứng dụng mà s cứ liên tục hỏi như này. tk này e bị khóa rồi ạ. mong sự trợ giúp của công ty ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.291803,
+         "id": "858313",
+         "field_search": "question",
+         "question": "Cho em hỏi đăng xuất tài khoản id Apple cũ và đăng nhập tài khoản id apple mới mà không gỡ cài đặt các ứng dụng lúc trước tải bằng tài khoản của thì có thể tải ứng dụng bằng tài khoản mới được không ad, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.20994,
+         "id": "917162",
+         "field_search": "question",
+         "question": "Bạn ơi giúp mình với. Sao mình out cái tài khoản game center ra nó lại báo thế này \" tài khoản của bạn không thể liên lạc với ứng dụng trợ giúp và không cho đăng xuất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.1391,
+         "id": "774847",
+         "field_search": "question",
+         "question": "Tại sao máy iPhone 4s của mình không vào được phần tạo tài khoản iCloud vậy. Vào những chỗ yêu cầu tài khoản thì máy ghi là máy iPhone này bị hạn chế tạo tài khoản. Có phải máy mình bị lỗi không thế???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.12194,
+         "id": "931568",
+         "field_search": "question",
+         "question": "QTV ơi cho em hỏi sao chiếc iPhone 5s của em cập nhật ios qua OTA toàn bị lỗi không vậy?? Vào Appstore tải ứng dụng thì nó chỉ có 1 vòng tròn màu xanh xoay mãi mà k tải đc app luôn.. Vậy là sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.113703,
+         "id": "1149892",
+         "field_search": "question",
+         "question": "em dùng f1s sao lại không tải được youtube vậy ạ ? nó để là ứng dụng này không tương thích với thiết bị của bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.08593,
+         "id": "1167929",
+         "field_search": "question",
+         "question": "Dạ e ko thể dùng tài khoản Google  của mình đăng nhập vào ứng dụng của Google như ch play và youtube.tất cả đều báo là ko có kết nối mạng .e đã xóa cache và thử gỡ cài đặt ứng dụng nhưng đều ko đc ạ ..mong ad giúp e khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.012587,
+         "id": "1163110",
+         "field_search": "question",
+         "question": "Máy của e không thể đồng ý điều khoản của id apple là sao ạ e đã đồng ý nhiều lần nhưng vẫn bj bắt đồng ý lại là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.993452,
+         "id": "766473",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ? Em đang dùng iPhone 5s trước đây em có mượn nick app của bạn để tải game và ứng dụng giờ em thay tài khoản app khi cập nhật ứng dụng thì nó lại hiện tài khoản cũ lúc ban đau tải game chứ không hiện tài khoản hiện tại em không thể cập nhật lên phiên bản cho các ứng dụng được mong anh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.989784,
+         "id": "872337",
+         "field_search": "question",
+         "question": "Cho hỏi con có 1 tài khoản iCloud nhưng nó đã bị mất rồi mà trong tàu khoản con có mua 1 app tính phí, giờ con tạo tài khoản iCloud mới, ứng dụng tính phí vẫn còn trong màn hình chính của con. Con muốn đưa app tính phí đó vào tài khoản mới mà không phải tốn tiền nếu sau này cần sử dụng! Có cách nào giúp không ạ? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.986227,
+         "id": "867474",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy iphone 5 của em sạc không vào điện, phải tắt nguồn mới sạc được. Dây sạc của em vẫn sài tốt. như vậy là sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.97186,
+         "id": "793460",
+         "field_search": "question",
+         "question": "Chào mọi người,Tình hình là máy mình là ip6 plus. Mình dùng appstore vẫn bằng id apple của mình. Nhưng hôm nay mình muốn update 1 app thì nó lại hiện ra tài khoản khác. Ban đầu mình nghĩ là app này được tải bởi tài khỏan ngoài hàng nên khi update nó mới hiện tài khoản đó. Nhưng mình kéo xuống dưới và thử update tài khoản do chính mình down bằng id của mình thì nó cũng hiện ra tài khoản đó. Nhưng tài khoản này chỉ hiện ở phần update. Mình vào settings để tìm tài khoản lạ kia rồi đăng xuất thì nó cũng chỉ hiện ra tài khoản của mình mà thôi. Mọi người có biết đây là trường hợp gì và làm thế nào để khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.939577,
+         "id": "1021712",
+         "field_search": "question",
+         "question": "Mình mua laptop trên TGDD nhưng bây giờ Ofice 2016 của mình không còn sử dụng được và yêu cầu cần có tài khoản để sử dụng. Vậy bên trung tâm có tài khoản office 365 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.939034,
+         "id": "1146988",
+         "field_search": "question",
+         "question": "Sao trên biểu tuong ứng dụng của em khong hiển thị số lượng thông báo mặc dù zalo facebook vẫn còn thông báo chưa xem vậy ad giúp dùm emE đang su dung vsmart joy 1+",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.87884,
+         "id": "919759",
+         "field_search": "question",
+         "question": " anh ơi, tại sao tài khoản itune store của e với tài khoản id apple lại khác nhau vậy anh.     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.866499,
+         "id": "1008498",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao lại bị mất ở phần này vậy ạ? E cũg k biết gọi nó là gì nữa 😔😔😔. Các ứng dụng của máy e toàn bị mất như vậy thôi???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.866032,
+         "id": "893297",
+         "field_search": "question",
+         "question": "Anh (Chị) cho em hỏiBữa em mua máy iphone 5s tại tgdd thị xã buôn hồ ban đầu mới mua em k biết sài ip. Về rất nhiều vấn đề có cả tài khoản nên anh nhân viên lấy tài khoản của tgdd đăng nhập máy em luôn. Giờ thì em đăng xuất lại rồi em dùng tài khoản em tự tạo nhưng mà cứ mỗi lần ứng dụng cập nhật là cứ thấy tài khoản của tgdd là sao anh (chị)Giờ em muốn xoá bỏ tài khoản đó luôn thì phải làm sao... Giúp em với .Cảm ơn anh (chị)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.853434,
+         "id": "855558",
+         "field_search": "question",
+         "question": "Em muốn tải zalo trên PC bằng ứng dụng BlueStacks nhưng lúc cài đặt báo lỗi xác thực, cần đăng nhập vào tài khoản Google của mình. Là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.80766,
+         "id": "779719",
+         "field_search": "question",
+         "question": " CHo em muốn tải ứng dụng về máy iPhone mà vô tài khoản của TGDĐ daian090 mà em không có mật khẩu làm sao thấy được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.75182,
+         "id": "1023705",
+         "field_search": "question",
+         "question": "Các bác giúp em vs chuyện là em mới mua con iphone 5 mà tài khoản người ta em đã thoát vs xoá hết em nhập của em vô đầy đủ hết nhưng sao lúc em vào aap store em cập nhật ứng dụng lại bị bắt đăng nhập ID của ngươi bán cho em ạ các bác biết giúp hộ em cái",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.74553,
+         "id": "746615",
+         "field_search": "question",
+         "question": " Tài khoản của tôi đã không nhớ rồi t phải làm gì để tạo tài khoản để tải game trong cửa hàng apple iphone 3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.662865,
+         "id": "817475",
+         "field_search": "question",
+         "question": "Mình vừa mua ip6s tại cửa hàng tgdd. Máy mới 100%. Khi về sử dụng mình bị kẻ xấu đăng nhập tài khoản icloud và ko có mật khẩu để thoát. Hiện tại máy chưa restore vẫn sử dụng được. Mình đọc báo thấy thông tin apple vẫn xoá icloud cho kh nếu chứng minh được quyền sở hữu (hoá đơn mua hàng) và mua đúng tại đại lý uỷ quyền của apple. Máy mới mua được vài ngày. Nhờ anh/chị tư vấn giúp xem có đúng thông tin như vậy ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.636032,
+         "id": "1001715",
+         "field_search": "question",
+         "question": "Chào ạ!!! Như đã nói lúc chiều thì thông tin mã quà tặng nó đã bỏ yêu cầu bắt buộc đó rồi nhưng bây giờ lại yêu cầu mã điện thoại như này, em đã nhập sđt vào nhưng nó kh chấp nhận vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.633663,
+         "id": "786558",
+         "field_search": "question",
+         "question": "Quên tài khoản ID của Icloud....1 năm trước e có đến cửa hàng Thế giới di động địa chỉ 136 Nguyễn Thái Học nhờ anh nọ tải game và 1 số ứng dụng. Nhưng hôm qua e đang lên mạng bình thường thì Iphone 4 của e bị tắt máy. Giờ nó yêu cầu e nhập địa chỉ ID để đăng nhập nhưng e quên tài khoản đăng nhập rồi thì phải làm sao ạ? mật khẫu e vẫn còn nhớ. Help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.62988,
+         "id": "794536",
+         "field_search": "question",
+         "question": "mình mua điện thoại iphone 5s hôm 1/2 tại cửa hàng thế giới di động ở thôn Tràng An, thị trấn Chúc Sơnhienej tại máy của mình khi có người gọi tới,1 lúc sau mình chưa bắt máy thì máy tối lại(vẫn còn nhạc chuông), mình nhấn mở máy lên, vẫn còn nhạc chuông mà ko mở ra được cuộc gọi để nhận trả lời. máy mình như vậy là bị làm sao và mình phải mang đến đâu bảo hành được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.581875,
+         "id": "875634",
+         "field_search": "question",
+         "question": "máy mình bị z là sao ạ zô appstore vào trang chủ vẫn hiện ứng dụng nhưng sao zô tìm kiếm cái j cũng k dc nó để là appstore hiện không khả dụng vui lòng quay lại sau là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.57156,
+         "id": "1152373",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để cập nhật được YouTube trên oppo neo 9 ạ. Em vào thì nó bắt em cập nhật. Em cập nhật thì nó hiện. Ứng dụng không thích hợp với thiết bị của bạn. Như vậy phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.561518,
+         "id": "894000",
+         "field_search": "question",
+         "question": " Tại sao tài khoản app store của mình ko có phần none ở thanh toán vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.546637,
+         "id": "823063",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em đăng nhập tài khoản id này đến đậy lại không đăng nhập được nữa là sao ad?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.52937,
+         "id": "1162633",
+         "field_search": "question",
+         "question": "em có mua laptop bên mình. sau khi em cài lại win thì quên ko nhớ tài khoản microsoft mà shop đã lập cho e. ko biết khách hàng khi mua máy thì sẽ được lập tài khoản như thế nào ạ. làm sao để e lấy lại tài khoản đó ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.493382,
+         "id": "883645",
+         "field_search": "question",
+         "question": " Mình mới xoá cydia và bây giờ máy mình ko tải đc bất cứ ứng dụng nào từ appstore là sao vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.46186,
+         "id": "781771",
+         "field_search": "question",
+         "question": " Tài khoản Appstore có giống tại khoản iCloud không ạ. Muốn tạo tài khoản iCloud thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.442616,
+         "id": "1017807",
+         "field_search": "question",
+         "question": "Iphone 5s của tui dụng lượng còn 28GB sao khi tải ứng dụng thì nó bảo lỗi hết dụng lượng .. xin ad chỉ dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.421942,
+         "id": "905871",
+         "field_search": "question",
+         "question": " Máy iphone của em vào ứng dụng thì bị bắt nhập mật khẩu thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.397331,
+         "id": "885711",
+         "field_search": "question",
+         "question": "Tôi mới mua máy Asus tp301 .Làm sao dùng word, exel trên win 10 vậy. phải bắt buộc thêm tiền để kích hoạt mới dùng được sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

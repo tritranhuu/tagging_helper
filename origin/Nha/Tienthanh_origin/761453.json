@@ -1,0 +1,801 @@
+{
+   "id_query": "761453",
+   "total": 35080,
+   "total_current": 100,
+   "max_score": 272.00192,
+   "origin_question": "Chào các anh chị kĩ thuật viên. Cho em hỏi vì sao khi em upload video lên face bằng điện thoại iPhone 3s lại không được. Vào kho ảnh chỉ hiển thị ảnh không hiển thị toàn bộ video, mà em gởi tin nhắn video qua face không được. Hơn nữa khi em nhấp vào đoạn video đó để chia sẻ thì chỉ hiển thị chia sẻ được qua \"Gửi thư\" \"youtube\" mà thôi. Có thể khắc phục được không ạh? Khắc phục như thế nào xin giúp dùm em với. Chớ bây giờ trong điện thoại em rất nhiều video của bạn bè được ghi lại mà muốn chia sẻ lên face lại không được.",
+   "hits": [
+      {
+         "score": 101.07317,
+         "id": "1157397",
+         "field_search": "question",
+         "question": "Em không biết do lỗi gìVào youtube xem được,nhưng nó không  hiển thị video mới bên dưới video đang xem.Chỉ hiển thị các bình luận dưới video đang xem thôi!Như hình bên dưới!Mong anh chị giúp em cho nó lại bình thường! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.0355,
+         "id": "986956",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi nếu mà mình dùng iCloud! Người khác có xem được kho ảnh của mình nếu mình không chia sẻ ko bạn! Trước đây mình có chia sẻ ảnh với tk khác vậy sau đó tài khoản đó có xem được những ảnh khác trong kho ảnh của mình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.52956,
+         "id": "1001567",
+         "field_search": "question",
+         "question": "Cho em hỏi Em vào 1 trang wep để xem video trong trang wep đó bằng thư viện trình phát video mà nó báo là không thể mở videoLần trước thì em xem được video mà giờ k được Dien thoại của người khác thì xem được ...mong anh chị chỉ cho em cách cài đặt lại mục thư viện..trình phát video ạ.cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.167404,
+         "id": "874996",
+         "field_search": "question",
+         "question": "Cho em hỏi. Messenger của em cứ hiển thị \"Không thể hiển thị các tin nhắn\". Em gửi tin nhắn cho bạn em thì thấy không gửi được nhưng bạn em lại xem được. Còn bạn em thì không thể gửi được cho em. Sau khi em xoá app đi và cài lại sau khi đọc được vài hướng dẫn trên mạng thì các tin nhắn của em mất sạch và vẫn có tình trạng \"Không thể hiển thị các tin nhắn\". Hãy giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.94968,
+         "id": "854694",
+         "field_search": "question",
+         "question": "tại sao facebook của mình không like được ảnh không like được ảnh khiong chia sẻ được bài viết không đăng được gì lên hết không nhắn tin được nói chung là không làm được một cái gì mà chỉ vào xem được thôi mọi người giúp miifnh với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.82596,
+         "id": "1165725",
+         "field_search": "question",
+         "question": "Ad ơi làm cách nào để khắc phục chất lượng các video trên đt vivo v15 v. Các video clip trên facebook youtube hiển thị hình ảnh k được nét lắm ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.83202,
+         "id": "802689",
+         "field_search": "question",
+         "question": " Tại sao khi chát video bằng face book.thi chỉ mở video được lúc lại mất.? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.93794,
+         "id": "996109",
+         "field_search": "question",
+         "question": "Em đang dùng j7 prime. Lỗi không đồng bộ ảnh được. E vào album thì vẫn xem được ảnh. Nhưng vào ứng dụng bất kì nào để truy cập vào album ảnh thì ko hiển thị. Chỉ hiển thị 6 ảnh mặc định máy thôi. Ví dụ vào zalo để gửi ảnh cho bạn bè nhưng không thể tìm thấy ảnh. Mong ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.32803,
+         "id": "1155404",
+         "field_search": "question",
+         "question": "Mình dùng ss M20. Bị lỗi như này: khi xem video(chỉ những video trên face và trong kho ảnh mới bị, video trên youtube thì lại bình thường) đc khoảng 30s thì bị giật hình 1 phát xing video lại tiếp tục chạy bt. 1 video 3phút bị 2 hay 3 lần). Chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.15897,
+         "id": "1165603",
+         "field_search": "question",
+         "question": "Iphone x của em. Sử dụng video call trên msg và face time k hiển thị cam là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.9164,
+         "id": "832447",
+         "field_search": "question",
+         "question": " e sài lumia 535 mà sao e chia sẻ đường link lên zalo k được vậy chỉ em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.96083,
+         "id": "1011524",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Điện thoại em là oppo a37. Mấy hôm nay em có quay video và em vô album để mở xem lại. Khi em nhấn vào xem video thì không lên video mà lại lên hình. Anh chị cho em hỏi máy em bị gì vậy ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.88957,
+         "id": "1159662",
+         "field_search": "question",
+         "question": "cho mình hỏi làm thế nào để có thể chia sẻ inthernet từ điwwjn thoại huawei y9 sang laptop được ạ.chia sẻ qua cáp usb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.820724,
+         "id": "764578",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 4 của em lại không nhận được chia sẻ bluetooth của những đt khác là sao vậy ah? Hôm qua em đã hỏi rồi mà không tìm thấy câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.3149,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.08582,
+         "id": "1021981",
+         "field_search": "question",
+         "question": "chào Em chào cả nhà ạ Mọi người giúp em với ạ: em có 2 vân đề thắc mắc, xin mọi người chỉ giáo ạ: + Em gửi Tệp excel qua gmail cho sếp em mà sếp em đang đi ngoài đường nên chỉ mở bằng điện thoại, nhưng không mở được, -> em bị rầy 1 trận. + Tệp xcel của em đuôi xls hiển thị icon , khi mở phải nhấn thêm nút yes nó mới mở cho mình,( em có kè m hình ảnh, anh chị nào biết giúp em với ạ.) còn đuôi xlssx thì không hiển thị incon ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.928604,
+         "id": "999662",
+         "field_search": "question",
+         "question": "khi em vào youtube xem video thì chỉ nghe tiếng mà không thấy được hình. cho em hỏi làm sao để xem được hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.62833,
+         "id": "889810",
+         "field_search": "question",
+         "question": "máy mình chỉ tải được những bộ sticker trong zalo..còn những hình ảnh sticker máy điện thoại khác gửi tới thì khi bấm tải xuống chỉ hiện lên phần chia sẻ, không có phần tải về....làm thế nào để tải những hình động của zalo khác gửi đến",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.363525,
+         "id": "1155097",
+         "field_search": "question",
+         "question": "em dùng ip 6 và điện thoại của em mới reset lại em muốn khôi phục ảnh và video có được ko ạ. ảnh và video chưa đồng bộ icloud và itunes ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.14694,
+         "id": "718008",
+         "field_search": "question",
+         "question": " Tại sao chụp ảnh mà lại không lưu được vào thư viện  là thư viện không hiển thị ảnh kể cả chụp  camera thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.00352,
+         "id": "867735",
+         "field_search": "question",
+         "question": "Mình đang dùng Lumia 730, khi vào Instagram thì không xem được video, cứ gặp video là thoát ra ngoài. Có khi mới vào, gặp bài viết đầu tiên trên tường là video thì bị thoát ra ngoài, dù chưa thấy được hình ảnh của video đó. Rất bực mình. Có ai biết cách khắc phục không, chỉ dùm mình đi. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.65286,
+         "id": "1152745",
+         "field_search": "question",
+         "question": "Chào anh/ chị. Em muốn hỏi là điện thoại em đang sử dụng là Samsung A8 Star mà muốn tải Instagram thì bị hiển thị \" điện thoại bạn không sử dụng được phiên bản này\". Em muốn sửa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.27815,
+         "id": "828075",
+         "field_search": "question",
+         "question": "Hôm qua em có cập nhật phần mềm mà hôm nay em lên tin nhắn massage không hiển thị hình ảnh khi tin nhắn tới. Vậy phải làm sao ak..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.510185,
+         "id": "1158727",
+         "field_search": "question",
+         "question": "Máy e samsung J5Prime lúc trước chỉ cần gắn dây cáp sạc vào máy tíh là có thể chia sẻ dữ liệu với máy như USB nhưg nay khi gắn vào chỉ còn tác dụng như dây sạc k thể chia sẻ dữ liệu, có cách nào khắc phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.397545,
+         "id": "896171",
+         "field_search": "question",
+         "question": "Zalo của mình không gửi hình ảnh được mà nhận được hình ảnh của bạn bè.gửi, trước đây vẫn gửi bình thường.mà sao mấy ngày gần đây gửi đi gửi lại nhiều lần máy vẫn báo là chia sẻ thành công mà người nhận vẫn không nhận được (c òn gửi tin nhắn vẫn bình thường) Cho hỏi zalo bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.25655,
+         "id": "795018",
+         "field_search": "question",
+         "question": "QTV ơi cho em hỏi là khi copy video từ máy tính vào iphone thì cần phải đồng bộ, nhưng như vậy các video cũ sẽ mất, vậy có cách nào giữ lại nhưng video cũ mà vẫn copy vào iphone được không QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.14568,
+         "id": "1007787",
+         "field_search": "question",
+         "question": "- điện thoại em không hiển thị tin nhắn gửi tới. k biết máy em bị sao ạ. - gửi đi vẫn được nhưng người khác gửi đến máy em thì không hiển thị. hiện em đang xài lenovo a6020a40.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.12951,
+         "id": "801372",
+         "field_search": "question",
+         "question": "Zalo của em dạo gần đây hay bị hết phiên truy cập, phải đăng nhập lại. Có một lần đăng nhập lại xong là mất hết tin nhắn, chỉ chừa lại với vài người thôi. Hình ảnh đã chia sẻ cũng mất. Trang cá nhân vẫn còn đầy đủ. Cho em hỏi làm sao để khắc phục việc bị hết phiên truy cập ạ? Tin nhắn bị mất như có lấy lại được không? Em chỉ xài Zalo trên điện thọai thôi. Điện thọai em là HTC Desire 526g.Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.80974,
+         "id": "998714",
+         "field_search": "question",
+         "question": "Em xài ipad mini4(ios10.2.1), khi em quay màn hình và lưu vào máy thì khi vào THƯ VIỆN ẢNH trên máy không thấy. Nhưng vào CÀI ĐẶT CHUNG-DUNG LƯỢNG SỬ DỤNG thì thấy có chứa dung lượng của video đấy chiếm đến 3gb( nghĩa là lúc đầu máy em có 44 ảnh và 2video chỉ 6 giây chiếm khoảng 100 mb mà khi lưu video trên vào nó tăng lên 3,52gb trong khi ở THƯ VIỆN ẢNH thì không thấy video đấy) xin cho em lời giải đáp vì chiếm 3gb là rất nhiều. Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.67718,
+         "id": "1162341",
+         "field_search": "question",
+         "question": "em đang xài điện thoại huawei y6 II .Khi có người gọi đến ,nhấn nghe máy thì không nghe được mà nó hiển thị mạng điện thoại trễ đang thực hiện cuộc gọi .Cho em hỏi có cách nào khắc phục được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.60936,
+         "id": "787182",
+         "field_search": "question",
+         "question": " Cho em hỏi ứng dụng nào tải video từ face về điện thoại iphone không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.51341,
+         "id": "1024125",
+         "field_search": "question",
+         "question": "hình là em vừa đặt lại toàn bộ cho iphone. lúc làm xác thực 2 yếu tố nó ghi mã được gửi về số điện thoại của em rồi, mà em chả thấy nó gửi tại vì đã vào được bên trong đâu mà xem được mục tin nhắn huhu. bây giờ bị chết cứng ở đoạn này. làm sao bây h, các bác giúp em với. hoang mang quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.33587,
+         "id": "779976",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 5 của em khi bật 3G thì người khác nhắn tin nhận được thông báo,nhưng khi dùng WiFi thì người khác nhắn tin thông báo lại không hiển thị,như vậy là sao nhỉ,giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.312035,
+         "id": "1009939",
+         "field_search": "question",
+         "question": "Sao điện thoại em ss a3 không xem được các video liên tiếp nhau trên facebook.. mọi hôm em vẩn có 1 list video, bây giờ chỉ xem đk mỗi video khi mình click vô.. e đã gở và cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.254135,
+         "id": "1008106",
+         "field_search": "question",
+         "question": "cho em hỏi sao em lên google mà không thấy được hình ảnh và video . mà em đã bật chế độ không hình ảnh giúp em làm sao tắt được chế độ đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.8541,
+         "id": "1143330",
+         "field_search": "question",
+         "question": "Cho tôi hỏi làm sao để xoá được ảnh được chia sẻ trong messenger. Ảnh từ lâu rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.78187,
+         "id": "856422",
+         "field_search": "question",
+         "question": "Chào QTV, hiện tại em đang dùng iphone 4s, QTV có thể giúp em cách đồng bộ các sự từ facebook như là sinh nhật vào lịch được không, ở đây e chỉ thấy rất ít sự kiện sinh nhật được vào trong lịch trong khi đó bạn bè rất nhiều. Mong được các anh chị QTV giúp em. Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.692184,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.31168,
+         "id": "802692",
+         "field_search": "question",
+         "question": "khi sử dụng camera laptop gọi video qua face thì mở được lúc đầu khoảng phút là bị tắt.cho em hỏi cách để mở lại hay cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.13068,
+         "id": "1139202",
+         "field_search": "question",
+         "question": "xin hỏi ad là IOS.12 trong hộp ảnh chọn video để up youtube, vào menu share không thấy có youtube mà chỉ có Gmail hay zalo hay facebook gì đó, có cách nào để nó hiện ra không ad? vì nếu vào thẳng ứng dụng youtube chọn up cũng được nhưng không có phần chọn nhiều video mà chỉ chọn up 1 lần một",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.010475,
+         "id": "1020555",
+         "field_search": "question",
+         "question": "mình dùng j5 2016m khi mình tải ảnh trên drive về có 1 số ảnh vào bộ nhớ thì thấy mà vào bộ sưu tập thì lại k hiển thị. ai chỉ giúp mình cách cho nó hiển thị vào bộ sưu tập với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.88504,
+         "id": "777101",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 5S trả góp hôm 05/01/2016máy hay bị có cuộc gọi đến có chuông có dung mà không hiển thị ai gọi, không tắt không nghe được hết chuông thì báo cuộc gọi nhỡ và nhiều lúc có cuộc gọi không thể gạt nghe được, lại còn bị thế này nữa, em gửi ảnh không biết có phải lỗi nặng không, em mang ra Thế giới di động họ chỉ nâng cấp lên 9.2.1 song trả lại không biết thế nào, ad xem hướng khắc phục như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.815384,
+         "id": "800977",
+         "field_search": "question",
+         "question": " Cho em hỏi gửi video mà đã tải trên youtube qua tin nhắn zalo như thế nào vậy...giúp e mvới... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.79325,
+         "id": "1156137",
+         "field_search": "question",
+         "question": "Mình đăng video lên youtube không được làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.51758,
+         "id": "994153",
+         "field_search": "question",
+         "question": "Em muốn hỏi là e dùng IP4, tự dưng mấy hôm nay khi có tin nhắn đến nó không hiển thị trên màn hình cũng như biểu tượng tin nhắn không hiển thị có tin nhắn mà e phải vào đọc tin nhắn mới biết là có tin nhắn đến hay không? Vậy làm cách nào để khắc phục ạ. Em đã vào thông báo và bật hiển thị trên màn hình khóa cũng như hiện bản xem trước rồi!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.32561,
+         "id": "1157262",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em sài iphone 8plus. Nếu kết nối bluetooth voi 1 dien thoại khác tên oppo thì có thể chia sẻ ảnh trục tiếp đuọce không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.16852,
+         "id": "742041",
+         "field_search": "question",
+         "question": "Em dùng iphone 5s gold, ad cho em hỏi tại sao khi chia sẻ ảnh, bài đăng  lại không xuất hiện lên từ IOS ạ, phải làm sao mới xuất hiện đc lên từ IOS ad giúp em với Tks ad ah!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.134834,
+         "id": "751391",
+         "field_search": "question",
+         "question": "Em mua iphone 6s plus mới được hơn 1 tháng. Mà giờ đang quay video tự nhiên bị sập màn hình. Bao nhiêu lâu nó mới khởi động lại. Sau đó vào quay video hay chụp ảnh màn hình đều đen xì. Và vào album xem lại các video cũ. Màn hình vẫn đen chỉ có tiếng thui. Lỗi đây la do nhà sx rồi. Em có được đổi máy mới không. Hay là lại chỉ mang đi bảo hành thôi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.96321,
+         "id": "899947",
+         "field_search": "question",
+         "question": "chào ad.... có thể giúp m giải quyết vấn đề này không ạ...m đang dùng dt lumia chia sẻ kết nối internet qua wifi để bắt vào laptop.... mọi ngày vẫn bình thường... nhưng giờ nó bị thế này....khi bật chia sẻ ở đt thì máy tính và dt đều nhận kết nối.. nhưng trên máy tính nó hiện như hình dưới....m làm mọi cách mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.571846,
+         "id": "1139552",
+         "field_search": "question",
+         "question": "Em chào shop !! Em hiện tại đang dùng 6s , từ khi lên 12.1.1 thì không truy cập được vào thư viện ảnh , không lưu được hình ảnh cũng như không upload được ảnh lên các ứng dụng được ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.23007,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.97305,
+         "id": "811076",
+         "field_search": "question",
+         "question": "Em dùng iphone 5s khi giữa màn hình hiển thị nội dung tin nhắn nhưng không có số điện thoại và tên tài khoản điện thoại. Vì sao ạ? giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.36593,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.29873,
+         "id": "1142519",
+         "field_search": "question",
+         "question": "Chào TGDD. Mình đang xử dụng Sony Xperia XZ1 nhưng dạo này có trường hợp (sau khi update lên Android 9) thì kết nối wifi đôi lúc không tìm thấy wifi mình đang sử dụng mà phải reset lại điện thoại mới vào được wifi. Và app FB trên đt của mình nó ko hiển thị được hình ảnh và video HD dù đã thử gỡ và cài lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.20255,
+         "id": "839510",
+         "field_search": "question",
+         "question": "add cho e hoỉ e vào app store thấy có những ứng dụng hay muốn chia sẻ cho mọi người thì làm như thế nào để lấy link chia sẻ ạ. mà khi mọi người click vào link thì sẽ đưa mọi người vào thẳng ứng dụng đó trong app store",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.18439,
+         "id": "844135",
+         "field_search": "question",
+         "question": " cho mình hỏi chia sẻ nhạc zing mp3 lên zalo trên iphone5. mình chỉ thấy chia sẻ lên facebook đc? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.981865,
+         "id": "1157526",
+         "field_search": "question",
+         "question": "Mình gặp một lỗi khi dùng facebook trên trình duyệt web google chrome- Hình ảnh có âm thanh hay video , đoạn ghi âm, mọi người gửi qua cho mình bằng messenger đều không nghe được.. Lúc trước thì được , bây giờ thì không- Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.84224,
+         "id": "996625",
+         "field_search": "question",
+         "question": "iPhone em trong mục ảnh cứ bị hiển thị đang khôi phục và không thể lưu ảnh khi chụp thì làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.73967,
+         "id": "911960",
+         "field_search": "question",
+         "question": "Mình và bạn mình dùng chung một Icloud Mỗi khi bạn mình nhắn tin trên máy bạn đó thì máy mình lại nhận được. Vậy nên mình hỏi cách không chia sẻ tin nhắn giữa 2 máy khi dùng chung 1 Icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.660416,
+         "id": "1138665",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động...Hỏi: hiện tại em đang sài máy iphone6 J/A đã nâng cấp lên 12.1.1. Từ khi lên ios 12 thì face book em không còn nhận được thông báo của fb ngoài màn hình nữa... nhưng khi vào check fb thì có rất nhiều thông báo tới...Em đã cài đặt lại thông báo máy và cả trên fb mà vẫn không được... Mong các anh chị TGDD hộ trợ em với ạ. Em cảm ơn.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.61534,
+         "id": "1164719",
+         "field_search": "question",
+         "question": "Chào adAd Cho em hỏi em đang dùng Con oppo f1s không hiểu sao sáng nay em dậy vào YouTube xem video không có nhạc,em vào zing mp3 cũng không có, vào gọi điện thoại cũng không có Ad cho em hỏi nó bị làm sao vậy ạ Cho em xin cách khắc phục lỗi ạ ° thanh âm lượng vẫn bật lên bật xuống được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.5512,
+         "id": "768514",
+         "field_search": "question",
+         "question": "Qtv ơi cho em hỏi. Em dùng IPhone em muốn lưu ảnh, video vào tài khoản Google được không ạ. Và làm cách nào mong anh chị trả lời dùm em. Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.52058,
+         "id": "1009122",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: Em sử dụng samsung j2 prime nhưng không hiểu sao khi có thông báo tin nhắn comment facebook hay được gắn thẻ hoặc bài viết quan tâm không hiển thị lên màn hình khóa.Ad giúp em khắc phục ạXin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.51486,
+         "id": "758770",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 4S được 2 hôm nay lắp sim, lấy máy khác gọi vào không hiển thị số, bên công ty giúp em khắc phục với , em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.47353,
+         "id": "906373",
+         "field_search": "question",
+         "question": "Em sai máy tính bàn ạ. MẤy bữa trước em call video face còn được. Đột nhiên em bấm cái gì đó. 2 3 ngày nay call video không thấy người ta đău cả. mấy anh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.31602,
+         "id": "1144675",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao tải video trên youtube về nó cứ để 0%, hoặc 1vài video tải về được xem có khi bị rít, sao khi tắt mạng thì vào xem không được, có khi để lỗi hoặc để video thiếu tệp. Em đang dùng itel s11 plus. Mong giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.91669,
+         "id": "996114",
+         "field_search": "question",
+         "question": "em dùng điện thoại A3 những đoạn video em quay được bây giờ báo lỗi khi xem thì jo làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.761826,
+         "id": "1020250",
+         "field_search": "question",
+         "question": "mình xài samsung galaxy fame . không hiểu sao cứ mỗi làn mình chụp ảnh , thì ảnh lại không hiển thị ở bộ sưu tập . mọi người chỉ mình cách khắc phục với .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.67113,
+         "id": "1157859",
+         "field_search": "question",
+         "question": "A7(2018)Facebook mình phải bấm vào video mới xem được, điện thoại khác chỗ nào có video thì sẽ tự phát. Khắc phục thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.56768,
+         "id": "1021357",
+         "field_search": "question",
+         "question": "Thư viện không hiển thị hình ảnh, trong thẻ sd vẫn còn file... Giúp em với... Xin cảm ơn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.50055,
+         "id": "797180",
+         "field_search": "question",
+         "question": "em muốn hỏi tại sao lúc đầu em sài bằng tài khoản microsoft nhưng khi đổi lại làm tài khoản cá nhân thì lại không được ạ.nhấp vào sign in with microsoft accoutn instead nhiều lần mà không hiển thị gì hết.!!và không đăng nhập được store luôn ạ!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.4904,
+         "id": "1010998",
+         "field_search": "question",
+         "question": "Em là ngọc anh em muốn hỏi là có cách nào để em thay hình ảnh của em trong cuộc gọi video trên messenger khi em không muốn cho người gọi cho em thấy em đang làm gì mà chỉ thấy hình dại diện hoặc hình em cài sẵn được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.46475,
+         "id": "868104",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao em lên zako và đã cài hiển thị thông báo , trả lời nhanh tin nhân mà khi có tin nhắn lại k có. Giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.25321,
+         "id": "886197",
+         "field_search": "question",
+         "question": " Tại sao camera không cho hiển thị cuộc gọi video với messenger hay viber? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.171036,
+         "id": "1153542",
+         "field_search": "question",
+         "question": "Máy của mình Samsung A8 bị lỗi ấn vào ảnh rồi chia sẻ thì nó báo lỗi Android bị ngừng hoạt động...Có cách khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.85037,
+         "id": "1149936",
+         "field_search": "question",
+         "question": "Em có cái video post trên zalo, mà em xóa ko được, trên tường e xóa tất rồi. mà người khác vẫn thấy. xong e lại xóa tất cả hình ảnh, video rồi, mà người khác vẫn thấy 3 đoạn Video đó. em đăng xuất ra đăng nhập lại. kể cả tắt nguồn mở lại vẫn bị vậy. Admin giúp em với ạ. e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.81107,
+         "id": "1164681",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi hiện tại mình đang xài Samsung J3, khi mình gọi vào điện thoại của em mình thì bên điện thoại em mình hiển thị cuộc gọi nhỡ từ mình và tự động tắt.. mình xem thì thấy biểu tượng chặn ở đt em mình nhưng mình đã xem lại thì sdt mình k có trong danh sách chặn cuộc gọi, cũng đã thử tắt chế độ chuyển tiếp cuộc gọi nhưng vẫn không được. Chỉ có em mình gọi lại được cho mình còn mình thì chỉ không gọi được cho sdt của em mình thôi. Cả 2 đt đều là Samsung J3 ạ. Mọi người ai biết cách khắc phục xin chỉ giùm mình với. Mình cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.54189,
+         "id": "793968",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua Samsung Galaxy J4 của Thế giới di động nhưng khi em cắm tay vào máy thì không hiển thị tai nghe và không nghe được, còn cắm sạc thì bình thường. Mong anh chị giải thích cho em hiểu và tìm cách khắc phục..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.51573,
+         "id": "1142607",
+         "field_search": "question",
+         "question": "Sao đt của em quay video mà mở lên xem lại thì báo là không thể phát video vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.4866,
+         "id": "1167899",
+         "field_search": "question",
+         "question": "Máy samsung note5 có cuộc gọi đến nhưng không thông báo mà chỉ hiển thị cuộc gọi bị từ chối trong danh mục điện thoại. Bạn chỉ giúp cách khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.41823,
+         "id": "761756",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5 nhưng bạn bè gửi tin nhắn video đến qua zalo mình không xem được phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.39143,
+         "id": "766786",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút ạ. em dùng ip4s, trước đây, khi em tắt 3g và wifi thì điện thoại vẫn nhận được tin nhắn zalo và messager bình thường, chỉ có ảnh thì không load được hoặc load chậm, nhưng khoảng 1 tuần nay, khi em tắt 3g và wifi thì không nhận được tin nhắn zalo nữa anh chị cho em hỏi là có phải do cài đặt gì không mà điện thoại em bị như vậy ạ? Giờ có cách nào để nó như cũ được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.26314,
+         "id": "1019662",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng galaxy j7 prime. Nhưng lên face không cuộn video liên tiếp đc. Mong các ad khắc phục hộ mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.07503,
+         "id": "897703",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là iphone 6s Plus lúc quay video trên máy mở lại thì ko xem được. Tất cả các video lúc trước quay cũng ko xem lại đc. Có cách nào khắc phục được ko vậy ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.062744,
+         "id": "855174",
+         "field_search": "question",
+         "question": "Laptop hiệu dell của em sao màn hình hiển thị màu xanh không thể làm gì được cả chỉ thấy con chuột thôi giúp em làm sao cho nó trở lại bình thường với ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.98223,
+         "id": "748356",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 4 của em khi em xem tin nhắn rồi bỏ đó không tắt máy. Lúc mở máy lên thì không quay lại được màn hình chính chỉ có thể nhắn tin. Mà nhấn nút nguồn mãi mới mở. Điện thoại em đang làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.82784,
+         "id": "819193",
+         "field_search": "question",
+         "question": "Hiện zalo của mình không hiển thị thông báo các họat động của bạn bè, bạn bè có đăng ảnh hay cập nhật cảm nghĩ mới vẫn không có thông báo như trước. Nhờ bên liên quan chỉ cách khắc phục. Cám ơn nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.78399,
+         "id": "1165491",
+         "field_search": "question",
+         "question": "Em vừa mua điện thoại samsung galaxy A30 cách đây 3 ngày. Xài được 2 ngày rất ok, nhưng hôm nay khi sạc pin thì lại hiển thị thông báo cổng sạc ẩm mặc dù không bị đụng vào nước. Không biết phải khắc phục như thế nào ạ? Có cần phải đem đi sửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.59998,
+         "id": "1022934",
+         "field_search": "question",
+         "question": "Ad cho hỏi khi em làm video trên ứng dụng avee music player trên sony xa1 khi xuất video nó báo vậy. Có cách nào khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.535965,
+         "id": "762036",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5 bản lock em muốn tải phim từ úc mà sao em không tải được khi em tải toàn hiện là video không thể tại vì lý do bản quyền. Em cần sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.40342,
+         "id": "998471",
+         "field_search": "question",
+         "question": "T dùng máy zen 3 5.5. Sau khi cập nhập lại máy thì máy chỉ hiển thi sim2 còn sim 1 thì không hiển thị. Vậy khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.38461,
+         "id": "875245",
+         "field_search": "question",
+         "question": "Zalo của mình bị lỗi là hầu như bài đăng đều không hiển thị được số cmt, bình luận của bạn bè. Mình vẫn đọc được cmt nhưng trên bài đăng thì chỉ hiện thị 0. Vậy cách khắc phục lỗi này là như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.33087,
+         "id": "695717",
+         "field_search": "question",
+         "question": "Tại sao ảnh không hiển thị trong thư viên ảnh. Nhưng vẫn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.27569,
+         "id": "811300",
+         "field_search": "question",
+         "question": " Tại sao điện thoại iphone 4S của em bỏ sim vào không hiển thị mạng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.22977,
+         "id": "1162887",
+         "field_search": "question",
+         "question": "Cho em hỏi. Apple watch của em chỉ kết nối bluetooth dien thoại em thì có ai kế bên chia sẻ hay kết nối được với apple watch của em ko ạ. Nếu em thoat id apple trên dien thoai cua apple watch thi đăng nhập lại nhu thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.20318,
+         "id": "1168297",
+         "field_search": "question",
+         "question": "anh ơi lúc trước đt e vẫn hiện toàn bộ ảnh lưu trữ từ fb chụp màn hình, down về chung một chỗ....nhưng bây giờ thì lưu ảnh trên fb thì nó lưu vào \" ảnh trên thiết bị\" nên bây giờ e không thể gửi ảnh qua mes như trước nữa. Mes bây h chỉ gửi được \" ảnh trên thiết bị \"thôi... Có cách nào khắc phục không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.040565,
+         "id": "1157617",
+         "field_search": "question",
+         "question": "Mình xài realme c1 tải pubg, zingspeed, face và msg không có ảnh hay video mà máy đã báo hết dung lượng có cách khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.93086,
+         "id": "819523",
+         "field_search": "question",
+         "question": "Cho em hỏi lúc trước em có tải ảnh từ máy tính thông qua itools vào điện thoại iphone 6, bây giờ em muốn xóa mà không xóa trên đt đc, đã mang ra cửa hàng dùng phần mềm kết nối với máy tính để xóa ảnh, khi đó điện thoại báo đã xóa được hình ảnh ra khỏi máy rồi, em vào máy kiểm tra cũng không còn thấy hình nữa, nay điện thoại lại trở về những ảnh đó như cũ, chưa được xóa hình nào cả. Em không có sử dụng tài khoản icoud? Xin hỗ trợ giúp em có cách nào xóa vĩnh viễn những hình đó không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.8307,
+         "id": "930638",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi! Có trường hợp nào mà đt hết dung lượng hay bị gì gì đó...khiến cho tin nhắn người khác gởi tới cho mình ko được hiển thị ( mình ko chặn người lạ và họ vẫn chưa đồng ý kết bạn). Sau đó họ đồng ý kết bạn và tin nhắn của họ gởi cho mình lại được hiển thị. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

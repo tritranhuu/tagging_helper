@@ -1,0 +1,801 @@
+{
+   "id_query": "751559",
+   "total": 33640,
+   "total_current": 100,
+   "max_score": 142.91988,
+   "origin_question": "Mua máy mới thì mới được tặng quà hả shop? Mình mua cái iPad hàng đã qua sử dụng cũng không thấy được tặng gì. Vài ngày sau đổi lại iPhone 6s cũng không nhận được gì. Sao thấy trên TGDD nói tặng quà nhiu vậy?",
+   "hits": [
+      {
+         "score": 56.86186,
+         "id": "996493",
+         "field_search": "question",
+         "question": "xin chào. cho mình nếu mình đặt hàng sản phẩm sony xz Premium chính hãng thì có được tặng kèm quà tặng không ạNếu có quà tặng mà mình không muốn lấy quà tặng thì có được đổi quà sang tiền mặt không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.94363,
+         "id": "1015492",
+         "field_search": "question",
+         "question": "Mình mua hàng đổi trả có tặng quà gì không vậy thế giới di động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.163948,
+         "id": "766946",
+         "field_search": "question",
+         "question": " Mã thẻ quà tặng itune và quà tặng itune của iphone là gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.818626,
+         "id": "878031",
+         "field_search": "question",
+         "question": " Thẻ quà tặng itunes và quà tặng itunes mk lập 1 app store mới nhưng cần cái itunes mới thành công ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.6533,
+         "id": "780020",
+         "field_search": "question",
+         "question": " Cách tìm mã quà tặng và thẻ quà tặng iTunes sao vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.93853,
+         "id": "760541",
+         "field_search": "question",
+         "question": " Mua thẻ quà tặng iTunes là gì vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.064655,
+         "id": "990020",
+         "field_search": "question",
+         "question": "cho e hỏi là nếu mua f3 plus mua sản phẩm đã qua sử dụng thì có đc tặng quà k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.263493,
+         "id": "766949",
+         "field_search": "question",
+         "question": " Mã Thẻ Quà tặng iTunes và Quà tặng iTunes là gì? Trả lời dùm em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.996338,
+         "id": "1164021",
+         "field_search": "question",
+         "question": "HUAWEI P30 LITE CÒN KHUYẾN MÃI QUÀ TẶNG GÌ KHÔNG Ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.548424,
+         "id": "998306",
+         "field_search": "question",
+         "question": "đc tặng ốp lưng thì hk giống như trong hình , cũng hk đc tặng sim với sạc dự phòng , trong khi đó nay vẫn còn hạn mua dt tặng quà ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.419296,
+         "id": "1141209",
+         "field_search": "question",
+         "question": "Asus Zenfone Max Pro M2 có hàng chưa shop.giờ ra mua có hàng sẵn chứ,không cần quà tặng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.393364,
+         "id": "1168145",
+         "field_search": "question",
+         "question": "Tôi muốn bán lại chiếc vivo y91c mới mua tại tgdd được hơn 1tháng. Nhưng không còn quà tặng phụ kiện thì giá là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.029842,
+         "id": "1019319",
+         "field_search": "question",
+         "question": "mua nokia X5 co tặng quà gì không vậy admin. và hiện tại ở mỹ tho cửa hàng ở đâu có bán máy này .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.877285,
+         "id": "1158566",
+         "field_search": "question",
+         "question": "Cho hỏi đặt mua con a50128gb. Không lấy quà tặng có được giảm tiền không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.781765,
+         "id": "1019069",
+         "field_search": "question",
+         "question": "khi nào mới đặt hàng zenfone 4max pro v ạvs lại có bnh bộ quà tặng kèm theo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.63481,
+         "id": "811577",
+         "field_search": "question",
+         "question": " Mã quà tặng là gì trong lúc lập tài khoản ID Apple. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.11011,
+         "id": "1143364",
+         "field_search": "question",
+         "question": "Mình muốn mua nokia 8.1 nhuk ko lấy quà tặng, có giảm tiền trên sp ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.14052,
+         "id": "1160110",
+         "field_search": "question",
+         "question": "chào shop cho mình hỏi huawei nova 3i nếu mua ko có quà tặng thì giá còn bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.62041,
+         "id": "1133309",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu mình mua sản phẩm A9 2018 nếu không lấy quà tặng thì có được giảm giá không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.47471,
+         "id": "993818",
+         "field_search": "question",
+         "question": "Mua trả góp sam sung galaxy a5 có đc tặng quà j k vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.347088,
+         "id": "1022767",
+         "field_search": "question",
+         "question": "quà tặng khuyến mãi Note 8 là gì vậy em?E liệt kê quà ra dùm anh nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.2051,
+         "id": "1009315",
+         "field_search": "question",
+         "question": "Mình mua laptop có áp dụng đồng thời quà tặng với chương trình giảm tiền theo điểm k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.070656,
+         "id": "994871",
+         "field_search": "question",
+         "question": "Samsung Galaxy J7 Pro. nếu không lấy quà tặng thì có được giảm trừ không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.470947,
+         "id": "1134155",
+         "field_search": "question",
+         "question": "Cho em hỏi trả góp điện thoại xs max 256GB có quà tặng gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.269093,
+         "id": "1000985",
+         "field_search": "question",
+         "question": "Mình muốn mua J7 pro trong hôm nay vì lúc trước hàng chưa về mà cũng muốn đặt nhưng không có thời gian đi. Không biết hô nay có còn quà tặng nữa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.88388,
+         "id": "1000029",
+         "field_search": "question",
+         "question": "ad cho mình hỏi trả gop 0đ có quà tặng j k hả ad mong ad trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.36504,
+         "id": "773766",
+         "field_search": "question",
+         "question": " Tại vì sao anh khi em không nhập mã quà tặng iTunes thì nó hiện thế này?     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.197296,
+         "id": "1018880",
+         "field_search": "question",
+         "question": "Cho e hỏi mua oppo a37 túi chống nước là  quà tặng hay là mình mua thế  ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.61364,
+         "id": "997808",
+         "field_search": "question",
+         "question": "Chào ạ! Em mới mua điện thoại gần đây, bây giờ em muốn đổi điện thoại khác vì không hợp ý! Bây giờ em muốn trả đổi như thế nào ạ? Giá cả thì mất bao nhiêu? Quà tặng 400k em sẽ bị thu hồi lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.322243,
+         "id": "811923",
+         "field_search": "question",
+         "question": "Em mới được chị tặng cái iPad air 2, mà lỡ mua bản 4G, em thì không có nhu cầu sử dụng, có thể tắt dòng 'Không có SIM' mà thành iPad như bản Wifi được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.317062,
+         "id": "1151894",
+         "field_search": "question",
+         "question": "Mua giảm được bao nhiêu .giá hiện tại. Samsung. 20.có tặng được bao nhiêu món quà.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.988426,
+         "id": "1142596",
+         "field_search": "question",
+         "question": "tgdđ cho e hỏi...bên mình gần tết..có chương trình khuyến mãi nào tặng iphone 8 và phiếu mua quà trị giá 3000000 cho khách hàng mua hàng trả góp đúng thời hạn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.674225,
+         "id": "1143008",
+         "field_search": "question",
+         "question": "Vậy mua oppo f9 có tặng sạc vooc ko mua trên TGDĐ mới đc tặng hay mua ở đâu cx đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.503983,
+         "id": "794535",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi thấy trên trang ad có đăng mua iphone 5s đc tặng cục sạc dự phòng vậy sao em mua k được tặng vậy ad ? Với cho em hỏi làm sao biết iphone của mình có bao nhiêu GB ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.434425,
+         "id": "1021358",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi minh có đặt trước máy samsung galaxy note8 không biết minh được tặng quà gì có thể kiểm tra dùm mình được không. SĐT: 0986475736",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.082092,
+         "id": "993311",
+         "field_search": "question",
+         "question": "Dear!!Mình muốn mua S8 Plus Lãi suất thấp...trả trước 6t2 góp 6 thagns mõi tháng 2t5cho hỏi e mua vậy có được nhận khuyến mãi  ko  Nhận ngay kính Gear VR3 khi là chủ sở hữu Samsung Galaxy dòng S, Note và A (lấy mã ưu đãi từ apps Quà tặng Galaxy, không áp dụng đồng thời KM khác, không áp dụng trả góp 0% qua công ty Tài Chính, không áp dụng đơn hàng Online) Tặng Gói Bảo hiểm Tai nạn + Luxury",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.078583,
+         "id": "1135499",
+         "field_search": "question",
+         "question": "Thegioididong cho e hỏi là samsung đang có chương trình với khách hàng đang dùng samsumg có app quà tặng galaxy khi mua a9 sử dụng mã giảm giá tại app có thể giảm được 1tr5 khi mua a9. Vậy có áp dụng với thế giới di động không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.873306,
+         "id": "1135617",
+         "field_search": "question",
+         "question": "Tôi có sử dụng điện thoại samsung galaxy S2 nhưng không lấy được mã giảm giá do điện thoiạ không tương thích với bản cài đặt quà tặng galaxy thì khi mua A9 có được giảm giá không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.803177,
+         "id": "1005368",
+         "field_search": "question",
+         "question": "Mình mới được người quen tặng dt j7 pro. mới mua 2 ngày trước. Giờ mình muốn đổi lại để mua iphone 6 32G thì có được ko? Nếu được thì thủ tục ntn? và mình phải bù bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.65475,
+         "id": "1136550",
+         "field_search": "question",
+         "question": "Xin chàoMình muốn hỏi là đợt Black Friday ngày 24 - 25/11 vừa qua, mình có mua điện thoại samsung galxay A7 phiên bản 128GB, được giảm 1tr300 ngàn. Nhưng ở shop người ta bảo nếu phiên bản 64GB thì sẽ nhận được 500 ngàn từ quà tặng galaxy, còn nếu phiên bản 128GB thì kg được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.622612,
+         "id": "740923",
+         "field_search": "question",
+         "question": " Cho hỏi để lấy được mã quà tặng Apple store làm như thế nào nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.481987,
+         "id": "1141032",
+         "field_search": "question",
+         "question": "Tôi muốn mua một số sản phẩm của công ty để làm quà tặng cho nhân viên. VUi lòng tư vấn cho tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.405376,
+         "id": "1157562",
+         "field_search": "question",
+         "question": "Iphone 7plus mới mua 20 ngày trong quá trình sử dụng nhận thấy khi vào 3g và đọc báo bị nóng máy có được đổi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.315727,
+         "id": "751555",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6s bên TGDD mà có người nói là hàng nấu lại làm sao để biết được máy mình như thế nào hả qtv..có wed nào kiểm tra được chiếc điện thoại như thế nào không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.300636,
+         "id": "748770",
+         "field_search": "question",
+         "question": " Cho em hỏi em muốn mua 6s 16G được giảm tặng gì không à.Mua trả tiền liền không góp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.169353,
+         "id": "1007233",
+         "field_search": "question",
+         "question": "bữa em có mua cái j7 pro và được tặng phiêu mua hàng samsung trị giá 300k cho em hỏi là mua gì trong cửa hàng cũng được hay là chỉ mua hàng của samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.146492,
+         "id": "780394",
+         "field_search": "question",
+         "question": " Mình mua iphone 5s được tặng PMH laptop máy tính bảng 400k. Phiếu đó có sử dụng được khi mình mua MTB đổi trả ko QTV? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.043648,
+         "id": "1007126",
+         "field_search": "question",
+         "question": "bữa em có mua cái j7 pro và được tặng phiêu mua hàng  samsung trị giá 300k cho em hỏi là mua gì trong cửa hàng cũng được hay là chỉ mua hàng của samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.97007,
+         "id": "1006164",
+         "field_search": "question",
+         "question": "cho em hỏi thế giới di động Ninh Thuận còn hàng ipad samsung galaxy tab a6 7'' giá 3.590.000 k ạ. khi mình mua thì đc phiếu quà tặng hay chương trình khuyến mãi jk k ạ. mong nhận đc câu tl sớm nhất. xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.9222,
+         "id": "1022243",
+         "field_search": "question",
+         "question": "Tôi muốn mua trả góp galaxy S8 puls.có mã ưu đãi bên quà tặng galaxy giảm được 2tr.rùi mình cis được hưỡng những khuyến mãi khá nưa k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.845844,
+         "id": "1154415",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại sam sung A7 2018 64gb ngày 3/3/2019 tại thế giới di động còn đầy đủ phụ kiện, quà tặng, hộp, mình muốn đổi sang sam sung galaxy A50 phải bù thêm bao nhiêu tiền, bửa mình mua hết 6.190.000",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.80933,
+         "id": "1001715",
+         "field_search": "question",
+         "question": "Chào ạ!!! Như đã nói lúc chiều thì thông tin mã quà tặng nó đã bỏ yêu cầu bắt buộc đó rồi nhưng bây giờ lại yêu cầu mã điện thoại như này, em đã nhập sđt vào nhưng nó kh chấp nhận vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.753807,
+         "id": "1150407",
+         "field_search": "question",
+         "question": "Khi mua ipad wifi 128g. Sẽ đựơc tặng kèm theo gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.713287,
+         "id": "796666",
+         "field_search": "question",
+         "question": "Cho em hỏi cái này ad ơi.em mới mua iphone5 bên trung tâm tgdd ở tp thanh hóa.mới mua được mấy hôm về làm quà mà chưa có sử dụng. Giờ em muốn đổi sang máy khác thì mang lên chỗ em mua có đổi được không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.40416,
+         "id": "761234",
+         "field_search": "question",
+         "question": "Em mới mua iphone 6s được 2 ngày, ai gọi tới vẫn đổ chuông nhưng bắt máy lên không nghe được gì cả , bên kia cũng không nghe được? Mình gọi lại cho người ta cũng không nghe tín hiệu gì ! Vậy em có được đổi điện thoại không !? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.293953,
+         "id": "750821",
+         "field_search": "question",
+         "question": " Xuất hiên thẻ quà tặng và mã tín dụng khi đăng ký tài khoản app store mọi người giải đáp giúp e với ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.270767,
+         "id": "1003624",
+         "field_search": "question",
+         "question": "ad cho mình hỏi máy mình bị hỏng bên TGDD có thu lại không và nếu mua mới thì có được hỗ trợ gì không ? vì hồi trước thấy có. Máy hỏng mình cũng mua từ TGDD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.942932,
+         "id": "1022290",
+         "field_search": "question",
+         "question": "Em là sinh viên, hiện h em cần tìm mua 1 laptop có thể đáp ứng đc việc học, và cũng có thể chơi game đc. Anh chị nào biết có thể tư vấn giúp em với. Mà nếu rm mua trả góp thì em có đc nhận quà tặng kh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.7004,
+         "id": "1020158",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Trên S8  giò nó hiện thông báo: Thông tin, quà tặng Galaxy không thể chạy nếu không có quyền của bạn Hãy đảm bảo rằng những quyền này chỉ được sử dụng với mục đích nâng cấp ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.610638,
+         "id": "918441",
+         "field_search": "question",
+         "question": "Em mới mua iPhone  5s ở tgdd, em mới sử dụng được 3 ngày và em thấy Sđt mình chậm kinh khủng. Vuốt qua chụp hình phải đợi cỡ 20s mới chụp được, wifi thì đang có mà nhầm lúc kh vào mạng được. Vậy có phải là do máy không ạ ? Vậy em có được đổi không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.535854,
+         "id": "1163021",
+         "field_search": "question",
+         "question": "Cho mình hỏi phiếu mua hàng samsung tặng kèm note 9 hạn sử dụng bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.306774,
+         "id": "766673",
+         "field_search": "question",
+         "question": " Cho em hỏi! em mới mua iphone 6s được 1 ngày! nhưng cảm thấy nó rất mau hết pin vậy em có được đổi máy mới không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.058163,
+         "id": "765561",
+         "field_search": "question",
+         "question": " Làm thế nào để có mã thẻ quà tặng itunes ạ anh chị nào biếtt thì có thể chỉ cho e với được không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.98091,
+         "id": "995102",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại sony mới tại thế giới di động được 7 ngày,máy bị lỗi mang đi đổi lại.. về kiểm tra thấy máy đổi lại đã qua sử dụng , thời hạn kích hoạt bảo hành đã lâu.. thế mua điện thoại mới bị lỗi đổi điện thoại cũ à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.843452,
+         "id": "1021756",
+         "field_search": "question",
+         "question": "Hi bạn! hiện tại mình có mua máy tính laptop acer đã qua sử dụng. và mới mua được chưa được một tuần thì máy có tình trạng giật lag. trong khi mình không sử dụng việc gì ngoài word và exel. cũng không dowload gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.75498,
+         "id": "803962",
+         "field_search": "question",
+         "question": " Cho em hỏi mua iphone 4s tặng PMH và Tablet làm cái gì vậy mà cái đó để làm gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.206154,
+         "id": "786249",
+         "field_search": "question",
+         "question": "cho mình hỏi khi tải 1 ứng dụng hay trò chơi nào đó trong appstore về máy thì vào phần nhận-> cài đặt load một lúc thì yêu cầu dùng ID Apple hiện có hoặc ID mới. Mình đăng nhập ID hiện có ko đc còn tạo cái mới thì nó cứ có phần Mã quà tặng Itunes và mã thư tín nhưng mình ko biết mã nó là gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.152252,
+         "id": "986183",
+         "field_search": "question",
+         "question": "cho e hỏi, e mua oppo f3. Nv có nói mấy ngày nữa là bộ quà tặng về sẽ gọi mà gần tháng r k có là s z ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.00795,
+         "id": "1155711",
+         "field_search": "question",
+         "question": "mình được tặng 1 dt real me 2 3g màu đen mua ở tgdd ngày 22/1/2019 nhưng k có sạc cáp hoặc hộp. mình có thể đổi trả lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.875,
+         "id": "1143678",
+         "field_search": "question",
+         "question": "Cho mình hỏi mua trả góp điện thoại hưawai nova3i đc qua tặng gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.676277,
+         "id": "1160241",
+         "field_search": "question",
+         "question": "con p30 pro rốt cuộc là giá nhiêu vậy shop, cọc sớm giảm 1tr (trong bộ quà 7tr) thì ghi giá 24tr, còn sau đó ghi quà 6tr thì quà 23tr, thế cọc sớm cọc trễ như nhau à!? kiểu cảm thấy ko tôn trọng khách hàng v?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.58664,
+         "id": "1164274",
+         "field_search": "question",
+         "question": "Sản phẩm s10 hàng cũ thì khi mua có được áp dụng mã giảm giá của samsung tặng không nhỉ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.915422,
+         "id": "1138933",
+         "field_search": "question",
+         "question": "tôi vừa mua ip 7 plus đã qua sử dụng, nhưng khi nhận máy t không thể đang nhập vào icloud, cũng ko tìm thấy icloud , phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.731487,
+         "id": "1004697",
+         "field_search": "question",
+         "question": "Cho minhf hỏi điện thoại minhf được tặng là hàng công ty không qua tay ai hết nguyên hộp chưa đập hộp thì TGDD có thu mua không ạ? Tại minh muon đổi sang dòng điện thoại khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.612757,
+         "id": "1150582",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình mua máy xiaomi redmi note 6 pro hàng đổi trả ở tgdd. Mình dùng đc gần 1 tuần thì thấy lúc mở khóa máy hay bị chậm. Ấn nút nguồn để mở khóa thì mấy 5-6s sau máy mới phản hồi, dùng vân tay 1 chạm cũng bị tình trạng như vậy. Là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.52044,
+         "id": "1017283",
+         "field_search": "question",
+         "question": "Toi mới mua iphone 6s plus tại TGDD máy cũ, giờ tôi muốn đổi qua s8 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.426622,
+         "id": "767455",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: iPhone 5s sao nhanh hết pin, mình chỉ lướt Facebook mà máy được khoảng 15-20 phút là đã thấy nóng, mặc dù không có ứng dụng chạy ẩn, dịch vụ định vị và các ứng dụng không liên quan đã tắt hết. máy mình mới mua ở TGDD được vài ngày.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.368584,
+         "id": "1149477",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có mua hàng được tặng phiếu mua hàng 1 triệu đồng. Cho mình hỏi mình mua Xiaomi Mi 8 thì khi mua phụ kiện bằng phiếu mua hàng mình có mua của iPhone được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.302938,
+         "id": "994234",
+         "field_search": "question",
+         "question": "mua   Laptop Dell Vostro 3568 i3 7100U4GB1TBWin10     dc tặng gì vây  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.248165,
+         "id": "1136633",
+         "field_search": "question",
+         "question": "cho hoi ngày 0112 mình co mua cái A9 dc tặng gói 900k z lấy bằng cách nao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.2277,
+         "id": "1152991",
+         "field_search": "question",
+         "question": "Em mới mua Samsung Galaxy M20 vào tuần trước. Sau vài ngày sử dụng em thấy chiếc điện thoại của mình hay có dấu hiệu bị đơ và loạn cảm ứng. Em có thể đổi sản phẩm của mình được không ạ, và khi muốn đổi thì em cần phải làm gì ạ. Cho em xin lời khuyên .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.186893,
+         "id": "1022237",
+         "field_search": "question",
+         "question": "chào c, tôi mới mua j3 pro ngoài tặng áo khoác còn khuyến mại  gì nừa ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.16004,
+         "id": "757034",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mu cái iPad 2. Mua được 1 tuần, hôm nay máy hết pin mình cắm sạc khoảng 3 tiếng mình rút ra thì thấy máy không mở. mở nguồn cũng không được, máy rút điện đã lâu rồi mà vẫn cứ nóng như vậy máy bị làm sao, mình có phải mang xuống TGDĐ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.055351,
+         "id": "1015188",
+         "field_search": "question",
+         "question": "Tôi mới mua Samung j7 prime giá 5990k và có tặng phiếu mua hàng 400k, sau 2 ngày sử dụng bay h tôi muốn trả lại sản phẩm để mua điện thoại khác vì k hài lòng nhưng nhân viên trừ của tôi 20% còn 4330k và trừ hóa đơn 400k phụ kiện?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.03294,
+         "id": "1165200",
+         "field_search": "question",
+         "question": "Khi mua samsung A30 32GB mình có được tặng gì không ạ ? Với lại khi đi mua mình có phải đem theo giấy CMND hay gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.001749,
+         "id": "787682",
+         "field_search": "question",
+         "question": "Tôi có mua lại một máy iPhone 5s đã qua sử dụng tại thegioididong ngày 12/2. Sau khi về sử dụng được 4 ngày thì camera trước của máy bị lệch vị trí so với ban đầu. Tôi sử dụng không làm rơi hay va đập vậy lỗi này có được đổi trả không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.828487,
+         "id": "915423",
+         "field_search": "question",
+         "question": "Em mới mua iphone 7 plus bên tgdd, sáng giờ nó cứ hiện 2 cái ứng dụng ẩn, không click vô được cũng không xoá được, lại còn tự động đổi tên nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.804426,
+         "id": "1012342",
+         "field_search": "question",
+         "question": "Cho em hỏi: đứa em mới vừa mua cái laptop asus a540up với giá 14.490.000đ có tặng kèm các sản phẩm như balo,chuột ,tai nghe nhưng sao cửa hàng tại Bạc Liêu nói là không tặng do đã giảm giá  (vì em nó vừa thi đại học xong, có phiếu điểm nên giảm được 5% tức là giảm 750.000đ ). Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.778101,
+         "id": "1000956",
+         "field_search": "question",
+         "question": "Cho hỏi mình mới mua máy Nokia 5 mà mang về dùng mới vài tiếng thấy ko thích thì giờ mình mún đổi máy ss j7 prô có mất phí ko .nếu mất thì bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.624653,
+         "id": "1023413",
+         "field_search": "question",
+         "question": "cho hỏi khi đặt cọc mua Note 8 là có 1 số quà tang, vậy quà đó khách hang sẽ được nhận khi nào? ngay sau khi đặt cọc hay khi nhận máy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.474506,
+         "id": "1015100",
+         "field_search": "question",
+         "question": "Mình mới mua 1 máy tính bảng Huawei MediaPad T3. Tối qua đang để sạc pin trên bàn thì nhóc tì nó quơ rớt xuống đất. Kiểm tra lại thì thấy đầu sạc pin bị hỏng. Vậy mình có được đổi dây sạc mới miễn phí không? Nếu không được thì phải mua mới hết nhiêu tiền vậy Ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.434446,
+         "id": "766211",
+         "field_search": "question",
+         "question": " Mình mua máy đổi trả iPhone 6s tại cửa hàng Lạc Long Quân. Sau khi sử dụng  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.280012,
+         "id": "874672",
+         "field_search": "question",
+         "question": " Chào bạn. Mình mới mua ip 6s plus. Máy báo điều khoản sử dụng iCloud đã thay đổi. Nhấn OK có sao không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.249458,
+         "id": "1149577",
+         "field_search": "question",
+         "question": "Mua huawei y7 có được tặng tai nghe k?? Nếu không, mua riêng thì giá bao nhiêu vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.236778,
+         "id": "1015855",
+         "field_search": "question",
+         "question": "cho em hõi máy samsung galaxy a5 2017 e mua mới 8tr990 mà chưa bóc hộp còn ms 100% bán lại đc bn ạ vs lại e cũng ko có nh cầu sài máy ạ máy đc người ta tặng máy ms luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.232265,
+         "id": "778571",
+         "field_search": "question",
+         "question": " TGDĐ có nhận thay màn hình Ipad mini bị vỡ kính không ah? Ipad này của người bạn nước ngoài tặng mình. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.158487,
+         "id": "998106",
+         "field_search": "question",
+         "question": "Sao tôi mua galaxy s8 ở thế giới di động trong tháng 6 này . mua hình thức trả góp . sao k thấy có quà của samsung nhỉ . tôi k nhận đc kính thực tế ảo hay bất kỳ quà gì khác. Mong ad giải thích giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.098907,
+         "id": "1159963",
+         "field_search": "question",
+         "question": "Cho mình hỏi, hnay mình mới mua em hp pavilion 15 (đã qua sử dụng) ở shop. nhưng khi sử dụng thì mình ko tìm thấy microsoft store và ko cập nhập đc nhưng bản vá lỗi của microsoft .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.052425,
+         "id": "1136950",
+         "field_search": "question",
+         "question": "Vài tháng trước em có mua laptop acer E5 575g 53EC nhân viên có nói được tặng mã giảm 100k cho đơn hàng sau giờ còn thời hạn ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

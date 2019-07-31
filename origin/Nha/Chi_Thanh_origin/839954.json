@@ -1,0 +1,801 @@
+{
+   "id_query": "839954",
+   "total": 20064,
+   "total_current": 100,
+   "max_score": 89.22831,
+   "origin_question": " htc m9bị lỗi Rất tiết, Trải nghiệm Sense Home đã dừng lại. phải làm sao bây giờ ",
+   "hits": [
+      {
+         "score": 25.200266,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.962084,
+         "id": "1020967",
+         "field_search": "question",
+         "question": "máy em bị lỗi rất tiếc, quá trình com.google.processgapps đã dừng lại. em phải làm s ạ. Máy em là asus zenfone 4.5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.076517,
+         "id": "1139192",
+         "field_search": "question",
+         "question": " Máy Vsmart đã có hàng trải nghiệm ở các cửa hàng TGDD chưa nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.152065,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.086824,
+         "id": "999927",
+         "field_search": "question",
+         "question": "em xài oppo a11w ạ...máy em bị bị dừng tât cả các ứng dụng.. và  hiện lên chữ com.google.process.gapps đã dừng lại.. bây giờ thì phải làm s thì mới có thể dùng lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.154602,
+         "id": "807941",
+         "field_search": "question",
+         "question": "Máy Oppo r1001 hiển thị \"rất tiếc. com.oppo.exserveceui đã dừng lại\" thì phải làm sao, e đã khôi phục cài đạt gốc r mà không được, nó vẫn hiện lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.102922,
+         "id": "871244",
+         "field_search": "question",
+         "question": "Tình hình là bây giờ đt em vào messenger với facebook được luôn rồi ạ :( em đã làm đủ mọi cách mà cái anh hồi sáng chỉ em vẫn ko vào đc :( vào nó cứ báo \" Rất tiếc, Facebook đã dừng lại \" :( \" rất tiếc, Messenger đã dừng lại \" :((... Em đã khôi phục dữ liệu gốc rất nhiều lần rồi mà vẫn ko vào facebook với messenger đc :( Anh chị nào còn cách nào fix đc lỗi ko chỉ em với... Em cảm ơn trước !!! :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.045628,
+         "id": "1023566",
+         "field_search": "question",
+         "question": "khi nào thì mới có note 8 đã đặt hàng trước v? ngoài cửa hàng đã có hàng mẫu để trải nghiệm chưa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.999025,
+         "id": "1014946",
+         "field_search": "question",
+         "question": "em bị lỗi rất tiếc cài đặt đã dừng thì sửa sao ạ máy asus k012",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.984344,
+         "id": "1016261",
+         "field_search": "question",
+         "question": "cho em hỏi oppo r827 của em nó cứ hiện rất tiếc status bar đã dừng lại cứ tắt lại hiện liên tục, em đã reset nhưng vẫn không được bây giờ phỉa làm sao ạ? Với lại imei 866890023517680 có phỉa là đã mua ở tgđ k ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.669199,
+         "id": "1143392",
+         "field_search": "question",
+         "question": " Bên mình có đt Vismart active 1 trải nghiệm trực tiếp k? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.658964,
+         "id": "798823",
+         "field_search": "question",
+         "question": "Tại sao em update lên ios 9.3 beta 6 mà vẫn chưa có night sift trên iphone 5 của em. Tại sao và tại sao ad. Làm sao mà trải nghiệm được khi apple cho thử nghiệm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.445908,
+         "id": "807611",
+         "field_search": "question",
+         "question": "Cho e hỏi máy em là Oppo r1001, giờ bị hiện lên chữ \" rất tiếc, mở khóa nguồn gốc đã dừng lại\" và \" rất tiếc, com.oppo.exserviceui đã dừng lại\" vậy điện thoại e có sửa được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.270563,
+         "id": "1015752",
+         "field_search": "question",
+         "question": "Anh ơi em lỡ dùng lucky patcher để vô hiệu hóa quảng cáo của Khung Dịch vụ của Google với cửa hàng Google play nên giờ nó cứ hiện liên tục \"Rất tiếc,quá trình com.google.process.gapps đã dừng lại\" giờ em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.21334,
+         "id": "1162396",
+         "field_search": "question",
+         "question": "Cho hỏi cửa hàng nào cho trải nghiệm đồng hồ huawie watch 2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.001598,
+         "id": "1135345",
+         "field_search": "question",
+         "question": "Nokia 5.1 plus mình được trải nghiệm máy không ạ, mình ở Thủ Đức",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.689404,
+         "id": "1018122",
+         "field_search": "question",
+         "question": "Mình muốn trải nghiệm smartwacth Gear 3 ở đau, mình ở quận 2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.60502,
+         "id": "999639",
+         "field_search": "question",
+         "question": "Mình muốn tắt easytouch nhưng chạm vào thì nó hiện lên dòng chữ CÀI ĐẶT ĐÃ DỪNG bây giờ làm sao để tắt nó đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.547434,
+         "id": "1140966",
+         "field_search": "question",
+         "question": "dt lenovo bị lỗi nhắn tin , lỗi  đã tắt tính năng gửi  ? giờ phải làm sao để cài đặt lại vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.474236,
+         "id": "1154586",
+         "field_search": "question",
+         "question": "con dell vostro i5 3568 của em khi mở máy ngốn rất nhiều ram mặc dù em đã tìm nhiều cách khắc phục. Bây giờ phải làm sao ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.312016,
+         "id": "997180",
+         "field_search": "question",
+         "question": "Em dùng J2 nhưng mà chỗ thời tiết lại hiển thị nhầm địa điểm khác bây giờ muốn đổi lại địa điểm thì làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.252354,
+         "id": "1011398",
+         "field_search": "question",
+         "question": "Chào thế giới di động .! Cho mình hỏi một vài thông tin về Bphone 2, khi nào thì có sản phẩm trải nghiệm tại chuỗi cửa hàng của TGDĐ nhỉ? mình ở Đà Nẵng, muốn trải nghiệm và ủng hộ hàng Việt..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.224474,
+         "id": "823230",
+         "field_search": "question",
+         "question": " Em đã thử hôm qua tới bây giờ mà củn hk đc3g thì rất mạnhMà thử thì cứ z hoàiCho em hỏi phải làm sao mới vào được   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.095106,
+         "id": "1166139",
+         "field_search": "question",
+         "question": "Em tải game có dung luợng lớn như pubg hoặc free fire,... thì nó lại báo lỗi \"Rất tiếc, cửa hàng google play đã dừng lại\". Điện thoại em sử dụng là HTC One M8 có dung luợng 32GB em chỉ mới sử dụng 10 mấy GB thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.53384,
+         "id": "1152225",
+         "field_search": "question",
+         "question": "Máy tính nhà e là win 10 home single language bây h em mún đổi sang win 10 pro phải làm sao ạ. Em đã có key",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.454046,
+         "id": "1016358",
+         "field_search": "question",
+         "question": "Điện thoại mình khi mở lên nó hiện ra Rất tiếc, Q Launcher đã dừng lại thì làm thế nào ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.427809,
+         "id": "1024058",
+         "field_search": "question",
+         "question": "Ad ơi samsung j5 2016 sau khi root nó cứ lỗi lên lỗi xuống. Đôi lúc nó tắt màn hình rồi lại mở, cứ lặp đi lặp lại... rồi khi mở còn hiện lên \"TouchWiz đã dừng\". Trường hợp này phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.03577,
+         "id": "1016160",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao khôi phục cài đặt gốc nó cứ bảo rất tiếc cài đặt đã dừng lại là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9342575,
+         "id": "1013488",
+         "field_search": "question",
+         "question": "thế giới di động ở  , Phạm Văn Đồng, Núi Thành, Quảng Nam có Bphone để trải nghiệm không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.890632,
+         "id": "986331",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone của em là iPhone 6, chạy Ios 10.3.1, máy lúc trưa xài bình thường nhưng bây giờ mở không lên, em dùng thử cách ấn đồng thời nút nguồn và nút home, ấn giữ nút nguồn vẫn không được, đụng vào thì nút home rất nóng, thế em phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.704963,
+         "id": "781383",
+         "field_search": "question",
+         "question": " iphone 4s của em có hiện dòng  bấm nút Home 3 lần để dừng điều khiển công tắc. em phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.57999,
+         "id": "1160384",
+         "field_search": "question",
+         "question": "Cho e hỏi trên đt Oppo f11 pro làm thế nào để xem full màn hình và tính năng trình giám sát tai nghe thông minh e thấy ghi cho phép trải nghiệm karaoke là sao z ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.428894,
+         "id": "1020854",
+         "field_search": "question",
+         "question": "Cho mình hỏi, sao nhấn vào messenger thì điện thoại lại báo messenger đã dừng lại. Mình gỡ cài đặt và tải lại, khỏi động máy lại mà vẫn bị. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.287612,
+         "id": "1151901",
+         "field_search": "question",
+         "question": "HTC e9 của mình ko vào được cài đặt. Nó tự thoát và hiện settíngs dừng không như mong muốn phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.159797,
+         "id": "1020135",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony XA của mình bây giờ vào came cứ bị đẩy ra. Báo là camera đã dừng là sao vậy. Mình đã vào cài đặt ứng dụng và xoá dữ liệu khởi động lại vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.100585,
+         "id": "1022785",
+         "field_search": "question",
+         "question": "TGDĐ có máy Galaxy Note8 trưng bày ở chi nhánh nào TPHCM chưa? Tôi đã đặt trước và muốn dc test tận tay. trong phần đặt trước có ghi siêu thị trải nghiệm, nhưng ko rõ là có trưng bày hay chưa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.971377,
+         "id": "1016515",
+         "field_search": "question",
+         "question": "Máy em nó cứ báo là dịch vụ google play đã dừng mà em đã làm đủ các cách mà k đc thì phải làm sao ạa huhu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.856703,
+         "id": "1016618",
+         "field_search": "question",
+         "question": "Mình đăng nhập lại tài khoản google của mình nhưng khi nhập mã thì không được dù mình đã viết đúng mã rồi, mình đã nhập rất nhiều lần nhưng vẫn không được. Vậy bây giờ làm sao để đăng nhập được đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.623295,
+         "id": "1141148",
+         "field_search": "question",
+         "question": "Máy Lenovo vào ứng dụng cửa hang may bao gloole play đã dừng lại làm sao mới khác phục đc z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.602621,
+         "id": "1155663",
+         "field_search": "question",
+         "question": "Cho hỏi mình mới mua Galaxy M20 đượckhoảng 1 tháng, lúc đầu sạc rất nhanh, nhưng bây giờ thì sạc chậm ( 1/2 giờ mà chỉ được 6% Pin thôi) dù đã tiết kiệm Pim tối đa khi sạt. Mong Mod hướng dẫn khắc phục ! Thanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.553379,
+         "id": "883222",
+         "field_search": "question",
+         "question": " Iphone 5 thường của mình khởi động lại rồi bị chớp màng hình bây giờ phải làm sao đây ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.489242,
+         "id": "1160633",
+         "field_search": "question",
+         "question": "dạ anh/ chị cho em hỏi thăm 1 chút ạ ?  cuối tháng 2.em có mua htc u12lite. tới 25/3 do bị lỗi tự động tắt nguồn và lỗi mã khóa . em đã được đổi máy mới.   mà hôm nay 14/4 máy htc lại bị lỗi như cũ. bây giờ em có thể đổi sang nokia 8.1 mà k bị tốn phí k ạ. em trả góp bên hc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.447703,
+         "id": "1015791",
+         "field_search": "question",
+         "question": "Tại sao Lenovo K5 Plus không thể khôi phục cài đặt gốc được.Cụ thể: Khi nhấn vào \"Đặt lại về dữ liệu gốc\" thì máy báo \"Rất tiếc, cài đặt đã dừng lại\". Mạc dù đã khởi động lại vẫn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.442675,
+         "id": "1165207",
+         "field_search": "question",
+         "question": "Điện thoại xiaomi noto 6 pro của tôi hiện tại hiển thị thông tin (dịch vụ google play đã dừng) làm sao để khắc phục lỗi này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.401984,
+         "id": "928678",
+         "field_search": "question",
+         "question": " Tui có laptop asus tui quên matkhau bây giờ phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.369536,
+         "id": "828468",
+         "field_search": "question",
+         "question": " Ad ơi em xài HTC sao bây giờ vào Facebook với Mesager ko đc vậy Ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.324291,
+         "id": "918251",
+         "field_search": "question",
+         "question": " Em khôi phục lại cài đặt gốc nhưng quên không nhớ tài khoản icloud nữa. Bây giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.268165,
+         "id": "1150663",
+         "field_search": "question",
+         "question": "Tôi vừa mới khôi phục lại cài đặt gốc cho điện thoại htc desire 628, nhưng khi vào cài đặt / Hiển thị và giao tiếp bằng cử chỉ lại xuất hiện Settings đã dừng không như mong muốn. Bạn có muốn gửi báo cáo lỗi cho HTC. Điều này sẽ giúp chúng tôi cải thiện chất lượng sản phẩm.GỬI BÁO CÁO     KHÔNG GỬI",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.251684,
+         "id": "1151793",
+         "field_search": "question",
+         "question": "Mình dùng đt sony xa ultra tự nhiên cứ hiện lên dòng thông báo \" rất tiếc google play services for instant apps đã dừng lại\" là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.247892,
+         "id": "763998",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s khi mình đã cắm sạc và nó đã báo kí hiệu đang sạc nhưng không lên được % pin nào tắt nguồn bật lại vẫn vậy. Cho mình hỏi bây giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.185217,
+         "id": "1143595",
+         "field_search": "question",
+         "question": "Mình dùng Samsung Galaxy J5 2015 máy cứ thông báo \"tiến trình com.google.process.gapps đã dừng\" phải làm sao để khắc phục ạ? Tks ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.161369,
+         "id": "1003383",
+         "field_search": "question",
+         "question": "điện thoại HTC desire 816g Duel Sim khi nghe và gọi, màn hình điện thoại áp vào tai nhưng vẫn sáng. như vậy cho mình bây giờ phải làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.155792,
+         "id": "1148529",
+         "field_search": "question",
+         "question": "Ad cho hỏi: e đang dùng iphone 6plus, e đã nâng cấp lên ios 12 nhưng máy chạy quá chậm, bây giờ e muốn cài đặt lại ios 10.3.3 thì phải làm sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.129616,
+         "id": "1137939",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi máy mình là vivo y55 bây đang bị lỗi thật đáng tiếc màn hình chờ đã dừng lại mình thử tắt nguồn r ko đc nên khắc phục như nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.084305,
+         "id": "1162111",
+         "field_search": "question",
+         "question": "Mình dùng ip 6s plus. Nút home bây giờ nó không nhận cảm ứng vân tay nữa thì làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.012458,
+         "id": "766275",
+         "field_search": "question",
+         "question": "Em ấn nút home ảo trên iphone 4 nhìu lần rồi nó bị  ô, đóng khung tùm lum rất khó bấm. Em bấm lại nhiều lần nhưng nó vẫn bị khung. Vậy thì phải làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.9921255,
+         "id": "997710",
+         "field_search": "question",
+         "question": "Máy mình bị báo lỗi \" không may là quy trình bộ nhớ phương tiện đã dừng lại \". Cửa hàng với ứng dụng chụp ảnh, video đều không vào đc. Mình khôi phục cài đặt gốc máy vẫn báo lỗi. Phải làm ntn để máy hoạt động bt đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.989836,
+         "id": "769141",
+         "field_search": "question",
+         "question": " Cách khắc phục lỗi danh bạ đã dừng trên Galaxy S5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.9787245,
+         "id": "992707",
+         "field_search": "question",
+         "question": "Ipad của em không có tính hiệu thẻ sim bây giờ phải làm sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.913953,
+         "id": "999216",
+         "field_search": "question",
+         "question": "mình vừa khoi phục cài đặt gốc thì bây giờ máy nó cứ hiện ra com.google.process.gapps đã dừng lai nó cứ hiện ra liên tục khắc phục ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.8762045,
+         "id": "1148130",
+         "field_search": "question",
+         "question": "Chào các bạn. Máy mình oppo neo 5 đang chơi thì hàng loại câu androi. Process.acroce đã dừng. Mình giải quyết bằng cách khôi phục cài đặt gốc và sau đó mất hết các ứng dụng liên quan đến google.minhf mới lên trình duyệt cài lại ch play và dịch vụ google play nhưng cài xong cũng đăng nhập nhưng lỗi khác xuất hiện. Y lỗi trên và cả lỗi com.google.android.gapps đã dừng và bây giờ cũng không vào được ch play không tải gì được cả. Ai đó giúp mình với...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.837,
+         "id": "1009811",
+         "field_search": "question",
+         "question": "Tại sao facebook tải về rồi mà vào thì cứ nói là \"rất tiếc, facebook đã dừng lại\" mà chuyển từ thé SD sang bộ nhớ trong thì ko dc vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.788472,
+         "id": "1165683",
+         "field_search": "question",
+         "question": "Em dùng Asus Max ProM2. Hôm nay em mở khoá màn hình không được, nó không báo bị lỗi gì. Xong vào để tắt mở khoá thì nó báo 'Cài Đặt Đã Dừng'. Help, em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.775912,
+         "id": "1144094",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao máy Nokia 2 của mình bây giờ cứ bị hiện nhiệt độ vượt quá giới hạn bây giờ phải làm sao cho hết ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.770792,
+         "id": "872565",
+         "field_search": "question",
+         "question": " Cho mình hỏi là tại sao khi tải messenger về thì nhấn vào để chữ rất tiet messenger đã tạm dừng là sao chỉ mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.76087,
+         "id": "915430",
+         "field_search": "question",
+         "question": "em lập tài khoản gmail 1 tháng trước làm id apple song rùi nhưng bây giờ mới xác nhận ko dk ad à . nó hiện lên Không Thể Xác Minh Địa Chỉ Chúng tôi rất tiếc là đã không thể xác minh liên kết bạn đang sử dụng để truy cập trang này. --> bây h em phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.690068,
+         "id": "1141336",
+         "field_search": "question",
+         "question": "Chào ad, e đang xài Oppo neo 3 , dạo này app thời tiết của e cứ bị hiện sai ngày, bây giờ phải chỉnh như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.673166,
+         "id": "1155320",
+         "field_search": "question",
+         "question": "Tgdd cho hỏi là giữa hai sản phẩm huawei y9 2019 với samsung galaxy m20 thì nên mua máy nào để có trải nghiệm chơi game tốt nhất ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.657748,
+         "id": "994522",
+         "field_search": "question",
+         "question": "Cho em hỏi. E đaq xài iphone 5s. Hiện tại facebook máy em đang bị lỗi ( viết status không có phông nền màu). Bây giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.591716,
+         "id": "850131",
+         "field_search": "question",
+         "question": " Zalo của mình bị khóa tài khoản bây giờ mình đăng nhập lại được nhưng không nhận được tin nhắn thì phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.581581,
+         "id": "1147272",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi tại sao e gửi tin nhan mà hệ thông báo là Rất tiếc quá trình com.androi.phone đã dừng là sao Sonny C4 Dual",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.577443,
+         "id": "1010394",
+         "field_search": "question",
+         "question": "- Đt của mình là Mobell Nova P2 và dung lượng pin là 4000 mAh, mà bây giờ pin ko còn trâu như khi mới mua và hao pin rất nhanh đôi khi vừa sạc xog xài đc vài phút đã thông báo là pin còn 15%...?! Pin rất thất thường có khi pin đang yếu pin vừa mới cắm sạc thì pin đã gần đầy.??!- Khi mình tải ứng dụng Battery Docter về đt rồi vô chỗ chi tiết pin thì lại hiện là pin có 1000 mAh.???- Bh mình phải làm sao...?! Và thay pin cho đt của mình thì tốn bao nhiêu tiền.??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.571363,
+         "id": "1148238",
+         "field_search": "question",
+         "question": "Tôi cứ ấn vào úng dụng cuộc gọi là bị dừng lại nó báo điện thoại đã dừng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.545115,
+         "id": "1158834",
+         "field_search": "question",
+         "question": "em đang có cái laptop mà nó rất lag nên cho e hỏi. Bây h em mún nâng cấp ram và ssd. Bây h e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.52898,
+         "id": "799188",
+         "field_search": "question",
+         "question": " iphone 4 thường  bị lỗi mạng 3g giờ phải làm sao hả ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.488174,
+         "id": "1150678",
+         "field_search": "question",
+         "question": "em dùng asus 5 , em tải b612 về mà cứ bị thông báo là \" rất tiếc , b612 đã dừng lại \" em xoá hết dữ liệu trên điện thoạii rồi cài lại mà vẫn kh được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.45983,
+         "id": "1017627",
+         "field_search": "question",
+         "question": "Em dùng htc m8...khi sử dụng nút nguồn không dùng được và bị loạn âm lượng..muốn reset lại máy lại bị dừng cài đặt..cho hỏi bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.432566,
+         "id": "802783",
+         "field_search": "question",
+         "question": " laptop của e chạy win 10 nhưng vhaof cửa hành của máy ko đk, nó báo lỗi 0x80072EFD bây giờ e phải làm ntn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.431591,
+         "id": "1134652",
+         "field_search": "question",
+         "question": "Máy sony z5 của mình mới mới update lên 7.0 thì không tải được Facebook,  đã xoá dữ liệu bộ nhớ cache của ch play, với dịch vụ play rồi tắt nguồn bật lại vẫn không được.  Bây giờ phải làm sao. Các app khác vẫn tải bình thường, mã lỗi là -505",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.407385,
+         "id": "1142413",
+         "field_search": "question",
+         "question": "Tại sao khi cài ứng dụng xong rồi thì nó nói là CH play đã dừng  lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.383712,
+         "id": "1013266",
+         "field_search": "question",
+         "question": "Cho e hỏi là tai nghe của nokia 3 bị lỗi nghe 1 bên to 1 bên nhỏ mà máy e mua mới vậy bây giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.349616,
+         "id": "754954",
+         "field_search": "question",
+         "question": "Em hỏi ad tí máy của em jailbreak em bị lỗi. đã xóa jailbreak để khôi phục lại. bây giờ muốn jailbreak lại có đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.331302,
+         "id": "1001507",
+         "field_search": "question",
+         "question": "vega a870 của mình bật nguồn lên máy báo rất tiếc giao diện đã dừng và  com.android.systemui và sau đó ko thể dùng máy. tháo pin ra lắp lại thì đt lại chạy bt là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.301587,
+         "id": "1161627",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro, tại sao trước kia tôi tắt hết đa nghiệm bật chế độ máy bay để qua đêm thì không bị tụt pin. Còn bây giờ t cũng làm vạy nhưng sao bị tụt pin vậy. Chỉ tôi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.242623,
+         "id": "894923",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao trước đây e cài zalo tìm khoách cách được rất xa trên 50km mà bây giờ chỉ tìm được 20km đổ lại. e phải cài tn để tìm được xa hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.242376,
+         "id": "872323",
+         "field_search": "question",
+         "question": " Cách khắc phục lỗi đã dừng bộ sưu tập ở samsung galaxy J1 mini ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.215505,
+         "id": "1148475",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu Facebook phải làm sao để vào lại được.em có bấm quên mật khẩu nó gữi mã số qua email em đã bỏ lâu giờ phải làm sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.1936245,
+         "id": "1159756",
+         "field_search": "question",
+         "question": "Hiện e đg dùng galxy tab e 9.6 nhưng e ko thể mở khóa màn hình vì bàn phím đã tự động dừng. E phải làm sao đây ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.18244,
+         "id": "756971",
+         "field_search": "question",
+         "question": " iPhone 5s năm 2015 bây giờ bao nhiêu tiền ạ , cho mình cái gì chi tiết từng loại ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.1818905,
+         "id": "1153593",
+         "field_search": "question",
+         "question": "Điện thoại Sony m5 hay báo rất tiết giao dien người dùng hệ thống ngưng hoạt vậy làm sao để k còn nửa xin cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.180794,
+         "id": "750860",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 5 em nhập sai mật khẩu giới hạn 3 lần rồi, giờ phải làm sao ak, xin admin chỉ dùm chi tiết rõ ràng ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.149879,
+         "id": "808415",
+         "field_search": "question",
+         "question": " Bây giờ đã cập nhật iOS9.3 chưa? Không biết bản mới có khắc phục lỗi chưa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.142897,
+         "id": "1001016",
+         "field_search": "question",
+         "question": "Samsung galaxy j7 prime bị hở phần viền với màn hình, cụ thể, cạnh trái chổ khít chổ hở, dt tôi mua còn trong thời gian bảo hành, đã gởi trung tâm bảo hành rồi vẫn còn tình trạng hở, bi giờ lại hở bên phải, bây giờ tôi phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.141259,
+         "id": "804229",
+         "field_search": "question",
+         "question": "Laptop của em là TP500LA, vì có 1 vài lỗi khi SD Office nên em đã khôi phục cài đặt gốc lại cho Win 10 ... giờ gập ngược lap lại thì lại không xoay theo hướng như ý muốn.. Em phải làm sao đây :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.1251545,
+         "id": "1152775",
+         "field_search": "question",
+         "question": "Mình dùng máy HTC e9 được 2 năm, bây giờ máy tự nhiên bị treo logo không thể tắt nguồn. mình nên làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.091547,
+         "id": "1165393",
+         "field_search": "question",
+         "question": "Em mới mua samsung galaxy j6+ được ba tháng, em đã trải nhiệm máy và cảm thấy nó chơi game giật, lácXin hỏi bây giờ có thể đổi máy khác bằng cách bán nó cho công ty được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.051228,
+         "id": "1014415",
+         "field_search": "question",
+         "question": "Mn chomình hỏi là tại sao tài khoản google play của mình bị reset mất phải làm sao bây giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.030937,
+         "id": "1168161",
+         "field_search": "question",
+         "question": "điẹn thoại mình không dừng được bài hát trên thanh thông báo phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.903974,
+         "id": "828749",
+         "field_search": "question",
+         "question": "Chào ad ad, Mình cài đặt lại iphone, đã hơn 24 tiếng đồng hồ mà đăng nhập ID và Ap store thì nó chạy lâu và kết quả nó báo : Không thể xác minh, lỗi kết nối với máy chủ ID Apple, giờ phải làm sao vậy ad. Mình cũng xem lại múi giờ, và còn tắt máy khởi động rất nhiều lần. Ad có thể hướng dẫn giúp mình được không. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1160212",
+   "total": 32605,
+   "total_current": 100,
+   "max_score": 62.81112,
+   "origin_question": "Dạ cho em hỏi sáng nay ngày 1242019 sao máy Realme C1 không khởi động máy đc ạ",
+   "hits": [
+      {
+         "score": 25.006367,
+         "id": "1146113",
+         "field_search": "question",
+         "question": " Đổi realme c1 lấy realme 2 bao nhiêu ạ em mua đc 6 ngày ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.095781,
+         "id": "1160750",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao cái realme C1 của em để qua đêm sáng mai không lên nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.253103,
+         "id": "1167787",
+         "field_search": "question",
+         "question": "Em muốn khởi động lại máy realme 3 thì làm sao ạ.........",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.785875,
+         "id": "1159352",
+         "field_search": "question",
+         "question": "Cho em hỏi máy realme c1 tắt nguồn không sử dụng trong khoảng 2 tháng có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.249666,
+         "id": "790326",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sao laptop của em cái bóng đèn ngay góc laptop sáng hoài mà khởi động máy không lên? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.657974,
+         "id": "1148532",
+         "field_search": "question",
+         "question": "Mik muốn mua realme c1 tại TGDĐ tại Vinh . Và vào mùng 82. Đến ngày đó máy có đc giảm xuống 2241k nx ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.433681,
+         "id": "1000181",
+         "field_search": "question",
+         "question": "Xin cho em hỏi 1 chút ạ. E đang dùng j7 prime nhưng mấy hôm nay cứ sáng dậy là bị mất sóng. Ngày nào e cũng phải khởi động lại. Liệu có bị làm sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.1888,
+         "id": "1157893",
+         "field_search": "question",
+         "question": "Cho e hỏi là mays realme c1 dùng đuợc 1 ngày thì nó bị  tắt nguồn bật không lên. Giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.1843,
+         "id": "1157977",
+         "field_search": "question",
+         "question": "Em mới mua máy Realme c1. 2 hôm nay dùng còn khoảng 20% thì em sạc máy. Lúc sau kiểm tra thì máy tự tắt nguồn là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.775824,
+         "id": "1145899",
+         "field_search": "question",
+         "question": "Cho em hỏi giữa Sony xperia L2 và Realme C1 thì máy nào ngon hơn về hiệu năng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.723736,
+         "id": "1168230",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi realme c1 có chống nước được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.702887,
+         "id": "1011274",
+         "field_search": "question",
+         "question": "Em sài đt mobiistar lai yuna mỗi lần khởi động lại là nghe chuông ...Cách tắt chuông khi khởi động lại máy làm sao dạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.664667,
+         "id": "1157781",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi. Realme C1 có tắt được tai thỏ không ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.636915,
+         "id": "1157675",
+         "field_search": "question",
+         "question": "Em mua con điện thoại realme c1 dc 2 tháng... tối hôm qua đang Sài rất bth, em sử dụng còn 60% thì đem đi sạc nhưng sáng sớm z tự dưng dt đã cúp nguồn và e ko thể khởi động lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.63156,
+         "id": "1161769",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi em mua điện thoại realme c1 trả góp của ngân hàng fc , tháng này là tháng đầu tiên mà do công việc nên góp chậm 6 ngày, mà trong 6 ngày này có ngày chủ nhật ngân hàng không làm việc , vậy em có được tính là trễ hẹn 5 ngày không, có nộp phạt không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.51657,
+         "id": "1134092",
+         "field_search": "question",
+         "question": "cho em hỏi realme c1 có bán trên cửa hàng thế giới di động ko ạ... hay chỉ mua online thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.503166,
+         "id": "1164888",
+         "field_search": "question",
+         "question": "Realme c1 không tắt nguồn đuoc phải làm sao ak máy đang bị đo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.434109,
+         "id": "997512",
+         "field_search": "question",
+         "question": "cho em hỏi máy samsung j5 pr của em đang chụp ảnh thì màn hình đơ và nó cứ sáng mãi như vậy, không khởi động lại đc như vậy là làm sao và cách sửa như thế nào ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.392721,
+         "id": "1158490",
+         "field_search": "question",
+         "question": "Sao realme c1 có hiện tượng là để sạc từ tối khi tới sáng lại mở nguồn không lên vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.209463,
+         "id": "1151982",
+         "field_search": "question",
+         "question": "realme c1 của e sao e gắn tai phone vào không nghe đc âm thanh ở tai phone ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.111841,
+         "id": "1162651",
+         "field_search": "question",
+         "question": "1.cho em hỏi tại sao ip6 đột ngột khởi động đi khởi động lại,có lúc lên nguồn đc 10p thì lại tắt khởi động liên tục2.em mới reset máy nhưng lại trót ấn nhầm vào bản cập nhật ngày 15/4 trong khi đó em cần ấn vào cập nhật 17/4,không biết có cách nào khôi phục phần dữ liệu trong icloud ngày 17/4 k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.088995,
+         "id": "1157880",
+         "field_search": "question",
+         "question": "e đag dùng rea, mà qua dùng bthg lme c1 đk hs 3 tháng mà qua dùng vẫn bthg tối đi ngủ e sạc pin đến sáng nay dạy ko thể nào khởi động nguồn lên được là sao thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.906057,
+         "id": "1016152",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy j5 prime của em dùng đc hơn 4 tháng hôm nay tự nhiên nó đơ màn hình tầm 5 phút rồi sau đó tự khởi động lại máy là sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.799139,
+         "id": "1166631",
+         "field_search": "question",
+         "question": "Bây h em quên mật khẩu máy realme c1 thì lấy lại bằng cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.701443,
+         "id": "1140818",
+         "field_search": "question",
+         "question": "Ad cho hỏi realme c1 chuyển ứng dụng vào thẻ nhớ sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.46738,
+         "id": "1022451",
+         "field_search": "question",
+         "question": "Chào anh chị , laptop của em giờ đèn khởi động thì nhấp nháy mà máy vẫn không hoạt động , màn hình không sáng và sạc pin cũng không vào đc ạ , tối qua em có cật nhật máy và úp máy lại và h như v ạ , nhờ a chị giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.43571,
+         "id": "1164566",
+         "field_search": "question",
+         "question": "cho em hỏi là con đt realme c1 màu đen cũ còn ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.377123,
+         "id": "1141054",
+         "field_search": "question",
+         "question": "Cách khởi động lại máy realme 2 pro để giải phóng ram",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.35048,
+         "id": "1133565",
+         "field_search": "question",
+         "question": "Nếu muốn mua máy realme c1 thì phải đặt cọc như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.279646,
+         "id": "1157767",
+         "field_search": "question",
+         "question": "Cho em hỏi đt Realme C1 tối e dùng bình thường đt hết pin sạc qua đêm sáng mở không lên. Em có lấy đt khác gọi qua vẫn nghe đổ chuông nhưng đt em vẫn không hiển thị là bị sao vậy ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.277006,
+         "id": "1156126",
+         "field_search": "question",
+         "question": "mik muốn mua máy realme c1 cũ giá rẻ và mik muốn ship về Khe Sanh, Quảng Trị có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.014334,
+         "id": "1135748",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại Realme C1 mới 2 ngày, nhân viên TGDĐ xác định máy bị lỗi yêu cầu tôi đổi máy mới, nhưng tôi muốn trả máy có được không? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.974276,
+         "id": "1149498",
+         "field_search": "question",
+         "question": "cho em hỏi có máy c1 màu xanh không ạ?khi nào có máy c1 bản 2019 vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.95285,
+         "id": "1137478",
+         "field_search": "question",
+         "question": "cho mik hỏi realme c1 chỉ bán online hay sao nếu mik lại thế giới di động thì có mua dc kh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.92961,
+         "id": "1156493",
+         "field_search": "question",
+         "question": "Máy realme C1 mình mới mua bị lỗi phần cảm ứng thì có đổi trả được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.890858,
+         "id": "996274",
+         "field_search": "question",
+         "question": "Cho e hỏi! Vì sao máy e không gưi tin nhắn sms đc dạ? Em xài iphone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.732151,
+         "id": "1153638",
+         "field_search": "question",
+         "question": "cho e hỏi realme c1 có dùng đc tai nghe iphone ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.690063,
+         "id": "841569",
+         "field_search": "question",
+         "question": "đèn bàn phím con asus gl552 của em khi khởi động thì sáng đc 2s nhưng sau đó thì không sáng nữa, mn chỉ e cách khằc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.679865,
+         "id": "1162205",
+         "field_search": "question",
+         "question": "Cho mình hỏi realme C1 có thông báo đèn flash không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.613047,
+         "id": "1150323",
+         "field_search": "question",
+         "question": "Mấy anh cho em hỏi là hiện tại em mua con máy realme c1  mà em không biết nó ko thể chuyển ứng dụng sang thẻ nhớVậy em có thể hoàn trả mấy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.593307,
+         "id": "1160052",
+         "field_search": "question",
+         "question": "Các ứng dụng cài sẵn trên điện thoại Realme C1 như: Kwai, UC Browser, Thời tiết, Báo mới, VN Ngày nay gỡ bỏ được không ạ?. Tôi muốn cài thêm CCleaner có được không?. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.556475,
+         "id": "1158269",
+         "field_search": "question",
+         "question": "Mình mới mua 1 máy mobell s60 vào ngày 173 vừa rồi bây h mình muốn đổi sang realme c1 thì cần phải bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55557,
+         "id": "1140058",
+         "field_search": "question",
+         "question": " realme C1 có bán tại cửa hàng không ạ................. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.549524,
+         "id": "1136985",
+         "field_search": "question",
+         "question": "Realme C1 có đến tại thế giới di động ở sóc trăng mua được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.53343,
+         "id": "1166118",
+         "field_search": "question",
+         "question": "Cho e hỏi e muốn tải hình nền cho realme C1 mà ko biết kích thước bao nhiêu vậy ạ? Cho e kích thước ảnh nền của Realme C1 với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.447186,
+         "id": "1157858",
+         "field_search": "question",
+         "question": "Máy realme c1 của mình còn 34 pin mình cắm sạc và máy không lên nguồn nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.388077,
+         "id": "776820",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em mới mua iphone 6 64GB được 1 tuần 2 ngày đầu xài máy chạy mượt nhưng mấy ngày sau hiệu ứng thị sai trên màn hình bị giật và mất. Em có tắt máy khởi động lại thì ok nhưng hnay lại bị tiếp. Cho em hỏi máy có bị sao không ạ? Có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.348373,
+         "id": "1143203",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện em đang dùng realme c1 nhưng khi em tắt điện thoại cứ 1 tiếng hơn là tụt 1 vì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.33918,
+         "id": "1138424",
+         "field_search": "question",
+         "question": " Anh  chị cho em hỏi là con realme c1 của em đặt cọc sắp có chưa ạ, sđt xxxx947343 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.327654,
+         "id": "1141563",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi ạ.Em là học sinh cuối cấp nên máy tính như cánh tay phải của em. Tối qua e vẫn dùng máy học được nhưng tối nay e bật lên thì màn hình nó không lên trong khi nút nguồn sáng. Quạt gió thì chạy đc 4s xong ngừng. Vậy lí do tại sao ạ?  Có cách nào khắc phục không ạ? Lap em đang dùng là Acer",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.31629,
+         "id": "1145416",
+         "field_search": "question",
+         "question": "Em mới mua đt realme c1 đc 1 tháng thì hai hôm nay khi có cuộc gọi đến máy em ko đổ chuông hay là rung mà trong khi đó em để chế độ bình thường xin các bác giúp em cách khắc phục với....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.264574,
+         "id": "1153316",
+         "field_search": "question",
+         "question": "cho em hỏi máy em huawei nova 3i  nóng lên là bị khởi động lại có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.203327,
+         "id": "1167956",
+         "field_search": "question",
+         "question": "Cho e hỏi e mua con realmi 2 đc 6 ngày e đổi realme 3 đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.096151,
+         "id": "913672",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua máy hôm nay, mình thấy màn hình bị mờ chữ, chóa ánh sáng (không phải do bật độ sáng lớn) là do máy hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.088526,
+         "id": "736549",
+         "field_search": "question",
+         "question": " em có con oppo r1001 bị treo logo khởi động admin cho em hỏi làm cách nào để khởi động được máy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.058872,
+         "id": "1151978",
+         "field_search": "question",
+         "question": "cho em hỏi, laptop của em thường xuyên tự động update, mấy ngày nay nó cứ update mãi, mở máy lên là nó update. cho em hỏi có cách nào khắc phục không ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.021132,
+         "id": "1150006",
+         "field_search": "question",
+         "question": "Chào TGDD, cho em hỏi mẫu điện thoại Realme C1 đã có hàng ở Bình Định chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.012365,
+         "id": "1161605",
+         "field_search": "question",
+         "question": "TGDĐ CHO mình hỏi. Realme C1 có thể tối ưu tai thỏ khi chơi game được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.992973,
+         "id": "994442",
+         "field_search": "question",
+         "question": "Cho em hỏi máy A37 lúc mấy ngày đầu em mới mua còn đỡ mấy hôm nay em thấy bắt mạng kém lắm em muốn đổi mới đc ko...em mua đc 10 ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.969479,
+         "id": "1001926",
+         "field_search": "question",
+         "question": "ad ơi em dùng Samsung Mini  GT S5360 . Máy em rút sạc ra rồi mà nó vẫn tự sạc. Sau đó em lên mạng tìm cách khắc phục ấn vào RIÊNG TƯ->ĐẶT LẠI DỮ LIỆU CỦA NHÀ SX-> kHỞI ĐỘNG LẠI ĐIỆN THOẠI. Nhưng mà sau đó khởi động lại nó không tải đc các ứng dụng facebook, mess,... nữa và máy vẫn tự sạc. Sau đó sdung wifi đc vài ngày hôm nay nó lại k kết nối đc. Ad có thể chỉ em cách phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.943493,
+         "id": "1165524",
+         "field_search": "question",
+         "question": "Chào shop, cho mình hỏi con RealMe C1 ở Sông Hinh Phú Yên còn hàng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.915903,
+         "id": "1157598",
+         "field_search": "question",
+         "question": "e đang dùng realme c1 mà hôm nay tự dưng máy nó bị gì á mà ko lên nguồn,bật mãi ko lên ạ,cái đấy có phải do pin ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.90473,
+         "id": "1150942",
+         "field_search": "question",
+         "question": "Cho hỏi có còn điện thoại realme c1 không ạ mà có thì khoảng bao nhiêu tiền vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.893276,
+         "id": "1160431",
+         "field_search": "question",
+         "question": "tôi mới chỉ mua máy đc 2 tuần và  sau khi tôi sạc máy điện thoại realme C1 xong thì từ khi đó nó không bật được màn hình lên nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.886423,
+         "id": "1165581",
+         "field_search": "question",
+         "question": "Chiếc điện thoại realme c1 có chống nước không ạ Aaaaaaaaaaaa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.8847,
+         "id": "831674",
+         "field_search": "question",
+         "question": " Anh,chị cho em hỏi tại sao ipad1 của em nó tự khởi động lại máy thường xuyen vậy ạ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.87222,
+         "id": "1138684",
+         "field_search": "question",
+         "question": "Nếu em muốn đặt mua chiếc điện thoại Realme c1 thì phải làm sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.839197,
+         "id": "999080",
+         "field_search": "question",
+         "question": "cho e hỏi oppo A37 em mới mua thường hay tự động tắt nguồn rồi khởi động là là do máy hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.809994,
+         "id": "1162087",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi! Ip 5s hay Realme C1 chơi Pubg  Mobile mượt hơn, cấu hình máy nào tốt hơn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.795862,
+         "id": "1150242",
+         "field_search": "question",
+         "question": "máy em cứ dùng đc 1 lúc là đơ với lại có sọc xanh15s khởi động lại cũng ko đc thì phải làm sao ạ ip5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.769241,
+         "id": "767176",
+         "field_search": "question",
+         "question": " cho em hỏi bật nguồn laptop nhưng màn hình không sáng mà máy vẫn hoạt động là sao ạ? làm sao để bật màn hình lên ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.744677,
+         "id": "1144598",
+         "field_search": "question",
+         "question": "Hiện em mới mua điện thoại samsung A7 em sài sim mạng viettel em đăng kí gói vô mạng 4G minmax 90  nhưng khi em bắt dữ liệu mạng lên trên máy hiện chữ (E) nhưng khi em tắt nguồn điện thoại khởi động lại thì mới được (4G) ngày nào mạng em cũng bị z hết cho em hỏi điện thoại có bị lỗi gì ko ( sáng nào mở mạng lên cũng bị y chang dậy hết em phải khởi động máy lại có khi ngày khởi dộng 2,3 lần)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.736359,
+         "id": "1143773",
+         "field_search": "question",
+         "question": "Con j7 prime của em mấy ngày nay vẫn sạc bình thường nhưng sáng nay em cắm sạc thì pin nó không vào và khi tắt nguồn cắm sạc thì nó lại tự động lên nguồn, cho em hỏi nó bị gì vậy ạ ? Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.709105,
+         "id": "1021033",
+         "field_search": "question",
+         "question": "Em mới mua đt Samsung galaxy A5 màu blue dùng rất mượt đến hôm nay em thấy nó hơi đơ lag nên e đã khởi động lại nhưng máy ko khởi động lại nữa. Em ko biết máy bị làm sao và e cần cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.706799,
+         "id": "751920",
+         "field_search": "question",
+         "question": "Lỗi máy ASUS không thể khởi động: Tình hình máy ASUS X555LD của em giờ bật nút nguồn khởi động thì chỉ hiện cái logo của hãng rồi màn hình ko hiện gì lên nữa( chỉ sáng sáng) nguồn và quạt vẫn chạy. Xin các anh/chị các bạn chỉ cách khắc phục lỗi này. em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.593,
+         "id": "1150453",
+         "field_search": "question",
+         "question": "Cho mình hỏi chiếc Realme C1 có khả năng chuyển ứng dụng từ máy sang thẻ nhớ được không ạ. Nếu không được thì có cách nào để chuyển sang thẻ nhớ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.52799,
+         "id": "1013377",
+         "field_search": "question",
+         "question": "em dùng htc m7 và khi ấn nút nguồn để tắt máy thì nó luôn tự động tắt nguồn sau đó chập chờn liên tục cho đến khi khởi động lại, nó cứ nháy sáng lên xong tự tắt tiếp ấy. Máy em bị sao thế ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.47583,
+         "id": "1156206",
+         "field_search": "question",
+         "question": "Cho em hoi realme  c1 còn Hàng o tay ninh ko ạ  Em o thanh pho tay ninh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.434168,
+         "id": "1152771",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 6, pin vẫn còn đầy nhưng máy tự khởi động lại và sạc không vào, mở lên dùng được khoảng 1p thì lại tiếp tục tự khởi động lại máy. Cho em hỏi là như thế là điện thoại em bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.429338,
+         "id": "1148495",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua con realme c1 ở thegioididong hồi 24/1/2019 nhưng bây h màn hình bị sọc thì có đổi mới đc ko hay là chỉ bảo hành th ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.3854,
+         "id": "828914",
+         "field_search": "question",
+         "question": " Tại sao sáng nay em vẫn vô fb đc nhưng mà tới chiều thì vô không dc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.314728,
+         "id": "1168045",
+         "field_search": "question",
+         "question": "Có ốp lưng Realme C1 không ạ..tìm quài mà không thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.305132,
+         "id": "1144255",
+         "field_search": "question",
+         "question": "cho em hỏi e dùng nokia3 TA-1032 . Sao cắm sạc lại dùng bình thường nhưng khi rút sạc ra máy cứ khởi động đi khởi động lại ạ . Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.242233,
+         "id": "1134648",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách sạc Pin tốt nhất cho điện thoại Realme C1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.226608,
+         "id": "1024949",
+         "field_search": "question",
+         "question": "Dạ cho hỏi máy em hỏg mag đi bảo hành.đến hôm nay đã được 4hôm rồi thì đã được lấy máy chưa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.22422,
+         "id": "1143854",
+         "field_search": "question",
+         "question": "Ad ơi, mih mới mua máy realme 2 nhưng sạc chỉ đc 99, không lên đc 100 là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.22227,
+         "id": "1156177",
+         "field_search": "question",
+         "question": "Dạ e đag dùng đt Vsmart joy 1+ như sáng này e tắt máu khởi động lại yêu câu nhập mật khẩu Android như e kg nhớ e có cài mật khẩu kg .giờ lm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.19093,
+         "id": "938159",
+         "field_search": "question",
+         "question": " cho em hỏi sao cứ mỗi lần shut down sau đó khởi động lại máy là bị restarts ạ. e dùng laptop dell ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.18639,
+         "id": "1161913",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi máy em là oppo A71 2018 sao giờ máy em vào khong được youtube ạ ? Mặc dù đã khởi động lại nhiều lần nhưng vẫn không dô đượcc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.17481,
+         "id": "1157835",
+         "field_search": "question",
+         "question": "Realme c1 sao không chuyển dc ứng dụng qua thẻ sd vậyVà làm sao để chuyển",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.11057,
+         "id": "1168282",
+         "field_search": "question",
+         "question": "Cho mình hỏi.đt realme c1 của mình quay phim trước thì bt mà giờ bị gì quay xong nó đơ camera vẫn sáng mà ko lưu được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.110031,
+         "id": "997770",
+         "field_search": "question",
+         "question": "em mới mua 1 chiếc nova s2 tại thế giới di động đc 3 ngày nay !! giờ máy k sạc đc !! e mang ra đó có mất thêm tiền hay k ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.071074,
+         "id": "1152036",
+         "field_search": "question",
+         "question": "Sao tôi mua Realme c1 về thì giao diện của nó lại không giống với trên thegioididong.com vậy, còn máy của bạn tôi thì bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.040453,
+         "id": "1163605",
+         "field_search": "question",
+         "question": "Mình có con Realme C1 mua ngày 21122018 giá 2.490.000đ giờ mình muốn đổi sang redmi 7 thì phải bù bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.036592,
+         "id": "1153951",
+         "field_search": "question",
+         "question": "- mình có mua laptop hp chạy win 10, mình muốn cài tiếng việt cho toàn bộ máy đc không. - máy mình mới mua sao bật máy khởi động rất chậm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.02731,
+         "id": "1148442",
+         "field_search": "question",
+         "question": "Cho em hỏi máy hp của em bị sao ạ. Khi khởi động nó lên như vậy và ấn bất kì cái gì cũng dẫn đến tắt máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.006912,
+         "id": "1136175",
+         "field_search": "question",
+         "question": "shop còn bán realme c1 ko ạ. để em đến mua trực tiếp luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.996714,
+         "id": "1157394",
+         "field_search": "question",
+         "question": "Mình mua máy realme C1 ở thế giới di động cách đây mấy tháng hiện tại máy tự nhiên sập nguồn không lên.mình muốn mang ra bảo hành nhưng mất phiếu mua hàng rồi thì còn được bảo hành nữa không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.976976,
+         "id": "1158138",
+         "field_search": "question",
+         "question": "cho e hỏi có ốp của realme c1 ko ạvs kính cường lực ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

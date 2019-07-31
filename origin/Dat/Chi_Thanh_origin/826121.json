@@ -1,0 +1,801 @@
+{
+   "id_query": "826121",
+   "total": 29539,
+   "total_current": 100,
+   "max_score": 48.63806,
+   "origin_question": " Bên cửa hàng minh có bạn sạc máy tính asus k56c không ạ? ",
+   "hits": [
+      {
+         "score": 22.729795,
+         "id": "1150343",
+         "field_search": "question",
+         "question": "Bên cửa hàng có sạc không dây cho iPhone 8 không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.685774,
+         "id": "914164",
+         "field_search": "question",
+         "question": " Bên thegioididong có bán dây sạc máy tính asus không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.910175,
+         "id": "745232",
+         "field_search": "question",
+         "question": " tại cửa hàng mình có bán máy tính Dell inspiron 15 7547 không bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.06022,
+         "id": "1139787",
+         "field_search": "question",
+         "question": "cho em hỏi cửa hàng có bán dây sạc cho máy tính bảng huawei t170 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.27117,
+         "id": "776754",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy tính ASUS K56C ram 4G và đang dùng Windows 7 . Em muốn nâng cấp lên 8G và cài đặt Windows 8 có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.1807,
+         "id": "1000056",
+         "field_search": "question",
+         "question": "m đang tìm mua máy asus zenfon 2 bên bạn có hàng k a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.725166,
+         "id": "761138",
+         "field_search": "question",
+         "question": " Bạn ơi bên mình khi nao bán mẫu máy tính mini này Asus X205T ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.559732,
+         "id": "992440",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện tại cửa hàng có bán pin sạc máy tính dell inspiron N5110 ,input 19.5V4,62A",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.165472,
+         "id": "1019337",
+         "field_search": "question",
+         "question": "Thegioididong có bán máy nghe nhạc mp3 không ạ? Em tính ra cửa hàng mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.074886,
+         "id": "835257",
+         "field_search": "question",
+         "question": " Cho minh hỏi máy tính asus X450CA có chơi được lmht không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.02945,
+         "id": "1133629",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang cần mua 1 điện thoại ltel lt2161 thù không biết bên cửa hàng nào của bạn ở Thủ Đức có bán không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.540215,
+         "id": "813497",
+         "field_search": "question",
+         "question": " Cho hỏi cửa hàng có chạy lai chương trình máy tính không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.53732,
+         "id": "1167962",
+         "field_search": "question",
+         "question": "asus max pro m1 bên cửa hàng mình còn bán ko ạ và giá là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.34884,
+         "id": "772035",
+         "field_search": "question",
+         "question": " Bên cửa hàng mình có bán củ sạc iphone 5 không ad . Nếu có thì giá bao nhiêu vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.047146,
+         "id": "995183",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi, bên bạn có sản phẩm bàn phím máy tính không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.037952,
+         "id": "993630",
+         "field_search": "question",
+         "question": "AMD cho mình hỏi.? Bên cửa hàng có bán lẻ   Sạc dự phòng siêu tốc Sony CPE6WC 5800mAh ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.004753,
+         "id": "1166191",
+         "field_search": "question",
+         "question": "Xin cho tôi hỏi cửa hàng bên bạn khi nào có Note 8 màu đen vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.958408,
+         "id": "1159745",
+         "field_search": "question",
+         "question": "bên cửa hàng mình còn máy xiaomi redmi note 7 không ạ? Nếu hết hàng thì bao giờ có hàng lại ạ? cảm ơn shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.956528,
+         "id": "1161896",
+         "field_search": "question",
+         "question": "Cửa hàng mình có thay pin xiaomi redmi 6 không ạ . Pin máy em sạc rất lâu vô",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.911115,
+         "id": "912010",
+         "field_search": "question",
+         "question": " Cửa hàng có bán cục sạc laptop acer aspire V5  473 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.807731,
+         "id": "799743",
+         "field_search": "question",
+         "question": " Cho em hỏi là ở cửa hàng của mình có cài win cho máy tính không ạ nếu có thì có phí không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.798426,
+         "id": "765316",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện tại em đang định mua laptop Asus x402ca wx055 core i3, không biết shop mình có hàng không ạ? Nếu không có hàng thì em có thể đặt hàng để cửa hàng lấy về được không? Vì cách đây không lâu em có hỏi 1 cửa hàng gần nhất đc biết là shop không kinh doanh máy tính xách tay nhưng nếu đặt hàng thì shop lấy về giao và giảm 5% giá. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.655487,
+         "id": "1159517",
+         "field_search": "question",
+         "question": "bên cửa hàng mình có hổ trợ mở khóa màn hình không ạ. em sài iphone 6 plus . và em mua máy ở cửa hàng khác. em không đăng nhập icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.576341,
+         "id": "1134749",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn thay pin điện thoại iphone 5, cửa hàng bên các bạn có dịch vụ này không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.566013,
+         "id": "782489",
+         "field_search": "question",
+         "question": " Cho em hỏi bên cửa hàng có bán hàng like new iPhone 6 16gb không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.516426,
+         "id": "769906",
+         "field_search": "question",
+         "question": " Bên cửa hàng có sửa chửa laptop không ạ? Laptop hay bị đứng máy, sờ vào rất nóng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.470789,
+         "id": "1003586",
+         "field_search": "question",
+         "question": "Cho e hỏi bên cửa hàng mình có sửa điện thoại không ạ. Em mua ở cửa hàng thegioididong ạ nhưng hết bảo hành rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.454706,
+         "id": "1010052",
+         "field_search": "question",
+         "question": "máy tính Asus x550c 3777U, Ram 4G, Core i5 hd graphics 4000, 1.80ghz  có chơi được Liên minh huyền thoại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.36933,
+         "id": "829424",
+         "field_search": "question",
+         "question": "tôi lúc trước có mua laptop asus bên phía cửa hàng và giờ máy tính của tôi phần touchpad lúc mua thì còn xài được nhưng sau vài tháng thì bỗng dưng không thể sử dụng được tiếp .Không biết phải làm sao để sửa lại lỗi mong nhờ nhân viên kĩ thuật có thể trả lời giúp vì hiện tại tôi chưa có thời gian ra cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.324271,
+         "id": "1162520",
+         "field_search": "question",
+         "question": "cửa hàng mình đã có sẵn máy Zenfone Pro M1 chưa bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.145189,
+         "id": "1151587",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính acer win 7 ultimate, mình muốn nâng cấp lên win 10 bên tgdd có nâng cấp không vậy? Mà máy của mình không mua tại cửa hàng tgdd thì có thể lại của hàng nâng cấp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.115501,
+         "id": "999690",
+         "field_search": "question",
+         "question": "Cho e hỏi. Khay sim samsung s7 của e bị gãy và còn kẹt trong máy. Bên cửa hàng có hỗ trợ e lấy ra không ạ. Với bên cửa hàng có bán khay sim s7 không ạ. Giá cả như thế nào. Tư vấn giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.07871,
+         "id": "771936",
+         "field_search": "question",
+         "question": " Bên cửa hàng thế giới di dộng có hỗ trợ gỡ jailbreak không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.07871,
+         "id": "1143782",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6, 6s bên cửa hàng còn có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.04798,
+         "id": "1153512",
+         "field_search": "question",
+         "question": "Max pro m2 có sẩn phẩm ở Quảng Ngãi không ạ em tính ra cửa hàng mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.036024,
+         "id": "823981",
+         "field_search": "question",
+         "question": " Hiện tại cửa hàng có bán sạc laptop Toshiba kg ạ . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.011293,
+         "id": "1165334",
+         "field_search": "question",
+         "question": "Tks MOD, trường hợp cap sạc đã sử dụng khoảng 3 tháng mới gặp vấn đề không sạc được nữa bên cửa hàng có hỗ trợ bảo hành ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9718275,
+         "id": "1142439",
+         "field_search": "question",
+         "question": "Bên cửa hàng có mẫu nokia 3.1 plus không ạ ? Nếu có tôi muốn đặt mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.888658,
+         "id": "1000220",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về laptop. Mình đang kiếm laptop asus gl553ve nhưng thấy bên cửa hàng ko có bán sản phẩm này. Cho mình hỏi là bên mình trong thời gian gần nhất có nhập dòng này về không và có thể cho mình thời gian chính xác được không? Thanks cửa hàng rất nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.880511,
+         "id": "1140569",
+         "field_search": "question",
+         "question": "Bên mình có nắp đậy cáp sạc không ạ?Nếu không bên mình có thể đặt hàng giúp em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.869658,
+         "id": "1015256",
+         "field_search": "question",
+         "question": "Lúc mua lap là bên cửa hàng sẽ tạo tài khoản microsoft cho máy lun hay người mua phải tự tạo zậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.799513,
+         "id": "825750",
+         "field_search": "question",
+         "question": "Mình đến cửa hàng chạy lại máy tính Asus giờ ứng dụng mất hết và ngôn ngữ bị chuyển sang Tiếng Anh thì cài lại thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.783271,
+         "id": "1165915",
+         "field_search": "question",
+         "question": "Dạ bên cửa hàng có hỗ trợ việc đăng kí thông tin sim không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.729506,
+         "id": "1167975",
+         "field_search": "question",
+         "question": "Shop ơi! E lỡ xoá hết phần mềm Word, Excel,.. Trong laptop mà cửa hàng đã cài cho e rồi. Không biết cửa hàng có thể cài lại giúp e không. Nếu làm lại được thì có tính phí không ạ, tính phí thì phí bảo nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.725855,
+         "id": "797646",
+         "field_search": "question",
+         "question": "   Cho em hỏi bên mình có cửa hàng nào bán pin của máy HP compaq 420 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.721141,
+         "id": "992816",
+         "field_search": "question",
+         "question": "Cho mình hỏi cửa hàng có bán cáp sạc của Lenovo ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.703129,
+         "id": "750551",
+         "field_search": "question",
+         "question": " Hệ thống cửa hàng tại Vinh có bán iPhone 5S cũ không bạn? Giá bán bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.689644,
+         "id": "1134067",
+         "field_search": "question",
+         "question": "hi bạn, bên mình còn bán vỏ sony XA1 kg vậy ? cho mình biết khu vực Bà Rịa cửa hàng nào có hàng nhé cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.687189,
+         "id": "782904",
+         "field_search": "question",
+         "question": " cho hỏi bên bạn có bán pin laptop asus k43sd không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.684677,
+         "id": "1140248",
+         "field_search": "question",
+         "question": "Chào QTV, laptop asus em mua ở cửa hàng mình được 1 năm nhưng giờ chạy rất chậm thì em mang ra cửa hàng xem máy giúp em gặp vấn đề gì được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.678715,
+         "id": "1154620",
+         "field_search": "question",
+         "question": "Tới cửa hàng quét virus cho máy tính, giá dịch vụ là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.652845,
+         "id": "1013256",
+         "field_search": "question",
+         "question": "cho e hỏi bên cửa hàng mình có chính sách nhập lại máy cũ không ạ ? e mới mua đc 2 tháng .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.624904,
+         "id": "793042",
+         "field_search": "question",
+         "question": " Hôm nay em muốn mua Ip5s Màu Gold hàng mới. Bên cửa hàng còn không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.598039,
+         "id": "1011605",
+         "field_search": "question",
+         "question": "Cho mình hỏi đơn hàng  online chuột máy tính của mình ngày mai là ra cửa hàng nhận được rồi phải không ạ?số điện thoại đặt hàng 0967971192",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.566222,
+         "id": "801501",
+         "field_search": "question",
+         "question": "Hiện tại em đang sài lap asus A540LA i3. cho em hỏi máy mình cần dùng office thì phải mua bản quyền, nhưng bên cửa hàng mình có bán gói office đó không vậy adm??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.559656,
+         "id": "1003876",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua 1 thanh ram 4g và lắp vào máy tính asus thì bên mình có bán không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.528596,
+         "id": "987503",
+         "field_search": "question",
+         "question": "QTV cho em hỏi, nếu mình muốn nâng cấp máy tính mà không mất bảo hành thì mình đem máy tính đến cửa hàng để cửa hàng gửi lên trung tâm bảo hành phải ko ạ?? vậy nếu vậy thì phải khoản bao lâu thì xong?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.528204,
+         "id": "1164516",
+         "field_search": "question",
+         "question": "Cho mình hỏi cửa hàng có bán cục sạc samsung a50 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.488273,
+         "id": "1133918",
+         "field_search": "question",
+         "question": "cho em hỏi là bên cửa hàng có bán cap chuyển HDMI qua VGA không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.455307,
+         "id": "1133539",
+         "field_search": "question",
+         "question": "Cho mình hỏi huawei nova 3i có hỗ trợ tính năng nào kết nỗi với tivi không, bên cửa hàng tgdd có bán cáp nào kết nối với tivi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.415663,
+         "id": "801973",
+         "field_search": "question",
+         "question": " e mua lap của thegioididong nhưng giờ lap của e bị hỏng sạc e có thể mua sạc ở cửa hàng không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.413233,
+         "id": "991887",
+         "field_search": "question",
+         "question": "cho mình hỏi bên cửa hàng có hỗ trợ jailbreak không v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.413048,
+         "id": "1017996",
+         "field_search": "question",
+         "question": "Cho hỏi cửa hàng có bán củ sạc Samsung galaxy note 10.1 SMP600 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.389401,
+         "id": "1014857",
+         "field_search": "question",
+         "question": "Em từng mua máy honor 4c tại cửa hàng mình, nay hết bảo hành, nhưng hiện tại máy em khe thẻ nhớ và sim không nhận thẻ. bên mình có sửa tại cửa hàng k,và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.383125,
+         "id": "987030",
+         "field_search": "question",
+         "question": " Bên cửa hàng mình có hỗ trợ dán phần viền dưới máy ko ad ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.376428,
+         "id": "766570",
+         "field_search": "question",
+         "question": " Laptop Asus A43S series chơi được game liên minh huyền thoại không bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.311174,
+         "id": "1016723",
+         "field_search": "question",
+         "question": "Cho  e hỏi cửa hàng mình có bán pin điện thoại Asus 4 đời đầu tiên không ạ? Loại pin 1200 mAh ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.240489,
+         "id": "1139040",
+         "field_search": "question",
+         "question": " AD cho em hỏi bên mình có cửa hàng nào tồn kho con iphone 5s không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.233693,
+         "id": "1142993",
+         "field_search": "question",
+         "question": "Realme C1, cửa hàng Đà Lạt có sẵn ko bạn. hay phải đặt hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.190861,
+         "id": "807120",
+         "field_search": "question",
+         "question": " tgdđ.có bán iphone lock không vậy?e muống mua iPhone 6s 16g cửa hàng minh có không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.185079,
+         "id": "989666",
+         "field_search": "question",
+         "question": "e muốn mua máy nhưng e muốn bên mình chuyển sản phẩm về cửa hàng ở linh xuân thủ đức có được không ạ . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.103217,
+         "id": "1146993",
+         "field_search": "question",
+         "question": "cửa hàng có mua lại máy samsung a5 2017 ko vậy ,mình tính đỗi lấy iphone 7 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.098896,
+         "id": "996998",
+         "field_search": "question",
+         "question": "Chào bạn ! Bạn cho mình hỏi, mình muốn mua 1 sản phẩm bên cửa hàng. Khi thanh toán mình có thể vừa chạc thẻ và vừa thanh toán thêm tiền mặt 1 lúc được không vậy ? Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.095711,
+         "id": "1166170",
+         "field_search": "question",
+         "question": "Bên cửa hàng  có cường lực của xiaomi redmi note 7 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.0828,
+         "id": "1014060",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, bên cửa hàng có bán Pin máy samsung galaxy Young GT-S6310 không ạ, nếu có thì giá bán đang là bao nhiêu ạ!Em xin cảm ơn và rất mong nhận được sự phản hồi của cửa hàng ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.077312,
+         "id": "1011888",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi !! bên mình có bán sạc chính hãng của máy huawei P9 không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.072274,
+         "id": "1161551",
+         "field_search": "question",
+         "question": "Cho em hỏi bên cửa hàng có bán vỏ sámung note 3 và pin của nó không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.060449,
+         "id": "1001644",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại  Bavapen B42m  bên cửa hàng còn hàng không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.015084,
+         "id": "1156170",
+         "field_search": "question",
+         "question": "cho em hỏi bên cửa hàng của mình còn bán thánh sim không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.986559,
+         "id": "1019462",
+         "field_search": "question",
+         "question": "ad cho mình hỏi cửa hàng có bán Asus Zenfone 3 max 5.5 không? giá bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.916708,
+         "id": "960593",
+         "field_search": "question",
+         "question": "Chào anh/chịEm hỏi, e có mua 1 máy tính asus vẫn còn bảo hành. Máy tính e bị virut xâm nhập, thì bên mình có bảo hành về phần đó k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.894577,
+         "id": "820086",
+         "field_search": "question",
+         "question": " Mình không biết hạ ios 9.2 xuống 8.4 ,cửa hàng có Hộ trợ hạ cho minh ko??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.886434,
+         "id": "1153140",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi điện thoại asus Zenphone Max Pro M1 có ở các cửa hàng chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.878676,
+         "id": "876201",
+         "field_search": "question",
+         "question": " Bên cửa hàng có laptop nào chạy mượt được game mortal kombat X và far cry 4 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.876236,
+         "id": "999390",
+         "field_search": "question",
+         "question": "chào cửa hàng, cửa hàng cho hỏi bên mình có thay pin cho 6s không và có thay thì thay ở đâu? mình hiện ở tx sơn tây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.866692,
+         "id": "1136847",
+         "field_search": "question",
+         "question": " Bạn ơi cho hỏi bên bạn có nhận đơn đặt hàng Beddit 3.5 Sleep Monitor không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.8632555,
+         "id": "999782",
+         "field_search": "question",
+         "question": "bên cửa hàng mình có máy  Sony Xperia XZ Dual  mau bạ c chưa anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.805897,
+         "id": "1145868",
+         "field_search": "question",
+         "question": "Cho hoi bên cửa hàng của mình có Tai nghe Iphone 5 không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.800905,
+         "id": "1135571",
+         "field_search": "question",
+         "question": "Cho mình hỏi Xiaomi Redmi Note 4x bên cửa hàng còn kinh doanh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.792633,
+         "id": "795715",
+         "field_search": "question",
+         "question": "Mình có mua dây sạc ip5s ở cửa hàng. Mình mới mua được 1 tháng bây giờ dây sạc hỏng. Mình cắm vào máy không nhận thì có được 1 đổi 1 dây sạc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.789695,
+         "id": "1141478",
+         "field_search": "question",
+         "question": "cho em hỏi  mua máy asus m2 trực tiếp tại cửa hàng TGDD thì có hàng k hay chỉ áp dụng cho mua online  cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.771518,
+         "id": "1153051",
+         "field_search": "question",
+         "question": "nokia 6.1 hiện cửa hàng có không bạn ? nếu có thì bán bao nhiêu ? loại trên 60 gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.754672,
+         "id": "1000720",
+         "field_search": "question",
+         "question": "Chào cửa hàng, cho e hỏi bên TGDD của mình có chương trình thu lại máy cũ đổi máy mới không? Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.752799,
+         "id": "810144",
+         "field_search": "question",
+         "question": " Làm thế nào để truy cập ứng dụng cửa hàng google play trên máy tính ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.749242,
+         "id": "1151794",
+         "field_search": "question",
+         "question": "Bên bạn có bán dây sạc sony xperia l1 khoonh ạ  d0384733656 0384633656",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.747159,
+         "id": "1003983",
+         "field_search": "question",
+         "question": "E dùng máy iPhone 6s plus,  e có 1sô hình ảnh quan trọng bị nhỡ xoá mất vậy bên cửa hàng có cách phục hồi hình ảnh giúp e được ko ạ,  nếu được e mang máy ra cửa hàng ạ, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.729341,
+         "id": "1161120",
+         "field_search": "question",
+         "question": "Cho em hỏi các mẫu điện thoại Asus đang có sẵn tại cửa hàng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.725834,
+         "id": "1018337",
+         "field_search": "question",
+         "question": "bên cửa hàng còn điện thoại xiaomi redmi 4x không ạ,  với lễ có chương trình khuyến mãi gì không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.720656,
+         "id": "1147547",
+         "field_search": "question",
+         "question": " Khi nào mới mua được asus zenphone max pro M2 ngay tại cửa hàng vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

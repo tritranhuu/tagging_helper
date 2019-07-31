@@ -1,0 +1,801 @@
+{
+   "id_query": "808195",
+   "total": 29482,
+   "total_current": 100,
+   "max_score": 53.351097,
+   "origin_question": " Cho mình hỏi cách reset lại điện thoại sony zr bằng phím như thế nào vậy ? ",
+   "hits": [
+      {
+         "score": 30.123655,
+         "id": "1144503",
+         "field_search": "question",
+         "question": "Reset điện thoại Nokia 8.1 bằng phím cứng như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.980282,
+         "id": "795749",
+         "field_search": "question",
+         "question": " Mình muốn reset máy Sony Xperia V về cài đặt gốc bằng phím cứng thì như thế nào ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.470161,
+         "id": "1014682",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn truyền dữ liệu từ điện thoại cũ (ASUS ZENFONE) sang điện thoại mới (SONY XPERIA XA1) bằng kết nối không dây thì phải làm như thế nào vậy QTV ?MÌnh cảm ơn nhiều ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.56953,
+         "id": "760023",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình muốn thiết lập điện thoại iPhone 3G của mình như iPhone mới bằng cách nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.7834,
+         "id": "1135140",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại em reset máy lại mà em quên cái mật khẩu google thì có cách nào lấy lại khồng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.604053,
+         "id": "826430",
+         "field_search": "question",
+         "question": " Mobell nova f2 reset bằng phím cứng làm sao vậy ạ hard reset? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.465893,
+         "id": "753201",
+         "field_search": "question",
+         "question": " Bạn  cho mình hỏi cách mở khóa bàn phím IPhone 6s plus như thế nào ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.465017,
+         "id": "782567",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách kết nối từ điện thoại với tivi Samsung hay LG là như thế nào vậy. Mình dùng iPhone 6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.031109,
+         "id": "1158261",
+         "field_search": "question",
+         "question": "Cho e hỏi sạc điện thoại Sony Xperia X còn không ạ? Mua lẻ giá như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.948523,
+         "id": "1158753",
+         "field_search": "question",
+         "question": "Tôi sau khi reset lại laptop lenovo yoga 520 thì không thể sử dụng được bàn phím, tôi không thể nhập được kí tự bằng số. Làm cách nào để có thể sử dụng bàn phím như lúc trước ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.367823,
+         "id": "1158700",
+         "field_search": "question",
+         "question": "Điện thoại nikia 8.1 quên mật khẩu reset thế nào vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.21215,
+         "id": "746502",
+         "field_search": "question",
+         "question": " cho mình hỏi cách copy paste văn bản ở fb trên điện thoại j5 như thế nào? thank QTV ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.134768,
+         "id": "1154844",
+         "field_search": "question",
+         "question": "cho em hỏi cách bật led phím  asus s510uq bq475t như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.896744,
+         "id": "1015259",
+         "field_search": "question",
+         "question": "Mình muốn nghe file ghi âm trên Google drive. bằng điện thoại phải làm cách nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.881548,
+         "id": "1013459",
+         "field_search": "question",
+         "question": "Chụp màn hình điện thoại oukitel c3 bằng cách nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.77951,
+         "id": "1143824",
+         "field_search": "question",
+         "question": "Cách đăng xuất Gmail trên điện thoại nova 3i như thế nào vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.690493,
+         "id": "800531",
+         "field_search": "question",
+         "question": "Cho mình hỏi sự cố quy trình bàn phím LG đã dừng lại và mình không thể nào nhắn tin được thì mình phải làm thế nào,mình đang dùng điện thoại LG L80",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.603468,
+         "id": "996780",
+         "field_search": "question",
+         "question": "Kiểm tra bảo hành oppo f1s 2017 bằng imel điện thoại như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.603277,
+         "id": "1151208",
+         "field_search": "question",
+         "question": "Muốn kich hoạt bao hành cho điện thoại samsung m20 bằng cách nào vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.537651,
+         "id": "1162965",
+         "field_search": "question",
+         "question": "chào cho mình hỏi mua điện thoại trả góp như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.50278,
+         "id": "1019026",
+         "field_search": "question",
+         "question": "Vòng đeo sony bị đơ không sử  dụng được, có cách nào reset lại được  không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.383387,
+         "id": "1142834",
+         "field_search": "question",
+         "question": "bên thế giới di động có nhận sửa điện thoại Sony Xperia Z4 không ạ/điện thoại mình bật nguồn lên hiện logo Sony xong rồi lại tự tắt đi bật lại cứ như thế mãi . đấy  là bị hỏng gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.178627,
+         "id": "836851",
+         "field_search": "question",
+         "question": " cho mình hỏi dell i7 6500u có đèn bàn phím không vậy nếu có thì mở như thế nào ạ thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.093676,
+         "id": "1016576",
+         "field_search": "question",
+         "question": "Mình mới mua 1 chiếc điện thoại J7 Prime cách đây 2 tháng tại TGDĐ. Dạo gần đây điện thoại hay bị lỗi khóa màn hình rồi tự sáng màn hình lại. Phải reset lại máy mới hết. Hiện tượng này ngày càng thường xuyên hơn. Mình không cài bất cứ app hình nền hay phím tắt khóa màn hình nào. Khắc phục lỗi này thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.055946,
+         "id": "1009929",
+         "field_search": "question",
+         "question": "Mình đang xài ss j3 2016, sau khi mình cài đặt laban key thì vẫn sử dụng bàn phím laban key bình thường, nhưng sau khi tắt điện thoại đi rồi mở điện thoại lên nó lại hiện là bàn phím samsung. Mình thấy rất phiền phức cứ mỗi lần như vậy là mình phải vô cài đặt chỉnh lại bàn phím của laban key. Mong admin có cách nào để chuyển sang vĩnh viễn bàn phím của lanbankey không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.988565,
+         "id": "999289",
+         "field_search": "question",
+         "question": "cho mình hỏi lỗi kết nối SSL này là thế nào ạ mình mình vào mạng bằng wifi thì vẫn bình thường nhưng tắt wifi sang 4G dùng thì mạng cứ báo như vậy vậy cách khắc phục là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.985212,
+         "id": "1016193",
+         "field_search": "question",
+         "question": "Cho e hỏi cài báo thức trên điện thoại Nokia 6 bằng cách nào ạ....???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.969057,
+         "id": "806095",
+         "field_search": "question",
+         "question": " cách tải cydia về điện thoại iPhone 6s như thế nào có thể giúp mình không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.770363,
+         "id": "909121",
+         "field_search": "question",
+         "question": " Gọi điện thoại bằng line có nhìn thấy hình không làm như thế nào để gọi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.768097,
+         "id": "1010880",
+         "field_search": "question",
+         "question": " cách thay đổi nhạc chuông điện thoại it1516 như thế nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.768097,
+         "id": "998056",
+         "field_search": "question",
+         "question": "Cách chụp màn hình điện thoại itel1516 plus như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.76101,
+         "id": "1012882",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại oppo F3 ngày 01082017. Em muốn bán lại.  Vậy cho em hỏi TGDĐ thu mua lại như thế nào ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.729092,
+         "id": "1001607",
+         "field_search": "question",
+         "question": "Cho em hỏi là loại điện thoại samsung galaxy j2 prime cách để biến thẻ nhớ thành bộ nhớ trong là như thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.580532,
+         "id": "775146",
+         "field_search": "question",
+         "question": " iOS về điện thoại iPhone 3 không cách tải như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.539627,
+         "id": "1143117",
+         "field_search": "question",
+         "question": "Xin chào, Cho mình hỏi giờ điện thoại android của mình bị hư các phím hone, trở lại, đa nhiệm vậy có ứng dụng nào hiện các phím ảo đó trên màn hình không ạ?Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.471832,
+         "id": "1017108",
+         "field_search": "question",
+         "question": "cho hỏi add. cách chia sẻ kết nối wifi từ điện thoại samsung s7 edge sang laptop như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.450666,
+         "id": "802062",
+         "field_search": "question",
+         "question": " Cho em hỏi cách copy và dán trên điện thoại zenfone go như thế nào ạ? Chỉ giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.438925,
+         "id": "998999",
+         "field_search": "question",
+         "question": " admin cho lỗi này thì sữa như thế nào ạ, sau khi bị mình đã reset lại máy nhưng vẫn bị như thế này mong ad giúp   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.373898,
+         "id": "997279",
+         "field_search": "question",
+         "question": "Cho mình hỏi test pin gr5 2017 bằng cách nào v? Và như thế nào là ổn để biết pin không bị chai! Cho hướng dẫn về cách kiểm tra pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.37349,
+         "id": "1012045",
+         "field_search": "question",
+         "question": "pn ơi cho mình hỏi đặt hàng bằng cách nào vậy ạkkkkk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.365435,
+         "id": "1019770",
+         "field_search": "question",
+         "question": "tối qua mình bị mất điện thoại oppo s1, sau đó mình gọi thì điện thoại tắt máy. vậy mình làm sao định vị được điện thoại đã mất, hay bằng cách nào để tìm được điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.3403,
+         "id": "1009430",
+         "field_search": "question",
+         "question": "Cho mình hỏi một chút nhé! Khi có Email đến thì điện thoại SONY Xperia M4 của mình đổ chuông liên tục không ngắt kể cả khi đã đọc! Xử lý như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.334347,
+         "id": "828867",
+         "field_search": "question",
+         "question": " Hướng dẫn cách tạo tài khoản email exchange cho điện thoại android 2.1 như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.319967,
+         "id": "1015219",
+         "field_search": "question",
+         "question": "cho mình hỏi muốn chạy chương trình sony xperia z1 thì phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.153536,
+         "id": "1009400",
+         "field_search": "question",
+         "question": "Mình xài điện thoại Sony XA. Mình muốn hỏi khi có cuộc gọi quốc tế gọi đến mà mình muốn điện thoại hiển thị quốc gia nào đang gọi tới thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.133577,
+         "id": "1010463",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 6S 64 gb bị lỗi không có dịch vụ của sim thì phải khắc phục như thế nào? Mình đã thử tất cả các cách trên mạng nhưng chưa dùng cách đặt lại điện thoại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.108692,
+         "id": "1158333",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại như vậy là sao ạ? Sao e không thể chụp hay quay video bằng camera của điện thoại??  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.076546,
+         "id": "1147293",
+         "field_search": "question",
+         "question": "cho mình hỏi làm sao để tắt âm bàn phím điện thoại iTel A13 vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.027035,
+         "id": "904924",
+         "field_search": "question",
+         "question": "Mình bị cướp điện thoại IP6, hiện tài khoản icloud của mình bị vô hiệu hóa, mình reset lại nhưng không cho option reset qua mail mà gởi mã qua số điện thoại của mình. mình điền mã vào thì nó thông báo khi nào tài khoản sẵn sàng khôi phục thì sẽ nhắn tin đến số điện thoại của bạn,quá trình khôi phục sẽ mất vài ngày. tuy nhiên mình chờ vẫn không thấy tin nhắn. cho mình hỏi còn cách nào khác để lấy lại tài khoản này không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.007442,
+         "id": "1022438",
+         "field_search": "question",
+         "question": "Cho mình hỏi Điện thoại OBI Sf1 có chức năng chạm hai lần sáng  màn hình không. Nếu có thì làm như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.003677,
+         "id": "753291",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình chặn số ở trường. Vậy khi trường thông báo tin nhắn về thì mình có đọc được không? Và đọc bằng cách nào?Điện thoại của mình là iPhone 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.935678,
+         "id": "764893",
+         "field_search": "question",
+         "question": " Mình đã sao lưu ảnh lên iCloud, thì làm cách nào để vào xem lại ảnh trên iCloud bằng điện thoại nhanh nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.92861,
+         "id": "1009995",
+         "field_search": "question",
+         "question": "cách hard reset điện thoại itel it1508 plus ? làm sao hard reset điện thoại itel it1508 plus  ....................  ............",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.899348,
+         "id": "1000648",
+         "field_search": "question",
+         "question": "Mình đang sài điện thoại sony xperia xa1... Mua được cách đây 3 tháng nhưng dạo gần đây nó lại bị liệt cảm ứng ở 1 phần màn hình..mình ko làm rơi vỡ hay tiếp xúc mạnh gì.. Cho mình hỏi như vậy có được bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.874154,
+         "id": "1150600",
+         "field_search": "question",
+         "question": "cho hỏi muốn đăng xuất khỏi youtube, facebook, gmail trên điện thoại samsung A3 2017 bằng cách nào. thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.873818,
+         "id": "896991",
+         "field_search": "question",
+         "question": "Cho em hỏi Bộ phận kĩ thuật bên công ty mình có hỗ trợ reset lại máy tính windows không ạ? Máy em đang bị lỗi mà muốn reset lại thì em lại không biết phải cài đặt như thế nào a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.868751,
+         "id": "992803",
+         "field_search": "question",
+         "question": "Admin cho hỏi cách chặn quảng cáo iOS như thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.845448,
+         "id": "1010881",
+         "field_search": "question",
+         "question": "Giải đáp Cách cài nhạc chuông ở điện thoại it1516 như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.785236,
+         "id": "941908",
+         "field_search": "question",
+         "question": " Cho e hỏi cách mở đèn bàn phím máy tính Dell như nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.776282,
+         "id": "832720",
+         "field_search": "question",
+         "question": " Cho mình hỏi? Tại sao hình gửi qua tin nhắn zalo lại tự lưu vào máy vậy? Và cách khắc phục như thế nào? Thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7165985,
+         "id": "1021036",
+         "field_search": "question",
+         "question": "Cách bật lại bàn phím android AOSP  trên điện thoại mobell NOVA S2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.70539,
+         "id": "997484",
+         "field_search": "question",
+         "question": " Làm cách nào đăng xuất CHPlay bằng điện thoại Samsung j7. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.655219,
+         "id": "782412",
+         "field_search": "question",
+         "question": "Máy điện thoại Wiko Lenny 2 mình Reset lại máy vẫn kêu tiếp tục nhập Google mình mất mật khẩu và Gmail chỉ cách giùm cho em?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.614594,
+         "id": "1006699",
+         "field_search": "question",
+         "question": "Điện thoại sony XA của mình k phát đc loa ngoài. Chuông cuộc gọi tới và chuông báo thức k kêu. Mình khởi động lại thì bình thường 1 ngày lại bị lại. Hình như cứ sạc điện thoại là bị như thế. Giờ phải làm ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.581307,
+         "id": "1004566",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình sử dụng Sony Xperia XA ultra mình muốn chuyển ứng dụng từ bộ nhớ máy sang thể nhờ thì làm như thế nào vậy Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.524932,
+         "id": "1164586",
+         "field_search": "question",
+         "question": "Hôm trước điện thoại có thông báo cập nhật phần mềm. Thế là mình cũng cập nhật. Nhưng mình thấy đồ họa vs giao diện mới này k đẹp bằng cái cũ. Vậy cho mình hỏi làm thế nào để trở về giao diện cũ vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.451011,
+         "id": "772172",
+         "field_search": "question",
+         "question": " Mình bị mất danh bạ do khôi phục cài đặt trên điện thoại Sony Z2 làm cách nào để lấy lại được danh bạ bị mất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.427224,
+         "id": "1003383",
+         "field_search": "question",
+         "question": "điện thoại HTC desire 816g Duel Sim khi nghe và gọi, màn hình điện thoại áp vào tai nhưng vẫn sáng. như vậy cho mình bây giờ phải làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.426543,
+         "id": "1016896",
+         "field_search": "question",
+         "question": "Cho mình hỏi có cách nào mở lại bàn phím để mình có thể nhập pass vào không ad?mình nhấp vào hoài mak không mở lại được bàn phím!Thanks ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.401292,
+         "id": "1011291",
+         "field_search": "question",
+         "question": "Thegioididong cho e hỏi, điện thoại sony XA1 màn hình cong nên khi dán màn hình sẽ bị hở 2 bên trái và phải. Vì vậy các chữ cái như 1,0,p,q nằm ngoài chỗ cong. Bấm các phím ấy rất khó ăn và không nhạy cho lắm. Không biết bên mình có hướng xử lí như thế nào không ạ? có cần thay phụ kiện gì không? Cám ơn nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.362552,
+         "id": "1009310",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi đặt điện thoại bluboo s8 như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.356489,
+         "id": "782697",
+         "field_search": "question",
+         "question": " Cách xóa số điện thoại trong danh bạ iPhone 5S là như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.328472,
+         "id": "842913",
+         "field_search": "question",
+         "question": " Cho mình hỏi, mình chụp camera trước bị ngược, mình phải chỉnh như thế nào, mình sd điện thoại samsung j5 2016 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.3166,
+         "id": "820543",
+         "field_search": "question",
+         "question": " Cách cai rung khi chạm vào 3 phím điều hướng trên galaxy j7 như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.280176,
+         "id": "770845",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm thế nào khắc phục tình trạng như hình  sóng điện thoại yếu , wifi 3g bình thường   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.261607,
+         "id": "788650",
+         "field_search": "question",
+         "question": " Em muốn tìm lại ảnh đã bị mất khi reset lại iphone thì như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.260044,
+         "id": "1024181",
+         "field_search": "question",
+         "question": "Cho e hỏi cái laptop asus k401u e có reset máy lại và bị hết pin . E sạc pin mở nguồn lại thì bị như thế này . Không khắc phục đc . Admin có cách xử lí nào ạh .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.21836,
+         "id": "745212",
+         "field_search": "question",
+         "question": "Sony Vaio SVF1421DSG/ i3-3217U/2G/500GB cho mình hỏi máy như vậy có chơi được game đột kích không? Nếu không chơi được thì làm như thế nào để chơi được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.1662445,
+         "id": "1154542",
+         "field_search": "question",
+         "question": "Chỉ mình cách cài đặt điện thoại Sony Xperia XA khi sạc đầy pin sẽ báo cho mình hay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.134911,
+         "id": "1133535",
+         "field_search": "question",
+         "question": "Cho mình hỏi là sau khi mình bỏ sim thánh sim vô điện thoại sony Z3 để phát wifi, Sony Z3 thì vô mạng bình thường nhưng các máy kết nối từ mạng Sony Z3 phát ra thì lại không vô được mạng vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.13221,
+         "id": "1019397",
+         "field_search": "question",
+         "question": "Chào bạn, mình vừa mua máy Samsung S8 màu đen. mình mua bằng hình thức trả góp. Nhưng hiện tại mình muốn trả lại máy này, vậy thế giới di động có nhập lại không, và nhập lại như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.071083,
+         "id": "874313",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu mình xoá bản cập nhật như hình vẽ thì máy sẽ như thế nào vậy add? Sau khi xoá điện thoại sẽ chạy bản cập nhật bao nhiêu??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.052448,
+         "id": "993060",
+         "field_search": "question",
+         "question": "Cho mình hỏi ? Mình mua máy Sony Xperia XZs được 2 tháng rồi giờ muốn bán lại thì cách tính giá trị sản phẩm như thế nào ? Và bộ sản phẩm khuyến mại của hãng liệu bên TGDD có lấy lại hay không ?hay vẫn là của mình ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0451145,
+         "id": "766286",
+         "field_search": "question",
+         "question": "Mình làm mọi cách như trên rồi mà không được chỉ được facetime bằng id apple thôi không kích hoạt facetime bằng số điện thoại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.027575,
+         "id": "1021422",
+         "field_search": "question",
+         "question": "ad cho hỏi máy philip e220 cài bấm phím phát giọng nói như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0182905,
+         "id": "808673",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách tạo album ảnh trên zalo như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.011719,
+         "id": "860501",
+         "field_search": "question",
+         "question": " TÔI QUÊN MẬT KHẨU fACEBOOK TRÊN ĐIỆN THOẠI Lumia 540, LẤY LẠI NHƯ THẾ NÀO ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.998712,
+         "id": "756589",
+         "field_search": "question",
+         "question": " Tự nhiên điện thoại iphone5 không rung và đèn led cũng không sáng. Cho e hỏi như vậy thì làm cách nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.997526,
+         "id": "1152573",
+         "field_search": "question",
+         "question": "mình dùng điện thoại samsung j3pro. tại sao khi tắt màn hình xong khoảng vào giây sau điện thoại tự động sáng màn hình nền và màn hình khóa. cho mình hỏi là vì sao và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.966186,
+         "id": "1156869",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Điện thoại Samsung A8 mà không có nhớ tài khoản gmail trước hay số điện thoại thì còn cách nào mở máy không vậy ạ. Hay phải mang máy ra ngoài cửa hàng để chạy lại vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.955807,
+         "id": "1019701",
+         "field_search": "question",
+         "question": "TGDD ơi, Samsung J7Pro có chụp màn hình bằng cách vuốt bàn tay được không vậy? Nếu có thì setting như nào thế? Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.924024,
+         "id": "1142559",
+         "field_search": "question",
+         "question": "Muốn đôie oppo f5 youth vàng qua màu đen như thế nào ạ với lại làm sao để kiểm tra máy còn bao hành không bằng số điện thoại khi mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.904451,
+         "id": "1153495",
+         "field_search": "question",
+         "question": "lúc nãy em có reset toàn bộ hệ thống của điện thoại theo cách khẩn cấp là tăng âm + nguồn +màn hình chính sau đó đt bắt xác minh tài khoản mi vì em xài đt xiaomi redmi note 5a prime nhưng lại không nhớ mật khẩu nên điện thoại bị khóa không làm gì được vậy cách xử lí là như thế nào ạ ? mong được trả lời và cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.896944,
+         "id": "1135689",
+         "field_search": "question",
+         "question": "cho mình hỏi. Nếu như mình mua điện thoại nokia 1 cũ, có thanh toán bằng được bằng Zalopay. và được hưởng \"khuyến mại 50% nhưng >=250k vnd không\"?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.875797,
+         "id": "1139216",
+         "field_search": "question",
+         "question": "Điện thoại Samsung của mình bị chế độ này, xem giúp mình chỉnh lại như thế nào để có sóng điện thoại, hiện tại máy không có sóng điện thoại không liên lạc được, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8751545,
+         "id": "1024428",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy của mình không biết bấm vào cái gì ra chế độ màn hình như thế này. Mình reset lại máy mà không dc .    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.860617,
+         "id": "1162410",
+         "field_search": "question",
+         "question": "Cho e hỏi máy tính khởi động chậm. phím bị tự động nhảy chữ.sau đó đơ phím luôn là bị gì vậy ạ.cần sửa hay sửa như thế nào vậy ạ? Giúp e với.e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.855516,
+         "id": "855598",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm thế nào để lưu ảnh động dạng gif về điện thoại vậy? Mình dùng iPhone nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.846414,
+         "id": "1015618",
+         "field_search": "question",
+         "question": "Cho e hỏi có cách nào để chơi đc 4g lte trên điện thoại Sony c5302 ko ạ? Xin chỉ dùm ạ E bí wá",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

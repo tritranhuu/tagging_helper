@@ -1,0 +1,801 @@
+{
+   "id_query": "875504",
+   "total": 32016,
+   "total_current": 100,
+   "max_score": 127.03867,
+   "origin_question": "add cho mình hỏi khi mình gửi lời mời kết bạn vs ngta mà nó hiện lên dòng chữ \"người này ko muốn nhận lời mời kết bạn từ bạn\" như vậy là mình bị chặn đúng ko??",
+   "hits": [
+      {
+         "score": 69.6146,
+         "id": "1157820",
+         "field_search": "question",
+         "question": "Cho mình hỏi gửi lời mời kết bạn fb nó hiện lỗi như hình dưới là sao vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.10194,
+         "id": "1001198",
+         "field_search": "question",
+         "question": "Chị em gửi lời mời kết bạn trên facebook em lỡ xoá rồi giờ kết bạn lại ko đc add giúp em vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.284424,
+         "id": "858275",
+         "field_search": "question",
+         "question": " Cho e hỏi sao không thấy dòng gửi lời mời kết bạn facebook ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.069363,
+         "id": "831444",
+         "field_search": "question",
+         "question": "Minh muốn hỏi là một người bạn chặn tn zalo của mình, sau một thời gian khi mình kết bạn với ng đó thì nhận được thông báo là: ng đó ko muốn nhận lời mời kết bạn với bạn. sau đó mình nt thì vẫn gửi được, tn ở trạng thái đã gửi, nhưng tn vẫn ở tt đã gửi mãi mà ko chuyển qua đã nhân. M bực mình quá khoá zalo luôn nhưng khi đăng kí lại thì ng đó lại có sẵn trong danh bạ bạn bè là sao vậy ạ? Có phải bạn đó đã chủ động kết bạn lại với m hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.00994,
+         "id": "870403",
+         "field_search": "question",
+         "question": "Không thể yêu cầu kết bạn, danh sách bạn của người này đã đầy. Cho e hỏi ad em không gửi được lời mời kết bạn cho người khác và mọi người cũng không gửi được cho em. Ad giúp em với ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.686153,
+         "id": "884712",
+         "field_search": "question",
+         "question": " E gửi lời mời kết bạn trên zalo người ta chưa chấp nhận.e muốn thu hồi thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.691418,
+         "id": "1143267",
+         "field_search": "question",
+         "question": "cho em hỏi em xài zalo trên máy tính 1 thời gian và kết bạn khá nhiều, nhưng dạo gần đây k gửi được lời mời kết bạn được nữa, nó báo là STR_FRIEND_REQUEST_FAIL_210, ngay cả trên điẹn thoại cũng k gửi được lời mời thì phải khắc phục sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.569733,
+         "id": "823912",
+         "field_search": "question",
+         "question": "Mình muốn hỏi khi mình lưu 1 số đt mới thì ít sau đó zalo thông báo 2 ng đã trở thành bạn bè mặc dù mình không hề gửi lời mời kết bạn. Như vậy có phải người kia đã lưu số của mình trước đó rồi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.731087,
+         "id": "1143265",
+         "field_search": "question",
+         "question": "dạ anh ơi, cho em hỏi em xài zalo trên máy tính 1 thời gian và kết bạn khá nhiều, nhưng dạo gần đây k gửi được lời mời kết bạn được nữa, nó báo là STR_FRIEND_REQUEST_FAIL_210, ngay cả trên điẹn thoại cũng k gửi được lời mời thì phải khắc phục sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.974915,
+         "id": "1135312",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có sdt ng đó  trong danh bạ nhưng bị chặn tất cả trên  zalo .cập nhật lên thì có gửi lời mời kb cho người đó đc vậy ng đó có nhận đc thông báo ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.85927,
+         "id": "870853",
+         "field_search": "question",
+         "question": "Facebook của em mục \" lời mời kết bạn\" bị ẩn mất , khi có yêu cầu kết bạn thì được báo trong mục \" thông báo\" làm sao để sửa lại bình thường ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.18128,
+         "id": "876186",
+         "field_search": "question",
+         "question": "Ở gợi ý kết bạn trên zalo của mình hiện: ... muốn kết bạn không phải từ tìm quanh đây, hay từ danh bạ như thường thấy vậy người này sao biết mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.76217,
+         "id": "946270",
+         "field_search": "question",
+         "question": " Sao zalo của em khi người ta gửi yêu cầu kết bạn em nhận được thông báo mà không vào trả lời yêu cầu đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.708637,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.696747,
+         "id": "956084",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình vừa tạo 1 nick facebook mới, mình gửi lời mời kết bạn cho các bạn của mình, đặt avatar, ảnh bìa fb, nhưng phần trò chuyện, mình nhắn tin cho các bạn không được, tình trạng wifi thì vẫn bình thường, ngay phần trò chuyện có hiện lên là trò chuyện trên facebook không khả dụng, mình đã bật trò chuyện ngay từ đầu, nhưng khi nhắn thì vẫn bị lỗi, giống như bị mất mạng, nhắn không qua ấy, nhưng wifi nhà mình vẫn bình thường. Mình có đăng nhập nick ấy vào điện thoại nhưng nó vẫn bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.173332,
+         "id": "914360",
+         "field_search": "question",
+         "question": "Mình và bạn gái dùng chung tài khoản icloud khi mình gửi tin nhắn trên điện thoại bạn gái vẫn nhận đc. Nhưng cứ phải kết nối internet thì mình mới nhận được tin nhắn từ điện thoại của bạn mình. Cho mình hỏi như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.889988,
+         "id": "813796",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi là trước kia zalo mình và ngđó là bạn bè vì lý do bạn ấy chặn mình.mỗi khi nt thì k đc.lâu lâu xuất hiện dòng tin chặn,kết bạn và báo cáo. Nhưng mh kb thì bgiờ nick ngđó thôg báo đang chờ chấp nhận và bgiờ báo là nick ngđó ko nhận tin từ người lạ.vậy mình đăng gì ng ấy thấy k.mặc dù trc kia ngdo chỉ chặn mình thôi và mình vao tin nhắn thì thấy ngđó vẫn online",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.748535,
+         "id": "1020402",
+         "field_search": "question",
+         "question": "Cho mình hỏi.Mình chặn tn của bạn. Nhưng khi hết chặn thì ngược lại bạn đó gửi tn cho mình nhưng mình gui lại ko đc.va zalo thông báo chặn tn của mình. Lúc này muốn đổi hình với bạn đó cũng ko đc vậy là sao. Minh cam on nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.431164,
+         "id": "972815",
+         "field_search": "question",
+         "question": "Chưa kết bạn. Nếu bị chặn người lạ coi ảnh trên trang cá nhân của người chặn mình bấm vào mục ảnh trên trang cá nhân của người chặn thì nó báo như thế nào vậy? Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.660328,
+         "id": "930638",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi! Có trường hợp nào mà đt hết dung lượng hay bị gì gì đó...khiến cho tin nhắn người khác gởi tới cho mình ko được hiển thị ( mình ko chặn người lạ và họ vẫn chưa đồng ý kết bạn). Sau đó họ đồng ý kết bạn và tin nhắn của họ gởi cho mình lại được hiển thị. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.614002,
+         "id": "944170",
+         "field_search": "question",
+         "question": " Làm sao kết bạn lại khi chặn zalo quá 3 lần vậy add  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.954556,
+         "id": "1136526",
+         "field_search": "question",
+         "question": "Mình xoá vị trí zalo tránh làm phiền 1 ngày , không bật lại nữa mà sao vẫn nhận được lời kết bạn quanh đây. Mọi người chỉ em với, nó quá phiền với em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.723602,
+         "id": "844933",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình chặn bạn trên zalo, sau đó mình hủy kết bạn xóa các liên lạc rồi, giờ làm thế nào để kết bạn lại được trên zalo với bạn đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.545296,
+         "id": "1144708",
+         "field_search": "question",
+         "question": "AD cho mình hỏi, khi mình gửi kết bạn trên zalo pc thì nó báo lỗi như vậy, là bị làm sao vậy ad, khắc phục như thế nào, ad chỉ mình mới, cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.44453,
+         "id": "1163819",
+         "field_search": "question",
+         "question": "Check mã seri máy ip6s pluss Có ra đc sản phẩm ko bạn mình muốn mua máy mà ngta gửi cho mình seri này ko biết check ntn F2lyg2c5hfm4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.97809,
+         "id": "1150541",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để người mà em muốn kết bạn zalo có số điện thoại của em trong danh bạ của họ, nhưng em kết bạn thì em muốn họ không thấy số điện thoại của em,và em không muốn trong danh bạ của người hiện sđt của e lên khi e gửi kết bạn và e không muốn cho họ biết đó là em? Thì phải làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.745415,
+         "id": "769400",
+         "field_search": "question",
+         "question": "Mình kg gửi lời kết bạn zalo với người khác, nhưng tại sao trên danh sách zalo của mình lại có nick zalo người đó ? Do người đó lưu số đt của mình rồi tự đồng bộ zalo hay là lý do gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.66381,
+         "id": "884710",
+         "field_search": "question",
+         "question": "Mình gửi lời mời kết bạn trên zalo người ta chưa chấp nhận.mình muốn thu hồi lại thì phải làm sao.các bác giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.656292,
+         "id": "841571",
+         "field_search": "question",
+         "question": " Khi mình chặn hay hủy kết bạn với một người trên zalo thì toàn bộ tin nhắn của mình bên người đó có bị xóa hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.568153,
+         "id": "1152915",
+         "field_search": "question",
+         "question": "viber của mình sử dụng đã lâu, có nhiều nhóm nhưng mấy ngày gần đây có 1 nhóm bị chặn, trong khi các nhóm khác vẫn bình thường.khi mình vào thì máy báo bạn ko thể gửi tin nhắn trong cộng đồng này vì bạn đã bị chặn. cho mình hỏi như vậy mình phải làm sao ạ. TT",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.470306,
+         "id": "1133291",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi sau khi chặn 1 ng trên fb. Mình bỏ chặn nhưng nhắn tin message cho ng đó ko dc vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.963573,
+         "id": "760381",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao gửi mà nó cứ hiện vậy , em đã hỏi lại bạn rồi là có chặn gì không bạn em nói không có , kiểm tra lại hết rồi . Như vậy là bị gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.945816,
+         "id": "971207",
+         "field_search": "question",
+         "question": "Đang nt bthường thì máy hiện dòng màu đỏ này, mình gửi tin thì ngta nhận được, còn ngta gửi lại thì mình không nhận được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.841766,
+         "id": "835005",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu mình và người kia đã từng kết bạn zalo, nay mình đã hủy kết bạn. Sau đó mình vẫn xem được ảnh, không xem được nhật ký của người đó dù không phải bạn bè zalo nữa. Nhưng hôm nay phần ảnh cũng chỉ còn là (0). Mình dùng zalo của đồng nghiệp tìm nick và xem cũng như vậy. Liệu mình có bị người đó chặn zalo? Hay là người đó đã xóa bỏ hoàn toàn ảnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.757442,
+         "id": "814003",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình đang chơi game hay day nhưng mình ko đăng nhập facebook được để kết bạn với bạn bè trong facebook. cứ vào là thế này đây.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.747753,
+         "id": "772888",
+         "field_search": "question",
+         "question": "Mình muốn hỏi tài khoản id apple ở trong game center thì mình trả lời câu hỏi bí mật đúng để lấy lại mật khẩu dc. Nhưng khi mình vào Appleid.apple.com để đổi câu hỏi bí mất thì khi mình nhập câu hỏi vài n lại bảo 1 trong 2 câu hỏi của bạn k khớp vs tập tin trên . Mong các bạn trả lời giúp mk . Cảm ơn các bạn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.557407,
+         "id": "967223",
+         "field_search": "question",
+         "question": "Mình có một người bạn bị mất mk zalo,bạn ấy nhờ mình lấy lại mk zalo cho bạn ấy nhưng mà bằng điện thoại của mình vì điện thoại bạn ấy bị hỏng,vậy cho mình hỏi khi có tin nhắn mã xác nhận zalo thì mã đó được gửi tới điện thoại của mình hay của bạn đó,mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.472424,
+         "id": "838975",
+         "field_search": "question",
+         "question": "Mình và bạn đều ko lưu sdt của nhau. Tại sao zalo tự kết bạn thành công mà ko hề có sự đồng ý của mình và bạn mình. Thế là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.029655,
+         "id": "1158000",
+         "field_search": "question",
+         "question": "khi kết bạn zalo, zalo báo danh tính người dùng này không hợp lệ và không kết bạn được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.936504,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.712082,
+         "id": "809670",
+         "field_search": "question",
+         "question": "Mình đã gửi kết bạn trên zalo, ng đó không chấp nhận, vậy làm các nào để người đó không vào xem đc nhật kí, ảnh của mình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.414097,
+         "id": "846588",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình và bạn ấy ko hủy kết bạn zalo nhưng tại sao mh vào dòng thời gian thì chỉ xem được ảnh thôi ạ. stt hay ghi âm đều ko xem được. cho mh hỏi vì sao lại vậy ạ. mh cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.316578,
+         "id": "1141644",
+         "field_search": "question",
+         "question": "Lúc mình mới tạo Zalo, thì sđt của người ấy không ở trong danh bạ zalo của mình, và mình vs người ấy cũng không phải là bạn trên zalo. Nhưng khoảng 1-2 tuần sau, người ấy xuất hiện trong danh bạ và là bạn trong zalo của mình, mặc dù mình và người ấy không kết bạn vs nhau. Tại sao vậy ah?_MÌnh chỉ lưu sdt người ấy trong điện thoại thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.22231,
+         "id": "820610",
+         "field_search": "question",
+         "question": "người ấy đã hủy kết bạn với mình, nhưng mình vẫn còn là bạn bè của bạn người ấy, vậy mình đăng bài để chế độ công khai người ấy có nhìn thấy bài đăng của mình khi người bạn đó bấm like không? ví dụ; em tên thành, người hủy kb với em tên linh, bạn bấm like bài đăng là tên hà,bạn hà là bạn của em và linh trên fb.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.056602,
+         "id": "1162185",
+         "field_search": "question",
+         "question": "mink sử dụng Zalo trên PC nhưng kết bạn không được nó hiện dòng chữ :\" STR_FRIEND_REQUEST_FAIL_221\" giúp mik với. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.001755,
+         "id": "738523",
+         "field_search": "question",
+         "question": "Cho mình hỏi với ạ, chỗ gợi ý kết bạn trong zalo hiển thị 1 zalo khác mà ghi là Từ danh bạ, nghĩa là tài khoản zalo danh bạ ngta có số điện thoại của mình hả QTV.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.91371,
+         "id": "825957",
+         "field_search": "question",
+         "question": "Cho em hỏi trường hợp này là sao vậy à.Tin em nhắn đi chỉ hiện ở trạng thái\" Đã gửi\"Nhưng trong khi bạn ấy vẫn đang online.Không hiểu bạn ấy có phải đăng chặn em ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.783215,
+         "id": "780683",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang sử dung iphone 4 không hiểu sao khi dùng dây cáp để kết nối với máy tính thì điện thoại cứ hiện lên là “phụ kiện không hỗ trợ” và mình không thể nào kết nối được với máy tính. Cho hỏi có cách nào để khắc phục không....mong sớm nhận được câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.731663,
+         "id": "900772",
+         "field_search": "question",
+         "question": "Chào Ad? Cho e hỏi tango của e nó bị làm sao ấy? Người ta nhắn tin với gọi video là e nhận đc. Còn e trả lời thì người khác ko nhận đc. Xoá ứng dụng rồi cài lại vẫn như vậy. Đăng kí tài khoản khác thì nó kêu thiết bị của bạn đã bị chặn. Giờ làm sao mới xài lại đc ứng dụng tango hả ad..??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.698006,
+         "id": "997580",
+         "field_search": "question",
+         "question": "bạn ơi máy em không nhận được thông báo từ messenger mỗi khi bạn mình gửi tin nhân thì phải làm như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.475124,
+         "id": "761125",
+         "field_search": "question",
+         "question": "Ad ơi. Cách đây vài tháng khi người bạn ở hà nội gui cho mình bức hình bằng viber. Trong khi gửi có định vị. Và mình lấy tấm hình này chuyển tiếp  cho một bạn ở sài gòn. Người bạn ở sài gòn nhận được tấm hình này và bấm xem định vị và thấy tấm hình trên vẫn thấy định vị ở hà nội mặc dù mình ở đà nẵng chuyển tiếp hình của bạn đó thôi, nhưng giờ mình cũng làm như vậy nó không định vị chỗ cũ nữa, mà nó định vị lúc mình gửi. Không biết viber có bị lỗi j không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.40813,
+         "id": "1008531",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mình vào ứng dụng youtube thì nó hiện lên thế này và mình kiếm video nó cũng hiện lên như thế mong các bạn giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.24422,
+         "id": "831670",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua laptop ở cty bạn, được tặng windows 8.1 bản quyền, nhưng mà giờ mình vào 1 số ứng dụng của microsoft thì nó lại đòi mật khẩu như thế này. Mình nhập mật khẩu mở khóa máy tính thì không được. Bạn trả lời giùm mình nha, cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.210907,
+         "id": "1168289",
+         "field_search": "question",
+         "question": "Mình muốn kết bạn với người khác trên Facebook bằng số điện thoại. Chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.51855,
+         "id": "1138175",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi đt iphone 4s cũ nhưng vẫn còn sài bt. Nhưng hôm nay mình sau khi đặt goviet thì mình tắt màn hình và khi ng ta gọi đến nó sáng lên một cái r tắt đen luôn. Mình mở máy ko đc nhưng ngta gọi đến cho mình mấy lần mình đều nghe thấy chuông nhưng màn hình nó ko hiện lên cho mình nhận cuộc gọi. Dt của mình nó là bị hư nút home lâu lắm r nên mình thử giữ nút nguồn lâu thật lâu thì nó hiện lên màn hình giống như là bị reset vậy. Trong đt mình có lưu nhiều hình ảnh + ghi âm cho việc ôn thi lắm, mà tài khoản icould của mình đầy r nên mình ko có sao lưu lại. Vậy nên xin bạn hãy giúp mình với, mình rất cần số tài liệu đó😭😭😭 17:13",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.417713,
+         "id": "1162485",
+         "field_search": "question",
+         "question": "Mình xài oppo a3s khi mình gọi zalo mà để qua đêm vs bạn thì khoảng 3,4h  gì thì tự động ngắt kết nối bên mình ko thấy đc thông tin cuộc gọi dù đã bật rồi, trước đó mình xài samsung j2 pro gọi như thế vẫn bình thường, người đó cũng để thế ko có tắt cuộc gọi nhưng vẫn ngắt kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.223866,
+         "id": "892551",
+         "field_search": "question",
+         "question": "Hi chi mình hỏi thông tin viberSo dt: 0939455252 mình tại sao nhận duoc tin nhắn từ bạn bè, nhưng khi mình gửi lại tin nhắn được mà bên kia không nhìn thấy tin nhăn mình gửi, bạn có thể giúp mình không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.087357,
+         "id": "885685",
+         "field_search": "question",
+         "question": " cái zalo cua mình muốn kết bạn từ kết nối qua facebook ma không được máy báo danh sách trông ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.863012,
+         "id": "989925",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi sao không cập nhật lên iOS 10.2.1 được, cập nhật là cyws báo không có kết nối wifi trong khi đã kết nối rồi, iOS hiện tại là 9.3.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.827394,
+         "id": "823094",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao máy mình hồi sáng dùng rất ok. Nhưng từ khi chiều đến giờ lại ko vào được facebook còn những ứng dụng kia lại vào bình thường, messanger cũng bị lỗi ko vào được, mình đã tắt nguồn và cài lại cài đặt gốc nhưng ko hề được. Nó hiện lên như này khi mình đăng nhập vào facebook này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.67522,
+         "id": "816462",
+         "field_search": "question",
+         "question": "Ad cho em hỏi tí ạ: em đang dùng ios 7. không biết sao tin nhắn từ người lạ gửi đến e ko đọc được và ko gửi lại đươc. Kết bạn rồi cũng ko chat được, lên máy tính thì chat bình thường ạ. ad giúp e khắc phục lỗi này với ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.66504,
+         "id": "1136655",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi . Mình dùng cồn nướng mực để lau màn hình . Ko may mình đổ nhiều quá cồn nó tràn xuống lớp khe cạnh khung vs màn hình . Vậy bên bạn cho mình hỏi . Nếu bị như vậy thì khả năng chống nước của máy mình có việc j ko . Mìn đang sử dụng a8 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.591583,
+         "id": "996319",
+         "field_search": "question",
+         "question": "Laptop của em khi gọi video thì nó ko có hình ảnh... nhấn vào biểu tượng video thì nó hiện lên không tìm thấy máy ảnh của bạn.. kết nối với máy ảnh của bạn.. là sao vậy ạ mà e dùng những cái khác như chụp ảnh thì vẫn sử dụng webcam bình thường còn gọi video trên facebook thì ko dùng đc.. mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.4575,
+         "id": "1141518",
+         "field_search": "question",
+         "question": "Cùng trên zalo, nhưng không kết bạn thì người khác có đọc được nhật ký của mình không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.384682,
+         "id": "838576",
+         "field_search": "question",
+         "question": " Bạn ơi mình vào gmail rồi nhưng ko có thư gửi mã từ face book thì làm thế nào? Giúp mk vs ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.260025,
+         "id": "1135873",
+         "field_search": "question",
+         "question": "quyền riêng tư chặn kết bạn hết mọi thứ thứ mà người đó có lưu sdt của mình trong danh bạ của họ nên họ vẫn còn thấy nick của mình và kb với mình ? ?tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.136665,
+         "id": "828027",
+         "field_search": "question",
+         "question": "Cả nhà ơi cho mình hỏi, mình gửi tin nhắn cho bạn mình trên zalo mà bạn ấy chưa đọc, chỉ mới có thông báo đã gửi thôi. Vì trước khi mình gửi tin nhắn đó, bạn ấy ít dùng zalo nên bạn ấy xoá zalo đi. Tận 3 tháng sau mới tải lại thì tin nhắn mình gửi liệu bạn ấy có nhận được không cả nhà?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.998352,
+         "id": "1140427",
+         "field_search": "question",
+         "question": "Cách xóa bạn ảo trên facebook ạ. Trước đây tài khoản mình kết bạn nhiều. Do ít tương tác nên mình xóa bớt hàng loạt bạn. Giờ mình chỉ còn ban bè là những người quen  nhưng danh sách bạn bè báo hơn 800 bạn . Làm sso doạn sạch những bạn bè bị ẩn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.99342,
+         "id": "1143395",
+         "field_search": "question",
+         "question": "Chào bạn, mình quên mật khẩu Icloud, mail đăng kí cũng là mail Icloud. Ngày sinh mình nhớ mà nó bảo ko đúng. Còn cách nào khác để mở khoá máy không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.987719,
+         "id": "1152223",
+         "field_search": "question",
+         "question": "Mình mua máy mới và máy cũ mình cho người khác khi có người gởi tin nhắn zalo cho mình thì máy cũ vẫn nhận đc tin nhắn người gởi bạn giúp mình phải làm sao để máy cũ ko nhận được tin nhắn nữa. Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.979883,
+         "id": "931099",
+         "field_search": "question",
+         "question": "iphone mình bị quên mật khẩu mở khoá, tài khoản icloud vaof được mà ko kết nối 3g và wifi nên ko restore được. bạn giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.961746,
+         "id": "1145535",
+         "field_search": "question",
+         "question": "Mình có con xaomi noet 4 mà cứ mở mạng lên máy báo dòng chữ nhỏ ở dưới ( tìm kiếm thiết bị lưu trữ hư hỏng. Thiệt bị của bạn hiện ko an toàn) mình kiểm tra rồi ko thấy gì cả.. Mong ad giải đáp giúp mình . mình cảm on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.880579,
+         "id": "771218",
+         "field_search": "question",
+         "question": " Mình cài iOS 9.2 mà nó cứ như thế này, bạn có thể giúp mình không? Cám ơn bạn!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.851011,
+         "id": "807182",
+         "field_search": "question",
+         "question": "Chào admin mmình vừa bị mất iphone 4 cho hỏi admin là mình tìm = cách lên find mà nó hiện ra như này :Tất cả các thiết bị ngoại tuyếnKhông thể hiện thị vị trí vì tất cả của bạn đều đang ngoại tuyếnad coi dùm nó sao bị thế này. định gửi ảnh mà bảo 1MB nên không gửi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.781744,
+         "id": "785259",
+         "field_search": "question",
+         "question": " cho mình hỏi là bạn có nhận ha từ IOS 9.2 xuống IOS 9.0.2 không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.62078,
+         "id": "986301",
+         "field_search": "question",
+         "question": "Cho e hỏi là fb trên ip của e sao chỗ này nó không có phần messenger với lời mời kb ạ? Liệu đây có phải là bản mới nhất của fb k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.549852,
+         "id": "743562",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang dùng iPhone 5. Vừa qua mình lên bản iOS 9.1 giờ mình muốn xuống bản 9.0.2. Không biết bên bạn có hỗ trợ điều này không ạ ???Mong nhận được sự hồi đáp rõ ràng từ các bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.503756,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.500486,
+         "id": "1155815",
+         "field_search": "question",
+         "question": "Hi!Cho e hỏi face book của em bị yêu cầu xác nhận danh tính, khi e bấm vô thì nó ra màn hình  vui lòng phê duyệt đăng nhập này trên điện thoại hoặc máy tính bạn đã sử dụng trước đó nhưng khi cọn thì báo ko đc, em sd nhận trợ giúp từ bạn bè và nhập đúng mã bạn gửi lại vẫn báo sai,vui lòng hỗ trợ e với ạ, e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.383108,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.343182,
+         "id": "792862",
+         "field_search": "question",
+         "question": "Mình đang sử dụng con iPhone 5s. Khi soạn tin nhắn ví dụ mình soạn là abcd. Mình muốn xoá chữ b chỉ để lai acd nhưng khi mình chạm vào thi con trỏ ko xuất hiện ở giữa ngay chữ b ma chỉ xuất hiện ở đầu chữ a hoặc cuối chữ d thôi. Ko lẽ mỗi lần như vậy mình phải xoá từ chữ d ngược lại mới có thể sữa được. Xin lỗi vì câu hỏi hơi khó hiểu. Mong bạn hướng dẫn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.332182,
+         "id": "772909",
+         "field_search": "question",
+         "question": "Mình có mua sản phẩm iphone4s của cửa hàng. Tại một phần mình chưa dùng iphone bao giờ. Nhưng mình cảm thấy iphone hết pin rất nhanh. Mình dùng từ sáng đến tối là đã gần hết pin rồi(không phải là sử dụng liên tục bạn nhé). Còn sạc thì lên cũng nhanh. Mình cắm củ sạc thì chắc khoảng 1h30 là đươc 90% rồi. Vậy cho mình hỏi iphone của mình có bị chai pin hay hỏng gì không bạn. Mong bạn trả lời giúp mình. Cám ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.327978,
+         "id": "1161550",
+         "field_search": "question",
+         "question": "Khi đã chặn bạn bè xem nhật kí trên zalo, thì khi mình đổi ảnh đại diện thì người bị chặn có biết không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.323553,
+         "id": "1163685",
+         "field_search": "question",
+         "question": "Không thể gửi yêu cầu kết bạn . Danh sách yêu cầu của bạn đã bị đầy.31  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.224043,
+         "id": "1160744",
+         "field_search": "question",
+         "question": "Mình không kết bạn với một người trên zalo và cũng không lưu số điện thoại của người đó. Nhưng trên nhật ký lại hiện hình ảnh của họ đăng. Cho mình hỏi tai sao như vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.220972,
+         "id": "1161592",
+         "field_search": "question",
+         "question": " Mình muốn ktra dung lươngj tối đa của pin mà n hiện ntn nghĩa là sao vs bạn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.160496,
+         "id": "1156629",
+         "field_search": "question",
+         "question": "tại sao em gửi lời kb mà nó hiện vậy, ad có cách khắc phục nào ko ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.158785,
+         "id": "1002651",
+         "field_search": "question",
+         "question": " Bạn ơi cho mình hỏi tại sao mình đăng nhập hết rồi mà đến lúc cuối mã xác minh lại bị thế nà.trả lời giúp mìh  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.11728,
+         "id": "1136974",
+         "field_search": "question",
+         "question": " Tại sao oppo f1s không có phần mời bạn bè live cùng trên fb  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.041792,
+         "id": "1148560",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi điện thoại Nokia 8.1 có thể kết nối với tivi qua mirracast không vậy .cant ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.031328,
+         "id": "1157514",
+         "field_search": "question",
+         "question": "Mình mới mua Samsung A50 từ tgdd nhưng khi mình dùng bị lỗi như sau.Cảm biến vân tay rất khó nhận. Mở 10 lần may ra đc 1 lần và rất lấu.Thứ 2 là điện thoại không kết nối được wiffi từ cục phát wiffi. ( cái j7 pro kết nối bt, cái a50 này ko thế kết nối)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.928068,
+         "id": "1168057",
+         "field_search": "question",
+         "question": "Chào bạn. cho mình hỏi dòng realme 2 bên mình còn màu xanh ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.862175,
+         "id": "776514",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5s mình kết nối Sẩi bằng 3G thì máy báo là iphone của bạn khong kết nối được Internet, nhưng kết nối bằng wifi là Ok. Khi kết nối 3G thì lên face, YouTube, đọc báo là Ok.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.856861,
+         "id": "1010353",
+         "field_search": "question",
+         "question": "Cho mình hỏi ạMình xài ip6s+ tự nhiên hnay không gửi tn sms dc, máy cứ báo có lỗi nhưng mình thử lại nhiều lần vẫn vậy. Mình đã tắt nguồn bật lại nhưng vẫn vậy. Mình gửi sms cho bạn mình và bạn mình hoàn toàn ko xài ip nên không có chuyện tại imess dc ạ. Mong nhận dc câu trl sớm từ TGDĐ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.823608,
+         "id": "1004632",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi mình mua laptop tại cửa hàng thế giới đi động. Khi bạn nhân viên cài máy, mình có hỏi là phần mềm Office 2010 có bản quyền ko? thì bạn nv nói là có. Mà h mình thấy máy báo là phần mềm ko có bản quyền.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.820923,
+         "id": "1006652",
+         "field_search": "question",
+         "question": "Tgdd cho mình hỏi gần đây đthoai mình khi gọi xong thường hiện dòng chữ 'Configure to show balance' như trong hình. Có cách nào để ko hiện cái này nữa ko?Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.778934,
+         "id": "1163571",
+         "field_search": "question",
+         "question": "bên bạn còn bán dòng nokia 1280 ko bạn ? bán ở đâu ? mình cần mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.712326,
+         "id": "749548",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi: Mình mua 1 ipad ( ipad mini 2 retina) đã qua sử dụng, người ta nói máy mới 99% (bị trầy 1 vết nhỏ trên màn hình), nhìn vào phần cài đặt thì ko có Tài khoản icloud nào cả, người ta cũng bảo là ko có TK icloud ẩn, mình hỏi reset lại máy dc ko , họ bảo cho reset máy thoải mái ko vấn đề gì, nhưng họ cũng bảo là resest máy rất mất thời gian nên mình ko reset máy nữa. Sau đó họ tạo ID apple và tài khoản icloud cho mình và đăng nhập trên ipad mini 2 retina đó, và mỗi lần mình có tải gì về hay có hành động gì , mình nhập pass icloud cũng đúng như họ đã tạo, mình cũng có có thư thông báo của apple vào gmail về mọi thứ, ví dụ như :\" ID Apple của bạn, ...... , vừa được sử dụng để tải Viber về từ App Store trên một máy tính hoặc thiết bị chưa từng được liên kết với ID Apple này của bạn. Bạn cũng có thể nhận email này nếu bạn cài đặt lại mật khẩu của mình từ lần mua hàng vừa qua.\"Cho mình hỏi : \"máy ipad chưa từng được liên kết với ID Apple này\" là sao ? Có phải máy Ipad này đã liên kết với 1 Tài khoản nào khác mà mình không biết không ?Và mình vừa phát hiện có 1 kiểu check icloud trên trang web máy tính, mình điền số imei của ipad mini 2 retina vào, nhập mã code như hình và enter thì ra kết quả : \"Kích hoạt khóa : On ( Mở)\" , Vậy có nghĩa là thế nào hả Admin ? bình thường là nó OFF mà !!Mình nghĩ Máy ipad của mình có nick icloud ẩn của chủ cũ và họ đã kích hoạt khóa, và đây là hàng ăn trộm đúng ko ? theo trường hợp này, nếu mình Nhấn reset máy thì máy sẽ hiện cái gì, ( máy đã JB), máy sẽ hỏi TK icloud cũ hay mình vẫn nhập cái Tk icloud của mình vẫn được.Trường hợp 2 : Không có gì lừa đảo ở đây cả, có phải mình tự tạo TK icloud và ID apple thì nó tự động kích hoạt khóa rồi ko ? ko phải là ai khác kích hoạt khóa , đó là do tk của chính mình hết đúng ko ?Mình không mua hàng ở TGDĐ nhưng có thể tư vấn cho mình được không ? Mình phải hỏi nhiều nơi khác trước khi mình hỏi chỗ mình mua , vì nếu họ lừa đảo thì họ vẫn giải thích sai cho mình. Bạn thông cảm cho mình nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.668198,
+         "id": "1158751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình sài s6 android 7.0 mà nay coppy danh bạ từ máy sang sim để đưa vào 1 máy window phone khác ko đc, chỉ có 2 mục \"nhập file vcar từ bộ nhớ thiết bị\" và \"xuất danh bạ từ danh bạ trên thiết bị của bạn sang bộ nhớ thiết bị vcar\", đã thử 2 mục này và vẫn ko có chỗ nào để nhập vào sim. Toàn lưu vào đt hoặc mail. Mong add trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1142569",
+   "total": 27990,
+   "total_current": 100,
+   "max_score": 67.091576,
+   "origin_question": "Lúc trc mình có mua máy và a kĩ thuật lẻ đó nhập iCloud g...",
+   "hits": [
+      {
+         "score": 21.271452,
+         "id": "1018786",
+         "field_search": "question",
+         "question": "phần mềm từ điểm trên máy tính do bộ phận kĩ thuật cài đặt lúc mới mua có tên là gì và nằm ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.021038,
+         "id": "1018784",
+         "field_search": "question",
+         "question": "phần mềm từ điển trong máy tính do bộ phận kĩ thuật cài đặt lúc mới mua nằm ở đâu và tên là gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.589127,
+         "id": "736968",
+         "field_search": "question",
+         "question": "Mình đã lập tai khoản icloud mới đã cài và tải được ứng dụng về nhưng khi có thông báo cập nhật bản mới nhât,lúc cập nhật máy lại báo nhập pas cua tai khoản icloud cũ chước đó, trong khi đó ứng dụng đó mình đã cài và tải bằng tải khoản icloud của mình lập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.221428,
+         "id": "785695",
+         "field_search": "question",
+         "question": "Cho tôi hỏi 5s của tôi nhiều lúc bị loạn cảm ứng, tôi mua không mua máy ở TGDĐ vậy tôi mang máy đến nhân viên kĩ thuật sửa được không ạ (tôi có trả tiền sữa chữa)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.011267,
+         "id": "776417",
+         "field_search": "question",
+         "question": "Cho mình hỏi về icloud. Lúc trước khi mua ip4 mình mượn ID icloud của người bạn sau đó mới tạo ID cho mình dùng sau. Hiện nay mình đổi sang ip5, và muốn khôi phục dữ liệu từ dt cũ qua đt mới bằng icloud, nhưng tại sao trong quá trình reset lại máy ip5 thì máy yêu cầu nhập id và pass của người bạn mình vậy ạh ???? Mình đã nhập chính xác, nhưng ko biết việc đó có ảnh hưởng gì dữ liệu của máy mình sang máy bạn mình ko ??? Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.929296,
+         "id": "838082",
+         "field_search": "question",
+         "question": "Iphone 6 em mua ở TGDD được hơn 1 tháng nay nó xuất hiện 1 điểm chết màu đò... Đây có phải lỗi kĩ thuật và được đổi máy mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.389458,
+         "id": "896991",
+         "field_search": "question",
+         "question": "Cho em hỏi Bộ phận kĩ thuật bên công ty mình có hỗ trợ reset lại máy tính windows không ạ? Máy em đang bị lỗi mà muốn reset lại thì em lại không biết phải cài đặt như thế nào a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.388727,
+         "id": "795000",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em đăng xuất tài khoản iCloud ra thì bị xoá hết ảnh và dữ liệu trg máy.vậy lúc đăng nhập lại tài khoản iCloud đó thì có khôi phục được ảnh và dữ liệu trong máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.157377,
+         "id": "1158337",
+         "field_search": "question",
+         "question": "mình có mua lại 1ip 7 và có tại icloud của mình roi.  nhưng khi mình vào của hàng để cập nhật các ứng dụng thì nó lại đưa ra một icloud khác và nhập mật khẩu nhưng mình o biết icloud đó.  nên o nhập được mật khẩu.  vậy ad có thể giúp mình o ạ.  cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.107782,
+         "id": "766389",
+         "field_search": "question",
+         "question": "cho mình hỏi khi ứng dụng cùa iphone của khách hàng sao lưu với itunes của nhân viên kĩ thuật mà không có ứng dụng đó thì sao trên ip lại không bị mất ứng dụng đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.023647,
+         "id": "1161916",
+         "field_search": "question",
+         "question": "Nếu tôi mất hoá đơn giao hàng mà điện thoại tôi bị lỗi kĩ thuật bên trong đt mới mua thì có đổi đc máy khác ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9567,
+         "id": "1135057",
+         "field_search": "question",
+         "question": "mình vừa mua máy mới .và đăng nhập icloud lại trên máy mới thì k có hình ảnh . và trên iphone báo dung lượng icloud đầy .mong ad chỉ mình cách khắc phục !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.87107,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.795675,
+         "id": "1139373",
+         "field_search": "question",
+         "question": "Con nokia 2 của e e reset rùi nó vẫn bắt nhập lại tài khoản google trc đó nhưng e quên mất a chị có cách khác phục tình trạng này ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.764708,
+         "id": "899012",
+         "field_search": "question",
+         "question": "chào ad,vì một số lí do,bên đội ngũ kĩ thuật viên nhà mình có thể xem và kiểm tra ip5s và phân biieejt hàng chính hãng vs hàng dựng dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.673782,
+         "id": "792918",
+         "field_search": "question",
+         "question": "Em mất mật khẩu giới hạn nhưng vẩn còn nhớ tài khoản và mật khẩu icloud vậy em đem đt ra tgdd nhờ nhân viên kĩ thuật lấy lại giúp e được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.637431,
+         "id": "1151310",
+         "field_search": "question",
+         "question": "Mình có mua mộy cái điện thoại Huawei Y7 Pro, mình sài được khoảng 10 ngỳ thì máy có lỗi kĩ thuật về phần loa, mình đã đổi máy mới được 4 ngày, nhưng máy bị trình trạng giống như máy trước. Giờ mình phải lm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.550016,
+         "id": "808954",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi, mình vừa sửa lại password của icloud trên email rồi nhưng khi quay trở lại icloud nhập mật mã thì máy hiển thị thông báo nhập mã sai, lúc này máy cử hiện thị thông báo icloud báo phải nhập mật mã hoài, mà mình đã sửa mật mã ok rùi và đăng nhập lại vẫn không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.472631,
+         "id": "887028",
+         "field_search": "question",
+         "question": "Vâng cho em hỏi em mới mua em lap asus a556uf i5 6200u, e có nhờ mấy a kĩ thuật cài đặt lại phần ngôn ngữ máy cho e mà hình như mấy a í quên, bây giờ làm sao để e cài dặt thành tiếng việt đc ạ. và cho em hỏi sao e lên apps tải zalo về k đc ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.444725,
+         "id": "1133303",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mi8 life mới mua có cần thực hiện 3 lần sạc đầy đầu tiên hay không, nếu có thì xạc như thế nào để đúng kĩ thuật.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4166765,
+         "id": "995863",
+         "field_search": "question",
+         "question": "lỗi này là bị sao vậy ạ e đăg nhập vào icloud mãi mà nó toàn bị như vậy chán chẳg muốn dùg ip nữa nên gửi hỗ trợ nhờ các anh chị bên kĩ thuật của shop thegioididong giúp đỡ với ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.183483,
+         "id": "1021347",
+         "field_search": "question",
+         "question": "dạ máy tính e bị trục trặc vấn đề kĩ thuật và cấu hình máy e đã mua máy này tại chi nhánh thế giới di động và đã dc bảo hành hiện vẫn còn thời hạn vậy nếu e muốn sửa lại máy thì có cần trả phí ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.046441,
+         "id": "1153217",
+         "field_search": "question",
+         "question": "mình có 1 cái ip có đăng nhập icloud nhưng ko nhớ mật khẩu mở khoá ip, sau đó mình đùng icloud của ip đó đăng nhập vào ip khác thì không thấy thông tin dữ liệu từ ip cũ vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.911115,
+         "id": "829424",
+         "field_search": "question",
+         "question": "tôi lúc trước có mua laptop asus bên phía cửa hàng và giờ máy tính của tôi phần touchpad lúc mua thì còn xài được nhưng sau vài tháng thì bỗng dưng không thể sử dụng được tiếp .Không biết phải làm sao để sửa lại lỗi mong nhờ nhân viên kĩ thuật có thể trả lời giúp vì hiện tại tôi chưa có thời gian ra cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.908677,
+         "id": "823932",
+         "field_search": "question",
+         "question": " Lỗi này sao ạ...dã đăng kí gói 3g tốc độ cao..lúc trc bị dích icloud và đi thay IC không bt có ảnh hưởng gì k ạ??  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.893313,
+         "id": "1137921",
+         "field_search": "question",
+         "question": "Mình quên mất mật khẩu giới hạn trên iphone không restore được bên kĩ thuật có hỗ trợ trường hợp này không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.874611,
+         "id": "1144427",
+         "field_search": "question",
+         "question": "Lúc trước mình xoá icloud trên PC và hiện tại icloud đó đã không còn trên máy chủ Apple nhưng còn dính vào điện thoại mình và đánh mật khẩu thì ko thể xác minh thì bây giờ mình phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.859237,
+         "id": "744391",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính bên mình bán, trong thông số kĩ thuật có ghi hệ điều hành là win 8.1 tức là máy đã cài win bản quyền rồi, em không cần mua bản quyền win nữa hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.846078,
+         "id": "1154160",
+         "field_search": "question",
+         "question": "Bộ phận kỹ thuật làm ơn chỉ giúp mình xoá bộ nhớ trên safari trên đt iphone với ạ. Đt có 16g mà nó nguốn nhiều g quá. Mình đã vào xoá dữ liệu và lịch sử của safari rồi mà bó nó vẫn lù lù ở đó. Giúp mình nhé, mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.818796,
+         "id": "1016826",
+         "field_search": "question",
+         "question": "mình đang sử dụng con iphone 5s nhưng vừa rồi restore nên bị bắt đăng nhập tài khoản icloud nhưng mình quên cả ID và pass. bên kỹ thuật hỗ trợ giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.79709,
+         "id": "889216",
+         "field_search": "question",
+         "question": "Mình muốn nang cấp phần mềm iOS 10 nhưng chỉ sợ là lúc nâng cấp xong thì kêu phải đăng nhập bằng tài khoản , lúc trước mình cung có và làm do quên nên máy trở thành cục sắt luôn , h mình muốn nang cấp mà lại quen mk iCloud , nó cứ hiện lên là đăng nhập tài khoản iCloud , một máy mà mìn sử dụng tài khoản iCloud , và id Apple , ko biết có thể nang cấp phần mềm đc ko , nâng cấp thì mình chỉ cần tài khoản id hay iCloud vậy , mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.776688,
+         "id": "1136996",
+         "field_search": "question",
+         "question": "Mình đang sử dụng một tài khoản icloud và id apple trên 2 thiết bị iPhone và iPad, người mình muốn xoá và thoát tk icloud trên iPad thì tk trên iPhone có bị xoá không, nếu sau này mình lấy tk icloud này đăng nhập lại trên iPad đó có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.770842,
+         "id": "1023039",
+         "field_search": "question",
+         "question": "mình thấy ở lạc long quân  848 có hàng, mình ra đó mua trực tiếp thì có hủy đơn hàng mình mua onl trc đó không vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.732957,
+         "id": "814795",
+         "field_search": "question",
+         "question": "cho em hỏi là lúc đầu e mua ip4s a nhờ tải mấy ứng dụng tại dùng tài khoản ở đó sau lúc a đăng xuất đăng nhập tài khoản của mình 1 thời gian e vào phần cập nhập lỡ tay ấn mật khẩu không đúng nên ứng dụng đo hiển thị đang chờ k xoá đi đc mà ứng dụng đó là tài khoản khác vậy nếu e chạy lại phần mềm có mất đi và trở lại ban đầu không. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.661409,
+         "id": "864304",
+         "field_search": "question",
+         "question": " Thay mặt kính màn hình iphone 4 giá bao nhiêu vậy nhân viên kĩ thuật ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.658884,
+         "id": "995549",
+         "field_search": "question",
+         "question": "tgdđ mình có mua lại máy hư ko vậy,máy bị hư sửa 1tr8 lận ạ,h muốn mua lại máy j2 prime thì có mua lại máy hư lúc trc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.65078,
+         "id": "800022",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. lúc mình mua máy về có sử dụng tài khoản icloud của đứa bạn. sau đó mình đã sử dụng tài khoản icloud của mình. mình kiểm tra các thứ vẫn là tài khoản của mình nhưng khi mình cập nhật ứng dụng trong app store thì có phần itunes store bắt nhập mật khẩu cho id appel và khi đó nó hiện lên tài khoản của bạn mình.cho hỏi bây giwof mình phải làm thế nào để đăng xuất vĩnh viễn cái tài khoản của bạn mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.585783,
+         "id": "1130966",
+         "field_search": "question",
+         "question": "Ad ơi, mình quên mật khẩu giới hạn thì ra TGDD kỹ thuật ở đó có cách nào để mình đặt lại được mật khẩu không. thanks a lot.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.550244,
+         "id": "899571",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có dùng TK icloud của người khác đăng nhập vào máy mình, thì lúc đó iPhone báo là Merge hoặc Dont Merge Safari data & Danh bạ, mình không nhớ là mình bấm Merge hay không Merge nữa, mà mình check lại phone người đó với TK icloud đó thì không thấy có bất kì thứ gì từ máy mình chuyển qua. Giờ mình đăng nhập lại TK của mình rồi. Vậy cho mình hỏi mình thoát ra khỏi icloud của người kia thì dữ liệu bên máy mình hoàn toàn được bảo về và hết chia sẻ qua máy có đăng nhập TK icloud đó phải không?Và nữa là nếu mình lỡ bấm Merge rồi, thì những dữ liệu gì sẽ truyền qua TK icloud kia? Nếu vậy Safari date, danh bạ,... Các kiểu thì phải xoá ra sao?Xin cảm on rất nhiều! Mong sớm nhận được câu trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.548835,
+         "id": "768278",
+         "field_search": "question",
+         "question": "Máy iphone của e bị mất và có icloud của em trên đấy 3 phút trước em đã lên trang icloud.com để khóa máy và lúc vào chế độ mất, nó có kêu em nhập mật khẩu 6 chữ số để khóa máy 1 phút trước e nhập là 123456 , mật khẩu quá đơn giản nên người lấy máy em đã nhập và vào dc iphone 1 phút trước nhưng icloud thì vẫn còn vì người đó không có mật khẩu icloud 26 giây trước vậy, anh cho em hỏi: em có thể đổi mật khẩu khóa máy (123456) thành mật khẩu khác trên máy tính không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.533,
+         "id": "793380",
+         "field_search": "question",
+         "question": "Mình mua lại iPhone cũ của người khác, nhưng hiện đã đăng nhập iCloud và Apple ID của mình rồi. Giờ chủ cũ của máy không nhớ mật khẩu giới hạn thì mình có cách nào để gỡ bỏ cái mật khẩu đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.522886,
+         "id": "1004864",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi rằng:- lúc trước mình dùng ip 4s và có đăng nhập icloud trong máy đó.. giờ mình chuyển sang dùng 6 plus nên mình đã đăng xuất icloud ở ip4s chuyển Tk sang ip6 plus và em mình dùng ip4s đó tạo tài khoản khác để dùng rồiNhưng không hiểu sao khi mình lưu hay xóa số điện thoại danh bạ của 2 máy ý hệt nhau. Kiểu như lưu hay xóa số máy này thì máy kia tự động làm y hệt vậy..Có cách khắc phục không ạ. mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.445091,
+         "id": "901702",
+         "field_search": "question",
+         "question": "Bạn ơi giúp mình với.Mình mới mua laptop Lenovo yoga 11 inch tại cửa hàng mình. Tuy nhiên khi về kiểm tra máy thì mới phát hiện máy không có ổ D, E. Dù mình có được các bạn kĩ thuật viên lưu ý trc về khả năng lưu trữ của máy, tuy nhiên mình không biết máy lại không có 2 ổ này. Các bạn có thể cho mình biết đây có phải đặc điểm của những máy laptop nhỏ k, hay do lỗi cài đặt? Và nếu do máy, mình cần phải lưu trữ dữ liệu như thế nào?Cảm ơn các bạn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.416868,
+         "id": "1010782",
+         "field_search": "question",
+         "question": "Máy tính e đã hết hạn bảo hành, giờ bị liệt 1 số phím. Cho e hỏi là bên mình có hỗ trợ kiểm tra và chuyển lên hãng giúp k ạ. Lúc trc mua máy tại tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.311377,
+         "id": "1022035",
+         "field_search": "question",
+         "question": "cho tôi hỏi TGDĐ huyện giồng trôm về thông số kĩ thuật và giá tiền của sản phẩm mobiistar lai zum s lite 2017",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.301292,
+         "id": "763258",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone  5s tại TGDĐ, tại sao nút tăng giảm âm lượng của 5s lại có độ rơ so với 4 và 4s (4 va 4s ko sụt sịt),NV kĩ thuật nói 5s phiên bản quốc tế là như vậy, cho mình hỏi có phải như vậy không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.285016,
+         "id": "896018",
+         "field_search": "question",
+         "question": "E mua 1 iphone cũ đt đó dính icloud và e đã xoá và nhập icloud của e nhưng trong cuộc gọi e không gọi nhưng hiển thị những số đt lạ là sau ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.27978,
+         "id": "771118",
+         "field_search": "question",
+         "question": " chào bạn.cho mình hỏi mình bị mất máy iphonegiờ mình lấy máy khác nhập icloud vô và lấy lại danh bạ có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.271176,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.189224,
+         "id": "1164489",
+         "field_search": "question",
+         "question": "Add cho mình hỏi ạ: Mình dùng 2 ip chung 1 icloud nhưng anr và danh bạ 2 máy khác nhau nhưng khi vk mình mua ip khác thì khi nhập vào icloud ko thấy có ảnh và danh bạ ở máy cũ của vk mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.168817,
+         "id": "1117960",
+         "field_search": "question",
+         "question": " intelR UHD graphics 620có học được các ngành kĩ thuật với xử lí đồ họa không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.135416,
+         "id": "830086",
+         "field_search": "question",
+         "question": "nếu mình đăng nhập song song tk zalo cùng 1 lúc trên máy tính và đt thì khi có tin nhắn báo đến mình xoá trên đt đi thì máy tính có còn lưu tin đó nữa k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.047573,
+         "id": "817239",
+         "field_search": "question",
+         "question": "Iphone 6s của mình lúc trước mình cho bạn mượn đăng nhập icloud, và facebook, mình đã thoát icloud của người đó và đăng nhập icloud của mình rồi, facebook cũng là facebook của mình, nhưng khi mình tải các ứng dụng mang tính quốc tế như viber, intagram thì khi mình chọn kết nối facebook thì máy lại kết nối với facebook của bạn mình chứ không phải facebook của mình. Giờ mình làm thế nào để xoá cái facebook kia đi để khi kết nối với các ứng dụng khác thì liên kết với facebook của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.978473,
+         "id": "742925",
+         "field_search": "question",
+         "question": "Em có 1 máy iPhone 4, máy em bị hỏng và đem ra tiệm thì họ bảo lỗi phần mềm, phải chạy lại máy, khi đó điện thoại em đang dùng iCloud là  P****@iCloud.com nhưng khi em ra lấy máy thì họ bảo e nhập icloud bắt đầu bằng chữ \"c\" là c*****@icCoud.comEm có thể reset máy và nhập iCloud của e không? Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.925098,
+         "id": "1164040",
+         "field_search": "question",
+         "question": "Kĩ thuật viên cho em hỏi .   Em dùng Galaxy A6 từ khi máy cập nhật androi 9.0 xong . Từ khi đo sạc máy sao nóng ghe vậy .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.837919,
+         "id": "766831",
+         "field_search": "question",
+         "question": " Em có thể qua thế giới di đông để có thể nhờ nhân viên kĩ thuật tạo tài khoản ID Apple được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.771711,
+         "id": "831738",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu icloud của máy iPad air 2, mình có thể nhập sai tối đa bao nhiêu lần? Và sau bao nhiêu thời gian mình có thể nhập lại? Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.765564,
+         "id": "1018790",
+         "field_search": "question",
+         "question": "Chào anh/chị , cách đây 2 hôm e có mua 1 Nokia 5 màu xanh dương ở chi nhánh Nguyễn Thị Định Quận 2 , khi đó e ghé nhà người thân chơi và mua luôn . Khi đó mình đợi dán màn hình cả 2 mặt rất lâu và khi dán xong máy có vài vết dán mặt sau ko đẹp cho lắm hay muốn nói là mất thẩm mĩ , a hỗ trợ kĩ thuật bảo rằng đấy là do chưa sử dụng , khi máy nóng sẽ tự tan keo và hiện tại cho đến bây h máy vẫn vậy và rất mất thẩm mĩ , phần này mình nhớ có được bảo hành 3 tháng thì phải . Vậy kết cho mình hỏi ở Gò Vấp -Bình Thạnh mình có thể đi dán lại mà ko tốn phí ko ? hệ thống có bảo hành việc trên ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.76395,
+         "id": "1006436",
+         "field_search": "question",
+         "question": "Mình muốn thanh lý hợp đồng trc thời hạn được ko a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.712677,
+         "id": "815851",
+         "field_search": "question",
+         "question": "Lúc trc trên FB TGDD có tải lên 1 link đổi nhạc từ video youtube sang mp3, bây h ad có thể cho mình xin lại link đó đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.68506,
+         "id": "1022412",
+         "field_search": "question",
+         "question": "Cho mình hỏi, trong phần số bị chặn ở facetime của mình có rất nhiều số lạ nhưng máy mình mua là máy mới. Mình nghĩ là:1- Khi bạn mình đăng nhập tài khoản icloud của nó vào máy mình, nên những số bị chặn còn lưu lại ( mặc dù đã log in icloud của mình lại rồi)2- Máy mình mua không phải là máy mới ( nhưng lúc mua mình chính tay mở hộp và active máy) 😩Vậy xin cho mình hỏi, khả năng nào là lớn nhất ạ. Hic hoang mang quá!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.5578375,
+         "id": "872287",
+         "field_search": "question",
+         "question": "chào a/c tgdd, mình mới mua iphone nhưng do gà mờ không biết máy có icloud ẩn hay không a/c có thể hướng dẫn giúp e dc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.557327,
+         "id": "760664",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính em khộng bắt được wifi. không biết bị lỗi hay kiểu gì nữa. anh chị trong kĩ thuật biết không giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.529642,
+         "id": "1165986",
+         "field_search": "question",
+         "question": "Mình có một thắc mắc. Mình thấy Zalo của gấu cứ ngày nào cũng hoặc Mới truy cập hoặc Truy cập vài phút trước đó cho đến khoảng trên dưới 2 g sáng. Bắt đầu từ khoảng 2 g sáng trở đi thì Zalo của gấu lúc đó mới hiển thị Truy cập 1 giờ trước, 2 giờ trước, 3 giờ trước, v.v… Có lúc mình giả vờ nói với gấu rằng mình thấy gấu hay thức đêm, nhưng không cho gấu biết rằng mình theo dõi Zalo của gấu thì gấu trả lời là gấu hay để nhạc Facebook lúc ngủ đến khi giật mình thấy trễ thì tắt. Không lẽ gấu đêm nào cũng giật mình thức dậy lúc tầm 2 g sáng. Có phải khi Zalo hiển thị mới truy cập hay truy cập trước đó vài phút có nghĩa là gấu đang hoặc mới nói chuyện, nhắn tin?  Mình nên làm gì bây giờ? Cám ơn QTV.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.507728,
+         "id": "1020631",
+         "field_search": "question",
+         "question": "Hi adLúc trc mình từng mua đt bên cửa hàng và đc mua 1 sim khuyến mãi mạng mobi gia hạn sử dụng 50k mỗi tháng đợt vừa rồi mình quên nạp card để gia hạn tự động, nhưng quên cú pháp đăng lại ad gửi lại giúp minh với, sđt lúc trc mua máy mình đăng ký là 0974870910",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.500629,
+         "id": "815917",
+         "field_search": "question",
+         "question": "Em có iphone 4s lúc đầu em mới mua máy tại cửa hàng em nhớ bên cửa hàng tải cho em 1 số ứng dụng bằng tải khoản của họ, em dùng 1 tuần sau a thấy appstore hiện cập nhập bản mới mới lại em dùng tài khoản của mình rồi nên lúc cập nhập a vô tình ấn sai nên cái ứng dụng đó hiển thị đang chờ mãi không xoá đi được liệu em chạy lại phần mềm có mất đi được không ạ, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.459817,
+         "id": "737482",
+         "field_search": "question",
+         "question": "Em quên mật khẩu iCloiud của 4s nhưng máy vẫn nhập icloud em quên mật khẩu. Sau đó máy em bị vô hiệu hoá . Anh cho em hỏi em đã thay đổi lại mật khẩu icloud đó bằng mật khẩu mới . Vậy khi em chạy lại phần mềm thì máy bắt buộc nhập mật khẩu icloud thì em có nhập được mật khẩu mới để mở máy hay không. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.404291,
+         "id": "914168",
+         "field_search": "question",
+         "question": "dạ em có dung chung tk icloud e có cập nhật phần mêm iphone 4s sau đó khi tắt máy bật lên thì máy có mật khẩu màn hinh mà trc đó e k đặt mật khẩu e k bit tại sao mong ad và mọi người giúp đỡ giải thích cho e và cho e cách giải quyết ạ em xin cảm ơn ad và mọi người :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.312529,
+         "id": "750831",
+         "field_search": "question",
+         "question": "Mình mua máy lại của một người bạn vẫn dùng tài khoản icloud cũ nhưng bây giờ mày tự nhiên bất nhập mật khẩu icloud, mình đã nhập nhưng không được giờ không biết làm thế nào có ai giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.2409525,
+         "id": "808429",
+         "field_search": "question",
+         "question": "Nếu như mình đăng 1 tấm ảnh chup bang đt lên icloud và down tấm ảnh đó về máy tính, sau đó lấy tấm ảnh lưu trên máy tính đó đăng vào tài khoảng icloud khác thì chất lượng hình ảnh có giảm xuống không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.217667,
+         "id": "931231",
+         "field_search": "question",
+         "question": " Nit icloud bị khóa do nhập trên wes nhìu lần thì co thể đăng nhập vô máy bị activate lock để vô dao diện đc ko a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.203151,
+         "id": "1159517",
+         "field_search": "question",
+         "question": "bên cửa hàng mình có hổ trợ mở khóa màn hình không ạ. em sài iphone 6 plus . và em mua máy ở cửa hàng khác. em không đăng nhập icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.20064,
+         "id": "893939",
+         "field_search": "question",
+         "question": "Cho mình hỏi, thế giới di động bên hỗ trợ kĩ thuật có cài window không ạ? Tại mình cài lại xuống window 7 từ window 8, win 8 khó sài, và mình hỏi một điều là cài window có phí bao nhiêu hay là cài bằng cách crack, tại mình sợ cài window bằng cách có rủi ro cho máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.20059,
+         "id": "765382",
+         "field_search": "question",
+         "question": " Nếu mình mất tài khoản iCloud luôn là máy đó như.cục gạch luôn hạ ad và có cách nào khác ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.172168,
+         "id": "954138",
+         "field_search": "question",
+         "question": "Em mới mua 1laptop ở cửa hàng mình Vậy em có được cài đặt lại win và office miễn phí k ạ. Trc đó em đã dc cửa hàng cài cho rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.091164,
+         "id": "820669",
+         "field_search": "question",
+         "question": "Chào ad, em mới mua cái ip6 của người khác và không biết có icloud ẩn gì trong máy không vì em đọc trên mạng thấy máy có icloud ẩn vẫn đăng nhập bt vậy ad chỉ e cách xem icloud ẩn đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.059486,
+         "id": "997966",
+         "field_search": "question",
+         "question": "Mình mới mua đt itel it5311 sáng hôm nay ( giá 450k ) mà về dùng thì nó không như ý mình ( không có tính năng mình muốn dù là trước đó đã có hỏi kĩ về những điều này ). Mình muốn hỏi là bây giờ mình đem trả lại thì được hoàn bao nhiêu tiền ạ ? ( mình mua 2 máy và muốn trả 2 máy ).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.044648,
+         "id": "847624",
+         "field_search": "question",
+         "question": "Ad ơi có thể đăng nhập một tài khoản zalo trên hai máy tính cùng một lúc không?. Tại sao trên zalo có mục quản lý danh sách các máy tính đăng nhập mà mìn thấy chỉ đăng nhập được một máy nhỉ.Mình đăng nhập zalo của người yêu bằng máy tính của mình để mình kiểm tra a ấy, nhưng khi người yêu mình cũng đăng nhập trên máy tính thì máy của mình toàn bị thoát ra. Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.033375,
+         "id": "1008697",
+         "field_search": "question",
+         "question": "Em bị mất phiếu hẹn bảo hành củ sạc ip bên kĩ thuật có liên lạc để lấy sạc mà em làm mất phiếu thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.931185,
+         "id": "1140606",
+         "field_search": "question",
+         "question": "Mình mua con Nokia 3.1.32gb về khoảng 2 hoặc 3 ngày mình sạc đầy pin mà không ngắc điện sài mau hết pin mình có lại chỗ mua máy tdgd đường 30/4 ninh kiều cần Thơ hỏi kĩ thuật về máy thì trả lời thìa máy thiết kế như vậy mình hỏi đổi con khác thì không được bán lại thì thu vào lỗ 20 phần trăm rồi mình bán luôn chắn thiệt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.916742,
+         "id": "924735",
+         "field_search": "question",
+         "question": "cho mình hỏi là cô mình có cho 1 ip4s lock IOS 7, có mật khẩu đăng nhập vào màn hình nhưng quên mật khâu iclou và mail. Thì ip đó có nghe gọi hay tải app vài xài bình thường không. Có cần phải thoát icloud đó ra ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.901728,
+         "id": "835839",
+         "field_search": "question",
+         "question": " IDM bị lỗi thì phải làm sao a, e muốn tải nhạc nhưng nó bắt phải nhập tên, serial number... cái đó nhập ntn a ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.896437,
+         "id": "940328",
+         "field_search": "question",
+         "question": "cho em hỏi :máy em mới mua và em tạo tài khoản icloud,nó bắt nhập email,trả lời câu hỏi rồi,nhưng lúc nó hỏi \"có đồng ý tạo ko\" em trả lời thì nó lại bảo là do máy chủ.em xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.865848,
+         "id": "909878",
+         "field_search": "question",
+         "question": "cá a/c cho em hỏi là làm sao để biết tk icloud của mình đang đăng nhập trên những máy nào ạ . e thấy máy của e báo về là tk của e đang bị dùng để đăng nhập cái gì ấy .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.864402,
+         "id": "892550",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mua máy tính xách tay tại thế giới di động, lúc mua máy tính mình chọn mua máy tính có cài đặt win bản quyền, nhưng bên cửa hàng cài đặt phần office để mình xài thử thôi. Giờ mình muốn cài bản quyền thì có mất phí không? Và mất phí bao nhiêu ạ? Còn nữa, cái phần mềm windows media player dạo gần đây bị gì mà mình không xem phim hay nghe nhạc gì được hết. Mình đã tới thế giới di động mà nhân viên kĩ thuật chỉ cài đặt thêm phần mềm media player classic. Mong phía cửa hàng sớm giải đắp thắc mắc. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.840198,
+         "id": "887532",
+         "field_search": "question",
+         "question": "Các bạn bên kĩ thuật cho hỏi máy tính laptop Acer E5 - 571 - 52UA của mình khi update một số ứng dụng, khi khởi động lại thì máy yêu cầu mã pin để đăng nhập vào màn hình nhưng mình nhập tất cả các mã pin đã từng thiết lập trong máy nhưng không được?? Các bạn có cách nào để lấy lại mã pin đúng hoặc xóa khóa màn hình mà không cần mã pin đc không?? Tất cả tài liệu chính mình lại để ở destop...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.8351965,
+         "id": "1010021",
+         "field_search": "question",
+         "question": "Chào tgdđCho mình hỏi mình đăng nhập icloud trên iphone 5s nhưng bây giờ mình muốn đăng xuất thì lại không được. Và máy báo lỗi : (Không thể xác minhĐã có lỗi khi kết nối icloud.)Mod giúp mình với ạ 😥😥😥",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.822395,
+         "id": "1024038",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Nếu mình và bạn trai mình dùng chung một tài khoản icloud. Sau đó bạn trai mình đổi mật khẩu icloud. Thì ảnh, tin nhắn, cuộc gọi trong máy bạn trai mình có hiện trong máy mình nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.772593,
+         "id": "813183",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có mua lại 1 mấy ipad lúc mình mua thì không có cài đặc mặt khẩu iCloud khi mình mua về đc khoảng 2 ngầy mình cập nhập phiên bảng 9.3 xong là mấy hiện ra bản đòi mặt khẩu iCloud , mình có liên hệ với người kia nhưng lại không được vậy tình trang của mình có thể lấy lại mặt khẩu iCloud không vậy bạn , trả lời giúp tớ nhé ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.766557,
+         "id": "1008876",
+         "field_search": "question",
+         "question": "hào adm, bạn cho mình hỏi là ip6 của mình khi mua thì mình không để ý đến tài khoản icloud, mấy hôm nay mình có xem thì trong máy không hề có tài khoản icloud mà chỉ có một tài khoản email, phần icloud vẫn để trống. Sau đó mình có lập 1 tk icloud để sử dụng, sau khi đăng nhập thành công thì mất toàn bộ danh bạ, vậy ad cho mình hỏi là danh bạ đó có bị mất hoàn toàn không? nếu không thì làm cách nào để lấy lại được? Cảm ơn ad đã đọc và rất mong nhận được sự giúp đỡ vì đây là danh bạ làm ăn rất quan trọng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.765099,
+         "id": "1021551",
+         "field_search": "question",
+         "question": "alo em cần mua đt trả góp sam sung s6 cần trả trc nhiu hả a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.746251,
+         "id": "807456",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.743142,
+         "id": "995288",
+         "field_search": "question",
+         "question": "Mình mới mua lại iphone 6 cũ TGDĐ, nhưng khi về nhập Icloud thì lại hỏi như thế này, liệu có phải máy vẫn còn dính Icloud của chủ cũ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.726843,
+         "id": "911117",
+         "field_search": "question",
+         "question": "Chào TGDĐ, lúc trước mình có mua lap ở TGDĐ, lúc đó đang có chương trình mua office 365 với giá 750k. MÌnh mua máy và mua luôn office, sau khi nhận máy thì office đã được cài sẵn. Sau này mình lỡ recovery lại máy nên mất toàn bộ office. Không biết mình có thể đến TGDĐ nhận lại key sản phẩm hoặc có cách nào phục hồi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.713296,
+         "id": "610734",
+         "field_search": "question",
+         "question": "iPhone của em bị quên mật khẩu và sau đó em nhập sai quá nhiều nên máy báo iphone đã bị vô hiệu hóa kết nối itunes, còn nữa iCloud cũng quên. Bây giờ em muốn restore có được không? Nếu được máy có bị dính iCloud không? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.712751,
+         "id": "810433",
+         "field_search": "question",
+         "question": "có một anh bên kĩ thuật chỉ em reset máy iphone 5s nhưng máy em đã jailbreak bay giờ ko reset đc em tắt nguồn mở lại thì bị như thế này giờ phải làm sạo ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.678399,
+         "id": "807476",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.672153,
+         "id": "822688",
+         "field_search": "question",
+         "question": "Tôi dùng iPhone 4 cũ, tôi đã lập được id app mới và đăng nhập tải được ứng dụng rồi. Nhưng khi tôi đăng nhập vào icloud bằng id app đó thì máy báo là đã hết tài khoản icloud miễn phí.Vậy tôi khắc phục thế nào đây addthank add nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.650773,
+         "id": "920716",
+         "field_search": "question",
+         "question": " Mấy a kỹ thuật ơi , máy tính của e bị thằng bạn mượn rồi cài xproxy bây giờ không vào được web vậy mình lm j a .cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

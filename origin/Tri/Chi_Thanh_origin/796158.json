@@ -1,0 +1,801 @@
+{
+   "id_query": "796158",
+   "total": 33086,
+   "total_current": 100,
+   "max_score": 125.64378,
+   "origin_question": "Mình đang sữ dụng viber khoảng hơn 5 năm rồi, tự nhiên bị xoá mất, mình cài lại thì máy báo số điện thoại này không hợp lệ, mình xoá và cài lại nhưng đã 3 tháng rồi cũng cứ như vậy là sao? Nhờ hướng dẫn giúp. Cám ơn",
+   "hits": [
+      {
+         "score": 45.133007,
+         "id": "1143490",
+         "field_search": "question",
+         "question": "Chào Ad, mình đang sử dụng điện thoại Samsung A5 2017, nhưng đột nhiên chế độ tự động tìm nhà mạng phù hợp bị mất đi. Bạn có thể hướng dẫn cho mình cách cài đặt trở lại được không?Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.595074,
+         "id": "1020135",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony XA của mình bây giờ vào came cứ bị đẩy ra. Báo là camera đã dừng là sao vậy. Mình đã vào cài đặt ứng dụng và xoá dữ liệu khởi động lại vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.576626,
+         "id": "1009018",
+         "field_search": "question",
+         "question": "mình dùng j7 prime, tầm khoảng 3 ngày nay mình khó mở facebook được, cứ báo \"không phản hồi\". Mình đã thử vào phần ứng dụng và xóa dữ liệu rồi tải lại thì chạy được. Nhưng nếu không đăng nhập khoảng 5-6h thì sẽ bị lại, nhờ hỗ trợ giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.51589,
+         "id": "1166789",
+         "field_search": "question",
+         "question": "Điện thoại của mình là asus zenfone 4 max pro, mới hôm nay cứ bị nhảy thông báo như thế này, tí lại bị, mình đang dùng cái khác cũng cứ nhảy xong lại mất rồi lại thế. Đt của mình bị sao vậy, tư vấn giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.46814,
+         "id": "998452",
+         "field_search": "question",
+         "question": "Mình đang xài điện thoại Android HTC desire dual sim 700.Hôm qua điện thoại mình bị lỗi wifi. Tức là có bật ON wifi nhưng không tìm thấy thiết bị, 1 lúc sau thì báo error wifi.Mình đã khôi phục lại cài đặt gốc nhưng vẫn không sửa được lỗi này. Minh cung đã quay số  *#*#526#*#* nhưng cũng không được.  Mong tgdd giải đáp và hướng dẫn mình cách khắc phục.  Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.957294,
+         "id": "848569",
+         "field_search": "question",
+         "question": " Số điện thoại mình không thể đăng ký trên viber  báo lỗi số điện thoại không hợp lệ  thì phải làm sao ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.548523,
+         "id": "803097",
+         "field_search": "question",
+         "question": "Zalo mình cứ cập nhật giờ bị sai mặc dù giờ ở máy mình vẫn đúng. Ad biết khắc phục lỗi này không giúp mình với. Mình cũng đã thử xoá đi cài lại vẫn bị vậy.... Mình đang dùng ip5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.410164,
+         "id": "924472",
+         "field_search": "question",
+         "question": "Tại sao Instagram của mình lại yêu cầu xác minh hoài. Mình đã xác minh rồi nhưng sau đấy thì nó vẫn quay lại trang xác minh như ban đầu . Mình đã xoá Chrome và cài lại nhưng nó vẫn như vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.950607,
+         "id": "1134527",
+         "field_search": "question",
+         "question": "Mình cần hỏi về pin Oppo a3s. Mới mua tầm nửa tháng, nhưng mỗi lân sạc xong rồi không sử dụng nó tự động mất 3% . Rồi khi dùng x khoảng 5-10p nó tự động mất 1% lâu hơn thì 2% . Cứ mỗi lần mở lên là mất, vậy đt có sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.916832,
+         "id": "767931",
+         "field_search": "question",
+         "question": "Mình muốn cái chuyển cuộc gọi sang số máy khác từ iphone 5 mà không thực hiện được.Mình đã vào phần cài đặt --> điện thoại --> chuyển cuộc gọi --> nhập số... thực hiện như hướng dẫn, xong thoát ra thì nó vẫn báo tắt phần \"chuyển cuộc gọi\".Nhờ bạn giúp mình cài đặt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.000435,
+         "id": "863065",
+         "field_search": "question",
+         "question": "Máy mình iphone 4 đã mua khá lâu khoảng 2 năm rồi. Nhưng khoảng mới khoảng 1 tháng trước mình mới biết đến cái gọi là jailbreak và làm thử thành công, cài tweak ngon lành. Dùng được 2-3 tuần đầu tiên thì không sao, nhưng đến tuần thứ 4 máy tốn pin kinh khủng, để màn hình 20% để chơi game plants vs zombie chỉ 12 phút thoát ra là máy mất luôn 17% từ 62>45 ! Trước đây pin mình cũng hơi chai nhưng chơi 12 thì cũng chỉ mất 5-10% là nhiều. Mình đã mang đi thay pin rồi dùng tweak battery life để kiểm tra pin đúng 1420 mAh ( pin zin ) nhưng dùng vẫn mất rất nhiều, không hơn trước là mấy.Nếu tắt wifi, bật máy bay lên để qua đêm không mất tí pin nào nhưng cứ bật wifi lên là qua đêm mất 5~10 % , dù mình đã xoá facebook - ứng dụng mà nhiều người nói là chạy ngầm, gây hao pin.Mình nghi là máy đang nhiễm virus rồi, nhưng chả biết cách xoáCó bạn nào cho mình biết h phải làm j không ?Tất cả những tweak mà mình đã \"từng\" cài đây ( tweak đánh dấu x là bây h đã xoá ) :winterboard xRippleboard xAquaboard xBattsaver x ( tweak này như bị phản tác dụng, để im 30p mất cha nó 3% , cài từ soure cydia.vn)timepasscode xAcrivatorIapcrazy ( chỉ hack plants zombies )CallbarBitesmsclean master xspringtomize 3Tiny barCcquick pro xCcsettingauxo 2Zepplin xVà cuối cùng là altkeyboard 2Tất cả tweak đều cài từ soure cydia.vn trừ iapcrazyKhông biết có tweak nào trên nó bị nhiễm virus không nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.98226,
+         "id": "1150678",
+         "field_search": "question",
+         "question": "em dùng asus 5 , em tải b612 về mà cứ bị thông báo là \" rất tiếc , b612 đã dừng lại \" em xoá hết dữ liệu trên điện thoạii rồi cài lại mà vẫn kh được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.832363,
+         "id": "785501",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang lên mạng để xem phim thì được cảnh báo là điện thoại đang bị nhiễm 17 virus nếu ko giải quyết ngay thì sẽ bị hỏng thẻ sim và điện thoại và kêu làm theo hướng dẫn rồi nhập số điện thoại vào cho mình hỏi điện thoại của mình có bị sao ko mình đang Sài iphone 3 cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.247135,
+         "id": "778355",
+         "field_search": "question",
+         "question": "iPhone 5 ios 9.2.1 tải appcola về dùng không được. Toàn bị văng ra khi vào dù đã trao quyền theo hướng dẫn. Mình đã khởi động lại máy hay xoá đi cài lại vẫn không khắc phục được. Vậy phải làm sao đây ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.226727,
+         "id": "1020797",
+         "field_search": "question",
+         "question": "E vào zing và cứ báo \" Đã xảy ra lỗi(-102)\". E dùng iph5s, máy bị thế 3 ngày rồi, e xoá đi tải lại rồi khởi động lại máy nhiều lần vẫn k đc thì phải làm sao ạ? E k muốn dùng UD nhaccuatui. Ad giúp e với ạ. E cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.167633,
+         "id": "885698",
+         "field_search": "question",
+         "question": "mình đang dùng máy zenfone 5, trước đây đang dùng viber, chạy lại phần mềm... giờ cài lại viber báo lỗi -24. xử lý thế nào, dướng dẫn mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.03587,
+         "id": "791535",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5, mình thử chuyển bàn phím sang tiếng hàn cho vui, nhưng khi vào siri thì toàn thấy tiếng hàn dù mình đã xoá tiếng hàn ở cài đặt bàn phím rồi, làm sao để trở lại như cũ đc, giúp vs!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.905605,
+         "id": "1144698",
+         "field_search": "question",
+         "question": "Viber của mình bị khoá, mình đã gỡ cai đặt và tải lại vẫn ko vô được. Mình đã đổi số nhưng vẫn bị như vậy. Nhờ tgdd hỗ trợ giúp mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.715206,
+         "id": "753936",
+         "field_search": "question",
+         "question": "Có ai cho mình hỏi với. Tại sao mình đang sử dụng Viber bình thường thì đột nhiên lại chỉ nhận được tin nhắn còn nhắn tin báo đã chuyển nhưng bên kia không nhận được? XIn vui lòng giúp với hiện tại mình rất cần sử dụng Viber xin liên hệ số điện thoại 0916882xxx, mình sẽ gọi lại cho các bạn cứ yên tâm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.625786,
+         "id": "869047",
+         "field_search": "question",
+         "question": "Khi mở viber chỉ nhận được duy nhất một hình ảnh mà tôi đã sao chép trong album ảnh ra.Hình ảnh này không thể xoá được và tôi cũng không thể thao tác thêm được gì trong viber. Nhờ hướng dẫn cách khắc phục để viber trở lại dạng Bình thường .Xin trân trọng cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.547314,
+         "id": "1143590",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình đăng bài có kèm vài dòng cap nhưng chỉ đăng được ảnh còn dòng chữ bị mất, khi vào chỉnh sửa thì nó bảo là bị lỗi. Dù đã xoá ứng dụng rồi tải lại nhưng nó vẫn bị như vậy, không biết làm thế nào để khắc phục? Và sẵn tiện cho mình hỏi luôn là ins của mình tự động đi follow những người khác mặc dù mình không biết họ là ai, nhưng mà ngày nào cũng tự động follow bắt mình xoá muốn mệt người luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.43069,
+         "id": "746982",
+         "field_search": "question",
+         "question": "Mình cài Viber trên 2 thiết bị: iPad Mini và LG G4 với cùng 1 số di động. Bây giờ mình cài thêm Viber với số di động đó lên 1 máy Samsung J1 thì không sử dụng đồng thời Viber trên Samsung và LG G4, tức là nếu sử dụng trên LG G4 thì Viber trên Samsung tự thoát và ngược lại. Bạn hướng dẫn cách dùng viber trên cả LG G4 và Samsung với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.375984,
+         "id": "1160091",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình bị mất máy điện thoại, làm lại sim mới rồi thì ứng dụng zalo, viber trên máy bị mất có vào được không? mình rất lo dữ liệu trên phần mềm viber và zalo bị rò rỉ! Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.268986,
+         "id": "787944",
+         "field_search": "question",
+         "question": "Điện thoại của mình tự dưng bị mất ứng dụng camera,mình đã thử tìm lại trong cài đặt và tải ứng dụng camera khác cũng k được,nó nói là máy ảnh hiện k hoạt động. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.046993,
+         "id": "1155484",
+         "field_search": "question",
+         "question": "Tài khoản của tôi up ảnh lên thì 1s sau tự dưng bị xoá. Tôi đã xoá app và tải lại. Nhưng ko đc. Tôi cũng đã tắt đth và mở lại nhưng cũng thế. Hãy giúp tôi. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.66553,
+         "id": "1148292",
+         "field_search": "question",
+         "question": "Cho mình hỏi với , hôm nay mình đăng nhập Instagram mà nó cứ báo như thế này , mình đã khởi động lại máy , thậm chí xóa ứng dụng rồi cài lại vẫn bị như vậy , mình có thử đăng nhập bằng máy khác thì vẫn vào bình thường , vậy mình phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.39054,
+         "id": "1009538",
+         "field_search": "question",
+         "question": "MOD ơi, cho mình hỏi, điện thoại Oppo neo 7 của mình, sim 1 (vietel) sao cứ gọi cho người khác mới reo chuông mấy giây thì tự động tắt cuộc gọi, nhận cuộc gọi thì bình thường, gọi cho số nào cũng bị như vậy. Tuy nhiên khi mình khởi động lại cài đặt gốc thì lại gọi được, sau đó khoảng 1 giờ sau thì quay về tình trạng cũ. Không biết có bị xung đột ứng dụng gì đó không? Tuy nhiên sim 2 (Mobilefone) vẫn ổn mà? Nhờ MOD tư vấn giúp. Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.264095,
+         "id": "1135095",
+         "field_search": "question",
+         "question": "Mình dùng ip7 mua mới và sd đc 1 năm, tự nhiên danh bạ của mình bị mất hết số điện thoại mà có cùng 1 cụm từ mình lưu và lại xuất hiện một số tên lạ trong danh bạ. Như vậy là sao nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.225,
+         "id": "903454",
+         "field_search": "question",
+         "question": "Em cài phần mềm XperiaCompanion,nhưng máy cứ báo lỗi này, chuyển sang máy khác cũng vậy. 2 máy đều xài win 7, Gở bỏ phần mềm diệt virut rồi)chuyển sang cái máy khác win 10 thì được, nhưng máy này lại không nhận điện thoại sony. hạ xuống cài Sony pc Companion khi khởi động nó cứ bắt cập nhật mới cho sử dụng, nhưng cập nhật lại báo lỗi, trên cả 3 máy. Anh/ Chị giúp em nhé! cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.086906,
+         "id": "1160159",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua máy laptop ở tgdd được hơn 1 năm rồi (hết bảo hành ) ,có đợt mình bị lỗi win và nhờ bạn cài win khác không bản quyền ,giờ mình còn cài lại được bản win lúc trước không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.033222,
+         "id": "872791",
+         "field_search": "question",
+         "question": " cho mình hỏi tại sao máy HTC826 cài được viber nhưng khi mở viber lại bị báo cáo dừng lại không lên vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.940754,
+         "id": "1152988",
+         "field_search": "question",
+         "question": "cho em hỏi. laptop của em mua cũng hơn 1 năm rồi. em muốn cài lại win (máy win10). Vậy bên tgdđ mình cài lại dùm em được không và có phí không ạ!!!Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.780796,
+         "id": "863738",
+         "field_search": "question",
+         "question": "Lỡ xóa Viber, xong cài lại, nó mất hết cuộc gọi và tinh nhắn, muốn khôi phục lại thì mình làm cách nào? giúp mình với, Cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.670334,
+         "id": "962439",
+         "field_search": "question",
+         "question": "I phone 5s của mình tại sao vân tay không nhạy cho lắm ... 1 lần mở khoá phải 2-3 lần hoặc không nhận vân tay luôn 😩 Đã xoá vân tay rồi cài lại vân tay mới cài khoảng 3-4 lần mới thành công",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.661682,
+         "id": "848526",
+         "field_search": "question",
+         "question": " Mình đang cài đặt viber nhưng cứ nhập mã code vào là lại hiện lên thông báo đó là sao? Mình nhập mã đúng mà  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.65053,
+         "id": "775626",
+         "field_search": "question",
+         "question": "Chào mọi người!!Mình đang sài iphone 3gs không biết dạo này tự nhiên nó hay out ra khi chơi game hoặc vào internet ,mình đã thử xoá ứng dụng ngầm và reset lại mấy nhưng vẫn thường xuyên bị..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.277798,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.26694,
+         "id": "779335",
+         "field_search": "question",
+         "question": " Cho em hỏi là khi mình xoá tất cả nội dung và cài đặt lại trên iPhone 5 thì có xoá luôn tài khoản iCloud không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.03461,
+         "id": "922937",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình gọi viber ,bên kia bắt máy nhưng mà mình bật video lên thì nó báo hiện tại số đien thoại này ko thể gọi video ,nhưng người bên kia không biết gì về thông báo đó ,rồi một lát sau lại gọi được vậy là bị gì vậy ,giup mình vơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.944252,
+         "id": "891275",
+         "field_search": "question",
+         "question": "ad hay ai đó giúp mình với..e đang xài con ip6 ios10..nhiều lần back up nhưng iphone cứ báo như vậy..e đã xoá hết tất cả các versions back up cũ rồi..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.8963,
+         "id": "779672",
+         "field_search": "question",
+         "question": "Em lên mạng xem hướng dẫn sử dụng XMod Clash Of Clan thấy hướng dẫn cài đặt qua Cydia gì đó sao điện thoại em có vậy ạ? Cydia và Add Soure là ứng dụng gì sao điện thoại em không có vậy? Em cám ơn nhiêu!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.839493,
+         "id": "1134910",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi Laptop của mình đã mua tại TGDĐ được khoảng 5 năm, giờ mình muốn cài lại win bản quyền của máy thì có mất phí không vậy? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.716335,
+         "id": "1136816",
+         "field_search": "question",
+         "question": "Dạ chào AD, mình đang xài oppo f9. Mình xem trên mạng có tính năng thu nhỏ màn hình youtube để vừa lướt facebook vừa xem được nhưng mình làm trên điện thoại mình xài không được. Mình cứ ra màn hình chính là youtube lại mất. AD hướng dẫn mình sử dụng tính anwng này w ạ. Cám ơn AD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.706932,
+         "id": "877734",
+         "field_search": "question",
+         "question": "adim ơi cho mình hỏi là hiện tại mình đang dung iPhone 5 thường ,mua cách đây khoảng mấy tháng nhưng mấy hôm nay máy bị đơ và loan cảm ứng. cứ dùng khoảng 30s là đơ, sau đó tắt màn hình rồi bật nên thì nhập mk xong lại đơ. Như vậy là máy bị lỗi phần mềm hay phần cứng ạ? và cách khắc phục ntn ạ? mình xin cám ơn.( máy ko bị rơi hay dính nước gì, ios 9.3.4)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.646706,
+         "id": "767406",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi mình dùng điện thoại iPhone 4s và 5S,giờ mình xoá tin nhắn rồi lằm sao có thể tìm lại được nó, cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.598606,
+         "id": "792791",
+         "field_search": "question",
+         "question": "QTV Cho mình hỏi : lúc cách đây hơn 1 năm mình có mua laptop tại thế giới di động và mình có mua bộ win 8.1 bản quyền nhưng trong quá trình sữ dụng,mình thấy khó sữ dụng nên đã ra cửa hàng vi tính cài lại win 7 ,bây giờ mình muốn cài lại 8.1 thì bên Cty bạn có thể cung cấp lại cho mình mã key win 8.1 đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.575043,
+         "id": "1010233",
+         "field_search": "question",
+         "question": "Mình mới dùng Samsung j5 Prime được hơn một tháng, chả hiểu sao âm lượng thông báo cứ tự động tăng hết cỡ dù mình chả động vào điện thoại. Mình cũng không cài đặt nhiều ứng dụng. Cảm thấy rất khó chịu vì cứ phải đặt đi đặt lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.46449,
+         "id": "828749",
+         "field_search": "question",
+         "question": "Chào ad ad, Mình cài đặt lại iphone, đã hơn 24 tiếng đồng hồ mà đăng nhập ID và Ap store thì nó chạy lâu và kết quả nó báo : Không thể xác minh, lỗi kết nối với máy chủ ID Apple, giờ phải làm sao vậy ad. Mình cũng xem lại múi giờ, và còn tắt máy khởi động rất nhiều lần. Ad có thể hướng dẫn giúp mình được không. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.376965,
+         "id": "1151223",
+         "field_search": "question",
+         "question": "Chào TGDD em mới mua dùng điện thoại ASUS ZENPHONE MAX PRO M2 được 35 ngày rồi nhưng thỉnh thoảng điện thoại em tự rung như có thông báo, mà trong khi đó em kiểm tra thì lại không có thông báo gì cả.. em đã vào tắt ứng dụng chạy ngầm, thỉnh thoảng xoá bộ nhớ cache, và khởi động lại máy, nhưng nó cũng không hết, ad có biết bị gì và có cách giải quyết lỗi giúp e không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.27297,
+         "id": "1164493",
+         "field_search": "question",
+         "question": "mình mua máy ở tgdd và mình bị mất  Win bản quyền..phải làm sao để cài lại winvà mình muốn cài win 10 pro thì có mất phí không ạ cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.1625,
+         "id": "1000653",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi điện thoại bảo hành có số điện thoại là 0987017986 đã xong chưa ạ ?. Hơn nữa số điện thoại liên hệ em đã đổi thành 01688687688 rồi ạ, Nhưng bên hệ thống lại gọi báo tin tới số 0987017986 làm e không nhận được thông tin máy ạ. Anh chị làm ơn gọi lại vào số 01688.687.688 giúp e ạ. Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.087433,
+         "id": "1147637",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em bị người khác cài định vị, vậy làm sao để không bị nữa ạ? Gmail em cũng đã xoá khỏi máy rồi mà vẫn bị vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.007282,
+         "id": "781964",
+         "field_search": "question",
+         "question": "Mình đang dùng iPhone 5 và cũng bị báo có virut bị cảnh báo là sẽ hao pin và mất danh bạ và mình kiểm tra lại cũng thấy danh bạ bị mất đi vài số. liệu có phải máy mình bị nhiễm virut thạt không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.991127,
+         "id": "1152217",
+         "field_search": "question",
+         "question": "Sao mình đã cài đặt giống như hướng dẫn mà ko thấy thông báo cuộc gọi nhỡ vậy bạn. Mình đang xài huawei y9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.904152,
+         "id": "1142329",
+         "field_search": "question",
+         "question": "Em dùng oppo a11w. Đang dùng tự nhiên nó hiện lên cái gì cũng rất tiếc đã dừng lại, vào cái gì cũng ko được, vào cài đặt cũng không được luôn. thử tắt nguồn rồi bật lại nhưng nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.789856,
+         "id": "906868",
+         "field_search": "question",
+         "question": "Facebook em bị như thế này là thế nào ạ. Các thông tin đều bị mất hết id và pass cũng bị thay đổi bây giờ làm thế nào mới khôi phục lại tài khoản trong khi em cài phê duyệt đăng nhập mà không hiểu vì sao vẫn bị hách như thế này các sdt gmail khôi phục cũng bị xoá hết mong có được sự trợ giúp. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.76516,
+         "id": "1156513",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung J7. Dùng cũng được hơn 1 năm rồi bây giờ thì khi em đang xem Youtube hay Facebook thì điện thoại tự dưng tắt. Bấm mấy lần vào màn hình thì nó mới lên. Lúc thì mới sáng lên thì đã tắt còn lúc thì khoảng 1 - 5 phút là đã tắt đi rồi mong ad giúp em. Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.74078,
+         "id": "771218",
+         "field_search": "question",
+         "question": " Mình cài iOS 9.2 mà nó cứ như thế này, bạn có thể giúp mình không? Cám ơn bạn!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.637356,
+         "id": "1023209",
+         "field_search": "question",
+         "question": "Mình đang sử dung SAMSUNG J7 PRIME. Mình muốn chặn 1 vài số điện thoại theo thời gian. The giới di đông hướng dẫn giúp. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.48862,
+         "id": "1158616",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình lỡ cài đặt 2 phần mềm virus cùng 1 lúc là bkav không mua bản quyền và   KASPERSKY INTERNET SECURITY có mua bản quyền. Mình đã xoá phần mềm bkav mà không xoá được giờ 2 cái xung đột làm chậm máy, nhờ chỉ hướng giải quyết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.45103,
+         "id": "856783",
+         "field_search": "question",
+         "question": "máy e ban đầu cài win 8.1, sau này sữ dụng bị lổi win ra TGDĐ cài lại win 7 nhưng sử dụng thấy máy nóng hơn, loa nhỏ hẳn luôn, không sữ dụng được phím fn+f1...f12? tại sao vây ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.445934,
+         "id": "1148814",
+         "field_search": "question",
+         "question": "Mình mua máy laptop asus x542uq chưa được một năm nhưng khi khởi động máy lên máy cứ bị chậm, màn hình máy tính bị đen, tầm 3 phút mới vài được màn hình chính, rất khó chịu, cộng thêm khi mở máy lên rồi nhấp vào 1 ứng dụng nào đó thì màn hình cũng bị đen, tầm 1 phút mới bình thường nhưng vẫn rất chậm, rất ức chế. Mình phải xử lý làm sao ad hướng dẫn giúp mình. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.4134,
+         "id": "862263",
+         "field_search": "question",
+         "question": "E bị lỗi giống như hình lúc trước vẫn sử dụng ứng dụng Facebook bình thường. Được một thời gian thì Fb bị lỗi e gỡ cài đặt rồi down về lại thì cứ bị như thế này hoài. Mong ad giúp e ( e đã reset factory hay khởi động lại máy rồi nhưng vẫn vậy )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.331333,
+         "id": "807839",
+         "field_search": "question",
+         "question": "Chuyện là thế này, hôm qua mình định nâng ipad mini lên ios 9.3 nhưng mình thấy nó cứ bảo là chưa kết nối internet nên mình xoá đi và cài lại nhưng đến hôm nay thì nó hiện lên là bản ios 9.2.1. Mọi người giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.31004,
+         "id": "1145706",
+         "field_search": "question",
+         "question": "Xin hướng dẫn giúp tôi khắc phục lỗi này: gần đây tôi mới mua điện thoại huawei nova 3e từ TGDĐ, đt thường tự bật sáng màn hình khi đang khóa máy để nằm yên, và cả khi đang sạc pin đều bị hiện tượng giống nhau; màn hình khóa tối tự nhiên bật lên hình nền màn hình chính (chỉ hình nền, và thanh thông tin trên cùng thôi, trên màn hình chỉ hiện hình nền không kèm thông tin gì khác), sau đó nó lại tự chuyển sang màn hình khóa (có đồng hồ, ngày, ...) rồi tắt tối lại. Cứ khoảng 10' lại bị vậy. Xin hướng dẫn tôi khắc phục lỗi này. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.269222,
+         "id": "876020",
+         "field_search": "question",
+         "question": "Tôi đang dùng Lumia 640XL. Ban đầu Viber lập bằng số ĐT mua tạm sau đó dùng đến nay. Không giống như Lunia, máy bàn và IPad của tôi lập Viber theo số điện thoại lâu dài của tôi. Nay tôi muốn thống nhất Viber dùng theo số điện thoại lâu dài của mình , tôi lên Google tìm cách xóa Viber ở Lumia đi để cài mới lại theo IPad( http://www.van.vn/tu-van/huong-dan-cach-xoa-tai-khoan-viber.html ).Các bước tiến hành đều OK nhưng đến đoạn chờ xóa thì màn hình hiện chữ Deactivaling, please wait...Tôi chờ đến nay đã qua 2 ngày đến ngày thứ 3 rồi mà chưa xong ( lưu ý là cái hiện tượng này đã diễn ra tới lần thứ 2 rồi ) chả hiểu có cách nào dỡ bỏ khác không. Xin kính nhờ TGDĐ chỉ giáo dùm, hết sức cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.23507,
+         "id": "817048",
+         "field_search": "question",
+         "question": "Cho mình xin hỏi, điện thoại iphone 5 của mình bị sai giờ hoài, mình vào cài lại thì khoảng 15 đến 20 phút sau là bị sai, như vậy thì điện thoại mình có vấn đề gì vâỵ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.189926,
+         "id": "997665",
+         "field_search": "question",
+         "question": "Chào ad, Cho em sử dụng điện thoại Grand Prime G531, Androi 5.1.1, điện thoại báo cập nhật phần mềm, em đã vào cập nhật rồi khi máy khởi động lại khoảng 3 phút sau lại báo cập nhật nữa và hiện tại em đã cập nhật 3 lần rồi nhưng vẫn báo cập nhập. Vậy em phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.144573,
+         "id": "773850",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi: ip 4s ban 7.1.1 van vao dung icloud của mình và say khi lỡ tay xoá find my iphone thì máy rẻsse lại và yêu cầu nhập icloud nhưng giờ nhập không đcMà trong gmail của mình thì vẫn nhậm dc thông báo là máy đã xoá tất cả. Vậy có cách nào để khắc phục icluod rồi dùng lại bt không?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.03956,
+         "id": "856967",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5 và dạo gần đây điện thoại hiện rằng máy nhiễm 6 con virus nặng và mình đã lở nhập số điện thoại cho trang web đó rồi :( Bạn có cách nào giúp mình với không biết có bị đánh mất dữ liệu không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.95465,
+         "id": "811955",
+         "field_search": "question",
+         "question": "Tôi có iphone 4s nhưng khi gọi viber thì máy báo dòng chữ \"viber không có quyền truy cập vào micro của bạn. Để cho phép truy cập, vào cài đặt iphone > Riêng tư > Mic > Viber > đặt thành \"Bật\". Nhưng tôi không biết bằng cách nào vào, vì theo phần hướng dẫn này trong máy tôi không thấy. Xin giúp tôi cài đặt. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.93733,
+         "id": "1150269",
+         "field_search": "question",
+         "question": "Mình mới mua samsung j4 được 3 tuần. Lâu lâu mỗi lần mở máy lại báo 'cảm ứng chạm đã bị chặn'. Rồi bảo nhấn OK để tiếp tục. Mình đã đến tgdđ, nhân viên ở đó đổi máy mới cho mình rồi. Nhưng về dùng được 1 hôm máy lại bị như cũ. Vậy là sao ạ? Có phải dòng máy này là vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.853817,
+         "id": "791494",
+         "field_search": "question",
+         "question": "Chào admin thegioididong; Mình xài laptop dell vostrol 5470, vừa cái lại win7 64 bit. Minh đã cài driver wifi (cài nhiều lần từ các nguồn khác nhau), laptop đã bắt sóng wifi và sử dụng bình thường. Tuy nhiên biểu tượng cột sóng wifi trên thanh taskbar lại có dấu sao màu vàng (như là chưa kết nối wifi), phải ấn vào nó mới thấy kết nối wifi (connected và hiện thị số vạch sáng)Mình thử nhiều cách nhưng vẫn không sử được, nhờ admin giúp mình nhé. Cám ơn rất nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.84523,
+         "id": "1155057",
+         "field_search": "question",
+         "question": "Máy Sony Xperia Z3 của mình tự nhiên khởi động lại rồi cứ hiện logo là lại reset tiếp là vì sao và có sửa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.84334,
+         "id": "1006973",
+         "field_search": "question",
+         "question": "dạ ad co e hỏi  e đang sài con sam sung on7 sao cứ tự nhiên tự resert rồi khôi phục cài đặt mất hêt ứng dụng dữ liệu vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.818516,
+         "id": "1164678",
+         "field_search": "question",
+         "question": "Mình mới mua Mi 8 dc tầm 1 tháng chơi game cứ bị đen màn hình và văng game. Mình đã gỡ game cài lại và khôi phục máy cài lại nhưng vẫn gặp lỗi này. Mình muốn đổi điện thoại khác dc ko ạ. Lúc mua giảm 2tr còn 10tr990 mình muốn đổi cái khác cũng mi 8 bù bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.81695,
+         "id": "1009616",
+         "field_search": "question",
+         "question": "Cho  mình  hỏi  đt  mình  đang sử  dụng  là  oppo f1s sao lại  có  hiện  trạng  bị  mất  số  điện  thoại  vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.799854,
+         "id": "779165",
+         "field_search": "question",
+         "question": "Mình mua điện thoại iphone mới ở TGDD, có nhờ kỹ thuật sao ảnh từ máy điện thoại cũ sang. Vấn đề là chỗ ảnh được sao sang điện thoại, cũng iPhone là không xoá chúng đi được nữa. Có quá nhiều ảnh nên mình muốn xoá bớt. Vậy phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.79683,
+         "id": "755840",
+         "field_search": "question",
+         "question": " Không biết mình đã cài tweak gì mà máy tự nhiên bị như vầy. Ai giúp với !!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.71818,
+         "id": "1019540",
+         "field_search": "question",
+         "question": "Mỗi khi mình muốn xoá ảnh trong album thì máy đều hiện ra là 'Không thể xoá. Vui lòng thử lại.' Vì sao lại như vậy và cách khắc phục thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.67363,
+         "id": "816976",
+         "field_search": "question",
+         "question": "Mình bị mất iphone và đã sữ dụng chức năng Find My iPhone ..đã khóa máy và cũng hiện ra vị trí ..Nhưng 1 thời gian sau thì nó báo Iphone ngoại tuyến.. vậy giờ phải làm sao để tìm được máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.65682,
+         "id": "881674",
+         "field_search": "question",
+         "question": "E xoá mất youtube giờ tải lại k dk, e cũng thử tải lại theo hướng dẫn trên web mà k được. Nhấp vào tải về thì toàn hiện thị lỗi này ai giúp e với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.629345,
+         "id": "777197",
+         "field_search": "question",
+         "question": "Mình xài hai số đt viber. Khi mình thay đổi và trở lại thì các thông tin hay các nhóm bị mất. Phải nhờ add lại. Vậy có cách nào để giữ lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.614033,
+         "id": "1021065",
+         "field_search": "question",
+         "question": "Xin chào. E có mua 1 chiếc j7 prime cách đây tầm 6 tháng. Bây giờ chiếc điện thoại của e có tình trạng như sau ạ. E dùng wifi netnam chung phòng ktx, wifi phải mua rồi nhập id, password mới sử dụng được. Nhưng mà nó cứ bị lỗi \"internet k sẵn dùng \" cứ mở lên lát nó tự tắt, và k tự mở lại. Tấc cả mọi người trong phòng ai cũng dùng được trừ em ra. Mà điện thoại e dùng wifi khác vẫn xài bình thường. E đã cài đặt gốc máy 2 lần rồi. Tắt mở lại, vẫn k được. Mong có hướng giải quyết giúp e ạ. E cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.580395,
+         "id": "1020029",
+         "field_search": "question",
+         "question": "Mình xài dt ZTE v7 lite icon youtube không hiện lên màn hình chính ,trong phần cài đặt thì đã cài rồi, gỡ thì cũng không được, chỉ gỡ được cập nhật, vui lòng hướng dẫn giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.541794,
+         "id": "1147087",
+         "field_search": "question",
+         "question": "Laptop mình bị chậm và đôi lúc bị đơ. Giờ mình muốn ra cài lại win thì có bị mất win10 mình đang sử dụng không? (Win10 này được cài khi mình mua máy ở TGDĐ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.535423,
+         "id": "1135149",
+         "field_search": "question",
+         "question": "Em đang sử dụng Đt Samsung J3 proĐang chơi bình thường thì tự nhiên Máy tự khởi động lại. Em cũng không biết đã cài đặt gì mong được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.422092,
+         "id": "829100",
+         "field_search": "question",
+         "question": "Có 1 bạn đang dùng chung tài khoản zalo với mình mà mình ko bít làm cách nào để xoá tk đó. Làm sao để có thề xoá tk zalo trên các thiết bị hiện tại để mình có thể cài đặt lại trên 1 thiết bị khác?Cám ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.414665,
+         "id": "910473",
+         "field_search": "question",
+         "question": "em lỡ xoá hết ứng dụng và cài đặt, cài lại win thì e có nhận được bảo hành từ tgdd nữa ko ạ. TK tgdd trên máy đã bị mất (laptop)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.3418,
+         "id": "1153747",
+         "field_search": "question",
+         "question": "Album All phôt trong iphone mình tự động nhân đôi tất cả hình ảnh, nhưng dung lượng trong máy không thay đổi. Khi mình tât cả bản nhân đôi, chie giữ lại 1 bản. Iphone Storage đề nghị xoá ảnh trong thùng rác để làm trống bộ nhớ.Nếu mình xoá thì sẽ trống gần 10GB. Nhưng hình ảnh vẫn nguyên lúc đầu. Vậy là sao ạ?Và nếu mình xoá thì sau này hình trong iphone mình có bị mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.319763,
+         "id": "790783",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 4s, mình cũng dùng xem phim lướt web bt thôi. nhưng hôm qua đang nt tự nhiên máy đơ đơ. sau đấy mình không mở các ứng dụng khác cũng không mở đk. mà cứ nhấn vào lệnh nào máy lại nói gì đó bằng tiếng anh.bây h máy tự khóa màn hình mà mình không thể mở dk. cứ chạm vào màn hình là máy lại tự nói tiếng anh gì đó, có vẻ như các số lưu trong danh bạ gọi đến không còn đk lưu nữa.cho mình hỏi máy mình bị sao the ạ? liệu có phải bị virus hay không? Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.303974,
+         "id": "1157643",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung m20, có một số hình trên máy mình vô tình xóa, mình định khôi phục lại nhưng không tìm thấy thùng rác ở đâu, mình đã thử vào cài đặt trong bộ sưu tập nhưng vẫn không thấy. Phải làm sao đây ad? Mình cám ơn :3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.296715,
+         "id": "844243",
+         "field_search": "question",
+         "question": "cho em hỏi chút ạ. máy em là iphone 5. đăng kí icloud bằng email đuôi icloud. nhưng giờ tự nhiên nó đòi mật khẩu. mà mật khẩu em thì đúng mà không vào được. nó bắt vào trang iforgot.apple.com em vào và làm theo hướng dẫn. thì nó đã báo là gửi email vào email icloud.com rồi. và làm theo hướng dẫn để lấy lại mật khẩu. rồi em vào mail thì nó bảo \" bạn không thể đăng nhập vì tài khoản của bạn bị vô hiệu hóa vì lý do an ninh. để cho phép tài khoản của bạn thì lại vào trang iforgot.apple.com \" thế này là sao ạ. và giờ cứ vòng quanh vậy hả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.24076,
+         "id": "770063",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi chút máy Mac của mình đang xoá bớt file lại bị treo trên màn hình chuột không sử dụng được là sao vậy cảm ơn bạn nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.236435,
+         "id": "1160751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 6 32g khi chơi game hay vào app thì hay bị văng ra ngoài, bực nhất là đang chơi game bị văng ra mà vào lại thì 99% nó lại văng. Mình đã làm nhiều cách như xoá ứng dụng khôi phục lại máy xong tải về lại và vẫn bị văng game như thường, cho mình hỏi là điện thoại mình nó bị gì và có cách nào khắc phục không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.167397,
+         "id": "867690",
+         "field_search": "question",
+         "question": "Dạ mình sử dụng samsung khi mình tải phần mềm viber về thì lại đòi thay đổi vị trí cài đặt mặc định ứng dụng... nên mình k thể tải về để rồi chuyển sang thẻ nhớ được. Ad có thể h.dẫn giúp mình được khôg ạ ? Cám ơn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.10849,
+         "id": "873277",
+         "field_search": "question",
+         "question": " sao điện thoại của mình tự nhiên không cài được zalo. còn phần mềm khác thì cài được. điện thoại của mình là lumia 530 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.059715,
+         "id": "874512",
+         "field_search": "question",
+         "question": "Mình đang xài Note4, nhưng tự nhiên hôm nay cả viber lẫn zalo khi gọi cho người ta thì đầu bên kia không nghe mình nói gì, mà trong khi mình lại nghe rõ đầu dây bên kia nói gì. Gọi bằng cách thông thường thì vẫn nghe. Trường hợp này là máy mình bị như thế nào vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.046246,
+         "id": "1007490",
+         "field_search": "question",
+         "question": "máy tính mình đang dùng tự nhiên máy hôm nay bị chậm, giờ mình muốn cài lại win thì được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

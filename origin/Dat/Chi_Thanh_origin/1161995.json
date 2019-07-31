@@ -1,0 +1,801 @@
+{
+   "id_query": "1161995",
+   "total": 30983,
+   "total_current": 100,
+   "max_score": 107.42223,
+   "origin_question": "Mình có đang góp 1 cái Oppo 3tr2 12 tháng đc 6 tháng nhưng k trễ lần nào, thế bây h góp thêm 1 cái Asus M1 đc k ạ?",
+   "hits": [
+      {
+         "score": 39.600384,
+         "id": "1024418",
+         "field_search": "question",
+         "question": "e có mua trả góp hđ là 6 tháng ,bây giờ e rút ngắn thời gian trả góp đc k ạ . hay 1 lần e có thể trả hết số tiền trả góp đó được k ạ ,có mất phí gì k . e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.732708,
+         "id": "1009852",
+         "field_search": "question",
+         "question": "Tôi đang góp diện thoại đuoc 3 lần còn 3 lần nữa xong,giờ tôi muốn mua góp thêm 1 cái có duọc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.686497,
+         "id": "1141993",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua trả gops 1 cái đt oppo a3s rồi bây giờ em trả góp thêm 1 cái f9 nữa được k ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.884785,
+         "id": "1147130",
+         "field_search": "question",
+         "question": "Ad oi cho em hoi e bây h tính mua oppo f9 mà e chi có 5tr mà cái oppo f9 6tr9 z thì e mua tra góp 1 đến 2 tháng đc không z ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.32703,
+         "id": "1144773",
+         "field_search": "question",
+         "question": " Cho mik hỏi mik có góp 1 cái điện thoại đã góp xong bây h mún góp thêm 1 cái nữa thì có cần làm hồ sơ lại ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.225967,
+         "id": "1009669",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi.  E có mua ĐT oppo f3 trả góp 0 đồng ở tgdđ rạch giá,  góp 12 tháng,  đã góp 1 tháng. Bây h em mún đổi sang điện thoại khác thì có được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.25309,
+         "id": "1001721",
+         "field_search": "question",
+         "question": "Mình mới mua cái oppo f3 hôm qua. Bây h mình muốn đổi máy khác bằng tiền có đc k ? Có pải phụ thêm j k b",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.879402,
+         "id": "1022067",
+         "field_search": "question",
+         "question": "e mua s8+ trả góp tại tgdd mà chưa đc 1 tháng bây giờ em muốn đổi qua ip7plus dc k ạ và đổi qua thì như thế nào vậy bác hướng dẫn giùm e đc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.86122,
+         "id": "1014433",
+         "field_search": "question",
+         "question": "e đang trả góp 1 cái điện thoại mà chưa hết thời gian trả góp. cho e hỏi nếu trong tháng này e trả hết tiền góp còn lại. sau đó e trả góp 1 cái điện thoại khác trong tháng này luôn có đc ko. tháng này e trả góp rồi và điện thoại hư nên e muốn trả hết tiền chiếc đt đó và góp cái đt mới khác.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.326225,
+         "id": "1009165",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mình có mua trả góp cái ipad 2017 nay mình đã trả đc 4 tháng còn lại 8 tháng nữa nếu mình trả luôn 1 lần 8 tháng này thì có giảm tiền ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.278034,
+         "id": "1151875",
+         "field_search": "question",
+         "question": "Em đang trả góp điện thoại sam sung.. Hai tháng nữa là hết.. Giờ em muốn mua trả góp thêm 1 cái nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.14969,
+         "id": "1142727",
+         "field_search": "question",
+         "question": "cho em hỏi là nếu em mua trả góp đt và trả trước 40%và góp 12 tháng, và số tiền còn lại trả góp hàng tháng em có thể trả theo từng tháng. Nhưng nếu còn góp khoảng 4 tháng phải góp nữa mới xong mà em có tiền đủ trả hết luôn trong 1 lần thì có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.88819,
+         "id": "993193",
+         "field_search": "question",
+         "question": "Mình vừa mua đt oppo f3 ngày thứ 2 ngày 12 tháng 6 năm 2017, giờ mình k thích nửa có bán lại đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.59192,
+         "id": "993255",
+         "field_search": "question",
+         "question": "chào QTV mình muốn mua iphone 6 32g tại đồng tháp mà trả góp 6 tháng có đc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.564064,
+         "id": "1161468",
+         "field_search": "question",
+         "question": "mình mua trả góp dt, muốn trả đt có đc k. hợp đồng trả góp k hủy vẫn đóng hàng tháng có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.47929,
+         "id": "878208",
+         "field_search": "question",
+         "question": " Cho e hỏi..ip 5s 16GB e mua đc 6 tháng r..h e mún đổi mua ip 5se..v có trả góp đc k v ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.471577,
+         "id": "1164983",
+         "field_search": "question",
+         "question": "Cho em hỏi CMND + Bằng Lái xe otô của em đã đăng ký góp 2 máy đt , 1 cái của bạn và 1 cái của em, nhưng máy em mất nên em muốn góp 1 máy a50 nữa có đc không ạ... Hàng tháng em vẫn trả góp đầy đủ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.421616,
+         "id": "1017054",
+         "field_search": "question",
+         "question": "Mẹ em muốn mua đt trả gópnhưng trước đó mẹ e có mua 1 cái trả góp rồi vẫn chưa trả xong nếu bây h muốn mua thêm 1c trả góp nữa liệu có được hỗ trợ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.24843,
+         "id": "1145405",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua trả góp IpX 64GB bằng thẻ tín dụng VPBank, trong vòng 6 tới 12 tháng thì mỗi tháng phải trả bao nhiêu, hồ sơ thế nào? Và cách thức thanh toán trả góp ra làm sao, charge hết tiền một lần, hay mỗi tháng sẽ quẹt thẻ 1 lần?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.007,
+         "id": "1019372",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình đẩ mua 2 máy trả góp tại tgdd khoản dc 2 3 tháng j đấy... bay h mình mún mua trả góp thêm 1 sản phẩm khác có dc k ạ. 0967906289",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.891365,
+         "id": "1156141",
+         "field_search": "question",
+         "question": "ở chỗ của bạn đã có hàng samsung a50 chưa vậy.mình muốn mua trả góp cái đt này.nhưng cái đt cũ của mình vẫn còn 4 tháng nữa mới trả xong.vậy mình có mua thêm đc nữa k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.670326,
+         "id": "764188",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình có mua một iPhone 6 plus góp 6 tháng giờ mua thêm một cái nữa được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.560932,
+         "id": "870926",
+         "field_search": "question",
+         "question": "Em đã mua trả góp 1 Laptop. Em mới đóng được 2 tháng. Giờ em muốn mua trả góp nữa đc k? Hộ khẩu đứng tên ba của em thì có đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.151463,
+         "id": "1142513",
+         "field_search": "question",
+         "question": "các dòng iphone có máy nào hỗ trợ trả góp 12 tháng k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.095448,
+         "id": "1161427",
+         "field_search": "question",
+         "question": "Oppo f11 pro mua trả gópTrả trước 10 và góp 12 tháng đc không shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.023346,
+         "id": "1148398",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình góp đc 4 tháng giờ mình ra góp tiếp cái nữa được kh bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.00352,
+         "id": "1134705",
+         "field_search": "question",
+         "question": " Mình mới bên tgdd trả góp còn 2thasng nhưng muốn mua cái thêm cái nữa cũng trả góp được k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.981754,
+         "id": "1140561",
+         "field_search": "question",
+         "question": "Giờ em đang góp 1 chiếc điện thoại Sony mà còn khoảng 2 tháng nữa là góp xong bây giờ em muốn mua góp thêm 1 chiếc liệu có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.887045,
+         "id": "998772",
+         "field_search": "question",
+         "question": "Mình mới mua trả góp 1 cái điện thoại sony trong 6 tháng vậy mình không muốn góp nữa mà muốn thanh toán hết có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.357502,
+         "id": "1157957",
+         "field_search": "question",
+         "question": "Cho hỏi, nếu tôi mua  điện thoại theo hình thức trả góp 6 tháng, nhưng nếu sao  đó tôi thanh toán đủ 1 lần số tiền nợ thì như thế nào? có mất thêm phí hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.180315,
+         "id": "1154820",
+         "field_search": "question",
+         "question": "Cho e hỏi ,bây giờ e đang trả góp điện thoại hiện còn 1 tháng nữa là xong,nhưng bây giờ e muốn mua trả góp thêm  1 chiếc điện thoại nữa thì có được không vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.159956,
+         "id": "1006429",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua trả góp samsungj7 pro , mình là sinh viên thì có gói trả góp lãi suất 0% không ạ và các gói trả góp 6 tháng và 12 tháng là như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.944035,
+         "id": "1156159",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại Huwei trả góp trong vòng 4 tháng , mình trả đc 1 tháng rồi . còn 3 tháng mình thanh lý hợp đồng 3 tháng còn lại đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.78058,
+         "id": "1020623",
+         "field_search": "question",
+         "question": "Chào thegioididong ạ . Em mua trả góp ip6s 64gb trả trong vòng 12 tháng vậy 1 tháng trả bao nhiêu ? Và giấy tờ như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.758677,
+         "id": "1136781",
+         "field_search": "question",
+         "question": " E có mua 1 cái điện thoại trả góp được 2 tháng giờ e muốn đổi lại điện thoại khác ở cửa hàng đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.662575,
+         "id": "789842",
+         "field_search": "question",
+         "question": "Cho em hỏi em có mua cái điện thoại góp bên HomeCredit được 4 tháng rồi bây giờ em muốn mua trả góp thêm cái iphone 6 Plus nữa được không ad, em phải trả trước tối thiểu là bao nhiêu %?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.570892,
+         "id": "1016619",
+         "field_search": "question",
+         "question": "ad ơi e nhờ chút. e có mua trả góp đt thời hạn trả góp 1 năm, hôm e có nghe loáng thoáng rằng trả góp 1 năm thì đc khuyến mãi 2 tháng còn trả góp 10 tháng thoi. đúng k vậy ad...tks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.345934,
+         "id": "1019637",
+         "field_search": "question",
+         "question": "Em vừa mua trả góp 1 cái Nokia 5 chưa dùng xong 1 tháng bây giờ muốn trả lại điện thoại có được không vậy .. .?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.345612,
+         "id": "1151924",
+         "field_search": "question",
+         "question": "hiện e có mua 1 sản phẩm trả góp và bây h e muốn mua trả góp 1 sản phẩm nửa có đc hk ạ e mua trả góp bên  fe credit ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.221409,
+         "id": "995643",
+         "field_search": "question",
+         "question": "admin cho em hỏi em còn 1 tháng trả góp nữa thì có đc mua trả góp tiếp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.212996,
+         "id": "991775",
+         "field_search": "question",
+         "question": "Mình mới mua đt oppo f3 trả góp được 1 tuần. Bây giờ mình được ng nhà cho cái đt iphone nên muốn bán lại oppo f3 cho tgdd. Mình muốn hỏi đt trả góp thì tgdd có mua lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.19503,
+         "id": "1151228",
+         "field_search": "question",
+         "question": "Dạ thế giới đi động cho em hỏi, em muốn mua điện thoại asus zenfone max pro m1 trả góp vậy 1 tháng trả bao nhiêu lận ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.070694,
+         "id": "1015814",
+         "field_search": "question",
+         "question": "Mình hiện có đt iPhone 5se mới mua đc 9 tháng mình muốn đổi đt và trả góp có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.005527,
+         "id": "1012135",
+         "field_search": "question",
+         "question": "Em mua máy trả góp h muốn bán lại cho người khác đc k nhỉ? Em vẫn trả góp hàng tháng nhg máy thì bán cho ng khác ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.884459,
+         "id": "999416",
+         "field_search": "question",
+         "question": "Cho em hỏi là oppo f1s 2017 mua trả góp lãi xuất 0 thì 1 thán trả góp bao nhiêu tiền ạ trong vòng 12 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.708261,
+         "id": "1162604",
+         "field_search": "question",
+         "question": "tư vấn dùm em với ạ...hiện tại em đang trả góp 2 cái đt mà giờ em muốn mua trả góp thêm 1 cái nữa có được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.656681,
+         "id": "1153194",
+         "field_search": "question",
+         "question": "Mình đang trả góp 1 con điện thoại , giờ muốn mua thêm một máy trả góp nữa có được ko ạ . Máy trước mình trả được 4 tháng rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.040161,
+         "id": "1006519",
+         "field_search": "question",
+         "question": "Em có mua 1 cái dt bên fe credit hỗ trợ giờ e muốn mua 1 cái trả góp 0đ khác có dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.864853,
+         "id": "1155520",
+         "field_search": "question",
+         "question": "Đặt trước trả góp asus m1 max pro như thế nào . Lãi suât bao nhiêu trả trong mấy tháng. Cần giấy tờ gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.755444,
+         "id": "999630",
+         "field_search": "question",
+         "question": "Ai biết cách khắc phục tình trạng này k. đt tôi là oppo neo7 đùng đc khoảng 6 tháng thì tôi dùng thêm sin vietnam từ lúc đó trên màn hình nó hiện lên cái loa kêu 1 tiếng r tự động out game ai biết cách khắc phục chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.59934,
+         "id": "999248",
+         "field_search": "question",
+         "question": "cho mình hỏi chút. mình vừa mua cái đồng hồ trả góp  sam,sung gear s3 frontier, chưa đc 1 tháng mà dùng nó đơ, vs thỉnh thoảng mất tiếng lúc nghe nhạc, giờ mình muốn các thêm để đổi sang con iphone 7 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.462502,
+         "id": "1001859",
+         "field_search": "question",
+         "question": "em đặt cọc ngày 672017 1 cái samsung j7 pro, nhưng giờ em mua trả góp được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.40187,
+         "id": "1021010",
+         "field_search": "question",
+         "question": "Đth nokia 3 em mua chưa đc 1 tháng nhưng nó bị sập nguồn ko kở lên đc 2 lần rồi , máy em nó cũng bị nứt màn hình rồi nên ko đổi đc cái mới đúng ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.28371,
+         "id": "1134452",
+         "field_search": "question",
+         "question": "AC cho e hỏi đt oppo f9 e mua đc 3 tháng r mí hôm trc tự nhiên dùng cái nút nguồn của e lúc bấm en lúc k ạ rồi h bấm k ăn lun .là bị s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.125553,
+         "id": "996770",
+         "field_search": "question",
+         "question": "Mình hiện tại đang góp bên homecredit trong vòng 8 tháng. Mình đã góp trong vòng 6 tháng tất đúng hẹn. Liệu mình có thể vay thêm số tiền lại như cuc được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.07506,
+         "id": "1146371",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình còn 2 tháng nữa là góp xong ĐT. Bây h mình ra đóng luôn 2 tháng để chấm dứt hợp đồng góp. Sau đó mình mua tiếp sản phẩm khác trong ngày. Được k vậy QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.834091,
+         "id": "1142338",
+         "field_search": "question",
+         "question": "Mình mua chiếc realme 2 pro đc 2 tháng góp... Giờ mình mua đổi đơi máy thì có đc k ak... Và giá trí ntn ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.802635,
+         "id": "993927",
+         "field_search": "question",
+         "question": "e muốn mua con oppo neo 9 trả góp thì phải trả trong 1 năm hay 6 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.666197,
+         "id": "1152485",
+         "field_search": "question",
+         "question": "Hiện tại mình đang đùng đt xiaomi mi a2 vừa mua ( góp ) được 1 tháng nhưng do như cầu cần lượng pin lớn hơn mình đổi sang xiaomi redmi note 6 pro, thì mình phải bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.624723,
+         "id": "1134803",
+         "field_search": "question",
+         "question": "tôi muốn mua 1 máy samsunggalaxy A7 trả góp qua thẻ tín dụng sacobank thời hạn 12 tháng cho tôi hỏi mỗi tháng sẽ góp bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.544989,
+         "id": "1022106",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình óc mua 1 con acer aspire e5 573g bên tgdd, h nó bị hư 1 cái phím này, cho mình hỏi bên tgdd có thể thay cho mình phím đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.531132,
+         "id": "766565",
+         "field_search": "question",
+         "question": " iPhone 6s 16GB góp như thế nào ? Trả trước bao nhiêu tiền ? Góp bao nhiêu 1 tháng ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.359825,
+         "id": "996709",
+         "field_search": "question",
+         "question": "Trước mình mua trả góp bên TGDD mình. Mình nhớ là các bạn có báo là hạn nộp là ngày 25 đến ngày 1 hàng tháng nhưng hnay 26 bên ngân hàng đã nhắc là mình là trễ hạn 1 ngày rồi là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.33448,
+         "id": "1165791",
+         "field_search": "question",
+         "question": "E mua máy f9 trả góp đc 2 tháng rùi giờ e muốn đổi máy f9 phụ thêm tiền lấy máy oppo f11 có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.326225,
+         "id": "1006394",
+         "field_search": "question",
+         "question": "Sao dt iPhone 6 mới ngày 23 tháng 7 mình mua nhân viên nói là mình mua sim đồ đầy đủ hết r mỗi tháng nạp 50k gọi miễn phí bao nhiêu cũng đc mà mỗi lần gọi là 10p là tắt mà được cái gói đó 1 năm luôn , mà sao tháng này mình cũng nạp 50 nhưng ko đc gọi miễn phí dưới 10p là sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.223314,
+         "id": "998129",
+         "field_search": "question",
+         "question": "E mua góp samsung j7 prime .và góp đc 1 tháng r .giờ e muốn đổi đt khác thì fai làm sao vậy ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.16757,
+         "id": "1143638",
+         "field_search": "question",
+         "question": "điện thoài oppo f9 trả góp thì đưa trước khoảng bao nhiu và 1 tháng góp nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.166262,
+         "id": "1145667",
+         "field_search": "question",
+         "question": "Bây h có hạ đc ios 12 xuống 11 nữa k các bạnHaizz ngủ dậy thấy n tự lên ios 12 chán quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.061543,
+         "id": "992363",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu mình đặt hàng onl trên tgdd, đơn hàng đã đc xác nhận như này thì khi hàng về mình đến chỗ tgdd mua trả góp đc k ạ, hay là chỉ đc trả tiền hết 1 lần ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.039865,
+         "id": "999052",
+         "field_search": "question",
+         "question": "Mẹ Mình mua góp dùm iphone 6 32GB giá 8.990k và trả góp 8 tháng dùm mình vì mình chưa đủ tuổi và đã trả được 1 tháng và ngày 8/7/2017 mình sẻ đóng là tháng thứ 2 và mình thấy iphone 6s plus 32GB lên kệ với giá là 14.990k ... mình muốn trả dồn hết 1 lần tiền góp iphone 6 trong vòng 7 tháng nữa được không ??? và mình có thể bán lại máy iphone 6 rồi bù tiền để lên iphone 6s plus không ? và cần đem những gì để trả góp hết 1 lần ?Máy được sử dụng vào ngày 13/5/2017 nếu bán lại TGDD thì mất bao nhiêu % ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.018555,
+         "id": "1160960",
+         "field_search": "question",
+         "question": "em 20 tuổi đang là sinh viên có làm thêm lương tháng 5tr + tiền của gia đình cho hằng tháng là 3tr k biết em có thể mua trả góp note 8 được k ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.992105,
+         "id": "1013099",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Ngày mùng 8/8/2017 mình có mua đt a5 ở thế giới di động. Nhưng hiện nay dùng thì bị tụt bin quá nhanh. Trong vòng 1 tiếng k sử dụng, k bật mạng mà vẫn bị hao 30%. Vậy tôi hỏi có đc đổi 1 với 1 trong vòng 1 tháng k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.989529,
+         "id": "1148367",
+         "field_search": "question",
+         "question": "Oppo a7 mua gần 2 tháng h bán lí nhiu vậy ad . Mất hộp bán đc k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.979824,
+         "id": "1134953",
+         "field_search": "question",
+         "question": "Một lúc mua góp 2 máy đã sử dụng một lần có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.968868,
+         "id": "1148971",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình có mua 1 cái Nokia 5.1 plus mà s mình mới sử dụng hơn 2 tháng mà đt Bỉ hư cảm biến vs đt Bỉ đơ vậy mình có thể đổi đt khác đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.934877,
+         "id": "986519",
+         "field_search": "question",
+         "question": "Em có mua trả góp h tới tháng em có thể đóng lãi xuất qua atm đc ko??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.914194,
+         "id": "1162943",
+         "field_search": "question",
+         "question": "là mình đang góp con iphone 7 plus thì có góp tiếp 1 máy khác đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.819672,
+         "id": "1015412",
+         "field_search": "question",
+         "question": "Mua laptop asus ROG GL553VD trả góp có đc tặng balo vs chuột k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.809116,
+         "id": "1001886",
+         "field_search": "question",
+         "question": "hệ thống cho mình hỏimình muốn mua 1 em iphone 6 32 ghe mà xám , mà mình tháng này ko có trả trước 30% , nhưng nếu 1 tháng mình trả 1500k thì lãi có thay đổi gì ko ạhay thời gian 12 tháng mình trả 6 tháng thì có thay đổi nhiều không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.807257,
+         "id": "1143323",
+         "field_search": "question",
+         "question": "Em mới mua 1 oppo f9 trả góp 4 tháng ạ. Giờ e muốn đổi qa ip 7 plus cũ thì cần bù thêm bao nhiêu tiền ạ. Có thay đổi cách trả góp kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.799297,
+         "id": "1012785",
+         "field_search": "question",
+         "question": "Cho e hỏi e đã mua góp đt oppo f3 tra gop 9 tháng của fe credit. Giờ e muốn mua thêm oppo f3 red góp k lãi suất được hôg ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.604345,
+         "id": "1024300",
+         "field_search": "question",
+         "question": "Mod ơi em có máy asus zenfone 3 max 5.2inc mua tại tgdd đã trả góp xong 5 tháng. Bây giờ em muốn đổi qua máy mới thì nên đổi trả 1-1 và bù thêm tiền hay là bán lại cho cửa hàng ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.594955,
+         "id": "995390",
+         "field_search": "question",
+         "question": "Mình có mua trả góp cái Oppo f3 bây giờ còn bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.409506,
+         "id": "764808",
+         "field_search": "question",
+         "question": " Mình muốn mua iPad mini trả góp thì cách thức làm như thế nào ạ, 1 tháng mình phải đóng bao nhiêu?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.399885,
+         "id": "1000328",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi cái này đc k ạke mua llại laptop cua người khác mua tại tgdd chưa đc 1 thang thế e co đc trả máy k ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.38564,
+         "id": "1149931",
+         "field_search": "question",
+         "question": "Em đang dùng ip6 và ios 12, bây giờ em có thể về lại ios11 đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.344898,
+         "id": "1164469",
+         "field_search": "question",
+         "question": "Em có mua một máy Samsung J6 plus trả góp xong rồi ạ. EM mua được tầm 4-5 tháng. giờ em muốn đang sang Realme 3 có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.320557,
+         "id": "1166152",
+         "field_search": "question",
+         "question": "Mình mua 1 chiếc ss s10 dc 3 tháng ở tgdd , hn mình ms thử test cam sau che từng cái 1 thì có 1 cái cam x2 k hoạt động , mình muốn hỏi nv là bị ls ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.279352,
+         "id": "1146996",
+         "field_search": "question",
+         "question": "Cho e hỏi.  E daq có góp. 1 cái đt j7pro sắp xoq. Vs vay bên ngân. Hàng 10tr e có thể mua góp s9 dc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.242601,
+         "id": "1163860",
+         "field_search": "question",
+         "question": "Mình đang mua trả góp chiếc ip xr. Giờ mình muốn trả lại để mua ip 8 plus cũng trả góp đc k? Chi phí như thế nào ạ? 0988867567 Nguyễn Công Phương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.228409,
+         "id": "1136738",
+         "field_search": "question",
+         "question": "Cho e hỏi e trả góp điện thoại trong 6 tháng và bây giờ đã trả đủ xong 6 tháng.vậy bây giờ có cần hủy hợp đồng hay làm gì nữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.189995,
+         "id": "1015699",
+         "field_search": "question",
+         "question": "Hợp đồng minh trả góp 9 tháng giờ minh trả đc 4 tháng mình mioons thanh lý hợp đồng thì tiền lãi sẽ tính thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.17743,
+         "id": "1159772",
+         "field_search": "question",
+         "question": "E hỏi e sinh ngày 12 tháng 3 năm 1999. E đứng tên mua trả góp được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.153385,
+         "id": "1162890",
+         "field_search": "question",
+         "question": "H mình muốn đổi máy khác khi máy ms mua chưa đc 1 tháng thì quy trình ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.137348,
+         "id": "1013331",
+         "field_search": "question",
+         "question": "E đi học 6 tháng k đc sử dụng đt, như vậy đt e có bị chai pin k ạ, có cách nào để khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.048544,
+         "id": "822342",
+         "field_search": "question",
+         "question": "Chào ad, lúc trc có mua 1 laptop asus tại cửa hàng tgdd, sau 1 tg sử dụng thì e thấy máy hơi lag nên đã đặt lại pc nhưng k đc khoảng 3 tiếng thì máy báo bị lỗi và h khởi động k lên nữa, chỉ hiện chữ asus 1 lúc r tắt. Ad chỉ em cách khắc phục đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.001097,
+         "id": "1166932",
+         "field_search": "question",
+         "question": "Hiện tại em đang góp cái oppo f11 pro 64gb ở tháng thứ 2... Nếu muốn đổi lên oppo f11 pro 128 gb thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.952856,
+         "id": "1000093",
+         "field_search": "question",
+         "question": ". ví dụ như h muốn mua trả góp 1 con OPPO F1s mà trả trước 4tr còn bao nhêu tháng sau trả đủ có được không nhỉ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.881588,
+         "id": "1147032",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Nếu mình mua trả góp 0% một cái điện thoại. Trả trước 30% vào khoảng 1 triệu. Và số còn lại trả trong vòng 4 tháng. Thì ngay lúc mua mình chỉ cần trả 1 triệu, hay đóng thêm cả tháng đầu tiên vào lúc mua luôn.. mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,793 @@
+{
+   "id_query": "769574",
+   "total": 29365,
+   "total_current": 100,
+   "max_score": 59.489834,
+   "origin_question": " Cho em hỏi là  ổ đĩa của laptop Asus E402MA N2840 ở đâu ạ?    ",
+   "hits": [
+      {
+         "score": 23.70496,
+         "id": "841843",
+         "field_search": "question",
+         "question": " alocho e hoi Asus E402MA N2840 tgdd 1797 HTP huyen nha be co hang k a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.039255,
+         "id": "768091",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua nhưng tại sao ổ đĩa DVD  ..lúc mình bỏ đĩa vào nó lên hình nhưng không có tiếng là sao ạ..giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.393692,
+         "id": "894081",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng Laptop Hp 15 core i3/5005u/4Gb có hổ trợ ổ DVD Super Multi Double, với ổ đĩa như thế em có thể dùng được những loại đĩa nào, cho hỏi thêm laptop của em có hổ trợ ghi đĩa không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.079735,
+         "id": "1004456",
+         "field_search": "question",
+         "question": "Cho em hỏi có laptop 1214 inch, có ổ đĩa giá rẻ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.959743,
+         "id": "994587",
+         "field_search": "question",
+         "question": "vì sao laptop của tôi không có ổ đĩa d  và e. Nó chỉ có ổ đĩa cvà f thôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.796207,
+         "id": "1135343",
+         "field_search": "question",
+         "question": "làm seo để cho ổ đĩa d hết đầy ạ... ổ đĩa c ws f là 415 GB là ổ d 15 GB",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.35435,
+         "id": "808405",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop acer aspire E 14 ES1411P43Q mở ổ đĩa bằng cách nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.335678,
+         "id": "1017063",
+         "field_search": "question",
+         "question": "cho em hỏi cách mở ổ đĩa dvd của máy ES1533P7AP như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.28121,
+         "id": "814756",
+         "field_search": "question",
+         "question": " Em dùng laptop ASUS F454L .Cho em hỏi cắm chuột vào laptop thì cắm ở đâu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.88971,
+         "id": "961139",
+         "field_search": "question",
+         "question": " Máy tính của e là windown xp khi kết nối vs PC thì máy chỉ sạc pin không thấy ổ đĩa đâu hết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.843601,
+         "id": "1008606",
+         "field_search": "question",
+         "question": "Add cho em hỏi phát nhạc của điện thoại asus zenfone Go ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.841959,
+         "id": "764714",
+         "field_search": "question",
+         "question": " Cho e hỏi. Em mua laptop asus người ta cho 1 đĩa. Cái đĩa đấy có cài đc win ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.517937,
+         "id": "1154370",
+         "field_search": "question",
+         "question": "laptop lenovo ideapad 320 có ổ đĩa không....và cách mở ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.500282,
+         "id": "797553",
+         "field_search": "question",
+         "question": " tại sao laptop em mua hãng dell lại không có ổ đĩa DVD ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.417015,
+         "id": "880132",
+         "field_search": "question",
+         "question": " laptop asus x555uj i7 của e mới mua lúc khởi động n kêu ở ổ DVD..tối nghe rõ..vậy là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.328865,
+         "id": "750782",
+         "field_search": "question",
+         "question": "Máy mình là Asus S56C ổ lai mình vào bios thì không thấy ổ SSD đâu cả cho mình hỏi có phải con ổ đó đã bị chết không thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.020943,
+         "id": "876958",
+         "field_search": "question",
+         "question": "ad ơi tại sao máy tính asus win 8 của em hay bị CPU 99% và ổ đĩa từ 90-100% là như thế nào ạ.. mong ad khắc phục lỗi hộ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.98373,
+         "id": "926952",
+         "field_search": "question",
+         "question": " cho em hoi la em dang su dung laptop asus E402MA ram 2GB vay may co bao nhiu khe cam ram ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.698584,
+         "id": "1133809",
+         "field_search": "question",
+         "question": "Cho em hỏi là em cài lại Win ở Thegioididong về thì mở This PC ra nó có Ổ đĩa D bị khóa như này là sau ạ. Có cách nào mở khóa không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.499287,
+         "id": "800725",
+         "field_search": "question",
+         "question": " Có cách nào sử dụng đĩa quang trên laptop mà không có ổ đĩa không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.331276,
+         "id": "996074",
+         "field_search": "question",
+         "question": "Cho em hỏi có dòng Dell nào mà không có ổ đĩa CD không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.190565,
+         "id": "768376",
+         "field_search": "question",
+         "question": "Cho em hỏi là: sao laptop Asus A540L win 10 em mới mua ở Điện Máy Xanh được ít hôm..Nhưng sao em mua đĩa về bỏ vào thì lên hình nhưng lại không lên tiếng ạ. Giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.931587,
+         "id": "1144265",
+         "field_search": "question",
+         "question": "Cho mình hỏi là những biểu hiện nào cho thấy ổ đĩa disk có vấn đề hoặc bị hỏng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.929579,
+         "id": "1143337",
+         "field_search": "question",
+         "question": "tgdd ơi cho em hỏi tình hình ổ đĩa của em như thế này không phân vùng đc em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.861866,
+         "id": "758767",
+         "field_search": "question",
+         "question": "Chào Thế giới di độngTGDĐ cho mình hỏi tại sau ổ cứng của mình không chia được 2-8 (60G - 240G trong đó mình muốn ổ C = 60G và D=240G), nhưng hệ thống chỉ cho chia 5 - 5 (150- 150G), ổ cứng mình có dung lượng 300G ổ đĩa mình ở dạng GTP.Mình chia ổ cứng bằng Disk Management của hệ thống.Mong được TGDĐ chỉ phương pháp chia ổ đĩa 60 -240G.​​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.746109,
+         "id": "802384",
+         "field_search": "question",
+         "question": "Anh (chị) cho em hỏi. Em muốn mua laptop để học và lưu tài liệu, có hổ trợ ổ đĩa DVD. Thế em nên chọn loại mấy như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.705297,
+         "id": "761787",
+         "field_search": "question",
+         "question": "Laptop asus của em bị hư ( chắc là lỗi hệ thống) không khởi động được, qtv cho em hỏi dữ liệu trong hai ổ đĩa D và E có bị mất không và nếu em mua máy mới thì có cách nào chuyển dữ liệu từ máy bị hư này sang máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.660147,
+         "id": "827127",
+         "field_search": "question",
+         "question": " Cho em hỏi thay ổ đĩa cứng cho laptop thì hết bao nhiêu tiền ạ? Và khi thay thì có bị mất hết dữ liệu không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.650318,
+         "id": "858297",
+         "field_search": "question",
+         "question": "Cho mình hỏi là ASUS K555LA-XX2716D- Core i3-4GB-ổ đĩa cứng 500GB-hiển thị 15.6 LED HDcó chơi lmht mượt k ạCảm ơn mọi người !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.581078,
+         "id": "763497",
+         "field_search": "question",
+         "question": " Laptop Asus của em bị hư ổ cứng nếu muốn thay khoảng bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.566618,
+         "id": "863422",
+         "field_search": "question",
+         "question": " Cho em hỏi sao em không mở được ổ đĩa máy tính Acer Aspire E1 em cảm ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.467823,
+         "id": "795729",
+         "field_search": "question",
+         "question": " Cho mình hỏi nút bật wifi của laptop sony vaio VPSCB11FX ở đâu ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.466593,
+         "id": "750863",
+         "field_search": "question",
+         "question": "Anh cho em hỏi cài windows 10 mất dữ liệu trên ổ đĩa nào vậy anh và có mất ứng dụng trên máy không. hiện tại em đang dùng laptop asus hệ điều hành windows 7 ultimate không bản quyền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.136967,
+         "id": "970122",
+         "field_search": "question",
+         "question": "Laptop em mới mua trước tết em thấy máy chỉ có 1 ổ đĩa nên em đã xem có một ổ bị khóa nên không mở được.giờ em đi mở có được bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.13435,
+         "id": "1017076",
+         "field_search": "question",
+         "question": "Cho em hỏi, có nên mua lap top không có ổ đĩa quang DVD không? em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.069635,
+         "id": "942212",
+         "field_search": "question",
+         "question": " cho mình hỏi là cài win theo chuẩn uefi có mất dữ liệu các ổ đĩa k, win cũ của máy mình đã theo chuẩn gpt rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.897142,
+         "id": "923365",
+         "field_search": "question",
+         "question": "Xin chào. Tôi đang sử dụng macbook pro 2008. Tôi bị hư ổ đĩa dvd và tôi muốn sử dụng ổ đĩa rời để đưa đĩa vào cài win cho macbook có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.880262,
+         "id": "1141133",
+         "field_search": "question",
+         "question": "Em đang có dự định mua máy tính tại thế giới di động, cụ thể là laptop asus nhưng laptop này lại dùng ổ cứng hdd, Em muốn hỏi là ngay khi lúc mua em muốn lắp ngay ổ cứng ssd vào thì có bị mất bảo hành của máy không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.832703,
+         "id": "1144073",
+         "field_search": "question",
+         "question": "Laptop acer aspire E15 không có mở được ổ đĩa rời. Mong nhận được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.59209,
+         "id": "819267",
+         "field_search": "question",
+         "question": "Xin chào Thế Giới Di Động. Em tên Dương. Xin cho em hỏi: em đang có một chiếc laptop asus tp501ua, máy có ổ cứng là 500GB nhưng mà em muốn gắn thêm 1 ổ cứng ssd nữa có được không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.567461,
+         "id": "775199",
+         "field_search": "question",
+         "question": " Cho em hỏi em mới mua máy asus, máy có tiếng kêu rẹt rẹt ở ổ cứng. Mọi người cho em hỏi có làm sao không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.479834,
+         "id": "843345",
+         "field_search": "question",
+         "question": " cho em hỏi mua card màn hình cho laptop ở đâu vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.453102,
+         "id": "830433",
+         "field_search": "question",
+         "question": " cho em hỏi laptop asus k43e vx113 cần chọn ổ cứng 500gb như thế nào phù hợp buss ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.431969,
+         "id": "758147",
+         "field_search": "question",
+         "question": " Cho mình hỏi mở đèn bàn phím của Asus K46C mở ở đâu vậy bạn? Cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.381208,
+         "id": "1131686",
+         "field_search": "question",
+         "question": "Anh/chị ơi em muốn thay ổ đĩa sản phẩm nàyhttps://www.thegioididong.com/laptop/acer-aspire-e5-575g-53ec-i5-7200uBằng ổ cứng ssd thì nên sử dụng caddy bay 9.5mm hay 12.5mm ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.372824,
+         "id": "936728",
+         "field_search": "question",
+         "question": "cho mình hỏi khi mình mua laptop dell inspiron 14 3000 series thông tin máy ghi là bộ nhớ trong của máy là 500GB nhưng khi mình xài thì mày chỉ hiện lên mỗi ổ (C) nhưng ổ (C) chỉ có 113GB thôi.Vậy phần bộ nhớ còn lại ở đâu? Làm sao để sử dụng phần bộ nhớ ấy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.369318,
+         "id": "924251",
+         "field_search": "question",
+         "question": " Chị ơi máy tính em là loại acer trên máy tính có ổ đĩa nhưng e không mở được,phải làm sao ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.329086,
+         "id": "927778",
+         "field_search": "question",
+         "question": " Làm sao để mở ổ đĩa của dell inpiron 15 3000 series ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.236113,
+         "id": "1134323",
+         "field_search": "question",
+         "question": "Trung tâm bảo hành của msi laptop em mua tại tgdd là ở đâu vậy ạ, em muốn đến trung tâm để trực tiếp bảo hành cho máy em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.03219,
+         "id": "788282",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm cách nào để cho ổ DVD trog laptop chạy được, mình đã bỏ đĩa vào nhưg nó k đọc đc tập tin trog đó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.907033,
+         "id": "1134321",
+         "field_search": "question",
+         "question": "Trung tâm bảo hành của msi laptop em mua tại tgdd là ở đâu vậy ạ, em muốn đến trung tâm để trực tiếp bảo hành cho máy em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.878258,
+         "id": "1135405",
+         "field_search": "question",
+         "question": "Em đang sài laptop asus ổ cứng SSD 24G+ HHD 1TB nếu cài win lên ổ ssd thì khi ổ HHD hư máy tính có khởi động được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.834208,
+         "id": "1160760",
+         "field_search": "question",
+         "question": "Laptop dell 5570 ổ dvd máy này có nhận đĩa bluray ko ạNếu ko mình có thể nâng cấp dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.806048,
+         "id": "1135320",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop asus của mình mới mua tầm 2 tuần, mình muốn thay ổ cứng ssd thì phải ra trung tâm asus hay sao ạ? bên dưới mây có tem digiworld, khi tháo ra còn bảo hành không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.791535,
+         "id": "753439",
+         "field_search": "question",
+         "question": " Cho em hỏi kiểu máy SLA là xách tay ở đâu vậy ạ ? Tks ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.731754,
+         "id": "1012039",
+         "field_search": "question",
+         "question": "Chào tgdd, tôi muốn hỏi ở đây có bán ổ cứng SSD cho laptop không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.644456,
+         "id": "755485",
+         "field_search": "question",
+         "question": "Tự nhiên ổ đĩa C tự nhiên có đầy, sau đó dù đã dùng CCleaner, disk cleanup, %tempt%,... Nhưng sau đó ổ đĩa C lại đầy lại. Vậy có cách nào làm ổ đĩa C hết đầy ảo nữa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.563126,
+         "id": "990660",
+         "field_search": "question",
+         "question": "ad cho e hỏi laptop acer es1 533 có ổ đĩa. mà sao e ko mở đc ra. vào my computer cx ko có.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.539734,
+         "id": "759056",
+         "field_search": "question",
+         "question": " Cho em hỏi khi bắn bluetooth ảnh từ điện thoại sang laptop thì ảnh được lưu ở đâu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.430096,
+         "id": "1008904",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi là nếu mình tháo một ổ cứng từ máy tính cũ lắp sang máy mới (máy mới đã có ổ C) thì máy mới có nhận đó làm ổ đĩa C mới không hay sẽ nhận nó là ổ lưu trữ như ổ D / E???Mình muốn tăng bộ nhớ cho máy tính ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.423775,
+         "id": "909498",
+         "field_search": "question",
+         "question": "Gộp ổ đĩa C và DSau khi em bỏ Page File của ổ D và xóa đi, nó trở thành phân vùng trống màu đen. Tiếp đến em click phải vào ổ C nhưng chữ Extend... không hiện lên, vậy làm sao để có thể gộp ổ D vào ổ C ạ? Máy em Windows 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.395116,
+         "id": "808597",
+         "field_search": "question",
+         "question": "- Cho em hỏi sao cài Win 10 trong ổ đĩa chỉ có ổ C thôi ạ? Và sau khi cài em bị mất Microsoft Office, bây giờ em đem laptop đến bảo hành thì có tốn phí không ạ? ví dụ như cài lại máy bao gồm các ứng dụng cần thiết?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.305872,
+         "id": "877852",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình mới mua một lap lenovo, cả ổ đĩa là 27,8 gb, mình chia thành 2 ổ, một ổ c và một ổ d, trong quá trình sử dụng, chủ yếu là lướt web,nghe nhạc, xem phim trên trình duyệt cốc cốc không chơi game, không tải gì hết, nhưng dung lượng free của ổ c lại bị giảm đi, mình đã xóa lịch sử truy cập, file tạm, disk cleanup ổ đĩa, thậm chí xóa system restore nhưng vẫn không lấy lại được hết dung lượng, mà chỉ lấy được một phần.. lúc đầu trong ổ c có 8,31gb free, giờ chỉ còn 7,78gb free. mình muốn hỏi là do đâu mà lại như vậy? tại sao lap người khác không bị hiện tượng mất dung lượng khi lướt web mà máy mình lại bị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.292026,
+         "id": "993323",
+         "field_search": "question",
+         "question": "máy tính của em bị hư ổ đĩa vừa mới sửa xong, về để đĩa vào thì lại tiếp tục không nhận được, vậy thì rốt cuộc máy bị gì thế?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.19866,
+         "id": "771409",
+         "field_search": "question",
+         "question": "  Mọi người cho em hỏi? Bộ nhớ tạm của Samsung J2 nằm ở đâu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.184121,
+         "id": "768538",
+         "field_search": "question",
+         "question": " làm sao mở ổ đĩa acer es1531c6te a...................... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.065857,
+         "id": "891153",
+         "field_search": "question",
+         "question": " TGDd Cho em hỏi Laptop ASUS F555LF còn hàng ở huế k ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0223255,
+         "id": "797243",
+         "field_search": "question",
+         "question": " Làm sao để mở ổ đĩa laptop dell đây khi nó chẳng có nút, phải làm thế nào?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.987333,
+         "id": "758353",
+         "field_search": "question",
+         "question": " Dây sạc laptop asus của em bị hư ở đây có bán loại đó không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9450865,
+         "id": "1008882",
+         "field_search": "question",
+         "question": "Cho em hỏi là J7 của em nửa màn hình phía dưới hay bị nháy là bị gì vậy ạ? Nếu máy bị hư hỏng thì em phải sửa ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.878993,
+         "id": "1010867",
+         "field_search": "question",
+         "question": "cho em hỏi add. Sạc laptop nhà em bị gãy ổ cắm vậy có thể thay ổ cắm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.827621,
+         "id": "1158001",
+         "field_search": "question",
+         "question": "tôi muốn nâng cấp ổ ssd cho laptop asus mà không muốn mất bảo hành, vậy tôi có thể tìm chi nhánh asus nào ở HCM, và cách tìm trên trang thegioididong ntn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.79951,
+         "id": "927789",
+         "field_search": "question",
+         "question": " cho mình hỏi ổ đĩa c bị đầy phải làm sao mình làm mọi cách mà 0 được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.755422,
+         "id": "793032",
+         "field_search": "question",
+         "question": " Cho em hỏi về bộ nhớ tạm của mát samsung galaxy note 5 ở đâu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.705826,
+         "id": "1156074",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao máy mac của e cứ báo ổ đĩa đầy suốt mặt dù máy e chỉ có vài ba tệp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.688006,
+         "id": "1015315",
+         "field_search": "question",
+         "question": "Cho em hỏi, thế giới di động có bán pin laptop không ạ. nếu không có, cho em hỏi e có thế mua pin toshiba ở đâu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.61961,
+         "id": "1005034",
+         "field_search": "question",
+         "question": "cách khắc phục ổ đĩa tự động bung ra thì phải làm sao các bác giúp em với ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.581398,
+         "id": "998811",
+         "field_search": "question",
+         "question": " Dell Latitude E6430 Ram 4G  DDR3 . Ổ đĩa cứngHDD 250GB  5400RPM có chơi lol bị gật ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.527098,
+         "id": "1141525",
+         "field_search": "question",
+         "question": "Dạ anh cho em hỏi. em có mua một máy laptop ở thế giới di động, giờ em muốn nâng cấp ổ ssd m2 sata thì các anh có thể hỗ trợ em việc lắp ổ ssd được ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.52473,
+         "id": "892844",
+         "field_search": "question",
+         "question": " Cho mình hỏi FSA là iphone suất sứ ở đâu ạ, sao em tìm mãi không có ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.4332,
+         "id": "804630",
+         "field_search": "question",
+         "question": " Nâng ram laptop asus len 4gb mất bao nhiêu tiền vậy mà có thể mang đến nâng cấp ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.355897,
+         "id": "970506",
+         "field_search": "question",
+         "question": " Ad cho e Hỏi iphone 6 Kiểu máy MG492JA là ở đâu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.348785,
+         "id": "914051",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop của em hiệu ASUS không mở camera lên được???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.34703,
+         "id": "1008356",
+         "field_search": "question",
+         "question": "Chi nhánh của thế giới di động ở Huyện Ninh Giang  Hải Dương là ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.30611,
+         "id": "1144491",
+         "field_search": "question",
+         "question": "a ơi laptop asus vivobook S510U e đang dùng ổ HDD giờ bỏ thêm ổ SSD vào cùng lúc đc k hay phải tháo HDD ra ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.300484,
+         "id": "1140123",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao laptop asus của em chỉ sử dụng 2 tiếng là nhanh hết pin, và làm sao để lâu hết pin vậy ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.20344,
+         "id": "1155047",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách kết nối bluetooth z6000s với laptop với. Của mình là laptop asus p550c",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.176888,
+         "id": "882679",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao laptop hp của em lại có 2 pin như hình ạ. Đó là lỗi hay gì? Nếu k lỗi thì chức năg của pin 1 là gì? Sao lại k khả dụg? Bật tắt nó ở đâu ạ? Còn lỗi thì khắc phục làm sao? Em Mong có câu trả lời sớm !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.135295,
+         "id": "948753",
+         "field_search": "question",
+         "question": " dell 3468 có 1 ổ đĩa C thôi gần 1000G cho em hỏi nếu cài lại win thì tất cả dữ liệu sẽ mất hết hay sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.128779,
+         "id": "804729",
+         "field_search": "question",
+         "question": " SHOP CHO MÌNH HỎI LÀ XEM HẠN BẢO HÀNH CỦA IPHONE 5S Ở ĐÂU VẬY SHOP ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.0898905,
+         "id": "1163554",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là Laptop Asus X507U có hổ trợ đèn bàn phím không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.085962,
+         "id": "1005898",
+         "field_search": "question",
+         "question": " Laptop Asus GL553VE i7 7700HQ ổ cứng có dung lượng bao nhiêu vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.98717,
+         "id": "1140648",
+         "field_search": "question",
+         "question": "cho e hỏi vsmart joy 1 đã có ở đâu của tgđ bán chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.907575,
+         "id": "774234",
+         "field_search": "question",
+         "question": "TGDĐ vui lòng chỉ mình cách cài win 8.1 máy asus X454L, mình cài Win 8.1 hay win10 nó đều dừng ở 0% bước đầu tiên, chia ổ đĩa bình thường, nó dừng mãi ở 0%, source cài win đó mình cài máy khác bình thường không lỗi gì cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.881595,
+         "id": "1144485",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop có thể sử dụng chung hai ổ cứng SSD và HDD được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.862834,
+         "id": "1016875",
+         "field_search": "question",
+         "question": "cho e hỏi chân sac laptop của e có 3 chân còn ổ cắm nhà e chỉ có 2 chân vậy e phải mua ổ cắm khác hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.835308,
+         "id": "1140437",
+         "field_search": "question",
+         "question": "cho em hỏi vsmart active 1 chụp màn hình ở đâu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.7940235,
+         "id": "814993",
+         "field_search": "question",
+         "question": "Em đang sử dụng con laptop asus F555L nhưng không biết bật tính năng đèn bàn phím ở đâu. Bác nào biết thì chỉ em với... Em cảm thông, ý lộn e cảm ơn :^^",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

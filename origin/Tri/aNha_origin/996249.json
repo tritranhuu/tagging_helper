@@ -1,0 +1,801 @@
+{
+   "id_query": "996249",
+   "total": 29674,
+   "total_current": 100,
+   "max_score": 129.26427,
+   "origin_question": "Muốn sử dụng sim gôgô 4g vietel thì đăng kí bằng sim hiện tại đã đăng kí 4g được không hay phải mua sim gôgô 4g riêng vậy?",
+   "hits": [
+      {
+         "score": 63.035183,
+         "id": "995742",
+         "field_search": "question",
+         "question": "Tôi đã có sim 4g và tôi có thể đăng kí gói cước của Sim GÔ GÔ 4G được ko vậy? Hay là phải đến cửa hàng để mua sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.997856,
+         "id": "1007026",
+         "field_search": "question",
+         "question": "Cho mình hỏi là sim gôgô 4g khác gì sim 4g bình thường không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.77964,
+         "id": "1009555",
+         "field_search": "question",
+         "question": "Cho em hỏi gói cước sim Viettel 4G GôGô giờ em đang dùng sdt của em đăng ký có được không ạ, hay phải ra trực tiếp TGGĐ để mua sim đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.00449,
+         "id": "986058",
+         "field_search": "question",
+         "question": "Em có mua 1 sim 4g đăng kí bằng CM của e giờ em muốn mua thêm 1 cái sim vẫn bằng CM đó thì có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.236412,
+         "id": "1011693",
+         "field_search": "question",
+         "question": "sim 4G thì đăng kí 3G 1 ngày bằng cú pháp nào ạ xin  chỉ giúp với xài mấy cái cú pháp trên wed báo là không được sim 4G vitel nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.10861,
+         "id": "1001018",
+         "field_search": "question",
+         "question": "Sim 4g go go tặng khuyến mải hay mat nap tiền đăng kí mới có khuyến mải phải không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.30449,
+         "id": "1164351",
+         "field_search": "question",
+         "question": "Mình dùng samsung galaxy j8. Điện thoại mình dùng 2 sim. Sim 1 là 4g viettel, sim kia dùng để nghe gọi. Mình để mặc định tin nhắn là sim 2. Nhưng khi nhắn tin, đôi khi mình đăng kí 4g vẫn phải dùng sim 1 để nhắn, và mỗi lần như vậy điện thoại sẽ hiển thị có chắc chắn muốn nhắn bằng sim 1 không. Hôm bữa trong lúc đăng kí 4g, mình dùng sim 1 nhắn, nó cũng hiện ra tương tự nhưng mình lỡ tay bấm không cho phép nhắn bằng sim 1 (chế độ vĩnh viễn). Giờ phải làm sao để khôi phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.7712,
+         "id": "1013929",
+         "field_search": "question",
+         "question": "Sim vinaphone 3g, 4g không nghe gọi đăng kí mimax không giới hạn dung lượng như nào ạ. sim này có được khuyến mại gói mimax nào k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.763954,
+         "id": "1007953",
+         "field_search": "question",
+         "question": "Ad e hỏi e mới mua sim 4g thang trước nay hết hạn mà e đăng kí g70 ko được ạ lí do tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.217773,
+         "id": "755072",
+         "field_search": "question",
+         "question": "Em đang bên china bên đó có mạng 4g sao em mua sim và đăng kí lắp vào sao không dùng được. 3g cũng không có luôn chỉ hiện E là sao ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.171337,
+         "id": "1004853",
+         "field_search": "question",
+         "question": "Sim 4G GOGO mua bên mình thì dùng khuyến mãi đăng kí bao lâu, 1 năm hay được mãi mãi?. Thấy có dòng km tháng x11 tháng tiếp theo. Cảm ơn TGDĐ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.144653,
+         "id": "994955",
+         "field_search": "question",
+         "question": "Cho mình hỏi Sim của mình vừa chuyển từ 3g lên 4g tại TTGĐ nhưng sao không đăng ký gói 4G GÔ GÔ được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.973473,
+         "id": "1009701",
+         "field_search": "question",
+         "question": "Em chào ac. Ac cho e hỏi e vừa đăng kí sim vinaphone 4g speed bên mình. Vậy e cần làm thế nào để kích hoạt sim ạ?  Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.71296,
+         "id": "1014863",
+         "field_search": "question",
+         "question": "mọi ng cho em hỏi đăng kí mạng 4g rồimà tháng tiếp theo mình chưa nạp tiền để sử dụng tiếp h muốn dùng đăng kí ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.970398,
+         "id": "1005493",
+         "field_search": "question",
+         "question": "cho em hỏi muốn đăng kí sim VINA ở Thạnh Qưới, Mỹ Xuyên, Sóc Trăng thì phải đăng kí ở địa chỉ nào ạ ? khi đăng kí sim chính chủ thì cần những gì ạ, có tính phí không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.849987,
+         "id": "996775",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone SE 16Gb, sim ViettelMình muốn đổi qua sim 4G thì iPhone SE có dùng được sim 4G không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.638004,
+         "id": "1004822",
+         "field_search": "question",
+         "question": "Mình mới mua cái sim Mobi ngoài cửa hàng nhưng nó đã được đăng kí sim chính chủ bởi một người khác lâu rồi trường hợp này mình có thể đăng kí lại sin chính chủ của mình được không ( vì mình không biết người đã đăng kí sim đó ơ đâu)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.19403,
+         "id": "1002645",
+         "field_search": "question",
+         "question": "cho em hỏi samsung j7 k hỗ trợ 4G ,nhưng mà sim e là sim 4G vậy nên ,e sử dụng mạng có bt k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.078327,
+         "id": "815846",
+         "field_search": "question",
+         "question": " Máy samsung J7 là 3g hay 4g vậy? Lắp sim 4g có dùng được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.037434,
+         "id": "1003669",
+         "field_search": "question",
+         "question": " Minh dang xai sim viettel giở mình đăng ký gogo 4g được ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.317753,
+         "id": "1016814",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện tại vinaphone đã xài đc mạng 4G tại Hà Nội chưa,và chuyển sim 4G vina ở đâu???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.1684,
+         "id": "1135668",
+         "field_search": "question",
+         "question": " Cửa hàng còn bán sim 4g viettel đăng ký được gói mạng V90 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.978924,
+         "id": "998182",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình đang xài sim viettel và cài dịch vụ mimax 3G. Giờ mình định đổi sang sim 4G viettel thì có bị mất dịch vụ mimax và phải bỏ tiền đăng ký lại cho sim 4G k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.885616,
+         "id": "1018775",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 chiếc sim vina bùm 150k. Cho mình hỏi sim có 4G không? Sao sim của mình máy vẫn k thấy 4G vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.780357,
+         "id": "1010773",
+         "field_search": "question",
+         "question": "add ơi cho e hỏi chút ạ . báo giá giúp e sim 4G go go Viettel và sin Vina có thể đăng kí 10 phút nội mạng đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.46631,
+         "id": "1004462",
+         "field_search": "question",
+         "question": "cho e hỏi sim 4G với sim gogo 4G có khác gì nhau không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.6601,
+         "id": "1022806",
+         "field_search": "question",
+         "question": "Cho e hỏi e muon sử dụng sim 4g loại trọn gói tháng thì e mua sim ntn. Và giá bao nhieu ạk.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.57194,
+         "id": "1166027",
+         "field_search": "question",
+         "question": "Xin cho hỏi, mình sử dụng 1 sim trả trước + 1 sim 4G đều của Vinaphone, khi ở ngoài đường dùng 4G để gọi Zalo thì bị trừ tiền.Cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.544044,
+         "id": "1011702",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi hôm qua tôi có mua 1 sim viettel gogo 4g và đã nạp 50k để đăng ký truy cập internet nhưng không truy cập được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.485584,
+         "id": "992827",
+         "field_search": "question",
+         "question": "Có phải chỉ có Sim 3G mới đổi được Sim 4G phải không akSim bt không đổi được akThanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.332504,
+         "id": "1023072",
+         "field_search": "question",
+         "question": "Mình đang xài sim Fast Connect của mobifone và đăng ký gói F250, thì đó là 4g phải k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.021015,
+         "id": "991723",
+         "field_search": "question",
+         "question": "Admin cho em hỏi,mình mới mua sim Vina Bum 150k,,e bảo chị ấy 4G cho e mà chị nhân viên ns Sim này la sim 4G va trên mặt sim cũng ghi 4G speed,,,nhưng khi bỏ vào đt 4G thì chỉ là H+ 3G ạ? Vay la sao a,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.95395,
+         "id": "1001402",
+         "field_search": "question",
+         "question": "Hiện tại mình đang sử dụng sim 3g của viettel. Nếu mình muốn đổi sang sim 4g. Lúc đến TGDD mình có cần mang theo những gì ko ạ? Và lúc đổi sim dữ liệu sim của mình có bị mất không ? Cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.785736,
+         "id": "1001063",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5 có 4g không và mình đăng kí gói mimax 70 ngìn tháng mà k thấy 4g toàn 3G thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.73663,
+         "id": "998159",
+         "field_search": "question",
+         "question": "mấy a cho e hỏi sim mobi BIG vs sim vina bùm có sử dụng đc 4g ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.73117,
+         "id": "996737",
+         "field_search": "question",
+         "question": "sđt đăng kí mua samsung J7 Prime của tôi  01656801832.QTV kiểm tra giúp  'E mua ngày 19/6  đc tặng sim gogo 4g mà sao có ng đ  tặng cả sim cả thẻ mua sắm 500k'.mua tại thegioididong thị trấn Đông Hưng Thái Bình.có gì QTV liên hệ với sdt trên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.460705,
+         "id": "1004959",
+         "field_search": "question",
+         "question": "mới mua điện thoại hôm qua.. có khuyến mãi sim điện thoại, sim xài 4g miễn phí trong 4 tháng đầu, cái đó đăng ký sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.1346,
+         "id": "1165774",
+         "field_search": "question",
+         "question": "Tại sao từ ngày chuyển qua sử dụng 4g siêu sim vietnamobile ko nghe được voice chat trên messenger nữa. Dù là đã cập nhật mess và 4g sóng mạnh. Trước sài 3g viettel rất bth. 4g vietnamobile chỉ bị lỗi voice chat, còn lại đều ổn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.122135,
+         "id": "1020381",
+         "field_search": "question",
+         "question": "Cho em hỏi là sim 4g GÔ GÔ đã kích hoạt rồi nhưng chỉ xài được 2G được thôi , vậy nếu em muốn xài 4G thì phải làm sao ạ , em xài Lenovo K5 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.035454,
+         "id": "997579",
+         "field_search": "question",
+         "question": "cho mình hỏi: máy mình đang dùng là iphone 5 (A1429) ios 9.3.3. đã đổi sim 4G nhưng sao không sử dụng được 4G mà chỉ nhận sóng 3G.( đã bât LTE). xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.86596,
+         "id": "1138479",
+         "field_search": "question",
+         "question": " Cho em hỏi sim này có đăng kí dịch vụ v90 được không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.755775,
+         "id": "998018",
+         "field_search": "question",
+         "question": "sim gogo 4G viettel khi sử dụng hết Data hằng tháng có được miễn phí lưu lượng ở tốc độ thấp không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.745842,
+         "id": "1006697",
+         "field_search": "question",
+         "question": "mình mua máy tại cửa hàng và được khuyến mãi đăng ký 1 sim 4G nhưng tai sao bây giờ nó lại thành mạng H rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.69285,
+         "id": "1004973",
+         "field_search": "question",
+         "question": "Sim dcom 4g vt 7gb Mình đăng ký đc 7gb  mà có tốc độ cao hông ạ hay bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.623825,
+         "id": "1003628",
+         "field_search": "question",
+         "question": "Cho em hỏi sim dcom 4g 7gb là  D70 của 3g hay D70 của 4g ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.3327,
+         "id": "992114",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 5 e đã cài sim 4g rồi nhưng vẫn chưa sử dụng dc mạng lte",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.947594,
+         "id": "1007251",
+         "field_search": "question",
+         "question": "  Admin cho mình hỏi,máy mình như thế này có hỗ trợ 4g ko,tại vì mình đang định mua sim 4g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.879234,
+         "id": "1015602",
+         "field_search": "question",
+         "question": "Sao máy j7 2016 bo sim 4g mà sao nó không lên 4g mà vẫn còn H vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.80448,
+         "id": "1020956",
+         "field_search": "question",
+         "question": "mình mới mua cái sim mới và cái sim đó đã được người khác đăng ki zalo, mình muốn đăng kí zalo của mình với số điện thoại đó có được ko, nếu được thông tin của mình có bị người cũ truy cập không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.602516,
+         "id": "1137275",
+         "field_search": "question",
+         "question": "Samsung A7 2018 xài sim bùm 4g mà cứ hiện chữ e, mỗi lần khởi động lại máy mới có 4g đc chút xíu lại hiện e, admin cho hỏi tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.57705,
+         "id": "1017901",
+         "field_search": "question",
+         "question": "muốn đổi sang sim 4g gogo thì thế nào tại nhà hả anh chi giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.53556,
+         "id": "1021554",
+         "field_search": "question",
+         "question": "Có sim 3G hay 4G nào xài được mãi mãi không add nghe gọi được nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.51762,
+         "id": "994688",
+         "field_search": "question",
+         "question": "ad cho mình hỏi sim go go 4g mình mua nhưng kích hoạt sau được không hay là mua là phải kích hoạt luôn vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.414402,
+         "id": "999317",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi, mình có mua Sim Bùm Vina 150k, Đk phát sinh sms/call trong tháng là phát sinh cước hay sao ạ? mình phát sinh SMS, call (đã được tặng miễn phí trên Sim) có được không ạ? Lúc mua tháng 5 và hỏi chị nhân viên thì bảo đấy là sim 4G rồi, nhưng  sao mình bỏ sim vào ĐT 4G vẫn chỉ hiện là 3G ạ (điện thoại hổ trợ 4G,thao tác cài đặt  đúng hết) ? mong admin hồi âm sớm ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.29333,
+         "id": "1008014",
+         "field_search": "question",
+         "question": "Sim cua toi la sim 4g co the nang cap thanh sim sinh vien",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.291874,
+         "id": "1136760",
+         "field_search": "question",
+         "question": " Tại sao tôi đặt mua trên mạng sim 4G giao trong ngày mà hàng không về ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.280193,
+         "id": "1003636",
+         "field_search": "question",
+         "question": "Vậy cho em hỏi là lúc mua  là sim 4g mà lúc đặt hàng là sim 3g ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.276665,
+         "id": "1010279",
+         "field_search": "question",
+         "question": "Anh ơi Cho hỏi nạp tiền vào sim 4G mình phai mua the cao 4G ha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.269894,
+         "id": "996141",
+         "field_search": "question",
+         "question": "Thế giới di động có chuyển sim 3g qua sim 4g mạng vinaphone ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.044853,
+         "id": "1001667",
+         "field_search": "question",
+         "question": "Tgdd có sim trắng mobifone 4g ko ạ,.....................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.030758,
+         "id": "1163077",
+         "field_search": "question",
+         "question": "Đăng ký 4g r nhưng khi bật thì không hiện trên màn hình huawei nova 3i và không sài được 4g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.836864,
+         "id": "1019080",
+         "field_search": "question",
+         "question": "Mình muốn mua 2 sim 4G. Mình coi số rồi không biết đặt hàng theo 2 số mình đã coi có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.707687,
+         "id": "1017415",
+         "field_search": "question",
+         "question": "bên mình có bán sim ghép 4g ko ạ... gắn vào máy có sài được 4g ko ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.595936,
+         "id": "1008264",
+         "field_search": "question",
+         "question": " Sim bùm vina hiển thị tốc độ mạng 4g hay h vậy. Em dùng oppo f1s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.54651,
+         "id": "1139255",
+         "field_search": "question",
+         "question": " Cho em hỏi hiện bên mình có bán loại sim 4g vinaphone speed không vậy? Giá của nó hiện tại bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.538124,
+         "id": "1021893",
+         "field_search": "question",
+         "question": "mình làm mất sim, không nhớ số, có đăng kí chính chủ thì có thể tìm lại được số đó không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.489525,
+         "id": "1015932",
+         "field_search": "question",
+         "question": "E xai Viettel GoGo 4G. Neu nhu thang sau e ko dky nua thi sim nay van nghe goi binh thuong phai ko a ?Va neu nhu sau nay e muon dky lai 4G tren sim thi sim GoGo 4G con cho dky lai ko a ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.325504,
+         "id": "997933",
+         "field_search": "question",
+         "question": " Cho tôi hỏi muốn đổi sim 4g cua vinaphone thegdd có đổi ko?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.311565,
+         "id": "1165915",
+         "field_search": "question",
+         "question": "Dạ bên cửa hàng có hỗ trợ việc đăng kí thông tin sim không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.162354,
+         "id": "999436",
+         "field_search": "question",
+         "question": " đăng kí gói 4g trên điện thoại khi xài hết GB có bị trừ tiền khi xài ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.14918,
+         "id": "991043",
+         "field_search": "question",
+         "question": "shop cho mình hỏi vợ mình có đăng ký mua sim mà giờ bận mình mang CMT qua shop có làm được không vậy shop? với cả mình mất sim giờ đăng ký sim mới bằng CMT mình đăng ký sim cũ được không vậy shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.945312,
+         "id": "996508",
+         "field_search": "question",
+         "question": "Mìh mới mua 1 sim tại cửa hàg bán lẻ, và bây giờ mìh muốn lấy CMND của mìh làm sim chíh chủ đc ko?  Hiện tại sim này là sim đăg kí sẵn của 1 CMND khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.908806,
+         "id": "1020699",
+         "field_search": "question",
+         "question": "Cho hỏi tgdd còn đổi sim 4g Viettel miễn phí k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.886097,
+         "id": "1020683",
+         "field_search": "question",
+         "question": "Cho em hỏi ipad muốn xem số dư của sim 4g phải làm thế nào. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.82317,
+         "id": "993898",
+         "field_search": "question",
+         "question": "Cho mình hỏi có phải từ ios 9.3 trở lên mới dùng đc 4g phải ko ạ? Máy mình ip6 dùng 9.1 mà bật 4g ko đc. Điện hỏi tổng đài thì họ nói phải lên 9.3 trở lên mới bật đc 4g lte. Nhờ ad xác minh thông tin trên có đúng ko vì mình thây trên mạng nhiều bạn bảo dùng ios thấp hơn 9.3 vẫn dùng 4g bình thường. Mình thấy hoang mang quá ko biết máy có vấn đề hay sim có vấn đề nữa. Ps: sim mình đã chuyển sang sim 4g rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.756786,
+         "id": "1004278",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi  tại sao máy ip5 của e lại o bắt dc sóng 4g ạ còn 3g thì hay chập chờn lắm ạ mặc dù e dung sim 4g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.725407,
+         "id": "1138480",
+         "field_search": "question",
+         "question": " cho e hỏi e đặt mua sim ở đây có đăng kí chính chủ đc k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.634224,
+         "id": "1159004",
+         "field_search": "question",
+         "question": "Tôi có mua một item s11 plus.gan sim 4g vào chạy yếu như sen . tại sao zay bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.501003,
+         "id": "1154519",
+         "field_search": "question",
+         "question": "Mình đang dùng Vsmart Joy 1+. Điện thoại 2 sim, hiện 2 cột sóng, nhưng gần đây hay bị lỗi chỉ hiện 1 cột sóng, và khi nó hiện như vậy không thể sử dụng 4G được, khỏi động lại máy 2 cột sóng lại hiện ra và sử dụng 4G như bình thường. Cho hỏi hiện tượng này là sao vậy ạ? Do thường xuyên phải khởi động lại máy rất bất tiện.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.48966,
+         "id": "1001996",
+         "field_search": "question",
+         "question": "cho em hỏi sim trong 3 nhà mạng nào đăng kí mạng rẻ nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.489223,
+         "id": "1156575",
+         "field_search": "question",
+         "question": "Sim vietnamobile của mình không hiện 4G mà chỉ H. Mình mới mua thôi. Mình sài Nova 3i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.47995,
+         "id": "1011532",
+         "field_search": "question",
+         "question": "QTV. cho e hỏi sim e là sim học sinh mà giờ e chuyển sang sim 4G .vậy sim e có còn gói sim học sinh không ạ. e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.410503,
+         "id": "1018080",
+         "field_search": "question",
+         "question": "cho em hỏi em sd sim viettel gogo 4g nếu em không muốn sử dụng 4g nửa thì có cần soạn cú pháp nào để huỷ dv ko nếu có cho em cú pháp em chỉ cần nghe gọi thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.31908,
+         "id": "1010864",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi sim 4G data 7GB nếu sử dụng 1 tháng ko hết thì có mất lượng data còn lại ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.297897,
+         "id": "777742",
+         "field_search": "question",
+         "question": "EM MUỐN HỎI EM MUỐN MUA IPAD AIR 2 NHƯNG THÔNG SỐ GHI SỬ DỤNG 4G VÀ WIFI THÌ KHÔNG BIẾT KHI EM LẮP SIM 3G(KIỂU TRỌN GÓI HAY TỐC ĐỘ CỐ ĐINH) THÌ CÓ SỬ DỤNG NHƯ THƯỜNG ĐƯỢC KHÔNG Ạ? NẾU ĐƯỢC THÌ TỐC ĐỘ SẼ THẾ NÀO Ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.23069,
+         "id": "1152477",
+         "field_search": "question",
+         "question": "Mình có mua đt sam sung galaxy j6 lavender ở TGDD. Trên hỗ thông tin có ghi là hỗ trợ sim 4g. Nhưng khi mình lắp sim 4g thì báo k nhận sim. Trong khi đó lắp vào đt khác vẫn nhận.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.200233,
+         "id": "1003600",
+         "field_search": "question",
+         "question": "A chị ơi sim 3g cả năm có thể chuyển dang 4g được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.09433,
+         "id": "1015466",
+         "field_search": "question",
+         "question": "Máy e samsung s4 mini gt i9190 lắp sim viettel sau đó đăng kí mạng thành công,sau đó kiểm tra tài khoản thì bị lỗi mmi không hợp lệ, nhưng đôi khi lại kiểm tra tài khoản bình thường và gọi ok,1 hồi thì sim trở về chế độ chỉ gọi đc các cuộc SOS,e có thử đủ cách đăng kí nhà mạng lại thì sim về chữ Viettel bt nhưng 1 hồi sau lại bị SOS,trong khi đem qua máy khác thì không bị trục trặc gì và sử dụng bình thường, vậy đây có phải là lỗi khe sim của máy hay không?Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.072124,
+         "id": "1016041",
+         "field_search": "question",
+         "question": "E xai Viettel GoGo 4G. Neu nhu thang sau e ko dky nua thi sim nay van nghe goi binh thuong phai ko a ?Va neu nhu sau nay e muon dky lai 4G tren sim thi sim GoGo 4G con cho dky lai ko a ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.990334,
+         "id": "1023170",
+         "field_search": "question",
+         "question": "Em có sim Vina nhưng lâu ngày k sử dụng, hôm nay e lắp vào máy nhưng lại báo k đăng kí nhà mạng. Là sao vậy các anh, chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.97885,
+         "id": "1020479",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu đén hết chu kì mà vẫn còn data thì mình còn truy cập được không.Sau khi sử dụng hết chu kì của gói 4g 70 000d/ tháng thì tài khoản có tự động bị trừ để sử dụng tiếp dịch vụ khônghay phải đăng kí đẻ sử dụng tiếp?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.92782,
+         "id": "1003904",
+         "field_search": "question",
+         "question": "Cho hỏi samsung J7 prime có xài được sim 4G không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.841038,
+         "id": "1167722",
+         "field_search": "question",
+         "question": "Dt mobiistar zumbo s2 tại sao không hiện thị Tin hiệu 4g ạ mà chỉ hiện 3g mặc dù da de che do uu tien 4g rồi. E dang dùng sim vietnammobile ở củ chi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.77127,
+         "id": "996034",
+         "field_search": "question",
+         "question": "Cho mình hỏi khay sim 2 của sony xperia X có hỗ trợ 4G(LTE) ko? Sim mình là vina 4G nhưng chỉ hiện lên H+. Mình đã vào cài đặt là Ưu tiên mạng LTE rồi.và mình ở tp Uông Bí. thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.66473,
+         "id": "999307",
+         "field_search": "question",
+         "question": "Sim 4G viettel hết tốc độ cao hạ băng thông cogn bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.639206,
+         "id": "1022340",
+         "field_search": "question",
+         "question": " bên mình có bán sim trắng của Mobifone ko vậy nhỉ vì mình muốn mua về để tự đổi sang 4G  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.638233,
+         "id": "1162159",
+         "field_search": "question",
+         "question": "Tại sao samsung galaxy j7 max lại không có hỗ trợ 4g trong khi j2 đã có thể sử dụng 4g.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.62133,
+         "id": "997745",
+         "field_search": "question",
+         "question": "sim cua em dang sai tomato nhung em muon doi sim 4g phai lam sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.59533,
+         "id": "1016672",
+         "field_search": "question",
+         "question": "Nếu điện thoại không hỗ trợ 4g thì mình nên mua loại sim 3g nào ạ? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

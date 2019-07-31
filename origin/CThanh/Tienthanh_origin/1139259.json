@@ -1,0 +1,802 @@
+{
+   "id_query": "1139259",
+   "total": 31451,
+   "total_current": 100,
+   "max_score": 103.73466,
+   "origin_question": " Sao e cắm tai phone vào mà khi có cuộc gọi đến vừa phát trong tai phone mà vừa loa ngoài nữa ạ? Có ai bị như e ki? ",
+   "short": "cuộc gọi phát loa ngoài khi đeo tai nghe",
+   "hits": [
+      {
+         "score": 51.164333,
+         "id": "759125",
+         "field_search": "question",
+         "question": "Em sử dụng máy Samsung J5. Nhưng khi cắm tai nghe và có cuộc gọi đến (gọi điện, zalo, messenger, skype,...) thì vừa có chuông phát trong tai nghe và vừa có chuông phát ngoài loa. Khi nhận cuộc gọi thì không bị như vậy nữa.Cho em hỏi đây là do lỗi hay là do máy cài đặt như vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.211708,
+         "id": "1160415",
+         "field_search": "question",
+         "question": "E sài Samsung j4 plus . lúc cắm dây phone. Thì loa trong vẫn bình thường. Nge vẫn tốt. Mà mỗi khi có cuộc gọi tới thì loa ngoài phát ra tiếng. E ko thik v . lm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.090977,
+         "id": "997514",
+         "field_search": "question",
+         "question": "khi cắm tai nge mà có cuộc gọi đến, chuông vẫn đổ trên iphone.có cách nào tắt loa ngoài khi cắm tai nge vào không bạn.mình sài iphone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.60257,
+         "id": "844665",
+         "field_search": "question",
+         "question": "Mấy anh ơi cho em hỏi. Sao cái iphone của e không cắm tai phone. Mà vẫn hiện tai phone vậy. Người khác gọi đếm phải đeo tai phone mới nghe được. Nghe nhạc và xem video cĩng thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.98131,
+         "id": "1143334",
+         "field_search": "question",
+         "question": "Đt samsung galaxy a6 của e, đã cắm tai nghe nhưng khi gọi zalo vẫn phát loa ngoài là bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.73481,
+         "id": "772968",
+         "field_search": "question",
+         "question": "xin chao. cho toi hoi là khi cắm tai phone vào máy tính trước rồi khởi đông thì nghe được. còn khi mở file nhạc lên nghe mà mới cắm tai phone thì không nghe được, chỉ nghe loa ngoài của laptop. cho hỏi lỗi của phần cứng máy hay bị lỗi win. thanks your",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.24951,
+         "id": "1157401",
+         "field_search": "question",
+         "question": "Điện thoại hưaway nova 3i chưa dc 1 tháng bây giờ cắm tai nghe vào k nghe phone dc mà nhạc vẫn mở loa ngòai bị lỗi e có thể đem đến tiệm đổi dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.518684,
+         "id": "1151982",
+         "field_search": "question",
+         "question": "realme c1 của e sao e gắn tai phone vào không nghe đc âm thanh ở tai phone ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.147358,
+         "id": "1011293",
+         "field_search": "question",
+         "question": "E mới mua tab A 10.1 sài đc 13 ngày mà sao jac cắm 3.5 lổi kg nhận tai phone hoặc jac ra loa .. nhưng khởi động lại thì lại kg bị nữa.. e bị 3 lần rồi.. là như nào hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.694305,
+         "id": "1013663",
+         "field_search": "question",
+         "question": "e mới mua điện thoại oppo a37 được 3 ngày. e có cắm phone nghe nhạc thử thì ổ cắm khá là lỏng, lúc vô lúc lại không vô. nghe nhạc thì nhỏ mà e chỉ nghe được một bên loa, e thử lấy tai phone khác cắm vào cũng y như vậy. cắm phone oppo vô điện thoại khác thì e nghe nhạc bình thường. vậy e có thể đổi điện thoại khác được chứ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.21094,
+         "id": "996561",
+         "field_search": "question",
+         "question": "cho mình hỏi có điện thoại cục gạch nào có chức năng cấm tai phone vào tự nhận cuộc gọi đến không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.977375,
+         "id": "1022448",
+         "field_search": "question",
+         "question": "Em đang xài oppo f3... Em cấm tai nghe vào nhưng loa ngoài và tai phone đều hoạt động.. . Có cách khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.50233,
+         "id": "996697",
+         "field_search": "question",
+         "question": "Em dùng ip 6s plus, khi có cuộc gọi nếu em đang cắm tai nghe thì phải mở loa ngoài xong và tắt loa ngoài đi thì tai nghe mới nghe được là sao vậy ạ?? Mọi người giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.97075,
+         "id": "1000152",
+         "field_search": "question",
+         "question": "Tại sao máy samsung galaxy j5 prime của em mới mua tại tgdd khi cắm tai nghe vào chuông cuộc gọi đến không báo vào tai nghe mà báo ngoài máy thế ạ? Khởi động lại máy thì lần đầu tiên chuông báo về cả máy và tai nghe nhưng giờ thì lại không báo về tai nghe nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.567142,
+         "id": "1157687",
+         "field_search": "question",
+         "question": "e mới mua đt A7 2018 sử dụng được 1 tuần thì thấy jack cắm tai nghe là 3.5mm tai nghe 3.5mm mỗi lần cắm vào tai nghe nó dễ bị tuột lắm ạ. e k biết là do thiết kế máy hay do lỗi jack sạc v ad? e sử dụng tai phone của samsung có sẵn trong hộp phụ kiện luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.26808,
+         "id": "897725",
+         "field_search": "question",
+         "question": "adm cho e hỏi. lap top của e đang sài bình thường. hôm qa e nghe nhạc thì cắm tai nghe vô, rồi e rút tai phone ra tự nhiên h lap của e bị rè loa. h phải làm sao ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.058865,
+         "id": "1149731",
+         "field_search": "question",
+         "question": "Bên shop cho em hỏi: \"Trước em mua samsung galaxy a8+ được tặng tai phone samsung uflex. Hiện tại tai phone bị 1 bên không phát âm thanh, cho em hỏi bên shop có bảo hành hay sửa chữa cho tai phone không ạ?\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.097794,
+         "id": "1001649",
+         "field_search": "question",
+         "question": " E có mua cái tai phone này. Mà chưa có tin nhắn vậy e đc mua k để bik lại lấy hàng  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.91299,
+         "id": "1135410",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi chút ạ. Mình dùng samsung j7 pro khi cắm tai nghe vào nghe nhạc lúc mình rút tai nghe ra thì điện thoại bị mất loa ngoài. Cắm tai nghe vào thì vẫn nghe được tai nghe, loa thoại bình thường mỗi loa ngoài là ko kêu gì hết. Mong TGDĐ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.560356,
+         "id": "997324",
+         "field_search": "question",
+         "question": "Mình vừa mua J7 Prime đc 1 tuần, cắm tai nghe trong box J7 Prime thì chỉ nghe đc âm thanh của nhạc, còn âm thanh thông báo thì lại không phát qua tai nghe, âm thanh phát trực tiếp bằng loa ngoài. Mong nhận đc sự giúp đỡ của TGDD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.323809,
+         "id": "1022282",
+         "field_search": "question",
+         "question": "samsung j2 prime của mình bị làm sao mà loa trong k nghe đượccòn loa ngoài thì chỉ có cuộc gọi đến hoặc có tin nhắn đến mới kêu còn nghe nhạc hay xem youtube lại k có tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.054266,
+         "id": "1166411",
+         "field_search": "question",
+         "question": "hiện e có mua đt oppo f11 pro vừa rồi. e có sử dụng dây phone trong hộp được tới giờ thì nó bị hư mất 1 bên k nghe được. e muốn biết là dây phone có được bảo hành hay k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.879622,
+         "id": "1152414",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi .. điện thoại của e đang dùng ss j7+ tự nhiên đang nghe nhạc thì mất âm thanh.. tự chuyển sang chế độ nghe trong tai nghe ... nên ko phát nhạc loa ngoài được.. cuộc gọi đến cũng ko nghe được .. e đã tắt khởi động lại vẫn ko đc ạ ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.743504,
+         "id": "1166549",
+         "field_search": "question",
+         "question": "Cho em hỏi em sài iphone 7plus 128gb .Nhưng khi chơi game (pubg) không đeo tai phone thì mở mic nói chuyện tiếng có tiếng không? Còn khi đeo tai phone thì nghe rõ. Thế cho e hỏi là máy e bị gì ạ. Những dòng 7plus khác có bin trường hợp tương tự e không ạ. E mua máy cũ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.52789,
+         "id": "996884",
+         "field_search": "question",
+         "question": "cho tôi hỏitai phone của tôi mua được 2 ngày ... hôm nay phát hiện 1 bên nghe to 1 bên nghe nhỏcho hỏi tai phone của tôi bị sao ? có dduocj bảo hành không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.518433,
+         "id": "798564",
+         "field_search": "question",
+         "question": "Em mua iPhone 5s được hai tháng. Mà giờ loa ngoài tự nhiên không nghe đc. Muốn nghe em phải cắm phone mới nghe đc. Loa điện thoại em bị sao vậy ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.367435,
+         "id": "1139249",
+         "field_search": "question",
+         "question": "Loa của điện thoại nova 3i nghe ngoài thì bình thường, sao cắm tai nghe với cắm vào loa to ngoài thì rất nhỏ. Có phải loa nó như v không, hay điện thoại mình cố vấn đề?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.231258,
+         "id": "1006153",
+         "field_search": "question",
+         "question": "Cho e hỏi đt của e cảm tai nghe vợ rồi mà vẫn hát ở loa ngoài ah. Chỉ e cách cài đặt kết nối tai nghe đi ai. Đt e Lenovo hệ điều hành Android ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.110405,
+         "id": "813271",
+         "field_search": "question",
+         "question": "Điện thoại ip6s cua tôi bị rơi xuông nước sau đó không nghe được loa trong mà chỉ nghe được khi cắm tai nghe và mở loa ngoài . Tôi phai làm soa đây?huuu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.060574,
+         "id": "1152052",
+         "field_search": "question",
+         "question": "Minh mua Iphone 6s plus sao mà cắm tai nghe vào ko phát qua được là máy bị sao vậy..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.947172,
+         "id": "1006308",
+         "field_search": "question",
+         "question": "E dùng máy samsung j5.không biết sao sau khi kết nối tai nghe bluetooth xong thì mở medi k nghe được loa ngoài mà nghe được loa trong ạ.làm sao khắc phục được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.809704,
+         "id": "754541",
+         "field_search": "question",
+         "question": "Cho mình hỏi chiếc iphone 4 của mình không nghe nhạc bằng loa ngoài được nhưng cắm tai phone vào thì nghe bình thường. chuông báo cuộc gọi tới củng bình thường. xin thế giới di động hướng dẫn mình cách khắc phục lỗ trên.mình củng đã restore lại máy rồi những vẫn không được.xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.791914,
+         "id": "873363",
+         "field_search": "question",
+         "question": "Điện thoại samsung J1 6 của em lúc trước khi đeo tai nghe vẫn nghe được tin nhắn thoại trên messenger . Nhưng 2 ngày nay em có lỡ xóa rồi tải lại messenger và khi đeo tai nghe , tin nhắn thoại không phát vào tai nghe mà phát ra loa ngoài . Trong khi call messenger , zalo , skype , mp3 nghe vào tai nghe vẫn bình thường . Vậy em phải sửa thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.76159,
+         "id": "1165232",
+         "field_search": "question",
+         "question": "Hi AD, cho mình hỏi mình vừa cắm sạc laptop vùa sử dụng và lại vừa cắm tai phím vào thì như vậy điện có truyền vào lỗ tai gây cháy nổ hay điện giật gì không?    Laptop Asus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.61126,
+         "id": "1157772",
+         "field_search": "question",
+         "question": "E mới mua máy a7_2018 đc gần 4th. Mấy ngày gần đây máy e bị tình trạng cắm tai phone vào thì k nghe đc j hết tháo ra mới nghe đc . như vậy là máy bị j lm sao khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.562935,
+         "id": "1153830",
+         "field_search": "question",
+         "question": "Em tên là thành ạ! Em có một chiếc Xiaomi redmi note 3 mà khi em cắm tai nghe vào thì k nghe thấy gì mà khi mở loa ngoài cx k nghe thấy tiếng lại còn có tiếng nổ nhỏ đẹt đẹt nữa ạ! Cảm ơn ace đã tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.53566,
+         "id": "1145244",
+         "field_search": "question",
+         "question": " khi mình gắn tai phone vào laptop dell thì màn hình xuất hiện như thế này . chỉ mình cách với ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.397305,
+         "id": "745215",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy phone 4 of e hết bin sập nguồn xong e sạc bật nên thì đèn flash khi chụp ảnh thì toàn màu trắng là sao ạ,e vào bật chế độ nháy đèn flash khi có cuộc gọi đến cũng ko thấy gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.344908,
+         "id": "1149308",
+         "field_search": "question",
+         "question": "Dt Sam sung galaxy a7 mới mua nhưng khi cắm tai phone vô thì k nghe tiếng được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.186577,
+         "id": "1004308",
+         "field_search": "question",
+         "question": "Mình mua epic X9plus ngày 25/5/2017. Tái thế giới di động Bào Cát-TP HCM sau sử dụng có một số lỗi:1. Jack tai nghe lớn hơn cắm tai phone nên k ăn, rất lỏng (tai phone của máy). Nút bấm củ tai phone bấm không ăn. (Do ít sử dụng tai phone nên mới phát hiện lỗi này)2. Camera chụp ảnh đẹp. nhưng có những lúc chụp ảnh xong lưu vào album lại là ảnh màu đen3. Màn hình cảm ứng đôi lúc bấm không ăn. Tắt nút nguồn rồi mở lại bấm mới ănNhũng lỗi này có được bảo hành nhue thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.105843,
+         "id": "1147644",
+         "field_search": "question",
+         "question": "Tại Sao zalo ng gọi đến báo có cuộc gọi khác trong khi máy e k có 1 cuộc gọi nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.090122,
+         "id": "789820",
+         "field_search": "question",
+         "question": " Mình có nên vừa sạc laptop vừa cắm tai nghe để nghe nhạc không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.971445,
+         "id": "1164909",
+         "field_search": "question",
+         "question": "Tại sao xs max của e vừa mới mua ở tgdd e phát hiện máy gọi k rung e thử nhiều cách mà nó k rung là bị sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.923729,
+         "id": "819206",
+         "field_search": "question",
+         "question": "Em có con 5s sao khi em cắm tai nghe vào vẫn nghe bình thườngkhi rút tai nghe ra bấm tăng giảm âm lượng nó vẫn hiển thị tai nghe và loa ngoài không nghe được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.585356,
+         "id": "1146816",
+         "field_search": "question",
+         "question": "Nokia 8.1 khi gắn tai phone thì máy bị tắt nguồn  không tắt ngay mà tắt sau khi màn hình ở ché độ nghỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.529497,
+         "id": "1167831",
+         "field_search": "question",
+         "question": "Sao điện thoại vivo v11i không hiện thị biểu tượng tai phone khi gắn tai nghe vào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.386902,
+         "id": "1022626",
+         "field_search": "question",
+         "question": "E chỉnh tai phone để tiện nghe điện thoại. Khi mới mua về e chỉnh là cuộc gọi tới 2s là tự động nghe máy .giờ e mún đổi lại nhưng e kg biết làm sao. E tìm hoài nhưng kg biết chỉnh ở âu. E nhờ mấy a chị chỉ giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.321203,
+         "id": "987083",
+         "field_search": "question",
+         "question": "Điện thoại của e là ip6 mà sao khi em gọi messger bật loa ngoài nói ngta khong nghe gì cả. Trong khi gọi qua facetime lại nghe bt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.128235,
+         "id": "1013374",
+         "field_search": "question",
+         "question": "Xin hỏi tgdd tôi có mua sản phẩm j7 prime ở tgdd đã được 2 tháng . Giờ tai phone tự nhiên bị rè .hỏi tôi có thể lên đổi tai phone khác được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.05528,
+         "id": "1142998",
+         "field_search": "question",
+         "question": "e chào ac ạ. máy tính của em khi cắm tai nghe rồi mà loa của máy vẫn hoạt động, mong ac hướng dẫn e cài đặt lại vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.802721,
+         "id": "1023569",
+         "field_search": "question",
+         "question": "Mn cho mình hỏi tai Sao tai Phone oppo a39 lại nghe nhỏ vậy lúc trc  nghe to lắm, nếu bị hỏng thì tại may hay tại dây Phone nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.751835,
+         "id": "835491",
+         "field_search": "question",
+         "question": " Mình mua cái tai phone điện thoại bây h cắm vô máy tính nghe đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.745365,
+         "id": "1004240",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi gọi bằng zalo hay nhận cuộc gọi trên zalo toàn nghe loa ngoài ai cũng nghe dc.tôi muốn nghe bằng loa trong thì phải cài đặt như thế nào?.tôi dùng oppo f1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.70774,
+         "id": "923883",
+         "field_search": "question",
+         "question": "Mình mới mua máy EDGY bên mình, mà khi có cuộc gọi đến máy tự động bật loa ngoài, không tắt được, gọi đi thì vẫn loa trong bình thường ạ. Với cả máy này làm thế nào để cài được nhạc chuông tải xuống (không phải nhạc chuông có sẵn trong máy) thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.393896,
+         "id": "1023299",
+         "field_search": "question",
+         "question": "cho e hỏi chút ạ? điện thoại của e là mi4 khi gọi đi, hay bắt máy nghe cuộc gọi, màn hình của e nó bị đen ko nhìn thấy cuộc gọi như khi mình để gần tai nghe nó bị cảm biến ấy ạ, có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.375885,
+         "id": "954096",
+         "field_search": "question",
+         "question": "Mình dùng ip7 thì khi nghe bằng dây phone mà có người gọi tới bấm nghe thì không nghe bằng dây phone được. Do dây nghe hay sao vậy? :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.100975,
+         "id": "879722",
+         "field_search": "question",
+         "question": "Hiện e đang sử dụng laptop Asus A540LJ i3, cho e hỏi pin có thể tháo rời ra khỏi máy ko ạ?. Nếu đc thì e có thể tháo pin ra đến khi cần thì mang theo để lắp vào máy, còn lúc ở nhà thì có thể vừa cắm điện vừa xài mà ko cần pin ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.98866,
+         "id": "1134610",
+         "field_search": "question",
+         "question": "mình mới mua con dell ở tgdđ. sao mà mình cắm phone vào ko nge đc j hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.956137,
+         "id": "1014448",
+         "field_search": "question",
+         "question": "Cho hỏi đt của mìk là lenovo p70 tại sao cứ mỗi lần có cuộc gọi là nghe loa ngoài vậy tại sao ko nghe loa trong mỗi lần ai điện là kéo đt xuống loa ngoài để nghe là sao ạk hay loa trong có vấn đề nhưng mìk nghe tin nhắn thoại thì loa trong củn nghe đuợc vậy làm cách nào cho ai điện là nghe loa trong ạk xjn cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.884295,
+         "id": "1162221",
+         "field_search": "question",
+         "question": "sao mình đeo tai phone nói chuyện qua mess bằng laptop mà đâu dầy bên kia không nghe mình nói dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.879705,
+         "id": "760149",
+         "field_search": "question",
+         "question": "Ad ơi iphone4 của e bị mất âm thanh của nhạc và game khi ở loa ngoài .Nhưng khi cắm tai nghe thì vẫn nghe nhạc với cả tiếng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.877077,
+         "id": "776781",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 5s được 2 ngày, lần đầu tiên em cắm tai phone giống như bị lỏng vậy, không nghe được,và em có thể đổi lại được không.em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.634285,
+         "id": "837108",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao điện thoại iphone của mình khi cắm tai nghe vào thì vẫn nghe nhạc bình thường mà mình rút ra để nghe loa trong điện thoại thì lại không nghe được mình nhấn nút âm lượng thì cứ bảo là âm lượng tai nghe như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.61613,
+         "id": "1161284",
+         "field_search": "question",
+         "question": "em sử dụng đt samsung j1. khi cắm tai nghe vào thì chỉ nghe được 1 bên mà khi lấy tai nghe đó cắm vào máy khác thì nghe bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.462923,
+         "id": "1136367",
+         "field_search": "question",
+         "question": "E mới sài con ss j8 đc 4 tháng, bây giờ e đt cho ng khác thì ng ta nói e nghe nhưng e nói ng ta k nghe đc, nhưng cắm tai phone vào thì e nói chuyện ngta nghe bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.413786,
+         "id": "998484",
+         "field_search": "question",
+         "question": "Qtv. Tai phone của nokia 6300 có k ạ. Nếu có giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.392193,
+         "id": "838485",
+         "field_search": "question",
+         "question": "Mình mới mua lại iphone 6s full box còn bh của thế giới di động mà tai phone lắc bị kêu vậy cho mình hỏi bên cửa hàng có bảo hành tai nghe ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.250097,
+         "id": "1016289",
+         "field_search": "question",
+         "question": "mình mới mua con galaxy j7pro nhiêu khi mình nghe có cuộc gọi thi máy mất loa ngoai khi nghe nhạc và chỉ phát bằng loa trong và sac thi nóng bất bình thường cac bác cho e hỏi thế là làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.22874,
+         "id": "997254",
+         "field_search": "question",
+         "question": "Cho em hỏi là kích cở của chui sạc và chui cắm tai phone của lumia 730 là bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.167387,
+         "id": "870251",
+         "field_search": "question",
+         "question": "em vừa bị mất điện thoại vẫn nhớ icloud nhưng tiếc là k có iphone để cung cấp số dien thoại khi dùng find my phone ở chế độ mất ai giúp em đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.162828,
+         "id": "1143763",
+         "field_search": "question",
+         "question": " Cho mình hỏi có bán tai phone zin iphone 7 plus ko. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.029467,
+         "id": "991109",
+         "field_search": "question",
+         "question": "Mình có nhu cầu mua loa vừa sử dụng được bluetooth vừa sử dụng được usb chép file mp3 cắm vào và phát được nhạc. Giá từ 1tr tới 6tr.TGDD tư vấn mình nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.933174,
+         "id": "1159619",
+         "field_search": "question",
+         "question": "E dùng Oppo f9 khi e cắm tai nghe vào thì bên nghe được bên không nó bị sao vậy ạ. Mong ad giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.815971,
+         "id": "1162605",
+         "field_search": "question",
+         "question": "anh ơi cho e hỏi ,e có i phone 5 s mà ruotj nó bị hư thì e làm gì hã a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.814085,
+         "id": "1017596",
+         "field_search": "question",
+         "question": "Cho e hỏi. E có máy j7pro khi đang xem video mà có người  gọi tới, khi nghe xong cuộc gọi ,e xem tiếp video mà không nghe được tiếng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.608355,
+         "id": "1155275",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e xài ip 7plus , mà ngay logo táo e đưa tai vào thì nghe có tiếng rè rè v có bị sao không ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.582712,
+         "id": "1007821",
+         "field_search": "question",
+         "question": "E đang dùng đt samsung j5(6). Từ trước nay e cắm tai nghe vào máy vẫn nghe nhạc bt mà từ hôm qua tới giờ mỗi lần cắm tai nghe ấy vào là đt tự sập nguồn hoặc bị đơ. Rút tai nghe ra máy lại bt. Thế là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.45099,
+         "id": "1008784",
+         "field_search": "question",
+         "question": "E vừa mua samsung j2 prime, mà giờ e muốn trả lại. Mà khi mua máy e có dán máy trước sau và mua ốp nữa. Vậy khi trả lại thì được hoàn tiền ốp và miếng dán nữa ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.384932,
+         "id": "838142",
+         "field_search": "question",
+         "question": " I phone bị xước mà muốn thay lại vỏ thì sao ạ? có tốn kém k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.278961,
+         "id": "818771",
+         "field_search": "question",
+         "question": "Máy lap top Asus của e mới mua mà khi cắm tai nghe vào lại k nghe dc luôn tại sao v ạ chỉ giúp e cách cài đặt nghe qua headphon với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.278435,
+         "id": "1010734",
+         "field_search": "question",
+         "question": "Sao note 5 của e không gọi được messager chỉ cắm tai nghe   vô mới nghe được. Khắc phục như thế nào ạ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.150503,
+         "id": "1002357",
+         "field_search": "question",
+         "question": "cho em hỏi. em mua điện thoại được 6 tháng rồi mà bây giờ tai phone bị hư thì còn được bảo hành phụ kiện không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.086876,
+         "id": "755905",
+         "field_search": "question",
+         "question": " Tại sao khi cắm tai nghe vào laptop mà âm thanh ở laptop vẫn nghe được bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.029709,
+         "id": "818544",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao ip6 của e cài đặt ảnh người gọi mà nó k hiển lên màng hình khi có cuộc gọi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.99556,
+         "id": "1156898",
+         "field_search": "question",
+         "question": "Ad ơi. E láy icloud iphone đăng nhập vô ipab( trong khi ipad e có tài khoản) nhưng bgio e muốn thoát icloud của iphone ra ipab để e đăng nhập icloud ipab vào ,thì nó ciu sai id apple trong khi e vẫn nhớ. Nếu như vâty e có thể xài 2icloud trên cùng ipab và iphone dc kh ạ( mà iphone e bị hư nên e đaq tính sửa lại) sợ sửa rồi mà đăng nhập kh dc thì phone kh sài dc đúng kh ạ. Nhờ ad giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.969448,
+         "id": "1001382",
+         "field_search": "question",
+         "question": "E sài zenfone 2 .. quay phim hoặc ghi âm đều được nhưng khi cắm tai nghe .. quay phim vẫn có tiếng mà sao ghi âm lại không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.92879,
+         "id": "1018553",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi e bật tính năng Đèn báo LED trên Zenfone Live rồi mà khi có cuộc gọi đến đèn ko chớp ạ...  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.738537,
+         "id": "1003951",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi tại sao e nghe nhạc hay you tube đều phải gắm tai phone không gắm e không nghe gì hết ạ.nhưng e cài nhạc chuông vẫn nghe bt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.60013,
+         "id": "948243",
+         "field_search": "question",
+         "question": " cho e hỏi sao fb của e người khác gọi đến thì k báo cuộc gọi mà toàn thành gọi nhỡ nhưng mình gọi đi thì vẫn được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.5297,
+         "id": "924172",
+         "field_search": "question",
+         "question": "Cho em hỏi là e đang Sài iphone6plus. Em đang bật chế độ đèn flash cuộc gọi đến. Vậy mà khi có cuộc goi đến thì không sáng đèn flash.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.526829,
+         "id": "1023849",
+         "field_search": "question",
+         "question": "laptop của mình vừa đem bảo hành vì bị treo máy và cảm biến vân tay và phải cài đặt lại toàn bộ máy ,sau khi nhận máy lại thi jack cắm tai nghe không hoạt động nhưng loa vẫn phát bình thường , xin chỉ giúp mình sửa lỗi này được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.522493,
+         "id": "757734",
+         "field_search": "question",
+         "question": " Hướng dẫn bật tính năng đưa điện thoại lên tai để nhấc máy khi có cuộc gọi đến trên iPhone 5? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.46812,
+         "id": "988179",
+         "field_search": "question",
+         "question": "Mình xài iPhone 6 , gọi messenger với Zalo bấm loa ngoài hay video thì nói bên kia không nghe còn bên kia nói mình vẫn nghe bình thường . Còn mình gắn dây phone vào hay gọi bình thường không video không loa ngoài thì bình thường không bị gì hết  Gọi FaceTime củng bình thường không có lỗi vậy cho mình hỏi đó có phãi chịu chứng lỗi main không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.431492,
+         "id": "809354",
+         "field_search": "question",
+         "question": "điện thoại của mình là Lenovo A7010, cho mình hỏi khi có cuộc gọi wechat đến mà màn hình đang ở trạng thái tắt thì không biết được thông báó có cuộc gọi đến, vì thế ít khi mình nhận được cuộc gọi từ wechat..ai biết cách nào cài khi màn hình tắt nhưng vẫn có thông báo như cuộc gọi thông thường thì chỉ dùm mình với...cảm ơn các bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.407711,
+         "id": "1023682",
+         "field_search": "question",
+         "question": "Em mới nâng cấp lên ios11. Nhưng sau khi nâng cấp dk 2 ngày dt của e gặp lỗi về loa. Cụ thể là cuộc gọi loa trong không nghe được nghe nhạc và xem video cũng không nghe được gì cả tin nhắn cũng không có chuông.  Trong khi đó cuộc gọi đến vẫn đổ chuông và khi nghe bật loa to lên vẫn có tiếng. Em phải làm như thế nào để khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.36495,
+         "id": "778741",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là em đang dùng 1 chiếc iphone 4S. Tại sao khi em cắm tai nghe vào mới nghe được nhạc. Còn khi phát loa lại không nghe được không cho to nhỏ được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.27904,
+         "id": "1020787",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mình gọi điện thoại k bật loa ngoài mà máy lại phát loa ngoài, phải bật rồi tắt loa ngoài nó mới hết và lúc nghe điện thoại hay bị bé loa bất thường gần như k nghe thấy gì mặc dù mình để chế độ âm lượng to nhất ạ. Máy mình là j7 prime ạ. Mình phải làm gì để khắc phục ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.15888,
+         "id": "1003687",
+         "field_search": "question",
+         "question": "Em có máy iphone 4 bị rơi co giật màn hình , loạn màu , vừa cắm sạc mới lên nguồn . Cho e hỏi nó bị sao và có nên sửa nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.156086,
+         "id": "929394",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi lỗi như thế này là bị sao ạ e k cắm tai nghe tự hiện lên thế này   ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

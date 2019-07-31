@@ -1,0 +1,801 @@
+{
+   "id_query": "770464",
+   "total": 27023,
+   "total_current": 100,
+   "max_score": 72.15082,
+   "origin_question": " Anh ơi kiểm tra dùm em xem cái này là 6 lock hay quốc tế vậy ạ 359257069753278? ",
+   "hits": [
+      {
+         "score": 42.173344,
+         "id": "838200",
+         "field_search": "question",
+         "question": " Nhớ kiểm tra dùm em bản này lock hay quốc tế được ko ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.157692,
+         "id": "786492",
+         "field_search": "question",
+         "question": " Ad kiểm tra dùm số seri 013532001996211 là bản quốc tế hay lock vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.344925,
+         "id": "936724",
+         "field_search": "question",
+         "question": " 35880705982132 kiểm tra giúp e là MEID này là bản quốc tế hay lock ad ơi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.498055,
+         "id": "750841",
+         "field_search": "question",
+         "question": " Ad thử kiểm tra cho e xem máy này là bản lock hay quốc tế vs ạ. 013969002729219 thanks ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.64141,
+         "id": "994578",
+         "field_search": "question",
+         "question": "ad kiểm tra giúp mình imei này là máy lock hay quốc tế ạ?? 359297062093264",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.59365,
+         "id": "824489",
+         "field_search": "question",
+         "question": " Ad giúp em kiểm tra xem ip này là bản quốc tế hay lock được ko ạ?imei 013425008828802 E CẢM ƠN Ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.591698,
+         "id": "785816",
+         "field_search": "question",
+         "question": " Kiểm tra cho em xem iPhone của em là lock hay quốc tế  IMEI 01 306800 941703 3 fuong9agmail.com ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.086143,
+         "id": "781723",
+         "field_search": "question",
+         "question": "Qtv kiểm tra giúp em xem IMEL 359230062855093 xem là quốc tế hay lock giúp em, sim nào cũng bỏ được nhưng sợ là quốc tế tạm thời, Thanks?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.010994,
+         "id": "786488",
+         "field_search": "question",
+         "question": " Ad kiếm tra dùm so seri 013532001996211 là bản quốc tế hay lock vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.853794,
+         "id": "763460",
+         "field_search": "question",
+         "question": "Anh chị ơi. Kiểm tra cho em số IMEI 352005062528347 là máy lock hay bản quốc tế với. Em mua cũ mà không biết kiểm tra nên thấy lo lo. Anh chị giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.332657,
+         "id": "765990",
+         "field_search": "question",
+         "question": " Giúp em kiểm tra imei iPhone 5 là bản quốc tế hay lock 0133752000524751 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.289463,
+         "id": "884648",
+         "field_search": "question",
+         "question": " Nhờ bqt kiểm tra số ime 358568074082573 là iphone. 6s lock hay quốc tế dùm mình nhé, mình cảm ơn nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.713715,
+         "id": "902502",
+         "field_search": "question",
+         "question": "  Cho em hỏi iphone này là bản lock hay là quốc tế vậy các anh chị? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.63521,
+         "id": "743698",
+         "field_search": "question",
+         "question": " 353334071592147 ckiểm tra giúp em với xem đây là lock hay quốc tế ạ em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.763092,
+         "id": "790162",
+         "field_search": "question",
+         "question": " Nhờ QTV xem máy này là bản lock hay bản quốc tế ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.656273,
+         "id": "958833",
+         "field_search": "question",
+         "question": " IPhone của em là bản quốc tế . Em kiểm tra imei sao máy lại hiện là  kiểm tra sim lock ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.360245,
+         "id": "743636",
+         "field_search": "question",
+         "question": "QTV TGDĐ ơi. Anh chị kiểm tra hộ em cái emei iphone 013554003288967 là bản lock hay bản quốc tế chính hãng với. Em mua máy qua sử dụng nên thấy hơi lo. Anh chị tư vấn cho e với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.323498,
+         "id": "636959",
+         "field_search": "question",
+         "question": "Làm thế nào để kiểm tra iPhone hay iPad là bản quốc tế hay bản lock?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.269928,
+         "id": "921962",
+         "field_search": "question",
+         "question": " Ad có thể kiểm tra giúp e đây là hàng lock hay quốc tế được không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.196346,
+         "id": "774985",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp mình số imel máy mình xem máy là iphone quốc tế hay lock, bản chính hãng apple hay bản gì. Số IMEL ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.870266,
+         "id": "756572",
+         "field_search": "question",
+         "question": " Kiểm tra giúp mình IMEI 013596006101358 là bản lock hay quốc tế? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.683239,
+         "id": "916624",
+         "field_search": "question",
+         "question": "  Đây là iphone lock hay là quốc tế thế ạCó thể kiểm tra giúp mình được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.59803,
+         "id": "774994",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp mình số imel máy mình xem máy là iphone quốc tế hay lock, bản chính hãng apple xem bản gì. Số IMEL ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.388508,
+         "id": "833423",
+         "field_search": "question",
+         "question": " Ad ơi  kiểm tra dùm e đây là máy lock hay chính hãng vậy imei là 013352006091193 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.292103,
+         "id": "750988",
+         "field_search": "question",
+         "question": " Kiểm tra hộ mình IMEI xem là iPhone 5 bản quoc tế hay bản lock. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.552456,
+         "id": "751402",
+         "field_search": "question",
+         "question": " Kiểm tra giúp e số imel iphone nay la lock hay quốc tế với 01388000 7350481 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.310652,
+         "id": "900827",
+         "field_search": "question",
+         "question": " Kiểm tra gium mình cái này có quốc tế k nhé358787051735629 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.213177,
+         "id": "767115",
+         "field_search": "question",
+         "question": "  Ad cho em hỏi, máy này là iPhone quốc tế hay lock ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.097332,
+         "id": "789808",
+         "field_search": "question",
+         "question": "TGDD kiểm tra dùm em iphone 35208673131388 có phải máy chính hãng không và đây là bản quốc tế hay khóa mạng đi ạ. ngày active của thiết bị này nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.993443,
+         "id": "757081",
+         "field_search": "question",
+         "question": "  Kiểm tả hộ em với ạ, đây là bản lock hay quốc tế ạ? Em cảm ơn?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.864693,
+         "id": "811474",
+         "field_search": "question",
+         "question": " Đây là bản quốc tế hay lock đây là bản quốc tế hay lock ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.702486,
+         "id": "747449",
+         "field_search": "question",
+         "question": " Qtv kiểm tra giùm em xem có phải là phiên bản quốc tế không ạ 358755057306844? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.593903,
+         "id": "743620",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp mình máy này có phải chính hãng hay xách tay với, xuất xứ máy, còn bảo hành không, là lock hay quốc tế. Cám ơn ad nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.07966,
+         "id": "771638",
+         "field_search": "question",
+         "question": " 353263079530397 số IMEI này là iPhone 6S quốc tế hay Lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.961994,
+         "id": "859307",
+         "field_search": "question",
+         "question": " Ad xem dùm mính máy này là phiên bản quốc tế hay sao add? Chi tiết ad trả lời dùm mình với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.794188,
+         "id": "746329",
+         "field_search": "question",
+         "question": " Anh kiểm tra hộ em máy iPhone 6 16GB của em có phải bản quốc tế không? IMEI 358373062248793 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.770674,
+         "id": "809019",
+         "field_search": "question",
+         "question": " Cho em hỏi imei con này là bản lock hay quốc tế 013621001951852 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.428297,
+         "id": "864275",
+         "field_search": "question",
+         "question": " Giúp e xem máy này có phải là hàng thật? Có phải là bản quốc tế k ạ? Xin kiểm tra giúp e nhé   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.411575,
+         "id": "758549",
+         "field_search": "question",
+         "question": " Anh chị giúp em kiểm tra imei của iPhone 6 này dùm em với 356989068108442 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.310358,
+         "id": "748963",
+         "field_search": "question",
+         "question": "  các anh chị có thể cho em biết máy của em là quốc tế hay lock được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.223116,
+         "id": "970218",
+         "field_search": "question",
+         "question": " Em mua lại iPhone 5 này của người khác , đây là máy lock hay quốc tế vậy ak  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.094946,
+         "id": "777629",
+         "field_search": "question",
+         "question": " Ac có thể test giúp em xem iPhone này là bản lock hay quốc tế không ạ imei 35 200306 563780 1. Em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.862303,
+         "id": "752274",
+         "field_search": "question",
+         "question": "Mọi người kiểm tra dùm emei iphone 6+ này là Lock hay world vậy, và dùng được sim nào ở VN, restore lại máy có bị thành cục gạch không??Emei: 354435068712363",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.562904,
+         "id": "794574",
+         "field_search": "question",
+         "question": " IMEI là 990002772306039 đây là phiên bản lock hay phiên bản quốc tế hả anh chị...... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.480797,
+         "id": "767764",
+         "field_search": "question",
+         "question": " Cho em hỏi là imei 013845006047842 là quốc tế hay lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.480255,
+         "id": "816381",
+         "field_search": "question",
+         "question": "  Dạ cho em hỏi đây là iPhone 5s lock ha quốc tế ạ.xin giúp dùm em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.455399,
+         "id": "746631",
+         "field_search": "question",
+         "question": " Cho e hỏi máy này là máy gì ạ cho em hỏi máy này là máy gì ạ . Quốc tế hay lock ạ .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.248573,
+         "id": "813023",
+         "field_search": "question",
+         "question": "Ad cho e hỏi em kiểm tra trên apple thì nó gửi về như vậy ko biết máy như thế nào., Nhưng đôi khi e kiểm tra *102# lợi hay bị lổi ko xác định. Em nghe nói máy lock mua code lên quốc tế vậy khi kiểm tra trên apple có biết dc ko ? Thks làm phiền anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.188272,
+         "id": "802877",
+         "field_search": "question",
+         "question": " Xin hỏi đây là bản lock hay quốc tế ạ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.186974,
+         "id": "756566",
+         "field_search": "question",
+         "question": " Kiểm tra giúp mình imel 01359600610135  là bản mở khóa hay quốc tế? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.951675,
+         "id": "829200",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone của em là lock hay quốc tế ạ thank you  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.874504,
+         "id": "827113",
+         "field_search": "question",
+         "question": " iPhone 5 meid 99000288028386. Bạn kiểm tra hộ minh xem day co phải bản quốc tế hay bản dựng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.833803,
+         "id": "929764",
+         "field_search": "question",
+         "question": "Chào bạn, IMEI xxxx91071206613. Nhờ bạn kiểm tra giúp là chính hãng quốc tế k vây bạn? Có phải là bản lock hay là lock mua code ko thế bạn.Giúp mình với nhé bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.800852,
+         "id": "751120",
+         "field_search": "question",
+         "question": " Muốn kiểm tra xem máy iphone có đúng là bản Quốc tế không thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.642262,
+         "id": "768402",
+         "field_search": "question",
+         "question": " Mình đang dùng iphone 5S  nhờ bạn kiểm tra dùm ố imei 013989000746007 có phải là phiên bản quốc tế không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.524261,
+         "id": "767585",
+         "field_search": "question",
+         "question": "Tôi vừa mua một chiếc iphone 5s từ TGDĐ chi nhánh Bảo Lộc, Lâm Đồng, phiên bản quốc tế. Lên mạng kiểm tra lại thì nhân vên Apple trả lời đấy là bản lock. Kiểm tra một số web khác cũng bảo là bản lock. Nhờ TGDĐ giải thích dùm. Thanks!​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.43961,
+         "id": "748865",
+         "field_search": "question",
+         "question": " Các anh kiểm tra hộ em máy này là bản gì được không ạ em sợ là bản lock ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.268595,
+         "id": "875115",
+         "field_search": "question",
+         "question": " ad check hộ em đây là bản quốc tế hay lock ạ  imei 354429066711634 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.143425,
+         "id": "821710",
+         "field_search": "question",
+         "question": " AD cho mình hỏi Máy này là bản lock hay Quốc Tế và Máy xuất xứ từ nước nào ạ ,  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.95628,
+         "id": "746971",
+         "field_search": "question",
+         "question": "Mình đang dùng máy iphone 6s này, thế giới di động kiểm tra giúp mình máy là bản quốc tế hay là bản lock với ạ. Gửi giúp mình trả lời vào email bichphuong2392@gmail.com cảm ơn thế giới di động. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.52665,
+         "id": "774768",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua điện thoại khi kiểm tra IMEI cho kết quả như vậy thì máy mình là bản Quốc tế hay Lock và cho mình biết các thông số nói trên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.47804,
+         "id": "880296",
+         "field_search": "question",
+         "question": "Em muốn kiểm tra 1 cái ip phải hàng dựng không bản quốc tế hay unloc làm như thế nào ạ em có ime của máy 098324xxx ad có thể kiểm tra cho em được không ạ ime 358807058060316",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.26321,
+         "id": "927534",
+         "field_search": "question",
+         "question": "Sao iphone của mình kiểm tra máy lock hay máy quốc tế thì 2 trang cho 2 kết quả khác nhau 1 trang là unlock, một trang la unknown. imei 359234062527819",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.999111,
+         "id": "794570",
+         "field_search": "question",
+         "question": " IMEI là990002772306039 cho em hỏi là phiên bản lock hay phiên bản quốc tế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.766073,
+         "id": "776265",
+         "field_search": "question",
+         "question": " Bạn xem dùm iPhone 5s này phải bản chính hãng quốc tế của mỹ không bạn thanks  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.755173,
+         "id": "927623",
+         "field_search": "question",
+         "question": " Bạn kiểm tra xem ip mình có phải hàng dựng hay lock k ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.567186,
+         "id": "903007",
+         "field_search": "question",
+         "question": " 352000066359765 check imei của em với ạ !! không biết hàng lock hay quốc tế đây  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.392433,
+         "id": "947130",
+         "field_search": "question",
+         "question": " Máy này chính hãng hay lock vậy ad kiểm tra giúp mình với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.302046,
+         "id": "770850",
+         "field_search": "question",
+         "question": "  Ad cho em hỏi cái làm sao để biết iPhone quốc tế và iPhone Lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.241064,
+         "id": "860764",
+         "field_search": "question",
+         "question": "Số imei của máy e là 352003062417199 nhờ ad giúp e xem phải là máy chính hảng q.tế không hay máy lock mua code lên quốc tế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.128918,
+         "id": "910820",
+         "field_search": "question",
+         "question": " Chào ad! AD cho mình hỏi đây là bản lock hay quốc tế với ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.951607,
+         "id": "853025",
+         "field_search": "question",
+         "question": " Qtv cho e hỏi máy e imei 352008068125522 là bản lock hay quốc tế ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.853096,
+         "id": "906473",
+         "field_search": "question",
+         "question": " Tại sao e không kiểm tra được máy của em là bản lock hay bản wold vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.789873,
+         "id": "764738",
+         "field_search": "question",
+         "question": " Imei 013195002679432 chơi ad đây là bản lock hay bản quốc tế vậy ad đây máy iPhone 4 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.700142,
+         "id": "803204",
+         "field_search": "question",
+         "question": " Thông tin trên 5s này của tôi là quốc tế hay bản dựng vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.57396,
+         "id": "765686",
+         "field_search": "question",
+         "question": " Có thể check giúp mình  990001810642777 là bản quốc tế hay bản lock không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.572489,
+         "id": "849189",
+         "field_search": "question",
+         "question": " Làm sao để nhận biết iphone 5s bản lock hay bản quốc tế ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.423952,
+         "id": "753872",
+         "field_search": "question",
+         "question": "Ad giải thích dùm mình.mình có xem một trang mạng viết điện thoại iphone 6s plus bản unknown là quốc tế. một số viết là bản lock khóa mạng. bản unknown là bản nào vậy ad. giải thích rõ dùm mình được rõ hơn nha ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.119087,
+         "id": "774136",
+         "field_search": "question",
+         "question": " Bạn ơi xem dùm mình cấu hình anfy có đúng chính hãng iPhone 5 phiên bản quốc tế không cảm ơn nhiều?      ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.097584,
+         "id": "775334",
+         "field_search": "question",
+         "question": " Anh chị ơi anh chị giúp em kiểm tra máy này có phải là máy chính hảng ko ạ cảm ơn anh chị nhiều   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.038383,
+         "id": "743669",
+         "field_search": "question",
+         "question": "Anh chị qtv ơi, cho em hỏi, điện thoại iPhone của em, khi check imei thì hiện dòng : Check SIM lock mà máy nhận cả sim viettel với sim vinaphone, vậy iPhone của em là bản quốc tế phải không hay là máy dựng. tư vẫn giúp em với QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.876244,
+         "id": "743660",
+         "field_search": "question",
+         "question": "Anh chị qtv ơi. Cho e hỏi điện thoại iphone của em. Khi check imei thì hiện dòng : Check SIM lock mà máy nhận cả sim viettel với sim vinaphone .Vậy iphone của em là bản quốc tế phải không hay là máy dựng tư vấn giúp em với qtv?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.76839,
+         "id": "826336",
+         "field_search": "question",
+         "question": " Cho mình hỏi, bản iPhone 6s plus bên mình bán là bản lock hay quốc tế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.670687,
+         "id": "743657",
+         "field_search": "question",
+         "question": "Anh chị qtv ơi. cho em hỏi, điện thoại iPhone của e. khi check imei thì hiện dòng : Check SIM lock mà máy nhận cả sim viettel với sim vinaphone . vậy iPhone của em là bản quốc tế phải không anh nhị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.59133,
+         "id": "988256",
+         "field_search": "question",
+         "question": "6 plus 64gb quốc tế like new gold tầm 45 triệu thì sao ạ .còn không tư vấn dùm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.550327,
+         "id": "813011",
+         "field_search": "question",
+         "question": " Ad cho em hỏi máy em là lock hay quốc tế,Em vẫn sài sim bình thường nhưng máy hay lổi 102. Imeil 358752050241557 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.478662,
+         "id": "750029",
+         "field_search": "question",
+         "question": "  Ad kiểm tra giúp mih thông tin về máy dựg hay chinh hãng. Xuất xứ ? Lock hay quốc tế.xin cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.424473,
+         "id": "810972",
+         "field_search": "question",
+         "question": " Nhờ anh chị kiểm tra xem máy này còn bảo hành không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.385904,
+         "id": "753640",
+         "field_search": "question",
+         "question": " Thông tin về máy như thế này.Xin cho hỏi là bản quốc tế hay bản lock ah!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.285873,
+         "id": "755634",
+         "field_search": "question",
+         "question": "  Kiểm tra giúp em Ad ơi, có phải iPhone Trung Quốc không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.024675,
+         "id": "766636",
+         "field_search": "question",
+         "question": " Chào ad điện thoại iPhone 5s với giá 8 triệu 400 thì là bản quốc tế hay bản lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.947098,
+         "id": "791957",
+         "field_search": "question",
+         "question": " Như vậy nghĩa là sao vậy anh chị giải thích giùm em với? Bản quốc tế hay bản khóa mạng? Em cám ơn!  N  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.825794,
+         "id": "746325",
+         "field_search": "question",
+         "question": " imel 99 000279 179581 6 ad giúp em kiểm tra máy này hạng dựng hay sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.802294,
+         "id": "895871",
+         "field_search": "question",
+         "question": "A ơi cho hỏi, máy iphone cua tgdđ có phải hoàn toàn là máy phiên bản quốc tế ko? Theo e dc bt thì có cả phiên bản lock đúng ko? E kiểm tra bằng imei thì simlock báo là unlocknouw, nếu như thế thì nó là ko phải bản qt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.660856,
+         "id": "874198",
+         "field_search": "question",
+         "question": " Bạn kiểm tra xem số IMEI này có được bảo hành ở Việt Nam không dùm mình nhé 352083075870139 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.65967,
+         "id": "781021",
+         "field_search": "question",
+         "question": " iPhone 5s quốc tế 16 GB màu vàng giá bao nhiêu vậy anh chị  ơi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.569143,
+         "id": "759806",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iPhone 5 mua bên Nhật mang về Việt Nam mà phải giải mã thì là iPhone quốc tế hay lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.1746,
+         "id": "823216",
+         "field_search": "question",
+         "question": "Xin chào. cho e hỏi e mới mua một con iPhone 5s 32 g máy củ số imei 358757055305562 e l biết kiểm tra máy xin các a giúp dùm e kg kiểm tra được gì cả vậy e xin các anh chi kiểm tra dùm thử máy thật hay máy giả. xin cảm oen ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.11496,
+         "id": "888859",
+         "field_search": "question",
+         "question": " Kiểm tra dùm em số imei 354455065837450 xem có phải hàng chính hãng không add ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

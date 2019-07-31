@@ -1,0 +1,802 @@
+{
+   "id_query": "1146666",
+   "total": 34570,
+   "total_current": 100,
+   "max_score": 197.51585,
+   "origin_question": "Xin chào em đang dùng laptop acer aspire v5-471G win 10 và em muôn hỏi là mấy bữa nay mạng wifi dùng có cứ bị chập chập lúc thì vô được lúc thì không vô được và firefox nó báo là Server not found, hôm nay thì tự nhiên máy tính nó hiện lên thông báo nói là có máy tính khác trong mạng trùng địa chỉ ip gì đó, trên điện thoại cũng không vô  mạng được luôn, không biết phải sửa sao đây ạ ?",
+   "short": "không kết nối đc wifi server not found - trùng ip ",
+   "hits": [
+      {
+         "score": 65.21652,
+         "id": "843131",
+         "field_search": "question",
+         "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.02471,
+         "id": "1133721",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình bỏ thánh sim vô điện thoại Sony Z3 thì máy vô mạng bình thường nhưng khi mình dùng Z3 làm wifi hostpot thì các máy khác dù đa kết nối được mạng Z3 phát ra nhưng vẫn không vô mạng được riêng Z3 thì dùng bình thường, cho hỏi là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.08232,
+         "id": "1011041",
+         "field_search": "question",
+         "question": "Máy em đang xài là Oppo A39 mà mấy hôm nay điện thoại em nó cứ có  thông báo trên  mạng về miết nó hiển thị cả mang hình bực lắm em không biết làm sao để tắt nó Đi cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.891865,
+         "id": "824947",
+         "field_search": "question",
+         "question": "Chào ad cho mình hỏi chút ạ? Ở cty của mình có mạng wifi mở? Lúc trước mình có vô được.nhưng hôm nay mình lại không vô được. Mình đã thử rieset lại máy ui.ấn quên ui đăng nhập lại.nói chung là thử những cách mình biết.mà các điện thoại khác vẫn vô được. Mình kết nối lại thì máy báo \" không kết nối được\". Mong ad giúp đỡ. Cám ơn..!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.850075,
+         "id": "1147539",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao mà em điện thoại lên tổng đài thì nó nói là ở chỗ nó kiểm tra cho em mạng của em không có bị lỗi gì hết mà tại sao lúc em vô Facebook với mess với Zalo nói chung là tất cả ứng dụng trong điện thoại luôn mà nó không có đăng nhập được.bị như vậy là do đt hay là mạng v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.221703,
+         "id": "1155473",
+         "field_search": "question",
+         "question": "Xin chào cho em hỏi em dùng laptop acer V5-471G lúc trước kết nỗi bluetooth bình thường nhưng sau khi cập nhật win 10 thì nó không dò thấy thiết bị bluetooth nào nữa là sao ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.35824,
+         "id": "1158693",
+         "field_search": "question",
+         "question": "A50 mình bật mạng dữ liệu lên cứ bị chập chờn lúc được lúc không là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.918262,
+         "id": "926002",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là máy của em cứ dùng lâu lâu là lại bị màn hình biến thành màu xanh dương xong rồi có chữ trắng chạy trên màn hình nó báo là recovery gì đó không biết có phải bị nhiễm virus hay bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.776825,
+         "id": "1167145",
+         "field_search": "question",
+         "question": "cho em hỏi iphone4 không kết nối mạng được là bị gì ạ? wifi mạnh mà không vô được em sao lưu mấy lần cũng không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.457253,
+         "id": "1154173",
+         "field_search": "question",
+         "question": "em chào admin. ad cho em hỏi là máy em thi thoảng mới dùng, không tải phầm mềm gì nặng, chỉ dùng để lướt web thôi mà máy lag lắm ạ. máy win 10 em mới mua hồi cuối năm. máy hay bị đứng khi lên mạng, lướt k được, đơ vài giây sau đó tắt đen luôn rồi tự thoát, nó cứ vây hoài. lúc mà k bị thì nó chạy nhanh lắm, còn lúc đơ thì cứ tắt đen màn hình hoặc là đứng màn hình luôn. giờ em đem ra cài win lại hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.252323,
+         "id": "809957",
+         "field_search": "question",
+         "question": "chào ad. e mới mua laptop dell insprion 3552, dùng khoảng đc 3 tuần, mấy hôm nay khi dùng wifi thì biểu tượng wifi có dấu x màu đỏ có chữ not connected- no connection are available và nó ko hiện bất kỳ 1 địa chỉ wifi nào luôn, e restart máy thì lại dùng đc mạng khoảng 30 phút thì lại bị dấu x màu đỏ. ad giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.472187,
+         "id": "1143908",
+         "field_search": "question",
+         "question": "Ad giúp mình là mình có 1 con itel s11 plus vấn đề wifi khi nhập mã vào báo đã kết nối không có internet là sao ạ đầy sóng nhưng ko mạng thử máy khác thì ok còn máy itel thì không dc mạng lúc có lúc không thử các bước điều vô vụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.66398,
+         "id": "1134222",
+         "field_search": "question",
+         "question": "Điện thoại của mình là Nokia 3 mới mua được 3 tháng. Mấy ngày gần đây thì khi mình mở kết nối Wifi thì máy chỉ hiện dòng chữ đang tìm mạng Wifi suốt nhưng máy mình không tìm ra được một mạng nào trong khi máy mọi người đều hiện rất nhiều  mạng và bắt được Wifi. Xong có lúc máy đt của mình đã dò được  wifi r thì khi gõ mật khẩu vào thì vẫn không kết nối được wifi, chỉ hiện mỗi dòng \"đã lưu\" ở dưới tên mạng wifi. chắc chắn lỗi không phải do ổ phát wifi vì máy của ng khác vẫn kết nối bình thường. Mình đã ra TGDĐ và đc cập nhật lên Android 8, ngay lúc đó thì bắt đc wifi nhưng sau đó khi về nhà thì lại không tìm được mạng wifi nào nữa dù xung quanh nhà mình có rất nhiều mạng wifi. Mong admin giải đáp giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.651985,
+         "id": "754178",
+         "field_search": "question",
+         "question": " Cho em hỏi sao máy Dell em bật wifi mà nó không chạy mạng vậy ạ. không vô trang web nào được luôn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.13643,
+         "id": "1133535",
+         "field_search": "question",
+         "question": "Cho mình hỏi là sau khi mình bỏ sim thánh sim vô điện thoại sony Z3 để phát wifi, Sony Z3 thì vô mạng bình thường nhưng các máy kết nối từ mạng Sony Z3 phát ra thì lại không vô được mạng vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.937065,
+         "id": "1007788",
+         "field_search": "question",
+         "question": "M.n cho e hỏi là máy của em là galaxy tab A , hồi trước dùng wifi ngon lành , cách đây 2 tháng tự dưng bị kiểu dùng wifi thì kết nối được có mạng, mà chậm như rùa ,khó load nổi một trang  . Youtube thì xem video luôn dừng ở giây thứ 6 , load 1 lúc ms xem tiếp được . Mà mạnh wifi thì e xem kĩ r , ko có vấn đề gì cả . 4g thì lúc có lúc không , ko hiểu nổi , toàn phải khởi động lại máy mạng mới ổn định 1 tí , xog đâu lại vào đó . Đến bâyh thì em đã quen với cái wifi chậm đấy thì tự nhiên nó lại không load được youtube , ch play , ... Mà vào fb vs xem video trên fb lại ngon ! Chơi game lúc được lúc không được , mà vào được thì 2 phút out luôn . Vậy cho e hỏi đấy là do máy hay do mạng hoặc là do 1 nguyên nhân khác ạk ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.84481,
+         "id": "1004580",
+         "field_search": "question",
+         "question": "anh chị ơi cho em hỏi là em dùng j5 prime. mua cách đây đc 6 tháng rồi. cách đây 1 tháng thì máy em nó cứ kiểu chập chờn. đang nhắn tin thì tự dưng nó nhảy loạn lên, có lúc tắt màn hình đi nó cứ tự bật lên, thi thoảng lại kiểu đơ đơ.. em hỏi là em có được mang đổi lại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.801796,
+         "id": "1019117",
+         "field_search": "question",
+         "question": "Chào ad, cho em hỏi, trên điện thoại android của em thường xuyên không nhận được mạng wifi nào, trong khi máy tính hoặc các thiết bị khác đều sử dụng mạng wifi đó bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.45111,
+         "id": "799015",
+         "field_search": "question",
+         "question": "Cho hỏi máy tính mình bây giờ đang là win 8.1 giờ mình cài lại win 7 ultimate thì lúc xuống win 7 có mạng không hay là phải cài driver mạng máy mình là máy cây nhé k phải laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.4062,
+         "id": "1007490",
+         "field_search": "question",
+         "question": "máy tính mình đang dùng tự nhiên máy hôm nay bị chậm, giờ mình muốn cài lại win thì được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.378273,
+         "id": "1005248",
+         "field_search": "question",
+         "question": "Tại sao 1 điện thoại luôn có mạng và trong tình trạng ko tắt nguồn ( cũng ko sử dụng) nhưng dùng 1 dt khác nhắn tin zalo thì thấy máy này truy cập x phút trước và tn chỉ hiện đã gửi. Đến lúc dt kia sử dụng( mở màn hình) thì mới có thông báo tn và dt này mới hiện tn đã nhận. Trong lúc đó cả 2 dt đều có mạng và dt nhận tn đang ko dc sử dụng( chế độ nghỉ) nếu 1 dt mở nguồn và mở mạng thì phải nhận dc tn ngay lúc gửi chứ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.27115,
+         "id": "954016",
+         "field_search": "question",
+         "question": "xin chào em đang dùng laptop acer win 7 và em muốn hỏi là các anh chị có thể chỉ em cách lấy thông tin hay xâm nhập để điều khiển thiết bị kết nối với mạng wifi của mình không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.046703,
+         "id": "926006",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là em có một máy tính win Xp và em muốn chuyển file game từ máy win Xp sang laptop của em nhưng khi em gắm usb vào máy win XP thì tại sao nó lại không hiện ra biểu tượng trong my computer ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.635143,
+         "id": "755072",
+         "field_search": "question",
+         "question": "Em đang bên china bên đó có mạng 4g sao em mua sim và đăng kí lắp vào sao không dùng được. 3g cũng không có luôn chỉ hiện E là sao ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.48661,
+         "id": "801692",
+         "field_search": "question",
+         "question": "Laptop tôi khi cài lên win 10 thì máy bắt mạng chập chờn hoặc chạy không nổi dù các máy khác bắt mạng vẫn bình thường. Cho tôi xin cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.296017,
+         "id": "780164",
+         "field_search": "question",
+         "question": "AD cho em hỏi..tại sao máy tính e hay bị mất wifi không như hình không kết nối wifi được..có phải bị lỗi gì hay là hư card mạng wifi không..đôi lúc máy hiện lên thanh wifi.đôi lúc lại mất thanh wifi như hình..nên em toàn dùng cáp chứ ko bắt wifi được..nhờ AD giúp giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.082764,
+         "id": "781431",
+         "field_search": "question",
+         "question": "Em dùng iPhone 4 wifi tại nhà dùng mạng các trang bình thường nhưng tự nhiên vào fb hằng ngày vẫn đc tự nhiên hôm nay không được.. sang mạng nhà khác lại vào được về nhà lại không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.0376,
+         "id": "829226",
+         "field_search": "question",
+         "question": "Laptop của em hiệu Toshiba,Ngày hôm nay, em của em có vô tình làm nước đổ vào, lúc đó em cũng có lau rồi, nghĩ là không sao, nhưng tới sáng nay em có bật lap lên, em bấm không lên chữ, bàn phím lap cũng bị hư trước đó rồi mà em ngại chưa thay .Cho em hỏi, laptop em bị vô nước ( chút xíu ) là hư làm sao ạ, nếu sửa thì bao tiền vậy ? Với cả nếu thay bàn phím thì cũng hết bao tiền cả thảy ạ :(( giúp em với !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.43722,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.191586,
+         "id": "771226",
+         "field_search": "question",
+         "question": " E dùng DELL tại sao đang dùng mạng wifi nó cứ để NOT AVAILABLE là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.980194,
+         "id": "805144",
+         "field_search": "question",
+         "question": "con ip5 của em không sạc được, lúc mở máy thì nó không thông báo là đang sạc, cũng không thông báo là vào pin, nhưng khi tắt nguồn thì lại sạc được, lúc nó còn 1% thì tắt nguồn, em nghĩ là hỏng rồi nên thử mở lại, lúc mở lên đã thấy nó sạc được 64%, làm cách nào khắc phục được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.91188,
+         "id": "1137764",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em vừa sạc máy được 48% bật wifi lên phát còn 40% và từ đấy pin tụt rất nhanh không thả phanh lúc trước máy dùng rất bt nhưng k hỉu sao tự nhiên mấy ngày nay nó cứ hao pin kinh khủng như thế em đã cố tìm tham khảo để giảm hao pin nhưng chỉ được hiệu quả một thời gian anh chị có thể cho em biết hiện tượng trên là gì được không ạ 😓😓😓",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.80287,
+         "id": "996611",
+         "field_search": "question",
+         "question": "mh có con iphone 5s bắt đc wifi nhưng lại không có mạng,trong khi đó máy tính + đt samsung của em mh thì lại bắt đc và có mạng,mh đem điện thoại đi bắt thử wifi nhà khác thì điện thoại 5s của mh vẫn dùng mạng bình thường??? bạn nào giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.72944,
+         "id": "818979",
+         "field_search": "question",
+         "question": "Zalo của em là phiên bản mới nhất và chính thống, nhưng sao lại không thể gửi ảnh hoặc đăng ảnh. Khi gửi ảnh thì chỉ được 10% rồi báo gửi thất bại, còn đăng ảnh thì báo là không đồng bộ.Em đã thử rất nhiều wifi khác nhau và 3G đều gửi được, chỉ duy nhất wifi ở nhà trọ của em là không được (wifi nhà trọ mạng tốt lắm). Cũng chính wifi nhà trọ này, tất cả các điện thoại khác đều gửi ảnh được còn điện thoại em thì không.Như vậy không phải lỗi do mạng, mong ad giải đáp cho em với, ngày giờ máy em chạy chuẩn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.707226,
+         "id": "906976",
+         "field_search": "question",
+         "question": " mình đang dùng máy tính ecer win 10 lúc thì báo pin lúc không thì làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.665344,
+         "id": "993031",
+         "field_search": "question",
+         "question": "Tối qua sau khi dùng máy tính xong, e bấm tắt máy( máy em là windows 10 pro đã active) nó nó\" Cập nhật và tắt máy\" sau đó e bấm vào và đi ngủ, hôm nay bật máy lên, em nhập mật khẩu là 299299 ( 6 số ) và đó là mật khẩu đúng, nhưng không hiểu sao hôm nay nó chỉ cho nhập 4 số, và e đã nhập hoài không được. Mong nhận được sự trợ giúp. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.652744,
+         "id": "908976",
+         "field_search": "question",
+         "question": "Chào anh/chị,Em dùng laptop Acer Espire E14, mấy ngày trước lap vẫn dùng để trình chiếu được nhưng tự nhiên giờ lại không được, em bấm Win + P thì nó bảo là Try installing drive.... em phải khắc phục thế nào đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.63385,
+         "id": "893700",
+         "field_search": "question",
+         "question": "Mình dùng ip6 và ios 9.2.1. Bình thường mình bật 3g lên dùng vô tư nhưng hôm nay chỉ bật đc 2g chứ bật 3g nhưng ko lên là bị sao ạ? Trong khi đó mạng vettel đủ 4-5 vạch k mất sóng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.50883,
+         "id": "873963",
+         "field_search": "question",
+         "question": "Máy em là iPhone6 Plus có Jailbreak cho em hỏi mấy hôm nay máy đang dùng 1 lúc thì tự dưng kêu mấy tiếng lạ rồi đơ máy luôn em có tắt nguồn máy rồi bật lại nhưng nó vẫn thế .Em phải làm j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.487194,
+         "id": "1002641",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại em ko biết bị gì nữa mà sạc nó ko vô bin em cúp nguồn sạc thì nó mới vô còn mở nguồn sạc thì nó ko vô toàn báo bin yếu rồi sập nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.322876,
+         "id": "1022620",
+         "field_search": "question",
+         "question": "Laptop của e lúc mua về đc gần 1 tháng bắt đầu có dấu hiệu bắt đc wifi nhưng không vào đc mạng. Lúc đó em có xem trên đây nhiều ng bảo vào cái Lan Setting trong cài đặt của chrome rồi bỏ chọn cái proxy đi, và vào mạng như bình thường. Dùng đến bây giờ là đc 6 tháng e vẫn liên tục làm như vậy mới vào đc mạng. Tự nhiên 2 hôm nay vào setting, phần Lan Setting bị mờ đi và có dòng \"Some settings are managed by your system administrator\". Làm e không chỉnh đc để vào mạng đc nữa. E đã cài lại driver mạng, đổi IP từ auto sang tự điền, vẫn không được. Có bác nào có cao kiến gì không giúp em với ạ. Điện thoại vẫn dùng wifi bình thường đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.267044,
+         "id": "1154826",
+         "field_search": "question",
+         "question": "xin cho em hỏi em đang xài điện thoại redmi6 đang sử dụng wifi hôm qua được, sao tự nhiên hôm nay lại không bắt được sóng wifi luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.16136,
+         "id": "828592",
+         "field_search": "question",
+         "question": "Cho e hỏi. Điện thoại e không thông báo tin nhắn zalo, thì làm sao ạ. E đã làm theo mấy cách trên mạng chỉ mà cũng không được. Xin chỉ giúp e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.032196,
+         "id": "923788",
+         "field_search": "question",
+         "question": "xin chào bqt tgdđ cho em hỏi cái này ạ hôm bữa máy em có bị hỏng thế em mới lên sửa thì nhân viên cài lại cho em win 8 bữa trước em dùng win 7 mà.Từ lúc cài lại win thì máy em nó chả kích hoạt được window nữa.Em mới hỏi bộ phận kỹ thuật bên miscro thì họ nói pid của em là bản quyền k hợp lệ thì k kích hoạt đc phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.006226,
+         "id": "871779",
+         "field_search": "question",
+         "question": "mình sử dụng máy tính, dùng câu lệnh trong C để phát wifi cho điện thoại ok ngon lành. Sau khi cài lại win cho máy tính vẫn dùng câu lệnh trong C phát wifi thì điện thoại kết nối wifi được ,nhưng không vào được mạng. Đã làm nhiều cách theo thông tin trên mang nhưng không đươc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.692566,
+         "id": "1008676",
+         "field_search": "question",
+         "question": "Hiện tôi đang sử dụng lap Hp. Vài ngày nay lap tôi có hiện tượng đứng khi mới mở máy lên sd được một lúc và không bắt được wifi mặc dù mạng rất mạnh. Cho hỏi máy tôi bị vấn đề gì và phải tốn khoảng bn tiền để sửa máy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.648907,
+         "id": "1021060",
+         "field_search": "question",
+         "question": "Máy tính bảng acer của mình hiệu B1 - 723 loại 7 inch sao tự nhiên khe cắm sim cắm được nhưng lên máy nó báo không nhận được sim, mình đang hoang mang, nó bị cái đó là sao ạ, đem đến đâu sửa ạ. có gì phản hồi giúp em qua mail nguyenthanhsang1601cc@gmail.com thank .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.57244,
+         "id": "1021688",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là sao con iphone 5 của em chạy bản 10.3.3 đang dùng bình thường tự nhiên hôm qua em vào appstore, icloud và cài đặt trong máy không phản hồi gì hết nó cứ xoay như vậy mãi .Em vào reset cũng không được     Luôn ạ.Máy em mất kết nối với apple hết trong khi mạng vẫn bình thường .Ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.572067,
+         "id": "841183",
+         "field_search": "question",
+         "question": "cho em hỏi khi kết nối USB Với máy tính để coppy nhạc và video từ máy tính qua điện thoại, đang coppy được 1 lúc thì nó báo \"thiết bị đã bị ngắt kết nối\" là sao vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.518627,
+         "id": "778202",
+         "field_search": "question",
+         "question": "Cho em hỏi cái iPhone 6 của em nhiều lúc tự nhiên đang dùng bình thường báo không có sim, để 1 lúc cài đặt lại mạng hay tắt nguồn đi bật lại thì lại báo có sim, đây có phải do lỗi phần cứng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.48857,
+         "id": "776866",
+         "field_search": "question",
+         "question": "Hôm nay gió lạnh lên cao, cho hỏi vì sao con acer nhà em ko bắt được wi-fi ạ? ^^Tình hình: Từ mấy hôm trước điện thoại của e ko bắt đk wi-fi.Có 3 nơi để bật wf:1 là kéo sang ô bên cạnh, nó có biểu tượng wifi cùng với bluetooth với GPS và ánh sáng, nhấn vào, wf thì nó hiện lên màu xanh, tỏ vẻ được rồi, nhưng kéo cái bảng đen xuống, nơi có các thông báo í, thì wf nó vẫn tối màu, nhấn vào wf ở đây thì nó hiện lên các vạch, tụt lên tụt xuống rồi ngóm.Ở cài đặt, vào Quản lí không dây và mạng thì wf có 3 chữ: \" Đang bật\", kèm theo \"...\" sau một lúc thì nó tắt, thông báo: \"LỖI \"P/s: chắc chắn nhà bên cạnh bật wf và wf ko có vấn đề gì ạ..Cảm ơn nhiều ^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.44783,
+         "id": "821660",
+         "field_search": "question",
+         "question": "cho em hỏi, tại sao lại không tải ứng dụng từ store về máy laptop được vậy ad. nó cứ báo là đã hoàn thành nhưng lại vô thì lại không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.367626,
+         "id": "1018887",
+         "field_search": "question",
+         "question": "Máy em là máy mobell tab 7s nó cứ hiện cái thông báo như trong hình tắt thì không tắt được chỉ bấm vào rồi ấn hủy cài đặt mới tắt đc 1 lúc nó lại hiện lên ai biết tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.31274,
+         "id": "841487",
+         "field_search": "question",
+         "question": "hôm bữa em có mua cái laptop . về thì em có tải trên mạng về tệp tin nâng cấp win 10 home của em thành win pro . nhưng chỉ được 15 ngày thôi . sau 15 ngày thì máy em có 1 ít lỗi. như hiện cái thông báo nhập produckey khác . không tải được ứng dụng trong stone. nên em đặt lại máy . giờ mất key win home,office và diệt vi rút . bây giờ em nên làm gì để trở lại như trước ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.28001,
+         "id": "1163468",
+         "field_search": "question",
+         "question": "Cho e hỏi là em xài máy sámung a6+ và khi bật smart view trên máy kết nối với tv thì nó thông báo là không thẻ kết nối..máy của em vs tv dùng chung 1 mạng wifi ạ...mong anh chị giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.241787,
+         "id": "1144598",
+         "field_search": "question",
+         "question": "Hiện em mới mua điện thoại samsung A7 em sài sim mạng viettel em đăng kí gói vô mạng 4G minmax 90  nhưng khi em bắt dữ liệu mạng lên trên máy hiện chữ (E) nhưng khi em tắt nguồn điện thoại khởi động lại thì mới được (4G) ngày nào mạng em cũng bị z hết cho em hỏi điện thoại có bị lỗi gì ko ( sáng nào mở mạng lên cũng bị y chang dậy hết em phải khởi động máy lại có khi ngày khởi dộng 2,3 lần)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.201794,
+         "id": "803627",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi tí ! Hiện giờ em đang xài Oppo R1 , nhưng bực lắm . cứ hể lên mạng or mess hay zalo down hình về , lúc nào nó cũng qua máy, khỏang 5ph sau mất, phãi vô Trình Qlí Tệp di chuyển qua thẻ nhớ lại mới được . bgiờ phãi làm sao đây ?? Em không biết ntnào hết ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.12839,
+         "id": "1155933",
+         "field_search": "question",
+         "question": "Ipad air khi cập nhật lên IOS 12 thì wifi kết nối lúc được lúc không, có wifi vô được có wifi vô không được. Cách khắc phục sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.021263,
+         "id": "852722",
+         "field_search": "question",
+         "question": "Anh ơi! ip 6s bị rơi vào nước và thấm vô màn hinh rồi giờ tắt nguồn mở không lên nữa ạ! điện thoại mua ở cửa hàng mình luôn ạ! em có gọi hỏi tổng đài là vô nước không được bảo hành nên em muốn hỏi như vậy có sửa đc ko nếu mình sửa được thì dữ liệu hình trong máy có bị mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.018322,
+         "id": "803017",
+         "field_search": "question",
+         "question": "Máy tính mình bắt được sóng wifi nhưng không vào mạng được. Khi mình đem máy tính đến nơi khác bắt wifi thì lại kết nối được. Điện thoại mình phát wifi cũng kết nối được. Máy tính cứ hiện No internet access. Giúp mình với!! Mình đang làm việc gấp lắm mà máy tính cứ bị vậy.Rất mong được sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.988354,
+         "id": "909932",
+         "field_search": "question",
+         "question": "Thẻ nhớ điện thoại em đang dùng thì chép nhạc vô khởi động lại thì mất, xóa thì cũng mất nhưng khởi động lại thì có lại, format bằng máy tính cũng không được! đem lên thì nói virus khóa thẻ nhớ ban quản trị có cách nào mở được không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.967842,
+         "id": "903426",
+         "field_search": "question",
+         "question": "xin chào em đang dùng điên thoại samsung galaxy j1 mini và em muốn hỏi là khi em dùng điện thoại mở các tập tin định dạng .bin .txt .json, vv bằng es duyêt tập tin hay những ứng dụng khác thì nó ra toàn kí tự gì đâu không chứ không phải là tiếng anh. không biết có ứng dụng hay phần mềm trên máy tính nào giúp đọc các định dạng đó bằng ngôn ngữ tiếng anh trên máy tính hay điện thoai không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.95105,
+         "id": "1157924",
+         "field_search": "question",
+         "question": "game boom mobile e vào đăng kí tài khoản mà sao nó cứ hiện ĐANG KẾT NỐI MẠNG..trong khi mạng vẫn bình thường. E đã thử dùng tới 2 điện thoại, máy tính mà vẫn cứ hiện chữ đó lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.888325,
+         "id": "882275",
+         "field_search": "question",
+         "question": "Cho e hỏi tại s điện thoại em cập nhật facebook nó chạy khá lâu và sau đó nó không hiện thông báo mà vô ch play thì nó nói đã cập nhật mà vô facebook vẫn k thấy cái j mới,em xài oppo neo 7 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.84337,
+         "id": "1146308",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính hp của e đang sài sao tự nhiên mấy bữa nay khôngbiet no bị gì ma em kéo chuột mà máy no cứ giựt giựt hoài à em lướt đi không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.826523,
+         "id": "765952",
+         "field_search": "question",
+         "question": "Em mua laptop HP được 4 tháng và mấy hôm gần đây nó có hiện dòng thông báo \"your windows license will expire soon \" như vậy là bị sao ạ , và có cách khắc phục không . Em xin cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.8212,
+         "id": "1159852",
+         "field_search": "question",
+         "question": "em có một cái laptop win 10 mà e mún lúc mở máy tính lên thì trên desktop nó sẽ tự động hiển thị ra một cái thông báo vd như là: Noel k đc chơi game vào buổi sáng . Có phần mềm nào k ạ . ad chỉ e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.78862,
+         "id": "998666",
+         "field_search": "question",
+         "question": "USB 3G xài như thế nào? Có phải là chỉ cần mua cái USB đó rồi cắm vô LAPTOP là xài được luôn hay sao? Hay là cần đóng phí gì không? nếu có thì nó như thế nào? Mình tính mua USB 3G Viettel mà không biết hoạt động thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.549866,
+         "id": "1165693",
+         "field_search": "question",
+         "question": "anh chị có thể giúp tư vẫn giúp em được không? máy của em là htc one m8. mỗi lần vào mạng là nó lại auto tắt wifi và hiện lên màn hình như trong ảnh, anh chị có thể cho em biết lỗi này là lỗi gì và khắc phục nó ntn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.54945,
+         "id": "822991",
+         "field_search": "question",
+         "question": "Qtv cho em xin hỏi là khi em cài đặt Windows 10 lên máy tính bằng cách tải xuống từ trang chủ của Microsoft, sau khi cài đặt xong thì máy không thể nhận mạng từ wifi dù đã kết nối ạ,em đã kiểm tra mạng và mạng vẫn kết nối được với các thiết bị khác.Vậy thì có thể cho em hỏi cách khắc phục lỗi này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.423058,
+         "id": "1010918",
+         "field_search": "question",
+         "question": "Mình muốn phát Wifi từ máy tính dùng win 7 cho đt dùng. mình đã share và Wifi đã hiển thị dòng Internet acess.. tuy nhiên trên điện thoại vẫn báo chưa có internet.. Trước đây mình đã thử và thành công.. nhưng dạo này không hiểu sao lại không share đc! trên máy oppo A11W thì nó hiển thị dòng đang lấy địa chỉ IP và chờ rất lâu vẫn không cấp đc!! mong TGD Đ tư vấn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.393345,
+         "id": "1147092",
+         "field_search": "question",
+         "question": "Máy em dùng là hp máy ngày trước bị tắt nguồn do hết pin sau đó vẫn có thể sử dụng và hôm nay em mở máy thì vẫn xem được nhưng một lúc thì máy không thể kết nói wifi nên em thử restart khởi động lại máy nhưng lại bị lỗi preparing automatic prepair em đã thử F8, ship F8, thì có nổi lên biểu tượng \" :( \" và một dòng chữ \" ..... You can restart \" sau đó em lại mỡ máy lại mà máy tính chỉ xuất hiện màng hình đen với biểu tượng hp và dòng chữ preparing automatic prepair và không xuất hiện thêm gì. Xin hãy giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.37701,
+         "id": "809803",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là tại sao máy tính của bạn em khi vô Intel HD Graphis thì có thể vô chỉnh màu được, còn máy tính của em khi vô thì máy hiện ra như hình trên, mong QTV giúp đỡ, em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.27544,
+         "id": "1147515",
+         "field_search": "question",
+         "question": "xin hỏi? Trước đây không có, sao dạo này máy m bị xen quảng cáo quá nhiều, ngay khi mở khóa màn hình, đang dùng wifi hay 3g bị rớt hay chập chờn mạng?Máy m là ss gt7102?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.25875,
+         "id": "831995",
+         "field_search": "question",
+         "question": "Em hiện đang dùng iphone 4s phiên bản 9.2 ạ. Nhưng e sạc pin vẫn có tia sét tức là thông báo đã sạc, nhưng lúc thì tăng % pin lúc thì chỉ sạc được 87% và không đầy được đến 100%. Vì sao lại thế ạ? Liệu có phải máy e bị hư pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.200592,
+         "id": "997308",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo neo7.. Cho hỏi tại sao chỉ mỗi điện thoại của tôi là không tìm thấy wifi đó. Hôm qua vẫn còn dò được và sử dụng wifi đó bình thường..nhưng hôm nay chẳng những không xài được mà còn không tìm thấy mạng wifi đó nữa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.179752,
+         "id": "1149237",
+         "field_search": "question",
+         "question": "Mình mua điện thoại ip 7+ 32Gb được 2 tuần. Nhưng về sử dụng thấy hay bị mất sóng, dùng mạng wifi hay mạng di động cũng thường xuyên bị mất kết nối mạng. Chiếc 7+ cũ mình dùng thì không có bị tình trạng này. Cho mình hỏi đây là lỗi của sản phẩm hay gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.04417,
+         "id": "1022096",
+         "field_search": "question",
+         "question": "Chào shop!Mình có gửi bảo hành điện thoại bên của hàng của shop thì được báo là điện thoại mình bị vô nước nhưng mình đã bị từ chiều buổi hôm qua khi đang cầm dùng thì màn samsung j7 pro của mình bị đơ nhưng không biết sao mình nhấn nút nguồn một lúc thì nhấn vào nút khởi động lại được(reset máy) xong đến 8h sáng hôm sau mình bỏ điện thoại vô căp đi công việc thì đến nơi người ta gọi điện thoại cho mình không lướt màn hình nghe được thì mình mới chạy về đi lên trung tâm bảo hành trên đường mình đi không gặp mưa mà điện thoại lại bỏ trong cặp làm sao lại bị vô nước được. Bây giờ bên Trung tâm bảo hành gọi điện thoại bảo màn hình điện thoại mình bị vô nước. Vậy bây giờ là lỗi của mình để trong cặp vô nước hay do bên kĩ thuật báo sai ạ!Mong shop giải quyết dùm mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.93767,
+         "id": "885047",
+         "field_search": "question",
+         "question": "Ad cho em hỏi DT em hiện tại là samsung J5, em sử dụng cũng được 1 năm rồi nhưng gần đây ĐT vô mạng thì bình thường nhưng riêng vào Mesenger lạị báo \" Đang đợi mạng\"... gửi tin nhắn hoặc nhận tin nhắn đều rất chậmTrường hợp này em phải làm sao ạ? Mong ad giúp đỡ. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.926243,
+         "id": "1158864",
+         "field_search": "question",
+         "question": "Cho tôi hỏi. Hiện nay tôi dùng điện thoại redmi 5a khi gọi điện thoại cứ báo mạng đi động không khả dụng. Vậy bây giờ phải làm sao được ăn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.923283,
+         "id": "1165697",
+         "field_search": "question",
+         "question": "anh chị có thể giúp tư vẫn giúp em được không? máy của em là htc one m8. mỗi lần vào mạng là nó lại auto tắt wifi và hiện lên màn hình như trong ảnh, anh chị có thể cho em biết lỗi này là lỗi gì và khắc phục nó ntn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.912395,
+         "id": "1133529",
+         "field_search": "question",
+         "question": "Em là nhân viên bhx em dùng iphone 5s mà mấy ngày hôm nay bị lỗi app MWG mấy ngày nay không vô đc em đã xoá và tải lại cũng như vậy cho em hỏi nguyên nhân và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.895622,
+         "id": "1162361",
+         "field_search": "question",
+         "question": "Xin chào ạ, mình đang dùng laptop hãng HP và có cài đặt win10, có lúc tắt máy thì nó cứ tự update, và update thì rất là chậm và khởi động cũng lâu nữa. Cho mình hỏi làm sao để bỏ cái update này vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.863083,
+         "id": "924455",
+         "field_search": "question",
+         "question": "lỗi 502 trong zalo là gì các bạn, mình ngồi kế cục wifi mà nó báo đường truyền không ổn định (lỗi 502) , trong khi các ứng dụng khác vô mạng vẫn xem bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.81646,
+         "id": "1150109",
+         "field_search": "question",
+         "question": "Em dùng htc one e8 . Máy em thỉnh thoảng đang dùng thì nó tự sập nguồn ,mở lên 1lúc lại tự sập nguồn. đoi lúc nó sập nguồn bật ko lên nguồn sạc cũng ko lên, để cho Nó hết kiệt pin sạc vô mới lên. Rồi cứ thế a. Vậy là sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.812893,
+         "id": "1136557",
+         "field_search": "question",
+         "question": "Dạ chào anh (chị).. Em đang xài laptop Lenovo Yoga 520 mới mua khoảng hơn 6 tháng tại thế giới di động.. Máy có màn hình cảm ứng mà em ít xài cảm ứng trên màn hình.. Đến hôm nay e chạm vào màn hình thì mới phát hiện đã bị vô hiệu hóa.. Em cũng không biết bị từ khi nào.. Lên mạng search thì có chỉ cách bật/tắt màn hình cảm ứng là Disable HDI compliant touch screen.. Em làm trên máy thì không có HDI complint touch screen.. Giờ em phải làm sao để sử dụng màn hình cảm ứng đây ạ! Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.778385,
+         "id": "863452",
+         "field_search": "question",
+         "question": "em đang xài máy tính để bàn , máy tính có hiện lên thông báo hỏi có nâng cấp lên windows 10 không ? cho em hỏi là windows 10 có gì ưu điểm gì so vs windows 7 ạ , và nâng cấp lên thì có cần lưu ý gì ko , có mất dự liệu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.777042,
+         "id": "752805",
+         "field_search": "question",
+         "question": "Em dùng ip5s, từ lúc lên ios 9.1, phần mềm facetime khi em gọi sang ipad vẫn ok, nhưng một số số điện thoại em gọi nó đổ chuông nhưng bên kia không hiện thông báo và bên đó gọi lại bên em cũng không hiện thông báo (đổ chuông 1 lúc báo là \"KHÔNG KHẢ DỤNG\"). Vậy cho em hỏi lý do là vì sao và làm thế nào để khắc phục ạ? (2 số đều nhắn tin cho nhau bình thường, chỉ là gọi facetime âm thanh lẫn facetime là không được)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.766533,
+         "id": "1157627",
+         "field_search": "question",
+         "question": "máy tính bắt wifi chập chờn cứ hiện hình tam giác màu vàng là do đâu ạ. trong khi các máy khác đều bắt wifi được bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.72597,
+         "id": "755773",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop em không hiểu sao nó để kết nối với wifi rồi mà vô không được (dấu chấm than vàng) trong khi ai cũg vào được mà nó lại không được, thử đem ra đổi xài wifi ở chỗ khác thì lại vô được. Không biết lỗi tại wifi hay tại máy nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.71347,
+         "id": "1151223",
+         "field_search": "question",
+         "question": "Chào TGDD em mới mua dùng điện thoại ASUS ZENPHONE MAX PRO M2 được 35 ngày rồi nhưng thỉnh thoảng điện thoại em tự rung như có thông báo, mà trong khi đó em kiểm tra thì lại không có thông báo gì cả.. em đã vào tắt ứng dụng chạy ngầm, thỉnh thoảng xoá bộ nhớ cache, và khởi động lại máy, nhưng nó cũng không hết, ad có biết bị gì và có cách giải quyết lỗi giúp e không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.65171,
+         "id": "1144856",
+         "field_search": "question",
+         "question": "chào anh chị ở tgdd và mọi người, em có một câu hỏi ạ.em đang xài laptop và phát wifi bằng điện thoại để dùng. em muốn hỏi là liệu thiết bị phát wifi (dùng sim) có tốt hơn phát bằng điện thoại không ạ, hay là như nhau. cụ thể là thiết bị phát tốt hơn điện thoại ở chỗ nàosóng có mạnh hơn không, đường truyền có bị chập chờn không. và có nên dùng thiết bị phát wifi thay cho điện thoại không vì em tìm trên mạng chưa thấy so sánh về 2 loại này và cũng có một số ý kiến là như nhau. em cảm ơn mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.64647,
+         "id": "1021436",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình đang dùng điện thoại oppo a37. tự nhiên không kết nối wifi được. trong khi mình ấn dò các mạng vẫn hiện căng đét. nhưng khi ấn kết nối nó chỉ quay quay rồi tự động thoát luôn. không kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.605026,
+         "id": "836264",
+         "field_search": "question",
+         "question": "Em có cái laptop HP chạy win 10 nhưng dùng được một thời gian thì vài ứng dụng trên win 10 bị lỗi không vào được chẳng hạn như Microsoft Edge, Groove Music. Search Windows không tìm kiếm được. Em thử đủ mọi cách sửa lỗi trên mạng nhưng chẳng ăn thu, reset lại máy thì máy báo couldn't find recovery environment. Anh/chị cho em hỏi còn cách nào reset lại máy như lúc mới mua không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.58862,
+         "id": "1014639",
+         "field_search": "question",
+         "question": "cho em hỏi là lap em hãng hp, wifi lúc bật được khi tắt rồi bật lại thì không được nữa. Restart lại thì bật được 1 lần xong rồi tắt rồi bật lại nữa thì cũng không được, cho em hỏi cách sửa với ạ. hôm bữa em có đem đến TGDD 1 lần rồi, xong hôm nay lại bị nữa. Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.565796,
+         "id": "911189",
+         "field_search": "question",
+         "question": "Zalo trên máy tính của em trước đó dùng bình thường, mấy hôm nay khi chỉ gửi tin nhắn thì ok, còn gửi ảnh cái nó cứ báo \"đang gửi\" như thế này và không cho gửi tin nhắn nữa luôn. e khởi động lại máy hay gỡ ra cài lại đều vẫn bị như thế!!!Giúp e với ạ !!! huhuhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.537086,
+         "id": "1021670",
+         "field_search": "question",
+         "question": "Ad cho em hỏi . Hồi chiều em có xoá app fb với mess xong có vô appstore tải lại nhưng vô nó k load đc cứ \" đang tải \" miết. Em nghĩ mạng có vấn đề nhưng check thì wifi vs 4G ok hết. Em ms reset máy và đăng xuất icloud thì máy cứ xoay miết k đăng xuất đc. Đến tối thì tự nhiên máy e đăng xuất itunes từ bao giờ em mới đăng nhập lại thì máy cứ báo k thể xác minh. K thể kết nối đến máy chủ id apple. Vậy lỗi này là lỗi gì và cách khắc phục ra sao ạ. Ad giúp e với, bây giờ k vô đc cả appstore lẫn icloud ấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.50214,
+         "id": "755420",
+         "field_search": "question",
+         "question": "Hiện tại mình sài iPhone 6 nhưng không hiểu sao tự nhiên hôm nay sạc không vào điện . Mình thử cục sạc khác thì vô . Dây sạc thì vẫn bình thường duy có cục sạc là nối giây nào cũng không vào điện . Cho hỏi là do cục sạc đúng không ? Và cửa hàng có cho đổi không hay phải mua lại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.486423,
+         "id": "793254",
+         "field_search": "question",
+         "question": "Ko biết ip 3GS em bị gì mà wifi bị :- Bắt được wifi kết nối được wifi đó nhưng ko kết nối Internet được mặc dù máy khác là được- Hoặc là kết nối wifi không được ( thỉnh thoảng ) máy khác làm được- Kết nối wifi lâu=> Em đã reset mạng và cài đặt rồi nhưng ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

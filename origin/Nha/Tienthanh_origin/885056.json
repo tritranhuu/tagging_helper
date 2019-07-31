@@ -1,0 +1,801 @@
+{
+   "id_query": "885056",
+   "total": 29809,
+   "total_current": 100,
+   "max_score": 41.854095,
+   "origin_question": " ad cho e hỏi activate windows là gì vậy ạ, làm ntn ạ ",
+   "hits": [
+      {
+         "score": 23.471388,
+         "id": "812164",
+         "field_search": "question",
+         "question": " Khi mở máy.. Máy bắt cài đặt activate windows là gì vậy ah.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.48175,
+         "id": "1154101",
+         "field_search": "question",
+         "question": "máy có hiện chữ activate windows bên góc phải thì làm sao vậy AD. bên mình có hỗ trợ giúp cái này không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.287878,
+         "id": "1164176",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính của em hiện có hiện chữ activate windows bên phải màn hình thì là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.017324,
+         "id": "832839",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop DELL win 8.1 của em đang đòi activate windows, bậy giờ em phải làm như thế nào ạ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.532372,
+         "id": "990687",
+         "field_search": "question",
+         "question": " Cho em hỏi,gần 1 tháng nay e luôn nhận được tn ntn là sao ạ,trong khi đó em không làm gì cả ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.010376,
+         "id": "806942",
+         "field_search": "question",
+         "question": "Cho hỏi em đang xài windows 7, em muốn nâng cấp lên windows 10 có activate, cho hỏi thế giới di động có hỗ trợ làm không? Nếu có thì giá khoảng bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.003494,
+         "id": "1145954",
+         "field_search": "question",
+         "question": " Máy tính mình không activate windows 10 có sao không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.884184,
+         "id": "912265",
+         "field_search": "question",
+         "question": "cho em hỏi là mua laptop về em phải tự cài word exel các thứ hay sao ạ và màn hình laptop cua em có chữ activate windows ở góc dưới bên phải mà hình là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.583443,
+         "id": "935848",
+         "field_search": "question",
+         "question": " e mua laptop thế giới di động như h nó báo lỗi là sao You need to activate windows before you can personalize your pc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.424269,
+         "id": "848253",
+         "field_search": "question",
+         "question": " Ad cho hỏi làm s để từ windows10 trở lại windows 8.1 ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.402422,
+         "id": "1144246",
+         "field_search": "question",
+         "question": "Cho mình hỏi là trình Windows update bị lỗi 0x80070002 thì làm sao để sửa vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.38874,
+         "id": "1149635",
+         "field_search": "question",
+         "question": "Ad cho e hỏi samsung j7pro có viền xanh trên đt là bị lỗi gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.340435,
+         "id": "1133386",
+         "field_search": "question",
+         "question": "a chị cho e hỏi là e muốn mua con  đt a3s cũ thì cần phải làm ntn ạ  ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.076202,
+         "id": "1021295",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, khi mình cài itunes cho laptop thì hiện thông báo như trong hình.Đây là lỗi gì? và cách sửa ntn ạ?Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.964602,
+         "id": "767739",
+         "field_search": "question",
+         "question": " Mình muốn cài Cydia cho ip6 phải làm ntn và có ảnh hưởng gì đến máy ko vậy AD ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.929773,
+         "id": "1002381",
+         "field_search": "question",
+         "question": "cho em hỏi là em mới mua lap ASUS và trên màn hình hiện lên yêu cầu activate window ad giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.373636,
+         "id": "760263",
+         "field_search": "question",
+         "question": "Ad cho em hỏi có key Windows 8 bản quyền theo máy nhưng khi nâng cấp Windows 10 thì không kích hoạt được là lỗi  0xc004f050 là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.356354,
+         "id": "1134098",
+         "field_search": "question",
+         "question": "lại bị lỗi activate windows. hôm qua sửa rồi mà hôm nay vẫn bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.338925,
+         "id": "1162510",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang dùng Nokia 3.1 mọi khi e vẫn nge nhạc đc từ thẻ nhớ mà giờ e k thể nghe đc là sao ah.và làm ntn để nghe nhạc từ trong thẻ nhớ vậy ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.200032,
+         "id": "795218",
+         "field_search": "question",
+         "question": "cho e hỏi e xài iPhone 6s .. e bấm vô phần cài đặt rồi không biết sao bấm vô cái gì mà giờ nó ra ntn .. giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.189898,
+         "id": "808590",
+         "field_search": "question",
+         "question": " Cho hỏi laptop của em ghi your windows license will expire soon là bị gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.154523,
+         "id": "1145017",
+         "field_search": "question",
+         "question": "Máy e là 5s p.bản 8.3 e muốn nên nhưng nó bắt qua iturn e muốn cập nhập ko qua pc làm ntn ạ giúp e ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.100423,
+         "id": "1020900",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi. Mình đqg dùng j7 prime sao tự nhiên nút ứng dụng lại tự di chuyển ra giữa ntn là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0882435,
+         "id": "842589",
+         "field_search": "question",
+         "question": "Cho e hỏi là hôm qua e mới cài lại windows mà bây giờ lên mạng toàn không được, toàn báo về là số lượng truy cập vượt qua giới hạn vậy thì e phải làm gì để truy cập mạng đc ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8005085,
+         "id": "1162519",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi đăng nhập facebook báo như vậy là bị gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.77325,
+         "id": "1162812",
+         "field_search": "question",
+         "question": "AD cho em hỏi là bên mình cài giúp em máy Macbook sang Windows được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.756591,
+         "id": "839446",
+         "field_search": "question",
+         "question": "Laptop em hệ windows 8.1 khi tắt máy máy hiện đang cài đặt cập nhật.... Máy bị như vậy phải làm sao để tắt máy ạ? Ad giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.725147,
+         "id": "863452",
+         "field_search": "question",
+         "question": "em đang xài máy tính để bàn , máy tính có hiện lên thông báo hỏi có nâng cấp lên windows 10 không ? cho em hỏi là windows 10 có gì ưu điểm gì so vs windows 7 ạ , và nâng cấp lên thì có cần lưu ý gì ko , có mất dự liệu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.569627,
+         "id": "998756",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi tại sao zalo cứ bị ntn ạ. Mới hôm qua tới giờ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.558292,
+         "id": "818332",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi.để cài jaibreak cho 9.2 thì làm ntn vậy ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.53894,
+         "id": "1007091",
+         "field_search": "question",
+         "question": "Cho e hỏi đặt gạch là ntn. Như bphone, e đọc thông tin hoài mà k hiểu đặt gạch là ntn và đc hưởng ưu đãi gì. Nếu e đặt gạch rồi mà k thích mua sản phẩm thì có mất gì không, có ảnh hưởng gì k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.430775,
+         "id": "902523",
+         "field_search": "question",
+         "question": " Ad cho e hỏi mả thư tín là bn vậy ạ ....................................  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.379179,
+         "id": "1161574",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua Oppo A3s 1803 e muốn đổi lại oppo A3s vậy bù ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.365768,
+         "id": "1010891",
+         "field_search": "question",
+         "question": "Cho e hỏi tắt chế đọ 1 tay trên ss j7 prime thì làm ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.311045,
+         "id": "1005269",
+         "field_search": "question",
+         "question": "ad ơi...chiếc j7 của e khi giảm độ sáng xuống thấp thì nó bị giật màng trắng ở màng hình...chướp nháy liên tục...xin hỏi ad máy e bị làm sao vậy...và khắc phục nó ntn?thanks ad ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.211318,
+         "id": "1022418",
+         "field_search": "question",
+         "question": "Ad cho e hỏi lenovo vibe k5 plus thì chuyển ảnh từ điện thoại sang thẻ nhớ ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.105248,
+         "id": "1149262",
+         "field_search": "question",
+         "question": "cho e hỏi. e  muốn trả góp đt oppo f9 thì thủ tục ntn và cần những gì vậy ạ. trong trường hợp e trên 20 tuổi nhưng vừa xin nghỉ việ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.099029,
+         "id": "801043",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là lỗi Windows cant find wireless devices connected to a Network sửa sao ạ??Em cảm ơn trc ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.073368,
+         "id": "1009143",
+         "field_search": "question",
+         "question": "Cho e hỏi chút ạ. e dùng máy ss E5 vẫn lên mạng được nhg k khi gọi điện thì báo là mạng di động không sẵn sàng thì làm ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.928055,
+         "id": "1009594",
+         "field_search": "question",
+         "question": "là ntn ạ .... sử dụng sao ạ e cảm ơn ạ..............................................................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.893707,
+         "id": "1145582",
+         "field_search": "question",
+         "question": "toi co mua mot con asus A540u . khi vào mua nhân viên tư vấn là con này sài win bản quyền . giờ nó thông báo sap hết hạn là sao vậy.... tôi ko gửi hình đc .Nội dung nó thông báo là: \"your windows license will expire soon, you need to activate windows in settings",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.851365,
+         "id": "1002723",
+         "field_search": "question",
+         "question": "ad ơi , ad cho em hỏi là đt em bị như vậy là bị hư gì vậy ad ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.6493435,
+         "id": "746631",
+         "field_search": "question",
+         "question": " Cho e hỏi máy này là máy gì ạ cho em hỏi máy này là máy gì ạ . Quốc tế hay lock ạ .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.623765,
+         "id": "994270",
+         "field_search": "question",
+         "question": "Cho e hỏi Máy e là Asus X540LJXX315DE có làm mất win bản quyền Giờ e muốn lấy lại thì làm ntn ạE xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.573732,
+         "id": "1021408",
+         "field_search": "question",
+         "question": "cho e hỏi, e muốn lấy sỉ card đt về bán có đc ko ạ? chiết khấu ntn và lần lấy là bn tiền ạ? e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.545855,
+         "id": "1159346",
+         "field_search": "question",
+         "question": "Cho mình hỏi ss a50 muốn nhấn phím nguồn để kết thúc cuộc gọi làm ntn vậy ạ. Tks .... 0902467006",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.516212,
+         "id": "1145580",
+         "field_search": "question",
+         "question": "toi co mua mot con asus A540u . khi vào mua nhân viên tư vấn là con này sài win bản quyền . giờ nó thông báo sap hết hạn là sao vay...  nội dung nó ghi là: your windows license will expire soon , you need to activate windows in settings",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.510402,
+         "id": "998757",
+         "field_search": "question",
+         "question": "ad ơi e lỡ xóa 1 video rất quan trọng vĩnh viễn cho e hỏi làm ntn để khôi phục lại đc video ấy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.505185,
+         "id": "1134148",
+         "field_search": "question",
+         "question": "Cho e hỏi là máy e là a8 star khi lướt màn hình xuống thì nó chạy ngược lên vậy máy em bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.487104,
+         "id": "1138852",
+         "field_search": "question",
+         "question": " Cho e hỏi máy của e mua về e quên k dán màn hình . giờ bị xước màn hình muốn khắc phục thì làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.43402,
+         "id": "1023021",
+         "field_search": "question",
+         "question": "Ac ơi cho e hỏi là máy e mới mua đc 20 ngày bh e muốn bán lại thì phí mất ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.38971,
+         "id": "1019621",
+         "field_search": "question",
+         "question": " cho e hỏi lỗi này là lỗi gì sao e k cài thêm được bất cứ phần mềm nào nữa vậy ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.320463,
+         "id": "1141567",
+         "field_search": "question",
+         "question": "Cho e hỏi Facebook em bị báo là vô hiệu hóa gì đấy.... FB ko kinh doanh bán hàng quảng cáo gì hết ạ ... vậy e có lấy lại đc fb ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.300793,
+         "id": "1001638",
+         "field_search": "question",
+         "question": "AD ơi  em muốn xóa mục cmd này thì làm ntn ạ? Mong ad trả lời sớm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.292505,
+         "id": "847290",
+         "field_search": "question",
+         "question": " Ad cho em hỏi lớp phủ màn hình là gì ạ và làm sao đẻ tắt nó vì em cứ bị nó hiện lên hoài . cám ơn ad ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.27175,
+         "id": "829016",
+         "field_search": "question",
+         "question": " Cho e hỏi e vừa mua cái máy tính asus windows 10 e su dụng thấy rất chậm e muốn chuyển xuống windows 8 có dc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.204871,
+         "id": "1161565",
+         "field_search": "question",
+         "question": "Điều kiện trả góp hồm những gì. E đang muốn mua 1 cái đt và muốn trả trước 0 đồng thì cần làm những gì và ntn để được trả góp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.178957,
+         "id": "1010928",
+         "field_search": "question",
+         "question": "e dùng oppo neo7.  lâu lâu màn hình nó cứ hiện lên cái gì mà vui lòng xóa bộ nhớ.  e muốn tắt cái đó đi thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.145431,
+         "id": "1008480",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi là biểu tượng hình tròn gạch chéo trên thanh công cụ đó là gì v ạ nó nằm ở ngay sóng di động kh thể liên lạc đc vs ai. Làm cách nào để bỏ cái đó ạ. E sài ss j7pimre ạ. Giúp dùm e ạ e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.096989,
+         "id": "834109",
+         "field_search": "question",
+         "question": "Xin chào Ad! Cho em hỏi là, e đang dùng đt iphone 5s vậy lần sạc pin đầu tiên có phải sạc pin 8-10 tiếng ko ạ!? Mà nếu lỡ ko sạc thì phải làm sao!? Có hậu quả gì ko ạ!? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.094053,
+         "id": "1153825",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với. Đt nova 3i của e bị ám hình ứng dụng trước. Là bị làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.081695,
+         "id": "1001557",
+         "field_search": "question",
+         "question": "Cho e hỏi cách sạc ip 6s mới mua về đi ạ. Pin ip6s là loại pin gì vậy ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.080404,
+         "id": "761829",
+         "field_search": "question",
+         "question": "Cho e hỏi: khi tải cốc cốc về thì nó bảo: windows smartscreen prevented an unrecognized app from starting. Running this app  might put your PC at risk. Là sao vậy ạ. Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.072345,
+         "id": "1023604",
+         "field_search": "question",
+         "question": "cho e hỏi e chụp ảnh trên máy j7 pro mà lúc đầu vần hiển thị ảnh bình thường,1 lúc sau mở ra thì lại không thấy ảnh đâu nữa,mất hết ảnh.hiệ tại e chụp thì lại có ảnh .Vậy là bị sao ạ và p làm ntn để khác phục máy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.045407,
+         "id": "866765",
+         "field_search": "question",
+         "question": " TGDĐ cho e hỏi sửa lỗi Critical service failed trên win10 ntn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.025181,
+         "id": "1012877",
+         "field_search": "question",
+         "question": "Cho e hỏi IG của e khi đăng,ảnh vẫn nét nhưng sau 1 thời gian có nhiều tấm bị mờ k nhìn rõ:-) n bị gì v ạ? Cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.000888,
+         "id": "1148729",
+         "field_search": "question",
+         "question": "cho em hỏi là nếu windows 10 thông báo là Your Windows license will expire soon thì có s k ạ? có quan trọng k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.992387,
+         "id": "956354",
+         "field_search": "question",
+         "question": " Ac cho e hỏi laptop của e bị vậy là bị làm sao vs cách khác phục ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.9701805,
+         "id": "1134838",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy tính cứ update quài do là win 10, mà mỗi lần cập nhật khá là lâu, chạy tốn khoảng gần 10 phút mới được thêm 1%, cho e hỏi như vậy có ảnh hưởng gì không vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.947273,
+         "id": "1162413",
+         "field_search": "question",
+         "question": "Admin cho e hỏi này. Cái A9 2018 của e mới mua dc tầm 10 ngày . Mà e chs game fire free nó bị rỗi ko nghe dc bước chân địch . Đó là rỗi ntn vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.916553,
+         "id": "873514",
+         "field_search": "question",
+         "question": "Cho em hỏi là e cài đặt cập nhật IOS 9.3.4 nó yêu cầu nhập mật khẩu... Là mật khẩu gì vây ạ.. Mong ad trả lời sớm ạ. Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.913012,
+         "id": "870385",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ. Tại sao bạn e vẫn bật 3G onl facebook như bình thường. Thấy đang onl face nhưng zalo lại hiện truy cập hôm qua là ntn ạ? E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.908889,
+         "id": "1134157",
+         "field_search": "question",
+         "question": "cho e hỏi e muốn tải rosetta stone trên macbook thì cách nén ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.888752,
+         "id": "1010011",
+         "field_search": "question",
+         "question": "Cho e hỏi máy mới mua dc 1 ngày  e muốn đổi máy khác có mất phí k ạ. Nếu mất thig phí ntn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.876958,
+         "id": "1165975",
+         "field_search": "question",
+         "question": "Add cgo e hỏi là e sài đt j7 prime e khôi phục cài đặt gốc máy e bị ẩn wifi add cho e hỏi là e phải làm ntn để máy e hết bị ẩn wifi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.870588,
+         "id": "823236",
+         "field_search": "question",
+         "question": " bqt cho e hỏi iphone của e cứ bị xanh màn hình rồi khởi động lại .như vậy là bị lỗi gì ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.853744,
+         "id": "1013170",
+         "field_search": "question",
+         "question": "Cho e hỏi chút. E có dùg chug icloud với bác e. Giờ e muốn thoát icl trên máy bác e mà vẫn muốn 2 máy dùng bt thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.844255,
+         "id": "995839",
+         "field_search": "question",
+         "question": " cho em hỏi biểu tượng chỗ khoanh màu là gì và tắt nó làm sao????? ad chỉ dùn em e cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.817741,
+         "id": "1157832",
+         "field_search": "question",
+         "question": "Cho e hỏi e muốn mua ss a50 trả góp thì số tiền ban đầu e phải trả là bn và có những cách trả góp ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.808779,
+         "id": "1157471",
+         "field_search": "question",
+         "question": "Ad ơi đt e là hãng huawei y7 pro 2018 e sạc nod hiện vào pin nhưng một lúc là nó ngắt hoặc là nó pin lâu. Vậy là do đt bị gì hay cục sạc vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.77793,
+         "id": "1160118",
+         "field_search": "question",
+         "question": "Cho e hỏi chỉnh cỡ chữ trong tin nhắn của s9 ntn ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.758821,
+         "id": "740505",
+         "field_search": "question",
+         "question": " Ad oi cho em hỏi!!! e đang xài LG f160k  máy lúc nhận sim luc không nhận sim là bị lỗi gì ạ? mong AD chỉ giúp  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.748518,
+         "id": "998480",
+         "field_search": "question",
+         "question": "Cho e hỏi thay màn hình máy oppo F1s thì giá ntn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.736998,
+         "id": "1006646",
+         "field_search": "question",
+         "question": "cho e hỏi,nếu trả góp thì cần Gì vậy ạ,nếu không có bằng lái thi phải thay thế bằng Gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.718399,
+         "id": "1003579",
+         "field_search": "question",
+         "question": "- Cho e hỏi. e làm rớt điện thoại IP5S . sau khi rớt thì nút nó bị đơ nút home và nút nguồn . Bấm nhiều lần màn hình mới sáng lên . như vậy nguyên nhân là hỏng cái gì ạ . cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.714048,
+         "id": "838117",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone mình cần những mật khẩu gì vậy ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.711958,
+         "id": "778060",
+         "field_search": "question",
+         "question": " Em mới từ thế giới di động nâng cấp win 10 về nhưng chưa được activate. Em quay lại activate được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.705891,
+         "id": "763339",
+         "field_search": "question",
+         "question": "Laptop bị lỗi wifi nên mình vừa cài lại Windows 8.1 tại TGDĐ, vậy cho mình hỏi Windows mình cài lại là bản quyền hay crack vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.704279,
+         "id": "859033",
+         "field_search": "question",
+         "question": " Ad ơi..e login vao id..may e bi mat roi.gio e dang tim lai..no hien ntn la sao ad ơi..5s ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.693638,
+         "id": "1161035",
+         "field_search": "question",
+         "question": "ad cho em hỏi ạem dùng ipone 7 mà có cái nút home k dùng đc nhưng vẫn cảm ứng vân tay đc là sao ạ? khắc phục ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.691365,
+         "id": "823370",
+         "field_search": "question",
+         "question": "Ip4s mình cứ sạc đầy ko làm gì để im vậy mà từ sáng tới chiều là nó tụt hết 100% pin . cho mình hỏi nó bị pin hay nguồn ạ . nên thay gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.685746,
+         "id": "994855",
+         "field_search": "question",
+         "question": "nếu báo \"getting windows ready don't turn off your computer\" là update win, vậy muốn biết chừng nào update hoàn tất, nghĩa là update xong hoàn toàn, thì làm sao biết vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.682979,
+         "id": "914530",
+         "field_search": "question",
+         "question": "Ipad của e sau khi tắt nguồn thì hiển thị ntn. Làm sao khắc phục ạ. E không cài mk hay gì cả. Bình thường vẫn xạc pin xong tự động mở nguồn. 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.664261,
+         "id": "1001380",
+         "field_search": "question",
+         "question": "Cho em hỏi muốn trả góp oppo F3 lãi xuất 0 là ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.662296,
+         "id": "868597",
+         "field_search": "question",
+         "question": "  Messenger hay cả Facebook vô là bị như v thì làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.649115,
+         "id": "788610",
+         "field_search": "question",
+         "question": " Cho em hỏi là cách bật đèn bàn phim hp mini 2104000 ntn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.610505,
+         "id": "1001707",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi làm ntn khi có tin nhắn,thông báo  từ các ứng dụng sáng màng hình lên ạ. Em đang dùng j7 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.605327,
+         "id": "1137975",
+         "field_search": "question",
+         "question": "Cho e hỏi samsung galaxy j6 tắt chế độ xoay màn hình ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.550472,
+         "id": "1002650",
+         "field_search": "question",
+         "question": "em có con s7 bị vào nước, giờ k lên màn nữa, k rõ là hỏng cái gì, em muốn phục hồi dữ liệu thì làm ntn ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

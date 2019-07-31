@@ -1,0 +1,801 @@
+{
+   "id_query": "990446",
+   "total": 32468,
+   "total_current": 100,
+   "max_score": 71.36521,
+   "origin_question": "Tgdd cho em hỏi máy tính bàn của em nó bị mấy đường kẻ thẳng hàng trên màn hình, khắc phục thế nào ạ",
+   "hits": [
+      {
+         "score": 32.390965,
+         "id": "998292",
+         "field_search": "question",
+         "question": "Màn hình Nokia xl của e có những đường kẻ sọc,  máy cũng hay bị nóng và đứng máy hoài.  Em phải làm sao ? có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.000338,
+         "id": "1147751",
+         "field_search": "question",
+         "question": "máy tính e tự nhiên hiện lên đường kẻ ngang trên màn hình, bây h phải lm sao ạ. Máy e là Acer",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.489613,
+         "id": "771528",
+         "field_search": "question",
+         "question": " Màn hình máy tính em bi các đường sọc ngang nữa màn hình. Em cần làm gì để khắc phục em cảm ơn?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.650234,
+         "id": "882896",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop của em bị lỗi nhòe màn hình AOE , cách khắc phục thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.111368,
+         "id": "832779",
+         "field_search": "question",
+         "question": " Khi bật máy tính bàn, màn hình HP hiện lỗi MONITOR GOING TO SLEEP, cho em hỏi cách khắc phục ạ. E cám ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.739592,
+         "id": "1020201",
+         "field_search": "question",
+         "question": "Màn hình của em bị vạch kẻ màu cuối màn hình như thế này  thì phải sửa tn ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.357946,
+         "id": "805813",
+         "field_search": "question",
+         "question": " Màn hình iphone5 của tôi xuất hiện 2 vết sáng màu vàng và những dòng kẻ ngang mờ. Làm thế nào để khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.19863,
+         "id": "759885",
+         "field_search": "question",
+         "question": " Máy mình Mobell Tab 8 dính lỗi kẻ sọc màn hinh. Mấy lần chữa được rồi nhưng vẫn bị. Cho mình xin cách khắc phục. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.166723,
+         "id": "838655",
+         "field_search": "question",
+         "question": " màn hình ip của em bị kẻ ngang màn hình mà mỗi lúc nó lại dài ra, có phải hỏng màn hình k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.723293,
+         "id": "788093",
+         "field_search": "question",
+         "question": " Em có mua của TGDD một chiếc iphone 5s duoc 1 tháng xong em lên facebook nó bị hiện tượng kẻ sọc màn hình rồi mất ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.493626,
+         "id": "866446",
+         "field_search": "question",
+         "question": "Em có 1 cái iPhone 4s tự nhiên nó bị liệt mất phần trên + phần dưới của màn hình tầm 0.5cm có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.379827,
+         "id": "1136061",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại Zenphone 3 Max 5.5 Khi xem trên kính thực tế ảo thì màn hình bị nghiêng sang bên phải, làm sao để khắc phục về màn hình thẳng bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.234499,
+         "id": "1151978",
+         "field_search": "question",
+         "question": "cho em hỏi, laptop của em thường xuyên tự động update, mấy ngày nay nó cứ update mãi, mở máy lên là nó update. cho em hỏi có cách nào khắc phục không ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.943161,
+         "id": "813012",
+         "field_search": "question",
+         "question": "Em đang dùng máy tính bàn ASUS , hôm nay khi em đang dùng thì mấy hơi đơ nên em tắt máy đi nhưng khi bật nên thì màn hìn tối không nên được , em bật lại mấy lầ nhưng đều không lên .Cho em hỏi máy em gặp vấn đề gì và khắc phục ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.918835,
+         "id": "1145917",
+         "field_search": "question",
+         "question": "ac cho em hỏi, trên màn hình laptop của e có tự nhiên xuất hiện chấm tròn di chuyển liên tục, bàn chạm lai không chạm đc ạ, như chuột cấm vào thì sd đc nhưng di chuyển vẫn bị lỗi ạ, hiện tượng này thế nào ạ, cách khắc phục thế nào, laptop e có touchpad đc luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.736134,
+         "id": "757758",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em đang xài iPhone 5S mà mỗi khi tắt màn hình là nó bị nháy 1 cái rồi mới tắt hẳn làm thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.563032,
+         "id": "910603",
+         "field_search": "question",
+         "question": " Máy tính của mình màn hình ko sáng bàn phím sáng, m cần bảo hành thì hình thức thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.485071,
+         "id": "855392",
+         "field_search": "question",
+         "question": "Chào admin, mình mua máy ip6 mới của tgdd được hơn 3 tháng. Từ hôm qua khi mình sử dụng máy có hiện tượng nóng rất nhiều ở phần ngang mặt trước bên trên màn hình của máy. Khi khoá bàn phím thì máy k bị nóng nữa. Như thế là máy có vấn đề gì ạ? Mình cần khắc phục như thế nào? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.413542,
+         "id": "635973",
+         "field_search": "question",
+         "question": " Nếu tắt wifi trên máy tính để bàn thì phải làm thế nào?cho em hỏi bật lại kiểu gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.271168,
+         "id": "791695",
+         "field_search": "question",
+         "question": " MẤY PRO CHO EM HỎI IPHONE 3S CỦA EM TẮT ĐỊNH VỊ XOng rồi tự nhiên nó bật lại. Có cách nào khắc phục ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.266685,
+         "id": "1017398",
+         "field_search": "question",
+         "question": " Màn hình máy tính của em bị như thế này nếu thay màn hình tốn bao nhiêu tiền ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.999447,
+         "id": "999008",
+         "field_search": "question",
+         "question": "E đang dùng oppo a39, cho e hỏi tại sao lúc màn hình xoay ngang bàn phím nó lại như thế này, a chỉ e cách khắc phục vụ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.948885,
+         "id": "807123",
+         "field_search": "question",
+         "question": "Em mua máy dell 5558 (i5 ram 4gb) ở thế giới số được khoảng 5, 6 tháng rồi. Thật không may mấy hôm nay máy em bị cái sọc kẻ dọc giữa màn hình( có khi 1 đường, có khi vài đường luôn) như trong ảnh, mấy hôm đầu restart máy là nó hết, giờ reset lại máy nó vẫn vậy ( e nghĩ có thể nó bị Hỏng IC do trời ẩm ướt) mà em tìm đâu không thấy cái phiếu bảo hành (tem bảo hành trên máy thì vẫn còn nguyện vẹn), không biết như vậy e có được bảo hành hay không? Và nếu không thì chi phí sửa chữa hết khoảng bao nhiêu? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.900173,
+         "id": "1164176",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính của em hiện có hiện chữ activate windows bên phải màn hình thì là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.861656,
+         "id": "779279",
+         "field_search": "question",
+         "question": "Cho em hỏi, máy tính tự dưng xuất hiện mấy đường sọc đen, sau đó lan rộng ra toàn màn hình thì có sửa được không ạ? Nếu sửa thì mất khoảng bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.859118,
+         "id": "1015264",
+         "field_search": "question",
+         "question": "Chào tgdd....!Em đang sử dụng máy samsung j5 prime ạ..Gần đây máy em có chút vấn đề về màn hình. Xuất hiện 1 vệt màu trên màn hình và 1 khoảng màu đen ở góc màn hình...Cho em hỏi cách khắc phục và phải làm như nào để giảm hiện tượng này ạ ???Mong sớm nhận được phản hồi của các ad !❤",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.786882,
+         "id": "776820",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em mới mua iphone 6 64GB được 1 tuần 2 ngày đầu xài máy chạy mượt nhưng mấy ngày sau hiệu ứng thị sai trên màn hình bị giật và mất. Em có tắt máy khởi động lại thì ok nhưng hnay lại bị tiếp. Cho em hỏi máy có bị sao không ạ? Có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.63193,
+         "id": "756241",
+         "field_search": "question",
+         "question": "aCho em hỏi em kích hoạt imessage sao nó bị trên hình,có mạng có cả wifi mà vẫn bị thế ai biết cách khắc phục giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.575294,
+         "id": "1135514",
+         "field_search": "question",
+         "question": "Tôi vừa mua máy samsung tab6 về dùng dc 2h thì màn hình hiện đường sọc kẻ là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.533792,
+         "id": "995295",
+         "field_search": "question",
+         "question": "iPhone 6 của em quay chậm bị nhiễu và giật. Bây giờ làm thế nào để khắc phục nó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.491383,
+         "id": "997196",
+         "field_search": "question",
+         "question": "Laptop của e bị 1 đường kẻ sọc ngang màn hình. Có được bảo hành không ad. Và thời gian bảo hành trong khoảng bao lâu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.464128,
+         "id": "803456",
+         "field_search": "question",
+         "question": "Máy ipad của em, bị bẩn màn hình trong và bị móp một Ít đầu trên. Bây giờ phải làm thế nào ạ. Tgdd có sửa chữa không ạ. Máy e mua ở tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.408003,
+         "id": "1023282",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Muốn khắc phục lỗi kẻ màn hình trên samsung galaxy s6 edge thì phải làm sao ạ? Cứ ấn mạnh vào chữ samsng trên đỉnh thì lại hết. E cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.394976,
+         "id": "779873",
+         "field_search": "question",
+         "question": "chào ad,hiện em đang dùng win 7, màn hình máy tính của em lâu lâu bị nhấp nháy rất khó chịu cho mắt vậy có cách gì khắc phục không ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.36492,
+         "id": "1011277",
+         "field_search": "question",
+         "question": "Cho em hỏi đt Sony Xz của em nước vào màn hình bị đen, giờ em mang thẳng lên hãng đc không nhỉ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.35736,
+         "id": "1022512",
+         "field_search": "question",
+         "question": "Admin ơi em có chiếc máy asus zenfone2 thì hôm qua em đã khôi phục cài đặt gốc thì đã lên và bị sao âý. Nó bị cứ chạm vào màn hình là nó hiện đồng hồ lên ko biết sao chỉ em khắc phục như thế nào đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.205055,
+         "id": "1019927",
+         "field_search": "question",
+         "question": "Máy tính laptop Asus i3 mình mua ở tgdd ngày 14/01/2017. đến hôm nay bỗng dung chữ bị bóng mờ và màn hình bị mờ, khắc phục lỗi này như thế nào ạ, tư vấn cho mình với. đã chỉnh độ sáng tối màn hình nhưng không có tác dụng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.18335,
+         "id": "828315",
+         "field_search": "question",
+         "question": "iPhone 5 của em bị khóa màn hình nó yêu cầu kế nối với itunescho em hỏi làm cách nào để mở khóa màn hình khi em chỉ có máy tính asus và dây cáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.145002,
+         "id": "1022913",
+         "field_search": "question",
+         "question": "Tình trạng máy của mình là sau khi cập nhật lên IOS 10.3 thì màn hình nền xuất hiện mấy đường sọc dọc trong khi đó vào phần tin nhắn hay xem hình ảnh, cũng như các phần khác thì thấy màn hình vẫn bình thường không hề có dấu hiệu sọc như trên. Cho hỏi hướng khắc phục ạ. Mình dùng IP6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.04512,
+         "id": "779706",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iphone tự dưng tắt nguồn bật chi hiện màn hình táo, máy nóng và chạy trương trình rất chậm, vậy máy em bị gì và khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.992172,
+         "id": "1024056",
+         "field_search": "question",
+         "question": "Chào tgdd ạ! Em đang dùng samsung j5 prime.... Dạo này tin nhắn trên zalo và messenger của em không có thông báo lúc tắt màn hình rồi có tin nhắn màn hình cũng không sáng luôn ạ ! Cho em hỏi làm sao khắc phục được???? Em cảm ơnnnn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.96013,
+         "id": "1023383",
+         "field_search": "question",
+         "question": "sau khi cài thêm font chữ cho máy tính. thì một số trang web của e bị lỗi font chữ như trong hình. e phải khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.932623,
+         "id": "842386",
+         "field_search": "question",
+         "question": "Mọi người cho e hỏi, laptop asus của e khi xem video trên youtube thường hay bị đơ màn hình trong khi âm thanh vẫn nghe bình thường thì khắc phục thế nào ạ! (voducthuan0903)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.904867,
+         "id": "1134662",
+         "field_search": "question",
+         "question": "Hiện em đang dùng laptop ASUS X555U, gần đây màn hình máy tính của em thường xuyên xuất hiện tình trạng bị nhiễu, chập chờn. Cho em hỏi máy bị làm sao và cách giải quyết như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.9034,
+         "id": "878059",
+         "field_search": "question",
+         "question": "Em mới mua máy 6plus ở cửa hàng về nhà dùng thỉnh thoảng máy đơ. tắt nút nguồn thì nó nháy màn hình cái rồi mấy tắt thế là máy bị lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.824236,
+         "id": "1153926",
+         "field_search": "question",
+         "question": "Xiaomi note 5 của em xem phim trên Chrome ko full màn hình đc cho em cách khắc phục vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.773352,
+         "id": "1022109",
+         "field_search": "question",
+         "question": "anh ơi.cho em hỏi máy fptx5 của em em dùng cũng đươc lâu rồi giờ màn hình máy nó bị đơ thì phải làm thế nào nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.740288,
+         "id": "1160580",
+         "field_search": "question",
+         "question": "Admin cho em hỏi: em bị lỗi tải app trên store và itunes. giờ em phải khắc phục như thế nào ạ. tạo icloud mới nhưng vẫn bị khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.711401,
+         "id": "1018189",
+         "field_search": "question",
+         "question": "đt e(lenovo A7000) dùng được một thời gian thì bị đơ 1 đường thẳng băng trên màn hình những chỗ còn lại thì bình thường làm sao đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.67678,
+         "id": "1139322",
+         "field_search": "question",
+         "question": "cho em hỏi có cách nào khắc phục bị ngắt wifi và 4g khi tắt màn hình oppo a3s không ạ..cứ tắt màn hình là tự ngắt mạng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.659668,
+         "id": "940055",
+         "field_search": "question",
+         "question": " Máy tính của của mặt loa thì phải làm thế nào để khắc phục được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.633667,
+         "id": "876958",
+         "field_search": "question",
+         "question": "ad ơi tại sao máy tính asus win 8 của em hay bị CPU 99% và ổ đĩa từ 90-100% là như thế nào ạ.. mong ad khắc phục lỗi hộ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.628668,
+         "id": "1005373",
+         "field_search": "question",
+         "question": "Điện thoại Phillips s358 của em đang dùng , khoá màn hình lại sau đó bật thì không lên thì bị lỗi gì và khắc phục như thế nào ạ ?( Màn hình tối đen không hiện logo )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.618748,
+         "id": "1024452",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi máy tính em đang sài win10 em reset laij thì bị mất hết các biểu tượng trên màn hình chẳng hạn microsoft word không có biểu tượng của word nữa. khi vào các file tải về vào xem củng không được. anh chị cho em cách khắc phục với ạ. cảm ơn a/c",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.5791,
+         "id": "995636",
+         "field_search": "question",
+         "question": "hiện tại e đang dùng laptop dell inspiron15 máy tính của e khi khởi động nó thường bị như thế này hoặc nếu để tối màn hình thì cũng bị,nhưng khi giữ nút nguồn một lúc thì lại lên và dùng bt.Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.31667,
+         "id": "1021846",
+         "field_search": "question",
+         "question": "Chào anh/chị, em gặp vấn đề của máy lenovo A536 lúc mới roof máy xong mở nguồn thì máy đen màn hình  mặc dù vẫn chụp được màn hình, kiểu như màn hình chính bị xóa, chỉ vô được phần cài đặt với mấy phần chức năng trên tab thôi, rất mong nhận phản hồi cách khắc phục sớm nhất ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.31408,
+         "id": "1020009",
+         "field_search": "question",
+         "question": " cho em hỏi word10 máy em bị lỗi sửa đổi này không được phép vì lựa chọn bị khóa khắc phục như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.28561,
+         "id": "1144130",
+         "field_search": "question",
+         "question": "Điện thoại Nokia 6 của em bị mất mấy chữ Nokia ngoài sau lưng, có cách nào khắc phục không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.272013,
+         "id": "1159763",
+         "field_search": "question",
+         "question": "Mình dùng galaxy tab e 9.6 nhưng mình không thể mở khóa màn hình vì bàn phím samsung tự động dừng. Mình đã khởi động lại máy nhưng ko khắc phục đc. Cho em hỏi làm thế nào để mở khóa màn hình mà ko cần xóa dữ liệu điện thoại???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.216873,
+         "id": "1154743",
+         "field_search": "question",
+         "question": "Cho em hỏi dòng máy xiaomi redmi 5plus bị lỗi mất rung thì khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.206223,
+         "id": "773554",
+         "field_search": "question",
+         "question": "Em mới mua con iphone 5s trên tgdd về sài 2 hôm ấn mạnh màn hình thì thấy nó loan màu nhẹ 2 bên màn hình cho em hỏi em có bị lỗi gì không vậy với em thấy 2 đầu của máy cong về phía màn hình 1 chút ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.182999,
+         "id": "782956",
+         "field_search": "question",
+         "question": "Cho em hỏi mấy ngày trước em có lên thế giới di động ở tiền giang cài lại win của máy tính nhưng giờ em thấy máy mỗi lần mở lên màn hình chuyển sang màu đen. Có thông báo win bản quyền gì đó. Nhưng em đã mua bản quyền win của tgdd rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.174261,
+         "id": "1138852",
+         "field_search": "question",
+         "question": " Cho e hỏi máy của e mua về e quên k dán màn hình . giờ bị xước màn hình muốn khắc phục thì làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.15792,
+         "id": "1165069",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy samsung A7 2018 cứ kết nối 3g là máy bị nóng ran nửa trên màn hình, cách khắc phục như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.154594,
+         "id": "1137812",
+         "field_search": "question",
+         "question": "Cho hỏi Samsung a6 của mình bữa Explorer này nó bị đường xanh chạy dọc màn hình máy ko sdt đc là bị làm sao shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.15286,
+         "id": "752391",
+         "field_search": "question",
+         "question": "Mọi người ơi cho em hỏi với ạ. Cho em hỏi cách bật đèn bàn phím máy tính Asus GL552JX-X0093D là như thế nào ạ. Em xin cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.106577,
+         "id": "1002662",
+         "field_search": "question",
+         "question": "Anh chị kỹ thuật viên cho em hỏi, em đang dùng máy dell inspiron 15. Máy của em bị treo thanh taskbar, em phải khắc phục như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.069445,
+         "id": "875480",
+         "field_search": "question",
+         "question": "E vừa mua 1 máy tính trả góp tại thế giới di động. Và vô ý mở máy ban đêm rồi đè máy thẳng ra :) giờ màn hình lúc e tỉnh nó vẫn sọc sọc k thấy hình e tắt khởi động lại thì màn hình k sáng nữa. Cho e hỏi máy e bị sao và sửa chữa ntn ạ :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.042797,
+         "id": "1120123",
+         "field_search": "question",
+         "question": " Laptop ASUS của mình mua mấy tháng trước, nó hay bị đơ, lag, giật.. có cách nào khắc phục không vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.011412,
+         "id": "747087",
+         "field_search": "question",
+         "question": "Cho em hỏi khi khôi phục cài đặt gốc nhưng em không sao lưu lai hình ảnh số điện thoại vào iCloud hoặc iTune trên máy tính thì làm thế nào để có thể lấy lại được. Máy của em là iPhone 6S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.902697,
+         "id": "1163368",
+         "field_search": "question",
+         "question": "mn cho em hỏi là cái máy tính của em nó bị sao mà cứ có cái dấu tích bên trên biểu tượng vậy ngay cả trong explorer các tệp cũng có cái dấu này.  Nếu được xin chỉ em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.863218,
+         "id": "816760",
+         "field_search": "question",
+         "question": "máy tính em không mua trong hệ thống tgdd nhưng nó bị lỗi card wifi vậy em đem lại hệ thống tgdd có hỗ trợ gửi máy của em lên hàng được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.855507,
+         "id": "1141722",
+         "field_search": "question",
+         "question": "Em đag xem phim mà màn hình cứ hay bị thu nhỏ lại như vạy...Cách khắc phục thế nào ạ..e sài ss S8 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.80795,
+         "id": "1166045",
+         "field_search": "question",
+         "question": "Xin chào ạ!  cho em hỏi làm thế nào để chia màn hình trên vivoY91C ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.770004,
+         "id": "1017322",
+         "field_search": "question",
+         "question": "ddiện thoại của em cứ khoá màn hình là vài giây sau nó sáng lên liên tụcchán lắm cho em cách khắc phục samsung j2 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.699276,
+         "id": "1155350",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mới mua laptop hp pavilion 14 ce1011tu i3 8145u tại của hàng ở đường Nguyễn Du - Bình Dương. sử dụng khoảng 3 tiếng thì loa bị rè. loa ngoài và cả microphone. máy không hề có va đập, chưa bị trầy xước. vậy máy mình bị lỗi gì và  khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.618633,
+         "id": "798593",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để khắc phục dấu chấm than o cột sóng wifi trên máy tính vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.529139,
+         "id": "950745",
+         "field_search": "question",
+         "question": "  Laptop của e nó báo như thế nào là sao vậy ạ? Có cách khắc phục không ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.518414,
+         "id": "1023755",
+         "field_search": "question",
+         "question": "TGDD có bảo hành màn hình cho máy tính bảng Acer ko, mình mới mua được mấy tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.470928,
+         "id": "1002721",
+         "field_search": "question",
+         "question": "hôm nay em có cài một ứng dụng trên google nhưng khi cài xong nó bảo lỗi phân tích gói đáp mấy bác cho em hỏi làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.44257,
+         "id": "1162617",
+         "field_search": "question",
+         "question": "Cho em hỏi con asus max pro m1 nó hay bị phóng to hình nền, em tắt chức năng phóng to rồi mà vẫn bị có cách nào khắc phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.439224,
+         "id": "826284",
+         "field_search": "question",
+         "question": "máy tính dell của em nút nguồn cứ bị nhấp nháy đỏ có cách nào để khắc phục không ạ?nếu k khắc phục được thì e phải mua pin mới phải không ạ?nếu mua pin mới vậy pin máy tính dell là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.409286,
+         "id": "998488",
+         "field_search": "question",
+         "question": "Mọi người giúp em với. Máy tính của em tự nhiên cứ tự động mở trình duyệt và mở các trang web linh tinh là bị gì ạ ?khắc phục như thế nào mong mọi người giúp đỡ.em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.378498,
+         "id": "837812",
+         "field_search": "question",
+         "question": "Máy tính của mình khi sạc thì hiện ra thông báo như thế này, đồng thời cũng không nhận sạc. QTV cho mình hỏi khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.347841,
+         "id": "1151356",
+         "field_search": "question",
+         "question": "Em bị delay âm thanh khi chơi game bằng Xiaomi Redmi Note 4 với tai nghe Bluetooth Joway H32. Em có thể khắc phục nó không ạ và khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.266998,
+         "id": "803727",
+         "field_search": "question",
+         "question": "admin cho em hỏi tí với. iPhone của em khi nào restore xong nó cũng không dính Activation Lock,cũng chả có màn hình bắt nhập tài khoản và mật khẩu iCloud, thế sao máy nhiều người bị dính thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.265007,
+         "id": "899508",
+         "field_search": "question",
+         "question": " Máy mình từ win8 lên win10 bị treo màn hình màn hình chỉ có mỗi chữ vaio.! Đem ra cửa hàng có khắc phục đk ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.25052,
+         "id": "791045",
+         "field_search": "question",
+         "question": " Cho em hỏi máy tính Dell vostro 3446 có đèn bàn phím không? nếu có thì bật thế nào ạ? e cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.23801,
+         "id": "929134",
+         "field_search": "question",
+         "question": "tính năng call trên viberKhi đang thực hiện cuộc gọi miễn phí trên viber và bị tắt khi khoá màn hình trên ios 10 khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.222137,
+         "id": "776486",
+         "field_search": "question",
+         "question": "Màn hình Laptop Dell Inspiron 15R của em nó bị rung như trong clip:https://www.youtube.com/watch?v=rJhUhNXanFEmà nó còn rung hơn thế nữa, cho em hỏi là nó bị gì thế.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.208223,
+         "id": "817122",
+         "field_search": "question",
+         "question": "Cho em hỏi, em dùng ip6 đang chạy ios 9.1, mà em cứ gọi điện đước mấy phút là máy tự khởi động lại ạ. Rất là bực mình. Anh chị nào biết nó bị lỗi gì và cách khắc phục ko ạ? Em cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.191082,
+         "id": "1151042",
+         "field_search": "question",
+         "question": "em chào ad. máy tính em không đánh được văn bản word hay làm powerpoint ý ạ. :(( đợt em có ra bảo bên kỹ thuật máy tính cài bản free h em lại không sử dụng đc mấy cái đó. h có cách nào cho em tự khắc phục thay vì phải đem máy ra thế giới di động được không ạ? em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.190226,
+         "id": "773867",
+         "field_search": "question",
+         "question": "cho em hỏi máy tính của em khi dùng thì hay bị kêu vo vo ( giống như quạt kêu) vậy có cách nào khắc phục không ạ và chi phí hết bao nhiêu a. xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.168734,
+         "id": "1143107",
+         "field_search": "question",
+         "question": "Em có mua 1 con oppo a3s 16gb. mà màn hình nó cắt hết chữ rồi, anh chị có thể giúp em làm thể nào khắc phục màn hình được không ạ ? Mất chữ nhìn nó hơi khó chịu ấy ạ. Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.16526,
+         "id": "937663",
+         "field_search": "question",
+         "question": "Cho em hỏi, mỗi khi live trực tiếp facebook bằng Wiko Rainbow Jam là nó hình ảnh với tiếng nó không khớp, giựt giựt. Khắc phục như nào thế?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.158854,
+         "id": "783379",
+         "field_search": "question",
+         "question": " Cho em hỏi là máy của em đặt ảnh màn hình không được rõ, bây giờ phải chỉnh như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.1315,
+         "id": "1154265",
+         "field_search": "question",
+         "question": "anh ơi, cho em hỏi: em đang dùng iphone 4 IOS 7.1.2, nhà em k có wifi nên em dùng 3g trên iphone thế là sau một thời gian, pin của nó yếu đi rõ rệt. Anh có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.117327,
+         "id": "1137336",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi: em dùng 5s, bây giờ bị loạn cảm cứng + màn hình 2 màu. Nhưng vẫn sử dụng bình thường, lâu lâu bấm cảm ứng nó không ăn thôi. Cho em hỏi là có cách nào khắc phục không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.114363,
+         "id": "989493",
+         "field_search": "question",
+         "question": "sao máy tính bảng Samsung SM T531 của em không xem ngày của tôi trên mess được vậy ạ?? không xem cũng không đăng được luôn mở lên là nó tối thui với lại nó cứ xoay màn hình :((( bị sao vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

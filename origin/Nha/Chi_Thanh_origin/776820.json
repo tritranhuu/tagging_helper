@@ -1,0 +1,801 @@
+{
+   "id_query": "776820",
+   "total": 35202,
+   "total_current": 100,
+   "max_score": 124.526634,
+   "origin_question": "Cho em hỏi. Em mới mua iphone 6 64GB được 1 tuần 2 ngày đầu xài máy chạy mượt nhưng mấy ngày sau hiệu ứng thị sai trên màn hình bị giật và mất. Em có tắt máy khởi động lại thì ok nhưng hnay lại bị tiếp. Cho em hỏi máy có bị sao không ạ? Có cách nào khắc phục không?",
+   "hits": [
+      {
+         "score": 55.750835,
+         "id": "1006202",
+         "field_search": "question",
+         "question": "cho em hỏi hiện tại em đang dùng đt sam sung A7(2017), sau khi bấm cập nhật phần mềm máy e tắt và bắt đầu khởi động lại, nhưng khi màn hình hiển thị chữ samsung là nó bị đứng máy luôn, em thử tắt bằng cách bấm đồng thời nút nguồn và nút giảm âm lượng thì máy có tắt nhưng lại khởi động lại ngay lập tức và trở về trạng thái chữ samsung tiếp, cho em hỏi máy em đang bị lỗi gì và cách khắc phục, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.991615,
+         "id": "807709",
+         "field_search": "question",
+         "question": "cho em hỏi máy dell em bị tắt đột ngột sau đó khởi động lại thì bị tắt ngay lập tức. mấy ngày hôm nay thì không bị thế nữa nhưng lại xuất hiện một vấn đề là khi cắm sạc dùng trực tiếp thì mà hình hay bị nhấp và nhanh chuyển vào chế độ ngủ. có 1 lần máy chuyển vào chế độ ngủ em bật lại thì màn hình vẫn lên nhưng bị tối lại( không tối hẳn) thế là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.133537,
+         "id": "814192",
+         "field_search": "question",
+         "question": "Em đang xài iphone 6 đang lướt wed thì bị đứng máy e có nhấn nút tắt nguồn nhưng không được rồi nó hiện xanh màn hình rồi khởi động máy lại khởi động xong vẫn xài bình thường máy bị vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.0193,
+         "id": "767084",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng lap hiệu asus. chỉ mới mua vài ngày nhưng tắt máy không được, máy tắt hơn 1 giờ rồi mà vẫn chưa tắt được. máy cứ để đang tắt. trước khi tắt em đã kiểm tra ứng dụng chạy ngầm thì không có ứng dụng nào đang hoạt động. có lúc bật nguồn thì máy vẫn đang hoạt động nhưng màn hình không sáng. cho em hỏi tình trạng như vậy là sao ạ?  làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.636932,
+         "id": "755501",
+         "field_search": "question",
+         "question": "Em mới mua 1 chiếc iphone 6s mới được 1 ngày. pin báo 41% nhưng đang xài tự nhiên tắt nguồn mở lên thì báo hết pin  cho em hỏi pin máy em có bị sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.046886,
+         "id": "863797",
+         "field_search": "question",
+         "question": "Em có cái máy iPhone 6 64gb, máy em bị rớt không hiểu sao nó bị mất hay hư gì đó, em khởi động nguồn lại thi máy nó mất cái mạng sóng điện thoại, nó hiện không có dịch vụ...mấy anh cho em sửa lại được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.621452,
+         "id": "768026",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 4s chạy 8.3 em quên mật khẩu mở khóa màn hình mở sai nhiều lần giờ máy hiển thị iPhone bị vô hiệu hóa kết nối itunes .. có cách nào đơn giản mở lại máy không ? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.29206,
+         "id": "1152771",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 6, pin vẫn còn đầy nhưng máy tự khởi động lại và sạc không vào, mở lên dùng được khoảng 1p thì lại tiếp tục tự khởi động lại máy. Cho em hỏi là như thế là điện thoại em bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.247406,
+         "id": "1004862",
+         "field_search": "question",
+         "question": "CHo em hỏi. Em dùng oppo F1s mới mua được 2 tháng. Nhưng gần 1 tuần nay nó hay tự khởi động lại.và đôi khi có vạch màu xanh chạy giữ màn hình sau đó 2 sim đều mất mạng và có mạng lại sau đó vài giây...lõi này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.992756,
+         "id": "772302",
+         "field_search": "question",
+         "question": "Cho em hỏi là iPhone 5C của em tự nhiên bị đóng băng cảm ứng nhưng tắt màn hình đi rồi bật lại thì cảm ứng lại bình thường, một lúc sau nó lại tiếp diễn, vậy cho em hỏi máy bị làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.684483,
+         "id": "1005324",
+         "field_search": "question",
+         "question": "Em mua máy mobiistar lai zumbo 2017 1 tuần trước. Mấy ngày nay thì có một dải màu đen xuất hiện ở đầu màn hình. Vậy có bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.55458,
+         "id": "743742",
+         "field_search": "question",
+         "question": "Em mua iPhone 6S từ ngày 6/1, khoảng 2 ngày nay thì máy bị đơ khoảng 6 giây thì kéo màn hình cảm ứng từ phần gợi ý của Siri, sau đó thì bình thường nên em không đem lên cửa hàng kiểm tra, nhưng mà cứ lâu lâu thì bị lại tình trạng này. Hôm qua có gọi lên kỹ thuật thì có anh bảo là bị tràn RAM nhưng mà em kiểm tra không có nhiều, chỉ 4 cái chạy ẩn thì màn hình không thoát được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.233475,
+         "id": "793653",
+         "field_search": "question",
+         "question": " Ad cho em hỏi ,em mới mua iphone 5s được 17 ngày , máy bị giật màn hình nhiều lắm , em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.233456,
+         "id": "786257",
+         "field_search": "question",
+         "question": "Chào, em đang xài iPhone 6 dạo gần đây máy của em đang xài bỗng dưng bị đứng màn hình sau đó hiện màn hình màu xanh rồi tự động tắt nguồn, em khởi động lại xài bình thường và sau đó lại bị lỗi như vậy? Không biết như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.074757,
+         "id": "1000774",
+         "field_search": "question",
+         "question": "Cho em hỏi, em vừa mua một chiếc Sony xperia XA của tgdd về được một hôm thì máy bị giật lag liên tục. Một ngày phải tắt mở nguồn 2-3 lần. Cho em hỏi cách khắc phục nha !* Em đã tắt ứng dụng nguồn và cài đặt phần mềm dọn rác nhưng vẫn không hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.936512,
+         "id": "1144598",
+         "field_search": "question",
+         "question": "Hiện em mới mua điện thoại samsung A7 em sài sim mạng viettel em đăng kí gói vô mạng 4G minmax 90  nhưng khi em bắt dữ liệu mạng lên trên máy hiện chữ (E) nhưng khi em tắt nguồn điện thoại khởi động lại thì mới được (4G) ngày nào mạng em cũng bị z hết cho em hỏi điện thoại có bị lỗi gì ko ( sáng nào mở mạng lên cũng bị y chang dậy hết em phải khởi động máy lại có khi ngày khởi dộng 2,3 lần)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.915897,
+         "id": "996036",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua máy tab a6 gần 1 năm nhưng gần nữa tháng nay khi em tắt máy rồi mở máy lại khi mở máy thì máy đứng không bấm được sau đó máy tự tắt rồi mở lại mới xài được nhưng thời gian mở lại khá lâu vậy cho em hỏi là máy có bị sao ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.90707,
+         "id": "1012416",
+         "field_search": "question",
+         "question": "Em mới mua cái j7 pro tại tgdd xài cứ khoảng 1 tuần là nó lại bị tình trạng ko vào ứng dụng dc phải khởi động lại mới xài dc, bị mấy lần rồi. Xin hỏi nếu đem máy ra thì có dc đổi lại máy mới ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.751892,
+         "id": "942964",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi máy em chạy win 10 giờ máy em bị lỗi 0xc000021a thì có cách nào khắc phục được không ạ .hay phải chạy lại win",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.698204,
+         "id": "1009680",
+         "field_search": "question",
+         "question": "cho em hỏi tý. Em đang dùng máy sony m4, nhưng tự nhiên nó cứ bị tắt nguồn khởi động lại liên tục. Khi thì nó lên khi thì nó ra màn hình trắng xong lại tắt khởi động lại. Ad giúp em xem nó lỗi gì và cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.338306,
+         "id": "999394",
+         "field_search": "question",
+         "question": "Hiện em đang dùng sony  Zultra. Cho em hỏi là từ khi em cập nhật Facebook cách đây 2 ngày  . Ngày đầu tiên thì bình thường nhưng đến ngày thứ 2 là bị lỗi không thể vào được và điện thoại báo không thể khởi động Facebook. Nếu muốn vào Facebook thì phải vào phần cài đặt ứng dụng và xoá hết bộ nhớ cache và dữ liệu đi thì mới vào được. Nhưng cũng chỉ vào được 1 lần nếu thoát ra thì lại không vào được. Cho em hỏi thế là bị làm sao ạ..Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.324722,
+         "id": "835292",
+         "field_search": "question",
+         "question": "Mình xài máy tính bảng asus mua hơn 1 năm . Hiện máy bị sọc trắng rồi chuyển sang trang màn hình . Tắt nguồn khởi động lại xài được . Nhưng nay bị như vậy nhưng tắt nguồn khởi động lại hiện màn hình trắng . Vậy là bị làm sao . Cách sửa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.091843,
+         "id": "1162651",
+         "field_search": "question",
+         "question": "1.cho em hỏi tại sao ip6 đột ngột khởi động đi khởi động lại,có lúc lên nguồn đc 10p thì lại tắt khởi động liên tục2.em mới reset máy nhưng lại trót ấn nhầm vào bản cập nhật ngày 15/4 trong khi đó em cần ấn vào cập nhật 17/4,không biết có cách nào khôi phục phần dữ liệu trong icloud ngày 17/4 k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.964207,
+         "id": "910226",
+         "field_search": "question",
+         "question": "Chào anh! Cho em hỏi em đang xài iphone 6 em đang coi facebook thì tự nhiên máy bị tắt mà không khởi động lại được là bị gì vậy anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.864708,
+         "id": "751734",
+         "field_search": "question",
+         "question": "Máy em (win 8) ram có 2GB chạy lúc nào cũng 70%Ram trên lên, vào ứng dụng lúc nào cũng bị chạy hoặc bị văng ra ngoài, em mới bảo hành về và cài win cách đây 1 ngày, có cách nào khắc phục tình trạng này không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.78437,
+         "id": "1019180",
+         "field_search": "question",
+         "question": "Mình xài con S7 Edge cách đây được 8 tháng thì máy hay bị lỗi treo máy. Cứ để quá 30p không sử dụng là y như rằng nó bị treo máy và phải dùng tổ hợp phím để tắt nguồn và khởi động lại. Có khi 1 ngày khởi động lại đến 5 6 lần gây bất tiện cho việc liên lạc (máy bị treo nên người khác gọi điện không được) Không biết có cách nào để khắc phục hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.74461,
+         "id": "988586",
+         "field_search": "question",
+         "question": "wifi trên iphone 6 đang vào bình thường, tự nhiên lại bị mờ không xem được và cũng không vào được mục cài đặt, sau đó máy bị sập nguồn, có lúc hiện màu xanh, có lúc hiện màn hình màu trắng có hình ảnh táo khuyết, lại phải khởi động lại máy. Như thế máy bị làm sao và có cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.704235,
+         "id": "823988",
+         "field_search": "question",
+         "question": "Cho em hỏi chút ạ. em xài ip6 plus. Thời gian gần đây máy em bị đơ, phát tắt máy đi bật lại mấy lần mới được. Còn từ hôm qua đến giờ, máy bị đơ liên tục hơn, sau khi tắt nguồn, mở lại, trên màn hình còn bị đơ, giật các sọc dọc trắng nữa ạ. Cho hỏi em phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.613087,
+         "id": "1165491",
+         "field_search": "question",
+         "question": "Em vừa mua điện thoại samsung galaxy A30 cách đây 3 ngày. Xài được 2 ngày rất ok, nhưng hôm nay khi sạc pin thì lại hiển thị thông báo cổng sạc ẩm mặc dù không bị đụng vào nước. Không biết phải khắc phục như thế nào ạ? Có cần phải đem đi sửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.58772,
+         "id": "759249",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em bị người khác hack mất pass ID Apple sau khi nó khởi động lại thì nó báo iPhone đã bị mất và bị xoá, bắt nhập lại iID Apple và pass nhưng không có pass thì bây giờ làm sao mở ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.354244,
+         "id": "1021033",
+         "field_search": "question",
+         "question": "Em mới mua đt Samsung galaxy A5 màu blue dùng rất mượt đến hôm nay em thấy nó hơi đơ lag nên e đã khởi động lại nhưng máy ko khởi động lại nữa. Em ko biết máy bị làm sao và e cần cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.33661,
+         "id": "928919",
+         "field_search": "question",
+         "question": "Chào anh/chị.Em mới mua máy iphone 6s hôm 19/10 vừa rồi đến nay là được 2 tháng. Cách đây khoảng 1 tháng, máy em có hiện tượng bị lỗi loa. Cụ thể là loa bị rè, phát tiếng rất to khi cắm tai nghe. Có lúc còn bị mất hẳn loa, khi goi điện thoại phải bật loa ngoài, còn nếu không thì không nghe thấy gì hoặc bị rè rất khó chịu. Em có mang máy đến Trung tâm BH thì có chị bên Bảo hành bảo em là có thể máy em bị xung đột phần mềm. Cần đặt lại cài đặt. Xong chị ấy đặt lại cài đặt cho em thì em mang về dùng ko thấy hiện tượng ấy nữa. Khoảng được 2 tuần sau thì lại bị lại. Sau khi khởi động lại máy thì lại trở về bình thường nhưng vài ngày sau lại bị lại. Hiện tại máy em đang là ios 10.0 và em ko muốn nâng cấp phần mềm. Vậy cho em hỏi máy em bị sao ạ.Em đã từng mua 1 máy 6s hồi tháng 8 vừa qua nhưng cũng bị lỗi loa rè như vậy. Và đây là cái máy thứ 2 của e cũng bị lỗi như vậy. Và máy em là máy bóc hộp mới nguyên ạ.Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.275948,
+         "id": "1000181",
+         "field_search": "question",
+         "question": "Xin cho em hỏi 1 chút ạ. E đang dùng j7 prime nhưng mấy hôm nay cứ sáng dậy là bị mất sóng. Ngày nào e cũng phải khởi động lại. Liệu có bị làm sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.043995,
+         "id": "1007060",
+         "field_search": "question",
+         "question": "Từ lúc e lắp thẻ nhớ vào máy là máy e bị hay khởi động lại, rồi 2 ứng dụng messenger và VSCO cứ bị như kia khi mở màn hình lên để 1 vài giây thì mới hiện hình lên bình thường, có khi còn mất luôn ở màn hình chính, có lúc thẻ nhớ còn bị tháo đột ngột xong vài giây sau là lại đã lắp thẻ nhớVậy máy e bị làm sao ạ? e dùng máy samsung galaxy j2 prime ạ, e mới mua máy được mấy ngày thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.94123,
+         "id": "827639",
+         "field_search": "question",
+         "question": "Mình đang dùng Asus zenfone max nhưng máy bị đơ cảm ứng không vào được và cũng không tắt máy khởi động lại được?vậy cho mình hỏi cách nào để khởi động lại máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.802376,
+         "id": "1152535",
+         "field_search": "question",
+         "question": "Em mới mua Nokia 5.1 plus nhưng về dùng thì lại thường bị đơ cảm ứng. Mà khi tắt màn hình rồi mở lại là dùng bình thường. Cho em hỏi đây là hiện tượng gì vậy? Em mua chưa đầy 30 ngày thì trong trường hợp này em có được đổi lại máy mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.76594,
+         "id": "1160106",
+         "field_search": "question",
+         "question": "xin chào!Mình mới mua máy samsung A50, được 1 tuần. Máy chạy ok, mà bị chạy cái quảng cáo dưới màn hình của google quảng cáo...Kỳ lạ là ko có ứng dụng nào quảng cáo kiểu đó, cho dù tắt màn hình tối thui thì khoảng 1 -2 phút nó lại chạy quảng cáo full màn hình. Hỏi kỹ thuật bên Lê Văn Quới thì trả lời:\" do cài android 8.0 nên bị lỗi quảng cáo\"Vậy là chịu thấy quảng cáo mỗi ngày, mỗi ngày tầm 100 lần..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.40804,
+         "id": "772636",
+         "field_search": "question",
+         "question": "Cho em hỏi,  của em mới thay pin 1 tháng, sạc thì điện thoại  nhưng , rút sạc ra thì máy tắt nguồn. Và cắm sạc lại thì vẫn như vậy.Với  bị vô hiệu hoá (bật/ tắt không được) vậy cho em hỏi máy bị gì ạ? Và sửa phải mất bao nhiêu tiền? !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.349342,
+         "id": "788195",
+         "field_search": "question",
+         "question": "cho em hỏi là em có máy iPhone 5s đã jailbreak nhưng giờ máy bị giật,cứ tự chạy,nhắn tin với dùng đều cứ chưa chạm đã chạy là bị làm sao ạ? và làm như nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.166943,
+         "id": "1136557",
+         "field_search": "question",
+         "question": "Dạ chào anh (chị).. Em đang xài laptop Lenovo Yoga 520 mới mua khoảng hơn 6 tháng tại thế giới di động.. Máy có màn hình cảm ứng mà em ít xài cảm ứng trên màn hình.. Đến hôm nay e chạm vào màn hình thì mới phát hiện đã bị vô hiệu hóa.. Em cũng không biết bị từ khi nào.. Lên mạng search thì có chỉ cách bật/tắt màn hình cảm ứng là Disable HDI compliant touch screen.. Em làm trên máy thì không có HDI complint touch screen.. Giờ em phải làm sao để sử dụng màn hình cảm ứng đây ạ! Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.154957,
+         "id": "890017",
+         "field_search": "question",
+         "question": " Cho em hỏi, laptop em mới mua 2 ngày nhưng đã bị lỗi win, bên cửa hàng có hỗ trợ khắc phục k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.06703,
+         "id": "1142505",
+         "field_search": "question",
+         "question": "Mình mua con A7(2018) từ hôm 1.1.2019. Mới được mấy ngày và cảm nhận bị lỗi sóng 4G. Khởi động lại máy thì mới được. Xin shop cho ý kiến khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.00461,
+         "id": "772631",
+         "field_search": "question",
+         "question": "Cho em hỏi, iPhone của em mới thay pin 1 tháng, sạc thì điện thoại hiển thị đang sạc nhưng không vào pin, rút sạc ra thì máy tắt nguồn. Và cắm sạc lại thì vẫn như vậy. Với wifi bị vô hiệu hoá (bật/ tắt không được) vậy cho em hỏi bị gì ạ? Và sửa phải mất bao nhiêu tiền?Em xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.96342,
+         "id": "776460",
+         "field_search": "question",
+         "question": "Em mới mua máy iPhone nhưng mới đây vào zalo và face hoặc game dùng bằng mạng thì bị đẩy ra ngoài,em đã xoá bớt ứng dụng và khởi động lại máy rồi mà vẫn bị như vậy máy em bị làm sao, có ảnh hưởng nhiều không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.90871,
+         "id": "946845",
+         "field_search": "question",
+         "question": "Laptop liên tục bị treo khi vào chrome. Em đã khởi động lại máy nhưng vẫn bị như vậy. Cho em hỏi có cách nào khắc phục nhanh không ạ. Hay em phải đem máy xuống hệ thống để kiểm tra. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.72988,
+         "id": "1154736",
+         "field_search": "question",
+         "question": "Samsung j7 plus của em vẫn còn nguồn nhưng màn hình đen xì, bật không lên màn hình, gọi thì vẫn còn nghe đổ chuông. Máy đã bị tình trạng này 1 lần rồi ạ nhưng sau đó tầm 2 ngày máy tự lên lại giờ lại bị nữa ạ. Thế là có bị hư gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.69508,
+         "id": "1024275",
+         "field_search": "question",
+         "question": "mình dùng máy tính dell vostro i3 sau khi tắt máy mở lại thì ngày giờ bị trở lại năm 2010 nếu không cài đặt ngày giờ lại thì không thể bắt wifi là sử dụng mạng đc cho hỏi máy mình bị sao và cách khắc phục nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.61987,
+         "id": "1014966",
+         "field_search": "question",
+         "question": "Em sài j5 prime ạ. Máy mua dc hơn 1 tháng. Nhưng máy hay bị hiện tượng em bấm tát màn hình r nhưng lại bật lên. Để cho đt tự động tắt màn hình cũng tự bật lên. Em khắc phục làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.577602,
+         "id": "994015",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài iphone 6 plus sao khi chơi game dream language soccer 2017.mới tải về chơi rất mượt nhưng khi chơi được 3,4 game là bắt đầu giật lag là sao cho hỏi máy mình đang bị gì và cách khắc phục lag khi chơi game này.trong khi đó máy mình cấu hình rất mạnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.492687,
+         "id": "1156376",
+         "field_search": "question",
+         "question": "Máy em mới mua 3 ngày và mua qua trả góp nhưng em mún đổi máy khác bị mất 20 có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.468456,
+         "id": "1137817",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là đt s8 của em hôm nay có triệu chứng là bị xanh màn hình sọc sọc và đơ màn hình em khởi đôgj lại thì bình thường sau 1 hồi lại bị tiếp đt em bị gì v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.45771,
+         "id": "837798",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 5 thường em có icluod nhưng em tắt Tìm Iphone có cách nào lấy lại được nữa không vậy? mong mấy anh giúp em :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.451283,
+         "id": "1017374",
+         "field_search": "question",
+         "question": "Mình muốn hỏi là máy mình mới mua được tầm 1 tuần hơn nhưng máy khởi động khá chậm tầm hơn 1 phút . Cho mình hỏi có cách nào khắc phục được không ạ , Máy mình core i5-7200U Ram4g Hdd500g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.431866,
+         "id": "762966",
+         "field_search": "question",
+         "question": " Cho em hỏi e bị mất con iPhone 5s nhưng nếu bị người khác tắt định vị thì có cách nào tìm lại được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.38375,
+         "id": "1016244",
+         "field_search": "question",
+         "question": "QTV ơi ,em mới mua nova p2 cũ 2 ngày trc thì thấy mọi thứ chạy ok, nhưng máy hay bị đơ lắm!!! Tư vấn cho em nha.! Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.36165,
+         "id": "1151223",
+         "field_search": "question",
+         "question": "Chào TGDD em mới mua dùng điện thoại ASUS ZENPHONE MAX PRO M2 được 35 ngày rồi nhưng thỉnh thoảng điện thoại em tự rung như có thông báo, mà trong khi đó em kiểm tra thì lại không có thông báo gì cả.. em đã vào tắt ứng dụng chạy ngầm, thỉnh thoảng xoá bộ nhớ cache, và khởi động lại máy, nhưng nó cũng không hết, ad có biết bị gì và có cách giải quyết lỗi giúp e không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.341793,
+         "id": "1007651",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 đang dùng tự nhiên bị tắt tối đen màn hình và không khởi động lại được. Em đã thử xạc pin lại hơn nửa tiếng nhưng vẫn không khởi động được. Cho em hỏi nên làm sao bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.258526,
+         "id": "1020452",
+         "field_search": "question",
+         "question": "ad cho em hỏi, em dùng dell xps, tắt máy vài ngày mới dùng nhưng pin lại bị hụt thì có vấn đề gì ko a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.034595,
+         "id": "796301",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng iphone 5C lúc để màn hình sáng ít thì cảm ứng không sao nhưng bật sáng nhiều thì cảm ứng lại đơ,tắt màn hình xong bật...cảm ứng lại bình thường nhưng chỉ được 15 20s là lại lặp lại cảm ứng như thế.!!!Vậy cho e hỏi máy bị làm sao ạ...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.97853,
+         "id": "788440",
+         "field_search": "question",
+         "question": "Em mới mua máy wiko rainbow jam, pin lúc đầu dùng rất bình thường, tới khoảng 20% là 9s xuống 1%, hết pin trong 2phút, từ 30% đã bắt đầu giảm mạnh. Ngoài ra cảm ứng đôi khi không hoạt động, hôm nay còn có tình trạng tự động tắt máy, sau đó máy tự mở ròi lại tắt nữa, liên tục cho đến khi em khởi động lại mới thôi. Máy em mới mua 5 6 ngày j đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.971027,
+         "id": "782429",
+         "field_search": "question",
+         "question": "Anh ơi em mới mua điện thoại iphone 5s được 15 ngày hôm nay em kết nối wifi thì nó ghi là sai pass và không kết nối dc em đã tắt và khởi động lại máy nhưng vẫn không kết nối dc . Trường hợp của em có cần mang ra thegioididong sữa ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.94457,
+         "id": "1145947",
+         "field_search": "question",
+         "question": "Cho em hỏi mai em định mang sửa màn hình 2 ipad và thay pin 1 macbook thì có lấy luôn được không hay là phải đợi vài ngày ạ? 2 máy ipad thì không cần gấp nhưng macbook thì em cần trong vòng 1-2 ngày ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.85426,
+         "id": "1133529",
+         "field_search": "question",
+         "question": "Em là nhân viên bhx em dùng iphone 5s mà mấy ngày hôm nay bị lỗi app MWG mấy ngày nay không vô đc em đã xoá và tải lại cũng như vậy cho em hỏi nguyên nhân và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.79983,
+         "id": "1002316",
+         "field_search": "question",
+         "question": "iphone 7 e mới mua 2 tháng nhưng sao lại bị đứng màn hình không khởi động được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.72953,
+         "id": "1139891",
+         "field_search": "question",
+         "question": "chào thế giới di động, Em dùng máy Samsung galaxy j3 2017. Vấn đề là khi em chơi một số game thì 5 hoặc 12 phút sau thì máy tự tắt nguồn và khởi động lại với mấy ứng dụng khác thì không sao nhưng riêng game lại bị, em đã dùng đủ mọi cách và reset factory cho máy, nhưng nó vẫn thế mong thế giới di động giúp em ! ,;-;",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.719055,
+         "id": "761787",
+         "field_search": "question",
+         "question": "Laptop asus của em bị hư ( chắc là lỗi hệ thống) không khởi động được, qtv cho em hỏi dữ liệu trong hai ổ đĩa D và E có bị mất không và nếu em mua máy mới thì có cách nào chuyển dữ liệu từ máy bị hư này sang máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.70504,
+         "id": "736183",
+         "field_search": "question",
+         "question": "E mới mua ip6s nh về nhà kết nôi wifi 1 luk lai khác bị bật ra ngoài. Tắt wifi đi xong bật lại, lại kết nối được tiếp nhưng 1 lúc sau lại bị mất kết nối wifi. Máy e vừa mua được 2 ngày. Như vậy là làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.688046,
+         "id": "759851",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là máy iPhone 4 iOS 8.1.3 em restore trực tiếp trên máy, thì máy hiện quả táo và có vạch trắng ỡ dưới? Ad cho em hỏi có phải máy bị treo và cách khắc phục ra sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.666,
+         "id": "991467",
+         "field_search": "question",
+         "question": "Em mới mua iphone 6 cách đây mấy ngày tại hệ thống TGDD . Nhưng em lướt fb khoảng 1,5-2 phút thì mất 1% pin nhưng z là có bình thường hay k ạ? Em cảm ơn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.563194,
+         "id": "757514",
+         "field_search": "question",
+         "question": "Em mới mua Gionee f103. Nhưng sao máy hay bị đứng quá. Youtube với ứng dụng nhạc của tui thì hay bị diss. Có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.55813,
+         "id": "956288",
+         "field_search": "question",
+         "question": " em xài samsung galaxy j2 prime và máy có hiện tưởng khởi động lại. Cho em biết cách khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.544857,
+         "id": "835385",
+         "field_search": "question",
+         "question": "Cho em hỏi. em bị mất điện thoại ip5, sau khi mất thì e có lên icloud định vị nhưng bị ngoại tuyến. máy em có cả khóa màn hình và mật khẩu icloud. Em đã bật chế độ âm thanh và mất điện thoại , đã để lại lời nhắn. Vậy em có khả năng nào tìm được máy không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.542744,
+         "id": "790656",
+         "field_search": "question",
+         "question": "Máy của em là iphone 6, ad cho em hỏi sao lúc em đổi hình nền của máy thành màu trắng thì mấy cái như ngày giờ, sóng, wifi hay bị mất, ko hiển thị, giống như là nó cũng chuyển thành màu trắng luôn ấy, vậy máy em có bị sao ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.53829,
+         "id": "1144130",
+         "field_search": "question",
+         "question": "Điện thoại Nokia 6 của em bị mất mấy chữ Nokia ngoài sau lưng, có cách nào khắc phục không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.46632,
+         "id": "1169440",
+         "field_search": "question",
+         "question": "Em mới mua oppo f9 dùng đc2 ngày nhưng khi vào ứng dụng hay bị đơ, và phải tắt hẳn tác vụ đó đi bật lại, cho e hỏi là máy bị làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.429394,
+         "id": "996885",
+         "field_search": "question",
+         "question": "cho e hỏi e mới cài lại win máy tính.khi máy lên màn hình thì 1 bên bị viền đen,1 bên bị mất 1 chút màn hình,cho e cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.39378,
+         "id": "827866",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em có 1 con IPhone 6 nhưng lại bị dính icloud có cách nào khắc phục ko ạ e có thể đung dịch vụ bẻ khoá icloud được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.36348,
+         "id": "797211",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ. Em vừa khôi phục cài đặt và xóa iphone. Nhưng iphone em cứ chạy hoài, không hiển thị màn hình, cũng không biết làm sao cho nó hết. Có cách nào chỉ em không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.330208,
+         "id": "998216",
+         "field_search": "question",
+         "question": "Máy của em là samsung galaxy tap 3. Đang sử dụng thì bị tắt nguồn nhưng không phải bị hết pin, em đã cố khởi động lại mà không được. Vậy máy em bị gì và bên thế giới di động có sửa được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.295193,
+         "id": "815917",
+         "field_search": "question",
+         "question": "Em có iphone 4s lúc đầu em mới mua máy tại cửa hàng em nhớ bên cửa hàng tải cho em 1 số ứng dụng bằng tải khoản của họ, em dùng 1 tuần sau a thấy appstore hiện cập nhập bản mới mới lại em dùng tài khoản của mình rồi nên lúc cập nhập a vô tình ấn sai nên cái ứng dụng đó hiển thị đang chờ mãi không xoá đi được liệu em chạy lại phần mềm có mất đi được không ạ, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.25625,
+         "id": "765196",
+         "field_search": "question",
+         "question": "Em mua  trả góp máy iphone 6 plus 64GB 21.590k, em sử dụng được 2 ngày bây giờ em không muốn sử dụng em bán lại thì em lỗ như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.253258,
+         "id": "1137917",
+         "field_search": "question",
+         "question": "Em mới mua con ss j7 prime đc 3 tháng. Lúc đầu em xài thì mỗi lần sạc pin chỉ mất tầm 3h. Nhưng mấy tuần gần đây sạc tận 6,7h mới đầy 100%. Cho em hỏi lí do và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.20747,
+         "id": "1137468",
+         "field_search": "question",
+         "question": "ad cho em hỏi máy samsung J8 của mẹ em mới mua còn 1 ngày nữa mới 1 tháng chẵn. giờ nó lúc gọi được lúc gọi không được em đã tắt nguồn và khởi động lại máy nhưng vẫn lúc gọi được lúc gọi không được? mong ad hồi đáp nhanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.154045,
+         "id": "795763",
+         "field_search": "question",
+         "question": "cho em hỏi, máy em iPhone 5, bị xóa mất icloud, giờ không tải được app, máy yêu cầu cập nhật phiên bản mới nhất, có cách nào để khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.046936,
+         "id": "761434",
+         "field_search": "question",
+         "question": "Laptop của em lâu lâu hay bị lỗi not responding, có khi bị khi mới khởi động máy, có khi đang xài bình thường thì bị, cho hỏi máy em bị lỗi gì, làm sao để khắc phục, xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.020016,
+         "id": "763717",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng iPhone 5 mấy ngày hôm nay tự dưng máy bị đơ lúc người khác gọi tới không gạt ngang để nghe được hoặc có lúc màn hình cảm ứng bấm vào không ăn bấm cứ như không bấm,lâu lâu bấm lại thì được nhưng khi dùng lại bị giật và cứ nhảy những app không dùng lên và một số phím ở bàn phím không dùng được như phím t, f, c.....em thử nâng cấp iOS mới và tắt nguồn khỏi dộng lại, tháo khe sim lắp lại nhưng không được ạ máy em lock Nhật sài sim ghép. mong mọi người chỉ cách sửa giúp em ạ. em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.982758,
+         "id": "1154401",
+         "field_search": "question",
+         "question": "điện thoại em cứ mở nguồn khoảng 1 phút rồi tắt, sao đó tự mở nguồn và tắt liên tục. em đã chạy chương trình lại cho máy nhưng vẫn không được. em đang xài con j2 nhưng quá hạn bảo hành và cũng cũ rồi nên em nghĩ nếu phải thay ổ cứng thì coi như không luôn. Shop có cách nào khắc phục tình trạng trên không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.95559,
+         "id": "740437",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. Em dung iphone 5s. Em muốn khởi động lại máy giống nhu lúc mới mua. Nhưng không muốn xóa mấy cái ứng dụng mới tải về thì phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.934147,
+         "id": "831477",
+         "field_search": "question",
+         "question": "em xài iPhone 4 lâu lâu có hiện tượng bị sập nguồn, mở lên lại thì không bắt được wifi nữa phải khởi động lại mới bình thường được, cho em hỏi hiện tượng đó là gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.87192,
+         "id": "1140550",
+         "field_search": "question",
+         "question": "Em có máy oppo a71 bị mất nguồn đột ngột và không khởi động được dù không có va chạm gì, em phải khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.854366,
+         "id": "1150152",
+         "field_search": "question",
+         "question": "Máy em là OPPO r7s khi nghe gọi đt tì máy bình thường nhưng khi xem phim, nghe nhạc, youtube hay video trên facebook, chơi game thì loa bị mất tiếng. THI thoảng máy bình thường thì tự nhiên mất tiếng. Em có reset lại máy và khôi phục lại máy nhưng chỉ được mấy hôm nó lại như vậy. Cho em hỏi máy em như vậy là bị sao ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.840252,
+         "id": "1135792",
+         "field_search": "question",
+         "question": "ad tư vấn giúp e với ạ, e đg dùng samsung s7 edge có 1 vđ là khi đang dừng video youtobe hoặc đang phát nhạc từ zing thì sau 5s k đụng vào màn hình, màn hình nó tự tắt, máy vẫn phát nhạc, nhưng khi em mở nút home cho màn hình tiếp tục hoạt động thì âm lượng media lại chuyển về 0, zing k phát nhạc nữa nhưng vẫn chạy, youtobe nhấn tiếp tục chạy thì k có tiếng, sau đó e nhấn vào nút âm lượng tăng bên hông máy thì âm lượng lại trở về như ban đầu, ad cho em hỏi cách khắc phục với ạ! em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.811817,
+         "id": "1151978",
+         "field_search": "question",
+         "question": "cho em hỏi, laptop của em thường xuyên tự động update, mấy ngày nay nó cứ update mãi, mở máy lên là nó update. cho em hỏi có cách nào khắc phục không ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.77809,
+         "id": "760834",
+         "field_search": "question",
+         "question": "Xin lỗi làm ơn cho em hỏi một chút ạ. Em có dùng 1 máy iPhone 6 plus. Nhưng do bạn em nghịch nên giờ em mất mật khẩu khoá máy, em lại không cài chế độ mở vân tay. Mà hiện tại em lại không nhớ tên cũng như mật khẩu iCloud. Làm ơn cho em hỏi có cách nào khắc phục lỗi trên không ạ? Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.7518,
+         "id": "790145",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 5s em mới mua cách đây 2 ngày dán màn hình rồi , bây giờ dán màn hình bị hỏng bóc ra , đi dán thì mất bao tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.71478,
+         "id": "766787",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là iphone 5s , đang dùng thì màn hình bị đơ kiểu lướt fb không được, sau đó em có khoá màn hình, mở lại thì màn hình không lên, nhưng gọi vào thì điện vẫn rung , nhưng màn hình vẫn tối thui em phải làm sao đây ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.71322,
+         "id": "747518",
+         "field_search": "question",
+         "question": "Em xài iPhone 4s đc 2 năm rồi nhưng gần đây nó ngốn nhiều pin quá ... Để qua đem ngốn trên 50%pin .. E đã retore lại máy nhưng k khắc phục đc . Em tắt máy thì máy tự động khởi động lại nửa . Mong ad giải quyết dùm em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.70985,
+         "id": "844671",
+         "field_search": "question",
+         "question": "Màn hình laptop em bị chập chờn rồi tự động tắt vs chế độ sleep, cơ mà máy cũng tự động mở màn hình lại luôn, nếu mở lên thì trong khoảng 30s nó lại tắt, có khi thì 1 tiếng sẽ bị tắt. Em đem ra tiệm sửa mà chủ tiệm bảo không tìm thấy lỗi. Admin cho e hỏi máy e bị lỗi gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.70109,
+         "id": "1139199",
+         "field_search": "question",
+         "question": "Chạo anh chị ạ... hiện tại em đang sử dụng samsung galaxy a7... em mới mua khoảng 1 tháng ạ... trong thời gian sử dụng gần đây máy có hiện tượng giật lag đứng máy và tự động khởi động lại điện thoại, và có trường hợp màn hình vẫn sáng nhưng vào các ứng dụng rất lâu ạ...từ bắt đầu sữ dụng sản phẩm đến nay đã có 2 bản cập nhập hệ thống. Sau mỗi lần cập nhật xong thì máy bị lag và khởi động lại điện thoại...anh chị có thể giải thích giúp em hiện tượng nàu với ạ... có ảnh hưởng dì đến điện thoại không ạ. Em xin cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

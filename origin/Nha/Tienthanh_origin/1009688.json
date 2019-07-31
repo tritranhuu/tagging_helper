@@ -1,0 +1,802 @@
+{
+   "id_query": "1009688",
+   "total": 29119,
+   "total_current": 100,
+   "max_score": 71.406815,
+   "origin_question": "Quên mật khẩu icould có đăng xuất được không ạ . Hay chạy lại chương trình đx hk ạ",
+   "short": "đăng xuất icloud khi quên mk ",
+   "hits": [
+      {
+         "score": 31.399635,
+         "id": "801734",
+         "field_search": "question",
+         "question": "Điện thoại bị lỗi chương trình, chạy lại chương trình nhưng cần mật khẩu icloud để thuyết lập điện thoại nhưng em quên mật khẩu có cách nào bẻ mật khẩu đó không ai có thể giúp em không em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.772617,
+         "id": "795602",
+         "field_search": "question",
+         "question": " Mật khẩu chạy chương trình iPhone 4 và khi mình quên mật khẩu của tài khoản ID mình phải làm gì mới lấy lại được. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.341587,
+         "id": "779850",
+         "field_search": "question",
+         "question": " Em muốn chạy lại chương trình cho iPhone 4S vì em quên mật khẩu iCloud, vậy thì bao nhiêu tiền vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.584303,
+         "id": "1164805",
+         "field_search": "question",
+         "question": "Ad cho hỏi cái iphone 4 em quên mật khẩu bên thegioididong có chạy trương trình lại được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.252205,
+         "id": "1005282",
+         "field_search": "question",
+         "question": "Chào các admin. Em đã lở quên mật khẩu  icloud vậy hỏi làm sao em tạo lại mật khẩu được ạ. (Hoặc là đăng xuất ra hẳn mà không cần mật khẩu ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.146364,
+         "id": "1166113",
+         "field_search": "question",
+         "question": "Cho em hỏi cái iphone 6 á em mua sang tay mà cái appstore em quên mất cái mật khẩu rồi giờ em ra chạy chương trình lại tạo cái mới thì có được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.927193,
+         "id": "1142405",
+         "field_search": "question",
+         "question": "Chào cac anh chị!Điện thoại  e dùng là Oppo f7 đó số y nên đt e bị khóa mật khẩu màn hình khóa... e lại k nhớ mat khẩu.... cần chạy chương trình lạiTGDĐ có hỗ trợ chạy chương trình lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.61781,
+         "id": "1134621",
+         "field_search": "question",
+         "question": "Cách khắc phục lỗi quên mật khẩu oppo f3,bên cửa hàng có chạy chương khôi phục mật khẩu không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.015455,
+         "id": "1162036",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone 6 của mình mua cũ chủ máy quên mật khẩu icould giờ mik muốn đăng xuất ra thì phỉa làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.345724,
+         "id": "1159051",
+         "field_search": "question",
+         "question": "Tôi quên mật khẩu mở khóa và mật khẩu andrao của iPhone có chạy lại được phần mềm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.330853,
+         "id": "1161696",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu em quên mật khẩu laptop thì có thể chạy lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.166115,
+         "id": "987059",
+         "field_search": "question",
+         "question": "ad cho mình hỏi, mình đã chạy lại chương trình của máy iphone 5 mà trong khi đó mình đã quên mật khẩu icloud của mình luôn r. Mình cũng đã mất luôn email khi lập cái icloud đó vậy bây h còn cách nào để mình có thể chạy lại chương trình đc ko hay là từ bỏ chiếc máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.86024,
+         "id": "1138373",
+         "field_search": "question",
+         "question": "máy meizu m3s mà cứ bị lỗi chương trình không đăng nhập được vào ch play. em có đi chạy lại chương trình rồi nhưng được một lát lại lỗi . cho em hỏi phải làm sao đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.66153,
+         "id": "1169318",
+         "field_search": "question",
+         "question": "Zalo em bị đăng xuất ra. Mà em không nhớ mật khẩu, sdt zalo cũng bị mất. Vậy em làm cách nào lấy lại mật khẩu hay làm sao để biết được sdt trên để đăng ký lại sdt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.524597,
+         "id": "1153494",
+         "field_search": "question",
+         "question": "đt bị khóa không xài được có chạy chương trình lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.429897,
+         "id": "1169165",
+         "field_search": "question",
+         "question": ". ip6 Bị quên mật khẩu vô hiệu hoá 1 giờ không nhớ icla thì có chạy trương trình được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.841528,
+         "id": "1113228",
+         "field_search": "question",
+         "question": "bây giờ em đang sài iphone mà quên mật khẩu id apple với lại quên câu hỏi bảo mật vậy bên anh có lập trình lại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.451097,
+         "id": "822142",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại em là iPhone 5 điện thoại em bị hư nên phải chạy lại chương trình rồi phải nhập mật khảu iCloud, nhưng em nhập mật khẩu lại không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.438175,
+         "id": "737482",
+         "field_search": "question",
+         "question": "Em quên mật khẩu iCloiud của 4s nhưng máy vẫn nhập icloud em quên mật khẩu. Sau đó máy em bị vô hiệu hoá . Anh cho em hỏi em đã thay đổi lại mật khẩu icloud đó bằng mật khẩu mới . Vậy khi em chạy lại phần mềm thì máy bắt buộc nhập mật khẩu icloud thì em có nhập được mật khẩu mới để mở máy hay không. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.37133,
+         "id": "1022113",
+         "field_search": "question",
+         "question": "E quên mật khẩu oppo neo9 mà đăng nhâp google không được thì phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.26905,
+         "id": "804292",
+         "field_search": "question",
+         "question": " Mình quên mật khẩu line nênn đăng nhập không được.bạn giúp mình lấy lại mật khẩu đươc không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.12458,
+         "id": "1140216",
+         "field_search": "question",
+         "question": " tôi muốn đem laptop đến cửa hang chạy lại chương trình, không biết có tính phí hay không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.067575,
+         "id": "1015770",
+         "field_search": "question",
+         "question": "Cho em hỏi mình chạy chương trình laptop lại nhiều lần máy mình có yếu lại không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.997015,
+         "id": "1159160",
+         "field_search": "question",
+         "question": "IPhone bị quên mật khẩu và tài khoản iCloud có chạy được phần mềm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.96361,
+         "id": "790883",
+         "field_search": "question",
+         "question": " Em quên mật khẩu icolod nên pây giờ không đăng nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.868677,
+         "id": "1013948",
+         "field_search": "question",
+         "question": "AD cho mình hỏi IPhone 6 của mình bị mất mật khẩu giờ mình muốn chạy chương trình mất bao nhiêu tiền và thời gian bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.744339,
+         "id": "1164005",
+         "field_search": "question",
+         "question": "Ad cho hỏi: khi mình ko có máy tính thì mình có thể reset Iphone khi quên mật khẩu màn hình được không và mình ko có mật khẩu cuat icould trong con iphone đó, mong ad giúp !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.725637,
+         "id": "1023939",
+         "field_search": "question",
+         "question": "Nếu máy e bị lỗi system thì nên chạy chương trình lại hay cài lại win 10 hay làm cách nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.657316,
+         "id": "792781",
+         "field_search": "question",
+         "question": " Thegioididong có chạy lại chương trình cho laptop không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.369308,
+         "id": "1022598",
+         "field_search": "question",
+         "question": "Điện thoại của mình vừa chạy lại chương trình ngoài tiệm điện thoại. Họ nói chạy không được. Nhưng mình thấy sau khi làm xong mở nguồn  thì vào được tới mục chọn ngôn ngữ máy thì đứng. Không biết có phải do màn hình cảm ứng không nhạy hay không. Nhưng lúc chưa chạy chương trình thì vẫn nhạy. Bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.258999,
+         "id": "990399",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e quên mk icloud giờ muốn đăng xuất hay reset  thành máy mới được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.25287,
+         "id": "1159090",
+         "field_search": "question",
+         "question": "IPhone bị quên mật khẩu mở khóa và tài khoản iCloud có chạy được phần mềm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.06871,
+         "id": "747224",
+         "field_search": "question",
+         "question": " Laptop em bị quên mật khẩu. Vậy em ra nhờ TGDĐ mở mật khẩu được không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.067934,
+         "id": "917791",
+         "field_search": "question",
+         "question": " ad cho tôi hỏi... t k nhớ mật khẩu màn hình và mật khẩu icould thì có cách nào mở lại màn hình không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.039505,
+         "id": "807893",
+         "field_search": "question",
+         "question": " Máy em chạy lại phần mềm xong em quên mật khẩu iCloud không vào được máy sao giờ giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.037058,
+         "id": "1137990",
+         "field_search": "question",
+         "question": "Giúp mình với. Fb của mình đăng kí bằng sđt. Không có email. Mình vừa đăng xuất ra để vào lại thì quên mật khẩu. Mình đã thử mọi cách để tìm fb hoặc gửi mã về điện thoại nhưng không tìn được tài khoản. Giờ có cách nào lấy lại được fb đó của mình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.012564,
+         "id": "774293",
+         "field_search": "question",
+         "question": "Cho em hỏi em quên mật khẩu của iPad, nên em không thể tải một số phần mềm vể máy được, em có thể lấy mật khẩu lại được không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.997887,
+         "id": "1162674",
+         "field_search": "question",
+         "question": "Ad ơi, bây h em muốn đăng xuất icloud nhưng em không có mật khẩu thì phải làm sao ạ. Icloud là của người khác em không thể dùng cách quên mk đâu ạ. Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.974983,
+         "id": "935732",
+         "field_search": "question",
+         "question": "laptop của em mới đặt lại mật khẩu, nhưng khi đăng nhập không được, chắc là sai mật khẩu. cho em hỏi có cách nào xóa mật khẩu để mở máy được không ạ? e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.90446,
+         "id": "782194",
+         "field_search": "question",
+         "question": " Cách chạy lại chương trình trên Samsung Galaxy Grand Prime G530H là gì ạ? Do em không lên được facebook ạ..... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.826279,
+         "id": "820034",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi. Máy tính cài mật khẩu. Mà bây giờ quên mật khẩu rồi. không đăng nhập được. Vậy có sửa được không anh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.806328,
+         "id": "1012479",
+         "field_search": "question",
+         "question": "Cho tôi hỏi có chương trình trúng iphone 7 vs lại tièn mặt hk z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.681118,
+         "id": "969058",
+         "field_search": "question",
+         "question": " MÌNH QUÊN MẬT KHẨU ZALO NHƯNG SỐ ĐIỆN THOẠI ĐĂNG KÍ KHÔNG PHẢI SỐ MÌNH LÀM SAO LẤY LẠI Zalo được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.66928,
+         "id": "891149",
+         "field_search": "question",
+         "question": "Cho em hỏi chổ mình có nhận sữa laptop không ạ? Nếu có cho e biết giá để chạy lại chương trình trên laptop là bao nhiêu được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.64108,
+         "id": "1135906",
+         "field_search": "question",
+         "question": "Tgdđ có chạy chương trình máy lại được không,dòng HTC One Me và giá là bao nhieu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.524214,
+         "id": "858480",
+         "field_search": "question",
+         "question": "cho mình hỏi TGDĐ có chạy lại chương trình iphone6 không vậy ? nếu có thì khi chạy lại thì có được như khi mới mua về không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.506624,
+         "id": "1141564",
+         "field_search": "question",
+         "question": "em có cái máy tính acer mà để lâu không dùng tới nên quên mật khẩu. Có cách nào mở mật khẩu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.504082,
+         "id": "1141331",
+         "field_search": "question",
+         "question": "hôm nay e có đi chạy lại chương trình máy cho laptop vì lỗi win ạ.hk pt khi chạy lại thì mấy anh tgdd chạy win 10 bản quyền cho e hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.400301,
+         "id": "1159340",
+         "field_search": "question",
+         "question": "e muốn hỏi về cách chạy lại chương trình như mới cho laptop window ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.324562,
+         "id": "796068",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em mua lại chiếc iPhone 4 ban 16gb lúc mua không biết nên không hỏi về tài khoản iCould .khi tải ứng dụng thì không được em có hỏi lại người bán và đã cung cấp cho em mật khẩu iCould nhưng em nhập không được cứ bảo mật khẩu sai. ad cho em hỏi giờ em có thể xóa và lập lại tài khoản iCould được không ạ và làm bằng cách nào ạ trả lời gíup em với em cảm ơn nhìu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.040728,
+         "id": "1024506",
+         "field_search": "question",
+         "question": "laptop em bị lỗi win,, có đem ra TGDĐ chạy lại.. nhưng khi chạy lại máy rất chậm ,, load PC hay chạy 1 chương trình gì đó thì gần như ko chạy nổi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.974184,
+         "id": "1155771",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu mình ko mua lap của siêu thị thì mình có thể đem tới chạy lại chương trình được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.908646,
+         "id": "1140880",
+         "field_search": "question",
+         "question": "Có thể xoá tài khoản icould trên iphone 5s khi không nhớ mật khẩu được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.852053,
+         "id": "778018",
+         "field_search": "question",
+         "question": "Ad cho em hỏi iPad em nó bị vô hiệu hoá do ấn mật khẩu sai. Giờ làm sao nó hoạt động lại ngoài cái cài lại chương trình không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.793505,
+         "id": "911500",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu icloud vẫn sử dụng được bình thường và khi tắt máy chứ không phải restore thì có bị đòi mật khẩu icloud hay không ? Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.718298,
+         "id": "1021607",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu ipad thì làm sao để lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.663853,
+         "id": "1138349",
+         "field_search": "question",
+         "question": "Em quên mật khẩu zalo của tài khoản 11 số.  Giờ bị chuyển đổi đầu số sang 10 số. Vậy nếu bij đăng xuất em phải làm sao để vào lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.629934,
+         "id": "1156369",
+         "field_search": "question",
+         "question": "Laptop em mua ở TGDD còn bảo hành khi bị lỗi cần chạy lại chương trình thì có mất phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.57969,
+         "id": "1159214",
+         "field_search": "question",
+         "question": "làm thế nào để đăng nhập icloud mới vào máy khi quên mật khẩu icloud cũ , không thoát được icloud cũ ra ạ. ip6 plus ạ. e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.551535,
+         "id": "999677",
+         "field_search": "question",
+         "question": "Cho e hỏi ... Làm s để chạy chương trình lại cho huawei gr5 2017 ạ .......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.529491,
+         "id": "1141795",
+         "field_search": "question",
+         "question": "Cho e hỏi hiện giờ e có thể chạy lại chương trình cho iphone 3 tại tgdd k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.52783,
+         "id": "738818",
+         "field_search": "question",
+         "question": "Cho em hỏi..,e dùng máy ip4 mà thời gian gần đây máy hay bị đơ..e có nên chạy lại chương trình cho máy hôg ạ...e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.460705,
+         "id": "1152871",
+         "field_search": "question",
+         "question": "em quên mật khẩu hotmail, bây giờ đặt lại mật khẩu lại không nhận được tin nhắn báo mã xác nhận ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.424871,
+         "id": "1151366",
+         "field_search": "question",
+         "question": "Em được người quen tặng laptop Dell Window 7Mà nó bị nhiễm VirusLaptop không mua ở ĐMX hay TGDĐ thì có được chạy chương trình lại không ạNếu được thì tốn bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.408054,
+         "id": "995988",
+         "field_search": "question",
+         "question": "Em quên mật khẩu iCloud, quên luôn câu hỏi bảo mật với mất luôn email đăng kí, nhưng máy vẫn đang dùng bình thường, muốn restore lại được k a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.406715,
+         "id": "1154603",
+         "field_search": "question",
+         "question": "Quên mật khẩu tài khoản mi ở máy Xiaomi Mang ra quán có reset được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.380384,
+         "id": "1162006",
+         "field_search": "question",
+         "question": "Xài win10 cài mật khẩu mở máy mà bây giờ quên mật khẩu thì có cách nào khắc phục được k ạ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.353651,
+         "id": "1145920",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu chạy chương trình lại thì tài khoản google có bị mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.331894,
+         "id": "756457",
+         "field_search": "question",
+         "question": "  Cho em hỏi.Ở thegioididong có hổ trở chạy chương trình lại cho iphone 5 không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.323112,
+         "id": "1140631",
+         "field_search": "question",
+         "question": "máy em chương trình WPS ofice không chạy được thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.310455,
+         "id": "909680",
+         "field_search": "question",
+         "question": "cho mk hõi icloud cua iphone co thễ chạy lại chuong trình hk v ...vì icloud của mình bị mất mật khẩu ,làm mọi thứ mà k khôi phục dx ,k xóa dx,k lấy lại dx lun v h phãi làm s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.28882,
+         "id": "802893",
+         "field_search": "question",
+         "question": " Mình bị quên mật khẩu giới hạn mà mình còn nhớ mật khẩu icloud thì mình có thể lấy lại mat khau gioi han được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.28738,
+         "id": "1021463",
+         "field_search": "question",
+         "question": "em gặp lỗi mật khẩu của samsung mà em mò hoài không ra, không phải quên mật khẩu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.277187,
+         "id": "914075",
+         "field_search": "question",
+         "question": " Tgdđ cho e hỏi với đc k ạ? Điện thoại ip4 của e bị quên mật khẩu icloud thì giờ có thể đăg xuất đc nữa khôg ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.259317,
+         "id": "892241",
+         "field_search": "question",
+         "question": " bây giờ em quên mk icloud với quên mất địa chỉ email thì em có lấy lại được mật khẩu icloud nữa không..mong giúp đỡ ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.228754,
+         "id": "782537",
+         "field_search": "question",
+         "question": " Tôi quên mất mật khẩu để vào bios, tgdd có thể giúp tôi reset lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.22415,
+         "id": "1000117",
+         "field_search": "question",
+         "question": "Lenovo A7000 plus bị khoá do quên mật khẩu. Cách mở khoá và chạy lại tool thế nào. Thay nút volume có linh kiện không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.169655,
+         "id": "1156403",
+         "field_search": "question",
+         "question": "mình không đăng nhập vào được facebook, vì mình lỡ tay đăng xuất ra nhưng mà nhập lại mật khẩu thì không vào được , thử trên laptop thì vào rất bình thường chỉ trên điện thoại là vào không được nó cứ bị lỗi đăng nhập như trong hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.158123,
+         "id": "1007950",
+         "field_search": "question",
+         "question": "E bị quên mật khẩu id giờ muốn lấy lại mật khẩu id sam sung a3 thế nào được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.157852,
+         "id": "1155328",
+         "field_search": "question",
+         "question": "cho em hỏi nếu mình quên passcode và quên luôn gmail lẫn icould có thể nào khôi phục lại được không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.07758,
+         "id": "1160009",
+         "field_search": "question",
+         "question": "Ních em có số điện thoại đăng kí tài khoản facebook này và có thể lấy lại được mật khẩu nhưng em vào quên mật khẩu thì nó như thế này. Ad có thể giúp em làm thế nào để kích hoạt được tính năng kia không ạ vì email em quên rồi ạ. Ních fb này rất quan trong với em mong ad giúp đỡ em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.017826,
+         "id": "1169257",
+         "field_search": "question",
+         "question": "Em có cái ip4 nhưng mà em quên mật khẩu mở máy va quên mật khẩu tài khoản ic thi gio phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.006063,
+         "id": "997789",
+         "field_search": "question",
+         "question": "Ad cho e thegioididong có chương trình kĩ niệm 10 năm thành lập tặng 99 ip 7 hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.953064,
+         "id": "1151178",
+         "field_search": "question",
+         "question": "Mình muốn chạy lại chương trình cho nokia 2 phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.948109,
+         "id": "770292",
+         "field_search": "question",
+         "question": "  Em đang dùng iphone 5 nhưng quên mật khẩu icloud thì lấy lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.947098,
+         "id": "1154033",
+         "field_search": "question",
+         "question": "Điện thoại vivo v5s khi quên mật khẩu có 2 câu hỏi để đang nhập lại mật khẩu... Em muốn chỉnh lại câu hỏi thì làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.913908,
+         "id": "1154030",
+         "field_search": "question",
+         "question": "Thế giới di động mình có hỗ trợ chạy chương trình của laptop k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.886175,
+         "id": "996590",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu màn hình chỉ còn vân tay thôi làm sao để lấy lại mật khẩu ạ Máy oppo f3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.829895,
+         "id": "882250",
+         "field_search": "question",
+         "question": "Hiên mình đang dùng máy Acer 470G core i3. Minh có mua chương trình học tiếng anh Monkey Junior nhưng khi cài vào máy lại không thể chạy được. kỹ thuật bên chương trình học báo máy này sử dụng 2 card màn hình, nếu chương trình monkey junior chạy được thì màn hình lại rất mờ (không nhìn thấy gì cả).Giờ mình phải làm thế nào đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.821531,
+         "id": "1161604",
+         "field_search": "question",
+         "question": "xin chào Add. Tôi dùng 1 số điện thoại đăng kí 2 ních Face (ních cũ bị hack), thời gian sau, ních cũ đổi mật khẩu vào lại được. Nhưng tôi vẫn sài ních mới. sau này tôi quên mật khẩu, thế là vào face để thực hiện lấy lại mật khẩu. Thì lại đăng nhập vào face cũ. face mới không vào được.  Vậy Add xem làm thế nào để vào được face mới ạ ? Messenger vẫn là face mới nhé. Còn đăng nhập Face lại là face cũ. Mong Mọi người giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.798574,
+         "id": "1154673",
+         "field_search": "question",
+         "question": "Quên mật khẩu dự phòng Samsung Note 4 Có cách nào lấy lại mật khẩu dự phòng của chiếc smartphone này không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.794462,
+         "id": "855419",
+         "field_search": "question",
+         "question": " điện thoại hư phải chạy lại chương trình mất hết rồi h mình muốn láy lại zalo h phải làm sao ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.68916,
+         "id": "834817",
+         "field_search": "question",
+         "question": "Hepl meMọi người ai bít giúp em với. Em rất cần một số ảnh trong đó a.bị mất iphon 5s có cách nào khôi phục ảnh không . có icould nhưng quên pass rùi. Còn gmail dùng đăng ký thì vẫn còn thui mà k bít làm sao lấy lại mật khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.656746,
+         "id": "904915",
+         "field_search": "question",
+         "question": "Làm thế nào để đăng ký lại nick zalo khi nick tự đăng xuất và khi đăng nhập lại thì kg được mật dù là mật khẩu đúng .. vạy phải xử trí như thế nào? nhờ tổng đài giải đáp gium !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.651348,
+         "id": "892733",
+         "field_search": "question",
+         "question": " tôi không đăng nhập vào tài khoảng instagram của minh được và tôi đã quên mật khẩu email thì làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.599792,
+         "id": "1130966",
+         "field_search": "question",
+         "question": "Ad ơi, mình quên mật khẩu giới hạn thì ra TGDD kỹ thuật ở đó có cách nào để mình đặt lại được mật khẩu không. thanks a lot.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.571016,
+         "id": "1147796",
+         "field_search": "question",
+         "question": "Làm thế nào để vào lại được tủ an toàn trên điện thoại hauwei nova 3i khi quên mật khẩu đăng nhập thế các bạn cho hỏi với. Mibhf quên cả câu trả lời bì mật nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.566446,
+         "id": "790838",
+         "field_search": "question",
+         "question": " Bên thế giới đi động có hỗ trợ chạy lại chương trình cho ip4 ko vậy ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.530275,
+         "id": "1168717",
+         "field_search": "question",
+         "question": "Cho em hỏi đt oppo neo5 của e nó cứ chạy chậm và bị đơ. Em muốn chạy chương trình hệ thống lại bên thegioididong có làm ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

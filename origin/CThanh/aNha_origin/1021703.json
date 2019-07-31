@@ -1,0 +1,801 @@
+{
+   "id_query": "1021703",
+   "total": 32895,
+   "total_current": 100,
+   "max_score": 125.790276,
+   "origin_question": "Cho e hỏi : hôm trước e có mua dt nokia bên mình. Ad ktra xem e mua dòng nokia gi giúp mình . 0937365105 or 0913712047 tại xài 2 số ko biết lúc mua dki số nào. Thánks",
+   "hits": [
+      {
+         "score": 67.45137,
+         "id": "1014310",
+         "field_search": "question",
+         "question": "Cho e hỏi bên ad ktra giùm e số dt 0937365105 mua dt nokia hiệu gì bên mình thế ạ. Tại e định mua bao da nhưng quên mã nokia . Thanks. Ktra giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.338165,
+         "id": "1143542",
+         "field_search": "question",
+         "question": "Cho e hỏi hiện tại bên mình có ốp lưng Nokia 5.1 plus không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.751225,
+         "id": "1158987",
+         "field_search": "question",
+         "question": "Cho e hỏi hôm trước e có mua bên mình chiếc a8 star thì cho e hỏi giờ máy bên mình còn k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.92813,
+         "id": "1139352",
+         "field_search": "question",
+         "question": "Chào bạn, Máy Nokia 3 mình mua hôm 17/11. Hôm nay mình có cuộc gọi đến mà nói bên kia không nghe được. Bạn xem giúp mình nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.64832,
+         "id": "1162540",
+         "field_search": "question",
+         "question": "Lúc trước mình có mua Nokia 6.1 Plus bên mình ở cn Q12, màn bị ố vàng, bên mình BH tại cn hay ở đâu vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.463089,
+         "id": "1010782",
+         "field_search": "question",
+         "question": "Máy tính e đã hết hạn bảo hành, giờ bị liệt 1 số phím. Cho e hỏi là bên mình có hỗ trợ kiểm tra và chuyển lên hãng giúp k ạ. Lúc trc mua máy tại tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.089806,
+         "id": "1163571",
+         "field_search": "question",
+         "question": "bên bạn còn bán dòng nokia 1280 ko bạn ? bán ở đâu ? mình cần mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.492744,
+         "id": "1000244",
+         "field_search": "question",
+         "question": "Cho e hỏi giấy bảo hành là bên tgdd dữ online hay sao tại lúc e mua dt k có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.293728,
+         "id": "1149455",
+         "field_search": "question",
+         "question": "cho em hỏi là hôm qua 11/2/2019 e có mua 1 điện thoại nokia 130 , nhưng không ưng ý nên nay em muốn đổi trả và mua lại mẫu nokia 150 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.246582,
+         "id": "915163",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi...micro laptop mình lúc thu dc lúc ko...cho hỏi no mic laptop mình co bị gi ko ạ...mình xài dòng máy asus x550cc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.962278,
+         "id": "1021502",
+         "field_search": "question",
+         "question": "cho mình hỏi root máy thì có còn đựoc bảo hành ko vậy?mình xài nokia 3 mua hôm 119 và còn bao hành 10tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.911114,
+         "id": "1138797",
+         "field_search": "question",
+         "question": " Cho e hỏi nếu mua máy hôm trước hôm sau đổi trả lấy dòng máy khác thì có bị mất phí ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.735518,
+         "id": "1164819",
+         "field_search": "question",
+         "question": "Xin chào, cho e hỏi bên mình có hỗ trợ mua lại điện thoại củ không ạ, đt này lúc trước e mua bên tgdd luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.723053,
+         "id": "1148467",
+         "field_search": "question",
+         "question": "Ad cho e hỏi tại sao điện thoại oppo neo 7 bị mất số. Trong khi đó ở nhật kí cuộc gọi thì vẫn còn lưu số điện thoại như trong danh bạ lúc trước ạ. Ad giúp e vs.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.474243,
+         "id": "1023230",
+         "field_search": "question",
+         "question": "Xin chào add. Lần trước em có mua máy tính. Add thử kiểm tra hộ e xem em đã mua máy gì đc ko ạ. Số đt e dùng đăng kí mua là 0984812704",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.363338,
+         "id": "1142346",
+         "field_search": "question",
+         "question": "thưa ad....hôm qua e có bị mất điện thoại itel 1508 plus (lúc trước mưa tgdd).số IMEI: IMEI: 351612082965143 ko biết ad có cách nào lấy lại dc ko ak,e di nh95 vị rrr mà kết quả(thiết bị khộng thể tiếp nhận)...thank mong ad dúp giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.338942,
+         "id": "994261",
+         "field_search": "question",
+         "question": "E muốn mua san phẩm nokia 3,e định mua trả góp mà e chi có giấy cmnn e có thể mua đc ko ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.294535,
+         "id": "1141402",
+         "field_search": "question",
+         "question": "Cho em hoi e mua cai dt nokia 2 duoc 3 ngay be sai ma sao may no nong qua troi. Chay thi cham rì ah. Neu e muon đoi cai dt khac duoc hk vay ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.923285,
+         "id": "1015522",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi là hiện tại điện thoại e lại hiển thị 2 số điện thoại của iMessage và FaceTime có cách nào để e xoắn đi một số kia ko ah ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.867418,
+         "id": "1010382",
+         "field_search": "question",
+         "question": " Mong ad giúp e ạ xem máy này mua từ đâu ạ e đc tặng nên ko biết may nay mua ở đâu  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.715605,
+         "id": "1163161",
+         "field_search": "question",
+         "question": "Mình mới mua máy Nokia 3.1 32g khoảng đc 15 ngày , giờ mình ko muốn sài dòng máy này nữa thì bên mình thu mua lại giá như thế nào ạ . Mình mua 2.930.000 bằng tiền mặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.658539,
+         "id": "1148294",
+         "field_search": "question",
+         "question": "Điện thoại nokia 5.1 plus mình mới mua bên TGDD 2 ngày trước mình có cần sạc 1 ngày 8 tiếng không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.626118,
+         "id": "1024492",
+         "field_search": "question",
+         "question": "Mình mua Nokia 3 giá 2.990.000 ngày 3/9 tại TGDĐ 3/2. Nay mình muốn bán lại để nâng cấp lên Nokia 5 thì bên TGDĐ thu mua lại bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.613152,
+         "id": "1007429",
+         "field_search": "question",
+         "question": "e mới mua 2 máy từ cửa hàng thế giới di động gần nhà, 1 loại là nokia 3 và 1 là nokia 5, e đã đọc các thông số về pin thì biết là cả 2 chênh nhau tầm hơn 300 mA, nhưng khi sử dụng thì cái nokia 3 tụt pin khá nhanh, nhất là khi bắt đầu dưới 20%, e đi tìm cục sạc có 2' mà pin đã tụt từ 20% xuống 6% vậy cho e hỏi do pin hay do máy vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.575172,
+         "id": "998744",
+         "field_search": "question",
+         "question": "E mới mua con nokia 216 hôm 306 bây h e mún đổi nokia150 có bù thêm tiền hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.54125,
+         "id": "1012182",
+         "field_search": "question",
+         "question": "Chào ad ạ ad cho e hỏi bên TGDD mình có màn kính của chiếc Nokia 5 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.474197,
+         "id": "1019080",
+         "field_search": "question",
+         "question": "Mình muốn mua 2 sim 4G. Mình coi số rồi không biết đặt hàng theo 2 số mình đã coi có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.434229,
+         "id": "1159279",
+         "field_search": "question",
+         "question": "Dt e cứ báo chặn cuộc gọi từ 1 số nhưng e xem trong danh bạ lại k có thông báo chặn thì lm như nào để số bên kia gọi đk ạk. E đang dùng a7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.429562,
+         "id": "997838",
+         "field_search": "question",
+         "question": "ktra dum e sdt 0975292961.con đc dán dt mien phí ko. e mua ss  a8 đc 1 nam r",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.327349,
+         "id": "1151129",
+         "field_search": "question",
+         "question": "Xin cho hỏi những số sim trên trang web của thegioididong.mình chọn số nào là số đó mình mua duoc phải ko? Chứ ở của hàng viettel mình chọn 1 số. Chưa chắc nó có. Có khi chon 2 3 số mà vẫn chưa mua duoc do ng khác mua rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.239902,
+         "id": "1151876",
+         "field_search": "question",
+         "question": "bạn ơi. mình có 1 máy nokia 3310. mua bên mình. mình đặt mật khẩu mà quên mất. không biết bên mình có mở khóa giúp mình được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.174942,
+         "id": "1139029",
+         "field_search": "question",
+         "question": " cho e hỏi dây sạc nokia của e bị đứt e muốn mua dây sạc mới thì lên mua loại nào và giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.059416,
+         "id": "1162225",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi.  E xài nokia 8.1 . E có làm rơi nên h e muốn thay màn hình vs chỉnh lại khung máy thì bên mình sửa trong bao lâu vs giá bao nhiêu để e chuẩn bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.033182,
+         "id": "1023198",
+         "field_search": "question",
+         "question": "qtv ơi bên thế giới di động có cho vay tiền mặt phải k ạ. cứ 1 2 ngày là có người gọi hỏi có muốn tham gia vay k. 2 hôm nay có số xxxx2888628 gọi e. cho e hỏi số này phải số của bên thế giới di động k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.0102,
+         "id": "1000391",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi, hồi tháng 4 e có mua 1 dt,j2 prime,ở dmx giờ e muốn bán lại ,bên ad có mua lại ko ah, nếu mà mua lại thì mua với giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.917084,
+         "id": "1139796",
+         "field_search": "question",
+         "question": " e hoi giờ e muốn mua DT trả góp ..Ad tư vấn giúp e dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.902525,
+         "id": "1164674",
+         "field_search": "question",
+         "question": "cho e hỏi chỗ mình có bán cục sạc  nokia 7plus ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.88249,
+         "id": "998552",
+         "field_search": "question",
+         "question": "cho mình hỏi chút. hôm trước mình có đặt đt 3310 bên mình. không biết nay đã có hàng chưa ạ. anh (chị) ktra giúp em. em cám ơn . Thiều thị thu. đt: 0914492202.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.605171,
+         "id": "830243",
+         "field_search": "question",
+         "question": " Ad cho e hỏi nokia lumia win8.1 vs laptop win10 có xài chung được 1 TK microsoft dc ko vậy?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.60508,
+         "id": "1138422",
+         "field_search": "question",
+         "question": " Cho e hỏi sao ooppo lúc đăng nhập game vào máy ko cập nhật đc số lưu trên gmail vậy ạ tại số e lưu trên đó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.60015,
+         "id": "877251",
+         "field_search": "question",
+         "question": "E ko nhớ máy tính mua dc 2 hay 3 nam. E muốn xem còn bảo hành ko thì ktra ntn ạ. Với lại bảo hành có bao gồm làm sạch máy ko ạ. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.521183,
+         "id": "860764",
+         "field_search": "question",
+         "question": "Số imei của máy e là 352003062417199 nhờ ad giúp e xem phải là máy chính hảng q.tế không hay máy lock mua code lên quốc tế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.450312,
+         "id": "1017296",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp em. Hôm 25/8 em có mua 1 đt Nokia 5 và được tặng kèm 1 gậy tự sướng. Nhưng tại hôm đó cửa hàng hết gậy tự sướng nên hẹn em hôm sau sẽ gọi đến lấy. Nhưng hôm nay vẫn chưa có. Ad kiểm tra giúp e. Sdt 0969916977",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.381836,
+         "id": "1014424",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi, số đt mình lưu trên sim nhưng khi lắp vào máy nokia 3 thì không hiển thị số đt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.320364,
+         "id": "1163082",
+         "field_search": "question",
+         "question": "Ad cho e hỏi thay mặt kính Nokia 3 có báo giá ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.27403,
+         "id": "994608",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua sim mobi big nhưng em ko có thời gian ra tgdd em đọc số cmnd rồi mua đc ko ah. tại lần trc e có mua đt ở tgdd nhưng ko mua simvới lại cho em hỏi cmnd của bạn em mấy lần trc có đki sim mobi big giờ muốn xóa mấy lần dki sim cũ đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.232105,
+         "id": "913250",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi tại sao e mới mua máy iphone 6 nguyên hộp hôm qua mà e ktra trên hệ thống tgian bảo hành của apple chỉ còn 1 tháng a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.230362,
+         "id": "1160065",
+         "field_search": "question",
+         "question": "cho e hỏi là, oppo f11 khi nào có hàng ở TGDD ạ ? e ko có cọc trước e định mua tại cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.220247,
+         "id": "1015002",
+         "field_search": "question",
+         "question": "mình có mua j7 pro tại thế giới di động .hôm trước mình có đánh rơi máy vào nước. thấy loa 1 số phần bị lỗi ko đc như trước. giờ mình muốn kiểm tra sản phẩm thì phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.198706,
+         "id": "1018332",
+         "field_search": "question",
+         "question": "cho e hỏi dt Nokia 6 màu trắng ở Địa chỉ Số 286 Tỉnh Lộ 835, X. Phước Lợi, H. Bến Lức, T. Long An còn hàng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.175766,
+         "id": "1140744",
+         "field_search": "question",
+         "question": "Cho e hỏi. Hôm nay e có lên trang của thegioididong để mua sim Viettel V90. Nhưng e có vào phần sim số để tìm nhưng ko có. V thegioididong có còn bán sim đó ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.13158,
+         "id": "1155033",
+         "field_search": "question",
+         "question": "cho mình hỏi hiện tại bên mình có còn kinh doanh dòng sản phẩm máy điện thoại nokia đen trắng không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.025455,
+         "id": "1135969",
+         "field_search": "question",
+         "question": "tầm giữa tháng trước e có mua 1 em nokia 3.1 bản 3g ram cho thằng e. bây h nó ko thích lắm và muốn chuyển sang  1 em xiami hơn giá tiền 1 chút có được ko ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.782633,
+         "id": "1016206",
+         "field_search": "question",
+         "question": "Cho e hõi e mua vivo 5s xài đc 2 tháng máy còn nguyên còn đũ phụ kiện sạc vậy bên tgdd có thu mua lại ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.744316,
+         "id": "944178",
+         "field_search": "question",
+         "question": "các bạn cho mình nhờ 1 tý dk k ạ hwa mjh mất 1 cái dt mà đến bh mjh biết là máy đã đăng xuất icloud 2 đã xđ đk mục tiêu nhưng bh e muốn nhờ ng nào xem hộ e để biết cái icoud lúc mấy h ai giúp dk e k ạ e sẽ có cẩm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.696102,
+         "id": "1149933",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua mobel rook 3 lúc chiều,nhưng ng nhà ko vừa ý ,mình định đổi sang nokia 150 thì tính như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.681175,
+         "id": "1157338",
+         "field_search": "question",
+         "question": "Mình có máy Nokia 6.1 plus mới mua bên bạn được 2 tháng bị treo như hình thì có được bảo hành ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.59554,
+         "id": "1162545",
+         "field_search": "question",
+         "question": "cho mình hỏi nokia 8.1 bên mình hiện tại ko áp dụng KM ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.531334,
+         "id": "1014680",
+         "field_search": "question",
+         "question": "e muốn mua nokia 5 mà hổng biết pin sử dụng bình thường được bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.517212,
+         "id": "1021506",
+         "field_search": "question",
+         "question": "E mới mua con dt tại điện máy xanh..mak xài k hài lòng muốn đem đổi trả.cho hỏi phải đem tới chổ mình mua hay tại chi nhánh tgdd nào kung dk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.509865,
+         "id": "1013266",
+         "field_search": "question",
+         "question": "Cho e hỏi là tai nghe của nokia 3 bị lỗi nghe 1 bên to 1 bên nhỏ mà máy e mua mới vậy bây giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.426443,
+         "id": "790139",
+         "field_search": "question",
+         "question": "a/c cho e hỏi, e đang dùng ipad 2 16G, mới mua ng khác, mà e bị Icloud cứ 1 phút hiện lên đăng nhập id, mà e ktra thì icloud tắt giờ e muốn đăng xuất phải lm sao or giảm hiện lên màn hình đăng nhập ID icloud ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.402273,
+         "id": "1001611",
+         "field_search": "question",
+         "question": "Mình mới mua Nokia 5 ở Thế giới di động, cho minh hỏi là tại sao khi có tin nhắn sms, tin nhắn zalo, mail... tại sao nó không hiện số 1-2-3 trên biểu tượng của của những ứng dụng này, mà nó chỉ hiện các biểu tượng bên góc trái trên cùng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.395668,
+         "id": "1013478",
+         "field_search": "question",
+         "question": "Cho e hỏi cách reset samsung galaxy tab e sm t561y và làm vậy có hại gi cho máy ko , máy y như lúc mới mua vạy phải ko ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.291988,
+         "id": "999104",
+         "field_search": "question",
+         "question": "Xin cho hỏi mình mới mua Nokia 230 tháng trước, vì lý do nào đó màn hình bị lỗi như thế này, không biết có được hỗ trợ bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.265951,
+         "id": "1022079",
+         "field_search": "question",
+         "question": "ad cho e hỏi sao e tải tệp văn bản trên mạng về mà mở không được.e xài nokia 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.244455,
+         "id": "922238",
+         "field_search": "question",
+         "question": " cho e hỏi là e mua lap nhưng không biết là trang nào có các ứng dụng an toan để tải về .ad chỉ giúp e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.231285,
+         "id": "1164594",
+         "field_search": "question",
+         "question": "Cho e hỏi bên mình còn bán pin cho điện thoại Nokia 2690 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.198793,
+         "id": "994673",
+         "field_search": "question",
+         "question": "Bên mình có mua laptop lại không bạn. Lúc trước mình mua laptop tại tgdd lun đó bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.15978,
+         "id": "1162129",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao máy nokia lumia 525 khi tải ứng dụng nó đề chữ: đang chờ xử lý mãi mà ko tải xuống đc; ứng dụng nào e tải cũng vậy ạ. Mong ad giúp cho ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.150637,
+         "id": "993105",
+         "field_search": "question",
+         "question": "Cho e hỏi, e học android dev, với lại sau này e cũng muốn tự phát triển lên ios dev, vậy e nên mua mac air hay mac pro ạ, e đang phân vân giữa 2 dòng máy này, và cũng ko biết cần mua mac có cấu hình ntn vì đó giờ e chưa dùng mac bao giờ ạ... E mong nhận được phản hồi sớm từ ad ạ... e cám ơn ad trước ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.108652,
+         "id": "992430",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi e mua oppo neo 9 vài ngày giờ e có việc nếu bán lại bên mình mua bao nhiêu ạ.thank you ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.041529,
+         "id": "1023008",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.. bên mình sắp tới có về Xiaomi Mix 2 ko .. ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.02633,
+         "id": "1136439",
+         "field_search": "question",
+         "question": "Đt nokia 3.1 e mua được 18 ngày đang sd thì mất nguồn. Vậy e có được bh 1 đổi 1 ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.016361,
+         "id": "1139510",
+         "field_search": "question",
+         "question": "Em muốn mua lại máy cũ chủ trước bảo mua ở tggd nhưng em ko biết kiểm tra ra sao mong tggd check giúp em với ( Số sêri 1 : 358573089493294 )( Seri 2 : 358572086923295)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.919939,
+         "id": "832914",
+         "field_search": "question",
+         "question": "Mình mới mua con này. số imei:352087076240051. nhờ ad check giúp mình ngày kích hoạt, các thông số xuất xứ, và có phải hàng chính hãng ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.89694,
+         "id": "1021434",
+         "field_search": "question",
+         "question": "Cho e hỏi, e mua sim 4g, nạp 50k để kích hoạt, sao hiên tại số tài khoản là 0đ ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.87706,
+         "id": "928129",
+         "field_search": "question",
+         "question": " E mới mua dt iPhone 5s hôm qua giờ có bán lại dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.842487,
+         "id": "1022471",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.  E mua bộ dây+ sạc đt tại tgdd . Dung 1 time kđưt hay bị gi cả.  Mà dây ko sạc dc nưa.  Thê h e lên đổi dây khác dc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.800678,
+         "id": "993135",
+         "field_search": "question",
+         "question": "Cho mình hỏi.  Em ở tỉnh,  muốn mua trả góp trong vòng 4 tháng ở TP. Hcm có dc ko,  thứ tục cần gì.  Lúc trước e có trả góp 6 tháng ở bên mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.688826,
+         "id": "1006053",
+         "field_search": "question",
+         "question": "e muốn đặt chiếc nokia 105 cũ ở chi nhánh của mình ở  Số 140 - 142, đường Lê Trọng Tấn, P. La Khê, Q. Hà Đông, Tp. Hà Nội  mà đặt trên mạng k thấy có tin nhắn mã xác nhận, làm ơn check giúp e xem ở đó còn máy k để e qua lấy ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.68681,
+         "id": "1001087",
+         "field_search": "question",
+         "question": "Shop cho e hỏi xíu ạ. Chuyện là e vừa mua con asus live nhưng khi khởi động xong thì đã có sẵn một số phần mềm như facebook, mess, insta, e đang hoang mang vì lúc mua điện thoại e đã đập hộp r. Ngta bảo là máy đã đc mặc định. Nhưng e vẫn thấy lo. Vậy cho e hỏi có phải là dòng asus đc mặc định như vậy ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.642258,
+         "id": "1021409",
+         "field_search": "question",
+         "question": "Đổi nokia 3 mới mua được 2 tháng lấy nokia 5 mới thì làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.553986,
+         "id": "1021307",
+         "field_search": "question",
+         "question": "AD ơi! E mới mua 1 máy nokia c5-00 nhưng tại sao máy của e ko vào ovi store (mục lưu trữ) đc vậy ạ! E nhấn vào thì nó \"Đang cài đặt\" xong thì chả có j xảy ra cả! E nhấn lần nữa thì vẫn như thế! Xin cho e biết lý do với AD! :( nếu sửa đc thì e ra thegioididong để e sửa ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.542559,
+         "id": "957069",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi tí ạ . Sao máy mình nhắn tin cho 1 số khác mà số khác đấy k nhận đc tin nhắn mà tin nhắn đó nó lại nhắn về máy mình vậy . Ad giúp mình với . Lúc trước icloud của mình có dùng 2 máy nhưng bây giờ có 1 máy thôi mọi người giúp mình với mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.52846,
+         "id": "1153867",
+         "field_search": "question",
+         "question": "chào bạn ! Mình mới mua Nokia 8.1, nhưng ko biết cách hiển thị danh bạ từ sim cũ, nhờ bạn chỉ giúp nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.5054,
+         "id": "1020172",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi bên tổng công ty của mình có chương trình quay số trúng thưởng nào không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.458342,
+         "id": "1017735",
+         "field_search": "question",
+         "question": "Trước mình có mua sim bùm xài chưa đc 1 năm. Giờ sim bị hư ko lên sóng được. Tgdd có làm lại cho minh dc ko. Sim số 01226755397",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.45266,
+         "id": "1006942",
+         "field_search": "question",
+         "question": "Mình mới mua máy nokia 5  nhưng không biết cách tắt 3G, nhờ các bạn hướng dẫn giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.437557,
+         "id": "1008399",
+         "field_search": "question",
+         "question": "Nokia 6500 Slide Silver E có cái đt nokia 6500s bị đứt dây màn hình, bên tgdđ có thay ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.375782,
+         "id": "1135455",
+         "field_search": "question",
+         "question": "hôm qua e có nhận đươc tư vứng online là có nhờ đặt hàng về 1 chiếc mobiistar x để mua trả góp về phú bài/thị xã hương thủy/ thừa thiên huế . a kia bảo là sẻ có ng gọi lại cho e mk mãi sao hôm nay e ko thấy ai gọi cho e hết. ko biết e đặt dc chưa nữa.ad xem giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.34754,
+         "id": "914535",
+         "field_search": "question",
+         "question": "e mới mua iphone 5s bên mình khoảng 3 tháng đã phải đi bảo hành loa ngoài 1 lần rồi. nhg bh loa ngoài lại k nghe được. ko biết bên mình có xem xét trường hợp này đổi máy giúp e ko ? máy dùng nhẹ nhàng và cẩn thận lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.31735,
+         "id": "1017710",
+         "field_search": "question",
+         "question": "Cho e hỏi, e muon mua may moi.ben tgdd co thu mua dt cũ ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.314434,
+         "id": "1159969",
+         "field_search": "question",
+         "question": "Cho e hỏi h e mua dt realme 3  ma k đặt trước có được tang tai nghe k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.312666,
+         "id": "1024144",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, trước mình có mua đt ở tgdd và sdt đăng kí mua hàng là số km nên sau 1 thời gian mình k dùng sdt đó nữa. Giờ mình muốn tìm lại sdt đó đc k? Tại zalo mình đăng kí bằng số đó luôn mà mình nhớ mật khẩu k nhớ sdt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.289154,
+         "id": "1013256",
+         "field_search": "question",
+         "question": "cho e hỏi bên cửa hàng mình có chính sách nhập lại máy cũ không ạ ? e mới mua đc 2 tháng .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.284454,
+         "id": "1022102",
+         "field_search": "question",
+         "question": "Tại sao lúc dt nói ko ngừoi ta ko nge là sao ad..e có tắt nguồc bật lại và tháo thẻ sim ra vệ sjnh và đầu âm thann mà vẫn chưa dc..ad có cách nào giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.275621,
+         "id": "822761",
+         "field_search": "question",
+         "question": "Cho e hỏi: E đang xài mac os, em muốn mua ứng dụng trong app store ,nhưng nó có giá 4.99$ ,bên công ty mình có bán loại thẻ nào để mua được ứng dụng đó không? .e cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.244667,
+         "id": "1022070",
+         "field_search": "question",
+         "question": "e mua sim bùm của thế giới di động số 01256036527 giá 250k, ưu đãi là nt nội mạng ko mất tiền nhưng sao vẫn trừ vào tk của e 200đ/tn( sim này e ko nt mấy ac nhé). ac xem lại giúp e nhé, e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

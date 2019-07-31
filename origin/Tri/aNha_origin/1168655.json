@@ -1,0 +1,801 @@
+{
+   "id_query": "1168655",
+   "total": 25309,
+   "total_current": 100,
+   "max_score": 63.721897,
+   "origin_question": "tầm giá 7 triệu có máy gì chạy chip snapdragon 845 k ad",
+   "hits": [
+      {
+         "score": 31.328833,
+         "id": "1162800",
+         "field_search": "question",
+         "question": "Mình cần tìm một chiếc điện thoại giá tầm 3 triệu 7 đảo lại và chip ít nhất phải bằng snapdragon 450",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.902443,
+         "id": "1004710",
+         "field_search": "question",
+         "question": "Tầm giá 5 triệu, máy nào có khả năng chơi được LIÊN QUÂN hoặc chip chạy mạnh tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.356827,
+         "id": "1161111",
+         "field_search": "question",
+         "question": "Trong tầm giá 7  13 triệu máy nào có camera sau tốt nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.13801,
+         "id": "998132",
+         "field_search": "question",
+         "question": "Ở mình có ipad nào ngon tầm 7 triệu k anh.nếu k có anh có thể gt cho một số máy tính bảg cùg tầm giá đc k ..cảm ơn a nhìu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.300962,
+         "id": "1152211",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại  tầm giá 7 triệu thì mua máy nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.657953,
+         "id": "1003110",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ. Chip snapdragon 625 8 nhân vois snapdragon 650 6 nhân thì con nào chơi game mượt mà chạy ổn định hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.251875,
+         "id": "1149325",
+         "field_search": "question",
+         "question": "có điện thoại nào giá tầm 4 triệu chơi game mượt k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.11036,
+         "id": "1167051",
+         "field_search": "question",
+         "question": "sao galaxy a70 với redmi note 7 pro dùng cùng chip Snapdragon 675 mà điểm antutu 2 máy này chênh lệch nhiều vậy ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.543695,
+         "id": "1145204",
+         "field_search": "question",
+         "question": " mua điện thoại gì trong tầm Giá 5 triệu xin hãy giúp mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.019455,
+         "id": "1150658",
+         "field_search": "question",
+         "question": "Ad ơi có điện thoại nào giá tầm 4 triệu đổ lại mà 4gb64 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.994797,
+         "id": "1022662",
+         "field_search": "question",
+         "question": "shop có máy samsung 99 nào giá tầm 45 triệu không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.75584,
+         "id": "1017298",
+         "field_search": "question",
+         "question": "snapdragon 801 với helio p20 thì chip nào mạnh hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.490376,
+         "id": "1134304",
+         "field_search": "question",
+         "question": "bạn có bán  Lenovo Zuk Edge viền siêu mỏng ấn tượng, RAM 6GB, Snapdragon 821 đang có giá 6 triệu không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.310696,
+         "id": "1134956",
+         "field_search": "question",
+         "question": "Mình muốn mua một chiếc máy giá tầm 5 triệu theo ad mình nên mua máy nào để có thể chơi game và xem phim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.265867,
+         "id": "793963",
+         "field_search": "question",
+         "question": " Em muốn mua 1 laptop tầm giá từ 7 triệu đáo lại thị hãng nào tốt ạ. add giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.245289,
+         "id": "1165741",
+         "field_search": "question",
+         "question": "Trong tầm giá 4 triệu máy nào chơi game khoẻ nhất?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.101757,
+         "id": "1149556",
+         "field_search": "question",
+         "question": "Mình  muốn  mua  latop giá  tầm  5  6 triệu chơi  gam tốt Có  thể  tư  vấn  cho mình  k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.968065,
+         "id": "1166124",
+         "field_search": "question",
+         "question": "Điện thoại trong tầm giá 4 triệu triệu chơi game tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.819157,
+         "id": "1157261",
+         "field_search": "question",
+         "question": "Tầm giá 13 triệu xuống thì điện thoại nào hiệu năng mạnh chơi game k giật láng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.806807,
+         "id": "1143209",
+         "field_search": "question",
+         "question": "Smart phone tầm giá dưới 4 triệu máy nào xài tốt vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.77392,
+         "id": "1143901",
+         "field_search": "question",
+         "question": "Ad tư vấn giúp em loại điện thoại giá tầm 6 triệu loại nào tốt nhất ạtạt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.66967,
+         "id": "1146301",
+         "field_search": "question",
+         "question": "Cho mình hỏi :  Mình dùng điện thoại oppo A3S Chíp Snapdragon 450 8 nhân 64-bit , Vậy mình có thể thay thế hoặc nâng cấp lên Chíp Snapdragon 845. đc không ạ . Mong Được Phản Hồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.636517,
+         "id": "774183",
+         "field_search": "question",
+         "question": " Cho em hỏi là laptop nào dùng tốt cho công việc kế toán, văn phòng mà giá rẻ tầm 7 triệu vậy admin ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.546396,
+         "id": "1146453",
+         "field_search": "question",
+         "question": " MediaTek Helio P25 và Qualcomm Snapdragon 450 chip nào mạnh và chơi game mượt ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.528576,
+         "id": "1010326",
+         "field_search": "question",
+         "question": "mà cho em hỏi các anh chị ạ !! em muốn mua trả góp điện thoại giá tầm từ 3 triệu đến 7 triệu /Ngoài cần những điều kiện trên 20 tuổi ,thì cóa cần đến nghề nghiệp trình độ gì không..em xin cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.489016,
+         "id": "1132275",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại nào tầm 5 triệu đến 7 triệu rưỡi chơi game mạnh vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.201586,
+         "id": "1143535",
+         "field_search": "question",
+         "question": "Snapdragon 630 voi helio p60 chip nao manh hon va chenh lech co nhieu ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.943785,
+         "id": "1153873",
+         "field_search": "question",
+         "question": "Không cần gì, chỉ cần pin trâu, cấu hình cao, chiến game tốt, thì trong tầm giá 3-6 triệu nên chọn mua máy nào.Xin tư vấn giúp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.81536,
+         "id": "1157890",
+         "field_search": "question",
+         "question": "Thay màn hình trong sam sung note 5 giá nhiêu ạ ? Tầm gần 1 triệu k nó có bị vỡ phía sau 1 chút nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.778625,
+         "id": "832030",
+         "field_search": "question",
+         "question": " Có máy laptop nào chạy tốt cho cấu hình game nặng không ạ. Giá khoảng 510 triệu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.638198,
+         "id": "996364",
+         "field_search": "question",
+         "question": "cho em hoi chip  Snapdragon 660  neu cham bang antutu thi dc bao nhieu dien vay a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.591862,
+         "id": "1164498",
+         "field_search": "question",
+         "question": "QTV ơi, trong tầm giá 7.5 triệu trở xuống thì máy nào chơi game tốt nhất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.509559,
+         "id": "804179",
+         "field_search": "question",
+         "question": " Laptop nào giá tầm 89 triệu chơi lol được vậy qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.412599,
+         "id": "1023791",
+         "field_search": "question",
+         "question": "Tư vấn giúp mình mua máy tính tầm dưới 7 triệu phục vụ học tập online cấp 3 và đại học",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.248915,
+         "id": "776783",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi . Tgdd mình có chạy lạy hệ điều hành Laptop k v ? Nếu có thì giá bao nhiêu/lần v ? Hiện e đang sài win 7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.979372,
+         "id": "1155717",
+         "field_search": "question",
+         "question": "em muốn mua laptop có thể sử dụng được phần mềm corel drew và gerber giá tầm 910 triệu thì mua máy nào được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.908978,
+         "id": "790437",
+         "field_search": "question",
+         "question": " Cho em hỏi những dòng laptop nào có khe sim 3G với tầm giá dưới 20 triệu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.897533,
+         "id": "1142048",
+         "field_search": "question",
+         "question": "snapdragon 660 , mediatek helio p60 vs Hisilicon kirin 710 chip nào xử lý nhanh hơn QTV giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.80334,
+         "id": "743709",
+         "field_search": "question",
+         "question": "Anh cho em hỏi laptop Lenovo mới giá khoảng 6 triệu nếu sử dụng để chơi game thì máy chạy tốt không? Hay cần phải nâng cấp những thứ gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.763299,
+         "id": "994626",
+         "field_search": "question",
+         "question": "Cho em hỏi nên mua máy điện thoại nào tầm giá 34 triệu để chơi game 3Q 360mobi tốt nhất vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.759558,
+         "id": "1159402",
+         "field_search": "question",
+         "question": "Cho em hỏi có điện thoại nào chơi game tốt mà tầm giá khoảng 34 triệu không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.642186,
+         "id": "756391",
+         "field_search": "question",
+         "question": "Em xin hỏi tư vấn mua laptop dell , cấu hình tốt chơi được GTA 5 , làm photoshop này nọ cũng ổn ,giá tầm 18 triệu đỗ lại , khổ nỗi em không biết chút gì về thông số máy tính cả, nhờ ad chỉ bảo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.641249,
+         "id": "1150836",
+         "field_search": "question",
+         "question": "Có chiếc điện thoại nào trong tầm giá 7 triệu mà chống nước , pin châu ,bộ nhớ phải là 64gb không ạ nhưng đặc biệt ram phải là 4gb trở lên và không phải là Oppo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.532377,
+         "id": "774382",
+         "field_search": "question",
+         "question": " Có laptop nào phục vụ việc chơi game tốt mà giá dưới 7 triệu không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.400081,
+         "id": "1142943",
+         "field_search": "question",
+         "question": "Cho mình hỏi là sử dụng điện thoại có chip Snapdragon 810 thì máy có mau nóng không ạ? Khi chơi game có dung lượng lớn thì có gây nóng máy quá mức và giật lag điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.376029,
+         "id": "1141651",
+         "field_search": "question",
+         "question": "Tầm giá từ 10 đến 13 triệu nên mua máy loại nào tốt nhất để chơi game, đặc biệt là game Pubg.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.155268,
+         "id": "1139837",
+         "field_search": "question",
+         "question": " cho mình hỏi với tầm mức giá từ 56 triệu thì nên dùng máy nào tốt nhất?Hiện tại mình đang dùng Samsung ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.119474,
+         "id": "887012",
+         "field_search": "question",
+         "question": " Với giá tầm 10 12 tr có máy nào chơi lol vs dota tốt k QTV ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.048971,
+         "id": "959469",
+         "field_search": "question",
+         "question": "cho em hỏi có laptop nào từ 6-9 triệu có thông số như ram:4Gb ram cpu :2,5GHZ, Card thì gtx 940 gì đấy Chip thì trên i5 3k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.006327,
+         "id": "763612",
+         "field_search": "question",
+         "question": " Có laptop chạy chip CPU của AMD không ạ? Em cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.911735,
+         "id": "1150819",
+         "field_search": "question",
+         "question": "TGDĐ có thể tư vấn chi tiết về 2 chiếc sản phẩm Readme C1 và Vsmart joy 1 . Giữa 2 chiếc máy có cùng tầm giá :* Readme C1 : Snapdragon 450, Ram 2 - Rom 16* Vsmart joy 1: Snapdragon 435, Ram 3-Rom 32Thì 2 máy này, máy nào chơi game tốt hơn ở mức đồ hoạ trung bình ( Không chơi Pubg). 2 máy máy này, máy nào quay lại màn hình ổn định hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.8590145,
+         "id": "997449",
+         "field_search": "question",
+         "question": "Cho em hỏi có máy Dell nào tầm 10 đến 11 triệu không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.796585,
+         "id": "986714",
+         "field_search": "question",
+         "question": "giới thiệu giúp em điện thoại tầm trung cam selfie đẹp với ạ, giá 6 triệu trở xuống",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.7829685,
+         "id": "1148844",
+         "field_search": "question",
+         "question": "cho em hỏi xiaomi redmi note 7 đã có hàng chưa ạ. tầm giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.664684,
+         "id": "1156016",
+         "field_search": "question",
+         "question": "Xin hỏi điện thoại nào chụp hình đẹp như oppo f9 cũng tầm giá 89 triệu . Cảm ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.621886,
+         "id": "1013376",
+         "field_search": "question",
+         "question": "Nếu có tầm 3 đến 4 triệu thì em nên mua điện thoại gì có camera nét một chút và có bộ nhớ tốt ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.621298,
+         "id": "1135717",
+         "field_search": "question",
+         "question": "Ad cho hỏi e muốn chơi fifa online 4 với liên minh huyền thoại và nếu có thể thì cả pupg nữa cho e hỏi trong tầm giá 10-20 triệu có nhũng máy nào có thể đáp ứng được yêu vầu này không ạMong được ad giải đáp sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.591295,
+         "id": "762218",
+         "field_search": "question",
+         "question": " Cho em hỏi thế giới di động có laptop chạy chip AMD không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.583916,
+         "id": "1009134",
+         "field_search": "question",
+         "question": "sao lãi xuất 0 mà sao xem cái điện thoại sony sáu 7 tháng chênh lệnh với giá trả thẳng tới gần 4 triệu thế AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.5083685,
+         "id": "1140378",
+         "field_search": "question",
+         "question": "cho mình hỏi có laptop nào chạy tốt autocads và etabs mà có giá từ 10 triệu trở lại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.306671,
+         "id": "877925",
+         "field_search": "question",
+         "question": " a ơi em có nhu cầu mua máy giá tầm 12 triệu yêu cầu đồ họa vì e phải xài các phần mềm như cad nhiềua tư vấn giúp e cái ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.291759,
+         "id": "1022194",
+         "field_search": "question",
+         "question": "Em lớp 12 cần tìm máy tính phục vụ việc học tập online và sau này học đại học giá dưới 7 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.254232,
+         "id": "840093",
+         "field_search": "question",
+         "question": " các quản trị viên tư vấn giúp em vài loại laptop có thể chơi game fifa online 3 mượt có giá tầm 15,5 triệu trỡ xuống ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.209003,
+         "id": "899983",
+         "field_search": "question",
+         "question": " Cho hỏi hiệu suất chip Intel thế hệ 7 KabyLake so với chip Intel thế hệ 6 là như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.199154,
+         "id": "1163353",
+         "field_search": "question",
+         "question": "Cho mình hỏi thế giới di động nâng chip i3 sang i5 dòng máy HP thì tầm bao nhiêu ? Mình cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.152677,
+         "id": "887780",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi có lap nào tầm 6 triệu mà chơi liên minh cf được không ạ, tư vấn giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.145221,
+         "id": "929742",
+         "field_search": "question",
+         "question": " Admin cho em hỏi trong tầm giá 46 triệu thì có laptop nào hổ trợ chơi game đồ họa ở mức trung bình khá không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.143397,
+         "id": "839595",
+         "field_search": "question",
+         "question": " Cho em hỏi có dòng laptop nào chơi CF được không em cần 1 máy tầm 8 triệu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.135742,
+         "id": "953387",
+         "field_search": "question",
+         "question": "Anh cho em hỏi, hiện giờ e có 7 triệu muốn mua con zenfone 3 ze552KL mà trong khi giá của nó là 8990000. vậy trong 15 ngày nữa e có thể đưa thêm 2tr mà k cần trả góp đc k a..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.116916,
+         "id": "1134135",
+         "field_search": "question",
+         "question": "cho em hỏi là dòng máy xiaomi redmi note 6 pro vs loại máy xiaomi redmi note 5 thì nên chọn máy nào để chơi game với tầm giá hơn 5 triệu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.07136,
+         "id": "993088",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn mua một chiếc điện thoại có giá tầm  3,5 triệu có dung lượng pin lớn một chút   thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.052907,
+         "id": "1009699",
+         "field_search": "question",
+         "question": "giờ em muốn tìm máy để chơi game vậy tầm giá 6 triệu thì em nên dùng mày nào tốt nhất mong anh chị tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.950792,
+         "id": "888083",
+         "field_search": "question",
+         "question": " Ad cho em hỏiE muốn mua 1 lap mà có thể chơi mượt game Fifa thì mua loại nào và Tầm 10 triệu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.944781,
+         "id": "1156124",
+         "field_search": "question",
+         "question": "Em muốn bán lại máy a7 2017 không hỏng gì cả . Định giá tầm bao nhiêu z ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.907457,
+         "id": "1023062",
+         "field_search": "question",
+         "question": "Mình là sinh viên đang học xây dựng? Muốn mua laptop để học thì nên mua loại nào tầm giá từ 1015,5 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.866058,
+         "id": "1138543",
+         "field_search": "question",
+         "question": " Có điện thoại nào chip mạnh giá rẻ với pin trâu không? ..................................... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.849669,
+         "id": "880068",
+         "field_search": "question",
+         "question": "Em mới mua Dell Inspiron 5559 i5 6200U/4GB/500GB/Win10/Office365 nhưng máy chạy rất nóng. Em chơi lol đc tầm 10 phút thì máy tắt (chắc do nóng quá) nên phải dùng đế tản nhiệt. Máy vẫn chạy đc nhưng vẫn rất nóng ạ. Cho e hỏi máy e có lỗi gì k hay dòng máy này như vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.7935095,
+         "id": "1145219",
+         "field_search": "question",
+         "question": " Xin hỏi máy dùng chip 425 và chip 7870 máy nào có hiệu năng cao hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.788971,
+         "id": "1138811",
+         "field_search": "question",
+         "question": " Nên chọn loại smartphone gì giá tầm trung mà cấu hình ok ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.745488,
+         "id": "1005298",
+         "field_search": "question",
+         "question": "Cho e hỏi có laptop nào chơi được lmht mà giá tầm 6tr gì đó Ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.667791,
+         "id": "1158410",
+         "field_search": "question",
+         "question": "Admin cho em hỏi xiaomi redmi note 7 ra ở thành phố tuy hoà tầm giá nhiêu vậy ạ giá gốc nhé admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.66281,
+         "id": "997054",
+         "field_search": "question",
+         "question": "cho e hỏi là e cần mua 1 chiếc điện thoại với giá tầm 6 triệu. e đang phân vân giữa samsung galaxy j7 prime và HTC 10 evo. ad tư vấn dùm e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.660736,
+         "id": "993706",
+         "field_search": "question",
+         "question": "Xin hỏi, mình muốn mua trả góp 1 điện thoại tầm 7 triệu, góp trong vòng 1 năm. Vậy thì mỗi tháng mình phải góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.647568,
+         "id": "757937",
+         "field_search": "question",
+         "question": "  Mình muốn mua 1 con iPad tầm 5 triệu. Máy nào thích hợp nhất ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.610721,
+         "id": "904158",
+         "field_search": "question",
+         "question": " Hiện giờ nếu mình muốn mua một chiếc dt chơi các game nặng được vs giá từ 7 triệu trở xuống thì máy nào là tốt nhất ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.594094,
+         "id": "1147121",
+         "field_search": "question",
+         "question": " Mua san pham trị giá 4 triệu. E quẹt the tin dung 2 triệu. Còn 2 triệu e trả tiền mặt dc không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.56762,
+         "id": "802360",
+         "field_search": "question",
+         "question": "Mình muốn mua máy từ 9-12 triệu . Máy core i5 , đáp ứng chơi LOL và làm Phim như Corel 7 hoặc 1 số game tầm 3 4G 3D thì nên chọn máy nào , Ưu tiên Dell hoặc ASUS càng tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.515572,
+         "id": "789796",
+         "field_search": "question",
+         "question": " Vì sao Samsung Galaxy lên Facebook chạy chậm có cần cài đặt hay chỉnh sửa gì k? Mong ad trả lời mình sớm.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.478336,
+         "id": "1165534",
+         "field_search": "question",
+         "question": "Qualcomm Snapdragon 450 chiến game pubg max setting đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.443474,
+         "id": "1012956",
+         "field_search": "question",
+         "question": "AD mình muốn mua một chiếc điện thoại  từ 5 đem 7 triệu thì mua máy nào chơi game tốt và màn hình nhỏ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.38577,
+         "id": "996242",
+         "field_search": "question",
+         "question": "cho em hỏi với 7 triệu trở lại em muốn tìm 1 máy chỉ để chụp ảnh, sefie, lướt facebook không cần hiệu năng quá cao nhưng sử dụng được tầm 3-4 năm nữa thì nên chọn máy nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.370035,
+         "id": "1016335",
+         "field_search": "question",
+         "question": "nokia 6 vs sony Xperia Xa1 cai nao choi game nang tot hon, camera dep hon, chip xu li helio p20 vs Snapdragon 430 thi cai nao manh hon, tiet kiem pin cung nhu choi game nang tot hon.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.3681965,
+         "id": "1010772",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi là chip A8 bằng với chip Exynos nào vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.357514,
+         "id": "1015276",
+         "field_search": "question",
+         "question": "Đt nào giá tầm 5tr đến 6 tr choi game nặng mà k lag k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.314297,
+         "id": "1018330",
+         "field_search": "question",
+         "question": "Cho mình hỏi trong tầm giá 10tr có loại đt nào màn hình vô cực k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.305036,
+         "id": "1137947",
+         "field_search": "question",
+         "question": "Cho mình hỏi chút mình muốn mua 1 máy điện thoại tầm 5 triệu 500 .mà mình lại có thẻ thanh toán của .thấy nhân viên của   home credit nói là mua máy dưới 10 triệu đồng là được giảm gần 1 triệu đồng có đúng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.292253,
+         "id": "996605",
+         "field_search": "question",
+         "question": "Cho em hỏi : Em cần mua 1 laptop tầm 15 triệu đổ lại có card rời ,đa nhiệm tốt, pin tốt , chạy tốt phần mềm CAD ,LOL, hiệu năng ổn và bảo hành tốt ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.288105,
+         "id": "1152975",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại samsung có chức năng NFC tầm 6 8 triệu thì bên mình có những dòng máy nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.265326,
+         "id": "994842",
+         "field_search": "question",
+         "question": " Admin tư vấn cho mình cái, điện thoại tầm giá 4 đến 5 triệu nên mua con nào, so sánh các hãng giúp mình nha? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

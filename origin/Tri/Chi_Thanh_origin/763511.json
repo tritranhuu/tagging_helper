@@ -1,0 +1,801 @@
+{
+   "id_query": "763511",
+   "total": 31810,
+   "total_current": 100,
+   "max_score": 110.2175,
+   "origin_question": "Vì sao iPhone 4S của mình không mở màn hình được trong khi nó vẫn còn pin  không sử dụng được nút nguồn và nút home chỉ sử dụng được nút âm lượng nhưng màn hình vẫn tối.",
+   "hits": [
+      {
+         "score": 54.807022,
+         "id": "1142412",
+         "field_search": "question",
+         "question": "Tại sao oppo neo 7 của em đang xài thì bị tối đen màn hình,bấm nút nguồn thì không lên, hiện màn hình tím,nút home thì nóng lên dù không sử dụng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.742287,
+         "id": "856969",
+         "field_search": "question",
+         "question": "Iphone của em. Sao cứ từ 30 giây đến 1 phút thì lại bị đơ, không sử dụng được màn hình cảm ứng, trong khi các nút cứng vẫn sử dụng được. E đã khởi động lại nhưng vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.265636,
+         "id": "1016342",
+         "field_search": "question",
+         "question": "Nút home note 5 vẫn xài để mở dấu vân tay bình thường nhưng ấn sử dụng thì không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.318863,
+         "id": "780011",
+         "field_search": "question",
+         "question": "Cho em hỏi..em dùng iphone 4s, lúc em tắt nguồn và mở lên lại thì màn hình của em không lướt để mở khóa được vậy là sao, những nút home vẫn hoạt động bình thường nhờ tgdd trả lời dùm em.em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.06915,
+         "id": "919185",
+         "field_search": "question",
+         "question": " Nút home iPhone 5s thấy có sử dụng dấu vân tay được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.328384,
+         "id": "1165093",
+         "field_search": "question",
+         "question": "Điện thoại huawei nova 3i em mua ở tgdd được 3 tháng. Tối nay e đang  sử dụng thì đột nhiên bị treo đen xì màn hình. bấm nút nguồn + tăng giảm âm để tắt nguồn rồi bật lại thì chỉ thấy màn hơi sáng 1 chút nhưng vẫn bị treo xì đen màn hình. e cắm sạc 30p nhưng vẫn ko có gì thay đổi. cho e hỏi nguyên nhân là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.226856,
+         "id": "986331",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone của em là iPhone 6, chạy Ios 10.3.1, máy lúc trưa xài bình thường nhưng bây giờ mở không lên, em dùng thử cách ấn đồng thời nút nguồn và nút home, ấn giữ nút nguồn vẫn không được, đụng vào thì nút home rất nóng, thế em phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.071293,
+         "id": "1152772",
+         "field_search": "question",
+         "question": "Cho e hỏi e dùng samsung galaxy J7 mà nút nguồn tăng giảm âm lượng với ba nút đa nhiệm không dùng được thì phải làm sao ạ chỉ có tháo pin ra và cài vào lại bật nguồn lên mới chợ được nhưng vẫn không dùng được mấy nút đó thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.01145,
+         "id": "996805",
+         "field_search": "question",
+         "question": "Em xài Samsung j7 , nay em bị mắc mưa nhưng không lâu , về nhà thì loa rè và nút nguồn không sử dụng được , vì tại sao nút nguồn bị vấn đề thế ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.988544,
+         "id": "932181",
+         "field_search": "question",
+         "question": "Mình đang dùng Iphone 4 CDMA, nhưng âm thanh lại bị mất, chỉnh bằng nút âm lượng thì không hiện lên thanh âm lượng, vào cài đặt âm lượng thì thấy vẫn để âm lượng mức to nhất, nhưng khi chơi game, nghe nhạc thì chả nghe được gì. Loa thì cũng kiểm tra không hư hỏng gì (khi khóa màn hình rồi mở lại thì vẫn nghe được nhạc nền trong game, được tí thì lại tắt). Vậy thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.952255,
+         "id": "867162",
+         "field_search": "question",
+         "question": "Chào bạn. Mình đang dùng điện thoại iphone. Nhưng không hiểu sao đang dùng thì màn hình bị tối đen, k sáng lên được nữa, nhưng bin thù vẫn còn đầy. Sau đó mình có bật nút nguồn nhưng nó vẫn không lên được. Mình lấy máy khác gọi tới thử thì máy vẫn run, nhưng màn hình thì không sáng. Không biết máy mình bị gì ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.84723,
+         "id": "821151",
+         "field_search": "question",
+         "question": " Vui lòng chỉ mình làm cách nào để chụp hình bằng nút nguồn hay nút tăng giảm âm lượng của điện thoại iPhone. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.833477,
+         "id": "1003894",
+         "field_search": "question",
+         "question": "Điện thoại em đang dùng là lenovo a2010   máy em tự nhiên đơ màn hình ra chỉ bấm đc nút bật tắt máy và nút tăng giảm âm lượng còn lại nút home hay nút back với cả màn hình đều không chạm hay bấm gì đc mong sự góp ý và trợ giúp em sửa lỗi này !??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.689045,
+         "id": "1017627",
+         "field_search": "question",
+         "question": "Em dùng htc m8...khi sử dụng nút nguồn không dùng được và bị loạn âm lượng..muốn reset lại máy lại bị dừng cài đặt..cho hỏi bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.244514,
+         "id": "1137085",
+         "field_search": "question",
+         "question": "Mình đang xài Samsung galaxy J7+, đột nhiên màn hình mở không lên.Tối qua trước khi ngủ thì mình đi sạc máy,  tầm một lúc lâu sau mình xem đầy pin chưa thì mở màn hình không được. Đến giờ điện thoại vẫn còn hiện đèn màu cam sau sạu khi mình rút giây sạc ra Mình đã thử nhấn giữ nút nguồn nhưng vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.13689,
+         "id": "791975",
+         "field_search": "question",
+         "question": "Iphone 5 của em mới bị rớt và bị đơ màn hình nhưng nút home ẩn vẫn nhấn và di chuyển được, cho em hỏi máy em bị gì ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.746704,
+         "id": "796341",
+         "field_search": "question",
+         "question": " Màn hình SamSung Galaxy Tab S của mình bị đơ. Dù có giữ lâu nút nguồn máy vẫn không tắt và khởi động lại được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.678066,
+         "id": "824808",
+         "field_search": "question",
+         "question": "mình lỡ tắt nguồn iphone 5s ròi mở nguồn lên lại thì iphone 5s bị treo táo....mình có thử nhấn nút home và nút ngồn nhưng nó vẫn bị treo táothì mình phải làm sao😢😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.647198,
+         "id": "938480",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cái iphone 5 của em chỉ vào được camera còn vào các ứng dụng khâc gì không được về màng hình chính cũng không được, nút home cũng sài không được, tắt nguồn cũng không luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.42024,
+         "id": "1142198",
+         "field_search": "question",
+         "question": "mình mới mua một chiếc điện thoại IPHONE 4s bên bản quốc tế mấy hôm trước mình vẫn sài bình thường.lúc tối hôm qua mình cũng đem ra bấm vẫn còn 84% pin mình lại đem cất vào tủ sáng nay mình lại đem ra bấm thì màn hình không lên bấm nút nguồn cũng không được mình coi trên mạng có hướng dẫn là bấm giữ cả hai nút mở và nút nguồn cho tới khi hiện lên hình logo mà mình bấm giữ mấy phút cũng không thấy lên vậy cho mình hỏi máy mình bị lỗi gì có khắc phục được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.292385,
+         "id": "1145498",
+         "field_search": "question",
+         "question": "Máy tính bảng android của em chỉ có mỗi nút nguồn, không có phím âm lượng và phím home, vậy làm sao để hard reset nó.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.21609,
+         "id": "1150235",
+         "field_search": "question",
+         "question": "điện thoại htc one m8 của e Khi e đang sạc và đèn sáng báo pin vào như bình thường nhưng sau 2 giờ sạc e rút phích cắm.Mặc dù đã rút dây ra , đèn vẫn sángko tắt nguồn được Sử dụng các nút nguồn + giảm âm lượng cũng không hoạt động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.185135,
+         "id": "758513",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn cũng không lên, nút home thì bị hư rồi, giờ làm cách nào cho máy mở lên được à? Ở tgdd có sửa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.103558,
+         "id": "1133384",
+         "field_search": "question",
+         "question": "ip6 em tự dưng bật 4g xong vào zalo cái nó đơ màn hình chuyển thành hình nên cơ bản bị mờ, chỉ dùng được nút home ảo nhưng không về màn hình chính hay tắt ứng dụng được, xin giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.011433,
+         "id": "1018440",
+         "field_search": "question",
+         "question": "điện thoại của e là oppo r831. em mở nguồn lên thì nó chỉ rung rồi hiện chữ oppo. nó có hiện recovery mode, em đã bấm nút nguồn và nút tăng âm lượng nhưng nó lại hiện lên chữ factory mode. em bấm nút nguồn và nút giảm âm lượng thì nó lại hiện recovery mode. em muốn nghe cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.995533,
+         "id": "758541",
+         "field_search": "question",
+         "question": "QTV cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn cũng không lên, nút Home bị hư rồi, giờ làm cách nào cho máy mở lên được ạ? Ở TGDD có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.75281,
+         "id": "790103",
+         "field_search": "question",
+         "question": "Mình muốn trở về màn hình chính khi đang sử dụng các chương trình khác(khong phải bấm nút home) thì phải làm sao mình xài Samsung J7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.35745,
+         "id": "922562",
+         "field_search": "question",
+         "question": " Cho e hỏi tắt âm chụp hình iPhone 6 thì làm sao? E đã thử kéo nút gần nút âm lượng xuống mà chụp hình vẫn nghe tiếng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.234077,
+         "id": "1008816",
+         "field_search": "question",
+         "question": "E đang sử dụng sony Z2 dc vài tháng, bây giờ e vô game nào nó cũng bị đơ màn hình, e cũng sử dụng cách bấm nút nguồn với + âm lượng để rs. Vô lại game nó cứ như v mãi. Giúp e khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.706154,
+         "id": "758542",
+         "field_search": "question",
+         "question": "QTV cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn lên cũng không lên, nút Home thì bị hư rồi, giờ làm cách nào cho máy mở lên được ạ? Ở TGDD có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.534992,
+         "id": "1147407",
+         "field_search": "question",
+         "question": "Cho mk hỏi máy tablet của mình bị đơ màn hình cảm ứng. Mk thử ấn nút nguồn + nút giảm âm lượng nhưng ko đc. Mk phải làm thế nào bh??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.466072,
+         "id": "1017053",
+         "field_search": "question",
+         "question": "Đt của e hay bj tắt nguồn .mà khởi động lần k dx.bừa ra tgdd mở lên bằng phím giảm âm lượng,nút giữa và nút nguồn mới lên.h vẫn hay bj z với nó hay văn ra ứng dụng rồi chạy chứ samsung lại và trò lần bt.z là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.094357,
+         "id": "1148968",
+         "field_search": "question",
+         "question": "Cái máy lenovo yoga tablet 2 của mình k cắm sạc mà nút nguồn vẫn sáng , khi mình ấn nút nguồn thì k lên màn hình , mình đè nút nguồn khoảng 1' mà vẫn k lên . Mình thử sạc khoảng 15-30' r thử đề nút nguồn mà mấy vẫn k lên . Mong ad giúp đỡ ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.768925,
+         "id": "744428",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 4s của em vẫn còn pin nhưng em không mở lên được sạc pin cắm vào nó kêu nhưng không sáng màn hình, có người gọi đến thì nó không kêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.72265,
+         "id": "1165050",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung j7 prime. Mình quên mật khẩu màn hình. Ấn nút nguồn + giảm âm+ home để tắt như chỉ dẫn. Thấy ra màn hình xanh hiện downloading... lad bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.62227,
+         "id": "839662",
+         "field_search": "question",
+         "question": " Khi thay nút home iphone 5s mới thì cảm biến vân tay có sử dụng dược không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.474174,
+         "id": "996960",
+         "field_search": "question",
+         "question": "Chào ad, cho em hỏi bên mình có bán sim  beeline không vậy?Cái nút mở nguồn và nút âm lượng của ốp sau đt máy oppo r1001 nó bị hư rồi, như thế có thay được không ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.473904,
+         "id": "987735",
+         "field_search": "question",
+         "question": "cho mình hỏi là : ip7plus mình sư dụng lâu lâu gặp tình trạg là nó hiện âm lượng lên màn hình nhưng mình không nhấn nút volume (+) hay (-). vậy có bị lỗi gì không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.404247,
+         "id": "1010774",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính bảng Samsung Galaxy Tab 4 10.1 nhưng mà khi sử dụng cạn pin tắt nguồn rồi sạc đến 100% nhưng mà khi mở lên nó chỉ hiện logo sản phẩm và chờ hơn 3 tiếng máy vẫn chưa vào màn hình chính. Mình đã thử Hard Reset nhưng máy vẫn không lên! Mong ad có thể giúp đỡ mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.132793,
+         "id": "822505",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone của em em tắt màn hình để không sử dụng mà sao nó vẫn tụt pin vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.909348,
+         "id": "752187",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6+ IOS 8.1.2. Cho mình hỏi có cách nào mở khóa bằng Touch ID mà không phải bấm nguồn cho màn hình sáng lên không ạ. Tức là để tay vào nút home là nhận touch id mở khóa luôn chứ không phải bấm sáng màn hình rồi mới để tay vào nút home.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.813663,
+         "id": "760717",
+         "field_search": "question",
+         "question": "Cho em hỏi wifi iPhone 4s của em không hiểu sao không sử dụng được, nút bật tắt bị mờ, biểu tượng wifi ở trung tâm kiểm soát tối đen, phải xử lý làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.72077,
+         "id": "1009532",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang sử dụng galaxy s7 edge mà khi bấm nút nguồn màn hình k khóa liền mà phải tới khoảng 1 phút sau mới khóa, còn khi nghe điện thoại thì màn hình sau khi tối không tự động sáng lại trong khi đã bật cảm biến rồi thì xử lý sao ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.719692,
+         "id": "851948",
+         "field_search": "question",
+         "question": "bạn cho hỏi tính năng đặt ngón tay lên nút home để mở khóa Iphone 5s có sử dụng được không,va kick hoạt như thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.538998,
+         "id": "1011681",
+         "field_search": "question",
+         "question": "thay màn hình iphone 5s có thay luôn nút home không AD? tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.526028,
+         "id": "905862",
+         "field_search": "question",
+         "question": "tại sao bấm phím f2 f3 ... để giảm tăng âm lượng hay chỉnh sáng tối màn hình không được máy em loại dell ạ và sao chuột không dây của em đang sử dụng bình thường rồi tự nhiên không dùng được nữa!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.486706,
+         "id": "1141563",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi ạ.Em là học sinh cuối cấp nên máy tính như cánh tay phải của em. Tối qua e vẫn dùng máy học được nhưng tối nay e bật lên thì màn hình nó không lên trong khi nút nguồn sáng. Quạt gió thì chạy đc 4s xong ngừng. Vậy lí do tại sao ạ?  Có cách nào khắc phục không ạ? Lap em đang dùng là Acer",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.38183,
+         "id": "1158613",
+         "field_search": "question",
+         "question": "Iphone 6 plus nút home vẫn nhận nhưng touch id không nhận có phải đã hỏng nút home không ạ. Nếu hỏng có thể thay mới được không ạ. Và chi phí la bao nhiêu ạ gửi ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.303684,
+         "id": "1141408",
+         "field_search": "question",
+         "question": "mình đang sử dung ip6 lus dt mình xàihêt pin nên tắc ngồn ban dầu cắm sạc mình thây vô pin nhưng sạc tới sang thì k dc phần trăm nào mình đã thử ấn nút nguồn và nút home nhưng vẫn k dc. giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.156967,
+         "id": "756313",
+         "field_search": "question",
+         "question": " Máy iPhone của em  tự nhiên không có tiếng là sao ? Ấn nút âm lượng cũng không được.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.1567,
+         "id": "1163392",
+         "field_search": "question",
+         "question": "máy samsung galaxy note 10.1 của mình ấn khởi động lại ko lên nguồn nữa ,mà ấn giữ nút nguồn nó kêu như lên nguồn mà màn hình vẫn đen và án màn hình nó kêu thì ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.092987,
+         "id": "997563",
+         "field_search": "question",
+         "question": "laptop asus bị lỗi bên google chrome, cốc cốc được 1 tuần rồi. hôm nay em bật lên thì sụp nguồn luôn (màn hình tối đen, nhưng nút nguồn vẫn sáng). Cho em hỏi nếu đem tới TGDD sữa trong 1 hôm được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.087543,
+         "id": "802900",
+         "field_search": "question",
+         "question": "Em đang dùng ip5, đang chạy ứng dụng ấn nút home để thoát ra thì không thoát được, khi ấn khoá màn hình thì không bật lên được nữa. Điện thoại của em như thế là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.051632,
+         "id": "994335",
+         "field_search": "question",
+         "question": "giup em vs may iphone đang dung thì bi đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.88483,
+         "id": "1153649",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại oppo neo 7. Khi sạc đầy rồi có tự mwor nguồn không ạ?. và điện thoại em bị hư nút nguồn rồi có cách nào mở lên mà ko sử dụng nút nguồn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.85792,
+         "id": "995686",
+         "field_search": "question",
+         "question": "mình dùng ip5 hị hỏng nút nguồn h tắt nguồn sạc vẫn vào điện nhưng không lên màn hình thì bị gì hả add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.852837,
+         "id": "782625",
+         "field_search": "question",
+         "question": "Mình đang dùng IPhone 5. Khi khóa màn hình. bật nút nguồn lên thì màn hình chỉ sáng mờ mờ đen, ko hiển thị ra giao diện chính của máy là sao. Mặc dù gọi đến hay nhắn tin đều nghe được chuông, Và lưu chụp màn hình thì vẫn đc. Lâu lâu những lúc khóa màn hình thì bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.759293,
+         "id": "1143866",
+         "field_search": "question",
+         "question": "Máy J7+ tự nhiên đang sài thì hư nút home. Em bấm hoài ko lên mà mỗi lần mở màn hình khóa thì nó vẫn ghi là bạn hãy kiểm tra lại dấu vân tay các kiểu. Em cx lau sạch nút home mà nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.610264,
+         "id": "761444",
+         "field_search": "question",
+         "question": "Dạ em đang dùng iPhone 4S, cách đây khoảng 1 tháng, điện thoại của em có bị thấm nước và em đã đem đi sửa, khi về em dùng đt bình thường, nhưng đt của em không biết sao, màn hình cứ tối đen không lên mấy lần, em có gọi thử thì vẫn gọi được nhưng màn hình đt vẫn tối đen, không lên được. Em phải đợi khi đt hết pin, cắm sạc thì mới có thể sử dụng lại được. Cho em hỏi là đt của em bị gì và sửa chữa như thế nào ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.57869,
+         "id": "1138175",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi đt iphone 4s cũ nhưng vẫn còn sài bt. Nhưng hôm nay mình sau khi đặt goviet thì mình tắt màn hình và khi ng ta gọi đến nó sáng lên một cái r tắt đen luôn. Mình mở máy ko đc nhưng ngta gọi đến cho mình mấy lần mình đều nghe thấy chuông nhưng màn hình nó ko hiện lên cho mình nhận cuộc gọi. Dt của mình nó là bị hư nút home lâu lắm r nên mình thử giữ nút nguồn lâu thật lâu thì nó hiện lên màn hình giống như là bị reset vậy. Trong đt mình có lưu nhiều hình ảnh + ghi âm cho việc ôn thi lắm, mà tài khoản icould của mình đầy r nên mình ko có sao lưu lại. Vậy nên xin bạn hãy giúp mình với, mình rất cần số tài liệu đó😭😭😭 17:13",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.569096,
+         "id": "1162478",
+         "field_search": "question",
+         "question": "Laptop tự nhiên đang sử dụng ( ví dụ như đang xem video hay nghe nhạc ) thì bỗng màn hình tối đen tuy vẫn nghe đc âm thanh vẫn thao tác đc nhưng màn hình vẫn đen thui. Chỉ có cách tắt màn hình r mở lại thì laptop sẽ bthuong, thỉnh thoảng e hay bị lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.544518,
+         "id": "988565",
+         "field_search": "question",
+         "question": "iphone 4 đang sử dụng con 80% pin thì bị tắt màn hình ( màn hình đen thui ), bấm nút power ko lên, cắm pin ko thấy tín hiệu là bị lỗi gì ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.489407,
+         "id": "824922",
+         "field_search": "question",
+         "question": "Mn cho e hỏi .máy tính của e khi ấn nút nguồn thì đèn vẫn sáng nhưng màn hình không lên , quạt không chạy .tại sao lại có hiện tượng này và cách sửa chữa ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.482674,
+         "id": "1142947",
+         "field_search": "question",
+         "question": "Ad ơi. Tôi mới mua active1 tai TGDD. Hiện nay nút âm lượng tăng, giảm bất thường (không giảm được). Khi nóng máy nút nguồn không tắt được. Bị lỗi gì vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.337242,
+         "id": "994337",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.337242,
+         "id": "994324",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.292408,
+         "id": "922574",
+         "field_search": "question",
+         "question": " Cho e hỏi tắt âm chụp hình iPhone 6 làm sao? E đã thử bật nút gần bên âm lượng xuống mà khi chụp vẫn kêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.200912,
+         "id": "843771",
+         "field_search": "question",
+         "question": "e đang dùng iP5 vừa nẫy đang dùng tự nhiên màn hình nó bị đơ e thao táo không đc có tin nhắn hay người gọi đt đều biết như không thể nghe nút home của máy vẫn sử dụng bình thường có cách nào khắc phục không ạ mong đc tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.128044,
+         "id": "754698",
+         "field_search": "question",
+         "question": "iPad của em bị rơi xuống nước và khi bật lên thì không sử dụng nút home được, qua hôm sau thì bật lên chỉ thấy trái táo cứ lên rồi tắt rồi thấy chữ, em không biết phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.098705,
+         "id": "986659",
+         "field_search": "question",
+         "question": "cho e hỏi iphone muốn cài đặt nút home trên màn hình mình phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.06868,
+         "id": "858027",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện tại e đang xài máy dell 3452 mấy ngày trước đèn caps lock của em còn cháy sao bây giờ nó hết cháy rồi. nhưng nút caps lock vẫn sử dụng được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.0503,
+         "id": "919850",
+         "field_search": "question",
+         "question": "Máy ip 6pl của mình bị lỗi màn hình lúc mới bật thì nó lag ko ấn nút được có khi ấn nút này nó nhảy sang nút khác vào chơi game nặng là màn đứng luôn xong ấn nút tắt nguồn r vào lại vài lần thì nó lại bt và ko lỗi nữa ad cho hỏi đấy là do lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.02083,
+         "id": "818142",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí nhé, mình đang sài con iphone 5S, mấy bữa nay tự nhiên mình vuốt màn hình nó không đc nên k làm gì đc, mình phải tắt nguồn bằng nút home và nút nguồn mới tắt đc, nhưng bật lên lại vẫn vậy, k biết là bị gì nữa, ngta goi đén chuông vẫn đỗ nhưng k vuốt để nghe dc, vậy ad cho mình hỏi là máy mình bị gi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.020042,
+         "id": "1167184",
+         "field_search": "question",
+         "question": "Tôi có một laptop lenovo yoga 520 core i3. Do quá trình sử dụng tôi làm nứt màn hình, nhưng vẫn sử dụng được màn hình cảm ứng, anh sáng vẫn tốt, không nhấp nháy. Không biết cửa hàng có thu mua không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.97237,
+         "id": "786107",
+         "field_search": "question",
+         "question": "Ý tưởng iPhone 8 đầy bất ngờ với hai màn hình  Trong bản thiết kế này, iPhone 8 có một màn hình độ phân giải QHD và một màn hình độ phân giải 480p.   Nhà thiết kế có tiếng Jermaine Smit mới đây đã trở lại cùng bản concept mới của mình mô phỏng thiết bị  đến từ  cùng nhiều điểm nhấn mới lạ. Ngay trong đoạn giới thiệu ban đầu, tác giả đã chia sẻ iPhone 8 trong concept được lấy cảm hứng từ thiết kế của 4 và iPhone 5, hai trong số những phiên bản iPhone được nhiều người dùng yêu thích nhất. Bản thiết kế iPhone 8 với hai màn hình của Jermaine Smit. Có thể thấy chiếc iPhone này không còn nút Home truyền thống. Ở vị trí của nút Home xuất hiện logo Apple cùng dòng chữ iPhone.Điểm thay đổi thú vị nhất có trên iPhone 8 của Jermaine Smit nằm ở việc nó sở hữu hai màn hình, trong đó có một màn hình mang độ phân giải 2K để mang lại các trải nghiệm về hình ảnh tốt nhất và màn hình còn lại có độ phân giải dừng lại ở 480p cho mục đích tiết kiệm thời lượng pin. Mặc dù không đi sâu vào chia sẻ suy nghĩ của mình về thông số kỹ thuật có trên chiếc iPhone 8, bản thiết kế của Jermaine Smit vẫn được đánh giá cao ở phần nhìn chân thực cùng các tính năng thêm vào khá thực tế với công nghệ hiện tại. Chiếc smartphone trong bản thiết kế này chỉ có duy nhất một camera. Bên cạnh trái máy có nút tăng giảm âm lượng, nút gạt tắt - mở âm thanh và phần phát laser đóng vai trò là một bàn phím ảo. Cạnh phải được bố trí nút nguồn và khe SIM. Mô phỏng tính năng bàn phím laser.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.964577,
+         "id": "1135792",
+         "field_search": "question",
+         "question": "ad tư vấn giúp e với ạ, e đg dùng samsung s7 edge có 1 vđ là khi đang dừng video youtobe hoặc đang phát nhạc từ zing thì sau 5s k đụng vào màn hình, màn hình nó tự tắt, máy vẫn phát nhạc, nhưng khi em mở nút home cho màn hình tiếp tục hoạt động thì âm lượng media lại chuyển về 0, zing k phát nhạc nữa nhưng vẫn chạy, youtobe nhấn tiếp tục chạy thì k có tiếng, sau đó e nhấn vào nút âm lượng tăng bên hông máy thì âm lượng lại trở về như ban đầu, ad cho em hỏi cách khắc phục với ạ! em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.860336,
+         "id": "1003579",
+         "field_search": "question",
+         "question": "- Cho e hỏi. e làm rớt điện thoại IP5S . sau khi rớt thì nút nó bị đơ nút home và nút nguồn . Bấm nhiều lần màn hình mới sáng lên . như vậy nguyên nhân là hỏng cái gì ạ . cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.85586,
+         "id": "1023665",
+         "field_search": "question",
+         "question": "Tại sao lúc em update lên iOS 11 rồi mở nhạc trên ứng dụng nhaccuatui ra nghe, khi tắt màn hình rồi mở lên lại không thấy hiện nút pause/ play mà chỉ hiện 2 nút bên cạnh thôi ạ? Có thể khắc phục giúp em được không? Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.75213,
+         "id": "1024585",
+         "field_search": "question",
+         "question": "Chào TGDD, tình hình là em có con ss note 3 lte a mà mất bút spen. Em không thể thao tác với màn hình được. Còn các nút điều hướng như home, nguồn, trở lại thì vẫn ấn được. Vậy cho em hỏi tình hình vậy còn cứu được ko.Em xin chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.73328,
+         "id": "790405",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5s có chức năng nào chỈ chạm màn hình là mở được khóa. Không phải dùng nút điều khiển k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.695583,
+         "id": "811722",
+         "field_search": "question",
+         "question": "Màn hình ipad 2 của tôi không vuốt nơi trượt để mở khóa được nhưng vẩn sử dụng phím home ảo bình thường và duy chuyển khắp màn hình. Như vậy ipad của tôi có bị liệt màn hình không? Hay do lỗi cài đặt. Mong sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.60891,
+         "id": "798839",
+         "field_search": "question",
+         "question": "Cho em hỏi tai sao điện thoại iphone4s em tắt nguồn xong mở lên lại không được mà phải vừa bấm nút home với nút nguồn trong 10' tới 15' thì mới lên nguồn được là điện thoại em bị gì ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.5953,
+         "id": "792355",
+         "field_search": "question",
+         "question": "Cho em hỏi , tai nge của em . em cấm vào máy khác thì qua bài , chỉnh âm lượng bằng nút của tai nge đều được hết , nhưng sao em cấm vô iphone 5 . thì chỉ nge được thôi, còn thao tác chỉnh âm lượng hoặc qua bài bằng nút của tai nge thì k làm được , mong mấy anh giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.587,
+         "id": "1022988",
+         "field_search": "question",
+         "question": "Samsung Tab A6 đang sử dụng bị tắt nguồn và không mở lên được. PIN đang còn 80 khi tắt nguồn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.57534,
+         "id": "1136170",
+         "field_search": "question",
+         "question": "Máy mình bị lún nút nguồn và nút âm lượng  thì phải làm sao máy mình là sony XA Ultra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.55309,
+         "id": "1162570",
+         "field_search": "question",
+         "question": "Ấn liệt nút home ảo của iphone X tầm 3s có trở về màn hình chính luôn không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.526108,
+         "id": "837108",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao điện thoại iphone của mình khi cắm tai nghe vào thì vẫn nghe nhạc bình thường mà mình rút ra để nghe loa trong điện thoại thì lại không nghe được mình nhấn nút âm lượng thì cứ bảo là âm lượng tai nghe như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.493774,
+         "id": "951816",
+         "field_search": "question",
+         "question": " Điện thoại iphone 5s tự nhiên bị mất nút home trên màn hình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.28784,
+         "id": "1009768",
+         "field_search": "question",
+         "question": "Mình xài máy SS J5 Prime , mình muốn muốn tắt lớp phủ màn hình của ứng dụng Picsart , nhưng cái chỗ nút bấm của mình lại không bấm được , có vài ứng dụng như OneNote có thể bấm , còn Picsart thì không . Cho mình hỏi làm sao để tắt lớp phủ màn hình những úng dụng bị như vậy , mình cảm ơn nhiều .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.27067,
+         "id": "1156431",
+         "field_search": "question",
+         "question": "tôi đang sử dụng table A6 có lẽ hết pin. nhưng cắm sạc lại không vào pin nữa, bật nút khởi động không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.95358,
+         "id": "1161657",
+         "field_search": "question",
+         "question": "Tôi đang xài note 8 mua ở TGDĐ cách đây 1 năm ....trước giờ vẫn sử dụng bình thường... Nhưng khoảng 1 tuần nay máy tự nhiên mỗi buổi sáng thì tôi lại thấy máy tự điều chỉnh lại cài đặc (âm lượng nhạc tôi mở max ...ánh sáng màn hình tôi mở 10p) ...sáng ra âm lượng chỉ còn 50% ...ánh sáng màn hình chỉ còn 5s ...0988606465",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.833115,
+         "id": "862722",
+         "field_search": "question",
+         "question": "iphone 4 8GB sử dụng cạn pin bị lỗi 1970, để máy thật sự hết pin thì mở lên được, lên trang chủ cập nhật phần mềm xong, sử dụng được vài giờ thì bị sập nguồn màn hình đen thui, cấm sạc vào màn hình hiện lên trái táo rồi biến mất, không thể mở máy được. Vậy xin hỏi bây giờ phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.819065,
+         "id": "992757",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ipad . Khi người khác gọi massage cho mình thì 2 cái nút xanh ( đồng ý ) và nút đỏ  ( từ chối ) nó không hiển thị vậy . Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.7989,
+         "id": "1134796",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ip XS, khi quay màn hình cuộc gọi video thì không thu được tiếng mặc dù khi quay màn hình lúc nghe nhạc xem phim vẫn có tiếng bình thường, có cách nào để thu luô cả tiếng khi quay cuộc gọi video không ạ? (Mình làm theo hướng dẫn là nhấn giữ nút ghi màn hình để hiển thị micro nhưng micro không hiển thị khi mình thực hiện thao tác này???)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.569065,
+         "id": "1005983",
+         "field_search": "question",
+         "question": "Tại sao máy em không hiển thị nội dung cuộc gọi đến ạ. Có người gọi đến là màn hình tối om ạ. Em phải nhấn nút home mở khóa màn hình rồi vuốt màn hình xuống mới biết được ai gọi rồi mới trả lời cuộ gọi được ạ. Ai biết chỉ giúp em với. Em cám ơn ạ.Em xài XA Ultra ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.53917,
+         "id": "814192",
+         "field_search": "question",
+         "question": "Em đang xài iphone 6 đang lướt wed thì bị đứng máy e có nhấn nút tắt nguồn nhưng không được rồi nó hiện xanh màn hình rồi khởi động máy lại khởi động xong vẫn xài bình thường máy bị vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.514862,
+         "id": "784554",
+         "field_search": "question",
+         "question": "Em có 1 chiếc iphone 4s , em em nghịch đang bình thường thì tự nhiên máy bị lag và đen màn hình em tưởng máy sập nguồn và bật nút nguồn máy không lên em cắm sạc vào máy vẫn rung . cho hỏi máy em bị làm sao và có thể sửa không ạ . em không bỏ được vì có nhiều giữ liệu trong máy . em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.39455,
+         "id": "869442",
+         "field_search": "question",
+         "question": "Máy của em là iPhone 5s tự dưng bây giờ không phát ra âm thanh, cắm tai nghe vào thì lại hoạt động như bình thường, điều chỉnh phở nút âm lượng thì lại hiển thị âm lượng của tai nghe. Em đã khởi động lại máy, chỉnh các nút rìa nhưng vẫn không được vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.358055,
+         "id": "764734",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi iphone 6s của mình bị đơ cảm ứng không bật tắt được phải ấn cả nút Home và nút nguồn để khởi động lại máy mấy lần rồi là sao đây hả bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

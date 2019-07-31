@@ -1,0 +1,801 @@
+{
+   "id_query": "1142484",
+   "total": 25699,
+   "total_current": 100,
+   "max_score": 64.17221,
+   "origin_question": "Giữa Samsung Galaxy A9 và Huawei Nova 3 thì 2 sp nên mua máy nào hơn ??",
+   "hits": [
+      {
+         "score": 29.438583,
+         "id": "1131747",
+         "field_search": "question",
+         "question": "Dạ e muốn hỏi giữa samsung galaxy a6 và huawei nova y9 thì e nên chọn con nào? ( e muốn chơi game và chụp hình tốt 1 chút)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.487574,
+         "id": "1003697",
+         "field_search": "question",
+         "question": "Giữa Sony Xperia L1 và Samsung Galaxy J5 Prime . Em nên mua máy nào chơi Liên Quân êm hơn và pin trâu hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.978504,
+         "id": "851462",
+         "field_search": "question",
+         "question": " Giữa iphone 5s và samsung galaxy a72016 máy nào có hiệu năng cao hơn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.744057,
+         "id": "1155320",
+         "field_search": "question",
+         "question": "Tgdd cho hỏi là giữa hai sản phẩm huawei y9 2019 với samsung galaxy m20 thì nên mua máy nào để có trải nghiệm chơi game tốt nhất ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.094463,
+         "id": "1168549",
+         "field_search": "question",
+         "question": "Cho hỏi giữa samsung Galaxy A10 và oppo A5 sản phẩm nào tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.649035,
+         "id": "998573",
+         "field_search": "question",
+         "question": "Đang bối rối giữa 2 con Asus zenfone 3 max 5.5 với Huawei GR5 2017.Nên chọn con nào về chơi game và chụp hình đẹp bây giờ???và sử dụng tốt về sau nữa.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.122126,
+         "id": "1006997",
+         "field_search": "question",
+         "question": "Oppo F3 Plus, Samsung galaxy S7 Edge, Samsung galaxy A9 Pro, trong 3 cái này thì cái nào có bảo mật vân tay vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.062265,
+         "id": "1159319",
+         "field_search": "question",
+         "question": "Vivo v15 so với galaxy a50 so với s7 edge dùng snapdragon 820 thì máy nào tốt nhất vậy và giữa a50 và v15 thì máy nào tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.004303,
+         "id": "1142706",
+         "field_search": "question",
+         "question": "Giữa Xiaomi Note 6 Pro 3GB và Realme 2 bản ram 4GB nên chọn mua máy nào giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.922607,
+         "id": "1149366",
+         "field_search": "question",
+         "question": "cho e hỏi giữa oppo a7 cũ và huawei y7 pro 2019 thì mình nên chọn cái nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.841936,
+         "id": "1024011",
+         "field_search": "question",
+         "question": "Điện thoại giữa samsung j7 pro và asus zenfone 4 max máy nào tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.816534,
+         "id": "1158177",
+         "field_search": "question",
+         "question": "Alo giữa vivo 15 và samsung a50 máy nào chụp ảnh đẹp hơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.359243,
+         "id": "1158474",
+         "field_search": "question",
+         "question": "Chào bạnbạn cho mk hỏi giữa samsung A6 và huawei y9 mình nên chọn sản phẩm nào a, mk muố sản phẩm bền 1 chút",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.070427,
+         "id": "1140057",
+         "field_search": "question",
+         "question": "em mua trả góp máy huawei nova 3i được 13 ngày rồi giờ muốn đổi sang máy huawei nova 3 có dược không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.040222,
+         "id": "1149066",
+         "field_search": "question",
+         "question": "Mình mua redmi note 6 pro tại tgdd được hơn 2 tháng giờ muốn đổi sang huawei nova 3i cần thủ tục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.947706,
+         "id": "1150395",
+         "field_search": "question",
+         "question": "Ad so sánh giùm mình 2 sp Samsung galaxy a6 và galaxy j8 với ad. Thanks ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.821484,
+         "id": "993756",
+         "field_search": "question",
+         "question": "Nên mua samsung galaxy j7 prime hay huawei gr5 đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.781641,
+         "id": "1159357",
+         "field_search": "question",
+         "question": "Cho mình hỏi giữa Huawei p30 lite và vivo v15, may nào chụp hình đẹp và cấu hình OK hơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.772856,
+         "id": "992005",
+         "field_search": "question",
+         "question": "Trong 3 máy Mobell nova i7, mobiistar lai yuna x và mobiistar jumbo j 2017 thì máy nào có hình ảnh selfi đẹp hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.587831,
+         "id": "1158153",
+         "field_search": "question",
+         "question": "Cho minh hỏi giữa samsung a50 và vivo v15 máy nào có cấu hình ổn và chụp ảnh tốt hơn a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.377567,
+         "id": "1168774",
+         "field_search": "question",
+         "question": "Cho mình hỏi giữa redmi note 7, samsung note 8 và nokia 8.1 thì máy nào được hơn về lướt web, chơi game và pin trâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.332222,
+         "id": "1014665",
+         "field_search": "question",
+         "question": "Em có khoảng 2 đến 3 triệu. Sinh viên thì nên mua máy nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.286915,
+         "id": "988511",
+         "field_search": "question",
+         "question": "Cho em hỏi giữa w mobile e10 và sky a900 thì máy nào tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.285103,
+         "id": "1146920",
+         "field_search": "question",
+         "question": "Tôi nên mua Samsung Galaxy note 9 hay iPhone xs max cái nào tốt hơn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.188566,
+         "id": "957094",
+         "field_search": "question",
+         "question": " CHO E HỎI THĂM. GIỮA N4200 VÀ N3710 THÌ TỐC ĐỘ MÁY NÀO CAO HƠN VÀ CAO HƠN NHIỀU KHÔNG Ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.04465,
+         "id": "1162644",
+         "field_search": "question",
+         "question": "Mình mới mua máy huawei nova 3i được 2 tuần thì giờ muốn đổi oppo f11 thì bù bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.018194,
+         "id": "1168638",
+         "field_search": "question",
+         "question": "Cho e hỏi giữa 2 chiếc điện thoại redmi note 7 và realme 3, chiếc nào đc đánh giá là cao hơn trong phân khúc từ 5tr trở xuống ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.931377,
+         "id": "993013",
+         "field_search": "question",
+         "question": "Cho mình hỏi giữa samsung j2 và mobitas ( dưới 3 triệu) thì sản phảm nào tốt ạMình dang mún mua máy dưới 3 tr mà ko pít chọn máy nào tốt và  sử dụng lâu dài ạMong Ad phản hồi sớm nhấtMáy dưới3 triệu nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.869194,
+         "id": "1145631",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi sp huawei nova 3e bên anh còn hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.853725,
+         "id": "1167766",
+         "field_search": "question",
+         "question": "mik mún mua một chiếc đt trong phân khúc giá rẻ từ 4tr5 trở xuống cho con em mik dùng hì nên chọn đt j, cho mik bik chiếc realme 3 32gb, samsung galaxy 20,oppo a5s,oppo a7 32gb, huawei Y7 pro thì nên mua máy nào dùng mượt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.767803,
+         "id": "1145466",
+         "field_search": "question",
+         "question": "A oi cho e hỏi sp huawei nova 3e bên mik còn hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.56974,
+         "id": "1148459",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là giữa Sony Xpreria Z2 với LG G5 thì sản phẩm nào có hiệu năng tốt hơn ạ và chênh lệch hiệu năng giữa 2 máy có quá đáng kể không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.415865,
+         "id": "1018560",
+         "field_search": "question",
+         "question": "Giữa oppo f3  và sony xa1 thì dòng nào chụp hình đẹp hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.397684,
+         "id": "862062",
+         "field_search": "question",
+         "question": " Samsung Galaxy A9 Pro có đèn led thông báo không và cách bật tắt thê nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.381216,
+         "id": "1150819",
+         "field_search": "question",
+         "question": "TGDĐ có thể tư vấn chi tiết về 2 chiếc sản phẩm Readme C1 và Vsmart joy 1 . Giữa 2 chiếc máy có cùng tầm giá :* Readme C1 : Snapdragon 450, Ram 2 - Rom 16* Vsmart joy 1: Snapdragon 435, Ram 3-Rom 32Thì 2 máy này, máy nào chơi game tốt hơn ở mức đồ hoạ trung bình ( Không chơi Pubg). 2 máy máy này, máy nào quay lại màn hình ổn định hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.276085,
+         "id": "1166815",
+         "field_search": "question",
+         "question": "giữa nokia 5.1 plus và 6.1 máy nào sử dụng tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.22296,
+         "id": "1145899",
+         "field_search": "question",
+         "question": "Cho em hỏi giữa Sony xperia L2 và Realme C1 thì máy nào ngon hơn về hiệu năng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.16186,
+         "id": "1165700",
+         "field_search": "question",
+         "question": "Anh Ơi Em hỏi !!em Phân vân quá !Giữa Xiaomi redmi 4x và xiaomi redmi note 3!!Cái Nào Pin trâu hơn ạ ? Chip Máy Nào mạnh hơn ạ?Em chủ yếu chơi game PUBG MOBILE",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.130594,
+         "id": "1159799",
+         "field_search": "question",
+         "question": "Nên mua samsung  m10 hay vivo y91c hơn vậy..m10 hơn y91c điểm nào... Y91c hơn m10 điểm nào.. Nên mua loại nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.01909,
+         "id": "1150743",
+         "field_search": "question",
+         "question": "Nếu Mua Máy để chơi game Thì em nên chọn Iphone SE hay xiaomi redmi note 3 ạ !!Và Nếu Bán thì Iphone và Xiaomi còn nào bán được giá cao hơn ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.008543,
+         "id": "1150796",
+         "field_search": "question",
+         "question": "Nếu Mua Máy để chơi game Thì em nên chọn Iphone SE hay xiaomi redmi note 3 ạ !!Và Nếu Bán thì Iphone và Xiaomi còn nào bán được giá cao hơn ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.970205,
+         "id": "941606",
+         "field_search": "question",
+         "question": "Iphone lock và iphone quốc tế thì nên chọn sp nào? Nếu chọn iphone lock thì có gì thua thiệt hơn iphone quốc tế sau khi đã jailbreak thành công?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.951454,
+         "id": "1150679",
+         "field_search": "question",
+         "question": "Nếu Mua Máy để chơi game Thì em nên chọn Iphone SE hay xiaomi redmi note 3 ạ !!Và Nếu Bán thì Iphone và Xiaomi còn nào bán được giá cao hơn ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.944254,
+         "id": "993357",
+         "field_search": "question",
+         "question": "Giữa máy nokia 5 và samsung j7 2016 thì máy nào tốt hơn ạ về: cấu hình,  độ bền bỉ, đa nhiệm, game,  chụp ảnh,  xem phim,  chạy youtube....  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.681244,
+         "id": "1165813",
+         "field_search": "question",
+         "question": "Anh Ơi Em hỏi !!em Phân vân quá !Giữa Xiaomi redmi 4x và xiaomi redmi note 3!!Cái Nào Pin trâu hơn ạ ? Chip Máy Nào mạnh hơn ạ?Em chủ yếu chơi game PUBG MOBILE ( 4X chạy snap 435 , Note 3 chạy Helio x10 )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.582172,
+         "id": "1135374",
+         "field_search": "question",
+         "question": "Samsung galaxy A8 với oppo A7 thì nên mua cái nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.509775,
+         "id": "1013523",
+         "field_search": "question",
+         "question": "mobell bị huawei mua lại máy nova P2 rùi ạ?Sao thegioigdidong có đưa tin Huawei có huawei NOVA P2 là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.42582,
+         "id": "1154575",
+         "field_search": "question",
+         "question": "alo shop em muốn hỏi vê điện thoạitheo shop samsung galaxy note8 và samsung galaxy A50 sắp ra cái máy nào sử dụng tốt hơn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.421394,
+         "id": "1138212",
+         "field_search": "question",
+         "question": "Cho em hỏi Giữa điện thoại samsung j4 và samsung j6 cái tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.41622,
+         "id": "1152280",
+         "field_search": "question",
+         "question": "mình dùng samsung galaxy a9 pro lúc sạc bị sập nguồn giờ cắm sạc chỉ hiện vòng tròn với hình tia sét ở giữa là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.412617,
+         "id": "997405",
+         "field_search": "question",
+         "question": "Cho hỏi máy chơi liên quân từ 2 đến 3 triệu nên mua máy nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.282965,
+         "id": "1158283",
+         "field_search": "question",
+         "question": "Tôi mới mua Samsung A9 2018 được khoảng 3 tuần nhưng chép dữ liệu vào máy thì không được. Xin hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.282417,
+         "id": "816409",
+         "field_search": "question",
+         "question": " Xóa biểu tượng trên màn hình Samsung galaxy a9 như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.256792,
+         "id": "1135399",
+         "field_search": "question",
+         "question": "Cho em hỏi giữa nokia, huawei và xiaomi thì hãng nào sẽ phù hợp cho sinh viên nhất ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.156048,
+         "id": "989324",
+         "field_search": "question",
+         "question": "giữa iphone 5s và xiaomi redmi 4x thì con nào hiệu năng chơi game tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.994173,
+         "id": "990129",
+         "field_search": "question",
+         "question": "cho em hỏi giữa oppo f1 và sony z3 thì mình nên mua máy nào ạ ???nhu cầu em thì lên mag ,chơi game,pin ok tí,chup hình tạm  vậy em nên mua nào ạ.mong ai đó giúp em voi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.990486,
+         "id": "1143031",
+         "field_search": "question",
+         "question": "Ad so sánh giúp mình 2 sp này vs Tai nghe chụp tai Kanen IP892 và tai nghe sony sbh24 với. Caid nào hơn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.987122,
+         "id": "1160528",
+         "field_search": "question",
+         "question": "Khắc phục lỗi nguồn RealmeC1. Đã 2 lần mang ra thế giới di động và lần này sắp thêm lần thứ 3. Nếu mình muốn bán lại máy và mua máy khác thì tgdd có thu mua lại sp không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.60285,
+         "id": "1169343",
+         "field_search": "question",
+         "question": "Mình mới mua máy huawei y7 pro 2019 hơn 3 tháng. Giờ mình muốn đổi máy khác dc ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.559303,
+         "id": "1156395",
+         "field_search": "question",
+         "question": "Em muốn đổi con huawei y7 2018 lấy con Nova 3 thì cách đổi thế nào . Mong ad tư vấn kĩ giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.540777,
+         "id": "1150084",
+         "field_search": "question",
+         "question": "mình mua và dùng , nhiều sản phẩm của Samsung, mình đang định mua một cái Galaxy Watch 46mm , Samsung thiết bị chống nước 50m hoặc chống nước 5atm ...nhưng Samsung lại khuyến cáo khách hàng nên làm tay khô trước khi sử dụng sản phẩm là sao ?????? liệu sp sau khi mua và gặp lỗi hỏng vì nước dù chỉ tắm hoặc đi mưa thì sp có được bảo hành không.... samsung chơi kiểu mập mờ , tiêu chuẩn chống nước 5atm , nhưng phải dùng sp khi tay khô ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.504961,
+         "id": "746443",
+         "field_search": "question",
+         "question": "  Máy iphone 5 và Galaxy J7 cái nào tốt hơn và bắt wifi xa hơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.415506,
+         "id": "1150624",
+         "field_search": "question",
+         "question": "E muốn đổi samsung galaxy a9 qua s9 thì có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.415506,
+         "id": "956664",
+         "field_search": "question",
+         "question": " Samsung galaxy a9 pro nếu chơi game thì được bao lâu hả tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.363478,
+         "id": "1139112",
+         "field_search": "question",
+         "question": "Mình mới mua con SAMSUNG GALAXY J8 tại TGDĐ được hơn 3 tháng, giờ mình không thích muốn đổi sang  SAMSUNG GALAXY A6+. Cửa hàng tư vấn mình nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.3521,
+         "id": "1133570",
+         "field_search": "question",
+         "question": "Cho hỏi chip exynox 7880 và chip a22 và chip p20 thì con chip nào mạnh hơn Và máy samsung a7 2017 vs redmi 6a thì con nào đáng mua hơn nhu cầu camera và cáu hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.34225,
+         "id": "1159495",
+         "field_search": "question",
+         "question": "Mình dùng đt samsung a9 máy báo phát hiện độ ẩm cổng sạc...sau khi chờ khô máy hết báo mình sạc lại vẫn vào nhưng máy không lên pin và chỉ dừng lại ở mức 2-3%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.335289,
+         "id": "989058",
+         "field_search": "question",
+         "question": "So sánh đt samsung galaxy A5 và coolpad dual ? Loại nào dùng ngon hơn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.318779,
+         "id": "988840",
+         "field_search": "question",
+         "question": "Anhchi cho em hỏi giữa dòng laptop acer aspire 4752 và asus X553M thì cái nào xài tốt hơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.295956,
+         "id": "1142316",
+         "field_search": "question",
+         "question": "alocho mình hỏi  Huawei Watch 2s so với galaxy wach 42mm cái nào to hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.243847,
+         "id": "1149910",
+         "field_search": "question",
+         "question": "Samsung galaxy m20 và realme 2 pro máy nào ngon hơn v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.232681,
+         "id": "1014953",
+         "field_search": "question",
+         "question": "anh(chị) ơi cho em hỏi dưới 2 triệu nên mua máy nào để chiến game vậy !!!nếu máy Philips S337 và Mobell Nova F3 đâu sẽ là lựa chọn tốt để chiến game vậy !!!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.213184,
+         "id": "1001909",
+         "field_search": "question",
+         "question": "pin samsung galaxy note 3 gia bao nhieu  bao hanh may thang quan 2 mua o dau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.0875,
+         "id": "1139988",
+         "field_search": "question",
+         "question": "Bán lại máy cũ mua của tgdd giá như thế nào vậy. Huawei nova 3i. Nứt màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.028482,
+         "id": "1147424",
+         "field_search": "question",
+         "question": "Huawei Y9 và Asus max pro m2 thì con nào chơi game tốt hơn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.008265,
+         "id": "1151213",
+         "field_search": "question",
+         "question": "Bên mình có thu mua lại máy A9 ko ạ. Mình mới mua A9 đk hơn 1 tháng. Giờ muốn đổi note8.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.950361,
+         "id": "1139191",
+         "field_search": "question",
+         "question": " cho em hỏi giữa chiếc iphone 6splus mới và chiếc iphone 7plus cũ thì nên chọn sản phẩm nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.934996,
+         "id": "1139437",
+         "field_search": "question",
+         "question": " cho em hỏi giữa máy vsmart joy 1 và realmi c1 thì loại nào tốt hơn để tải các ứng dụng hỗ trợ học tập và chụp hình ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.916312,
+         "id": "1136548",
+         "field_search": "question",
+         "question": " theo anh chị thig huawei y9 vs realme 2 pro 4GB64GB thì cái naog chơi game tốt và mượt hơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.830252,
+         "id": "1159757",
+         "field_search": "question",
+         "question": "Đối với Samsung galaxy note 8 với Xiaomi 8 thì cái nào cho hiệu năng chơi game cao hơn và pin của 2 máy tút cáo chênh lệch nhau nhiều không và màn hình cảm ứng có cho ta độ thích nghi tốt không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.796657,
+         "id": "1008846",
+         "field_search": "question",
+         "question": "ad cho hỏi, hiện tại mình muốn mua đt nhưng đang phân vân giữa 2 cái. oppo f3 và huawei gr5 pro. ad có thể tư vấn cho mình và so sánh hiệu năng của 2 cái dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.72724,
+         "id": "1140420",
+         "field_search": "question",
+         "question": "Giữa mediatek helio p23 và snapdragon 450 thì thì cái nào xử lý nhanh hơn QTV có thể tư vấn giùm mình được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.687528,
+         "id": "1011283",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi giữa CPU và khả năng mượt mà giữa iphone 6 và B phone 2017 cái nào tốt hơn khi chơi game nặng và xem youtube",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.646772,
+         "id": "1138813",
+         "field_search": "question",
+         "question": " Mình mới mua điện thoại huawei nova 3i cách đây 2 tháng, giờ bị bể miếng kính chỗ camera thì có thay được ko ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.620712,
+         "id": "763658",
+         "field_search": "question",
+         "question": " Ad ơi cho mình hỏi giữa HTC One M8 verizon và att cái nào dùng tốt và hay hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.602282,
+         "id": "1135206",
+         "field_search": "question",
+         "question": "Samsung galaxy A9 2018 có đèn led thông báo không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.594778,
+         "id": "1151845",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình đã từng mua hàng ở TGDD vậy thì khi mua cả 2 chiếc điện thoại: Điện thoại Huawei Nova 3i, Điện thoại Huawei Y9 (2019) giảm giá được bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.578433,
+         "id": "1136746",
+         "field_search": "question",
+         "question": "cho mình hỏi phần mềm của mi8pro tốt hơn ko và mình nghe nói xiaomi chỉ về y học chứ ko về điện thoại còn huawei nova 3 thì mình ko bít mong các bạn chỉ mình và mình cần con máy dưới 12 triệu đáp ứng tất cả các tựa game nặng trên ch phay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.426245,
+         "id": "1020802",
+         "field_search": "question",
+         "question": "Ad so sánh giùm mình 2 hãng giữa : Laptop Dell Vostro 3568 i5 7200U/4GB/1TB/2GB M420/Win10/(P63F002)và  Laptop HP Pavilion 15 au120TX i5 7200U/4GB/500GB/2G 940MX/Win10/(Y4G53PA)máy nào chiến game ngon hơn, tốc độ xử lý và card màn hình nào ổn hơn ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.400491,
+         "id": "1006762",
+         "field_search": "question",
+         "question": "Cho mình hỏi là zen phone 3 max 5.5 vs con galaxy j7 pro nên mua con nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.366311,
+         "id": "1018516",
+         "field_search": "question",
+         "question": "Sony xa1 so với samsung j7 prime thì máy nào đáng mua hơn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.35764,
+         "id": "1146726",
+         "field_search": "question",
+         "question": "Bạn ơi sao máy mình cứ không rõ sim vậy ạ Mình xài Samsung galaxy A9 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.35693,
+         "id": "1012835",
+         "field_search": "question",
+         "question": "Chào shop. Cho e hỏi nếu e mua 1 sp trị giá 20tr. Và sau 1 time sử dụng e muốn đổi 1 sp và chịu phí 20% nhưng e có được đổi sp giá thấp hơn sp đổi ko ạ? Ví dụ e mua samsung s7 edge 15tr490k. E đổi chịu phí 20%. Còn 12tr392k. E đổi xuống j7 pro 6tr990k. Như vậy có đc ko ạ? E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.337222,
+         "id": "1159862",
+         "field_search": "question",
+         "question": "Có 4 triệu thì nên mua điện thoại hãng oppo, samsung, huawei hay là redmi cái nào là tốt ạ. Điện thoại nào mà bền và tốt ấy ạ.. Mong xin tư vấn giúp em với ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.321081,
+         "id": "1161982",
+         "field_search": "question",
+         "question": "Mình có máy huawei nova 3i muốn đổi lên máy huawei mate 30lite...mình muốn đổi đời máy..nên mình muốn hỏi xem bên mình có chương trình hỗ trợ đổi máy không máy nhỉ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.2706175,
+         "id": "998330",
+         "field_search": "question",
+         "question": "ad cho e hỏi  Xiaomi Redmi 4X    huawei gr5 mini    với samsung j7 prime  con nào sử dụng êm hơn (chụp hình, máy sử dụng mau nóng hơn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.200274,
+         "id": "1164406",
+         "field_search": "question",
+         "question": "Giá hiện tại của Samsung Galaxy A9 là bao nhiêu vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.15768,
+         "id": "1146536",
+         "field_search": "question",
+         "question": "cho e hỏi giữa iphone 7+ và xiaomi mi8 thì nên chọn máy nào ạ, e chỉ chơi game, xem phim, chụp hình, và e cần 1 máy để sử dụng lâu dài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.136152,
+         "id": "1021627",
+         "field_search": "question",
+         "question": "TGDD có thay mặt kính Galaxy A9 Pro k ? Thời gian và giá cả như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1155084",
+   "total": 32188,
+   "total_current": 100,
+   "max_score": 108.02018,
+   "origin_question": "Làm sao tắt được tính năng sáng màn hình khi rung hay lắc ở nokia 6.1plus.nhiều khi có cuộc gọi đến mà mình đang đi là nó tự trả lời luôn,rất bất tiệnThanks",
+   "hits": [
+      {
+         "score": 37.41082,
+         "id": "769085",
+         "field_search": "question",
+         "question": "Mình mới mua Iphone 5s ở thegioididong được 1 tuần,  khi có cuộc gọi đến, nếu mình không bắt máy ngay mà để 1 lát chắc khoảng 20 30s thì màn hình sẽ tắt, chuông vẫn kêu máy vẫn rung bt, mình mở máy để kéo trả lời thì màn hình nhận cuộc gọi không xuất hiện, bấm vô các mục trong Cuộc gọi hay kéo thanh thông báo xuất cũng chả thấy gì, mà máy vẫn rung vẫn kêu nên chả biết làm sao để trả lời cuộc gọi, đành chờ người ta ngắt rồi gọi lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.136852,
+         "id": "1157360",
+         "field_search": "question",
+         "question": "MÌNH DÙNG NOKIA 5.1 PLUS. KHI CÓ CUỘC GỌI ĐẾN KHÔNG HIỆN MÀN HÌNH CUỘC GỌI MÀ CHỈ CÓ CHUÔNG VÀ RUNG. ĐÃ KHỞI ĐỘNG LẠI MÁY VẪN KHÔNG ĐƯỢC. BẠN TƯ VẤN GIÚP MÌNH",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.122475,
+         "id": "828207",
+         "field_search": "question",
+         "question": "m tải viber từ bluestack nhung ko gọi được.khi đang thực hiện cuộc gọi thì viber tự ngắt cuộc gọi và thoát ra ngoài và khi có cuộc gọi đến mình nhấn trả lời thì viber cũng tự ngắt đi??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.756275,
+         "id": "809354",
+         "field_search": "question",
+         "question": "điện thoại của mình là Lenovo A7010, cho mình hỏi khi có cuộc gọi wechat đến mà màn hình đang ở trạng thái tắt thì không biết được thông báó có cuộc gọi đến, vì thế ít khi mình nhận được cuộc gọi từ wechat..ai biết cách nào cài khi màn hình tắt nhưng vẫn có thông báo như cuộc gọi thông thường thì chỉ dùm mình với...cảm ơn các bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.669712,
+         "id": "781008",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5S vì mình để chế độ tiết kiệm pin 30s thì tắt màn hình nền khi có cuộc gọi đến một chút xíu màn hình tắt rồi thù mở lên không chổ nào để bấm trả lời cuộc gọi đến, phải khắc phục làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.77764,
+         "id": "1163845",
+         "field_search": "question",
+         "question": "Cho em hỏi nokia 106 sao không có chế độ rung khi có cuộc gọi hay tin nhắn đến vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.48579,
+         "id": "761977",
+         "field_search": "question",
+         "question": "Cho mình hỏi là cái iphone 5 của mình có lúc có cuộc gọi đến mà nó đổ chuông chứ không sáng màn hình. mình chẳng nhấc máy được luôn. không biết nó bị sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.91745,
+         "id": "1019179",
+         "field_search": "question",
+         "question": "Tại sao có người gọi đến máy mình mà màn hình không hiện lên, nó còn rung liên tục tầm 30p ai trả lời giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.579533,
+         "id": "1160256",
+         "field_search": "question",
+         "question": "Sao con mi8 lite của mình thỉnh thoảng bị kiểu lấy đt từ trong túi quần ra là nó tự sáng màn hình ( đã tắt tính năng nhấc lên )...cho hỏi là bị lỗi hay sao ạ ( thỉnh thoảng nó vẫn tự sáng màn hình )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.639896,
+         "id": "808065",
+         "field_search": "question",
+         "question": "Xin chào mình xài Zenfone 4 nhưng sao tự nhiên mất rung làm cách nào để máy rung khi có tin nhắn hay cuộc gọi được làm ơn giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.07152,
+         "id": "998070",
+         "field_search": "question",
+         "question": "Làm ơn cho hỏi Nokia 3 khi có tin nhắn hoặc cuộc gọi nhỡ đến màn hình luôn hiển thị, nháy đèn như Samsung J7 hay màn hình tối phải mở vuốt màn hình mới nhìn thấy.Xin cảm ơn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.704071,
+         "id": "752511",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao máy Samsung Galaxy J7 của mình khi có cuộc gọi đến thì không rung mà chỉ có chuông thôi. Mình cài đi cài lại, bật chế độ rung cũng không được. Như vậy là bị gì vậy Ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.69733,
+         "id": "1145478",
+         "field_search": "question",
+         "question": "iPhone 7 của mình khi khoá màn hình lại mà có cuộc gọi đến thì nó không nhận được cuộc gọi...  chỉ khi bấm vào nút nguồn hoặc cầm lên sáng màn hình nó mới nhận được cuộc gọi.... z nó bị lỗi gì mong ad hồ trợ sớm giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.00239,
+         "id": "929134",
+         "field_search": "question",
+         "question": "tính năng call trên viberKhi đang thực hiện cuộc gọi miễn phí trên viber và bị tắt khi khoá màn hình trên ios 10 khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.822239,
+         "id": "756669",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5 khi nhận cuộc gọi thì máy hiển thị những ký tự lạ trước rồi mới hiển thị người gọi tới. Khi màn hình mở thì những ký tự này sẽ tự mất còn khi màn hình khoá thì nó nằm im luôn và không thoát được luôn chỉ có tắt nguồn và khởi động lại máy. Chỉ khi nhận cuộc gọi thôi. Ai biết cách cứu tôi gấp. Cám ơn nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.704556,
+         "id": "1160942",
+         "field_search": "question",
+         "question": "Vì sao khi tôi tắt chuyển tiếp cuộc gọi thì máy báo là không tắt được chuyển hướng cuộc gọi đối với những cuộc gọi k trả lời và k được cung cấp bởi nhà mạng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.660603,
+         "id": "885223",
+         "field_search": "question",
+         "question": "cho mình hỏi về ĐT iphone 5S mới mua. khi ai gọi zalo đến ĐT thì không đổ chuông hay rung gì cả, chỉ có thông báo là có người gọi đến thôi, nếu không nhìn ĐT thì không biết có người gọi. rất bất tiện. à, trường hợp này xảy ra khi màn hình đã khóa, còn khi đang dùng thì có đổ chuông. máy có bị lỗi phần mềm hay cứng gì không? xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.305601,
+         "id": "771519",
+         "field_search": "question",
+         "question": " iPhone có chức năng trả lời cuộc gọi khi đưa máy lên nghe máy không a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.283094,
+         "id": "814409",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng iPhone 5 dạo gần đây nó hay tắt nguồn có cuộc gọi đến cũng bị tắt nguồn, khi mở lên thì màn hình nhấp nháy rồi tự động tắt, vậy điện thoại mình gặp vấn đề gì và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.18905,
+         "id": "1147021",
+         "field_search": "question",
+         "question": "Tôi muốn tắt chức năng rung khi nhắn tin trên Nokia 3,1 thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.018888,
+         "id": "1163587",
+         "field_search": "question",
+         "question": "máy oppo a37 của em khi có cuộc gọi đến thì nó chỉ rung 1 lần rồi ngừng rung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.980637,
+         "id": "924172",
+         "field_search": "question",
+         "question": "Cho em hỏi là e đang Sài iphone6plus. Em đang bật chế độ đèn flash cuộc gọi đến. Vậy mà khi có cuộc goi đến thì không sáng đèn flash.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.845997,
+         "id": "899676",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5s, tại sao có cuộc gọi đến khi màn hình ko sáng rồi bật sáng lên mà ko thấy sđt ng gọi nhưng vẫn có chuông. Mọi ng cho hỏi bị sao và cách khác phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.51374,
+         "id": "931706",
+         "field_search": "question",
+         "question": "Chào ad,tôi đang dùng ip 5s cho tôi hỏi có cách nào để tắt tính năng thông báo cuộc gọi đến không ạ.Mỗi lần có cuộc gọi đến là lại có giọng nói gì đó ý???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.40311,
+         "id": "756505",
+         "field_search": "question",
+         "question": "Chào AD mình vừa vừa iPhone 6s Plus được 20 hôm,từ hôm mua về máy của mình khi nhận cuộc gọi từ số khác gọi đến,đó chưa kịp trả lời thì máy vào tắt màn hình máy vẫn đổ chuông ,mình bật máy lên không có chỗ nào để mình trả lời cuộc gọi,vậy có phải máy của mình bị lỗi không? Nếu bị lỗi mình có được đổi máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.125904,
+         "id": "929350",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng máy tính win 7 mà máy em nó không báo cuộc gọi đến mà toàn báo cuộc gọi nhỡ nhưng goi đi vẫn được thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.11736,
+         "id": "1153838",
+         "field_search": "question",
+         "question": "Trả lời cuộc gọi tự động khi kết nối tai nghe Bluetooth với huwei y9 làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.107212,
+         "id": "1004931",
+         "field_search": "question",
+         "question": "E xài asus zenfone go, lúc trước mở ZenMotion lắc lắc cái nó chụp màn hình, mà nay sao e lắc hoài mà nó ko chụp được vậy :(( e cũng có tải mấy cái ứng dụng chụp màn hình mà cũng ko chụp được luôn :( Bây giờ làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.984394,
+         "id": "1021286",
+         "field_search": "question",
+         "question": "Tôi dụng ip6 , ios 10.2.1. Từ đầu tháng này khi có cuộc gọi đến màn hình khoá thì có chuông nhưng chỉ hiện thị một thông báo có tên ai đó đang gọi phải mở khoá mới trả lời được, còn khi đang dùng thì có cuộc gọi có chuông ,nhưng không báo trên màn hình phải kéo thanh tbao từ trên xuống mới thấy, ad giúp tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.894318,
+         "id": "1010674",
+         "field_search": "question",
+         "question": "Hiện tại mình đang sử dụng Samsung s7e, khi mình đang chạy xe máy nếu có cuộc gọi đến thì khi mình lấy đt ra thì đt sẽ tự động tắt hoặc là báo máy bận với người đã gọi tới. Cho mình hỏi là lý do tại sao vậy? Hay là máy có chế độ gì đó k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.814236,
+         "id": "1021290",
+         "field_search": "question",
+         "question": "Tôi dụng ip6 , ios 10.2.1. Từ đầu tháng này khi có cuộc gọi đến màn hình khoá thì có chuông nhưng chỉ hiện thị một thông báo có tên ai đó đang gọi phải mở khoá mới trả lời được, còn khi đang dùng thì có cuộc gọi có chuông ,nhưng không báo trên màn hình phải kéo thanh tbao từ trên xuống mới thấy, ad giúp tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.776978,
+         "id": "776347",
+         "field_search": "question",
+         "question": "Em mới mua máy iPhone 5S trả góp. Thấy thỉnh thoảng có hiện tượng cuộc gọi đến chỉ rung và đổ chuông nhưng màn hình không hiện gj cả. Không hiện tên người gọi và cho để nhận cuộc gọi. Bật màn hình thì hiện ra màn hình khóa trong khi máy vẫn rung và đổ chuông. Máy em bị lỗi gì vậy? Có được đổi máy mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.688414,
+         "id": "1151754",
+         "field_search": "question",
+         "question": "Mình không nhận được tin nhắn và cuộc gọi zalo khi tắt màn hình, chỉ nhận được khi mở sẵng ứng dụng vậy phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.33064,
+         "id": "1136077",
+         "field_search": "question",
+         "question": "1/Tôi mua mới mua điện thoại samsung A7 được vài ngày nhưng nó không hiển thị cuộc gọi nhỡ. Khi tôi khôi phục lại cài đặt gốc thì nó đã hiện thị cuộc gọi nhỡ. Như vậy là máy bị lỗi hhay sao?2/ khi đang dùng điện thoại với mức độ sáng mà tôi chỉnh tự dưng màn hình nó tối lai. Vậy là chế độ của điện thoại là vậy. Hay do máy bị lỗi.Như vậy tôi có thể đổi điên thoại mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.29644,
+         "id": "742003",
+         "field_search": "question",
+         "question": " iPhone 6S lúc có cuộc gọi đến nó rung giống như bị lõng là sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.032976,
+         "id": "1000603",
+         "field_search": "question",
+         "question": "A cho em hỏi em dùng máy Sony Zultra.  Sao khi người ta gọi đến hay em gọi đi màn   hình bị tắt không hiện lên nữa ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.008198,
+         "id": "1023299",
+         "field_search": "question",
+         "question": "cho e hỏi chút ạ? điện thoại của e là mi4 khi gọi đi, hay bắt máy nghe cuộc gọi, màn hình của e nó bị đen ko nhìn thấy cuộc gọi như khi mình để gần tai nghe nó bị cảm biến ấy ạ, có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.939342,
+         "id": "1134239",
+         "field_search": "question",
+         "question": "Tôi đang dùng Nokia 5.1Plus trong hôm nay tôi thấy có một lỗi là khi mình gọi màn hình nó đen hết không nhìn thấy gì cả, sau một khoảng thời gian tầm 30s có khi đến hơn phút thì tôi mới thấy màn hình nó sáng lại, vậy cho tôi hỏi cách khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.914791,
+         "id": "1143612",
+         "field_search": "question",
+         "question": "Ac cho em hỏi chút ạ. Em hiện tại đang dùng note4 nhưng hay phát sinh lỗi tự trả lời cuộc gọi khi rút từ túi quần ra ạ.Em phải làm tn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.909325,
+         "id": "1138175",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi đt iphone 4s cũ nhưng vẫn còn sài bt. Nhưng hôm nay mình sau khi đặt goviet thì mình tắt màn hình và khi ng ta gọi đến nó sáng lên một cái r tắt đen luôn. Mình mở máy ko đc nhưng ngta gọi đến cho mình mấy lần mình đều nghe thấy chuông nhưng màn hình nó ko hiện lên cho mình nhận cuộc gọi. Dt của mình nó là bị hư nút home lâu lắm r nên mình thử giữ nút nguồn lâu thật lâu thì nó hiện lên màn hình giống như là bị reset vậy. Trong đt mình có lưu nhiều hình ảnh + ghi âm cho việc ôn thi lắm, mà tài khoản icould của mình đầy r nên mình ko có sao lưu lại. Vậy nên xin bạn hãy giúp mình với, mình rất cần số tài liệu đó😭😭😭 17:13",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.86064,
+         "id": "1137809",
+         "field_search": "question",
+         "question": "Thế giới di động cho tôi hỏi?Tôi có mua điện thoại samsung j7 plus tại đây và đã sử dụng được tầm 4 tháng. Nay điện thoại KHÔNG BÁO RUNG được khiến những cuộc gọi để chế độ Rung và chuông nhưng chỉ còn chuông và rất bất tiện khi đi ngoài đường vì k hay cuộc gọi tới.Vậy thegioididong nếu bảo hành khoảng bao lâu? và tôi đang lo ngại là khi đem dt bảo hành thì k biết lấy điện thoại đâu để giải quyết công việc (do tính chất công việc rất cần điện thoại hỗ trợ. XIn cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.857101,
+         "id": "1159370",
+         "field_search": "question",
+         "question": "(tôi dùng samsung J4 core) mua ở của hàng của TGDĐ hàng mới 100%. xin hỏi khi máy ở chế độ tắt màn hình cuộc gọi zalo va tin nhắn đều không nhận đươc phải khi mở ứng dụng zalo lên thi mới nhận được tn và cuộc gọi. ( tôi đã vào mục cài đặt kiểm tra ứng dụng của zalo xem có bị giới hạn thông báo hay ko) tắt màn hình đi khoảng 5p là vô hiệu lực. chỉ có zalo với viber là bị như vậy. tôi thấy rất bất tiện và ko hài lòng chút nào.. xin chỉ cách khắc phục. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.843792,
+         "id": "1010417",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy Sony e4, của mình vừa thay mặt kính cảm ứng xong thì các chức năng khác vẫn hoạt động bình thường. Nhưng khi thực hiện cuộc gọi đi và đến thì màn hình cảm ứng nó lại nhảy loạn các chức năng lên không kiểm soát được cuộc gọi, cho mình hỏi như thế là bị gì?  Có phải khi thấy mặt kính chưa vệ sinh sạch vẫn còn bẩn và bọt khí không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.843502,
+         "id": "779020",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 5, mạng Mobifone, sáng nay tự dưng không gọi đi được, cứ tít nhanh rồi báo kết thúc cuộc gọi, trong khi vẫn nhận cuộc gọi và nhắn tin bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.806263,
+         "id": "906414",
+         "field_search": "question",
+         "question": "Xin cho hỏi 2 máy iPhone cùng dùng chung app ID Khi có một cuộc gọi FaceTime tới thì Cả 2 máy đều đổ chuông. Có thể trả lời 2 máy cùng lúc hay không? Hay là máy nào trả lời trước thì máy kia tự động tắt? Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.761421,
+         "id": "1133572",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em đang sài sam sung j6. Khi mà em có cuộc gọi. Trong lúc nghe điện thoại. Màn hình không sáng. Giờ khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.708849,
+         "id": "1018661",
+         "field_search": "question",
+         "question": "Samsung galaxy a9pro của mình màn hình tự động sáng tự động tối mà trong khi đó mình k để chế độ tự động là làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.67413,
+         "id": "1016584",
+         "field_search": "question",
+         "question": "Các bạn ơi, nhờ các bạn chỉ mình cách cài đặt để khi mình nghe đt thì tắt màn hình, còn khi mình ko nghe nữa thì màn hình sáng lên. Lúc trước đt mình như thế, sao này thì ko còn nữa tắt là tắt luôn ah, thấy bất tiện quá. Mình dùng galaxy A7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.666178,
+         "id": "1134555",
+         "field_search": "question",
+         "question": "Mh đang dùng ip x 64gb, cho mh hỏi lm thế nào để tắt cái tính năng tự động sáng màn hình, cứ đụng vào là n lại tự sáng lên thấy tốn pin quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.659275,
+         "id": "743828",
+         "field_search": "question",
+         "question": "Samsung Galaxy J5 không sáng màn hình mỗi khi có tin nhắn hay thông báo của facebook ,zalo... mà chỉ có chuông và rung. Cần giúp đỡ cho sáng màn hình mỗi khi có thông báo hay tin nhắn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.592926,
+         "id": "999300",
+         "field_search": "question",
+         "question": "Màn hình j7  k cảm ứng được tự nhiên đang sài nó tắt màn hình luôn mà lẤy máy khác gọi vào sim thì nó.vẫn đổ.chuôn nhưng k lên màn hình là.bị gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.544285,
+         "id": "1133791",
+         "field_search": "question",
+         "question": "Tại sao điện thoại lumia 540 zalo không nhận được cuộc gọi đến khi khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.326683,
+         "id": "1145069",
+         "field_search": "question",
+         "question": "Sao oppo f9 khi khóa màn hình rồi, tự nhiên mình cầm đt nó tự động sáng màn hình lên vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.291086,
+         "id": "1018553",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi e bật tính năng Đèn báo LED trên Zenfone Live rồi mà khi có cuộc gọi đến đèn ko chớp ạ...  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.169184,
+         "id": "1016255",
+         "field_search": "question",
+         "question": "xin chào TGDD1. Mình mới mua nokia 6 và khi nt ấn bàn phím luôn rung các bạn có biết tắt rung chỗ nào ko2. các thông báo khi có tin nhắn của các ứng dụng không hiển thị thông báo lên màn hình khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.158348,
+         "id": "996809",
+         "field_search": "question",
+         "question": "Mình dùng oppo a37, 3 hôm nay khi gọi đi hay nhận cuộc gọi đến bên kia đều không nghe thấy tiếng bên mình còn mình nghe rất rõ, gọi qua Wi-Fi cũng bị, nhưng đeo tai nghe thì bị. Cho mình hỏi là tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.155888,
+         "id": "757734",
+         "field_search": "question",
+         "question": " Hướng dẫn bật tính năng đưa điện thoại lên tai để nhấc máy khi có cuộc gọi đến trên iPhone 5? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.150972,
+         "id": "1141430",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài oppo f1s mình muốn bỏ lệnh hiển thị hình màu sắc nhấp nháy khi có cuộc gọi đến thì làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.14184,
+         "id": "1015626",
+         "field_search": "question",
+         "question": "Làm sao để tắt tính năng vuốt xuống hiển thị google trên màn hình chính đây ad chỉ mình với.  Và làm sao để tắt các ứng dụng của google  đây. Mong ad sớm trả lời  câu hỏi của  mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.138361,
+         "id": "1142566",
+         "field_search": "question",
+         "question": "Chào TGDĐ mình đang cần tìm mua đt có chức năng ghi âm tất cả cuộc gọi đến và đi đt thường hay smartphone gì cũng được nhu cầu chỉ để nghe gọi tư vấn mình nhe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.920902,
+         "id": "915318",
+         "field_search": "question",
+         "question": " iPhone của e nó có cuộc gọi đến khi đổ chuông nhỏ đi rồi nó có giọng nói của con gái !!Ai biết cách tắt chỉ mk với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.872887,
+         "id": "1151552",
+         "field_search": "question",
+         "question": "Cho mình hỏi, hiện tại mình đang xài Note9, sau khi update lên androi 9 bị mất đi tính năng cảm biến tiệm cận của máy khi đóng ốp lại màng hình không tự tắt hay mở ốp ra màng hình không sáng lên như lúc trước nữa, có cách nào để mở lại tính năng này không, mình tìm lục mọi cách trên điện thoại nhưng không tìm thấy cách bật. Tuy nhiên vẫn còn bật tắt tác khi áp điện thoại sát tai để nghe điện.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.814281,
+         "id": "923883",
+         "field_search": "question",
+         "question": "Mình mới mua máy EDGY bên mình, mà khi có cuộc gọi đến máy tự động bật loa ngoài, không tắt được, gọi đi thì vẫn loa trong bình thường ạ. Với cả máy này làm thế nào để cài được nhạc chuông tải xuống (không phải nhạc chuông có sẵn trong máy) thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.363953,
+         "id": "814423",
+         "field_search": "question",
+         "question": "Mình mất ip4s mà khi gọi điện nó báo không liên lạc được, hình như là đang tắt nguồn, nhưng miình cũng tắt dịch vụ định vị trên máy. giờ làm sao để tìm lại được đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.317366,
+         "id": "772624",
+         "field_search": "question",
+         "question": "Bạn ơi, sao iPhone 4 của mình không hiện được ảnh Full màn hình khi có cuộc gọi đến vậy? Mặc dù mình đã là theo bạn nói, bạn giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.299753,
+         "id": "1167823",
+         "field_search": "question",
+         "question": "Mình dùng Oppo A3 s muốn tắt tính năng chuyển hướng cuộc gọi thì phải làm như thế nào???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.285347,
+         "id": "812544",
+         "field_search": "question",
+         "question": "Help me! Tại sao iphone 6 của mình không đổ chuông khi có cuộc gọi đến, mà chỉ rung. Mặc dù mình đã vào pần Cài đặt tăng nút âm lượng hết cỡ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.22073,
+         "id": "1005983",
+         "field_search": "question",
+         "question": "Tại sao máy em không hiển thị nội dung cuộc gọi đến ạ. Có người gọi đến là màn hình tối om ạ. Em phải nhấn nút home mở khóa màn hình rồi vuốt màn hình xuống mới biết được ai gọi rồi mới trả lời cuộ gọi được ạ. Ai biết chỉ giúp em với. Em cám ơn ạ.Em xài XA Ultra ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.13999,
+         "id": "1148866",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đang dùng con máy Vsmart Joy 1+ khi em cài đặt chức năng \"nhấc để kiểm tra điện thoại\" mà sao em nhấc nó không sáng màn hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.133654,
+         "id": "797425",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi điện thoại iP6 của mình tự dưng lại tự khóa màn hình ko hiểu nguyên nhân lúc bấm nút nguồn lúc được lúc không rồi lắc lắc điện thoại thì nó lên màn hình, lắc lắc thì nó khóa màn hình cho hỏi như vậy bị hư gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.126074,
+         "id": "1013377",
+         "field_search": "question",
+         "question": "em dùng htc m7 và khi ấn nút nguồn để tắt máy thì nó luôn tự động tắt nguồn sau đó chập chờn liên tục cho đến khi khởi động lại, nó cứ nháy sáng lên xong tự tắt tiếp ấy. Máy em bị sao thế ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.08456,
+         "id": "806519",
+         "field_search": "question",
+         "question": "Ipad mini của mình bị vỡ màn hình, hoàn toàn không hiển thị bất cứ cái gì nữa, màn hình cũng không sáng. nhưng khi có người gọi đến thì máy vẫn đổ chuông. như vậy là bộ nhớ trong không bị ảnh hưởng phải không? mình muốn hỏi làm thế nào để lấy dữ liệu từ bộ nhớ trong ra vì khi cắm dây liên kết vào máy tính thì máy tính không nhận.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.041967,
+         "id": "922150",
+         "field_search": "question",
+         "question": "chào bạn mình sài điện thoại iphone4 tại sao khi có tin nhắn hông có đổ chuông chỉ rung thôi và khi có cuộc gọi điện thoại đến thì đổ chuông mình cũng hông biết nó bị gì nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.03873,
+         "id": "772259",
+         "field_search": "question",
+         "question": " Làm sao để màn hình Lenovo A5000 sáng khi gọi điện thoại? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.038555,
+         "id": "1015257",
+         "field_search": "question",
+         "question": "E xài ss j3 16, sao điện thoại e nó cứ tự động tắt ứng dụng khi tắt màn hình vậy ạ ?  E đang mở mp3 nghe nhạc xong tắt màn hình đi là nghe đc tầm 10' là nó tự tắt lun, (đây là e ko có hẹn giờ tắt nhạc đâu nhé), mấy cái ứng dụng khác như mess cũng bị tương tự lun.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.968027,
+         "id": "1133793",
+         "field_search": "question",
+         "question": "Tại sao điện thoại lumia 540 zalo không nhận đươc cuộc gọi đến khi màn hình khóa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.942204,
+         "id": "1167852",
+         "field_search": "question",
+         "question": "M dùng dt opppo f5. Cho m hỏi tại sao khi m gọi messeger hoặc zalo là màn hình tắt tối k bật sáng lên được, m phải đợi người bên kia tắt thì màn hình m mới sáng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.913746,
+         "id": "1139589",
+         "field_search": "question",
+         "question": "Mình dùng a71 máy mình chỉnh chế độ thời gian sáng màn hình và chế độ rung khi chạm nhưng được một lúc máy lại tự động đặt lại như lúc ban đầu,  làm thế nào chỉ cần chỉnh một lần và dùng luôn được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.723734,
+         "id": "993420",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Tại sao mình đang thực hiện cuộc gọi muốn ấn nút nguồn để khóa màn hình sao cuộc gọi cũng kết thúc luôn vậy. Mình dùng iphone",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.681208,
+         "id": "770249",
+         "field_search": "question",
+         "question": "e xài đt ip 5 ios 9.2,  ảnh hiển thị cho sdt e lưu trong danh bạ khi sđt gọi đến ảnh hiển thị rất nhỏ ở góc phải màn hình em phải làm sao để ảnh của người gọi khi gọi đến hiển thị full màn hình ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.644615,
+         "id": "769194",
+         "field_search": "question",
+         "question": " Chi mình hỏi mình đang dùng 5s. Tại sao mình gọi đi hay gọi đến đều nghe rất bé. Bạn giải thích cho mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.625189,
+         "id": "1154425",
+         "field_search": "question",
+         "question": "Cho mình hỏi mỗi khi cuộc gọi đến hoặc gọi đi bằng sim điện thoại, mà lại báo vào tin nhắn zalo. làm sao bỏ chế độ này. Điện thoại mình sam sung J5 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.604647,
+         "id": "1134238",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi. Điện thoại Nokia 5.1 Plus khi mình gọi điện thì màn hình nó bị đen hết không nhìn thấy gì, sau một khoảng thời gian thì nó sẽ sáng lại. Vậy đây là lỗi cài đặt hay là lỗi nhà sản xuất ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.599264,
+         "id": "1146816",
+         "field_search": "question",
+         "question": "Nokia 8.1 khi gắn tai phone thì máy bị tắt nguồn  không tắt ngay mà tắt sau khi màn hình ở ché độ nghỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.575237,
+         "id": "1166371",
+         "field_search": "question",
+         "question": "Tôi có cuộc gọi đến, đã bắt máy nhưng chỉ nghe thấy đầu dây bên kia chứ không thể trả lời cuộc gọi được, làm sao để khắc phục điều này? Điện thoại xiaomi note 4.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.551794,
+         "id": "1010688",
+         "field_search": "question",
+         "question": "Lumia540 em dùng web với game 1 lúc là nóng lên ánh sáng tụt xuống mức tự động máy khó dùng đi thoát ra lúc lại về sáng cao jo sao ạ.khôi phục cài dặt gốc với chạy lại phần mềm rồi tắt  hết chạy ngầm nũa jo đang windows10 .có khả năng sủa đc k ạ . Trả lời thêm rồi kết câu mang đến tgdd ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.519339,
+         "id": "997577",
+         "field_search": "question",
+         "question": "Cho tôi hỏi làm sao để khóa màn hình bằng dấu vân tay mà ko cần mật khẩu ạ bởi vì khi tôi tắt tính năng mật khẩu thì khóa vân tay cũng mất luôn. Vậy mình cần phải làm gì ạ? Điện thoại oppo f3 lite",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.501316,
+         "id": "996692",
+         "field_search": "question",
+         "question": "Samsung A5 2017 của tôi khi sạc tự nhiên màn hình sáng lên 7 màu không hiện lên bất cứ cái gì ? Tôi phải tắt đi thì mới hết nhưng có lúc no lại tự sáng lên như thế 1 hoặc 2 lần nữa, vậy cho tôi hỏi Samsung A5 2017 của tôi đang bị gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.481892,
+         "id": "938465",
+         "field_search": "question",
+         "question": "Cho e hỏi tý ạ: e mới mua lại con samsung note 4, tình hình là ntn: khi có cuộc gọi đến, e muốn gọi lại thì không đc vì nó có dấu + phía trước sdt, vd như +0912345678, e muốn hỏi có cách nào xóa nó đi k, hoặc xử lý ntn, vì nó rất vất tiện khi e muốn gọi lại. E cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.414179,
+         "id": "1154906",
+         "field_search": "question",
+         "question": "Mình mới mua cái m20 mà nó hay tự sáng màng hình. Cứ khóa màng hình khoản 5hay 10 phút là tự sáng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.356016,
+         "id": "772607",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Máy laptop Dell của mình khi khởi động chỉ được 10 giây là tự tắt, màn hình đen xì luôn. Vậy nó bị bênh gì nhỉ? Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.352535,
+         "id": "1005426",
+         "field_search": "question",
+         "question": "điện thoại Samsung J7 Prime của mình lâu lâu cái màn hình nó cứ bị gì ấy, mình không sử dụng nữa mình tắt màn hình nhưng nó cứ sáng lên, mình để yên cho nó tự tắt, nó tắt xong lại sáng lên, làm sao để sửa đc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.268276,
+         "id": "1163720",
+         "field_search": "question",
+         "question": "mình dùng Oppo f7 mà tại sao giờ nó không đổ chuông khi có cuộc gọi đến mặc dù mình đã cài đặt âm lượng max, khi điều chỉnh âm lượng thì mình thấy nhạc chạy được 2 giây là ngắt. Mình đã tắt nguồn khởi động lại máy nhưng vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.225056,
+         "id": "784200",
+         "field_search": "question",
+         "question": "máy tính t là asus tp500L. tự nhien màn hình máy tính t bị tối, t đã tăng độ sáng n k sáng lên mà giảm nó cũng vẫn thế. cho hỏi máy t bị làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.017483,
+         "id": "771335",
+         "field_search": "question",
+         "question": "Em đang dùng HTC Butterfly S, Máy e bây giờ tự dưng ko nghe gọi được. Mà bấm trả lời, hoặc gọi đi có lúc ko có chuông và ko nghe thấy gì. Bấm trả loi máy còn bị treo luôn. Giờ em muốn khắc phục lỗi này như thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.006077,
+         "id": "1011383",
+         "field_search": "question",
+         "question": "Điện thoại oppo f1s của mình khi có cuộc gọi đến chi đổ nhạc chuong vai giây rồi dừng đột ngôt mà chế độ rung vẫn hoạt động là do Nguyên Nhân gì vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.996168,
+         "id": "1134796",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ip XS, khi quay màn hình cuộc gọi video thì không thu được tiếng mặc dù khi quay màn hình lúc nghe nhạc xem phim vẫn có tiếng bình thường, có cách nào để thu luô cả tiếng khi quay cuộc gọi video không ạ? (Mình làm theo hướng dẫn là nhấn giữ nút ghi màn hình để hiển thị micro nhưng micro không hiển thị khi mình thực hiện thao tác này???)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.985046,
+         "id": "1154693",
+         "field_search": "question",
+         "question": "ad cho e hỏi. E mới mua đt oppo A3s tại TGDD. Khi e tắt màn hình máy đi, nhưng được 1 lúc, nó lại sáng. cứ tuần hoàn như vậy. Tắt lại sáng. ad cho e hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.860786,
+         "id": "1022133",
+         "field_search": "question",
+         "question": "em muốn hỏi là lúc mà pc sleep ấy, khi mở lên nó có cái lockscreen vậy làm sao để tắt, nghĩa là lúc sleep xong mở lên là nó hiện ra ngay màn hình luôn mà không cần qua lockscreen ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

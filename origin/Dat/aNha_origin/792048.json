@@ -1,0 +1,801 @@
+{
+   "id_query": "792048",
+   "total": 31404,
+   "total_current": 100,
+   "max_score": 108.49339,
+   "origin_question": " ADM cho hỏi khuyến mãi IPhone 5s ở TGDD Nguyễn Thị Thập Quận 7, khuyến mãi ra sao và còn không? Cảm ơn ADM ",
+   "hits": [
+      {
+         "score": 37.906902,
+         "id": "827727",
+         "field_search": "question",
+         "question": "Chào adm,mình là sinh viên.Xắp tới mình muốn mua 2 cái laptop để cho mình và người yêu mình.Xin hỏi cửa hàng có khuyến mãi gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.550793,
+         "id": "1140309",
+         "field_search": "question",
+         "question": "Cho em hỏi là mình trùm keo dt ở 1 cửa hàng tgdd này mà còn thời gian khuyến mãi mà giờ em lại tgdd khác trùm keo lại vậy có còn khuyến mãi ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.1037,
+         "id": "865761",
+         "field_search": "question",
+         "question": " cho hỏi iphone 6 lus tại TGDD giá bao nhiêu và khuyến mãi thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.373413,
+         "id": "1140010",
+         "field_search": "question",
+         "question": "Cho hỏi có còn chương trình khuyến mãi giảm 700.000 đ khi mua Ative 1 tại TGDD ở Nha Trang không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.252693,
+         "id": "1147071",
+         "field_search": "question",
+         "question": " Iphone 7 plus không khuyến mãi mua giá online nữa hả ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.162872,
+         "id": "760951",
+         "field_search": "question",
+         "question": " iPhone 5s khuyến mãi có màu đen không shop để mình đặt hàng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.674965,
+         "id": "1135933",
+         "field_search": "question",
+         "question": "oppo f9 có còn voucher 500k k ạ và cho em xin thông tin về khuyến mãi sản phẩm này ở bình định. Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.7682,
+         "id": "1148985",
+         "field_search": "question",
+         "question": "Mình đặt mua điện thoại nokia8.1 khuyến mãi ngày tết mà qua mùng 4 hai  ba ngày thì có còn giá như khuyến mãi không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.615623,
+         "id": "1015867",
+         "field_search": "question",
+         "question": "ngày 29 có khuyến mãi không vào năm 2017 này mà có khuyến mãi gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.447678,
+         "id": "1165225",
+         "field_search": "question",
+         "question": "iphone 7 plus có trương trình  khuyến mãi trả góp . trả trước 0đ không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.353836,
+         "id": "848327",
+         "field_search": "question",
+         "question": "QTV cho tôi hỏi ip 5s bây giờ mua tại shop có thể mua với giá 6tr9 ko và sau này còn đơt khuyến mãi nào với 5s ko =. Cám ơn QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.251118,
+         "id": "1164021",
+         "field_search": "question",
+         "question": "HUAWEI P30 LITE CÒN KHUYẾN MÃI QUÀ TẶNG GÌ KHÔNG Ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.145317,
+         "id": "763596",
+         "field_search": "question",
+         "question": " Sao bên mình không bán iPhone 5s nữa ạ, bao giờ bên mình có khuyến mãi nữa vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.608253,
+         "id": "1016191",
+         "field_search": "question",
+         "question": "Em có mua laptop nhưng phải 7 ngày nữa mới chuyển về tgdd xuân lộc đồng nai liệu có còn khuyến mãi kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.32767,
+         "id": "997239",
+         "field_search": "question",
+         "question": "Giờ Mình muốn mua j7pime thì mình muốn hỏi . Mua trả luôn thì dc khuyến mãi gì . Và mua trả góp 0% thì dc khuyến mãi gì ko .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.306639,
+         "id": "762942",
+         "field_search": "question",
+         "question": " Mình có đặt một iPhone 5s theo trương trình khuyến mãi còn 8.490.000 này là hàng xách tay hay công ty ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.0017,
+         "id": "1012904",
+         "field_search": "question",
+         "question": "Xin hỏi tại sao là trương trình khuyến mãi mà bỏ ra 7tr mua 1 chiếc điện thoại j7 pro mà tặng được mỗi cái sim 75nghìn, thế thì khuyến mãi làm gì ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.81945,
+         "id": "776917",
+         "field_search": "question",
+         "question": " Bên công ty còn iphone 5s mới 100 không? giá hiện tại là bao nhiêu? có áp dụng chương trình khuyến mãi nào không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.414597,
+         "id": "844391",
+         "field_search": "question",
+         "question": "Adm cho e hỏi iphone 5s của em không hiển thị chi tiết cuộc gọi. A chị chỉ giúp em phần cài lại ở mục nào với ạ. Xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.369297,
+         "id": "1004853",
+         "field_search": "question",
+         "question": "Sim 4G GOGO mua bên mình thì dùng khuyến mãi đăng kí bao lâu, 1 năm hay được mãi mãi?. Thấy có dòng km tháng x11 tháng tiếp theo. Cảm ơn TGDĐ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.057573,
+         "id": "786622",
+         "field_search": "question",
+         "question": "CHo mình hỏi iPhone 5S bây giờ có giá bao nhiêu vậy ạ và nếu mua 2 máy thì có được hưởng chương trình khuyến mãi gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.656744,
+         "id": "995810",
+         "field_search": "question",
+         "question": " Chào bạn.bạn cho mình hỏi chương trình khuyến mãi đồng giá 5k 10k còn áp dụng ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.365055,
+         "id": "986003",
+         "field_search": "question",
+         "question": "QTV CHO HỎIE MỚI MUA CON Iphone 7 plus 128gb lúc khuyến mãi còn 21990000đSài gần 10 ngàyBây giờ em mún bán lại em lỗ bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.172213,
+         "id": "1006939",
+         "field_search": "question",
+         "question": "Admin cho em hỏi chương trình khuyến mãi tri ân khách hàng này như trên Facebook đang là có thật không ạ Em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.115772,
+         "id": "995967",
+         "field_search": "question",
+         "question": "Khuyến mãi mua tai nghe blutooth tặng pin dự phòng còn k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.941256,
+         "id": "1020728",
+         "field_search": "question",
+         "question": "Xin chào, cho mình hỏi, bây h đặt cọc zenfone 4 max còn đc nhận khuyến mãi ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.867035,
+         "id": "1164643",
+         "field_search": "question",
+         "question": "Tôi thấy sản phẩm Xiami redme 7 32g đang khuyến mãi. Tôi muốn mua trả góp. Thì phải thanh toán trước bao nhiêu và mỗi tháng. Lãi xuất như thế nào? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.146883,
+         "id": "1009869",
+         "field_search": "question",
+         "question": "cho hỏi bluboo s8 đang khuyến mãi có bán trả góp hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.094545,
+         "id": "1161575",
+         "field_search": "question",
+         "question": "shop cho em hỏi nếu em mua ss A20 thì có khuyến mãi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.720602,
+         "id": "1000781",
+         "field_search": "question",
+         "question": "Em mua online j7pro sau 77 có được khuyến mãi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.707996,
+         "id": "786356",
+         "field_search": "question",
+         "question": " iphone 5s đang trong đợt khuyến mãi PMH 400k. nếu em mua trả gop có được trừ vào tiền mua sản phẩm không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.591253,
+         "id": "1137470",
+         "field_search": "question",
+         "question": "shop ơi. cho mình hỏi nova 3i có đang khuyến mãi gì k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.591253,
+         "id": "1006669",
+         "field_search": "question",
+         "question": "Qtv cho hỏi là tháng 8 này có event khuyến mãi j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.509172,
+         "id": "1017832",
+         "field_search": "question",
+         "question": "cho e hỏi tháng 9 này có chương trình khuyến mãi gì khj mua điện thoại không ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.334307,
+         "id": "1018296",
+         "field_search": "question",
+         "question": "Bên công ty có chưa trình khuyến mãi vào dịp 29 không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.331364,
+         "id": "1016982",
+         "field_search": "question",
+         "question": "Cho e hỏi là ngày 29 này thế giới di động có khuyến mãi gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.201077,
+         "id": "1146365",
+         "field_search": "question",
+         "question": " Vsmart 1 có còn khuyến mãi giãm 700 không bạn, mình muốn mua một chiếc màu sáng có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.152925,
+         "id": "939002",
+         "field_search": "question",
+         "question": " Cho hỏi là Thay pin iPhone 5 nhiêu vậy adm? Cám ơn các adm nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.118462,
+         "id": "780920",
+         "field_search": "question",
+         "question": " Khuyến mãi đối với IPhone 6s là 1.500.000đ, khi mua có được trừ thẳng vô giá máy không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.101833,
+         "id": "1018211",
+         "field_search": "question",
+         "question": "tôi cần làm  những gì để được khuyến mãi cho sinh viên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.96418,
+         "id": "1019269",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cấu trúc gia hạn chương trình khuyến mãi vina bùm với a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.899364,
+         "id": "994996",
+         "field_search": "question",
+         "question": "Mình góp ý TGDD xíu thôi. Thật tình rất muốn mua hàng ở  thegioididong vì mua quen rồi. Mình góp ý thôi vì các cửa hàng khác khuyến mãi rất nhiều nên mình thắc mắc. Vì mình vừa đặt mua XZ premium và đặt cọc rồi. Nhưng khuyến mãi cửa hàng khác nhiều quá nên chắc mình xem lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.894083,
+         "id": "1022767",
+         "field_search": "question",
+         "question": "quà tặng khuyến mãi Note 8 là gì vậy em?E liệt kê quà ra dùm anh nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.88194,
+         "id": "997551",
+         "field_search": "question",
+         "question": "Mình mua điện thoại j7 perim mà sao ko đc khuyến mãi gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.868706,
+         "id": "1147082",
+         "field_search": "question",
+         "question": " Xiaomi Redmi Note 6 Pro 64GBMua hiện tại có khuyến mãi gì không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.785564,
+         "id": "1006164",
+         "field_search": "question",
+         "question": "cho em hỏi thế giới di động Ninh Thuận còn hàng ipad samsung galaxy tab a6 7'' giá 3.590.000 k ạ. khi mình mua thì đc phiếu quà tặng hay chương trình khuyến mãi jk k ạ. mong nhận đc câu tl sớm nhất. xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.758469,
+         "id": "1166767",
+         "field_search": "question",
+         "question": "iphone 6s 16gb bản bạc giá bao nhiệu ạ? mua trực tuyến cố được khuyến mãi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.676197,
+         "id": "1155295",
+         "field_search": "question",
+         "question": "Samsung M20 đang có chương trình khuyến mãi nào hong ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.661741,
+         "id": "829694",
+         "field_search": "question",
+         "question": "Cho mình hỏi tháng 6 này có còn khuyến mãi trả góp Iphone 6s plus lãi suất 0% không? Thủ tục trả góp bằng CMND và Hộ khẩu Photo công chứng trong 3 tháng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.568316,
+         "id": "1018337",
+         "field_search": "question",
+         "question": "bên cửa hàng còn điện thoại xiaomi redmi 4x không ạ,  với lễ có chương trình khuyến mãi gì không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.467226,
+         "id": "750736",
+         "field_search": "question",
+         "question": "Tôi đang xài phần mêm diệt virus bitdefender, chỉ còn 15 ngày, nếu muốn xài tiếp phải làm sao và tốn bao nhiêu, có đang khuyến mãi hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.366234,
+         "id": "1141264",
+         "field_search": "question",
+         "question": "SungSam J8 J810 giá bao nhiêu ạ?  có chương trình khuyến mãi nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.28714,
+         "id": "1005541",
+         "field_search": "question",
+         "question": "J7 pro còn hàng ko ak. Hiện h còn khuyến mãi gì ko? E mua online từ xa bao lâu thì có. Và nó có cảm biến con quay xem video 360° ko ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.191856,
+         "id": "1169275",
+         "field_search": "question",
+         "question": "A chị ơi cho em hỏi ... mua đt Oppo f11 pro có khuyến mãi gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.18708,
+         "id": "997172",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi mua Galaxy J7 Pro ko đặt cọc trước có đc khuyến mãi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.0245,
+         "id": "1141602",
+         "field_search": "question",
+         "question": "Hôm nay có chương trình khuyến mãi dán bảo vệ mặt kính ko aids?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.741634,
+         "id": "1151557",
+         "field_search": "question",
+         "question": "shop ơi,cho em mua Ip8 plus đặt hàng trc hôm nay nhưng mai mới lấy thì còn áp dụng khuyến mãi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.678453,
+         "id": "794913",
+         "field_search": "question",
+         "question": " Hết khuyến mãi lì xì 1tr500 từ ngày mai hả ad??? Sản phẩm IPhone 6s RoseGolg đó ad! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.502474,
+         "id": "997595",
+         "field_search": "question",
+         "question": "Cho mình hỏi TGDĐ có chương trình khuyến mãi gì gọi là mừng 10 năm thành lập, tặng iPhone 7 và tiền ko vậy, tự nhiên nhắn tin nói trúng, ko tin chúc nào, giống lua gạt quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.47968,
+         "id": "775156",
+         "field_search": "question",
+         "question": "Tôi muốn mua iphone 6s 16gb theo hình thức trả góp trước 50%.Vậy có được tham gia tất cả các chương trình khuyến mãi của bên tgdd không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.415169,
+         "id": "779953",
+         "field_search": "question",
+         "question": " Em mua laptop trước đien thoai thì có được hưởng 400k tiền khuyến mãi của điện thoại không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.402071,
+         "id": "1157210",
+         "field_search": "question",
+         "question": "cho mình hỏi con samsung a8 star đang bán giá 8090k là đã giảm 700k khuyến mãi chưa shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.319008,
+         "id": "1147158",
+         "field_search": "question",
+         "question": "Cho em hỏi là tgdd có chương trình khuyến mãi gì vào dịp tết nguyên đán ko ạ, ví dụ như là tặng nước ngọt ,giảm giá.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.260452,
+         "id": "1156078",
+         "field_search": "question",
+         "question": "Mình muốn đặt trước Galaxy A50 Nhưng ko lấy quà khuyến mãi được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.260452,
+         "id": "1150250",
+         "field_search": "question",
+         "question": "hi adĐiện thoại Samsung M20 giá là 4tr990 có khuyến mãi gì ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.214535,
+         "id": "804812",
+         "field_search": "question",
+         "question": " Mong adm gịup mình với ,xóâ đi tải nhiêu lần rùi ma mỉnh vẫn không thể vào được,cảm ơn adm  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.063238,
+         "id": "1155562",
+         "field_search": "question",
+         "question": "huawei nova 31 giá hiện tại là bao nhiêu v ạ có khuyến mãi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.91293,
+         "id": "1165873",
+         "field_search": "question",
+         "question": "shop ơi Oppo f11 pro có chương trình khuyến mãi gì vào ngày của mẹ không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.846605,
+         "id": "1002342",
+         "field_search": "question",
+         "question": "Chao các anh các chị.Cho e hỏi bên thế giới di động co chương trình khuyến mãi này không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.821487,
+         "id": "1160977",
+         "field_search": "question",
+         "question": "alo. cho tôi hỏi xíu. tôi muốn mua đt xiao mi redmi note 6 pro ban 64 G. giá bao nhiêu? và có khuyến mãi gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.7771,
+         "id": "1155108",
+         "field_search": "question",
+         "question": "Thời hạn khuyến mãi gói Office 365 là bao lâu kể từ ngày mua laptop ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.685694,
+         "id": "1133290",
+         "field_search": "question",
+         "question": "Adm cho mình hỏi, mình có con nokia8 (nokia 8 thường 2917)bị vỡ màn hình. Mình muốn thay. Vậy thay bao nhiêu lâu và giá thay là bao nhiêu?adm thông tin đến mình nhé. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.567656,
+         "id": "1001269",
+         "field_search": "question",
+         "question": "EM MUỐN MUA LAPTOP TRẢ TRƯỚC 0 ĐỒNG VÀ TRẢ GÓP TRONG VÒNG 6 THÁNG CÓ CHƯƠNG TRÌNH KHUYẾN MÃI NÀO KHÔNG Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.402828,
+         "id": "1155234",
+         "field_search": "question",
+         "question": "Mình muốn mua Samsung s10, mình muốn biết có chưởng trình khuyến mãi gì ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.401144,
+         "id": "1020133",
+         "field_search": "question",
+         "question": "cho em hỏi s8 mới ra có giá là bao nhiêu ak?có tính năng ghi âm cuộc gọi không?khi mua sản phẩm thì được hưởng dịch vụ khuyến mãi gì không ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.384714,
+         "id": "1148496",
+         "field_search": "question",
+         "question": "Hôm nay ngày 07/02, mình vừa đặt 1 đơn hàng điện thoại Xiaomi Mi 8 Lite với giá 5.690.000đ. Thời gian khuyến mãi là từ 04-07/02, mình đã gửi tin nhắn xác nhận sẽ lấy hàng, vậy thì ngày 10/02 mình đến nhận hàng tại siêu thị thì có được hưởng giá khuyến mãi không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.17761,
+         "id": "1142596",
+         "field_search": "question",
+         "question": "tgdđ cho e hỏi...bên mình gần tết..có chương trình khuyến mãi nào tặng iphone 8 và phiếu mua quà trị giá 3000000 cho khách hàng mua hàng trả góp đúng thời hạn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.168983,
+         "id": "1145511",
+         "field_search": "question",
+         "question": "Trả góp 0% trong 12 tháng vậy mình có thể sử dụng thêm chương trình khuyến mãi thu điện thoại cũ đổi mới hay không?và có trả trước bao nhiêu % không,cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.152424,
+         "id": "1017349",
+         "field_search": "question",
+         "question": "Điện thoại meizu m5s còn hàng ở những chi nhánh nào ở tphcm z? Khi nào điện thoại này mới về thêm màu? Nếu hết khuyến mãi thì giá điện thoại là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.11161,
+         "id": "1006697",
+         "field_search": "question",
+         "question": "mình mua máy tại cửa hàng và được khuyến mãi đăng ký 1 sim 4G nhưng tai sao bây giờ nó lại thành mạng H rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.043299,
+         "id": "764204",
+         "field_search": "question",
+         "question": "Minh có mua 1 máy 5s ngày 29/12 . Giờ không thích minh muốn trả lại thì sao ?? Mua 2 miếng dán trước sau và ốp lưng có được thu lại không ? Lúc mua được khuyến mãi sạc dự phòng có phải đem trả lại luôn không ? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.972914,
+         "id": "1160087",
+         "field_search": "question",
+         "question": "Nếu mình mua Nova 3i. mình thấy đang chuẩn bị có ctrình khuyến mãi săn vé giảm thêm 15%, thì còn bao nhiêu tiền? Cửa hàng ở Phú Xuân- Nhà Bè còn hàng ko bạn ? Màu tím",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.829697,
+         "id": "1018538",
+         "field_search": "question",
+         "question": "Mình đến tận cửa hàng mua J7 pri thì có được hưởng khuyến mãi nón bảo hiểm hoặc bình giữ nhiệt không???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.704712,
+         "id": "1160568",
+         "field_search": "question",
+         "question": "TGDD tư vấn dùm laptop nào có thể chơi gta5 mượt mà?,tư vấn cụ thể sp đó  khuyến mãi luôn để mình sắp xếp tài chính ạh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.547905,
+         "id": "1155294",
+         "field_search": "question",
+         "question": "Hiện tại khi mua đt samsứng Galaxy M20 có chương trình khuyến mãi hay giảm giá gì hong ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.44302,
+         "id": "1018140",
+         "field_search": "question",
+         "question": "cho em hỏi: em có đọc được thông tin là đối với điện thoại iphone 6 nhân dịp quốc khánh 2/9 có chương trình khuyến mãi 99k phải ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.268406,
+         "id": "1142327",
+         "field_search": "question",
+         "question": "chào bạn, trước mình có mua i phone 8  plus ở bên mình, nay muốn mua thêm i phone xs 256GB thì có được hưởng chương trình khuyến mãi gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.256176,
+         "id": "1012463",
+         "field_search": "question",
+         "question": "ở đây có khuyến mại mua iphone 6s giá 1000.000đ co phai khong nhan hang ra sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.168217,
+         "id": "1003385",
+         "field_search": "question",
+         "question": "Thanh toán mua hàng online: vì sao TGDD chỉ khuyến mãi thanh toán bằng Master card, trong khi đó Visa card van mua online tương tự được. Giống phân biệt đối xử.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.164835,
+         "id": "1148278",
+         "field_search": "question",
+         "question": " Hiện tại shop đang khuyến mãi trên mạng vậy mình lại tới tận shop mua có giảm giá ko ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.04319,
+         "id": "787588",
+         "field_search": "question",
+         "question": " adm cho e hỏi.. trong thế giới đi động có cài lại win 7 bản quyền không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.99303,
+         "id": "1015161",
+         "field_search": "question",
+         "question": "em vừa mới mua sim vinaphone giá 150k vs 10k thẻ cào, em mua vs mục đích dùng để xem phim. Nhưng trong lúc mua em không để ý chị nhân viên nói gì, gọi vào số gì để kích hoạt và nhận đc khuyến mãi để xem phim. Chị nhân viên có nói không phải gọi số 900 đâu ạ. Nên em mong các anh chị có thể nói cho em cách để nhận đc khuyến mãi xem phim ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.86158,
+         "id": "1004959",
+         "field_search": "question",
+         "question": "mới mua điện thoại hôm qua.. có khuyến mãi sim điện thoại, sim xài 4g miễn phí trong 4 tháng đầu, cái đó đăng ký sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.80989,
+         "id": "1009612",
+         "field_search": "question",
+         "question": "cho hỏi về sim gogo4G1. mua sim có cần mua máy không ạk2. nạp 50k tháng đầu tiên được hượng khuyến mãi hay nạp 50k vào tài khoản3.Hết 2G tốc độ cao là dùng kết nới internet hay bị trừ tiền4.hạn sử dụng của gói là bao lâu sẽ kết thúc5. có khuyến mãi gọi ngoại mạng ko thanksss",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.80597,
+         "id": "1139850",
+         "field_search": "question",
+         "question": "Mình vừa mua máy xong nhưng do chồng mua nên ko đúng ý mình. Giờ mình muốn đổi lại máy khác thì có được hưởng những khuyến mãi mua online giá rẻ hiện tại không. Và phải bù bao nhiêu % giá trị máy. Ví dụ mình mua ss j4+ giá 3490k mình muốn đổi ss j6 giá khuyến mãi online 3290k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.789747,
+         "id": "765659",
+         "field_search": "question",
+         "question": "Cho mình hỏi cái iphone 5s mình mới mua ở TGDD mới luôn sao check imei không hiển thị ngày kích hoạt và ngày hết hạn?Số imei: 35 208707 236677 7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.696745,
+         "id": "1155723",
+         "field_search": "question",
+         "question": "cho em hỏi nay có chương trình khuyến mãi gì không ạ? khi nãy có số điện thoại nói em trúng được phiếu mua hàng là 3 triệu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.683205,
+         "id": "1143539",
+         "field_search": "question",
+         "question": "samsung galaxy A7 2018 có giá là 6.990.000 luôn hay là chỉ trong thời hạn khuyến mãi thôi vậy ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.558908,
+         "id": "926310",
+         "field_search": "question",
+         "question": "Chào ADM, sắp tới mình có đổi điện thoại và mình muốn lưu tin nhắn ( k phải imess ) từ iphone A sang iphone B. Ko biết là có cách nào ko, và nếu có thì sẽ phải làm như nào.Đợi câu trả lời của ad. Cảm ơn ADM",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

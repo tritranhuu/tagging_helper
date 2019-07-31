@@ -1,0 +1,801 @@
+{
+   "id_query": "1153059",
+   "total": 29391,
+   "total_current": 100,
+   "max_score": 48.17546,
+   "origin_question": "cho em hỏi giá bán của sim bum tại các cửa hàng tgdd ạ",
+   "hits": [
+      {
+         "score": 24.95372,
+         "id": "1006803",
+         "field_search": "question",
+         "question": "TGDD cho hỏi đt galaxy j5 prime giờ đang bán tại các cửa hàng của tgdd là bao nhiêu tiền?có đc giảm giá như ở viettell store là 3.790.000 ko?muốn mua hàng ở tgdd nhưng giá mác quácảm ơn tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.970825,
+         "id": "1156170",
+         "field_search": "question",
+         "question": "cho em hỏi bên cửa hàng của mình còn bán thánh sim không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.053091,
+         "id": "1147450",
+         "field_search": "question",
+         "question": " Giá sim vina hiện tại tại các cửa hàng thế giới di động là bao nhiêu vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.95801,
+         "id": "1147451",
+         "field_search": "question",
+         "question": " Giá sim vina bùm tại các cửa hàng thế giới di động là bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.852207,
+         "id": "997295",
+         "field_search": "question",
+         "question": "Bên TGDĐ có bán điện thoại kèm với sim bum giá 350000 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.780432,
+         "id": "999690",
+         "field_search": "question",
+         "question": "Cho e hỏi. Khay sim samsung s7 của e bị gãy và còn kẹt trong máy. Bên cửa hàng có hỗ trợ e lấy ra không ạ. Với bên cửa hàng có bán khay sim s7 không ạ. Giá cả như thế nào. Tư vấn giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.383654,
+         "id": "857027",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là các cửa hàng TGDD thuộc Tỉnh Tuyên Quang có còn bán sản phẩm Laptop Dell Latitude E6510 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.644714,
+         "id": "997394",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu em muốn đổi điện thoại thì em phải ra cửa hàng lúc em mua, hay em được đổi bất kỳ tại các cửa hàng của TGDĐ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.128849,
+         "id": "989847",
+         "field_search": "question",
+         "question": "xin chào.cho hỏi bên tại các cửa hang có bán và đang kí sim số tra sau luôn không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.969587,
+         "id": "1150062",
+         "field_search": "question",
+         "question": "cho mình hỏi khi nào thì các cửa hàng của thegioididong mới bán asus max pro m2 vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.968811,
+         "id": "750551",
+         "field_search": "question",
+         "question": " Hệ thống cửa hàng tại Vinh có bán iPhone 5S cũ không bạn? Giá bán bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.77649,
+         "id": "1023869",
+         "field_search": "question",
+         "question": "Tại các cửa hàng thế giới di động có làm sim hư lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.634575,
+         "id": "990269",
+         "field_search": "question",
+         "question": "ac cho em hỏi , cửa hàng nhà mình có bán trả góp với giá 0đ ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.51549,
+         "id": "1000940",
+         "field_search": "question",
+         "question": "Sim 4g gogo có bán trọn gói 1 năm không ạ? Điện thoại oppo F1 còn bán tại cửa hàng ở Vũng Tàu không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.40339,
+         "id": "1014060",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, bên cửa hàng có bán Pin máy samsung galaxy Young GT-S6310 không ạ, nếu có thì giá bán đang là bao nhiêu ạ!Em xin cảm ơn và rất mong nhận được sự phản hồi của cửa hàng ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.313305,
+         "id": "1014857",
+         "field_search": "question",
+         "question": "Em từng mua máy honor 4c tại cửa hàng mình, nay hết bảo hành, nhưng hiện tại máy em khe thẻ nhớ và sim không nhận thẻ. bên mình có sửa tại cửa hàng k,và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.122885,
+         "id": "1139255",
+         "field_search": "question",
+         "question": " Cho em hỏi hiện bên mình có bán loại sim 4g vinaphone speed không vậy? Giá của nó hiện tại bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.098234,
+         "id": "1154409",
+         "field_search": "question",
+         "question": "QTV ơi! Cho em hỏi là hiện tại cửa hàng mình có bán tai nghe ip6 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.994373,
+         "id": "767331",
+         "field_search": "question",
+         "question": " iPhone 5s hiện tại các bạn đang bán giá 8.490.000đ.vậy cho mình hỏi đây là hàng moi100 hay là hàng cũ,hàng trưng bày? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.975883,
+         "id": "991173",
+         "field_search": "question",
+         "question": "cho em hỏi cửa hàng mình có bán s7 egde cũ không ạ mà giá bao nhiêu ạem cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.849922,
+         "id": "1009289",
+         "field_search": "question",
+         "question": "ad cho e hỏi cửa hàng mình còn iphone 6 plus cũ bán k và giá bán bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.839201,
+         "id": "1161120",
+         "field_search": "question",
+         "question": "Cho em hỏi các mẫu điện thoại Asus đang có sẵn tại cửa hàng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.751215,
+         "id": "1160018",
+         "field_search": "question",
+         "question": "Tôi đang muốn mua cái zenphone m2 de xài ngay vì đang cần dùng mà tgdd chỉ bán online ko bán tại cửa hàng vậy tôi muốn hỏi tgdd đâu là câu khách hàng là thượng đế nữa. Câu cửa miệng của cty tiêu chí khách hàng đặt lên hàng đầu ko còn nữa. Khách mua mà ko bán fai đợi là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.52083,
+         "id": "1154289",
+         "field_search": "question",
+         "question": "Chào bạn!!!!!!!Cho mình hỏi điện thoại huawei nova 3i bây giờ của cửa hàng bán giá bao nhiêu vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.48244,
+         "id": "992816",
+         "field_search": "question",
+         "question": "Cho mình hỏi cửa hàng có bán cáp sạc của Lenovo ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.28408,
+         "id": "1161551",
+         "field_search": "question",
+         "question": "Cho em hỏi bên cửa hàng có bán vỏ sámung note 3 và pin của nó không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.201075,
+         "id": "1142319",
+         "field_search": "question",
+         "question": "Điện thoại Vsmart Joy 1 3GB32GB Đen có mấy sim? Máy có sẵn hàng tại các cửa hàng thế giới di động không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.070786,
+         "id": "1140058",
+         "field_search": "question",
+         "question": " realme C1 có bán tại cửa hàng không ạ................. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.024118,
+         "id": "992440",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện tại cửa hàng có bán pin sạc máy tính dell inspiron N5110 ,input 19.5V4,62A",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.997883,
+         "id": "1017939",
+         "field_search": "question",
+         "question": "tại cửa hàng của tgdđ có bán túi chống nước ko ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.927605,
+         "id": "1150065",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi cửa hàng tgdd ở Bồng Sơn-hoài Nhơn- Bình Định có bán sẵn pin của điện thoại Lenovo a7000 không ạ. Nêu không có thì có đặt mua được không ạ, và Giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.879122,
+         "id": "1168342",
+         "field_search": "question",
+         "question": "A chị cho em hỏi bên cửa hàng mình có bán điện thoại Redmi 7 không vậy ạ? Nếu có thì cho em xin giá luôn với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.874771,
+         "id": "782489",
+         "field_search": "question",
+         "question": " Cho em hỏi bên cửa hàng có bán hàng like new iPhone 6 16gb không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.86157,
+         "id": "1004961",
+         "field_search": "question",
+         "question": "Cho em hỏi mình mua thẻ nhớ 16gb tại cửa hàng tgdđ có đc mua với giá 150k kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.861105,
+         "id": "808899",
+         "field_search": "question",
+         "question": "Cửa hàng có bài viết giảm giá ip 5s xuống còn 250$. Vậy nếu muốn mua mình ra các cửa hàng của tgdđ có được mua ip với giá đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.820385,
+         "id": "1021233",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại 2 sim giá 200.000đ bán tại siêu thị tgdd sắp khai trương tại đường Đồng khỏi Đồng Nai là điện thoại gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.779287,
+         "id": "843767",
+         "field_search": "question",
+         "question": " em muốn mua 1 IP 5c thì cửa hàng mình có bán với giá 2tr7 k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.755096,
+         "id": "1135668",
+         "field_search": "question",
+         "question": " Cửa hàng còn bán sim 4g viettel đăng ký được gói mạng V90 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.752493,
+         "id": "1147625",
+         "field_search": "question",
+         "question": "Ở cửa hàng có bán ốp điện thoại kyocera 503KC ko. Và nếu bán thì cho hỏi giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.72679,
+         "id": "1018091",
+         "field_search": "question",
+         "question": "cho hỏi tgdd có bán thẻ microsd hàng củ giá rẻ không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.700687,
+         "id": "823981",
+         "field_search": "question",
+         "question": " Hiện tại cửa hàng có bán sạc laptop Toshiba kg ạ . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.63404,
+         "id": "929656",
+         "field_search": "question",
+         "question": " Em mua laptop tại cửa hàng giờ không có nhu cầu sử dụng nên muốn bán thù cửa hàng có thu mua lại không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.602646,
+         "id": "1141369",
+         "field_search": "question",
+         "question": "Alo anh chị cho em hỏi .các của hàng tgdd có bán điện thoại ulefon power 5 ko ạ .em đang cần mua loại điện thoại này .pin 13 000 ý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.557657,
+         "id": "862186",
+         "field_search": "question",
+         "question": " thegioididong cho em các cửa hàng của thegioididong có dịch vụ sửa chửa laptop ko ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.45013,
+         "id": "797646",
+         "field_search": "question",
+         "question": "   Cho em hỏi bên mình có cửa hàng nào bán pin của máy HP compaq 420 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.389116,
+         "id": "1022255",
+         "field_search": "question",
+         "question": "Em chào anh chị ạ, cho em hỏi tgdd có bán sim bùm vinaphone ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.326548,
+         "id": "1008100",
+         "field_search": "question",
+         "question": "Chào TGDD : em chuẩn bị mua điện thoại bên cửa hàng. vậy nếu em chọn đặt hàng trước trên website của TGDD thì em có được giảm 40% khi mua các phụ kiện khác không ạ? và em đặt hàng trên website em có thể đến cửa Hàng để kiểm tra lại điện thoại . hay là bên của Hàng giao qua bên em rồi em mới kiểm tra. em muốn đến của Hàng kiểm tra ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.242311,
+         "id": "997168",
+         "field_search": "question",
+         "question": "em mình hỏi 1 cmnnd mua được bao nhiêu sim bum vinaphone",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.211918,
+         "id": "1134494",
+         "field_search": "question",
+         "question": "CHO EM HỎI CỬA HÀNG MÌNH CÒN BÁN OPPO A83 2018 NỮA KHÔNG Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.139395,
+         "id": "1019462",
+         "field_search": "question",
+         "question": "ad cho mình hỏi cửa hàng có bán Asus Zenfone 3 max 5.5 không? giá bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.130966,
+         "id": "1139192",
+         "field_search": "question",
+         "question": " Máy Vsmart đã có hàng trải nghiệm ở các cửa hàng TGDD chưa nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.10786,
+         "id": "1022129",
+         "field_search": "question",
+         "question": "cho em hỏi là cửa hàng có bán máy bluboo s8 chưa vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.099567,
+         "id": "899648",
+         "field_search": "question",
+         "question": "Laptop em mua tại cửa hàng ạ, xài được 5 năm rồi ạ. Hiện tại pin nó bị hư, không ăn điện. Em có thể mang laptop đến cửa hàng sửa chữa không ạ. Và cửa hàng có pin để e thay không ạ. Nếu có, vui lòng cho em biết giá pin luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.059452,
+         "id": "794669",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5S lock có nên mua không? Và tại sao bây giờ em thấy ở cửa hàng bán rất nhiều? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.05693,
+         "id": "1145323",
+         "field_search": "question",
+         "question": "Khi nào zenfone Max Pro. Bán chính thức tại cửa hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.044058,
+         "id": "991764",
+         "field_search": "question",
+         "question": "Cho e hỏi cửa hàng có bán thẻ megacard ko ạ ? Làm thế nào để tìm được những cửa hàng bán thẻ này ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.006018,
+         "id": "996508",
+         "field_search": "question",
+         "question": "Mìh mới mua 1 sim tại cửa hàg bán lẻ, và bây giờ mìh muốn lấy CMND của mìh làm sim chíh chủ đc ko?  Hiện tại sim này là sim đăg kí sẵn của 1 CMND khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.96516,
+         "id": "1139787",
+         "field_search": "question",
+         "question": "cho em hỏi cửa hàng có bán dây sạc cho máy tính bảng huawei t170 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.95391,
+         "id": "1019004",
+         "field_search": "question",
+         "question": "Cửa hàng có bán sim3g4g trọn gói 12 tháng không ah? Giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.912462,
+         "id": "986012",
+         "field_search": "question",
+         "question": "Cho hỏi .  TGDD có bán sim 3G MoBi không giới hạn dung lượng 1 năm k .  Và Giá là bao nhiêu ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.86856,
+         "id": "994687",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi bên cửa hàng của mình có hỗ trợ đổi sim 4G viettel không ạ? Và thủ tục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.789879,
+         "id": "1141478",
+         "field_search": "question",
+         "question": "cho em hỏi  mua máy asus m2 trực tiếp tại cửa hàng TGDD thì có hàng k hay chỉ áp dụng cho mua online  cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.707342,
+         "id": "1140716",
+         "field_search": "question",
+         "question": "Tgdd có bán thẻ funcard ko.mà bán trưc tiếp ở cửa hàng luôn phải ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.702057,
+         "id": "765204",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở cửa hàng có mua lại máy không? Mình mới mua con iPhone 6S 16GB tại cửa hàng được 3 tuần đang muốn bán lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.653679,
+         "id": "1160065",
+         "field_search": "question",
+         "question": "cho e hỏi là, oppo f11 khi nào có hàng ở TGDD ạ ? e ko có cọc trước e định mua tại cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.58977,
+         "id": "1164518",
+         "field_search": "question",
+         "question": "Cho em hỏi là tgdd có bán sim không ạEm đang muốn mua một cái sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.581266,
+         "id": "1138767",
+         "field_search": "question",
+         "question": "https://www.thegioididong.com/cap-dien-thoai/cap-chuyen-2rca-sang-35mm-am-30cm-evalu-lrca-01Admin cho mình hỏi mặt hàng này đều có bán ở các cửa hàng phải k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.560942,
+         "id": "1000238",
+         "field_search": "question",
+         "question": "cửa hàng của mình có bán màn hình note 4 nguyên 1 bộ không ? giá là bao nhiêu vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.532547,
+         "id": "986194",
+         "field_search": "question",
+         "question": "Em có cái đồng hồ thông minh mà bị hư pin mất . Cho em hỏi cửa hàng mình có bán pin đồng hồ thông minh không ? và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.51251,
+         "id": "1133918",
+         "field_search": "question",
+         "question": "cho em hỏi là bên cửa hàng có bán cap chuyển HDMI qua VGA không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.485893,
+         "id": "1009866",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên tgdd còn bán sim 4g viettel không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.483143,
+         "id": "745041",
+         "field_search": "question",
+         "question": " Cửa hàng có bán laptop hp gavilion g4 core i7 không. nếu có giá bán bao nhiêu. em xin cảm ơn nhiều! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.476559,
+         "id": "1020624",
+         "field_search": "question",
+         "question": "ad cho em hỏi,ở cửa hàng có bán ốp lưng máy mobell nova i7 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.426771,
+         "id": "1160479",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu em đã đặt hàng tại tgdd (vì cửa hàng báo tạm hết hàng), nhân viên bảo đã đặt hàng thành công và sẽ chuyển hàng về trong 7 ngày, em chỉ cần đợi đt gọi về và ra cửa hàng nhận máy thôi, nhưng hiện tại em muốn hủy đặt hàng thì còn hủy được không ạ? Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.410625,
+         "id": "845873",
+         "field_search": "question",
+         "question": " Chào TGDđ , mình mua ip 5s tại cửa hàng cách đây 6 tháng , mình muốn bán lại cho cửa hàng có đc k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.381565,
+         "id": "777998",
+         "field_search": "question",
+         "question": " Còn hàng iPhone 5s tại các cửa hàng Buôn Ma Thuột không? 090597xxxx ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.376965,
+         "id": "831302",
+         "field_search": "question",
+         "question": "Cho mình hỏi ,mình mua laptop trong tgdd,nếu máy có lỗi hay trục trặc gì,mình muốn chạy lại win,cài đặt phần mềm...mình mang đến cửa hàng của tgdd thì các bạn kỹ thuật viên của cửa hàng có hỗ trợ giúp mình không ak.Hay mình phải mang đi đâu.Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.354345,
+         "id": "1155437",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu Facebook của mình bị khóa, mình ra cửa hàng của tgdd mình mở khóa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.351463,
+         "id": "1136822",
+         "field_search": "question",
+         "question": "Cho e hỏi cửa hàng hiện giờ còn bán Pin của máy huawei CUNU29 không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.348507,
+         "id": "1014167",
+         "field_search": "question",
+         "question": "Cửa hàng còn bán sim vina bùm không ạ?Có phải mua bất cứ điện thoại nào cũng đều có thể mua sim vina bùm không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.338594,
+         "id": "999381",
+         "field_search": "question",
+         "question": "chào cửa hàng cho mình hỏi mua máy mơi  tại thế giới có đc giảm giá không. mình là khách víp của thế giới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.322578,
+         "id": "993204",
+         "field_search": "question",
+         "question": "Cho em hỏi e vừa mua galaxy j7 prime đc khoảng 1,5 tháng(mua tại tgdd).. nếu em bán j7 prime và mua 1 đt khác vậy thì giá của j7 prime khi bán lại đc giữ nguyên giá lúc đầu hay sao ạ?. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.285814,
+         "id": "757956",
+         "field_search": "question",
+         "question": " Em mua laptop trả góp tại cửa hàng của mình bây giờ em không thích xài laptop nữa em có thể nào bán lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.254835,
+         "id": "1167962",
+         "field_search": "question",
+         "question": "asus max pro m1 bên cửa hàng mình còn bán ko ạ và giá là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.251987,
+         "id": "990307",
+         "field_search": "question",
+         "question": "QTV cho em hỏi, thời gian làm việc của các cửa hàng thegioididong.com là từ mấy giờ đến mấy giờ vậy ạ?Cám ơn QTV ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.24896,
+         "id": "1158671",
+         "field_search": "question",
+         "question": "Cửa hàng cho em hỏi tại sao oppo a3s không tải được facebook ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.245333,
+         "id": "1138792",
+         "field_search": "question",
+         "question": " Cho mình hỏi sản phẩm Tai nghe bluetooth Plantronics ML15 có áp dụng giảm giá khi mua tại cửa hàng không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.205975,
+         "id": "1151767",
+         "field_search": "question",
+         "question": "Chào AdminMình cần mua 1 chiếc iPhone 7 plus mà mình hiện nay đang ở tại thị xã Giá Rai, Bạc Liêu vậy cửa hàng thế giới di động tại thị xã Giá Rai có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.14316,
+         "id": "1138664",
+         "field_search": "question",
+         "question": " xin hỏi, cửa hàng đã có điện thoại Vsmart chưa ? có giá chưa ? và các loại ? mầu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.101469,
+         "id": "801038",
+         "field_search": "question",
+         "question": "Tgdd cho em hỏi với ạ, hôm nay em đi mua ốp viền cho 5s của em (mới mua ở tgdd) và không lắp được hầu hết các ốp cứng. Người bán hàng bảo máy em đã bị thay vỏ. Có chuyện này hay không và em nên làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.094307,
+         "id": "1006630",
+         "field_search": "question",
+         "question": "em vua mua sim 3g vina bum 01257440704 ma sao ko sài dc vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.062572,
+         "id": "997010",
+         "field_search": "question",
+         "question": "Cho em hỏi, e mang dt đến cửa hàng tgdd bảo hành, e có được mượn dt của cửa hàng để sử dụng trong thời gian dt e bảo hành không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.037922,
+         "id": "999742",
+         "field_search": "question",
+         "question": "cho e hỏi cửa hàng mình có bán lap trả góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.037395,
+         "id": "1014373",
+         "field_search": "question",
+         "question": "E đồngua một sim 4g viettel ở tgdd đc gần 1 tháng thì có tin nhắn như thế này gửi cho em, cho e hỏi e phải làm sao ạ và e có cần ra tgdd hay không vì gần nhà e thì không có tgdd cũng như cửa hàng của viettel",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.036074,
+         "id": "1143782",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6, 6s bên cửa hàng còn có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.0354,
+         "id": "1015034",
+         "field_search": "question",
+         "question": "Có bán gear s3 dùng sang tay ở cửa hàng ko ạEm muốn hỏi cửa hàng nào có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.005207,
+         "id": "1005233",
+         "field_search": "question",
+         "question": "Xin chào! Mình có mua 1 laptop Dell Inspiron 15-3552 ở cửa hàng vào tháng 2/2017, hiện tại mình muốn bán lại, ko biết cửa hàng thu lại với giá thế nào? Mình đã mất hóa đơn, cửa hàng có thu lại dc ko?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.970204,
+         "id": "1164516",
+         "field_search": "question",
+         "question": "Cho mình hỏi cửa hàng có bán cục sạc samsung a50 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.934318,
+         "id": "858254",
+         "field_search": "question",
+         "question": " Cho e hỏi e có mua iPhone 5s tại cửa hàng đc 3 tháng giờ e muốn để lại cho cửa hàng thì giá cả như nào ạE cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1001507",
+   "total": 31614,
+   "total_current": 100,
+   "max_score": 116.30044,
+   "origin_question": "vega a870 của mình bật nguồn lên máy báo rất tiếc giao diện đã dừng và  com.android.systemui và sau đó ko thể dùng máy. tháo pin ra lắp lại thì đt lại chạy bt là sao vậy",
+   "hits": [
+      {
+         "score": 41.98915,
+         "id": "807611",
+         "field_search": "question",
+         "question": "Cho e hỏi máy em là Oppo r1001, giờ bị hiện lên chữ \" rất tiếc, mở khóa nguồn gốc đã dừng lại\" và \" rất tiếc, com.oppo.exserviceui đã dừng lại\" vậy điện thoại e có sửa được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.073727,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.857132,
+         "id": "1015137",
+         "field_search": "question",
+         "question": "Máy tính bảng trio AXS .bị  \"rất tiếc . Giao diện người dùng đa dừng lại \"vậy là sao ? Chỉ bấm dc mối chứ ok. Chẳng bấm gì đc nứa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.703156,
+         "id": "1151793",
+         "field_search": "question",
+         "question": "Mình dùng đt sony xa ultra tự nhiên cứ hiện lên dòng thông báo \" rất tiếc google play services for instant apps đã dừng lại\" là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.435776,
+         "id": "816275",
+         "field_search": "question",
+         "question": "Xin chào ! Mình đang dùng chiếc ip4s . Hôm qua mình có sử dụng ip hết pin và sập nguồn  Sau đó mình sạc pin , nhưng cứ khi mà rút sạc ra là máy bị tắt nguồn trong khi đó pin đầy và khi vẫn đang sạc mình bật máy lên chỉ hiện màn hình đc tầm 5s và sau đó lại bị tăt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.355885,
+         "id": "1152237",
+         "field_search": "question",
+         "question": "Sao máy ss A7 2018 64G mk lắp 2 sim tắt nguồn bật lại sao lại bị báo cuộc gọi gần khấp mk tháo ra lắp lại nó mới dk song cứ tắt nguồn lại bj như cũ cho hỏi máy bj lsao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.069122,
+         "id": "1159495",
+         "field_search": "question",
+         "question": "Mình dùng đt samsung a9 máy báo phát hiện độ ẩm cổng sạc...sau khi chờ khô máy hết báo mình sạc lại vẫn vào nhưng máy không lên pin và chỉ dừng lại ở mức 2-3%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.01687,
+         "id": "1142329",
+         "field_search": "question",
+         "question": "Em dùng oppo a11w. Đang dùng tự nhiên nó hiện lên cái gì cũng rất tiếc đã dừng lại, vào cái gì cũng ko được, vào cài đặt cũng không được luôn. thử tắt nguồn rồi bật lại nhưng nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.88663,
+         "id": "1168413",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6s plus máy còn 99% thì sập nguồn bật lại ko lên, cắm sạc vào thì máy chạy bình thường. Nhưng rút sạc ra là máy lại sập dung lượng pin vẫn ghi 100% Máy em bị làm sao và cách khắc phục là gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.885536,
+         "id": "1016358",
+         "field_search": "question",
+         "question": "Điện thoại mình khi mở lên nó hiện ra Rất tiếc, Q Launcher đã dừng lại thì làm thế nào ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.665142,
+         "id": "1015791",
+         "field_search": "question",
+         "question": "Tại sao Lenovo K5 Plus không thể khôi phục cài đặt gốc được.Cụ thể: Khi nhấn vào \"Đặt lại về dữ liệu gốc\" thì máy báo \"Rất tiếc, cài đặt đã dừng lại\". Mạc dù đã khởi động lại vẫn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.5806,
+         "id": "1024286",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình vẫn đang xài đt itel it1516 plus bt thì tự động tắt nguồn và sau đó mở nguồn ko lên được nữa. Pin thì vẫn còn. Ko biết là bị gì nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.251522,
+         "id": "1022647",
+         "field_search": "question",
+         "question": "Dt samsung j2 prime của tôi khi ko lắp sim và lắp sim dùng được một lúc thì lại yêu cầu nhập mã pin là bị sao vậy ? Trog khi đó tôi đã chạy hardreset lại rùi ? Xin chuyên gia giúp tôi .tooi xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.239626,
+         "id": "793019",
+         "field_search": "question",
+         "question": "Máy của mình là somy Xperia M5 dual. Khi bật camera thì máy báo lỗi: máy ảnh hoặc đèn nháy có thể đang được ứng dụng khác sử dụng.Hãy đóng ứng dụng đó và thử lại. Mình đã kiểm tra nhưng ko thấy ứng dụng nào chạy và dùng camera và đèn cả. Mong các bạn giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.014416,
+         "id": "1019959",
+         "field_search": "question",
+         "question": "cho em hỏi e đang dùng oppo Neo 7 đang dùng bình thường tự dưng sập nguồn sau đó không bật nguồn lên được nữa.cắm sạc vào thì thông báo điện thoại pin yếu không thể bật nguồn được là bị sao vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.89636,
+         "id": "973300",
+         "field_search": "question",
+         "question": "iFile là ứng dụng quản lý file cho iOS,tôi cài iFile cho iPhone chưa jailbreak, tôi làm như sau: Tải về file IPA ứng dụng iFile (). Tải về ứng dụng Cydia Impactor (). Kết nối máy iPhone của bạn với máy tính hay máy Mac, chạy Cydia Impactor. Sau đó cài file IPA của iFile vào máy của mình thông qua Cydia Impactor.Khi Cydia impactor chạy và báo GeneratingApplicasionMap thì dừng lại, tôi chờ 2h sau vẫn thấy vậy nên cài lại từ đầu thì đến đó lại dừng, tôi tải lại như bước 1,2,3 rồi làm lại vẫn thế, tôi vào trag khác tải và cài lại vẫn như vậy rồi dừng lại, vậy tại sao và xử lí thế nào, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.892616,
+         "id": "1018123",
+         "field_search": "question",
+         "question": "Chào add. Mình mới mua cái máy ip 7 plus của shop. Trong quá trình dùng máy thì máy có hiện tượng loa rè và ko thể nghe khi có người gọi đến. Mang máy ra thế giới di động thj bộ phận ký thuật tắt nguồn máy và bật lại thì hiện tượng đó ko còn. Về nhà dùng thj thỉnh thoảng lại bị và mình cũng lại tắt nguồn và bật lại thì hết. Mình được phép đổi máy mới nhưng cứ mang ra tgdd thì lại ko có hiện tượng đó nữa. Bộ phận kỹ thuật ko chịu đổi máy mới cho mình. Vấn đề này mình rất bức xúc. Nếu máy ko bị vậy thì mình mang ra đổi làm gì cho mất công. Trước khi mua máy bộ phận bán hàng có nói là đổi ngay trong 1 tháng nếu máy lỗi. Máy như vậy mà ko được đổi mình rất bực. Tại sao khi bán hàng thì ngon ngọt như vậy mà khi gặp sự cố lại gây khó khăn với mình như vậy. Có phải các bạn cứ bán được hàng xong là xong phải ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.754932,
+         "id": "826713",
+         "field_search": "question",
+         "question": "Chào các bạn! Mình đang dùng iphone4, khi sạc pin % báo đầy rồi máy tự tắt nguồn. Mình bấm nút khởi động thì màn hình hiển thị rắc cắm và pin đã hết. Cắm nạp vào lại hiển thị pin hết, rất lâu máy không lên là bị sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.045937,
+         "id": "862659",
+         "field_search": "question",
+         "question": "E đang dùng em 6 plus bt thì máy sập nguồn rồi bật không lên đc. Để lâu lâu thì nó lại lên cắm sạc vào bt nhưng dùng ít lâu lúc thì đc 1 ngày lúc thì đc vài tiếng và có thể là lên đc 1 lúc rồi lại sập. E bị 5 6 lần như vậy rồi mà mấy lần gần đây nhất thì máy lên nhưng báo pin hết và màn hình hiện chờ cắm sạc. mấy lần đầu thì e cũng tìm hiểu lỗi DFU và retore = itunes máy lên nhưng vẫn sập. E đang thắc mắc k biết có phải do nguồn k hay là do pin ạ.Thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.895664,
+         "id": "1147675",
+         "field_search": "question",
+         "question": "cho hỏi khi tháo lắp sim sony xperia ultra dual thì máy sẽ auto khởi động lại khi tháo cũng như khi lắp.. v cho mình hỏi có cách nào tháo lắp máy vẫn chạy ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.648058,
+         "id": "1142261",
+         "field_search": "question",
+         "question": "Cữa hàng cho e hỏi máy cũa e nokia5.1 plus hôm trước hết pin tắt nguồn. Khi e bật lại thì giao diện và nút Home đều thay đỗi. Làm sao khắc phục như ban đầu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.477522,
+         "id": "1004819",
+         "field_search": "question",
+         "question": "Mình đang dùng thì laptop tự sập nguồn. Sau đó có thử bật lại nhưng máy không lên và cắm sạc cũng k vào. Có ai biết đây là lỗi gì và cách khắc phục k ạ? :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.336693,
+         "id": "807941",
+         "field_search": "question",
+         "question": "Máy Oppo r1001 hiển thị \"rất tiếc. com.oppo.exserveceui đã dừng lại\" thì phải làm sao, e đã khôi phục cài đạt gốc r mà không được, nó vẫn hiện lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.298132,
+         "id": "1023288",
+         "field_search": "question",
+         "question": "cho mình hỏi, minh mới mua J7, máy khi tắt nguồn khởi động lại thì chỉ hiển thị sim 2, còn sim 1 thì ko có. phải tháo sim ra lắp lại thì mới có. tại sao lại như vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.296001,
+         "id": "1020967",
+         "field_search": "question",
+         "question": "máy em bị lỗi rất tiếc, quá trình com.google.processgapps đã dừng lại. em phải làm s ạ. Máy em là asus zenfone 4.5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.15137,
+         "id": "763998",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s khi mình đã cắm sạc và nó đã báo kí hiệu đang sạc nhưng không lên được % pin nào tắt nguồn bật lại vẫn vậy. Cho mình hỏi bây giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.061954,
+         "id": "1152772",
+         "field_search": "question",
+         "question": "Cho e hỏi e dùng samsung galaxy J7 mà nút nguồn tăng giảm âm lượng với ba nút đa nhiệm không dùng được thì phải làm sao ạ chỉ có tháo pin ra và cài vào lại bật nguồn lên mới chợ được nhưng vẫn không dùng được mấy nút đó thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.054857,
+         "id": "1012410",
+         "field_search": "question",
+         "question": "mình có con HTC desire 620 sạc pin vẫn lên màn hình và báo phần trăm pin nhưng bật nguồn ko lên là bị sao vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.045916,
+         "id": "1147233",
+         "field_search": "question",
+         "question": "mình đang dùng asus zenfone go, mày mình bị tự động tắt nguồn, và hiện lên logo asus inseach of incredible, lần đầu mình tháo pin, lắp lại mở nguồn thì hiện lên adroid đang tối ưu hóa ứng dụng mình để tối ưu xong thì máy vào dc bình thường. minh đã cài đặt máy về khôi phục gốc, mày bị nhiều lần như vậy. Tuy nhiên mới đây nhất, máy tự tắt nguồn khi khởi động lại thì treo logo asus inseach of incredible không thể lên dc màn hình, ko biết máy mình bị làm sao ạ, mình cảm ơn ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.041931,
+         "id": "782625",
+         "field_search": "question",
+         "question": "Mình đang dùng IPhone 5. Khi khóa màn hình. bật nút nguồn lên thì màn hình chỉ sáng mờ mờ đen, ko hiển thị ra giao diện chính của máy là sao. Mặc dù gọi đến hay nhắn tin đều nghe được chuông, Và lưu chụp màn hình thì vẫn đc. Lâu lâu những lúc khóa màn hình thì bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.954414,
+         "id": "862224",
+         "field_search": "question",
+         "question": "cho em hỏi em dùng ip4. em sạc đầy 100% mà dùng đc vài phút nó đã sập nguồn báo hết pin . em cắm sạc tiếp thì nó lại hiện màn hình lên bt nhưng khi rút ra thì lại sập tiếp ạ . máy em có fai hỏng ic nguồn ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.938648,
+         "id": "1016160",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao khôi phục cài đặt gốc nó cứ bảo rất tiếc cài đặt đã dừng lại là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.860268,
+         "id": "1018427",
+         "field_search": "question",
+         "question": "Cho em hỏi : máy của em sạc đầy 100% rồi sau đó em dùng còn 97% rồi sau đó ko dùng nữa. Một lúc sau mở máy lên thì máy tự khởi động lại . Lúc này pin điện thoại lại hiện lên 99% . Vạy pin của em có bị làm sao ko ạ. Máy em là samsung j2 ạ. Mong anh chị giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.478706,
+         "id": "779942",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình có một chiếc iphone 6 trước có dùng sim của Mobi và lưu số vào sim. Trước khi rút sim ra mình đã lưu danh bạ vào máy. Tuy nhiên khi lắp sim quốc tế (Mỹ AT&T) vào máy thì tin nhắn chuyển thành dạng số và k có tên (ấn vào xem details của message thì vẫn hiển thị tên). Tháo sim at&t ra và lắp lại mobi thì lại hiện tên. Vậy đấy là lỗi gì và giúp mình khắc phục. Mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.4587,
+         "id": "862661",
+         "field_search": "question",
+         "question": "E đang dùng 6 plus bt thì máy sập nguồn rồi bật không lên đc. Để lâu lâu thì nó lại lên cắm sạc vào bt nhưng dùng ít lâu lúc thì đc 1 ngày lúc thì đc vài tiếng và có thể là lên đc 1 lúc rồi lại sập. E bị 5 6 lần như vậy rồi, mấy lần đầu thì e nó khởi động lên luôn mà bh thì e nó lúc nào lên đc thì báo hết pin và hiện màn hình chờ cắm sạc. Nhưng e cắm sạc vào thì nó lại mất nguồn. Bây giờ e đang lo quá k biết ntn, k biết là do pin hay do nguồn nữa mong add chỉ giúp ạ.Thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.451801,
+         "id": "1009811",
+         "field_search": "question",
+         "question": "Tại sao facebook tải về rồi mà vào thì cứ nói là \"rất tiếc, facebook đã dừng lại\" mà chuyển từ thé SD sang bộ nhớ trong thì ko dc vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.29969,
+         "id": "1152018",
+         "field_search": "question",
+         "question": "Máy của em là Samsung Galaxy FE. Mới đây em có đổi thẻ nhớ, thì khi chuyển nhạc vào và ứng dụng thì dùng bị lỗi, trong khi thẻ nhớ cũ lại không bị, em tháo ra lắp thẻ nhớ cũ vào và không sao, dùng thẻ mới thì những ứng dụng chuyển vào thẻ nhớ bị dừng, thi thoảng tắt nguồn sẽ bị tắt hết nhạc, do thẻ nhớ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.289824,
+         "id": "1014946",
+         "field_search": "question",
+         "question": "em bị lỗi rất tiếc cài đặt đã dừng thì sửa sao ạ máy asus k012",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.085676,
+         "id": "1009716",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi Sao máy mình đang dùng wifi nhà bt giờ lại k tìm thấy đc wifi đó, trong khi mấy máy khác dùng ok mạng rất manh.Các wifi khác thì máy vẫn bắt bình thường Em đã reset máy và tắt modum wifi bật lại mà k tìm đc wifi nhà Mong ad giúp e máy lumia 525 ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.953402,
+         "id": "782122",
+         "field_search": "question",
+         "question": "mình vừa mua ip 6s lúc mình chưa lên 9.2 thì máy dung vẫn bt nhưng mình vừa lên 9.2 thì dùng bị lỗi phần trăm pin như kiểu máy dùng lâu ngày bị pin ảo ấy thì phải làm như thế nào, tắt máy bị bật lại lúc sau lại bị :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.612364,
+         "id": "1001540",
+         "field_search": "question",
+         "question": "Cho mình hỏi? Laptop mình đang xài bt và tắt máy. Hôm sau mở nguồn không lên, Cắm Adapter cũng ko lên nguồn cho hỏi laptop mình bị lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.554325,
+         "id": "1150678",
+         "field_search": "question",
+         "question": "em dùng asus 5 , em tải b612 về mà cứ bị thông báo là \" rất tiếc , b612 đã dừng lại \" em xoá hết dữ liệu trên điện thoạii rồi cài lại mà vẫn kh được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.433867,
+         "id": "986481",
+         "field_search": "question",
+         "question": "máy tính của mình sạc đến 95% là dừng và k lên nữa.. rút sạc ra là tự sập nguồn cắm sạc vào mới bật được máy trong khi hôm trc 1 ngày vẫn dùng bình thường? cho hỏi máy mình gặp lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.394064,
+         "id": "1137731",
+         "field_search": "question",
+         "question": "Dạ ipad acer của em bật ko lên nguồn và sạc ko vào em ko hiểu sao nữa cho thể cho em bt nó bị j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.37522,
+         "id": "1138409",
+         "field_search": "question",
+         "question": "điện thoại mình đang dùng là J7 prime, tự dưng lại bị lỗi sạc ( máy mình dùng không rơi rớt hay bị dính nước, cáp sạc vẫn tốt và nguồn điện vẫn tốt). mình tắt nguồn để sạc thì pin báo sạc và tăng % pin nhưng đến khi bật nguồn thì pin không báo sạc nữa. không biết là bị lỗi gì? có ai đã bị như mình chưa ạ? mong ad phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.293385,
+         "id": "1020135",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony XA của mình bây giờ vào came cứ bị đẩy ra. Báo là camera đã dừng là sao vậy. Mình đã vào cài đặt ứng dụng và xoá dữ liệu khởi động lại vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.28109,
+         "id": "999927",
+         "field_search": "question",
+         "question": "em xài oppo a11w ạ...máy em bị bị dừng tât cả các ứng dụng.. và  hiện lên chữ com.google.process.gapps đã dừng lại.. bây giờ thì phải làm s thì mới có thể dùng lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.15227,
+         "id": "1147092",
+         "field_search": "question",
+         "question": "Máy em dùng là hp máy ngày trước bị tắt nguồn do hết pin sau đó vẫn có thể sử dụng và hôm nay em mở máy thì vẫn xem được nhưng một lúc thì máy không thể kết nói wifi nên em thử restart khởi động lại máy nhưng lại bị lỗi preparing automatic prepair em đã thử F8, ship F8, thì có nổi lên biểu tượng \" :( \" và một dòng chữ \" ..... You can restart \" sau đó em lại mỡ máy lại mà máy tính chỉ xuất hiện màng hình đen với biểu tượng hp và dòng chữ preparing automatic prepair và không xuất hiện thêm gì. Xin hãy giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.126099,
+         "id": "871244",
+         "field_search": "question",
+         "question": "Tình hình là bây giờ đt em vào messenger với facebook được luôn rồi ạ :( em đã làm đủ mọi cách mà cái anh hồi sáng chỉ em vẫn ko vào đc :( vào nó cứ báo \" Rất tiếc, Facebook đã dừng lại \" :( \" rất tiếc, Messenger đã dừng lại \" :((... Em đã khôi phục dữ liệu gốc rất nhiều lần rồi mà vẫn ko vào facebook với messenger đc :( Anh chị nào còn cách nào fix đc lỗi ko chỉ em với... Em cảm ơn trước !!! :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.066082,
+         "id": "1022995",
+         "field_search": "question",
+         "question": "Em dùng samsung j2 khi sạc qua đêm thì thấy điện thoại sập nguồn bật ko lên phải tháo pin bật lại mới được.em bị 2 lần như vậy rồi xin giup em cách khác phụn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.83628,
+         "id": "764955",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi, laptop của mình i3 card rời đang chạy win 8 máy mình cứ khoảng 2 ngày ko dùng thì bật lên máy khởi động rất chậm và bị treo nếu ngày nào cũng dùng thì ko sao nhưng cứ để khoảng 2 , 3 ngày mới dùng thì có hiện tượng như vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.819878,
+         "id": "1137939",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi máy mình là vivo y55 bây đang bị lỗi thật đáng tiếc màn hình chờ đã dừng lại mình thử tắt nguồn r ko đc nên khắc phục như nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.775707,
+         "id": "879722",
+         "field_search": "question",
+         "question": "Hiện e đang sử dụng laptop Asus A540LJ i3, cho e hỏi pin có thể tháo rời ra khỏi máy ko ạ?. Nếu đc thì e có thể tháo pin ra đến khi cần thì mang theo để lắp vào máy, còn lúc ở nhà thì có thể vừa cắm điện vừa xài mà ko cần pin ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.716194,
+         "id": "1157141",
+         "field_search": "question",
+         "question": "AD cho mình hỏi, mình mới mua đien thoại nokia 8.1 , trên menu hỗ trợ có các icon khoá màn hình, âm lượng, gợi ý, chụp màn hình ... Nhưng tự nhiên sao tối mình sạc pin xong sáng dậy mở menu lên thấy xác icon rất to, âm lượng chia ra 2 icon tăng và giảm, độ sáng màn hình cũng vậy, chức năng smart lock mở ra ko có gì, sau khi reset lại thì smart lock đã có lại và đã nhận diện dc khuôn mặt, còn icon menu hỗ trợ ko như trước, nhờ AD hỗ trợ giúp mình, máy giờ dùng rất nóng, tks AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.715506,
+         "id": "809307",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao máy ip4 của em bị rớt sau đó em đã restore và nâng cấp lên ios 7.dùng cỡ mấy tiếng thì điện thoại tắt nguồn mà không bật lên đc,cắm sạc thì chỉ có lên hình trái táo rồi nó tắt rồi nó hiện hình trái tạo lại, mà rút sạc ra thì tắt nguồn mà không lên được cho em cách khắc phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.715084,
+         "id": "1023291",
+         "field_search": "question",
+         "question": "Mk dùng s6 edge plus đk 1 năm rồi. Dạo này máy sạc pin nhanh đầy. Dùng thì hao pin nhanh. Báo pin ảo. Tệ nhất là từ hôm qua đến giờ máy bị sập nguồn khởi động k lên hay lên xong lại sập. Cắm sạc vào thì lên và dùng bình thường.rút sạc ra là sập nguồn. Cho mình hỏi hiện tượng này là sao ạ? Cách khắc phục là gì ạ? Cảm ơn tgdd.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.685532,
+         "id": "1142794",
+         "field_search": "question",
+         "question": "cho mình hỏi ipad ari của mình up lên ios 12.1.2 thì nút bật tắt wifi bị mờ và ko sử dụng được và máy sạc đầy pin vào tối lúc 18h thì sáng hôm sau máy tự đông hết pin và tắt nguồn luôn mặc dù mình ko có sử dụng sau khi sạc đầy,hiện tượng pin này bị 2 ngày liên tiếp rồi và chỉ xảy ra sau khi up ios 12.1.2 thôi. Có cách nào khắc phục được ko vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.638483,
+         "id": "1021604",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi đt xiaomi redmi 1s  em  sạc đt mở nguồn mãi kh lên . và mổi lần e cấm sạc vào là đt e nóng tăng dần lên. Lúc tháo sạc ra thì lại hết nóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.636866,
+         "id": "1134034",
+         "field_search": "question",
+         "question": "Cho mình hỏi.máy a7 2018 đang lắp 2 sim dùng bt.thỉnh thoảng nó lại bị mất 1 sim.lại phải tháo ra lắp lại mới được là sao.hay lặp lại như vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.601702,
+         "id": "1143873",
+         "field_search": "question",
+         "question": "Alô ạ. ĐT cua e là sony X. Nhưng hiện tại lắp sim vào thì máy cứ báo KHông có dịch vụ. E lắp di lap lại mà ko DC. Sim lap sang máy khác thì lại dùng OK. Liệu máy của e giờ gửi lên tgdd thi sửa lâu ko. Mất nhiều tiền ko ạE cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.591537,
+         "id": "795825",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Điện thoại Samsung Galaxy Note 2 của mình bị hết pin sập nguồn, sau khi sạc và bật nguồn thì máy ko lên nguồn nữa. Màn hình chỉ lên mỗi chữ Samsung thôi. Cho mình hỏi làm thế nào để khắc phục tình trạng này? Là do máy hay do pin bị lỗi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.561665,
+         "id": "1150109",
+         "field_search": "question",
+         "question": "Em dùng htc one e8 . Máy em thỉnh thoảng đang dùng thì nó tự sập nguồn ,mở lên 1lúc lại tự sập nguồn. đoi lúc nó sập nguồn bật ko lên nguồn sạc cũng ko lên, để cho Nó hết kiệt pin sạc vô mới lên. Rồi cứ thế a. Vậy là sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.526653,
+         "id": "1151852",
+         "field_search": "question",
+         "question": "Máy em là Samsung s7 edge, giwof em muốn cài thành giao diện giống s8 có đk ko? Và em đã thử tải và cài giống trên mạng và máy báo \"Ứng dụng chưa được cài đặt\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.523956,
+         "id": "1020499",
+         "field_search": "question",
+         "question": "Khi người khác gọi đến thì vẫn nghe đc nhạc chờ. Nhưng điện thoại em lại hiện thị \" Rất tiếc, Điện thoại đã dừng lại\" và em ko thể nhận đc cuộc gọi. Ko biết đang bị tình trạng gì ạ. Điện thoại wIKO rainbow lite.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.458113,
+         "id": "858372",
+         "field_search": "question",
+         "question": "Xin chào mọi người. Hôm trước tớ mới đi thay pin của iPhone 4 IOS 7.1.2 mà bây giơ tớ cũng không biết điện thoại bị làm sao. Tình hình là: Hồi đầu vừa thay khoảng 2 ngày, điện thoại dùng rất bình thường, nhưng bỗng nhiên sau 2 ngày thay, nó tắt ngúm, tớ bật mãi không lên. Nhưng mà khi tớ cắm sạc vào thì lại lên như bình thường, lúc đó mới rút sạc ra nhưng tự nhiên nó lại tắt. Sau khi cắm sạc vào và để điện thoại hiện ra màn hình nền, pin của tớ là 92%, sau đấy tớ cắm hơn 3 tiếng đồng hồ, bật lên nhìn thì pin vẫn 92%, không nhúc nhích và thậm chí là nó còn hiện lên dòng chữ:\" Cần để nguội iPhone trước khi sử dụng\" Sau đó tớ không dùng iPhone trong 1 ngày, cũng rút sạc ra để nó tắt nguồn. Ngày hôm sau, tớ vẫn phải cắm sạc nó mới lên nguồn, nhưng nó vẫn hiện lên dòng chữ đó. Thật sự rất khó hiểu. Có phải tớ thay phải pin dởm không ạ? :((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.400843,
+         "id": "1153801",
+         "field_search": "question",
+         "question": "Em mới mua galaxy a7 2018 hồi 18 tháng 1. Bây giờ có đôi khi đang sử dụng thì máy đột nhiên khởi độg lại liên tục hoạc đang sạc thì khởi động lại và nếu tháo dây ra thì máy mất nguồn dù máy đã đạt 70% pin. Em hỏi em có thể ra tgdd đổi máy dc ko.? Hoặc có biện pháp nào khắc phục ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.325937,
+         "id": "1010394",
+         "field_search": "question",
+         "question": "- Đt của mình là Mobell Nova P2 và dung lượng pin là 4000 mAh, mà bây giờ pin ko còn trâu như khi mới mua và hao pin rất nhanh đôi khi vừa sạc xog xài đc vài phút đã thông báo là pin còn 15%...?! Pin rất thất thường có khi pin đang yếu pin vừa mới cắm sạc thì pin đã gần đầy.??!- Khi mình tải ứng dụng Battery Docter về đt rồi vô chỗ chi tiết pin thì lại hiện là pin có 1000 mAh.???- Bh mình phải làm sao...?! Và thay pin cho đt của mình thì tốn bao nhiêu tiền.??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.26308,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.208128,
+         "id": "900378",
+         "field_search": "question",
+         "question": "Dell N5558 i7 của mình tại sao mỗi lần sạc là độ chai pin lại tăng lên rất nhiều(5-7%) Wear level). Mình chỉ dùng máy khi pin đã 100% thôi. Và 2 tuần là xả pin 1 lần. Như vậy là bị làm sao ạ? Mong QTV tư vấn ạ! Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.200092,
+         "id": "944444",
+         "field_search": "question",
+         "question": "Mình dùng 6s, khi đăng hình thì nó báo là \"Không thể đồng bộ nhật ký lên máy chủ\". Mình đã xóa ứng dụng cài lại, tắt nguồn khởi động lại đều ko dc. Vui lòng hỗ trợ mình với. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.146461,
+         "id": "922937",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình gọi viber ,bên kia bắt máy nhưng mà mình bật video lên thì nó báo hiện tại số đien thoại này ko thể gọi video ,nhưng người bên kia không biết gì về thông báo đó ,rồi một lát sau lại gọi được vậy là bị gì vậy ,giup mình vơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.11162,
+         "id": "962707",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 7 ios 10.2.1Hôm qua khởi động lại máy thì máy báo không kích hoạt được imessage và facetime. Mình làm đủ cách không được. Sau đó lắp sim 10 số vào thay sim 11 số trong máy ip thì lại kích hoạt đc ngay. Lắp lại sim 11 số vào thì lại báo không kích hoạt đc. Ad chỉ cách cho m xử lý trường hợp này với. M dùng mạng viettel.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.09008,
+         "id": "1147831",
+         "field_search": "question",
+         "question": "Oppo R1S R8007 của em để khá lâu r, h bật ko lên nguồn, cắm sạc thì thấy đầu điện thoại nóng mà không thấy hiện đèn báo sạc, sau khi sạc xong khoảng hơn tiếng, em bật nguồn cũng ko lên sau đó em thử bật nguồn và giữ phím giảm âm lượng cũng không lên. Bác nào giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.955387,
+         "id": "915994",
+         "field_search": "question",
+         "question": "em đang dùng máy inspiron 15 3000series core i3 4gb ram. em k biết là lổi hay do máy mà loa của máy lúc mới mở lên thì nge to sau đó lại giảm ngỏ dần lại. cắm loa ngoài thì \"bass\" của loa lại rất nhỏ trg khi đó đã mở hết cở. cắm điện thoại vào thì bass của loa nge bt khắc hẵn vs lap.k biết ntn các mong các a.c hổ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.949547,
+         "id": "807480",
+         "field_search": "question",
+         "question": "Máy tính của mình hong pit bị sao mà giờ mở cốc cốc lên nó lại ra giao diện như yahoo ấy ... ai giúp mk cho nó trở lại bình thường được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.911106,
+         "id": "767695",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đã đk gói 3g của viettel, nhưng sau khi bật dữ liệu di động thì máy không hiện 3g mà hiện chữ E làm máy chạy rất tốn pin và max chậm. ad giúp e vs e dùng iPhone 4S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.892088,
+         "id": "1020526",
+         "field_search": "question",
+         "question": "Mình dùng ip5. Tại sao khi vô appstore tải ứng dụng thì tốc độ tải rất chậm dường như là ko chạy% trong khi đó mình vô ytb xem phim vẫn bt. Thế là sao ạ và khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.87991,
+         "id": "1001515",
+         "field_search": "question",
+         "question": "máy đt acer của mình nó hay bị tắt nguồn. đợi 15 phút sau mình khởi động lại được thì mình đặt lại về dữ liệu gốc. là nó đen màn hình luôn. bật nguồn thì nó chớp màn hình. sạc thì ko thấy lên màn hình... Trung tâm giải đáp giúp mình với ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.869928,
+         "id": "786517",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là pin laptop Asus X550C của mình sạc mãi mà chỉ có 79% mà ko lên được nữa trong khi đèn báo vẫn là màu đỏ... Sau đó mình có dùng hết sạch pin rồi mình sạc lại thỳ pin không lên được % nào ( 0% )trong khi máy vẫn báo đang sạch ( plugged in, charging )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.86991,
+         "id": "1138977",
+         "field_search": "question",
+         "question": "Em dùng điện thoại Lenovo Fhab. Hôm nay em vẫn dùng bình thường, đến lúc cắm cổng OTG để dùng chuột thì bật không lên nguồn nữa, pin vẫn còn 50%. Em thử reset máy mà vẫn không được. Pin liền nên em không tháo pin ra được. Cho em hỏi máy em bị gì và em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.801624,
+         "id": "1022933",
+         "field_search": "question",
+         "question": "mọi người cho em hỏi máy samsung galaxy granl prime của em thường bị tình trạng máy báo là:\"keygua testactivity đã dừng lại\"rồi chỉ bấm ok và gạt được thông báo chứ chả làm được gì nữa cả.mang ra hiệu thì bảo chạy phần mềm rồi được 1 tháng lại như cũ.ai giúp em với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.768192,
+         "id": "1141386",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao điện thoại Xiaomi a2 lite tô mới mua ở TGDD 2 ngày mà hôm nay xài một lúc lại bị văng ra màn hình chính, màn hình bị để một chút, rồi nó hiện \" rất tiếc, người dùng hệ thống đã dừng lại\"  là thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.762827,
+         "id": "997185",
+         "field_search": "question",
+         "question": "Điện thoại j5 (2016) của e thường xuyên bị hiện quảng cáo, có nhiều lúc hiện trắng màn hình ko bấm trở về được, ko tắt nguồn đc phải tháo pin ra và khởi động lại, cho e hỏi như vậy là bị gì và TGDĐ có bảo hành vs máy bị như vậy ko ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.75333,
+         "id": "987059",
+         "field_search": "question",
+         "question": "ad cho mình hỏi, mình đã chạy lại chương trình của máy iphone 5 mà trong khi đó mình đã quên mật khẩu icloud của mình luôn r. Mình cũng đã mất luôn email khi lập cái icloud đó vậy bây h còn cách nào để mình có thể chạy lại chương trình đc ko hay là từ bỏ chiếc máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.724592,
+         "id": "784346",
+         "field_search": "question",
+         "question": "cho mình hỏi là sao ip6s của mình khi sạc đến 98% thì đợi mãi mà không đầy 100%.sau đó vì chờ lâu quá mình rút sạc ra thì pin lại hiện 100%.máy mình mới mua nên không thể pin hỏng nhanh vậy được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.6935,
+         "id": "1158841",
+         "field_search": "question",
+         "question": "6s plus của mình phát wifi 30’ sụt pin từ 72% xuống còn 21 . sau khi tắt nguồn đi bật lại thì lại tuột tiếp từ 21% xuống 8% khi mình đi bộ về đến nhà trong quá trình đó mình cũng bật wifi liên tục , pin của mình bị chai 17% với lại máy mình là máy chính hãng mua được 4 năm rồi liệu sụt pin nhanh có phải chỉ là do pin hay là cả do main đã hao hụt ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.672426,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.659336,
+         "id": "1150426",
+         "field_search": "question",
+         "question": "E dùng samsung j4 e ko bt máy e bị j mà e bật bluetooth lên là nó chỉ hiện chữ bật r đợi rất lâu vẫn ko kết nối dc vs bluetooth khác thoát r vô lại là ch bật bật nữa cũng z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.659006,
+         "id": "831383",
+         "field_search": "question",
+         "question": "Dạ anh/chị cho em hỏi tối qua nhà em bị trộm vào lấy 2 IPad air và air 2. mà đến khuya em mới nhớ ra pass icloud sau đó em đăng nhập được và bật tìm Iphone lên rồi em cũng bật Báo mất trên đó kêu em nhập pass màn hình và số đt để có gì ngta gọi lại. trong khi đó 2 máy đều để là ngoại tuyến. Cho e hỏi nếu 2 máy kia em ko có bật chế độ Tìm Iphone lên thì khi vô mạng rồi nó có định vị đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.641598,
+         "id": "1020854",
+         "field_search": "question",
+         "question": "Cho mình hỏi, sao nhấn vào messenger thì điện thoại lại báo messenger đã dừng lại. Mình gỡ cài đặt và tải lại, khỏi động máy lại mà vẫn bị. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.613644,
+         "id": "1155793",
+         "field_search": "question",
+         "question": "Mình muốn gỡ phiên bản cập nhật mới của A7 có được k ạ? Vì sau khi cập nhật máy dùng rất nhanh hết pin và sạc thì lại rất lâu đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.57219,
+         "id": "1000721",
+         "field_search": "question",
+         "question": "cho em hỏi nay em dùng máy tính bảng Asus thì nó nổi lên asus đã dừng lại.em tắt nguồn máy khi bật lên thì chỉ chạy ở màn hình Asus in search of incredible chứ k lên màn hình chính.em pải lm sao đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.526684,
+         "id": "834638",
+         "field_search": "question",
+         "question": "Ad kiểm tra dùng mình xem có phải 5s không ạ ?? nhân tiện cho mình hỏi là khi mà mình sạc pin thì % lên rất ít nhưng mình thử tắt nguồn bật lại thì % lại thấy nhiều hơn, có phải pin của mình có vấn đề không ạ ?? hay do sạc vậy ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.50522,
+         "id": "1158118",
+         "field_search": "question",
+         "question": "Khi gọi cho điện thoại mà máy báo \"để lại lời nhắn sau tiếng bip\" là sao vậy ạ?, số máy đó bị tắt nguồn hay thẻ sim bị rút ra rồi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.500252,
+         "id": "1010086",
+         "field_search": "question",
+         "question": "cho e hỏi , máy e samsung galaxy note 3 mới mua (hàng xách tay ạ) e đang dùng thì máy sập nguồn rồi lại tự lên nguồn liên tục được lúc thì tắt hẳn , e bật lên lại thì lúc hiện 0% , lúc hiện 50%...mà e nhớ lúc sập nguồn là pin 37% cứ lên nguồn được lúc rồi lại tự tắt ạ . E sạc đầy lúc sau dùng lại vậy mà pin hết cực nhanh 1h mất cỡ 50% pin . Có phải tại pin hỏng rồi k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.446224,
+         "id": "1160122",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại mình chạy android 7 sau đó đổi qua android 8 giao điện rất gọn và đẹp sử dụng được một thời gian thì mình có khôi phục cài đặt gốc nhưng khôi phục xong thì cái giao điện tự nhiên trở về android 7 mấy cái widget cũng trở lại như cũ luôn mình muốn chỉnh lại cái giao điện của android 8 như trước thì chỉnh làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.407677,
+         "id": "1009178",
+         "field_search": "question",
+         "question": "khi dùng pin còn dung lượng khác lắp vào điện thoại, bật nguồn vẫn lên; nhưng khi nạp thị báo:  không thể sạc:Charging paused. Battery temperature too low.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.405031,
+         "id": "840675",
+         "field_search": "question",
+         "question": "     Tại sao iphone 5 lock lại ntn a. Nó ko lắp sim thì dùng đc lắp sim là nó báo vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.339674,
+         "id": "773850",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi: ip 4s ban 7.1.1 van vao dung icloud của mình và say khi lỡ tay xoá find my iphone thì máy rẻsse lại và yêu cầu nhập icloud nhưng giờ nhập không đcMà trong gmail của mình thì vẫn nhậm dc thông báo là máy đã xoá tất cả. Vậy có cách nào để khắc phục icluod rồi dùng lại bt không?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

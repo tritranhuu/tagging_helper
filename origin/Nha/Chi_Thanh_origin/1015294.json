@@ -1,0 +1,801 @@
+{
+   "id_query": "1015294",
+   "total": 30830,
+   "total_current": 100,
+   "max_score": 124.67304,
+   "origin_question": "Em mới mua galaxy a7 đổi trả 1 tuâgn mà sạc bị lỏng từ lúc mua. Hết pin sạc lại thì máy báo cần dùng đúng phụ kiện của máy , rồi lại báo sạc chậm. Em sạc 2 tiếng mới đầy pin ??",
+   "hits": [
+      {
+         "score": 51.91109,
+         "id": "845238",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dùng laptop DELL 3542. Em mua cách đây không lâu. không hiểu tại sao lúc đầu sạc bình thường nhưng hôm nay sạc tới 88% thì đèn báo sạc nó chớp vài cái rồi lúc hiện đã đầy pin rồi lại quay lại 88%. có khi báo đầy em rút ra lại quay về 88%. nó cứ báo đang sạc rồi lại đã đầy rồi lại đang sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.91528,
+         "id": "1021279",
+         "field_search": "question",
+         "question": "Em có mua cục sạc và dây sạc cho iphone ở tgdd, tgian đầu thì ok, mà gần đây khi sạc hay hiện thông báo \"phụ kiện không phù hợp\", đang sạc nhưng pin lại bị hụt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.872055,
+         "id": "1159137",
+         "field_search": "question",
+         "question": "cho em hỏi cách sạc pin iphone dưới đây có đúng không ạ?  Cắm sạc vào và sạc đầy Sau khi sạc báo đầy pin, tiếp tục để pin được sạc thêm 2 tiếng hoặc hơn. Đối với máy đang bật, ngắt sạc ra và tiếp tục sử dụng. Khi thấy pin sắp hết, save lại công việc đang làm dở và đóng tất cả ứng dụng. Dùng pin cho đến khi máy sleep. Để máy sleep thêm 5 tiếng hoặc hơn. Cắm sạc cho đến khi pin báo đầy. Khi cắm sạc, các bạn có thể mở máy dùng như bình thường, ko sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.674244,
+         "id": "1164440",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mua máy huawei y7 pro 2018 (máy mới) hồi tháng 7 năm trước(chưa đầy 1 năm) . Giờ sài em thấy nó hao pin mà sạc chậm vô nữa lúc trước là 2 tiếng có thể đầy giờ thì 2 tiếng nó lên khoảng 10 đến 20% pin tình trạng này là sao ạ. E để hết pin (khoảng 20%) thì em mới cắm sạc trường hợp bào gấp lắm em mới vừa sạc vừa sài cho em hỏi với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.73771,
+         "id": "1139908",
+         "field_search": "question",
+         "question": "Máy tính của em pin báo sạc đầy , 99% liên tục , rút sạc ra thì sập, cắm sạc vào thì nó mới lên mà hôm trước em vẫn dùng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.819157,
+         "id": "800351",
+         "field_search": "question",
+         "question": " Mình mua lap và đang sạc lần đầu sạc 10 tiếng mà sạc được 4 tiếng đèn tắt báo đầy thì vẫn để sạc đúng không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.33073,
+         "id": "827817",
+         "field_search": "question",
+         "question": "Iphone 6 của em bị dính lỗi hao pin, gắn sạc zin của máy thì báo lỗi phụ kiện không tương thích, sạc gắn vào máy khác thì sạc bình thường, em phải làm như thế nào máy em hết bảo hành nên không gửi hãng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.102306,
+         "id": "1161502",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em cắm sạc khi ấy là còn 20% pin, nhưng do máy sạc lâu phải mất 4 tiếng thì mới sạc đầy pin. Lúc em rút sạc thì máy mới đến 80%,không biết có ảnh hưởng gì đến chất lượng pin không ạ( e dùng Oppo 3as)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.297394,
+         "id": "1019158",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 điện thoại samsung A5 2017, lúc mình mở máy lên thì pin còn 78%. QTV cho mình hỏi mình có cần xài hết pin rồi sạc 8 tiếng hay không hay chỉ cần sạc đầy 100% pin là được. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.19213,
+         "id": "1004976",
+         "field_search": "question",
+         "question": "điện thoại mình mua dc khoảng 5 tháng nhưng cục sạc của mình bị gì sạc rất lâu khoảng 9 tiếng mới đầy pin trong khi mình mượn cục sạc của ông anh thì chỉ khoảng 2 tiếng rưỡi là đầy. vẫn còn bảo hành ko biết mình có thể đổi lại sạc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.031666,
+         "id": "1017344",
+         "field_search": "question",
+         "question": "em đang dùng ss j5 prime mà mới mua được 6 tháng ,à giờ sạc pin vào rất chậm 5 hay 6 tiếng mới đầy pin là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.99832,
+         "id": "876004",
+         "field_search": "question",
+         "question": "cho e hỏi. Em dùng ip 5s, thường thì lúc sạc từ 2h-2h30 là pin đầy nhưng dạo gần đây sạc khoảng 1h30 là pin lại dừng đến 68%, e rút ra rồi sạc lại pin mới chạy bth. Cho em hỏi như v là bị sao ạ??? Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.977596,
+         "id": "990982",
+         "field_search": "question",
+         "question": "Cho e hỏi e mua máy mà k để ý cục sạc Mang máy về nhà mới để ý thấy sạc k có chữ gì là của hãng là sao ạ. Và cắm sạc 2A mà pin 4000mah sạc gần 4 tiếng mới đầy pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.744072,
+         "id": "876998",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao cục sạc iphone 4 của e hay bị cháy. E đã thay pin mới . Cục sạc mới và lau chùi chân sạc rồi ak. Nhưng giờ cắm vào nó vẫn bị nóng củ sạc và máy báo phụ kiện không hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.680782,
+         "id": "1020491",
+         "field_search": "question",
+         "question": "chào ad , em vừa mua asus zenfone max3 5.5 được gần 3 tháng thì cục sạc pin của em có dấu hiệu hư ( sạc pin rất chậm ) , bình thường em sạc từ 2 đến 2h30p là đầy nhưng hôm nay thì 4 tiếng pin vẫn chưa đầy, ad có thể xem xét giúp em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.546307,
+         "id": "777859",
+         "field_search": "question",
+         "question": "Chào a.c cho em hỏi em dùng iPhone 6 chạy 9.2 thì sạc pin chỉ hơn 2 tiếng đầy. Em vừa nâng lên 9.2.1 mà sạc hơn 3 tiếng nó mới đầy ah. Sạc em là sạc chính hãng . Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.412952,
+         "id": "1138224",
+         "field_search": "question",
+         "question": "Cho mình hỏiMình dùng oppo f1s ạ. mình dùng hết pin rồi mình sạc 1 lúc khoảng 10 hoặc 30p hoặc 1 tiếng tùy lúc, rồi mình muốn dùng, mình rút sạc ra chơi tiếp rồi lại sạc,... dù sạc chưa đầy pin vẫn rút ra chơi vậy ạ. Như vậy có làm pin nhanh hỏng không ạ? Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.386887,
+         "id": "876027",
+         "field_search": "question",
+         "question": "cho e hỏi. Em dùng ip 5s, thường thì lúc sạc từ 2h-2h30 là pin đầy nhưng dạo gần đây sạc khoảng 1h30 là pin lại dừng đến 68%, e rút ra rồi sạc lại pin mới chạy bth. Cho em hỏi như v là bị sao ạ??? Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.06886,
+         "id": "784466",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5s khi chưa cắm sạc thì hiện 14% nhưng sau khi sạc máy thì máy lại hiện đang sạc 18%. Đây mới là lần thứ 2 sạc pin cho máy kể từ hôm mua về. Như vậy là làm sao thế QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.689644,
+         "id": "1010604",
+         "field_search": "question",
+         "question": "mình mua pin sạc dư phòng polyme 10000 hồi tháng 7, pin báo không đầy dù minh sạc 8 tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.60274,
+         "id": "891261",
+         "field_search": "question",
+         "question": "TGDD cho em hỏi.Em mua Ip5s chưa được 1 tháng ,mà về dùng thấy sạc nhanh đầy pịn và cũng rất nhanh hết pin.Với lại khi sạc thì máy rất nóng.vậy em hỏi nếu máy em bị như thế thì có đổi máy mới được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.598362,
+         "id": "803692",
+         "field_search": "question",
+         "question": "Mình mới mua con Asus ROG GL552JX dc 6 tháng thì xảy ra hiện tượng sạc không đầy , không ăn pin . Mình đã kiểm tra bộ sạc và pin đều không có vấn đề nhưng khi cắm sạc máy báo đang sạc nhưng sạc được 1-2 % thì không lên nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.503044,
+         "id": "1147935",
+         "field_search": "question",
+         "question": "em vừa mua galaxy a7 và đươc nhân viên tư vấn là sạc đt khi đt còn dưới 20% và sac cỡ 3 đến 4 tiếng thì sẽ đầy nhưng lúc sạc thì chỉ sạc có gần 1 tiếng là đầy ,,e muốn hỏi như vậy là đt có bị chai pin kh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.197514,
+         "id": "1010789",
+         "field_search": "question",
+         "question": "Cho hỏi sao j7 của em lúc ms mua thì sạc đầy là 2 tiếng mấy mà sao bây h đc cỡ một tháng là sạc hơn 3 tiếng ms đầy. Với lại sao dùng 5 _6 phút là nó giảm 1% pin vậy ad pin có bị sao không . Ak vs lại 27.0 Mb là bao nhiêu Gb vậy ạ Rep nhanh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.03253,
+         "id": "1023838",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em pin sạc thì có hiển thị đã sạc mà sao nó lên dc 1% rút sạc ra lại bị hao pin ạ? Em sạc từ nãy đến giờ chả lên được % pin nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.85863,
+         "id": "806412",
+         "field_search": "question",
+         "question": "Em sử dụng ipad chính hãng nhưng chỉ mới sử dụng 1 năm mà hôm qua sạc thì nó báo là: \"bạn sạc máy không đúng với bộ phận sạc\" mà khi em mới mua về là chỉ sử dụng nó thôi mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.84563,
+         "id": "1020490",
+         "field_search": "question",
+         "question": "Dạ chào anh chị, em mua dây cáp của bên tgdd lúc đó 1 đổi 1 trong vòng 1 năm. chưa hết 1 năm, sao dây sạc lại sạc điện thoại mà làm pin dt tuột làm em phải thay cục pin mới. cho em hỏi em còn đổi được không. sdt em mua hàng là 01677032324",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.692616,
+         "id": "992378",
+         "field_search": "question",
+         "question": "Cái iphone 5s của em ios 10.2.1 mà sạc pin nói báo  phụ kiện không hổ trợ admin giải thích hộ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.61516,
+         "id": "1010083",
+         "field_search": "question",
+         "question": "Máy mình bị chai pin, mình thay pin mới và sử dụng bình thường nhưng khi sạc lại báo lỗi, máy báo thiết bị không tương thích, kiểm tra lại. Mình thử bỏ pin cũ vào sạc thử thì vẫn sạc bình thường ( sam sung S5)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.604702,
+         "id": "764859",
+         "field_search": "question",
+         "question": "Em mới mua Asus X453S, khi sạc đầy pin chỉ dùng được 2 tiếng liên tục đã cạn pin . vậy có phải là máy tính có vấn đề gì không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.468132,
+         "id": "910544",
+         "field_search": "question",
+         "question": " Đt ip5 sạc pin thì có báo đang sạc. Nhưng vẫn bị tuột pin không tăng lên. Em đổi dây sạc hay cốc rồi thì vẫn vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.458447,
+         "id": "1143132",
+         "field_search": "question",
+         "question": "Cho e hỏi chiếc xiaomi redmi note 6 pro sạc bao lâu mới đầy vậy ạ , em dùng xạc của máy mà mới xạc có 2 tiếng là đầy rồi. Pin 4000 mAh mà xạc nhanh vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.341507,
+         "id": "805144",
+         "field_search": "question",
+         "question": "con ip5 của em không sạc được, lúc mở máy thì nó không thông báo là đang sạc, cũng không thông báo là vào pin, nhưng khi tắt nguồn thì lại sạc được, lúc nó còn 1% thì tắt nguồn, em nghĩ là hỏng rồi nên thử mở lại, lúc mở lên đã thấy nó sạc được 64%, làm cách nào khắc phục được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.295223,
+         "id": "754451",
+         "field_search": "question",
+         "question": "Anh chi ơi cho em hỏi em đang dùng iPhone 5 mà sạc pin thì máy báo là phụ kiện không được hỗ trợ là do củ sạc hay là cáp ạ.xin mọi người chỉ dùm để em khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.28476,
+         "id": "1148960",
+         "field_search": "question",
+         "question": "Cho em ? Là em ms mua đt a7 2018 ms 1 tháng nay. Sao h sạc ko thấy lên pin mà nó lại còn tụt pin. Có lúc từ sạc 2h nó từ 0% lên đc ms có 40%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.267796,
+         "id": "817915",
+         "field_search": "question",
+         "question": "E có một em oppo n1 mini mua ở hãng minh , do cái dây sạc em bị hỏng lên em lại ko chăm sạc pin bây h máy tắt nguồn em cắm day sạc mới vào nó hiện len từ low battery mà sạc 2 tiếng ko len máy , bay h em phai làm sao . Mong các anh chị giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.11644,
+         "id": "770771",
+         "field_search": "question",
+         "question": "Cần giúp đỡ. Hiện mình đang xài đt iPhone 6s plus. Hôm nay lúc đt còn 7% pin. Mình cắm sạc vào sạc máy báo sạc, xong một hồi khoảng 4..5 tiếng sau mình xem lại máy, thấy máy báo pin vẫn 7%, xong mình thử reset lại máy thì thấy pin 100%, cho mình hỏi đây là lỗi gìThân!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.063663,
+         "id": "1166790",
+         "field_search": "question",
+         "question": "Sao e tắt chế độ sạc nhanh bằng cáp rồi... màn hình khóa hiện lên sạc bình thường rồi mà sao em sạc 50% pin e sạc 1 tiếng đã đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.012074,
+         "id": "1015100",
+         "field_search": "question",
+         "question": "Mình mới mua 1 máy tính bảng Huawei MediaPad T3. Tối qua đang để sạc pin trên bàn thì nhóc tì nó quơ rớt xuống đất. Kiểm tra lại thì thấy đầu sạc pin bị hỏng. Vậy mình có được đổi dây sạc mới miễn phí không? Nếu không được thì phải mua mới hết nhiêu tiền vậy Ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.874374,
+         "id": "998147",
+         "field_search": "question",
+         "question": "Bộ sạc của e mới mua bây giờ sạc bị chậm hao pin thì có được bảo hành k ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.851154,
+         "id": "778543",
+         "field_search": "question",
+         "question": " Anh ơi điên thoại iPhone 17 pin mà sạc hơn 3 tiếng chưa đầy thì viêc gi không máy mới mua? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.61235,
+         "id": "855404",
+         "field_search": "question",
+         "question": "Máy mình 5s . mặc dù thay 4 quả pin rồi nhưng về ko dùng vẫn bị tụt thậm chí sạc đầy 100% và tắt hết ứng dụng và mạng . sáng ngủ dậy chỉ sau 7 tiếng mà pin tụt hơn 1 nửa . cho mình hỏi lỗi này là bị sao vậy . và khi sạc dây kết nối với củ sạc thì ko lên pin phải vừa dùng vừa sạc mới lên còn sạc bằng máy tính thì lên bình thương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.593952,
+         "id": "1161893",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại sạc pin nó vẫn vô pin mà em để cả 3 tiếng nó vẫn không lên % pin nào cả vẫn cứ như lúc mới cắm sạc vậy là bị lỗi gì em xài máy samsung galaxy j6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.546577,
+         "id": "759437",
+         "field_search": "question",
+         "question": " Cho em hỏi em mua dây sạc iPhone 4 và sạc dự phòng mà về sạc điện thoại cứ báo phụ kiện không hổ trợ là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.49754,
+         "id": "1158676",
+         "field_search": "question",
+         "question": "Mình mua đt ss A7 2018 ở tgdd được tầm 2 hay 3 tháng . Giờ sạc đt toàn ghi sạc chậm, bảo dùng sạc đi kèm đt mà mình dùng sạc kèm máy ấy chứ. Ad cho mình hỏi giờ mang máy ra mà do sạc hỏng thì mình phải bỏ tiền mua sạc mới hay sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.401127,
+         "id": "883210",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi . Em có đọc trên một vài trang web họ bảo rằng : Pin của laptop asus sẽ tự động ngắt sạc khi đầy 100% , khi đó chúng ta có thể để nguyên sạc trong ổ điện không cần rút ra và sử dụng máy bình thường vì lúc này máy không sử dụng điện từ pin mà sử dụng điện trực tiếp từ sạc . Cứ để nguyên như vậy không rút ra có thể xài được khoảng 5 ngày ( vì mỗi ngày pin sẽ xuống 1% do nuôi linh kiện ) . Khi còn 94% thì rút sạc ra và xài bình thường vì lúc này máy sẽ tự động kết nối sạc để sạc đầy lại 100% , nếu không rút thì máy sẽ vừa sạc vừa xả sẽ bị chai pin . Khi nào còn 10% thì sạc đầy và tiếp tục làm như trên , làm như vậy sẽ hạn chế số lần sạc pin giúp pin lâu chai . Cách sử dụng như vậy có đúng không ? Việc cắm sạc liên tục không rút ra khi pin đã đầy và dùng có ảnh hưởng gì không ? Em cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.343708,
+         "id": "778209",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua iPhone 6s bản 16G tại TGDĐ mới dùng được hơn 2 tuần thấy máy có hiện tượng thỉnh thoảng bị đơ. Sạc cả sáng không đầy pin mặc dù mình k hông động đến máy trong lúc sạc. Có hôm vào ứng dụng chụp ảnh thì bị tắt nguồn luôn vào báo cắm sạc dù pin còn 37%?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.29535,
+         "id": "998749",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại A5 2017, mà giờ máy mình có tình trạng đôi khi sạc không vô điện, điện ở nhà mình dùng để sạc các thiết bị khác vẫn bình thường, mà mình cắm sạc A5 2017 thì không có gì xảy ra, không có báo là \"đang sạc\", tháo ra gắn lại nhiều lần thì máy mới báo sạc pin @@ mà phải để nguyên như vậy, chứ cầm sử dụng, nghiêng qua nghiêng lại thì tiếp tục mất sạc @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.25062,
+         "id": "876258",
+         "field_search": "question",
+         "question": "chàoadd ! mình dung 4s gận đây mình có thay pin rồi thay cáp mới luôn mà khi sạc báo đang sạc mà không lên pt .có lúc lại sạc được .hay tại phiên bản 9.3.4 ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.24865,
+         "id": "1133391",
+         "field_search": "question",
+         "question": "Mình vừa mua con Note 9, mình cắm sạc 3 4 tiếng đồng hồ mà sạc ko đầy được đt, phải rút ra cắm lại mới sạc tiếp được, bỏ sạc qua đêm sáng ra chỉ được 27% pin, rất bực mình. Cho mình hỏi lỗi này mình được đổi máy mới hay ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.104504,
+         "id": "778542",
+         "field_search": "question",
+         "question": " anh ơi điện thoại iPhone 17 pin mà sạc hơn 3 tiếng chưa đầy thì việc gì không máy mới mua. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.02989,
+         "id": "996778",
+         "field_search": "question",
+         "question": "Mình mới mua 1 sony x 1 tuần,khi sạc khoảng 1h30ph báo đèn xanh đầy pin. Nhưg khi xem chỉ mới 90%. Phải để tầm 30ph thì mới 100%.lúc nao sạc củn tình trạng nv. Vây cho mình hoi bị gi vậy qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.98548,
+         "id": "831995",
+         "field_search": "question",
+         "question": "Em hiện đang dùng iphone 4s phiên bản 9.2 ạ. Nhưng e sạc pin vẫn có tia sét tức là thông báo đã sạc, nhưng lúc thì tăng % pin lúc thì chỉ sạc được 87% và không đầy được đến 100%. Vì sao lại thế ạ? Liệu có phải máy e bị hư pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.94655,
+         "id": "1167623",
+         "field_search": "question",
+         "question": "Xin cho hỏi khi sạc Samsung A7 2018 đã sạc 100% pin rồi mà nó không báo đầy chỉ thấy báo là đang sạc 100% mà thôi ,vậy  nó có bị lổi phần mềm hay không có cần  đem di bảo hành hay không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.930405,
+         "id": "903494",
+         "field_search": "question",
+         "question": "E mới mua máy ở hệ thống( ip 5s) . Sau khi sạc 2 lần. Thấy máy rất hao pin. Nhân viên cũng k nói phải sạc như thế nào. Vậy sau khi e sạc lại 3 lần 8 tiếng nếu máy còn hao pin. Có đổi dc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.818462,
+         "id": "1155793",
+         "field_search": "question",
+         "question": "Mình muốn gỡ phiên bản cập nhật mới của A7 có được k ạ? Vì sau khi cập nhật máy dùng rất nhanh hết pin và sạc thì lại rất lâu đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.56246,
+         "id": "862224",
+         "field_search": "question",
+         "question": "cho em hỏi em dùng ip4. em sạc đầy 100% mà dùng đc vài phút nó đã sập nguồn báo hết pin . em cắm sạc tiếp thì nó lại hiện màn hình lên bt nhưng khi rút ra thì lại sập tiếp ạ . máy em có fai hỏng ic nguồn ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.51314,
+         "id": "948455",
+         "field_search": "question",
+         "question": "E mới mua macbook air, lúc ở chỗ mua nhân viên có nói là mac sạc những 8 tiếng mới đầy nhưng e sạc (lần 2) thì thấy chỉ mất 2 tiếng là đầy nhưng em vẫn để tới 9-10 tiếng, cho em hỏi như vậy máy có bth k ạ?Với lại phần dung lượng điện sạc đầy em vô coi lúc đầu là 7050 1 tiếng sau e coi lại thì còn có 7038 vậy là sao ạ?Xin lỗi em hỏi hơi nhiều vì lần đầu e sử dụng mac nên không rõ ToT",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.412262,
+         "id": "854406",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình dùng HP Pavilion 14 Notebook PC mới mua , máy mình sạc pin đầy 100% rồi mà đèn báo sac pin vẫn sáng (màu Trắng). cho minh hỏi bi vậy là sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.39485,
+         "id": "782298",
+         "field_search": "question",
+         "question": "Cho mình hỏi,máy mình bình thường sạc 2h là đầy 100% pin.Nhưng mới đây sạc hơn 2h n vẫn báo là 96% xong mình tắt nguồn,rồi bật lại thì lại là 100.Như vậy có phải pin của mình có vấn đề không (mình dùng iphone 6 được 1 năm rưỡi)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.367413,
+         "id": "765792",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi 1 chút nhé : Con iPhone của mình dùng cũng được 1 thời gian rồi.. Lâu lâu nó bị sập nguồn, báo cần phải sạc.  Mình sạc rồi bật máy lên luôn thì thấy còn 31%. Rút sạc ra lại dùng đc bình thường. Như vậy có phải do pin chai không ạ ?? có cần thay pin không Admin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.33101,
+         "id": "1023366",
+         "field_search": "question",
+         "question": "cho em hỏi em đang dùng ss A3, mà khi sạc thì bị sụt pin. Nhưng tắt nguồn mở lên sạc vẫn bị như vậy. Chỉ có khi tắt nguồn luôn cắm sạc mới vô pin nhưng vô rất chậm. Vậy máy e bị gì ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.29799,
+         "id": "1010086",
+         "field_search": "question",
+         "question": "cho e hỏi , máy e samsung galaxy note 3 mới mua (hàng xách tay ạ) e đang dùng thì máy sập nguồn rồi lại tự lên nguồn liên tục được lúc thì tắt hẳn , e bật lên lại thì lúc hiện 0% , lúc hiện 50%...mà e nhớ lúc sập nguồn là pin 37% cứ lên nguồn được lúc rồi lại tự tắt ạ . E sạc đầy lúc sau dùng lại vậy mà pin hết cực nhanh 1h mất cỡ 50% pin . Có phải tại pin hỏng rồi k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.269447,
+         "id": "998525",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em mua samsung j3 LTE lúc tháng 10, lúc mới mua điện thoại sạc nhanh lắm tầm 1h30p, xài đến nay pin sạc chậm lắm ạ, 3-4t mới được 80%, pin em bị gì vậy ạ, nếu pin bị giảm tuổi thọ thì thay bao nhiu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.154213,
+         "id": "1159495",
+         "field_search": "question",
+         "question": "Mình dùng đt samsung a9 máy báo phát hiện độ ẩm cổng sạc...sau khi chờ khô máy hết báo mình sạc lại vẫn vào nhưng máy không lên pin và chỉ dừng lại ở mức 2-3%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.11059,
+         "id": "782559",
+         "field_search": "question",
+         "question": "Cho mình hỏi,máy mình bình thường sạc 2h là đầy 100% pin.Nhưng mới đây sạc hơn 2h n vẫn báo là 96% xong mình tắt nguồn,rồi bật lại thì lại là 100.Như vậy có phải pin của mình có vấn đề k(mình dùng iphone6 được 1 năm rưỡi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.009647,
+         "id": "772915",
+         "field_search": "question",
+         "question": " Iphone 4s hết pin nhanh và sạc đầy cũng nhanh thì có phải do chai pin? Máy mình mới mua ở cửa hàng được khoảng 2 tuần ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.966026,
+         "id": "988548",
+         "field_search": "question",
+         "question": "em vừa mua iphone ở TGDD chưa được một tuần, em suwrdujng sạc của iphone 6 ban đầu mọi thứ bình thường nhưng đến lần thứ 4 thì khi bắt đầu sạc pin máy em là 19% một lúc sau nhìn lại máy chỉ còn 14%, máy thì báo đang sạc nhưng pin không vào. Em đổi lấy đồ sạc của iphone 7 thì vào bình thương nhưng rất chậm. Cho em hổi như thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.937805,
+         "id": "1022411",
+         "field_search": "question",
+         "question": "Mình dùng iphone 6s plus dạo gần đây thấy pin rất mau hết sạc đầy 100 % chỉ dùng được 2,5h thời lượng sạc pin cũng lâu hơn bình thường. Sạc từ 1% đến đầy pin mất khoảng 5 tiếng. Haizz điện thoại mình bị sao thế mọi người giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.933964,
+         "id": "1165105",
+         "field_search": "question",
+         "question": "mình vừa mua máy iphone x của hãng mới được lần sạc đầu tiên đầy pin mà máy không dùng bị tụt % pin không biết có sao không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.880123,
+         "id": "757629",
+         "field_search": "question",
+         "question": "Em mới mua iphone 6s được 1 tuần điện thoại sạc khoảng 2h là đầy pin. cho em hỏi pin máy em có sao không mà nhanh đầy quá vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.83874,
+         "id": "765074",
+         "field_search": "question",
+         "question": " Cách sạc iPhone 6S Plus đúng cách, em thỉnh thoảng rút sạc khi pin chưa đầy thì có bị chai pin không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.69642,
+         "id": "808659",
+         "field_search": "question",
+         "question": "máy tính e mới mua dell inspiron15. k hiểu sao sau 1 đêm lại hết sạch pin sáng dậy bật máy k lên, trong khi đêm trc e đã sạc đầy pin. máy e mới mua đc 3 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.69253,
+         "id": "851518",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang dung ip5S mà thời gian gần đây sac pin rất lâu đầy tầm phải 5,6h mới đầy pin ( mà đầy rồi thì dùng bthuong chứ ko nhanh hết pin đâu) nhưng tgian sạc lâu quámình đã ktra cáp sạc,vệ sinh đầy đủ cho hỏi máy vậy bị jkcảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.65146,
+         "id": "1151576",
+         "field_search": "question",
+         "question": "Samsung j6 sạc chậm hơn 3 tiếng mới đầy pin có ảnh hưởng gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.637005,
+         "id": "965162",
+         "field_search": "question",
+         "question": "Em mới mua con ASUS core i5-62000U,tên nó là DESKTOP-SD3LBC8 đang chạy win10.. hôm qua em có cắm sạc để sạc pin từ chiều đến tối rồi quên rút sạc để đến sáng nay... lúc nãy rút sạc ra thì bật máy không lên,khi em cắm sạc vô thì máy lên và hoạt động bình thường,cho em hỏi vậy là máy bị lỗi pin hay bị gì ạ...Vì mới mua đầu tháng 3 nên em có thể đem ra TGDĐ để trực tiếp chỉnh máy hay không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.615982,
+         "id": "812538",
+         "field_search": "question",
+         "question": "em mới mua máy tính nhưng khi em sạc pin được một thời gian chưa đầy thì đèn sạc pin tắt đưa chuột tới hình sạc pin trên màn hình thì hiện lên chữ \"plugged in , not charging \" không vào pin nữa. chỉ có rút sạc ra cắm lại thì mới được.cho em hỏi máy bị lỗi gì vậy ạ.nếu mà cứ rút ra cắm vào mãi chắc máy sẽ nhanh chai pin mất. cách sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.57792,
+         "id": "794072",
+         "field_search": "question",
+         "question": "Em mới thay pin mới cho máy iphone 5 ấy nhưng lần đầu em quên sạc 8 tiếng rồi, vậy thì 3 lần sau e bắt đầu sạc 8 tiếng được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.477974,
+         "id": "782336",
+         "field_search": "question",
+         "question": "Cho mình hỏi,máy mình bình thường sạc 2h là đầy 100% pin.Nhưng mới đây sạc hơn 2h n vẫn báo là 96% xong mình tắt nguồn,rồi bật lại thì lại là 100.Như vậy có phải pin của mình có vấn đề k(mình dùng iphone 6 được 1 năm rưỡi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.419735,
+         "id": "996073",
+         "field_search": "question",
+         "question": "Cho e hỏi cái điện thoại samsung j7 6 e lúc mới mua sạc mau đầy pin lắm nhưng sài được 11 tháng thì sạc pin lâu đầy ạ . Có phải pin bị hư k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.411972,
+         "id": "1164638",
+         "field_search": "question",
+         "question": "Máy mình mua được 5 tháng, lúc đầu thì sạc rất nhanh nhưng bây giờ thì sạc rất lâu nếu pin dưới 30% thì sạc phải mất 3 đến 4 tiếng mới đầy 100% cho mình hỏi tại sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.283436,
+         "id": "844298",
+         "field_search": "question",
+         "question": "Hôm nay lúc laptop vừa báo sắp hết pin. Mình cắm sạc vào lúc khoảng gần 1h trưa, rồi cho đến 3h mấy 4h gì đấy thì mình nhớ mang máng là máy báo pin 100% rồi, đèn pin laptop cũng tắt rồi. Cho đến lúc nãy, 8h30 mình tắt máy, cuối cùng mới để ý khi tắt xong cả tự nhiên thấy pin laptop còn sáng. Thấy lạ mình liền mở lap lại để coi, thì thấy máy báo là 99% đang sạc (trong suốt quá trình sài đều vẫn cắm sạc). Là nó bị gì vậy ad?!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.25062,
+         "id": "1153012",
+         "field_search": "question",
+         "question": "Sao máy em mới mua lúc ra tết mà sau 1 tháng sạc pin đầy chỉ khoảng 93-95% là sao ạ . Máy em là máy xiaomi redmi note 6 pro ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.227642,
+         "id": "852124",
+         "field_search": "question",
+         "question": "iphone 5s mới mua, sài 2 tiếng, gần hết pin e đem đi sạc, đang sạc thì máy chuyển sang màn hình xanh dương, khởi động liên tục, mà không lên. khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.204594,
+         "id": "1020474",
+         "field_search": "question",
+         "question": "Đt em là oppo A37, em mới mua và sạc được 3 lần thôi. Em vẫn để thêm hơn nửa tiếng khi báo đầy, nhưng không sử dụng gì thì sau khoảng 1 tgian nó vẫn bị mất 1 -2% pin thì là có bị sao không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.199688,
+         "id": "1134077",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại samsung J7 Prime (sử dụng dc 1 năm) bình thường mình sạc pin tầm 3t lầy đầy nhưng tấm mấy lần sạc gần đây thì sạc tới 5-6 t mới đầy mình sợ cục sạc hư nên mua bộ sạc samsung chính hãng 2A (sạc nhanh)về sạc cũng 5-6 tiếng mới đầy. Vậy cho mình hỏi vấn đề ở đây là máy bị j hay cục sạc có vấn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.15066,
+         "id": "766193",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5. Em mới thay pin, nhưng cứ 2 phút thì xuống 1% trăm pin, kể cả khi em không sử dụng. Rồi khi sạc pin, pin lên lâu rồi bị đứng và thay vào không lên pin mà lại xuống nhanh như trên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.150272,
+         "id": "1012306",
+         "field_search": "question",
+         "question": "Máy samsung j7 pro của em mua được 1 tháng. Trong 3 ngày trở lại đây có hiện tượng sạc không vào pin dù trước đó khi cắm sạc thì máy báo đang sạc. Vậy có ván đề gì vậy mong ad giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.050312,
+         "id": "844541",
+         "field_search": "question",
+         "question": "-Cho em hỏi...e đang dùng iphone 5 tại sao pin e cắm sạc nó báo đã sạc nhưng pin vẫn đưng yên...được lúc sau e khởi động mới đúng pin thực của nó...nhưng lúc dùng nó không giảm gì mà nó tự dưng sập nguồn ạ...tư vấn giúp e được không ạ...cảm ơn adm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.038937,
+         "id": "1160268",
+         "field_search": "question",
+         "question": "Đt A50 của e sao khi sạc máy và sạc đều nóng vậy  báo pin yếu mới sạc và khi sạc thi không sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.941826,
+         "id": "774647",
+         "field_search": "question",
+         "question": "Cho em hỏi, máy em mới lên 9.2, xài được 1 ngày thì hôm nay sạc pin vẫn báo đang sạc, nhưng sạc mãi không thấy phần trăm phin tăng lên chút nào cả, là máy bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.899826,
+         "id": "996665",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao dt ss j7 của mình lúc mơí xài thì sạc tầm 2 tiếng rươĩ là đầy pin nhưng giờ mình phải sạc tới 4 đến 5 tiếng mơí đầy pin ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.83354,
+         "id": "1165111",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại iphone 7plus 32G vào ngày 28/4, sau khi dùng em thấy pin có vấn đề, sạc đầy tận 3 - 4 tiếng và hết pin rất nhanh ( dù đêm không dùng thì từ 89% còn 30%). Cho em hỏi vấn đề này có thể đổi điện thoại mới được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.61359,
+         "id": "997362",
+         "field_search": "question",
+         "question": "Mình lỡ sạc ip 6 mới mua 2 lần đầu sạc 2 tiếng mấy r có sao không? Lần t3 có cần sạc 8 tiếng ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.575493,
+         "id": "1023291",
+         "field_search": "question",
+         "question": "Mk dùng s6 edge plus đk 1 năm rồi. Dạo này máy sạc pin nhanh đầy. Dùng thì hao pin nhanh. Báo pin ảo. Tệ nhất là từ hôm qua đến giờ máy bị sập nguồn khởi động k lên hay lên xong lại sập. Cắm sạc vào thì lên và dùng bình thường.rút sạc ra là sập nguồn. Cho mình hỏi hiện tượng này là sao ạ? Cách khắc phục là gì ạ? Cảm ơn tgdd.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.5545,
+         "id": "1142017",
+         "field_search": "question",
+         "question": "Làm cách nào tắt được âm báo khi sạc pin oppo a37 khi đang sạc mà chân sạc lỏng ra là cứ báo suốt nghe rất khó chịu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.54207,
+         "id": "858277",
+         "field_search": "question",
+         "question": " Cho mình hỏi là iphone 4s của mình mới sạc đầy pin lúc tối nhưng tới sáng chưa sử dụng mà nóng máy với hết pin là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.495377,
+         "id": "1023816",
+         "field_search": "question",
+         "question": "hello!  cho em hỏi là em đang dùng điện thoại samsung J7 prime và đang gặp sự cố là sạc pin báo biểu tượng sạc rùi lại tắt rùi lại sạc lại tắt...lập đi lập lại liên tục , đã thay sạc mới cáp mới nhưng tình trạng vẫn không thay đổi.  mong AD tư vấn hộ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.452,
+         "id": "1018439",
+         "field_search": "question",
+         "question": "Cho em hoi máy samsung cua em bị sập nguồn bật ko nên đc .đợi hết sạch pin cắm sạc đây pin mới bật nên dc rồi đc một lúc thì lại bị sập nguộn là bị sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

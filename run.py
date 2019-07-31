@@ -3,7 +3,7 @@ import json
 import codecs
 import os
 
-PATH = "./origin/Tienthanh_origin/"
+PATH = ""
 
 app = Flask(__name__, static_folder='templates/static')
 app.secret_key = 'super secret key'
@@ -44,7 +44,17 @@ def resultGUI():
 @app.route('/', methods=['GET'])
 def begin():
     session['sent'] = 0
+    return render_template('users.html')
+ 
+@app.route('/getpath', methods=['POST'])
+def path():
+    global PATH
+    prefix = request.form['pre']
+    suffix = request.form['suf']
+    PATH = prefix + suffix
     return redirect('/tag')
+ 
+
 
 
 @app.route('/tag', methods=['GET'])
@@ -71,4 +81,4 @@ def findGUI():
  
 if __name__ == '__main__':
     
-    app.run(host='localhost', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)

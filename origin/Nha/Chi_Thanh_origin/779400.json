@@ -1,0 +1,801 @@
+{
+   "id_query": "779400",
+   "total": 34062,
+   "total_current": 100,
+   "max_score": 113.48754,
+   "origin_question": "Ad cho em hỏi, em muốn kết nối laptop với tivi để hát karaoke thì cần mua những phụ kiện gì ạ?? Dàn karaoke nhà em đời hơi thấp thì có dùng được không ạ??",
+   "hits": [
+      {
+         "score": 35.289448,
+         "id": "924203",
+         "field_search": "question",
+         "question": "Em mua laptop es1 531 N3710.em muốn kết nối hình ảnh máy tính này lên tivi 29in LG.phải làm thế nào hả anh chị.tivi nhà em 29in đời cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.60074,
+         "id": "986296",
+         "field_search": "question",
+         "question": "tôi muốn mua 1 cái máy tính bảng có thể kết nối với tivi Lcd đời cũ. Nhà tôi ở quận 8. Các bạn có thể cho nhân viên tới nhà để hỗ trợ kết nối máy tính bảng đó với tivi tại nhà của tôi không? (sau khi tôi đã đồng ý mua sản phẩm)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.039944,
+         "id": "952396",
+         "field_search": "question",
+         "question": " e muốn vừa hát karaoke vừa ghi âm ở zalo trên iphon 5s thì làm như nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.06498,
+         "id": "1139931",
+         "field_search": "question",
+         "question": "em đang dùng htc desire 10pro muốn kết nối với ti vi có cổng HDMI có được không ạ hay có câch nào khác kết nối với tivi thông thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.641043,
+         "id": "871978",
+         "field_search": "question",
+         "question": " em kết nối laptop win 10 với tivi qua cổng HDMI, e chỉ thấy màn hình tivi hiện, e muốn cả 2 hiện thì làm ntn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.653753,
+         "id": "1003347",
+         "field_search": "question",
+         "question": "Cho em hỏiEm muốn tải app karaoke now nhưng khi em vô tìm lại  không thấy được app karaoke now, trong khi đó qua bên điện thoại khác lại thấy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.545181,
+         "id": "1145058",
+         "field_search": "question",
+         "question": "Cho em hỏi sinh viên nếu mua laptop trả góp thì cần điều kiện gì mới mua được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.131546,
+         "id": "758131",
+         "field_search": "question",
+         "question": " Cho hỏi làm thế nào để kết nối Dell inspion 3451 bằng mạng dây có phụ kiện gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.596241,
+         "id": "802835",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để kết nối truyền hình ảnh từ iphone 5 với tivi vậy ạ.!? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.168676,
+         "id": "1141667",
+         "field_search": "question",
+         "question": "Cho Em hỏi em muốn mua đ thọai trả góp 0 thì em cần những thủ tục gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.037394,
+         "id": "1020693",
+         "field_search": "question",
+         "question": "Sao ko tra lời vậy .Điện thoại oppo f1 có kết nối với ti vi bằng cổng AV hay ko vậy. Tivi đời củ đó. Nêú được thì kết nối ntn chỉ giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.03498,
+         "id": "1156356",
+         "field_search": "question",
+         "question": "em sử dụng Nokia 8.1 android 9 tự nhiên không kết nối được wifi trong khi laptop em để kế bên vẫn kết nối đươc thì máy em bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.930393,
+         "id": "1161565",
+         "field_search": "question",
+         "question": "Điều kiện trả góp hồm những gì. E đang muốn mua 1 cái đt và muốn trả trước 0 đồng thì cần làm những gì và ntn để được trả góp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.78924,
+         "id": "843131",
+         "field_search": "question",
+         "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.543676,
+         "id": "1140219",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi . Nhà em đã mua tivi ở thegioididong dc khoảng 2 tháng rồi, nhưng giờ nhà em có nhu cầu tivi lớn hơn . Vậy nhà em có đổi dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.441135,
+         "id": "1150845",
+         "field_search": "question",
+         "question": "htc j one htl22 có MHL để kết nối với tivi được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.40812,
+         "id": "805672",
+         "field_search": "question",
+         "question": "Anh ơi cho hỏi May laptop của em loại dell ở nhà không vào được wifi nhưng đến công ty vẫn vào wifi bình thường. Vậy em cần cài đặt thế nào để kết nối wifi ở nhà ạ ?. Thanks Anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.330576,
+         "id": "1010589",
+         "field_search": "question",
+         "question": "admin ơi cho em hỏi em là sinh viên  muốn mua máy trả góp thì em cần những gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.251324,
+         "id": "990924",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn đổi F1s 2017 sang F3 thì bù nhiều không ad ? Máy em mới dùng được khoảng 3 tháng, phụ kiện và hộp, giấy tờ bảo hành còn nguyên ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.025326,
+         "id": "1146103",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi với ạ, em muốn mua trả góp điện thoại nhưng em ở xa nhà và chỉ có CMND với sổ hộ khẩu phôto thì có mua được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.972107,
+         "id": "1150411",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn kết nối điện thoại samsung j7 prime với tivi sony để xem youtube thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.969242,
+         "id": "1162158",
+         "field_search": "question",
+         "question": "Ad cho em hỏi..khi em bật cái chức năng smartview để kết nối vs tivi thì noa cứ hiện như hình dưới...em xài máy sámung a6+ ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.962732,
+         "id": "1011094",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi là nhà mình có bán các phụ kiện bảo vệ laptop như miếng dán silicon, dán màn hình, hay túi chống sốc cho laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.89583,
+         "id": "818630",
+         "field_search": "question",
+         "question": "wifi nhà em mới đặt lại mật khẩu. nhưng khi máy tính nhà em kết nối thì ko hiện ô để nhập mật khẩu. bắt wifi nhà hàng xóm vẫn bình thường. cho e hỏi đây là lỗi của mt hay lỗi cả wifi ạ? và em cần phải làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.841516,
+         "id": "783181",
+         "field_search": "question",
+         "question": " Cho em hỏi vì sao iphone 5s của em tải karaoke connect thì máy báo là k thể tải ứng dụng lúc này ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.739258,
+         "id": "914957",
+         "field_search": "question",
+         "question": "Ad cho em hỏi nhà e xài máy laptop dell khi máy bảo update thì em làm theo, nhưng khi update xong thì máy em không thể kết nối với wifi, điều chỉnh độ sáng , âm thanh... Ad giúp e tìm cách giải quyết với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.733116,
+         "id": "750542",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy Dell Inspiron 5547 i5 và em muốn kết nối với điện thoại qua bluetooth nó vẫn hiện lên thiết bị để kết nối nhưng vào kết nối thì không được ạ. Có cách nào khắc phục lỗi đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.643879,
+         "id": "780683",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang sử dung iphone 4 không hiểu sao khi dùng dây cáp để kết nối với máy tính thì điện thoại cứ hiện lên là “phụ kiện không hỗ trợ” và mình không thể nào kết nối được với máy tính. Cho hỏi có cách nào để khắc phục không....mong sớm nhận được câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.615084,
+         "id": "1022691",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi em muốn trả góp con asus 4 max thì cần những gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.59444,
+         "id": "1012118",
+         "field_search": "question",
+         "question": "ad cho em hỏi mua iphone 5s gói trả góp 60 thì hợp đồng mua cần những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.578545,
+         "id": "1134390",
+         "field_search": "question",
+         "question": "Em đang dùng máy sony z4, trước máy em vẫn kết nối wifi bình thường, nhưng 1 tuần nay máy em kết nối thì hiện đã kết nối nhưng wifi có chấm than, em thay ip tĩnh vẫn không được. Các wifi nhà khác máy em kết nối bt chỉ có wifi nhà em mới vậy. Anh/chị cho e hỏi e vậy là máy e bị sao ạ và khắc phục ntn ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.493956,
+         "id": "1139243",
+         "field_search": "question",
+         "question": " chào ad.. cho e hỏi xíu được không ạ... nếu e muốn mua điện thoại trả góp thì cần những gì ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.482851,
+         "id": "1160164",
+         "field_search": "question",
+         "question": "Chuột mays tinh nhà em bị hư mua chuột không dây mới nhưng chuột này chỉ kết nối với máy tính bằng máy tính đc thôi Cho em hỏi  còn cách kết nối nào khác không ạ? ( nó không có thiết bị cắm vào máy tính để kết nối )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.308329,
+         "id": "1140772",
+         "field_search": "question",
+         "question": "AD cho em hỏi với. Hiện tại em ở phú quốc. Muốn mua trả góp nhưng chưa đủ 20 tuổi. Chỉ mới 19 thôi. Những người có thể đứng ra mua giùm em thì không có bên phú quốc ạ. Vậy em có thể làm gì để mua góp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.141325,
+         "id": "1010326",
+         "field_search": "question",
+         "question": "mà cho em hỏi các anh chị ạ !! em muốn mua trả góp điện thoại giá tầm từ 3 triệu đến 7 triệu /Ngoài cần những điều kiện trên 20 tuổi ,thì cóa cần đến nghề nghiệp trình độ gì không..em xin cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.05035,
+         "id": "1145033",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi, tại sao điện thoại samsung galaxy j6 không kết nối được với tivi vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.66622,
+         "id": "992738",
+         "field_search": "question",
+         "question": "Cho em hỏi, em  có mua j7 prime, còn bảo hành, hộp và phụ kiện đầy đủ thì bên tgdd có thu lại không với giá bao nhiêu ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.66434,
+         "id": "1145319",
+         "field_search": "question",
+         "question": "Cho em hỏi, em vừa mua con Xiaomi note 6 64Gb chưa được 1 tháng đâu, hiện tại em muốn đổi sang dùng Huawei nova 3i thì có những yêu cầu hay việc cần làm gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.579584,
+         "id": "1153315",
+         "field_search": "question",
+         "question": "em xài samsung j đời cũ kết nối wifi và bluetooth và chơi những game online trong nước thì chạy bình thường nhưng chơi game nước ngoài thì lại báo là mạng kết nối không ổn định có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.554453,
+         "id": "997259",
+         "field_search": "question",
+         "question": "em muốn hỏi về thủ tục trả góp ạ! với lại cần những gì ? có lấy lãi tháng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.459259,
+         "id": "996878",
+         "field_search": "question",
+         "question": "cho em hỏi kết nối OTG trên samsung j7 prime có kết nối được với máy in canon lbp 2900 không vây ad? nếu được thì kết nối như thế nào? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.433819,
+         "id": "1006607",
+         "field_search": "question",
+         "question": "admin cho em hoi muốn mua trả góp thì cần những gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.410112,
+         "id": "1134182",
+         "field_search": "question",
+         "question": "Em có máy j8 mua ơer tgdd tháng 82018 còn nguyên phụ kiện thì giờ em muốn bán thì được bn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.365536,
+         "id": "1002357",
+         "field_search": "question",
+         "question": "cho em hỏi. em mua điện thoại được 6 tháng rồi mà bây giờ tai phone bị hư thì còn được bảo hành phụ kiện không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.252432,
+         "id": "1144971",
+         "field_search": "question",
+         "question": "Chào ad, Em đang có ý định bán máy cũ để mua góp ViVo11i, thế em cần làm những gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.212116,
+         "id": "1023782",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn mua pin mới thì cần chú ý đến những thông số nào để pin mới khớp với điện thoại??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.192627,
+         "id": "1142177",
+         "field_search": "question",
+         "question": "mình muốn kết nối nokia2 với laptop qua dây usb để lấy ảnh ra. nhưng khi kết nối thì điện thoại chỉ có xạc không thể kết nối với máy được? xin hỏi phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.078188,
+         "id": "995287",
+         "field_search": "question",
+         "question": "Dạ cho em hoi ở tgdd cua mjh.co miro karaoke  ko ạk...va giá khoang bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.013662,
+         "id": "1143504",
+         "field_search": "question",
+         "question": "Ad cho e hỏi đt oppo f1s có kết nối đk với tivi TLC s62t  qua cáp HDML không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.988785,
+         "id": "1011473",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp cái điện thoại oppo f3 CŨ thì cần những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.966442,
+         "id": "998561",
+         "field_search": "question",
+         "question": "Em đang dùng cáp kết nối máy tính với điện thoại. Em muốn rút cáp ra cho an toàn thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.893581,
+         "id": "995613",
+         "field_search": "question",
+         "question": "Cho em hỏi là bao nhiêu tuổi thì được mua trả góp và cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.830132,
+         "id": "861362",
+         "field_search": "question",
+         "question": "Acc cho em hỏi. Ai dung ip5s hdh9.3.2 bây h em muốn tải ứng dụng air phay để kết nối hìn ảnh lên tivi thi phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.775562,
+         "id": "1004647",
+         "field_search": "question",
+         "question": "chào anh chị cho em hỏi em muốn mua điện thoại tra góp 0đ thì có được ko và thủ tục cần những gì ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.763796,
+         "id": "1007014",
+         "field_search": "question",
+         "question": "AD, cho mình hỏi A7 2017.. mua được tặng kèm phụ kiện gì không ạ.. AD tư vấn thêm về sản phẩm nha 0937131373",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.761795,
+         "id": "1138182",
+         "field_search": "question",
+         "question": "Em mới mua 1 chiếc xsmax 64g tại tgdd giờ em muốn đổi lên 256g thì cần những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.73577,
+         "id": "832097",
+         "field_search": "question",
+         "question": " Em mua trả góp laptop cần những gì và không trả trước có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.694695,
+         "id": "1005054",
+         "field_search": "question",
+         "question": "Chào TGDD! Em muốn hỏi là với người chử đủ 18 tuổi muốn mua điện thoại trả tiền tại chỗ thì cần những giấy tờ thủ tục gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.660387,
+         "id": "1012072",
+         "field_search": "question",
+         "question": "em cần những gì ạ em có CMT  sổ hộ khẩu được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.657646,
+         "id": "1144299",
+         "field_search": "question",
+         "question": "Cho e hỏi oppof7 có hỗ trợ kết nối với tivi qua cổng cáp MHL không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.629387,
+         "id": "803444",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em muốn kết nối lại với Facebook giống như hình của bạn Kiet Nguyen mà biểu nhập loại xác nhận gì đó là sao em không biết ad giúp với ạ?a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.522968,
+         "id": "1158808",
+         "field_search": "question",
+         "question": "Cho em hỏi em sinh  ngày 11.6.1999 thì  e có thể mua đt trr góp được k. Và mua thì cần những thủ tục gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.4932,
+         "id": "1011830",
+         "field_search": "question",
+         "question": "Iphone 5s của em mua hồi 142017, giờ còn full box, full phụ kiện đi kèm, em muốn bán lại thì được bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.437,
+         "id": "996644",
+         "field_search": "question",
+         "question": "Chào nhân viên chăm sóc khách hàng,Tôi muốn hỏi bên cửa hàng có mic hát karaoke k,mic này có dây cắm vào dt&dây dẫn ra loa Dc đi chung vs nhau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.317804,
+         "id": "1146657",
+         "field_search": "question",
+         "question": "Chào ad có thể cho mình hỏi muốn mua điện thoại trả góp bên mình thì điều kiện cần và đủ là gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.285229,
+         "id": "826220",
+         "field_search": "question",
+         "question": " Mình muốn trả góp iphone 6 thì cần làm sao và phải có những điều kiện gì v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.2641,
+         "id": "1155140",
+         "field_search": "question",
+         "question": "Nếu giờ em muốn thay màn hình HTC 820 plus có phụ kiện để thay không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.184397,
+         "id": "796865",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách hoặc thiết bị để kết nối iPhone 6 với tivi Sony? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.088037,
+         "id": "818135",
+         "field_search": "question",
+         "question": " Cho hỏi oppo f1 có thể kết nối với tivi qua otghdmi không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.056622,
+         "id": "757935",
+         "field_search": "question",
+         "question": "Em dùng ipad 2. Em vào setting em kết nối wifi thì ok. Nhưng nó không hiện cột sóng wifi và bị lỗi kết nối các anh chị giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.056206,
+         "id": "754451",
+         "field_search": "question",
+         "question": "Anh chi ơi cho em hỏi em đang dùng iPhone 5 mà sạc pin thì máy báo là phụ kiện không được hỗ trợ là do củ sạc hay là cáp ạ.xin mọi người chỉ dùm để em khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.007673,
+         "id": "1136622",
+         "field_search": "question",
+         "question": " chào anh chị ạ. cho em hỏi phụ kiện đang được giảm giá thì sử dụng zalopay có đc giảm 50 hóa đơn ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.979235,
+         "id": "794558",
+         "field_search": "question",
+         "question": " Cho em hỏi giờ mua iphone 5s có phụ kiện đi kèm ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.892931,
+         "id": "996747",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi.mua điện thoại trả góp cho sinh viên cần những điều kiện gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.813965,
+         "id": "1001716",
+         "field_search": "question",
+         "question": "cho mình hỏi của hàng có bán micro thu âm karaoke tren laptop không? cảm ơn nhiều ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.78403,
+         "id": "1023067",
+         "field_search": "question",
+         "question": "ad cho e hỏi e đang ở Lâm Đồng muốn mua trả góp thì cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.78274,
+         "id": "753875",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em cần mua máy tính để học. Em học ngành quản trị kinh doanh thì nên cần mua máy gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.732197,
+         "id": "954016",
+         "field_search": "question",
+         "question": "xin chào em đang dùng laptop acer win 7 và em muốn hỏi là các anh chị có thể chỉ em cách lấy thông tin hay xâm nhập để điều khiển thiết bị kết nối với mạng wifi của mình không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.662249,
+         "id": "1016179",
+         "field_search": "question",
+         "question": "Điều kiện để được đăng ký trả góp 0% là gì ad?? Với hôm trước em có đặt onl với gói trả góp sinh viên giờ muốn thay đổi gói trả góp 0% thì sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.635769,
+         "id": "798863",
+         "field_search": "question",
+         "question": " Cho tôi hỏi có bán cáp HDMI kết nối iPhone 4 với tivi không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.600218,
+         "id": "1018411",
+         "field_search": "question",
+         "question": "Bên thegioididong.com có cho mượn máy để review (review app)không? Em đang có nhu cầu để review trên Channel Của em!.Cần những điều kiện gì để mượn máy review?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.583134,
+         "id": "945625",
+         "field_search": "question",
+         "question": "laptop minh mua 1 năm rồi giờ kết nối với tivi qua cổng HDMI nhưng ko được, mình kiểm tra diver trên laptop để cập nhật thì chỉ thấy ghi \"na\" là sao? giờ làm sao để cập nhật được diver?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.553825,
+         "id": "1167026",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi với ạ. em dùng oppo A3S đt em bị hư và mất thẻ nhớ những hình ảnh em lưu trong hộp thư bảo mật. thì người nhặt được thẻ nhớ em có thấy được không ạ. mong ad trả lời em với ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.551891,
+         "id": "889752",
+         "field_search": "question",
+         "question": " Làm sao để phản chiếu hình ảnh iphone5s lên tivi ạ ... Tivi không kết nối đc wifi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.546743,
+         "id": "791916",
+         "field_search": "question",
+         "question": " samsung Galaxy A5 2016 có kết nối dược với TiVi không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.521654,
+         "id": "782429",
+         "field_search": "question",
+         "question": "Anh ơi em mới mua điện thoại iphone 5s được 15 ngày hôm nay em kết nối wifi thì nó ghi là sai pass và không kết nối dc em đã tắt và khởi động lại máy nhưng vẫn không kết nối dc . Trường hợp của em có cần mang ra thegioididong sữa ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.464949,
+         "id": "1149732",
+         "field_search": "question",
+         "question": "Mình mua ĐT huawei nova 3i tại tgdd hưng nhân, hưng hà đc 6 tháng rồi. Mình hay quay video những buổi đi chơi hay karaoke, hay phát trực tiếp trên Facebook. khi phát lại video những buổi karaoke hay trực tiếp fb thì nhạc rất rè, cho mình hỏi như vậy là bị sao vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.463106,
+         "id": "783384",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em mua máy ở tiệm khác nhưng máy em no bị vô hiệu hóa kết nối itunes . giờ em muốn sửa lại thì có làm được ko ạ! nếu đươc thì hết phí bao nhiêu ạ! máy em iphone 4s 32gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.4338,
+         "id": "946854",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi khi mình dùng 3g sim vina thì fb messenger không kết nối được còn dùng 3g viettel thì lại kết nối được. Có cách nào khắc phục không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.341217,
+         "id": "1133539",
+         "field_search": "question",
+         "question": "Cho mình hỏi huawei nova 3i có hỗ trợ tính năng nào kết nỗi với tivi không, bên cửa hàng tgdd có bán cáp nào kết nối với tivi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.327803,
+         "id": "1006194",
+         "field_search": "question",
+         "question": "Em là tân sinh viên, em muốn mua điện thoại trã góp được không ạ? Nếu được thì cần những loại giấy tờ nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.306684,
+         "id": "803760",
+         "field_search": "question",
+         "question": "Em muốn mua Laptop Asus A540LA i3 4005U/4GB/500GB/Win10với hình thức trả góp thì cần những giấy tờ gì ạ. hiện em là sinh viên tại hà nội, em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.277185,
+         "id": "995604",
+         "field_search": "question",
+         "question": " Em muốn mua 1 chiếc iPhone 5s .. thủ tục cần những gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.25533,
+         "id": "1165383",
+         "field_search": "question",
+         "question": "cho e hỏi, e có mua tai nge bluetooth sony wi-c300, sao e không kết nối được với IP7 vậy, loa bluetooth thì e lại kết nối được, shop có cách nào kết nối không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.234303,
+         "id": "760912",
+         "field_search": "question",
+         "question": " Cho em hỏi năm nay em 18t mà mua iPhone 5s gold 16gb trả trước 4 triệu thì cần những giấy tờ gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.211832,
+         "id": "1008550",
+         "field_search": "question",
+         "question": "ad cho em hỏi oppo f1s của em mua khoảng 11 tháng trước còn bảo hành phụ kiện tai nghe sạc đầy đủ h muốn bán hoặc đổi trả thì giá trị còn bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.083715,
+         "id": "770948",
+         "field_search": "question",
+         "question": " Em muốn mua trả góp iPhone 5, giờ giá bao nhiêu ạ? Và cần những thứ gì để mua trả góp? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.072298,
+         "id": "774401",
+         "field_search": "question",
+         "question": " Em đang đi làm muốn mua trả góp iPhone 5 thì cần những gì và trả góp trước bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.937574,
+         "id": "758818",
+         "field_search": "question",
+         "question": " Ad cho em hỏi Samsung Galaxy J5 có kết nối 4G được không ạ. Xin cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

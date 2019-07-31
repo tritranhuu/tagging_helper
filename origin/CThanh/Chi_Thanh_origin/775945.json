@@ -1,0 +1,801 @@
+{
+   "id_query": "775945",
+   "total": 30378,
+   "total_current": 100,
+   "max_score": 79.166306,
+   "origin_question": " Em đang dùng ipad Air 2 và lỡ tay xoá camera360, giờ em muốn khôi phục lại phần mềm này thì phải làm thế nào ạ? ",
+   "hits": [
+      {
+         "score": 36.011826,
+         "id": "761302",
+         "field_search": "question",
+         "question": "Em hiện tại đang dùng iPhone 5s do không may lỡ tay em ấn nhầm phần cắt bản gốc của ghi âm bây giờ làm thế nào để khôi phục lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.51908,
+         "id": "1143054",
+         "field_search": "question",
+         "question": "Em lỡ tay xóa mất phần mềm ứng dụng ghi âm trên Samsung J4, làm sao để khôi phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.1341,
+         "id": "859030",
+         "field_search": "question",
+         "question": " Mình lỡ tay xoá tài khoản zalo làm sao để khôi phục lại đÂy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.445469,
+         "id": "1136135",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đang sài con ipad ari 2 và mình khôi phục lại, giờ khôi phục song ipad hiện lên không thể kích hoạt ipad là sao và sữ lí thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.904974,
+         "id": "992598",
+         "field_search": "question",
+         "question": "Em muốn khôi phục lại phần mềm ban đầu mà mình chưa cập nhật vì máy bị giật, lag thì làm như thế nào ạ?em dùng iPhone 5s 16G Chính hãng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.987701,
+         "id": "909240",
+         "field_search": "question",
+         "question": " Em lỡ update lại win10 và các phần mềm mất hết em phải làm thế nào. Mong anh chị cho em lời khuyên ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.972628,
+         "id": "781984",
+         "field_search": "question",
+         "question": "Tình hình là em lỡ xóa hình anh của ipad air 2 qua phần mềm itunes.có cách nào lấy lai a.em đang rất cần mong a/c trả lời em ngay ạ.em xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.707232,
+         "id": "778614",
+         "field_search": "question",
+         "question": "Cho e hỏi em lỡ bấm xoá hình ở trong camera 360 mà bây h em đang xài đt iPhone 6 bây giờ làm sao để khôi phục lại hình em mới xoá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.59314,
+         "id": "1007422",
+         "field_search": "question",
+         "question": "Em lỡ xoá bản cập nhật của google play giờ cập nhật lại phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.536856,
+         "id": "764623",
+         "field_search": "question",
+         "question": "các bác cho em hỏi cái.em đang dùng iPhone 5s lock nhật.e lỡ xóa hết cài đặt khi khởi động treo máy.e có làm theo hướng dẫn là restore lại máy.các bước làm ok đến chỗ khôi phục nó báo là khôi phục và sao lưu đên phiên bản ios 9.2.e đang dùng 8.4 e muốn giữ máy ở 8.4 thì phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.375233,
+         "id": "770119",
+         "field_search": "question",
+         "question": " Bây giờ đã có iOS 9.2 máy em iPad Air 2 mới có iOS 8.1 em muốn lên iOS 8.4.1 thì làm như thế nào ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.098291,
+         "id": "822375",
+         "field_search": "question",
+         "question": " Em dùng iPad mini lúc tải camera360 thì nó rất nhỏ và mờ làm thể nào để chinh vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.733862,
+         "id": "1158830",
+         "field_search": "question",
+         "question": "Có cách nào phục hồi video đã xoá trên j7 prime không ạ ? Em lỡ tay xoá cách đây 2 ngày nhưng em không bật account Samsung ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.579922,
+         "id": "1139286",
+         "field_search": "question",
+         "question": " Tôi lỡ tay xóa mất lịch sử trò chuyện trên Wechat muốn khôi phục lại, tôi phải làm gì??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.188555,
+         "id": "785820",
+         "field_search": "question",
+         "question": " Ipad air 2 có tải được phần mềm vivavideo không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.166142,
+         "id": "1164711",
+         "field_search": "question",
+         "question": "   Tôi lỡ xoá google và đồng hồ như hình thì phải làm thế nào hiện lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.877161,
+         "id": "788699",
+         "field_search": "question",
+         "question": " Em muốn jairbreak máy iPad mini 2 16GB thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.767464,
+         "id": "1144349",
+         "field_search": "question",
+         "question": "em lỡ xoá nhạc mà không biết ở đó lưu cả phần ghi âm nên nhiều thứ quan trọng bị mất em phải làm sao để khôi phục ạ (điện thoại oppo ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.62394,
+         "id": "1158452",
+         "field_search": "question",
+         "question": "Em đang dùng OPPO A3s. Sau khi em xoá FaceBook và vào tải lại thì được báo như thế này . Em nghĩ lỗi này là do bên Thế Giới Di Dộng. Em đã gọi lên tổng đài nhưng không có hướng giải quyết. Cho em hỏi giờ phải là m sao để tải lại Facebook ạ. Trước em có xoá đi tải lại 2 lần vẫn được. Nhưng đến lần này thì bị báo lỗi thế này ạ. Mong khắc phục sớm lỗi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.567627,
+         "id": "1118722",
+         "field_search": "question",
+         "question": " Cho em hỏi ạ? lỡ tay Format ổ D. làm sao khôi phục được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.471418,
+         "id": "1156051",
+         "field_search": "question",
+         "question": "Máy j7 cập nhật phần mềm xong bị mất hết album lưu trong thẻ SD là sao ạ? Muốn khôi phục phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.462837,
+         "id": "1018191",
+         "field_search": "question",
+         "question": "Hi tgddMình đang dùng a5 2017. Gần đây máy hay tự khởi động lại, một số phần mềm tự động đóng. Mình đã thử cập nhật phần mềm mới và khôi phục cài đặt gốc mà vẫn không hết. Vậy giờ làm thế nào để khắc phục được ah?Xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.375288,
+         "id": "926156",
+         "field_search": "question",
+         "question": ". Cho em hỏi, em dùng máy tính nhưng em lỡ xóa các file (cụ thể hơn là hình ảnh) thì bây giờ có phần mềm nào khôi phục hình ảnh em đã xóa không ạ (cụ thể là ảnh đã xóa vĩnh viễn). Em dùng Win7, xin cám ơn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.362564,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.098421,
+         "id": "805042",
+         "field_search": "question",
+         "question": " Em có mua 1 ipad air 2 bây giờ em muốn bán lại thì mất bao nhiêu  ạ. Có cục sạc luôn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.093235,
+         "id": "1001085",
+         "field_search": "question",
+         "question": "Cho em hỏi bấm vào bản cập nhập phần mềm ios 10.3.2 xong chưa cập nhật xong em lỡ tay bấm thoát ra và bây giờ nó không hiện lên để cập nhật nữa thì phải làm sao ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.960165,
+         "id": "780648",
+         "field_search": "question",
+         "question": "Em đang dùng ipad air 2 nhưng ko bít tại sao mỗi lần em tải game thì em nhập mật khẩu vào thì lại bị sai và không tải được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.766502,
+         "id": "1152010",
+         "field_search": "question",
+         "question": "Em lỡ tay ấn nút nhả pin ở laptop dell inspiron 15 3000 thì phải làm thế nào để đóng lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.734749,
+         "id": "1148032",
+         "field_search": "question",
+         "question": "muốn khôi phục ảnh lỡ tay xóa trên mbiistar lai zoro 3 làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.501587,
+         "id": "1162181",
+         "field_search": "question",
+         "question": "Cho e hỏi ip4 đã jailbreak lỡ tay xoá mất phoenix jailbeak9.3.5 e đã reset lại nhưng mấy cái app cydia vẫn còn giờ thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.429472,
+         "id": "1004205",
+         "field_search": "question",
+         "question": "AD cho em hoi hom nay em có lỡ tay dí vào màn  hình chính rồi xóa đi tất cả các ứng dụng mặc định trên đó bh em phải l thế nào để khôi phục lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.350224,
+         "id": "1164030",
+         "field_search": "question",
+         "question": "Máy op  f1  khôi phục lại video như nào vậy mình lỡ tay xóa mất video muốn lấy lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.26904,
+         "id": "1158616",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình lỡ cài đặt 2 phần mềm virus cùng 1 lúc là bkav không mua bản quyền và   KASPERSKY INTERNET SECURITY có mua bản quyền. Mình đã xoá phần mềm bkav mà không xoá được giờ 2 cái xung đột làm chậm máy, nhờ chỉ hướng giải quyết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.219322,
+         "id": "906868",
+         "field_search": "question",
+         "question": "Facebook em bị như thế này là thế nào ạ. Các thông tin đều bị mất hết id và pass cũng bị thay đổi bây giờ làm thế nào mới khôi phục lại tài khoản trong khi em cài phê duyệt đăng nhập mà không hiểu vì sao vẫn bị hách như thế này các sdt gmail khôi phục cũng bị xoá hết mong có được sự trợ giúp. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.914974,
+         "id": "805111",
+         "field_search": "question",
+         "question": "Mình đang dùng Iphone 4s hôm nay mình cập nhật phần mềm trong phần cài đặt xong máy bị treo cáp Itunes bây giờ phải làm thế nào xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.854061,
+         "id": "855545",
+         "field_search": "question",
+         "question": " E lỡ tay xoá tài khoản viễn vĩnh bây giờ e đăng nhập vô thì tài khoản này đang bị khoá vui lòng thử lại sau 24h ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.668499,
+         "id": "1145644",
+         "field_search": "question",
+         "question": "Lỡ tay xoá đi khi cài lại thì bị thế này. Những ứng dụng khác vẫn bình thường còn instagram và vlive thì k tải đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.552671,
+         "id": "1141160",
+         "field_search": "question",
+         "question": "xin chào anh/chị! cho em hỏi cách khôi phục touchpad trên laptop dell inspiron 3576 như thế nào ạ? vì em lỡ tay Uninstall ứng dụng đó nên không biết làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.546465,
+         "id": "1009009",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi e sử dung oppo f1 trong phần trung tâm bảo mật lúc quét nhanh máy e lỡ tay nhấn vào phần mở chế độ dữ liệu di động sau 2 giây tắt máy sẽ bị tắt dữ liệu di động bây giờ e muốn xoá cái chế độ này thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.434372,
+         "id": "992472",
+         "field_search": "question",
+         "question": "mình đang nghe file ghi âm trên ip 4, lỡ tay ấn vào phần chỉnh sửa, sau đó file ghi âm dừng lại k nghe được nữa. Bây giờ thời lượng file trở về 0. Có cách nào khôi phục lại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.234882,
+         "id": "822548",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất mặt khẩu iCloud em muốn lấy lại làm cách nào và phần mềm diệt virus thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.141106,
+         "id": "999108",
+         "field_search": "question",
+         "question": "Ad cho em hỏi xíu ! Em lỡ ấn mục hủy nhắn tin tới các đầu số tính phí rồi . Giờ gửi không đc . Làm thế nào để khôi phục lại như cũ được ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.996044,
+         "id": "1142839",
+         "field_search": "question",
+         "question": "em lỡ tay xóa 1 vài ảnh trên điện thoại samsung a5 2016, em vào samsung  cloud khôi phục mà không được, cho em hỏi có cách nào khôi phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.96242,
+         "id": "923207",
+         "field_search": "question",
+         "question": "tài khoản gmail mình đăng kí trên ID apple mình lỡ tay xoá không khôi phục lại gmail được thì tài khoản icould có ảnh hưởng gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.929249,
+         "id": "1161549",
+         "field_search": "question",
+         "question": "em đang dùng iphone 4 nhưng dạo này nó cứ tự động tắt nguồn khi mà pin vẫn đầy, xong em bật lên thì lại mất sóng và lệch ngày giờ. em phải làm thế nào để hết tình trạng này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.90902,
+         "id": "822904",
+         "field_search": "question",
+         "question": "Ad cho hỏi em đang dùng Iphone4 máy vẫn dùng bình thường nhưng đã có tài khoản Icloud. Tài khoản đó không phải là của em, giờ em muốn khôi phục lại cài đặt có khôi phục được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.84689,
+         "id": "1145352",
+         "field_search": "question",
+         "question": "Hi shop ạ, em đang dùng ip 6s. Đợt vừa rồi em có lỡ xoá 1 số hình quan trọng nhưng xoá vĩnh viễn. Không biết có cách nào để phục hồi lại được ko ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.707508,
+         "id": "1023770",
+         "field_search": "question",
+         "question": "Mình từng mua iPad Air 2 16GB Gold bên mình, giờ mình muốn lên iPad Pro thì phải thêm bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.67118,
+         "id": "855150",
+         "field_search": "question",
+         "question": " Mình muốn cài đặt hỏi mật khẩu khi mua ứng dụng trên AppStore trong IPad Air 2 thì làm như thế nào??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.590462,
+         "id": "760574",
+         "field_search": "question",
+         "question": "Em dùng 5s lên iOS 9.1 thì bị treo phần điện thoại. Muốn gọi điện thì phải vào phần danh bạ. Bây giờ phải làm thế nào vậy Ad ơi ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.585472,
+         "id": "1001727",
+         "field_search": "question",
+         "question": " Máy của em sao lại bị như vậy ạ. Em muốn chạy lại phần mền thì phải làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.558748,
+         "id": "1136213",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua con mac air dung lượng 128GB giờ em muốn nâng lên 256 thì làm thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.532486,
+         "id": "1136996",
+         "field_search": "question",
+         "question": "Mình đang sử dụng một tài khoản icloud và id apple trên 2 thiết bị iPhone và iPad, người mình muốn xoá và thoát tk icloud trên iPad thì tk trên iPhone có bị xoá không, nếu sau này mình lấy tk icloud này đăng nhập lại trên iPad đó có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.532328,
+         "id": "1135497",
+         "field_search": "question",
+         "question": "em lỡ tay khôi phục lại điện thoại như lúc ban đầu nên đã bị xóa hết tất cả các dữ liệu đã có trong điện thoại, cho em hỏi là không biết có cách nào khôi phục lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.397476,
+         "id": "884265",
+         "field_search": "question",
+         "question": "Mình muốn tải Cydia.vn nhưng lại bị lỗi như thế này thì phải làm như thế nào để khắc phục được ạ. Mình dùng iphone 5s..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.344847,
+         "id": "1148362",
+         "field_search": "question",
+         "question": "xin chào, em muốn nhờ các anh chị giúp đỡ e một vấn đề à về laptop ạ, hôm qua e có lỡ tay shift delete một số file word văn bản quan trọng bây giờ e muốn khôi phục lại các file đó thì phải làm sao ạ. Nhờ các anh chị giúp đỡ, em xin cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.318071,
+         "id": "1020745",
+         "field_search": "question",
+         "question": "chào ạ, điện thoại em bị mất google play luôn. giờ em muốn khôi phục lại phải làm sao ak. nho hổ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.238106,
+         "id": "1021591",
+         "field_search": "question",
+         "question": "Mn cho em hỏi là em lỡ xóa file chính của đt...bây giờ không vào đc gì nữa....em phải làm sao để khôi phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.139515,
+         "id": "919625",
+         "field_search": "question",
+         "question": " Mjnh có lỡ tay xóa một chút anh ở iPhone 6s plus jo làm cách nào để khôi phục lại được không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.088812,
+         "id": "753862",
+         "field_search": "question",
+         "question": "Em dùng vivas lotus 2, hôm nọ khôi phục cài đặt gốc thì không dùng được camera sau. Vào máy ảnh nó cũng không hiện đổi camera trước vs sau luôn. Lỗi này là lỗi gj và khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.984268,
+         "id": "840418",
+         "field_search": "question",
+         "question": "Mình sử dụng máy Laptop Asus X553M Win8.1 with Bing. Có cài đặt Bitdefender và gói Office 365 mua tại TGDĐ. Hiện tại, mình muốn khôi phục lại máy vì máy có hiện tượng chậm. SỬ dụng chế độ khôi phục giữ lại các tệp cá nhân thì nó vẫn xóa đi các phần mềm khác như Bitdefender và Office 365. Vậy cho mình hỏi, mình muốn giữ lại hai ứng dụng này (nếu giữ lại được tất cả ứng dụng thì càng tốt) thì mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.954971,
+         "id": "766510",
+         "field_search": "question",
+         "question": "Chào Thế giới di động, mình mua iPad air 2 của Thế giới di động nhưng giờ muốn bán thì người mua cứ hỏi sao không có số imei?Mình không rành, và không biết vì sao mình lại không kiếm được imei trên iPad air 2 wifi của mình.Vậy làm sao mình có thể check được bảo hành vây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.846163,
+         "id": "863738",
+         "field_search": "question",
+         "question": "Lỡ xóa Viber, xong cài lại, nó mất hết cuộc gọi và tinh nhắn, muốn khôi phục lại thì mình làm cách nào? giúp mình với, Cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.658777,
+         "id": "1115314",
+         "field_search": "question",
+         "question": " Em lỡ tay xóa mất wifi, máy em win 10 thì làm sao khắc phục được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.6474,
+         "id": "757565",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 16Gb bây giờ em muốn Jailbreak máy để dùng một số phần mềm thì có ảnh hưởng gì không ạ? Em thanks trước !!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.622408,
+         "id": "782812",
+         "field_search": "question",
+         "question": "Achi cho em hỏi, phần mềm mới nằm trong cài đặt máy của em nhưg em ko muốn căp nhật thì xoá bằng cách nào ạ, em đang sử dụng iPhone 5S ạ, achi giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.603678,
+         "id": "822814",
+         "field_search": "question",
+         "question": "Tại sao vào google rồi lên fb với lại xem phim vs mấy cái khác nó bảo trang web không khả dụng cách khắc phục làm sao ạ e đang dùng ipad air 2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.57462,
+         "id": "789774",
+         "field_search": "question",
+         "question": "Em mới mua lại 1 chiểc iPhone 5 về dùng được ít ngày thì cháu nhỏ nghịch nhập sai mật khầu .em mang ra thợ thì họ chạy lại lại phần mềm và nâng cấp lên ios9.2.1 em về sử dụng thì thấy nhiều lúc máy bị đơ và duyệt wet chậm không xem phim được .em muốn hỏi máy e đã gặp vấn đề j .bây giờ e khôi phục cài đặt thì máy có trở về phần mềm cũ được không .và khi khôi phục có bị treo không vì e không biết kiểm tra jb .máy em là phiên bản quốc tế vì em dùng được nhiều mạng .các anh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.56474,
+         "id": "1166325",
+         "field_search": "question",
+         "question": "Mình đang dùng galaxy a5, sau khi cập nhật phần mềm thì máy khởi động lại liên tục. Cho mình hỏi máy bị lỗi gì và cách khắc phục như thế nào ạ?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.515253,
+         "id": "854890",
+         "field_search": "question",
+         "question": " Cho em hỏi em xạc iPad Air 2 từ 7h tối đến 6h sáng thì máy có bị sao koNgày nào em cũng thế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.455866,
+         "id": "994988",
+         "field_search": "question",
+         "question": "Xin cho hỏi , tôi có mua bên cửa hàng thế giới di động một ipad air. bây giờ tôi muốn hỏi bên thế giới di động có thu mua lại ipad air cũ không? Ipad   air này là tôi mua bên thế giới di động. Vì hiện tại tôi muốn mua đổi sang Ipad New 2017 wifi 32G của bên thế giới di động luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.447598,
+         "id": "768747",
+         "field_search": "question",
+         "question": "Chào anh chị ! en có 1 iPad air 2 . trong quá trình sử dụng em lỡ làm mất mật khẩu màn hình khóa.- iCoud của em cũng quên mất .- có cách nào mở giùm em không ạ ? - em xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.42855,
+         "id": "1014655",
+         "field_search": "question",
+         "question": "Em quên mẫu hình nên vào khôi phục cài đặt gốc vẫn phải mở mẫu hình ạ . Phải làm như thế nào ạ.  Em đang sử dụng oppo f1s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.370064,
+         "id": "1165407",
+         "field_search": "question",
+         "question": "Em muốn khôi phục oppo về cài đặt gốc, nhưng vào cài đặt khôi phục thì nó có vẻ không hoạt động, em nên làm thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.333193,
+         "id": "746260",
+         "field_search": "question",
+         "question": " Em đang dùng ios9.1 , em muốn quay về ios 8.4.1 em phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.309597,
+         "id": "871841",
+         "field_search": "question",
+         "question": "Giúp em với ạ 😭 em lỡ tay xoá messeger tải lại nhưng lại ko được. Em tắt máy khơi động lại. , đang xuất tài khoản appo store và thay đổi cả điểm wifi nhưng cũng ko được😭 giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.291677,
+         "id": "939194",
+         "field_search": "question",
+         "question": "Mình chơi hayday trên ipad, có đăng nhập gamecenter, icloud, Facebook đầy đủ, sau này bị mất facebook, và không còn đc chơi trên ipad nữa, giờ mình đang chơi trên ANDROID, muốn lấy lại tài khoản đó thì phải làm thế nào? Làm sao để lấy lại tài khoản HAYDAY ĐÓ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.282072,
+         "id": "991203",
+         "field_search": "question",
+         "question": "Em muốn hỏi máy tính bảng ipad air còn hàng ko ạ? nếu e muốn trả góp thì thủ tục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.220287,
+         "id": "1009076",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng máy Samsung A5-2017. Tôi đã lỡ chặn gửi tin nhắn đến số +195, nay tôi muốn khôi phục lại phải làm sao TGDD?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.194632,
+         "id": "1149644",
+         "field_search": "question",
+         "question": "Em muốn khôi phục lại toàn bộ số điện thoại mà em đã xoá trên Iphone, nhưng không biết rằng một vài số trong danh bạ chưa cập nhật icloud thì có khôi phục lại được không ạ @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.192774,
+         "id": "990737",
+         "field_search": "question",
+         "question": "Cho mình hỏi minh đang dùng Ipad mini 2 muốn đổi ipad air 2 được không, hiện tại ipad còn bảo hành và mình mua tại điện máy xanh. Bên mình có chính sách nâng cấp ipad không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.06907,
+         "id": "1143284",
+         "field_search": "question",
+         "question": "Mình có máy ipad air 2 và đang chạy ios 11.3 đã jailbrek máy. Hôm quá có xoá nhầm các tweak gì đó và sau khi respring lại máy thì nó hiện ở màn hình xin chào. Không thể nào vào được bên trong. Khi restore bằng itunes thì báo phải tắt find my iphone. Và mình đã xoá bỏ hết bằng máy tính: icloud.com/#findXin mọi ngưởi giúp đở làm sao restore lại ipad mà vẫn ở ios cũ với. Link quay lại video:",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.060291,
+         "id": "1167383",
+         "field_search": "question",
+         "question": "Em quên mất mật khẩu riêng tư và câu trả lời ở phần câu hỏi để khôi phục thì em phải làm sao?  , hiện tại em đang sử dụng oppo F9 ạ,  mong Anh chị giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05466,
+         "id": "756903",
+         "field_search": "question",
+         "question": " iPad mình đang sử dụng chạy iOS 5.1 giờ mình muốn nâng cấp phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.047495,
+         "id": "989243",
+         "field_search": "question",
+         "question": "Cho em hỏi , em đang dùng 5se , em đang dùng phần mềm phiên bản 8.3 . Vậy em có nên cập nhật phần mềm để dùng máy tốt hơn hay dùng phần mềm cũ ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.04401,
+         "id": "998496",
+         "field_search": "question",
+         "question": "Cho em hỏi là em dùng oppo f1w em lỡ xóa mất ch play bây h em muốn cài lại thì làm thế nào ạ xin hướng dẫn chi tiết cho em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.97788,
+         "id": "781809",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi? Em đang dùng ipad air quên mất mật khẩu khóa màn hình. Bây giờ em ra cửa hàng thegioididong có restore lại cho em được không, và em muốn nâng cấp lên ios 9.1 luôn (mất phí tầm bao nhiêu ạ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.977709,
+         "id": "773850",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi: ip 4s ban 7.1.1 van vao dung icloud của mình và say khi lỡ tay xoá find my iphone thì máy rẻsse lại và yêu cầu nhập icloud nhưng giờ nhập không đcMà trong gmail của mình thì vẫn nhậm dc thông báo là máy đã xoá tất cả. Vậy có cách nào để khắc phục icluod rồi dùng lại bt không?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.846163,
+         "id": "767015",
+         "field_search": "question",
+         "question": " Em đang xài iPad Air 2, bị tụt pin nên em có nên nâng cấp iOS không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.791271,
+         "id": "1146295",
+         "field_search": "question",
+         "question": "Làm như thế nào để khôi phục ảnh đã bị xoá trên oppo f9 6gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.75827,
+         "id": "777742",
+         "field_search": "question",
+         "question": "EM MUỐN HỎI EM MUỐN MUA IPAD AIR 2 NHƯNG THÔNG SỐ GHI SỬ DỤNG 4G VÀ WIFI THÌ KHÔNG BIẾT KHI EM LẮP SIM 3G(KIỂU TRỌN GÓI HAY TỐC ĐỘ CỐ ĐINH) THÌ CÓ SỬ DỤNG NHƯ THƯỜNG ĐƯỢC KHÔNG Ạ? NẾU ĐƯỢC THÌ TỐC ĐỘ SẼ THẾ NÀO Ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.75532,
+         "id": "844728",
+         "field_search": "question",
+         "question": " mình muốn cập nhật phần mềm nó cứ hiện thế này thì làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.713552,
+         "id": "888565",
+         "field_search": "question",
+         "question": " cho mình hỏi minh lỡ tay xóa mất tn ip5s co khôi phục lại được ko??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.709213,
+         "id": "780574",
+         "field_search": "question",
+         "question": " Cho em hỏi muốn tắt thông báo cập nhật phần mềm thì làm thế nào ạ? trên iPhone 5S iOS 9.0.1? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.667763,
+         "id": "1163073",
+         "field_search": "question",
+         "question": "em xài iphone 6 mà bị bạn xoá hết ảnh trong thư viện ảnh và trong bộ nhớ 30 ngày r bây giờ em muốn khôi phục hết ảnh đã bị xoá về dt được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.65352,
+         "id": "811923",
+         "field_search": "question",
+         "question": "Em mới được chị tặng cái iPad air 2, mà lỡ mua bản 4G, em thì không có nhu cầu sử dụng, có thể tắt dòng 'Không có SIM' mà thành iPad như bản Wifi được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.636055,
+         "id": "885698",
+         "field_search": "question",
+         "question": "mình đang dùng máy zenfone 5, trước đây đang dùng viber, chạy lại phần mềm... giờ cài lại viber báo lỗi -24. xử lý thế nào, dướng dẫn mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.617691,
+         "id": "991049",
+         "field_search": "question",
+         "question": "Em lỡ đăng xuất icloud làm mất hết ảnh trong Kho ảnh icloud rồi ạ. Có cách nào để khôi phục ảnh lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.604559,
+         "id": "783890",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi làm sao để tải nhạc trên iPad Air 2 ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,785 @@
+{
+   "id_query": "1133997",
+   "total": 30062,
+   "total_current": 100,
+   "max_score": 305.22266,
+   "origin_question": "Mình đang dùng win 10 pro mình định cài lại win bàng usb. Mình down file ISO về lúc giải nén lại ko thành file ISO mà thành nhìu file nhỏ ( win 7,8 cũ lúc trc mình giải nén đều ra ISO nay lại ko ra ISO). Mình xem file nó giống y lúc mình boot usb. Vậy là do win 10 này ko hỉu ISO hay win đã tự boot sẵn chỉ việc chép hết vào usb và cài bình thường ?",
+   "hits": [
+      {
+         "score": 93.642075,
+         "id": "1145679",
+         "field_search": "question",
+         "question": "Cho e hỏi lúc e vào boot menu ấn vào usb boot để cài lại win sao nó cứ vào khởi động win vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.28049,
+         "id": "867803",
+         "field_search": "question",
+         "question": " Cho em hỏi làm thế nào để giải nén file rar trên win 10 vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.9581,
+         "id": "826006",
+         "field_search": "question",
+         "question": " Win 10 chạy lol bị lổi dù đã tait và giải nén thành công ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.20349,
+         "id": "1145656",
+         "field_search": "question",
+         "question": "Máy e sau khi cài lại win 10, dùng 1 lúc thì gặp lỗi ko nhận usb chuột, e thử up driver mà ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.78421,
+         "id": "997444",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua laptop ở tgdd. khi mua là cài sẵn win 10 cho mình rồi. về mình dùng ko quen lên có cài lại win 8.1. bây giờ mình muốn cài lại win 10 thì bên tgdd có cài lại cho mình ko nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.03153,
+         "id": "1134347",
+         "field_search": "question",
+         "question": "Xin hỏi ! Cài lại win 10 bằng usb thì có mất bản quyền ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.75463,
+         "id": "912444",
+         "field_search": "question",
+         "question": "giúp mình với..mình mua lapdell của TGDD, lỡ cập nhật từ win 8 lên 10. dùng 1 thời gian win 10 thì bị lỗi và mang đi bảo hành.. sản phẩm bảo hành xong vẫn là win 10 và còn file Window old, nhưng khi mình muốn backup lại xuống win cũ thì không hiện phần backup ở mục recovery nữa..vậy mình phải làm sao để backup về win trước đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.27315,
+         "id": "926006",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là em có một máy tính win Xp và em muốn chuyển file game từ máy win Xp sang laptop của em nhưng khi em gắm usb vào máy win XP thì tại sao nó lại không hiện ra biểu tượng trong my computer ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.1817,
+         "id": "800705",
+         "field_search": "question",
+         "question": "Tại sao wifi của mình cái từ khóa thường là connected, nay mình mở lên thì nó thành connected, secured là sao vậy ? Có cách nào đổi lại từ khóa như cũ ko, lúc bị lỗi thay gì là limited giờ nó thành secured nên mình tìm hoài cũng ko đổi tên lại được mìn đang sử dụng win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.06748,
+         "id": "912448",
+         "field_search": "question",
+         "question": "giúp mình với..mình mua lapdell của TGDD, lỡ cập nhật từ win 8 lên 10. dùng 1 thời gian win 10 thì bị lỗi và mang đi bảo hành.. sản phẩm bảo hành xong vẫn là win 10 và còn file Window old, nhưng khi mình muốn backup lại xuống win cũ thì không hiện phần backup ở mục recovery nữa..vậy mình phải làm sao để backup về win trước đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.260056,
+         "id": "780343",
+         "field_search": "question",
+         "question": "Em có sử dụng EasyBCD để cài Remix OS lỡ nghịch dại em bấm lộn chỗ Write MBR. Lúc mở lên thì máy báo lỗi file \\bcd (lúc đó máy đang chạy WIN 10), đem máy đi sửa thì người ta chỉ cài lại Win 8.1 thôi, không biết có liên quan đến WIN 10 hay không ạ em sử dụng 5 tháng rồi mà không có gì hết, vậy có thể cài lại được WIN 10 không ạ...(Em đang sử dụng Laptop Asus Tranformer Book Flip)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.64882,
+         "id": "913532",
+         "field_search": "question",
+         "question": "mới mua laptop ở thế giới di động được 2 ngày thấy máy có sẵn win 10 mà giờ mình muốn tự cài lại win khác thì có ảnh hưởng gì tới bảo hành ko mình có cảm giác máy chạy ì ạch nên muốn cài lại win khác giờ mình muốn cài lại win khác xem nó có hết ko mà ko biết có ảnh hưởng gì tới bảo hành ko ạ nếu máy bị lỗi muốn đổi máy mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.9595,
+         "id": "746557",
+         "field_search": "question",
+         "question": "Laptop mình chạy win 10 không vào Store được là sao vậy m.n, win này là cài sẵn của máy rồi?Trong khi máy tự nâng cấp lên thì vẫn vào Store bình thường???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.68147,
+         "id": "1018223",
+         "field_search": "question",
+         "question": "Cho mình hỏi là win mua theo máy là win bản quyền đúng không ạ . Mình vừa mua máy khoảng 10 ngày và máy khởi động rất chậm sau đó mình đem ra bảo hành thì họ hẹn mình ngày sau lấy từ win 10 single home chuyển thành win 10 pro nhưng lại là bản crack .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.94182,
+         "id": "837757",
+         "field_search": "question",
+         "question": "xin chào thế giới di động, lúc trước mình có mua laptop ở tgdd, và đc cài win bản quyền (win 8) sau đó thì nó đã update lên win 10, một số app mình cài lúc trước cũng mất luôn, vậy cho mình hỏi như v thì lap mình có cần phải cài phần mềm diệt virut k, hay là trong win đã có rồi,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.65051,
+         "id": "851821",
+         "field_search": "question",
+         "question": " Máy em đang dùng win 10. em mới reset lại. sao nó không nhận được chuột usb vậy?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.590675,
+         "id": "1159826",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao mình tải cái file word về mà lúc mình vào xem thì nó hiện như thế, có một số file word khác thì mình tải được bình thường, nó hiện tải về hoàn tất mà mình vào xem thì không mở được file. Mình có thử tải cách khác là down trên máy tính xong gửi qua messenger fb rồi mình down về thì mở được bình thường. Nhưng vậy thì bất tiện lắm. Mình xài ss a8 star",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.115364,
+         "id": "1156371",
+         "field_search": "question",
+         "question": "hiện tại mình đang dùng HP Probook 4530s win 7 theo tgdd mình có nên lên win 10? thấy dân CNTT bảo win 10 không ổn định bằng win 7 vì nó hay cập nhật gây ra hiện tượng lỗi win",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.74896,
+         "id": "908894",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy mình mới mua đựơc vài ngày , mấy ngày đầu vẫn download bình thừơng nhưng từ hôm qua ,các file nhẹ thì vẫn tải bình thuờng ,nhưng các file nặng như 400Mb trở lên không tải đuợc, nó báo đang chờ tải, nhưng không tải, kể cả trình duyệt cốc cốc, google chorm, e store của win 10. Ra bảo duỡng anh nhân viên ktra hoài không biết nguyên nhân nên nói là cài lại win , nếu cài lại win mà vẫn không đuợc mình có được đổi trả 1 vs 1 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.458,
+         "id": "1140534",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi, sao mình cài đặt từ win 8 về lại win 7, khi chạy file Setup nó cứ báo lỗi như thế này (This App cant run on your PC, to find a version for your PC, check with the software publisher). Ad giúp mình cách cài lại Win 7 để dễ sử dụng hơn nhé. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.28723,
+         "id": "920663",
+         "field_search": "question",
+         "question": " tại sao lap top của e asus win 10 tải viên minh về giải nén ra exe mà vô nó báo chưa tải là sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.913376,
+         "id": "1018805",
+         "field_search": "question",
+         "question": "sau khi mang máy đi cài win lại thì mình thấy máy mình khởi động chậm hơn,tức là từ lúc bấm nút khởi động máy đến lúc vào đc trang web nó lâu hơn,cứ quay quay hoài lát mới load ra đc trang web google chrome, so với trước khi cài lại win-- thì máy rất nhanh. có khi nào do cài win ảnh hưởng vậy không admin ơi. mình chụp lại ảnh này. ad xem có phải mình đang truy cập mạng bằng tốc độ USB 3.0 không ạ. tại vì mình nghe nói 3.0 truy cập dữ liệu nhanh hơn 2.0. có cách nào khắc phục được không ad .mong ad tư vấn giúp nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.72162,
+         "id": "899159",
+         "field_search": "question",
+         "question": "laptop của mình mỗi lần vào mạng thì k sử dụng chuột di chuyển nhưng các tab mở ra cứ tự động chạy xuống trang cuối, lúc này mình điều khiển chuột lên đầu trang cũng tự động chạy xuống lại. hiện tượng này 2-3h xảy ra 1 lần, nó k liên tục nên mình khó mang ra trung tâm vì sợ khi đến đó hiện tượng này chưa xảy ra thì phải đợi lâu ? k biết là do bị kẹt phím nào đấy hay do lỗi Win ạ ? vì khi mình mở máy nhấp chuột vào 1 file nào đó trên destop thì lại k đc mở file đó mà tự động vào 1 file mình k hề nhấp vào ? 2 hiện tượng đó của máy mình phải khắc phục ra sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.59142,
+         "id": "887166",
+         "field_search": "question",
+         "question": " Ad cho em hoi. E tai liên minh huyền thoại về laptop win 10. Khi giải nén xong nó lại báo lỗi. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.529625,
+         "id": "1153627",
+         "field_search": "question",
+         "question": "  Mình bị lỗi này khi đang nâng cấp win 8.1 thành win 10. Ad giúp mình được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.188828,
+         "id": "1160555",
+         "field_search": "question",
+         "question": "Mình có cài lại win 10 bản quyền ở TGDD , mà sao win chưa được activate",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.00559,
+         "id": "806898",
+         "field_search": "question",
+         "question": "Anh chị cho mình hỏi. Máy tính mình lúc mua là win 8 bản quyền, sau đó mình xóa đi và cài win 7 . giờ mình muốn cài lại win 8 thì có thể lấy lại bản quyền khong ạ. Ở thế giới di động có cài win được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.89639,
+         "id": "799015",
+         "field_search": "question",
+         "question": "Cho hỏi máy tính mình bây giờ đang là win 8.1 giờ mình cài lại win 7 ultimate thì lúc xuống win 7 có mạng không hay là phải cài driver mạng máy mình là máy cây nhé k phải laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.701748,
+         "id": "990393",
+         "field_search": "question",
+         "question": "iphone 6 của mình không bắt được wifi, sau đó pin hết rất nhanh. mình đa nâng cấp lên iso 10., và đã reset lại mạng mà vẫn không được. cho mình hỏi có phải hỏng IC k? thay IC hết bn tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.47426,
+         "id": "754106",
+         "field_search": "question",
+         "question": "Cho mình hỏi về ứng dụng game trên điện thoại: hiện tại mình có cài game Plant vs Zombie 2 trên cả 2 hệ điều hành ISO và Android, mỗi khi xóa game hay cài lại hệ điều hành thì dữ liệu game đều bị mất mặc dù mình đã kết nói game với facebook và dùng địa chỉ ID apple và google play để mua game đó nhưng vào game thì bị mất hết save và phải chơi lại tự đầu cho mình hỏi có cách nào có thể giữ lại save khi phải cài lại điện thoại được không, hoặc mình muốn chuyễn game từ hệ máy ISO sang Androi mà muốn giữ lại save thì phải làm thế nào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.37787,
+         "id": "819000",
+         "field_search": "question",
+         "question": "Cho em hỏi e đang dùng win 10 trên máy asus x555, e muốn cài 1 win 7 chạy song song ở ổ cứng khác, khi chạy reset máy lại menu boot thì nó chặn lại không cho tiếp tục vậy e phải làm sao với menu boot",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.263355,
+         "id": "797208",
+         "field_search": "question",
+         "question": "Mình mua laptop dell cài hệ điều hành win 8 hay win 10 gì đó giờ mình không biết sử dụng mình muốn cài lại win 7 được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.227325,
+         "id": "857899",
+         "field_search": "question",
+         "question": "Laptop Acer one 14 của mình mua được 3 tháng tại thegioididong gió không vào được Windows, chỉ nổi màn hình Boot BIOS giờ mình đem ra có phải phát sinh chi phí gì nữa ko. hay chỉ cài lại Win thoy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.509315,
+         "id": "1150932",
+         "field_search": "question",
+         "question": "Mình vừa mua máy dell 3576 có win 10 home bản quyền nếu mình muốn cài lại bản win 10 pro thì còn bản quyền không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.108234,
+         "id": "896146",
+         "field_search": "question",
+         "question": " Anh chị ơi, cho e hỏi Boot máy tính Asus a450 như thế nào để có thể cài win 8.1 từ USB vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.990234,
+         "id": "842810",
+         "field_search": "question",
+         "question": "Add ơi em muốn cài win XP cho Chiếc laptop bằng USB nhưng khi boot USB thì den gần cuối nó hiện bra lỗi error:undetermined error while formating ạ em thử lại nhiều lần r vẫn bị. Đã tắt hết tuong lửa của window rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.844166,
+         "id": "1160159",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua máy laptop ở tgdd được hơn 1 năm rồi (hết bảo hành ) ,có đợt mình bị lỗi win và nhờ bạn cài win khác không bản quyền ,giờ mình còn cài lại được bản win lúc trước không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.529354,
+         "id": "1146588",
+         "field_search": "question",
+         "question": "Laptop của mình hiện đang dùng win 10 thì bỗng nhiên xuất hiện tình trạng đuôi các file của mình bị đổi thanh tfudet rồi lai đổi thành gefest. Cho mình hỏi máy mình bị lỗi gì và cách khắc phục ạ! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.313114,
+         "id": "774234",
+         "field_search": "question",
+         "question": "TGDĐ vui lòng chỉ mình cách cài win 8.1 máy asus X454L, mình cài Win 8.1 hay win10 nó đều dừng ở 0% bước đầu tiên, chia ổ đĩa bình thường, nó dừng mãi ở 0%, source cài win đó mình cài máy khác bình thường không lỗi gì cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.31271,
+         "id": "1164493",
+         "field_search": "question",
+         "question": "mình mua máy ở tgdd và mình bị mất  Win bản quyền..phải làm sao để cài lại winvà mình muốn cài win 10 pro thì có mất phí không ạ cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.05515,
+         "id": "1147087",
+         "field_search": "question",
+         "question": "Laptop mình bị chậm và đôi lúc bị đơ. Giờ mình muốn ra cài lại win thì có bị mất win10 mình đang sử dụng không? (Win10 này được cài khi mình mua máy ở TGDĐ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.79155,
+         "id": "1155648",
+         "field_search": "question",
+         "question": "mình có mua laptop  bên TGDD , mình bị mất win 10, bên bạn có hỗ trợ cài win 10 lại không ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.741825,
+         "id": "801316",
+         "field_search": "question",
+         "question": "mình đang dùng máy asus win 7 ,tại sao mình vào game world of tank được 1 lúc thì nó tự nhiên văng ra là sao vậy giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.736546,
+         "id": "1003312",
+         "field_search": "question",
+         "question": "e cài ra tiệm cài win, ngta cài e win 8. Giờ khởi động máy lên nó lại kêu cập nhật win10 hoặc win 8.1, vậy là s ạ. E có nên ra tiệm cài lại win 8.1 ko ạ. Tại e sợ ngta chỉ cài win8 cho e mà chỉ là phiên bản dowload thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.642117,
+         "id": "1017577",
+         "field_search": "question",
+         "question": "cho mình hỏi là laptop mình còn bảo hành, mình muốn mang ra cài lại win thì có tốn phí ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.504772,
+         "id": "1143765",
+         "field_search": "question",
+         "question": "cho mình hỏi , lúc trước mình có mua lap top ở thế giới di động, có tặng win 10 bản quyền cho mình, giờ mình muốn cài lại win thì k có mã số key kích hoạt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.446747,
+         "id": "912817",
+         "field_search": "question",
+         "question": " chào ad. cho mình hỏi cách mở lại điểm truy cập cá nhân trên ipad. mình sài ipad 4, iso   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.875084,
+         "id": "1136639",
+         "field_search": "question",
+         "question": " mình sử dụng win 10 ko cài dc card 2007, hd giùm mình cài với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.74884,
+         "id": "909297",
+         "field_search": "question",
+         "question": "Chào Admin!Mình đang dùng máy tính xách tay DELL Inspiron 7548 cài sẵn Windows 10 bản quyền. Sau một thời gian sử dụng nay mình muốn khôi phục lại hệ điều hành giống như khi bung Win lúc mới mua thì làm như thế nào? (Không phải vào Control Panel rồi vào Recovery) Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.28747,
+         "id": "907346",
+         "field_search": "question",
+         "question": " a chị giúp e sửa lỗi 0xA00F4244 của camera laptop với. e đang dùng win 10. khi lên win 10 thì nó thành ra vầy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.275616,
+         "id": "750823",
+         "field_search": "question",
+         "question": "Mình có mua 1 Laptop Lenovo G500s của thegioididong vào tháng 04.2014. Lúc đó chưa có chương trình Win bản quyền cài sẵn theo máy. Vậy cho mình hỏi:1. Những trường hợp như Laptop mình mua trước đây chưa được cài Win bản quyền giờ muốn cài phải làm sao? Thegioididong có hỗ trợ cài Win bản quyền hay bán bản quyền Win 7 hoặc Win 8 không & giá là bao nhiêu?2. Ví dụ như Laptop đang được cài bảng quyền Win 7, nhưng sau đó nâng cấp lên Win 8, Win 10 ...vv thì có bị mất bản quyền Win hay không?3. Bản quyền Win chỉ được cài duy nhất cho 1 máy? Lỡ như Laptop A đang sử dụng, có cài Win bản quyền và Laptop A bị hư, chuyển sang xài Laptop B vậy có chuyển Win bản quyền từ Laptop A qua Laptop B được không?Mong các bạn ghi nhận và phản hồi.Email: hoangnhatminh107@gmail.comTrân Trọng.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.15406,
+         "id": "835843",
+         "field_search": "question",
+         "question": "tình` hình con laptop nhà em đang xài win 7 giờ luôn lên win xp ! cài win xp bằng usb duỗi sao tới chỗ enter với f3 em nhấn vào enter chạy một chạp rồi nó tự  quay lại enter với f3 xin các pro giúp cho",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.131035,
+         "id": "906976",
+         "field_search": "question",
+         "question": " mình đang dùng máy tính ecer win 10 lúc thì báo pin lúc không thì làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.066402,
+         "id": "1158912",
+         "field_search": "question",
+         "question": "Mình xài mobiistat zumbo, chạy androi 7.0. Mình vào quản lý file nhưng ko xóa dc các file bỏ,file rác. Mình tháo thẻ nhớ ra gắn lại thì xóa dc. Nhưng cách này thì làm các ứng dụng mất dữ liệu cũ.Chạy 1 thời gian nó lại ko cho xóa. Mình có thử dùng ứng dụng quản lý file nhưng vẫn không dc. Mong dc giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.77681,
+         "id": "779190",
+         "field_search": "question",
+         "question": "lúc trước em có mua máy tại tgdd , mua về e cài win 10 , mà e lỡ tay xóa mất cái win 8.1 bản quyền , giờ e muốn cài cái win 10 bản quyền thì có tốn tiền ko ạ , e mua máy từ lúc 15/11/2015 và em còn giữ biên lai + tài khoán outlook",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.669193,
+         "id": "792791",
+         "field_search": "question",
+         "question": "QTV Cho mình hỏi : lúc cách đây hơn 1 năm mình có mua laptop tại thế giới di động và mình có mua bộ win 8.1 bản quyền nhưng trong quá trình sữ dụng,mình thấy khó sữ dụng nên đã ra cửa hàng vi tính cài lại win 7 ,bây giờ mình muốn cài lại 8.1 thì bên Cty bạn có thể cung cấp lại cho mình mã key win 8.1 đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.55247,
+         "id": "1010216",
+         "field_search": "question",
+         "question": " mình muốn reset win 10 nhưng nó hiện ra lỗi này giúp mình mới  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.315865,
+         "id": "781006",
+         "field_search": "question",
+         "question": " Cho em hỏi em dùng lap win 10 em muốn cài lại win 7 thì bên mình có cài hộ em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.1978,
+         "id": "860225",
+         "field_search": "question",
+         "question": " Mình mua 1 máy tính cài sẵn win 8.1 mình muốn hỏi là liệu mình có được bảo hành về win không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.05199,
+         "id": "831904",
+         "field_search": "question",
+         "question": " Máy mình vừa cài lại win mà sao ko tìm thấy wifi . giúp mình vs ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.82786,
+         "id": "802654",
+         "field_search": "question",
+         "question": " Máy full disk,wifi có lúc không hiển thị,máy mới mua win 10 tự cài lại win 7 có mất bảo hành không vậy,mua o tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.600655,
+         "id": "1021035",
+         "field_search": "question",
+         "question": "Xin chào, Mình mua laptop cài win 10 bản quyền, sau đó cài lại HĐH linux. Bây giờ mình muốn cài lại win 10 nhưng không nhớ key bản quyền thì có được hỗ trợ lại k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.531147,
+         "id": "1134011",
+         "field_search": "question",
+         "question": "mình mua laptop được hơn 1 năm máy của mình chạy win 10 nhưng máy dạo này có hiện tượng lag chạy chậm v giờ mình có thế ra cửa hàng chạy lại win 10 không? và có mất phí không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.287685,
+         "id": "791328",
+         "field_search": "question",
+         "question": " cho mình hỏi máy mình main G31, CPU Pentium dual core E5200, 2G Ram có cài win 10 pro đc ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.158596,
+         "id": "813313",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình ko rành mấy cái phần mềm này, vd mình mua laptop có Win bản quyền thì office có xài luôn ko hay dùng thử??? Giả sử mình đem ra tiệm ngoài cho ngta cài offiice crack thì có ảnh hưởng j đến win bản quyền của mình ko??? Liệu win bq có bị tháo bỏ dễ dàng ko???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.09582,
+         "id": "844011",
+         "field_search": "question",
+         "question": "anh ơi chỉ e cách khác để fix lỗi 0x80073CF9 không down được app trên win 10 pro. Em đã làm đủ cách như wsreset.exe, tạo file Appreadiness, troubleshooting, net start/stop wuauserv mà vẫn không down được app",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.09391,
+         "id": "777356",
+         "field_search": "question",
+         "question": "Ad ơi, với máy lenovo G40-80 thì nên cài win nào là ổn nhất ah. Mình đã cài win 7 32bit (máy chậm và không đủ driver) cài win 10 32bit thì đủ mà máy chạy không ổn định. Thanks ad...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.061356,
+         "id": "1022931",
+         "field_search": "question",
+         "question": "adm cho e hỏi e có mua laptop của bên mình máy có cài sẵn win 10 home sao e ko dùng dc word vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.01941,
+         "id": "831859",
+         "field_search": "question",
+         "question": "Mình mua máy ở thế giới di động và vừa cài lại win vào mất đi chức năng xoay màn hình thì giờ đem ra TGDĐ thì TGDĐ có cài lại win cho mình không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.900932,
+         "id": "773142",
+         "field_search": "question",
+         "question": " Cho mình hỏi. Ở đây có bán đĩa win không? Mình đang cần cài lại win ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.83257,
+         "id": "1015366",
+         "field_search": "question",
+         "question": "Máy e lúc mua máy cho xài win 10 nhưng giờ nó kêu active nhưng e muốn gỡ win 10 cài win 7 xài thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.832115,
+         "id": "843681",
+         "field_search": "question",
+         "question": " The giới di động có giúp jailbreak iso 9.2.1 ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.697906,
+         "id": "867923",
+         "field_search": "question",
+         "question": "Hôm trước em có đi cài lại win ở chỗ anh/chị nhưng khi về thì win chưa được kích hoạt, và hiện h em đã nâng cấp lên thành win 10 rồi. xin hỏi bây h em phải kích hoạt win như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.67672,
+         "id": "1147967",
+         "field_search": "question",
+         "question": "Mình mới cài lại win 10 cần phải nên làm gì mấy ông ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.51395,
+         "id": "882529",
+         "field_search": "question",
+         "question": " TGDĐ có bản quyền win 7 ko vậy mình muốn cài lại cho laptop. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.39321,
+         "id": "1135210",
+         "field_search": "question",
+         "question": "Mình dùng Sony Vaio, có 1 lần máy tính mình màu nó chuyển chỗ xanh chỗ đỏ, mình khởi động lại 2-3 lần thì nó hết, sau đó mình nâng lên win 10 xài đc 1 tháng nó lại bị tình trạng trên, mình khởi động lại nhiều lần nhưng nó vẫn bị vậy, mình mới quay lại win 7 nhưng vẫn ko hết. Mình phải làm sao đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.193832,
+         "id": "753850",
+         "field_search": "question",
+         "question": "QTV cho em hỏi. Em đang sử dụng laptop Acer Aspire E5 571 core i5 4210U CPU 1.70 GHz  2.40 GHz, mua tại TGDD. Lúc mua cài sẵn win 8.1 Single Language bản quyền . Sau đó em update lên win 10 và dùng một thời gian thấy nó rất chậm và hay bị đơ . Bây giờ em muốn cài lại win 7 thì làm thế nào ạ? Và sau khi cài lại có bị mất bản quyền win không? Vì máy em không có bản backup win 7. Rất mong được sự tư vấn của A/C kỹ thuật. Em xin trân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.165245,
+         "id": "906397",
+         "field_search": "question",
+         "question": "cách đây 1 tuần mình có mua laptop ASUSTek X540LA với hệ điều hành win 10 cài sẵn ở máy.sau 1 thời gain dùng minhf cảm thấy không hợp với win 10 va muốn cài lại win 7 thì cần những thủ tục gì và mất bao nhiêu lệ phí nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.08604,
+         "id": "756938",
+         "field_search": "question",
+         "question": "AD ơi máy mình dạo này bị lỗi này, giúp mình với. khi khởi động của sổ search result luôn hiện ra (hình 1), tắt mãi mới được, thỉnh thoảng lại hiện lại. còn trong trinh duyệt web mỗi khi đánh chữ thì được mấy kí tự thì nó nhảy đến hiện trong hộp thoại mình khoanh vòng đỏ trong hình 12. Mình cài lại win cũng vẫn bị, cài win khác (win xp) vẫn bị, vào mini win xp hộp thoại vẫn hiện ra, hiện tại mình đang dùng win 7. Nếu mình tắt tính năng windows search thì khởi động xong máy báo lỗi windows search và máy không cho làm việc (kích chuột không được). nếu các bạn biết lỗi gì chỉ mình với, cảm ơn AD nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.994328,
+         "id": "975136",
+         "field_search": "question",
+         "question": "Bạn ơi giúp mình với. File ghi âm dài hơn 2 tiếng của mình ở ip5 bị lỗi ko chạy, ko nghe được, trong khi các file mình ghi trước và sau file này vẫn nghe bình thường. Mình thử chia sẻ file sang thiết bị khác để nghe nhưng không được. Đây là file ghi âm quan trọng, có cách nào làm nó chạy được không?Mình cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.938923,
+         "id": "1007490",
+         "field_search": "question",
+         "question": "máy tính mình đang dùng tự nhiên máy hôm nay bị chậm, giờ mình muốn cài lại win thì được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.83345,
+         "id": "909832",
+         "field_search": "question",
+         "question": " Cho em hỏi là máy em lỡ cài bản win 10 enterprise giờ hết hạn thì cài lại win 10 bản quyền hết bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.79401,
+         "id": "1161375",
+         "field_search": "question",
+         "question": "Cho mình hỏi \"khi tải file về từ Facebook, gmail, tại sao mình k thể mở file đc ạ?\" Khi mình tải về thành công, ấn vào thông báo để lễ.mở file thì hiện \" không có sẵn ững dụng để mở file\" là như thế nào ạ? Rất mong nhận hồi đáp sớm. Xin cám ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.790283,
+         "id": "1162507",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có tải app picsart về máy tính win 10 pro nhưng khi bấm vào được khoản 1 giây thì nó out ra. mình đã thử xóa rồi tải lại nhưng vẫn không được nó cứ bị out ra không lý do. có ai biết nó bị làm sao không chỉ giúp mình vói",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.77501,
+         "id": "949042",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao khi cài đặt phần mềm tải trên mạng về trên win 10 không được vậy. các file crack đều bị xóa khi tải về. có cách nào cài được không ạ. Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.502705,
+         "id": "807487",
+         "field_search": "question",
+         "question": "Mình được người nhà tặng 1 con Dell Inprison 7537 cũng lâu rồi nhưng ko có Win bản quyền cài sẵn . Giờ mình mún cài win bản quyền có được ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.406673,
+         "id": "951569",
+         "field_search": "question",
+         "question": "cho mình hỏi ở tgdd có cài office 2007 cho máy win 10 không. mình xài word 2016 mà lúc in chuyển sang word 2007 nó nhảy lung tung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.386196,
+         "id": "1010938",
+         "field_search": "question",
+         "question": "Mình đang dùng máy samsung galaxy j2,dạo này mình không vào được mục file của bạn. Khi vào máy báo hiển thị là file của bạn đã dừng,mong kỹ thuật viên giải đáp giúp,xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.21598,
+         "id": "928728",
+         "field_search": "question",
+         "question": "Chào ad. Mình mua lap ở Điện máy xanh được 1 năm. Lúc mua được cài win 8.1. Giờ máy cứ hiện lỗi explorer.exe và bị màn hình đen khi khởi động, chỉ thấy trỏ chuột. Giờ mình đến ĐMX cài lại win có bị mất phí ko? Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.183388,
+         "id": "915386",
+         "field_search": "question",
+         "question": "Em vừa mua một sản phẩm laptop ở điện máy xanh có cài sẵn win 10. bây giờ em muốn bỏ win 10 và cài win khác vào có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.910717,
+         "id": "763660",
+         "field_search": "question",
+         "question": "ad cho em hỏi với ạ: em mới từ win 7 và chạy lên win 10. ở win 7 thì em đã kích hoạt và là win bản quyền. mà sao lúc lên win 10 em không thể kích hoạt được và hiện ra lỗi 0x803f7001 . giờ em phải làm sao để kích hoạt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.448917,
+         "id": "882702",
+         "field_search": "question",
+         "question": "Mình vừa cài win 8.1 xong, không biết trong quá trình cài mình có xóa nhấm không mà bây giờ trong Computer chỉ còn 2 ổ đĩa là C và D. Lúc ở win 7 có C, D và E. Dell vostro 5460.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.371254,
+         "id": "797230",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDĐ mình có sửa laptop, cài lại phần mềm win, driver máy tính đã tích hợp sẵn win bản quyền không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.024532,
+         "id": "812428",
+         "field_search": "question",
+         "question": " Mình đang xài iphone 4s giờ mình mún nâng cấp lên hệ điều hành ISO 9.2.1 thì có ảnh hưởng gì đến máy không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.989624,
+         "id": "991109",
+         "field_search": "question",
+         "question": "Mình có nhu cầu mua loa vừa sử dụng được bluetooth vừa sử dụng được usb chép file mp3 cắm vào và phát được nhạc. Giá từ 1tr tới 6tr.TGDD tư vấn mình nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.957676,
+         "id": "912811",
+         "field_search": "question",
+         "question": "Dear Anh/Chị!Hiện tại em đang sống tại TP. Hcm, Em muốn cài lại win laptop, em không biết mình còn chương trình cài win miễng phí hay không? hay phải trả phí và phí cài win lại là bao nhiêu?Thanks Anh/ Chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.938168,
+         "id": "863986",
+         "field_search": "question",
+         "question": "Mình vừa mua laptop có hệ điều hành dos và mình mua win 10 bản quyền.Đã cài đặt win 10 cho máy những chưa ativate vậy mình phải vào đâu để nhập key bản quyền để active win10 ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

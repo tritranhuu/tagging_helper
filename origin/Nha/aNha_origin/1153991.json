@@ -1,0 +1,801 @@
+{
+   "id_query": "1153991",
+   "total": 33282,
+   "total_current": 100,
+   "max_score": 239.00218,
+   "origin_question": "Dòng Nokia 3310 xanh đen dual sim Lỗi 1: Trong Thẻ Nhớ có tệp nhạc (không bị lỗ), mặc dù lưu thư mục dưới tên 'Music' hay 'My Music' thậm chí cả 'Musics' nhưng Máy phát nhạc vẫn hiển thị là 'Không tìm thấy nhạc' Lỗi 2: Cùng 1 phương thức chép nhạc từ Pc -> Đt nhưng có bài nghe được, bài thì bị 'Không thể phát loại tập tin này', mặc dù bài gốc ở Pc vẫn sử dụng bình thường. Mong ad hỗ trợ ạ.",
+   "hits": [
+      {
+         "score": 83.301285,
+         "id": "905069",
+         "field_search": "question",
+         "question": "Chào. Cách đây 1 tuần toi có Sync nhạc từ Itunes vào Iphones 5S 16G.Hiện nay, nhạc trong Music không hiển thị. Trong thông tin bộ nhớ Music là 0 bài hát.Trong trường hợp này, điện thoại đang gặp hiện tượng gì. Vì sao?Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.060005,
+         "id": "779797",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao đang nghe nhạc Mp3 của zing thì cứ bị chuyển sang bài khác . Bị 1 vài bài trong tất cả bài . Có phải bị lỗi do iOS 9.2 không hay là do ứng dụng lỗi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.34811,
+         "id": "1020045",
+         "field_search": "question",
+         "question": "cho e hỏi là lúc e cài nhạc chuông mặc định của sony thì vẫn nghe bình thường nhưng khi đổi nhạc chuông là bài hát khác thì ai gọi đến lại không nghe được nữa ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.19737,
+         "id": "1008827",
+         "field_search": "question",
+         "question": "Mình đang dùng ss j3 2016, sao mình vô ứng dụng Zing mp3 bật 1 bài hát bất kì kể cả onl hay offline lúc phát nhạc thì vẫn có tiếng nhạc bài đó phát ra nhưng cái thanh thời gian cứ đứng 00:00 mãi không chạy, mà nghe âm thanh nó giật giật không hát liền mạch. Mong admin có các nào khắc phục được không vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.1956,
+         "id": "1157474",
+         "field_search": "question",
+         "question": "Mình mới mua nokia 3.1, thời gian đâu thì không sao, nhưng sau lần sạc thứ 3, khi mình kiểm tra thẻ nhớ, trong thẻ vẫn có các file nhạc,phát riêng ừng file thì ok,nhưng mình không dùng các file nhạc đó làm nhạc chuông hay nghe tất cả nhạc cùng lúc được nữa, vì nó không hiển thị lên khi mình bấm vào dấu + ở bên góc phải màn hình phần ringtones, lúc mới mua về thì có hiển thị tát cả file nhạc. Vậy máy mình làm sao để nghe nhạc đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.84262,
+         "id": "1020757",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi; e upload bài thu âm của mình lên zing mp3 nhưng khi tải xong nó báo bài hát bị ẩn; còn có 1 số bài thì không thể phát nhạc được; hướng dẫn giúp e đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.36346,
+         "id": "1021579",
+         "field_search": "question",
+         "question": "Thẻ nhớ của mình có 720 bài hát, nhưng khi lắp vào máy Itel S11 Plus, hđh Andoird thì dù mở app Play Âm nhạc, Zing mp3, NCT,...thì nó chỉ có 369 bài.Mặc dù khi mình vào cài đặt, xem các file nhạc của mình thì nó vẫn đủ 720 bài, và vẫn nghe được.Làm ơn giúp mình với :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.931858,
+         "id": "883129",
+         "field_search": "question",
+         "question": "Em sài ip4s. Dạo này khi nghe nhạc offline trên mp3 thì đc 1 bài chạy hết nhảy qua bài khác thì lại không phát nhạc. Phải mở lại máy để điều chỉnh. Khoá máy lại như vậy. Cho em hỏi phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.79507,
+         "id": "1165100",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình down nhạc từ Zing mp3 về thiết bị, sau đó di chuyển tất cả nhạc qua thẻ nhớ để không gian thiết bị được trống hơn.Nhưng không hiểu sao cứ vài ngày vào lại mục Zing mp3 của bộ nhớ thiết bị vẫn tồn tại những bài hát đó, và bên thẻ nhớ cũng có luôn (tức di chuyển mà vẫn tồn tại song song 2 bên), cả khi mình xóa file nhạc trong bộ nhớ thiết bị thì khi khởi động lại thì nó tự động khôi phục như chưa từng xóa.Mình không muốn thế vì nó chiếm nhiều bộ nhớ, trong khi mình đã chủ động chuyển sang thẻ nhớ mà nó quá cứng đầu.Với lại trong list bài hát ở app phát nhạc cũng tồn tại 1 bài hát lập lại 2 lần, trông khó coi lắm.Mình xài Sony XA1 Ultra.Các anh chị giúp mình ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.579693,
+         "id": "1134607",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.579693,
+         "id": "1134606",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.056786,
+         "id": "997555",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi chuyển nhạc zing mp3 vào thẻ nhớ thì khi bật nhạc lên thì máy báo bài hát này đã bị xóa hoặc bị đổi tên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.22769,
+         "id": "999535",
+         "field_search": "question",
+         "question": "máy em đang nghe nhạc khi chuyển bài thì tự dưng không nghe được báo lỗi liên tục mà toàn bài trong thẻ nhớ vào file trong thẻ nhớ để nghe thì nó bảo không có ứng dụng thực hiện trước đó em có xóa 1 vài ứng dụng nên không biết có phải vì thế nên lỗi không giờ không nhớ mấy ứng dụng đó nữa em đang dùng samsung galaxy j1 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.122368,
+         "id": "1155981",
+         "field_search": "question",
+         "question": "Mìh dùng trang youtubepp.com để tải 1 số mp3 từ video trên youtube. Lúc mìh mới tải mp3 về máy nghe trên play âm nhạc vẫn nghe đc hết bài nhưg 1 thời gian sau thì nghe chỉ đc 2/3 bài, có bài chỉ đc 1/2 bài thì tự nhiên dừg. Ktra lại file mp3 thì thấy file có 1 số bài còn 1/2 hay 1 số còn 2/3 dung lượng file. Thế là phải xóa đi tải lại, nghe đc đầy đủ nhưg sau 1 thời gian lại bị như trước là bị lm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.457954,
+         "id": "821671",
+         "field_search": "question",
+         "question": "Ad có thể cho mình xin đường link tải Itunes mà để cài nhạc chuông cho máy được không ? Cái Itunes trên http://www.apple.com/itunes/download/ này mình dow về nhưng không thể kéo bài hát vào album nhạc được . Thử trên 3 laptop vẫn k đc trong khi ông a làm trên PC thì lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.09272,
+         "id": "996612",
+         "field_search": "question",
+         "question": "cho em hỏi làm thế nào để cài nhạc chuông báo thức và nhạc chuông thông báo trên ss galaxy j5. Cài nhạc chuông cho tất cả báo thức về 1 bào nhạc mình muốn ý. Và làm sao để máy chọn ra đoạn nhạc hay trong bài máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.722507,
+         "id": "1006452",
+         "field_search": "question",
+         "question": "Cho em hỏi, em đang dùng máy sony XA, hai ngày nay tự dưng máy không phát được nhạc hay video ở trên tất cả các ứng dụng, mặc dù mạng wifi ổn định. lỗi này sửa kiểu gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.097584,
+         "id": "998460",
+         "field_search": "question",
+         "question": "Cho e hỏi máy sony Xa ultra có mấy bài nhạc có sẳn trong máy. Khi em tải ứng dụng Mp3 thì có mấy bài đó trong đó luôn. Nhưng em không thích nghe mấy bài đó. Vậy làm sao để xóa mấy bài đó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.287727,
+         "id": "996545",
+         "field_search": "question",
+         "question": "Cho em hỏi.. Em đang dùng ĐT Sony Xa khi tải nhạc từ MP3 về máy e đã chuyển nhạc vào file màu sắc những trong nhạc vẫn không có bài hát nào.. Làm sao để chỉnh được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.736637,
+         "id": "1017646",
+         "field_search": "question",
+         "question": "Cho em hỏi có phải nhạc chứa trong thẻ nhớ của máy asus zenfone 5 không mở  được thành list dài mà chỉ mở mỗi lần được một bài không ạ. Em mới mua máy mở nhạc lên thì chỉ được một bài một lần rất mât công. Có cách nào để chuyển thành list nhạc không ạ. Cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.44733,
+         "id": "875245",
+         "field_search": "question",
+         "question": "Zalo của mình bị lỗi là hầu như bài đăng đều không hiển thị được số cmt, bình luận của bạn bè. Mình vẫn đọc được cmt nhưng trên bài đăng thì chỉ hiện thị 0. Vậy cách khắc phục lỗi này là như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.37557,
+         "id": "1160492",
+         "field_search": "question",
+         "question": "Hôm nay em có tải nhạc từ máy tính vào máy samsung note 9, thì nó bỗng hiện lên tin trình phát không hỗ trợ âm thanh này, trong khi file nhạc em hay nghe và có dạng .mp3, em dùng Note 8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.047073,
+         "id": "1146194",
+         "field_search": "question",
+         "question": "Cho e hỏi các hình ảnh và nhạc e lưu trong thẻ nhớ đều không xem được ghi là lỗi tải phương tiện j j đó. Vậy là lỗi j hay là thẻ nhớ bị hơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.213737,
+         "id": "835199",
+         "field_search": "question",
+         "question": " iPhone 5S có thể lấy bài hát khác làm nhạc chuông được không ad?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.725895,
+         "id": "1156503",
+         "field_search": "question",
+         "question": "lap đang nghe nhạc, loa vẫn bình thường, e có để chế độ ngủ khoảng 2h thì mở lại, loa bị nhỏ hơn mặc dù đã bật max rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.428165,
+         "id": "1165055",
+         "field_search": "question",
+         "question": "tôi đang sài điện thoại oppo f9 pro, bị 1 lỗi là khi tôi đang lướt fb hoặc không làm gì cả thì máy tui tự động vô 1 link youtube nào đó cứ phát suốt mặc dù thoát ra cài đặt gốc lại mà máy vẫn bị lỗi cứ lướt fb 1 tý thì nó tự động vô youtube mặc dù không bấm vào youtube",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.93472,
+         "id": "1134796",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ip XS, khi quay màn hình cuộc gọi video thì không thu được tiếng mặc dù khi quay màn hình lúc nghe nhạc xem phim vẫn có tiếng bình thường, có cách nào để thu luô cả tiếng khi quay cuộc gọi video không ạ? (Mình làm theo hướng dẫn là nhấn giữ nút ghi màn hình để hiển thị micro nhưng micro không hiển thị khi mình thực hiện thao tác này???)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.916584,
+         "id": "1162510",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang dùng Nokia 3.1 mọi khi e vẫn nge nhạc đc từ thẻ nhớ mà giờ e k thể nghe đc là sao ah.và làm ntn để nghe nhạc từ trong thẻ nhớ vậy ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.78778,
+         "id": "760149",
+         "field_search": "question",
+         "question": "Ad ơi iphone4 của e bị mất âm thanh của nhạc và game khi ở loa ngoài .Nhưng khi cắm tai nghe thì vẫn nghe nhạc với cả tiếng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.691235,
+         "id": "849451",
+         "field_search": "question",
+         "question": "Em dùng iphone4 ạ! Dạo gần đây em nghe nhạc bật loa ko thấy tiếng dù em đã cố chỉnh âm và bật loa đều không được nhưng có cuộc gọi đến thì vẫn kêu bình thường! Khác phục lỗi này sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.61879,
+         "id": "993849",
+         "field_search": "question",
+         "question": "Tại sao ip5s của em lại không tải đc nhạc ạ em tìm kiếm bài hát k ra đx bài đc để tải toàn báo lỗi giúp em vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.103535,
+         "id": "1167238",
+         "field_search": "question",
+         "question": "Em không thể phát nhạc trong zing mp3 cả khi có wifi . Nhưng khi e bật 3G thì phát được giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.84574,
+         "id": "850808",
+         "field_search": "question",
+         "question": " Em muốn chuyển các bài hát tải về từ ứng dụng Zing MP3 vào thư mục nhạc của máy iphone 4, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.632378,
+         "id": "1021400",
+         "field_search": "question",
+         "question": "Mình đang dùng J5 2015 cóp nhạc vào thẻ nhớ và giờ máy không nhận bài nào. mình dùng zingmp3 để nghe. cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.564568,
+         "id": "1150293",
+         "field_search": "question",
+         "question": "Xin hỏi tại sao khi mình vào phần cài đặt rồi, mình đã đặt nhạc chuông bài hát của mình nhưng khi gọi điện đến thì lại là nhạc chuông mặc định của máy. Máy mình là samsung galaxy j4 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.12043,
+         "id": "1015383",
+         "field_search": "question",
+         "question": "mình dùng sam sung j3 nghe nhạc mp3 mình khóa màng hình khi nghe hết bài thì nó tắt luôn không chuyển sang bài khác là lỗi gì vậy.. ai biết chỉ mình với. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.925903,
+         "id": "1163931",
+         "field_search": "question",
+         "question": "Cho em hỏi con xiaomi note 6 pro mỗi khi nghe nhạc, xem phim thì nó phát nhạc  bằng 2 loa ở bên dưới máy đúng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.784584,
+         "id": "1022682",
+         "field_search": "question",
+         "question": "Cho em hỏi, em sài samsung j7 2016, điện thoại nó cứ hiện thư mục ini chứa 1 ảnh không xác định trong bộ sưu tập, với lại bài hát tên dummy trong mp3 zing nhưng không hát được, xóa đi thì có lại, em thử reset máy nhưng vẫn bị, giờ làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.69823,
+         "id": "1015030",
+         "field_search": "question",
+         "question": "E mua điện thoai oppo f1s dc 5 tháng. Nhưng khi nghe nhạc ở zing dc vài bài thì nó tự tắt nhạc lại phải mở lại. Như vậy là điện thoại e bị lsao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.673042,
+         "id": "1142536",
+         "field_search": "question",
+         "question": "Ad ơi. Cho e hỏi e đaq sài xiaomi redmi note 6 pro .e lắp 2 thẻ sim nhưng chỉ sử dụng được 1 thôi. Mặc dù 2 sim đã đc kích hiatj và full sóng . có phải bị lỗi máy k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.65491,
+         "id": "1160930",
+         "field_search": "question",
+         "question": "Xiaom mi 8 lite có 2 loa nghe nhạc thì chỉ.có. 1. Cái phát còn cái còn lại thì ko ko bít cái do là do loa như vậy hay bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.082897,
+         "id": "991387",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone 4 không nghe được nhạc hay vào youtobe xem không nghe được tiếng nhưng chuông gọi đến vẫn đổ và kêu bình thường thì bị lỗi gì và cách khác phục em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.058784,
+         "id": "1134449",
+         "field_search": "question",
+         "question": "Mình sử dụng iphone 6s plus ban đầu khi số gọi đến không hiển thị tên mình tải app contact pro về chuyển số 0 thành +84 có thể hiện tên liên lạc được. Nhưng kể từ khi chuyển 11 số sang 10 số thì số gọi đến không hiển thị tên nữa mặc dù mình đã lưu cả 0 hoặc +84 vd như 039 hay +8439 thì điện thoại vẫn không hiển thị tên. Xin giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.96233,
+         "id": "1021334",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để chuyển nhạc từ tệp trong thẻ nhớ sang cái ứng dụng âm nhạc của máy z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.84217,
+         "id": "1136592",
+         "field_search": "question",
+         "question": "Hiện tại 1 tháng rồi mình không thể vào được Viber. Đã xóa và tải lại nhiều lần vẫn không vào được. Mặc dù lúc trước vẫn sài bình thường. Cứ vô là hiện như thế này ạ. Mong AD hỗ trợ giúp với ạ. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.82461,
+         "id": "1019093",
+         "field_search": "question",
+         "question": "Lỗi không thể phát lưu lượng yêu cầu khi nghe nhạc. Anh chị có thể chỉ em cách khắc phục được không ạ? Em đang dùng máy Mobell Nova F7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.50778,
+         "id": "807027",
+         "field_search": "question",
+         "question": "mình hiện đang sử dụng iPhone 4, hôi trưa nay minh nghe nhạc loa bình thường nhưng chiều sau khi sạc xong mình mở nhạc lên nghe thì loa phát nhỏ hơn so với bình thường. ( minh nghe trưc tiếp băng loa của máy k sử dụng tai nghe gì cả)cho mịn hỏi là máy mình bị gì vậy?gửi ban quản trị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.47878,
+         "id": "1161067",
+         "field_search": "question",
+         "question": "Mình dùng ss j7 prime 2017 , dạo này máy của mình khi thực hiện các cuộc gọi thì loa trong nghe rất bé mặc dù âm lượng để max, khi bật loa ngoài thì ok, nghe nhạc loa vẫn bình thường, cho m hỏi nó có vấn đề j không? Có thể tháo ra sửa dc không, vì thấy nó là bản liền.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.391712,
+         "id": "1144602",
+         "field_search": "question",
+         "question": "Mình dùng máy Huawei nova 3i nghe một số bài nhạc thì loa bị rè, như thế loa cí bị làm sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.367947,
+         "id": "777813",
+         "field_search": "question",
+         "question": "Bạn Cho mình hỏi chút. Mình đang dùng Samsung a8 tự dưng chuông báo thức không kêu khi vào cài đặt chọn nhạc chuông thì không phát nhạc chuông để nghe thử mà lại hiện ra dòng chữ \" không thể phát khi đang gọi\" có thể giúp m không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.801643,
+         "id": "1014948",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi? tải nhạc chất lượng cao trên nhạc của tui bằng vip Vậy khi hết vip bài hát đó vẫn còn ở chất lượng cao hay giảm xuống?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.523777,
+         "id": "998233",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung galaxy j2 prime của em tải nhạc trên mp3 về sau đó di chuyển hết vào thẻ nhớ mà sao khi vào phần nhạc chuông để cài nhạc từ bpoj nhớ trong lại ko có bài hát nào hết v :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.451195,
+         "id": "1013708",
+         "field_search": "question",
+         "question": "Chỉ mình cách tải nhạc mp3 tren đt sony xz premium với. Mình vào web mp3 zing ấn tải thì nó ghi đã đc tải nhưng vào phần chữ nhạc trên máy lại không thấy bài nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.43335,
+         "id": "861107",
+         "field_search": "question",
+         "question": "Xin hỗ trợ , camera điện thoại iphone 5s của tôi bị màu đen, không nhìn thấy gì, trong khi camera trước vẫn bình thường, tên tôi là Phương, số đt 0973455356",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.22584,
+         "id": "1164949",
+         "field_search": "question",
+         "question": "đt nokia 220 tải video nhạc về xem dc k ạ mình tải mà mở tệp k dc dù đã chuyển qua nhạc mp4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.21761,
+         "id": "1160540",
+         "field_search": "question",
+         "question": "Chào ad! Cho mình hỏi cách chuyển nhạc từ file documents sang apple music không cần jailbreak máy hay Itunes là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.727512,
+         "id": "1137014",
+         "field_search": "question",
+         "question": " tại sao mình tải nhạc nó bảo ko thể tải bài hát là sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.679813,
+         "id": "772814",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao cái Samsung Galaxy Note 3 mình sử dụng được 1 ngày thì bị hiển thị biểu tượng tai nghe mặc dù mình không cắm tai nghe? Và như thế nên lúc gọi ko nói hay nghe được. Lỗi thứ 2 là máy hay bị tắt nguồn tự khởi động lại? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.5655,
+         "id": "1152018",
+         "field_search": "question",
+         "question": "Máy của em là Samsung Galaxy FE. Mới đây em có đổi thẻ nhớ, thì khi chuyển nhạc vào và ứng dụng thì dùng bị lỗi, trong khi thẻ nhớ cũ lại không bị, em tháo ra lắp thẻ nhớ cũ vào và không sao, dùng thẻ mới thì những ứng dụng chuyển vào thẻ nhớ bị dừng, thi thoảng tắt nguồn sẽ bị tắt hết nhạc, do thẻ nhớ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.469475,
+         "id": "1021199",
+         "field_search": "question",
+         "question": "tôi sử dụng điện thoại oppo f3, lúc trước tải nhạc mp3 về vẫn lưu trên máy bình thường, nhưng bây giờ không lưu được, vậy làm sao khắc phục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.11288,
+         "id": "738169",
+         "field_search": "question",
+         "question": " Ứng dụng play âm nhạc khi mở lên thì không phát nhạc cho em hỏi máy bị làm sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.98748,
+         "id": "1010158",
+         "field_search": "question",
+         "question": "Ss s7 edge của tôi mua ở tgdd. Dạo này hay có tình trạng khi nghe nhạc hay xem phim thì ko phát bằng loa ngoài mà âm thanh phát ra từ loa đàm thoại. Khi tôi khởi động lại thì lại phát ra loa ngoài bình thường. Vậy máy tôi bị lỗi gì và cách khắc phục. Tôi xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.959797,
+         "id": "1005307",
+         "field_search": "question",
+         "question": "Ad cho hỏi. mình dùng j5. bộ nhớ đầy nên mình có gắn thẻ nhớ 8g vào. khi chuyển ảnh từ điện thoại sang thẻ nhớ thì toàn bộ ảnh bị lỗi hết k mở lên được. nhạc mp3 cũng bị lỗi k phát được. Giờ phải làm sao ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.819386,
+         "id": "815446",
+         "field_search": "question",
+         "question": "Chào ad. máy J7 của m bị mất hiển thị giờ với thời tiết ở màn hình chính. muốn mở lại thì làm thế nào để hiển thị đc. với lại nhiều lúc m đang nghe nhạc bằng tai nghe thì tự nhiên nhạc dừng, hoặc đang xem hình ảnh trong thư viện thì tự nhiên bị tắt là sao vậy ad. có cavhs nào giải quyết không. giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.68283,
+         "id": "996572",
+         "field_search": "question",
+         "question": "cho mh hỏi: tại sao mh coppy bài hát từ máy tính qua thẻ sd thì windows media lại bào lỗi này \"Windows Media Player encountered a problem while playing the file.\" trong khi bên pc thì mh mở bình thường???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.60311,
+         "id": "1007266",
+         "field_search": "question",
+         "question": "Em đang sử dụng Galaxy A5 2017, máy của em bị lỗi gửi tin nhắn (sim1 gửi được nhưng sim2 gửi không được). Em có tham khảo bài viết hướng dẫn cách khắc phục lỗi nhưng không thành công, nên em đã khôi phục cài đặt gốc. Nhưng sau khi khôi phục cài đặt gốc thì nó vẫn còn bị lỗi như vậy. Ai giúp em với ạ. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.505447,
+         "id": "1163720",
+         "field_search": "question",
+         "question": "mình dùng Oppo f7 mà tại sao giờ nó không đổ chuông khi có cuộc gọi đến mặc dù mình đã cài đặt âm lượng max, khi điều chỉnh âm lượng thì mình thấy nhạc chạy được 2 giây là ngắt. Mình đã tắt nguồn khởi động lại máy nhưng vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.503105,
+         "id": "1008958",
+         "field_search": "question",
+         "question": "Điện thoại của mình khi bật nhạc nên thì luôn có tiếng bài sau chèn vào tiếng bài này, làm sao khắc phục bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.355255,
+         "id": "1022707",
+         "field_search": "question",
+         "question": "Em cần tìm một chiếc điện thoại tầm dưới 6tr5 . Nhiều thể loại nhạc (nghe nhạc cực hay) . Camera trc tạm nhưng cAmera sau phải từ 13 trở lên . Ram từ 2gb , và chip khá mạnh . Đặc biệt : em không nhận cÁc điện thoại có phím trong vs phím điều hướng ảo .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.248863,
+         "id": "1143590",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình đăng bài có kèm vài dòng cap nhưng chỉ đăng được ảnh còn dòng chữ bị mất, khi vào chỉnh sửa thì nó bảo là bị lỗi. Dù đã xoá ứng dụng rồi tải lại nhưng nó vẫn bị như vậy, không biết làm thế nào để khắc phục? Và sẵn tiện cho mình hỏi luôn là ins của mình tự động đi follow những người khác mặc dù mình không biết họ là ai, nhưng mà ngày nào cũng tự động follow bắt mình xoá muốn mệt người luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.231262,
+         "id": "1141299",
+         "field_search": "question",
+         "question": "Mình chơi PUBG mobile trên Ipad 2018. Mình muốn vừa chơi game, vừa nghe nhạc trên app zing mp3, nhưng mình gặp 2 vấn đề.1. Cứ vào game thì nhạc tắt, ko thể vừa nghe nhạc, vừa chơi game được. Có thể chạy nhạc từ đầu rồi mới mở game, nhưng chỉ cần tạm dừng là ko mở lại đc nữa2. Nhạc rất to, to hơn tiếng game nên ko thể nghe âm thanh trong gameHy vọng BQT có cách giải quyết 2 vấn đề này, mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.176502,
+         "id": "1157259",
+         "field_search": "question",
+         "question": "Mình hiện vừa mua một iphone x của thegioididong và máy của mình đang mắc lỗi không hiển thị được hiệu ứng trong imessage. Vẫn nhắn tin imessage được nhưng không thể sử dụng hiệu ứng được. Mình có tham khảo trên mạng các cách để chỉnh sửa lỗi thì trong đó có một cách cơ bản là tắt imessage đi rồi bật lại. Nhưng sau khi tắt imessage thì máy lại báo lỗi chờ kích hoạt và mình không mở lại imessage được. Mình có thử tắt máy và thậm chí cài đặt lại máy nhưng khi thử lại thù vẫn mắc phải tình trạng tương tự như trên. Hiện máy của mình vẫn quay về trạng thái ban đầu là nhắn tin văn bản hay sử dụng imoji và digital touch trên imessage vẫn ok nhưng riêng hiệu ứng (bằng cách nhấn giữ phím mũi tên) thì vẫn không được. Bộ phận hỗ trợ có thể giúp mình trường hợp này không. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.063442,
+         "id": "1009727",
+         "field_search": "question",
+         "question": "Ad ơi em đang dùng j7 2016 và khoảng 2 tháng nay zing mp3 lại không tải được nhạc US-UK ạ nhạc Việt thì vẫn tải bình thường được ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.057453,
+         "id": "1157234",
+         "field_search": "question",
+         "question": "Hiện mình đang sử dụng iphone x nhưng đt của mình bị mắc lỗi không thể hiển thị hiệu ứng trong imessage. Sau đó mình có tắt imessage để bật lại nhưng bị lỗi không kích hoạt được imessage. Bộ phận hỗ trợ có thể giúp mình trường hợp này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.035126,
+         "id": "1134264",
+         "field_search": "question",
+         "question": "Chào bạn,Mình xài note 9 nhưng mình không biết làm cách nào để chuyển mạng 3g từ sim 1 qua sim 2. Mình ko muốn sử dụng 3g trên sim 1 nhưng nếu mở dữ liệu di động lên để xài sim 2 thì 3g sim 1 vẫn bị tính tiền mặc dù đã hủy gói cước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.956337,
+         "id": "1146386",
+         "field_search": "question",
+         "question": "cho em hỏi là sao IG của em không thấy chỗ chèn nhạc vào story ạ, em lấy tài khoản khác vẫn chèn được , nhưng tài khoản chính của em không được mặc dù là em có xóa rồi tait lại IG , đăng xuất ra rồi vào lại vẫn k thấy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.652145,
+         "id": "761569",
+         "field_search": "question",
+         "question": "Cho tôi hỏi: HTC 826 Dual Sim sau khi reset và cài đặt lại, giờ vào phần nhạc chuông cho sim1, sim2 và nhạc chuông báo thức. . .nói chung phần nhạc chuông, bấm vào không có tác dụng hiện lên để chọn đổi nhạc chuông. Đã khởi động lại máy vẫn không hiện lên những nhạc chuông khác để đổi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.47116,
+         "id": "1009474",
+         "field_search": "question",
+         "question": "J7 pro tải nhạc về ko bt nó lưu vào đâu nhỉ?. Thẻ nhớ nằm mục nào tìm ko thấy luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.443398,
+         "id": "1148457",
+         "field_search": "question",
+         "question": "Oppo a3s có thể chuyển nhạc vào thẻ nhớ được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.339367,
+         "id": "923883",
+         "field_search": "question",
+         "question": "Mình mới mua máy EDGY bên mình, mà khi có cuộc gọi đến máy tự động bật loa ngoài, không tắt được, gọi đi thì vẫn loa trong bình thường ạ. Với cả máy này làm thế nào để cài được nhạc chuông tải xuống (không phải nhạc chuông có sẵn trong máy) thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.29951,
+         "id": "995457",
+         "field_search": "question",
+         "question": "Shop ơi cho em hỏi máy huawei y6ii nghe nhạc trên zing cứ tắt màn hình máy không chuyển bài bật lên thì mới chuyển",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.090214,
+         "id": "1012948",
+         "field_search": "question",
+         "question": "Mk hôm qua có sử dụng laptop để tải nhạc trên zing mp3. Mình tải khoảng hơn 100 bài chiếm hơn 1gb của bộ nhớ. Mk sử dụng google chorme và mk bật chế độ ẩn danh( thói quen của mk). Tuy nhiên khi tải về xong mở file thì lại không thể mở đc vs thông báo\" window not find\" và nôik dung của nó là ko tìm được mà mk đã tải. Nhưng những file nhạc của mk vẫn chiếm bộ nhớ. Cho mk hỏi nguyên nhân và cách khắc phục vs ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.96111,
+         "id": "766644",
+         "field_search": "question",
+         "question": "Mình sử dụng máy iPhone 5s và sử dụng zalo,mình muốn ghi âm bài hát mình nghe ở phần mềm nghe nhạc nhưg khi ăn vào ghi âm trên zalo để chia sẻ nhưng ko đc vì mỗi lần ăn ghi âm là nhạc tự tắt ko hay nữa,bạn cho mình hỏi phải làm sao để ghi âm đc.xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.684887,
+         "id": "837823",
+         "field_search": "question",
+         "question": "Tình hình là lúc sáng sử dụng facebook vẫn bình thường tự nhiên bây bây giờ báo lỗi không vào được vẫn có 3G vẫn vào mạng và nge nhạc onl bình thường đang rất bực bội mấy anh chị giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.679195,
+         "id": "777916",
+         "field_search": "question",
+         "question": " Tải nhạc chuông cho iPhone bằng bài hát trên mạng thì làm như nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.592403,
+         "id": "1142113",
+         "field_search": "question",
+         "question": "Em mới mua đt Nokia 3.1 ngày hôm qua 1/1/2019. Thấy máy có chức năng doube tap mở màn hình trong phần cài đặt nhưng thực tế thì không sử dụng được chức năng này. Cho hỏi máy có bị lỗi và TGDD có hỗ trợ gì ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.57732,
+         "id": "1158443",
+         "field_search": "question",
+         "question": "con c5 của tôi cuộc gọi đến không hiển thị tên người gọi mặc dù đã lưu trong danh bạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.503647,
+         "id": "828347",
+         "field_search": "question",
+         "question": "Qtv, mình không vào được facebook từ trưa đến giờ, mặc dù đã tắt mở lại mấy nhiều lần, sau đó có xóa ứng dụng facebook để tải lại nhưng lại không thể tải lại ứng dụng mặc dù kết nối mạng vẫn bình thường, khi tải về lại thì báo lỗi -504, cho mình xin cách khắc phục ạ. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.277687,
+         "id": "1002992",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải nhạccuatui về nhg khi mở nhạc thì nó k hiện ở trên nên mỗi lần muốn chuyển bài thì em phải vào lại ứng dụng vậy có cách nào cho nó hiển thị lên k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.06245,
+         "id": "1148084",
+         "field_search": "question",
+         "question": "Điện thoại em sử dụng là iPhone 7. Trước đây vẫn đăng nhập ứng dụng instagram bình thường nhưng giờ lúc nào cũng “rất tiếc đã xảy ra lỗi với yêu cầu của bạn, thử lại sau...” và không đăng nhập được. Tất cả các tài khoản gồm 6 account có 2c liên kết với fb cũng bị lỗi như vậy mặc dù em có thể đăng nhập trên web như safari, google và ở một số thiết bị điện thoại khác. Em đã thử xoá đi tải lại ứng dụng, khởi động lại máy, đặt lại tất cả ứng dụng, kiểm tra kết nối wifi nhưng kết quả vẫn không thay đổi và lỗi này đã bị gần cả 2 tháng, em làm mọi cách như đổi mật khẩu, đổi tên để lấy đường link truy cập tài khoản trên ứng dụng nhưng vẫn không được. Em cần được hỗ trợ gấp vì thiệt sự những account này rất quý đối với em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.036514,
+         "id": "855188",
+         "field_search": "question",
+         "question": "mình đăng bài viết lên fb mà k tải đc ảnh lên, báo lỗi là ảnh vi phạm bản quyền là sao hả ad, mà ảnh của mình thì rất bình thường. khi báo nv thì mình đã xóa bài viết đi mà cuối cùng bài viết vẫn đc đăng len nhưng chỉ cos nội dung mà k có ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.012215,
+         "id": "1023682",
+         "field_search": "question",
+         "question": "Em mới nâng cấp lên ios11. Nhưng sau khi nâng cấp dk 2 ngày dt của e gặp lỗi về loa. Cụ thể là cuộc gọi loa trong không nghe được nghe nhạc và xem video cũng không nghe được gì cả tin nhắn cũng không có chuông.  Trong khi đó cuộc gọi đến vẫn đổ chuông và khi nghe bật loa to lên vẫn có tiếng. Em phải làm như thế nào để khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.96794,
+         "id": "1163804",
+         "field_search": "question",
+         "question": "Mình dùng Samsung S8 Plus.  Mặc dù đã lưu tên trong danh bạ nhưng khi gọi đến không hiển thị tên người gọi.  Tuy nhiên,  trong list cuộc gọi đến/đi lại hiển thị tên sau khi cuộc gọi kết thúc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.7772,
+         "id": "1003686",
+         "field_search": "question",
+         "question": "Mình đang dùng máy galaxy a7 2015,tại sao tất cả ảnh trong bộ sưu tập ko hiển thị được,các file nhạc lưu trong máy cũng bị mất,máy ảnh chụp thì ko lưu ảnh vào máy được. Giúp mình với nhé. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.584354,
+         "id": "1156916",
+         "field_search": "question",
+         "question": "Chào TGDD:mình đang dùng nokia 3.1cập nhật androi 9(bản cập mới nhât cho nokia),mình có tải nhac trên zingmp3 về để cài làm nhạc chuong cho đt nhưng không cài đặt làm nhạc chuông không được,trước đó bản 8.1 thì cài được.Có phải bản 9.ko hỗ trợ...Vui lòng hướng dẫn cài nhạc chuông tải về từ zmp3.Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.54567,
+         "id": "1021419",
+         "field_search": "question",
+         "question": "Có bản ios 11 chính thức chuaq vậy shop ? Mà sao nghe nói là nút dừng phát nhạc dưới TT kiểm soát ko hoaatj động vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.541206,
+         "id": "990623",
+         "field_search": "question",
+         "question": "Mình có dùng ip5. Vào kiểm tra dung lượng máy thì thấy phần tin nhắn chiếm 1,1G bộ nhớ. Vào xem thì nó ghi là tin nhắn đã lưu, không thấy xoá được. Mặc dù mình đã xoá tất cả tin nhắn trên máy nhưng nó vẫn còn. Vậy phải làm sao để xoá được phàn cho. Xin ad giải thích",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.470787,
+         "id": "775335",
+         "field_search": "question",
+         "question": "Tại sao e không tạo được ID APP STORE vậy. Mặc dù e điền đún và không dùng phương thức thanh toán. Nhưng hiện lên 1 dòng chữ đỏ www.apple.com/support/itunes/ww/. Như này. E cũng không hiểu tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.445366,
+         "id": "996109",
+         "field_search": "question",
+         "question": "Em đang dùng j7 prime. Lỗi không đồng bộ ảnh được. E vào album thì vẫn xem được ảnh. Nhưng vào ứng dụng bất kì nào để truy cập vào album ảnh thì ko hiển thị. Chỉ hiển thị 6 ảnh mặc định máy thôi. Ví dụ vào zalo để gửi ảnh cho bạn bè nhưng không thể tìm thấy ảnh. Mong ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

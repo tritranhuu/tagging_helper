@@ -1,0 +1,801 @@
+{
+   "id_query": "770353",
+   "total": 22453,
+   "total_current": 100,
+   "max_score": 44.923805,
+   "origin_question": " Cho em hỏi IOS 9.1 có Jailbreak được chưa? ",
+   "hits": [
+      {
+         "score": 31.433111,
+         "id": "802020",
+         "field_search": "question",
+         "question": " Cho em hỏi đã jailbreak được iOS 9.2.1 chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.84755,
+         "id": "748819",
+         "field_search": "question",
+         "question": " Cho em hỏi ios 9.1 jailbreak được chưa ạ? Em hóng quài mà vẫn chưa thấy gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.70162,
+         "id": "783226",
+         "field_search": "question",
+         "question": " cho hỏi khi nào mới jailbreak bản ios 9.2 được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.369238,
+         "id": "774267",
+         "field_search": "question",
+         "question": " iOS 9.1 Jailbreak chưa ạ, có thể về 6.1.3 được chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.609634,
+         "id": "807624",
+         "field_search": "question",
+         "question": " Cho e hỏi jailbreak đc iOS 9.2.1 chưa ạ?                                       ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.26886,
+         "id": "792514",
+         "field_search": "question",
+         "question": " QTV cho mình hỏi iOS 9.1 đã Jailbreak được chưa ah hỗ trợ thông tin cho mình nhé? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.970943,
+         "id": "750704",
+         "field_search": "question",
+         "question": " Tgdd cho mình hỏi iOS 9.1 đã jailbreak được chưa bạn mình đợi cả tháng mà không thấy . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.923815,
+         "id": "770836",
+         "field_search": "question",
+         "question": " cho em hỏi ios 9.2 cài cydia được chưa, làm sao để hạ ios 9.2 xuống cấp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.122187,
+         "id": "751472",
+         "field_search": "question",
+         "question": "  Cho em hỏi khi nào sẽ có  jailbreak ios 9.1 chính thức ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.918861,
+         "id": "761757",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi như giờ em muốn mua laptop mà em chưa đủ 18 tuổi có được không vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.655376,
+         "id": "804940",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9.1 có thể jailbreak được chưa. Nếu không được thì có thể hạ xuống iOS 8. để jb không. Cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.517054,
+         "id": "775103",
+         "field_search": "question",
+         "question": " Cho mình hỏi ios 9.1 jailbreak được không,nếu được bên thegioididong có jailbreak không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.967564,
+         "id": "751453",
+         "field_search": "question",
+         "question": " Khi nào sẽ có jailbreak iOS 9.1 chính thức ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.738905,
+         "id": "829454",
+         "field_search": "question",
+         "question": " Cho em hoi khi em mua iphone tu tgdd em cần sừ dụng ios 9.1 hoặc 9.1 có duoc khong ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.738905,
+         "id": "829500",
+         "field_search": "question",
+         "question": " cho em hoi khi em mua iphone tu tgdd em cần sừ dụng ios 9.1 hoặc 9.1 có duoc khong ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.657206,
+         "id": "810889",
+         "field_search": "question",
+         "question": " Cho em hoi voi IOS 9.2 jailbreak dk chưa a??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.307804,
+         "id": "750367",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em update lên ios 9.1 giờ em muốn xuống ios 8 thì có xuống được không và có phải jailbreak không ạ em rất muốn xuống ios 8 nhưng em không muốn jailbreak em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.027365,
+         "id": "763991",
+         "field_search": "question",
+         "question": " Cho em hỏi Acer Z1401 có chơi fifa online 3 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.931173,
+         "id": "811123",
+         "field_search": "question",
+         "question": " Cho em hỏi là bản iOS 9.2 đã jailbreak được chưa ạ????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.448952,
+         "id": "824769",
+         "field_search": "question",
+         "question": " Cho em hỏi huawei t1 có nâng cấp android lên 5 được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.36114,
+         "id": "802512",
+         "field_search": "question",
+         "question": " Cho em hỏi máy tính Mambo CMS M111656 có lắp thêm RAM được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.341791,
+         "id": "1019947",
+         "field_search": "question",
+         "question": "Chào anh chị, em muốn hỏi chút a. cách đây 2 tháng em có mua laptop bên A/C được tặng chuột không dây, giờ chuột không lăn zum xem văn bản được vậy cho em hỏi có được bảo hành chuột vi tính không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.264671,
+         "id": "1136778",
+         "field_search": "question",
+         "question": "Cho em hỏi em năm nay 18 tuổi có CMND và Hộ Khẩu có thể mua trả góp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.206312,
+         "id": "808199",
+         "field_search": "question",
+         "question": " Dạ máy e iphone6 IOS 9.1 cài Jailbreak là làm sao vậy.?.... E muốn có Cydia  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.180725,
+         "id": "771242",
+         "field_search": "question",
+         "question": " HP Elitebook 8540P cho em hỏi máy này có chơi được game lol không qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.154629,
+         "id": "1003904",
+         "field_search": "question",
+         "question": "Cho hỏi samsung J7 prime có xài được sim 4G không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.88296,
+         "id": "786197",
+         "field_search": "question",
+         "question": " ad ơi ad có thể jailbreak cái máy iPhone 4s 16gb ios 9.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.864382,
+         "id": "843415",
+         "field_search": "question",
+         "question": " QTV cho em hỏi máy Laptop HP Compaq 8510p có chơi được game lol ko vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.65677,
+         "id": "798446",
+         "field_search": "question",
+         "question": " Ad ơi cho hỏi ios 9.2 jailbreak được chưa ạ .giup em cái nha ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.582611,
+         "id": "856232",
+         "field_search": "question",
+         "question": " Các QTV cho em hỏi là đã có cách jailbreak ios 9.3.2 chưa ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.360199,
+         "id": "810905",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9.2 đã jailbreak được chưa vậy???????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.360199,
+         "id": "778114",
+         "field_search": "question",
+         "question": " QTV cho hỏi đã có bản jailbreak ios 9.2 chưa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.354752,
+         "id": "774790",
+         "field_search": "question",
+         "question": " cho em hỏi có phần mềm jailbreak ios 9.2 chưa ạ em xem họ jailbreak được ạ nhưng ko biết tải ở đâu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.163105,
+         "id": "923510",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao em nhắn tin cho 1 người trên messenger không được mà trên máy tính lại được ạ? Mà có mỗi 1 người thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.129461,
+         "id": "815340",
+         "field_search": "question",
+         "question": "em tên vinh cho em hỏi thế giới di động có thay pin iphone không a?. nếu mua ở nơi khác có được thay ở đây khổng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.081884,
+         "id": "764752",
+         "field_search": "question",
+         "question": " Cho em hỏi cách cài cydia chưa jailbreak đi ạ? em đang dùng iOS 9.2 .E cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.005295,
+         "id": "756081",
+         "field_search": "question",
+         "question": "  Cho mình hỏi iphone 6 có lên ios 9.0.2 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.962366,
+         "id": "770829",
+         "field_search": "question",
+         "question": "  Jailbreak ios 9.2 đã có bản chính thức chưa ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.88551,
+         "id": "1010744",
+         "field_search": "question",
+         "question": "cho hỏi nếu không mua điện thoại bên cửa hàng thì có được đổi không vì tôi có một cái lumia?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.868465,
+         "id": "817369",
+         "field_search": "question",
+         "question": " Bây giờ đã có thể jailbreak đc ios 9.2.1 chưa ad nếu jailbreak đc rồi thì tải tool jailbreak ở đâu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.84354,
+         "id": "761112",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách khôi phục cài đặt gốc cho iPad 3 mình đang dùng phiên bản ios 9.1. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.840384,
+         "id": "778883",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9.2 đã jailbreak được chưa vậy thế giới di động? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.5936,
+         "id": "803622",
+         "field_search": "question",
+         "question": " Chào bạn cho mình hỏi oppo r5 có chụp ảnh bằng gậy tự sướng được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.583221,
+         "id": "1165806",
+         "field_search": "question",
+         "question": "Cho em hỏi .Em có mua đt trả góp được 7 tháng...còn hai tháng là hết..hợp đồng giờ em muốn mua thêm một cái nữa co được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.556114,
+         "id": "934690",
+         "field_search": "question",
+         "question": "Cho e hỏi. Zalo e vẩn sài bình thường chỉ có tải ảnh về là ko được. Nó để \"ảnh chưa được tải xong vui log thử lại sau \" là sao ạk. Tình trạng này cả tuần r ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.408272,
+         "id": "755237",
+         "field_search": "question",
+         "question": " Cho em hỏi bạn em vừa tặng 1 iPhone 6s plus 16g mà em không muốn dùng có thể trả lại được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.356043,
+         "id": "998368",
+         "field_search": "question",
+         "question": " cho em hỏi e sinh tháng 5 năm  98  có thể mua đt trả góp chưa ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.316858,
+         "id": "772382",
+         "field_search": "question",
+         "question": " Jailbreak ios 9.2 đã có bản chính thức chưa ad?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.295444,
+         "id": "757718",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là IOS bản 9.1 có Cydia chưa ạ . Nếu có thì hướng dẫn cho e được không ạ . . . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.285784,
+         "id": "755839",
+         "field_search": "question",
+         "question": " iOS 9.1 có thể hạ được không ad ơi e muốn hạ xuống và jailbreak dùng bản này chán lắm? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.279583,
+         "id": "819208",
+         "field_search": "question",
+         "question": " Đã có thể jailbreak ios 9.2.1 được chưa vậy tgdd  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.261175,
+         "id": "754729",
+         "field_search": "question",
+         "question": " Cho e hỏi là máy iPhone 5S ios 9.0.2 lock nhật đã jailbreak được chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.258217,
+         "id": "761018",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách khôi phục cài đặt ipad phiên bản ios 9.1 về cài đặt ban đầu với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.175652,
+         "id": "827423",
+         "field_search": "question",
+         "question": " cho e hỏi ak, e mua lap ux31 của asua. làm sao em có thể kết nối máy với tivi được ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.14165,
+         "id": "827742",
+         "field_search": "question",
+         "question": "Em mới được tặng 1chiếc ipad nhưng có lẽ nó chưa được chạy chtrình vì e vô app store để tải ứng dụng thì nó bắt e nhập 1tk em cũng tạo tk nhưng khi đăng nhập thì k được ạ. Nó hiện là chưa kết nối itunes rồi thiết lập ios gì á. Em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.133713,
+         "id": "804968",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 4s 2012 ios 9.2.1,em muốn cài cydia vào máy có được không ạ???em có thể mang máy ra tgdd cài được không???(em ở tân châu tây ninh)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.041857,
+         "id": "993122",
+         "field_search": "question",
+         "question": "Cho mình hỏi,mình muốn đổi dt philips e103 sang dt khác thì có được không ad ơi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.973116,
+         "id": "861767",
+         "field_search": "question",
+         "question": " IOS 9.3.2 đã có thể jailbreak được chưa mong chỉ giúp!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.915046,
+         "id": "776116",
+         "field_search": "question",
+         "question": " Cho em hỏi pin laptop 4 cell có thể dùng được bao lâu, cả khi lướt web hay dùng offline, xin cám ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.840575,
+         "id": "819719",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi là đã jailbreak được ios 8.4.1 trên ip 5 chưa ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.728881,
+         "id": "755148",
+         "field_search": "question",
+         "question": " Máy mình đang ở iOS 9.1 mình muốn hạ cấp xuống 9.01 hoặc thấp hơn có được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.711817,
+         "id": "760416",
+         "field_search": "question",
+         "question": " Mình đang xài iPhone 5 Lock iOS 8.4.1 chưa jailbreak thì có nên update lên iOS 9.2 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.587004,
+         "id": "811788",
+         "field_search": "question",
+         "question": " Cho em hỏi có cách nào để giả lập hệ điều hành window phone trên máy hệ ios ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.572657,
+         "id": "789804",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi nếu iphone em được reset lại bằng itunes rồi nhưng giờ em xóa itunes đó rồi em cài itunes lai cho may tính nữa thì có reset lại may nữa được không. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.518146,
+         "id": "781663",
+         "field_search": "question",
+         "question": "Thế giới di động có jailbreak ios 9.0.2 không có fix lỗi iphone lock. Mình đang dùng 6plus lock nhật nhà mạng au",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.449805,
+         "id": "918063",
+         "field_search": "question",
+         "question": " ios 10.1.1 có về được 9.0.2 khôngmình đang sài iphone 5 muốn về ios 9.0.2 để jb ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.41085,
+         "id": "842014",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop có pin rời khi sử dụng mình tháo pin ra và cấm dây sạc vào sài trực tiếp được không ạ . Và nếu được thì máy khi sài có bị sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.292578,
+         "id": "837879",
+         "field_search": "question",
+         "question": " Cho em hỏi có jailbreak 9.3.1 chưa ạ . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.218427,
+         "id": "893372",
+         "field_search": "question",
+         "question": "cho em hỏi em xài cái oppo f1s, vào facebook xem ambuml video lưu sao lại không thấy có thể hướng dẫn em xem ở đâu được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.200482,
+         "id": "1155498",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn đổi 1 điện thoại vivo y55s và 1 đt asus thành 1 đt khác có được không ạ, bù khoảng bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.163348,
+         "id": "768508",
+         "field_search": "question",
+         "question": " Cho em hỏi ios 9.2 xuống được ios 9.1 không ạ? Thank you tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.078783,
+         "id": "748255",
+         "field_search": "question",
+         "question": "Anh ơi máy của em là iPhone 5 ios 9 máy em đã jailbreak, xong bây em muốn nâng cấp lên ios 9.1 thì em vào itunes dow bản cập nhập 9.1 về thì máy em hiện lên là '' phụ kiện có thể không đc hỗ trợ '' thì có làm sao ko anh, vẫn nâng cấp được phải không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.039938,
+         "id": "811969",
+         "field_search": "question",
+         "question": "Ad cho em hỏi đã có jailbreak cho ios 9.3.1 chưa, em thấy pangu và taig9 cung co xuất hiện một số video clip nhưng e không chắc chắn. nếu có mình có thể jailbreak bằng cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.968675,
+         "id": "942971",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng 6plus ios 10.1.1 mà để qua đêm(9 tiếng) pin tự bị tụt khoảng 14% mà mình không hề dùng(đã tắt wifi).Mình muốn lên ios 10.2.1 thì có khắc phục được lỗi tự tụt pin không ạ và bản này dùng có ổn định không ạ.Mong QTV giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.940606,
+         "id": "1007685",
+         "field_search": "question",
+         "question": "Cho em hỏi là em có sử dụng 1 cái sim không phải bằng chứng minh của em. Giờ em làm mất và sim đó dùng để đăng kí nhiều thứ quan trọng, giờ có làm lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.929773,
+         "id": "835265",
+         "field_search": "question",
+         "question": " Cho mình hỏi là máy tính Acer aspire e5 có thể tháo pin ra và sạp trực tiếp vào máy được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.927819,
+         "id": "769344",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi ios 9.2 đã ổn định chưa vậy.mình dùng đang dùng iPhone 5s ios 9.1 bây giờ muốn lên 9.2 có ổn không nhỉ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.912565,
+         "id": "825990",
+         "field_search": "question",
+         "question": " Ad cho hỏi là đã jailbreak được ios 9.2.1 chưa thế, và ở đây có hỗ trợ luôn ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8678055,
+         "id": "997908",
+         "field_search": "question",
+         "question": "Cho em hỏi, tai nghe của em được bảo hành 1 năm và đang trong thời gian bảo hành, hiện tai nghe bị lỗi, chỉ nghe được 1 bên, mà em mua ở chi nhánh daklak thì em có được đổi ở chi nhánh huế ko ạ ? Em cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.847454,
+         "id": "841679",
+         "field_search": "question",
+         "question": " Cho hỏi pin LiIon 4 cell trong laptop không tháo ra được nếu vừa sạc vừa sài pin có bị sao không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.778619,
+         "id": "1010701",
+         "field_search": "question",
+         "question": "Mấy anh mấy chị ơi cho em hỏi asus zenfone go có nâng lên android 6 hay 7 được ko ạ nếu đc thì nâng làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.73569,
+         "id": "792997",
+         "field_search": "question",
+         "question": " Cho mình hỏi ios 9.2.1 có bản Jailbreak cho iphone vào ngày 2.26.2016 chưa vậy iphone 5 lock bị mất sim và SMS? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.650311,
+         "id": "818973",
+         "field_search": "question",
+         "question": " Bây giờ đã jailbreak được ios 9.2.1 chưa ad e thấy mấy nhóm hacker họ bảo đã bẻ khoá đc ios 9.2.1 rồi mà ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.6114025,
+         "id": "754567",
+         "field_search": "question",
+         "question": " Em hạ cấp ios 9.1 về lại ios 8 được không admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.608139,
+         "id": "1015532",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi điện thoại có số miêu 357202078391910 đã chuyển đi bảo hành chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.599297,
+         "id": "755856",
+         "field_search": "question",
+         "question": "  Cho em hỏi có iphone 5S Gold 16gb khi nào có hàng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.51766,
+         "id": "755835",
+         "field_search": "question",
+         "question": " Ad cho em hỏi bây giờ muốn hạ từ ios 9.1 xuống ios 8.4 kiểu gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.501968,
+         "id": "804483",
+         "field_search": "question",
+         "question": "Cho em hỏi đã có phiên bản jailbreak 9.2.2 chưa. Và bị em muốn hạ iOS 9.2.1 xuông 8.2.1 cửa Hàng TGDD có hạ xuống được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.479059,
+         "id": "803526",
+         "field_search": "question",
+         "question": " Cho em hỏi ios 8.4.1 có jailbreak được không a. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.470775,
+         "id": "992660",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Đt e mua trả góp 0 e trả chưa xong thế e bán lại được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.439389,
+         "id": "999421",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là laptop E5-575G-515A- Ram: 4gb- VGA: GeForce 940mx- Chip: core i5 6200uCủa em có thể nâng chip lên core i7 được không ạ?Và nếu nâng được chip thì giá là bao nhiêu?mong QTV giúp đỡ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.335716,
+         "id": "1137774",
+         "field_search": "question",
+         "question": "Em có mua 1 chiếc điện thoại Huaweii gr5 ở tgdđ gần nhà xài được tháng đầu bình thường nhưng tới giờ(em xài được 1 năm rưỡi) máy còn yếu hơn bạn em huaweii gr5 mini(bạn em xài được 2 năm hơn),cho em hỏi do máy bị vấn đề gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.255962,
+         "id": "1148178",
+         "field_search": "question",
+         "question": "Xin chào, cả nhà cho m hỏi Oppo f5 có hiển thị được đồng hồ trên màn màn hình khoá không vậy? Xin chỉ giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.247689,
+         "id": "747220",
+         "field_search": "question",
+         "question": " Mình cài IOS 9.1 cho ịPhone 6S bị lỗi không nhận diện được dấu vân tay mình mới mua chưa được 2 tuần nữa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.182753,
+         "id": "1156388",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có thể game không ạ có thì em lên mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.164677,
+         "id": "1013600",
+         "field_search": "question",
+         "question": "chào tgdđ, em muốn hỏi là em muốn mua trả góp nhưng em chưa có bằng lái xe ,em có thể lấy bằng lái xe của ng thân để mua trả góp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.121352,
+         "id": "749124",
+         "field_search": "question",
+         "question": " Cho em hỏi e đang dùng Iphone 5s IOS 9.1  giờ em muốn hạ xuống IOS 8.4 có được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.112667,
+         "id": "766272",
+         "field_search": "question",
+         "question": "iPhone 4s Lock 64GB đang ở iOS 6.1.3 giờ có thể nâng lên iOS 7 được không hay là bắt buộc lên iOS 9 luôn hả QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.109141,
+         "id": "1140425",
+         "field_search": "question",
+         "question": "Cho em hỏi em muôn đặt hàng pin lg v20 có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

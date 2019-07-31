@@ -1,0 +1,801 @@
+{
+   "id_query": "803117",
+   "total": 30691,
+   "total_current": 100,
+   "max_score": 51.94351,
+   "origin_question": " Đối với iPhone 3 thì làm như thế nào ??? Có thể trả lời gấp được không? ",
+   "hits": [
+      {
+         "score": 26.642044,
+         "id": "800011",
+         "field_search": "question",
+         "question": " Cách mở khóa pin phải làm như thế nào đối với iPhone 3 thường nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.873043,
+         "id": "763656",
+         "field_search": "question",
+         "question": "Tôi mới xem qua 1 số câu hỏi về vấn đề trả góp của iPhone 6 16G. Khi chọn tiêu chí phù hợp với bản thân là trả trước 20% và trả trong 12 tháng. Thì cả 3 Cty hỗ trợ tài chính đều hiện lên những tư vấn cho khách hàng. Nhưng kéo xuống phía dưới phần THẢO LUẬN của website tôi lại thấy những thắc mắc của 1 số bạn về mua trả góp. Nào là trả trước 20, 30% thì có đc trả góp không? Và lúc đó QTV - Nhật Duy có reply lại là phải trả từ 50% đối vs Home và 40% đối vs ASC. Nếu như 3 Cty ấy phải làm đúng như lời QTV đã nói thì TẠI SAO lại hiện lên các thông tin tư vấn kia??? TGDĐ trả lời giùm tôi phát.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.795122,
+         "id": "751911",
+         "field_search": "question",
+         "question": " Có thể under 9.1 xuống 9.0.2 để jeibreak được hay không đối với iphone 5 ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.751755,
+         "id": "806883",
+         "field_search": "question",
+         "question": " iphone 3 có cập nhập được ios7 không giúp trả lời nhanh đi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.593714,
+         "id": "761769",
+         "field_search": "question",
+         "question": "Bữa trước em có hỏi bằng số imei có thể tìm lại iphone không . Thì có người trả lời em là hiện giờ chưa có cách nào tìm được . Nhưng em đọc trên mạng thì được biết có thể tìm được . Cho em 1 câu trả lời chính xác .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.994053,
+         "id": "925949",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 4 có thể lên IOS 8 được không vậy. Nếu được thì phải làm như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.520336,
+         "id": "925410",
+         "field_search": "question",
+         "question": "Ac cho em hỏi: Nếu mình biết sđt, ngày sinh và hợp đồng trả góp thì có thể lấy lại tkhoản icloud của iphone 6 ko ạ. Nhờ quý ac trả lời gấp cho em với, nếu được em sẽ viết cam đoan cho cty về chịu tất cả các thủ tục pháp lý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.503475,
+         "id": "999488",
+         "field_search": "question",
+         "question": "Em muốn xin vào làm tgdd nhưng e trả lời 36 câu không đạt.em có thể làm lại bảng đăng ký khác được không ạ hay phải đợi 3 tháng nữa????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.476065,
+         "id": "1135589",
+         "field_search": "question",
+         "question": "Cửa hàng cho mình hỏi bên ad có bán miếng dán màn hình xiaomi mi band 3 k ạ? Trả lời gấp giúp mình ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.436594,
+         "id": "812132",
+         "field_search": "question",
+         "question": " iphone 3 có cài đặt được không nhỉ ai pít cho xin câu trả lời xin tks  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.24321,
+         "id": "998074",
+         "field_search": "question",
+         "question": "Laptop mình mua trả góp được 3 tháng thegioididong có mua lại không? Thủ tục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.14407,
+         "id": "1153838",
+         "field_search": "question",
+         "question": "Trả lời cuộc gọi tự động khi kết nối tai nghe Bluetooth với huwei y9 làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.99885,
+         "id": "974400",
+         "field_search": "question",
+         "question": "Hỏi Cài Game Ứng dụng từ file IPA trên iPhone như thế nào Cho mình hỏi, iPhone có thể cài đặt ứng dụng từ file IPA giống như file APK trên Android phải không? Nếu làm được thì cách làm như thế nào và có thể hướng dẫn cho mình được không ạ. Xin cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.895185,
+         "id": "1160942",
+         "field_search": "question",
+         "question": "Vì sao khi tôi tắt chuyển tiếp cuộc gọi thì máy báo là không tắt được chuyển hướng cuộc gọi đối với những cuộc gọi k trả lời và k được cung cấp bởi nhà mạng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.892782,
+         "id": "1011232",
+         "field_search": "question",
+         "question": "Máy em bị như thế này có được bảo hành không trả lời cho em biết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.860035,
+         "id": "789383",
+         "field_search": "question",
+         "question": "Mình mua máy ở TGDĐ, mình muốn cái đặt lại pass word cho TK icloud nhưng có mấy câu hỏi mình không thể trả lời được vì khi mình mua máy nhân viên của TGDĐ cài đặt hộ. Giờ mình muốn tìm lại câu trả lời thì làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.84203,
+         "id": "765542",
+         "field_search": "question",
+         "question": "Bây giờ e chưa có ID apple muốn tạo thì em phải làm như thế nào ạ? Có a chị nào biết có thể chỉ cho em với được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.841278,
+         "id": "763795",
+         "field_search": "question",
+         "question": "iPhone 5S còn không ạ?? Mức giá bây giờ còn bao vậy?Nếu mua iPhone 5S với iPhone 6 thì cái nào hơn ạ??Giá cả thế nào? Và nếu như mua trả góp thì như nào ạ?Nói giá cụ thể với iPhone 5S và iPhone 6 hộ em?Em cảm ơn ạ :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.724443,
+         "id": "772341",
+         "field_search": "question",
+         "question": " Muốn mua iPhone 5 trả góp thì cách mua với hình thức như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.668108,
+         "id": "762022",
+         "field_search": "question",
+         "question": " Mình dùng iPhone 4 nhưng mình không tải được azar thì phải làm như thế nào ạ các bạn chỉ mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.626062,
+         "id": "838902",
+         "field_search": "question",
+         "question": "Tại sao IPhone 5s của tôi lại không gửi ti nhắn được, mặc dù tôi đã làm đủ mọi cách giống như trên mạng, nhưng vẫn không được, giờ phải làm sao để nhắn tin đc đây? Tôi cần nhắn gấp trong 1 ngày nữa nên hãy trả lời nhanh nhé! Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.36687,
+         "id": "1006184",
+         "field_search": "question",
+         "question": "Alo anh hoi cai nay với. Anh mua dt trả góp giờ muốn trả hết một thể thì làm như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.366415,
+         "id": "865134",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 5S của mình mua ở TGDĐ, còn thời gian bảo hành. Hôm trước mình vô tình bị cấn góc điện thoại làm viền của Iphone bị móp vào một xíu. Trường hợp trên có được bảo hành không? Nếu không thì phí sửa chữa thay thế như thế nào? Mong TGDĐ trả lời giúp nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.270643,
+         "id": "736225",
+         "field_search": "question",
+         "question": " e mất mật khẩu icoul thị làm như thế nào  khi bắt em đăng nhập 3 email trước đây mà em không có thì làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.13681,
+         "id": "780961",
+         "field_search": "question",
+         "question": " hi trả lời tôi gấp nha , lì xì tiền mặt , 1.5 2 triệu cho mỗi dòng máy iphone là sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.123327,
+         "id": "765561",
+         "field_search": "question",
+         "question": " Làm thế nào để có mã thẻ quà tặng itunes ạ anh chị nào biếtt thì có thể chỉ cho e với được không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.087662,
+         "id": "759922",
+         "field_search": "question",
+         "question": " TGDĐ mình có bán điện thoại iPhone 5 trả góp không ạ? Nếu có thì  trả như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.07726,
+         "id": "998943",
+         "field_search": "question",
+         "question": "Cho em hỏi, iPhone của em bị sọc, cách sửa lỗi thế nào? Xin trả lời cho em biết với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.932789,
+         "id": "744506",
+         "field_search": "question",
+         "question": "  Muốn tải facebook về iPhone 3 thù em phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.910927,
+         "id": "992011",
+         "field_search": "question",
+         "question": "em có mua máy asus A441U đươc 1 tuần màn hình sử dụng lâu bị chớp tắt chạy sọc ngang dọc rồi hết  bị thường xuyên như vậy em có thể đổi được máy khác không ạ cần trả lời gấp rất khó chịu khi sử dụng 0869111010",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.766983,
+         "id": "780683",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang sử dung iphone 4 không hiểu sao khi dùng dây cáp để kết nối với máy tính thì điện thoại cứ hiện lên là “phụ kiện không hỗ trợ” và mình không thể nào kết nối được với máy tính. Cho hỏi có cách nào để khắc phục không....mong sớm nhận được câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.73749,
+         "id": "1009785",
+         "field_search": "question",
+         "question": "sao không ai trả lời hết vậy em đang cần hỗ trợ làm cách nào chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.693298,
+         "id": "785567",
+         "field_search": "question",
+         "question": " Có thể jaibreak ios 9.2 chưa ạ??Trả lời nhanh giùm e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.62364,
+         "id": "830715",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp Iphone 6 Gold 64 gb thì cho mình hỏi giá của nó là bao nhiêu? và lãi suất trả góp 0% là như thế nào. Trả lời sớm giùm mình nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.410069,
+         "id": "848345",
+         "field_search": "question",
+         "question": "Đối với laptop có pin liền thì cách sử dụng như thế nào để tránh chai pin, và vừa dùng laptop vừa cắm sạc có ảnh hưởng gì nhiều đến pin không? ai biết chỉ em cách dùng đúng với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.397377,
+         "id": "791427",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là máy iphone 5 của em chỉ nhận được tin nhắn tới mà khi trả lời thì không trả lời được, không nt cho ai trong danh bạ được, vậy giờ em phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.393738,
+         "id": "756320",
+         "field_search": "question",
+         "question": " Mình mua iphone 6s trả góp trong 3 tháng thì tính như nào vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.310871,
+         "id": "1016314",
+         "field_search": "question",
+         "question": "Cài mk message trên iPhone 6 thì làm như thế nào . Nhờ ad chỉ với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.185606,
+         "id": "1019469",
+         "field_search": "question",
+         "question": " như vậy là sao ad có thể trả lời giúp không ?  dòng chữ cuối cùng ý là sao   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.176416,
+         "id": "1004298",
+         "field_search": "question",
+         "question": "chế độ thu mua điện thoại cũ ở tgdd như thế nào ạ..đối với sản phậm mua tại tgdd và còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.151178,
+         "id": "799481",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5s nhưng trong 3 lần sạc đầu tiên vì lý do công việc mình không thể sạc đủ 8 tiếng vậy có ảnh hưởng gìì không? Và lần sạc thứ 4 này mình có thể sạc 8 tiếng đc ko? AD trả lời giúp mình với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.141438,
+         "id": "988820",
+         "field_search": "question",
+         "question": "E là sinh viên, hiện đi làm thêm, muốn mua đt iphone trả góp thì như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.095583,
+         "id": "775146",
+         "field_search": "question",
+         "question": " iOS về điện thoại iPhone 3 không cách tải như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.088543,
+         "id": "993117",
+         "field_search": "question",
+         "question": "máy của tôi đi bảo hành đến ngày hẹn rồi mà không được thì bên mình giải quyết như thế nào?Đó là tôi còn mua trả góp nếu trả tiền ngay một cục thì các bạn thích lúc nào trả thì trả à?tôi mua trả góp vậy đến tháng tôi không trả theo định kỳ với lý do chưa có tiền có được không?cả một hệ thống làm ăn như vậy có được không?hay tôi cứ trả tiền còn máy thì không được dùng trong khi tôi mới mua máy được 1 tháng 13 ngày?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.080975,
+         "id": "1134845",
+         "field_search": "question",
+         "question": "bây giờ mình muốn mua trả góp samsung galaxy j4 thì thủ tục như thế nào vậy ạ? mình có thể sử dụng bản photo có công chứng để mua trả góp được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.077963,
+         "id": "906414",
+         "field_search": "question",
+         "question": "Xin cho hỏi 2 máy iPhone cùng dùng chung app ID Khi có một cuộc gọi FaceTime tới thì Cả 2 máy đều đổ chuông. Có thể trả lời 2 máy cùng lúc hay không? Hay là máy nào trả lời trước thì máy kia tự động tắt? Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.940582,
+         "id": "1019658",
+         "field_search": "question",
+         "question": "Nokia 5 có kết nối với tivi TCL được không.va làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.867405,
+         "id": "766151",
+         "field_search": "question",
+         "question": "Em cần mua iPhone 5S theo hình thức trả góp không lãi xuất thì đối với 15 tháng thì có cần trả tiền trước không và mức trả trước là bao nhiêu phần trăm anh chị tư vấn gíup em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.848597,
+         "id": "815516",
+         "field_search": "question",
+         "question": " Lấy lại mật khẩu giới hạn iPhone như thế nào có thể giúp tôi cách lấy lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.84511,
+         "id": "800991",
+         "field_search": "question",
+         "question": " iphone 5s có bán trả góp không ạ, và có thì giá cả và hình thức như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.8260565,
+         "id": "780920",
+         "field_search": "question",
+         "question": " Khuyến mãi đối với IPhone 6s là 1.500.000đ, khi mua có được trừ thẳng vô giá máy không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.704894,
+         "id": "874358",
+         "field_search": "question",
+         "question": "laptop U80Vseries bật đèn bàn phím như thế nào ạ có biểu tương đèn bàn phím trên nút f3 nhưng ấn hoài mà k lên ad có thể trả lời giúp em đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.67597,
+         "id": "783095",
+         "field_search": "question",
+         "question": "Cho em hỏi trong tầm giá 10tr thì có máy Laptop nào có thể chịu nổi game Minecraft khi đã cài modpacks, RA 3,...(những game tương đối nặng) khi chơi mà không lag không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.65803,
+         "id": "1147796",
+         "field_search": "question",
+         "question": "Làm thế nào để vào lại được tủ an toàn trên điện thoại hauwei nova 3i khi quên mật khẩu đăng nhập thế các bạn cho hỏi với. Mibhf quên cả câu trả lời bì mật nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.655538,
+         "id": "1014566",
+         "field_search": "question",
+         "question": "19 tuổi có mua được trả góp không ạ . nếu mua được thì thủ tục như nào và nếu em lấy ip6 thường bản 32gb thì trả trước bao nhiêu % , theo phương thức nào thì trả trước thấp nhất có thể ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.616456,
+         "id": "1011871",
+         "field_search": "question",
+         "question": "E 19t có thể mua trả góp tại tgdd được không ạ. Và e có thể mua trả góp với ngân hàng nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.536348,
+         "id": "777522",
+         "field_search": "question",
+         "question": " iPhone 5S có kết nối wifi được không nếu được thì kết nối như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.515698,
+         "id": "814818",
+         "field_search": "question",
+         "question": " em có 1 iphone 5s nhưng quyên mật khẩu, mà iphone chưa được kết nối với itunes thì phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.488459,
+         "id": "1008203",
+         "field_search": "question",
+         "question": "Làm sao để cài đặt thẻ SD làm nơi lưu trữ mặc định đối với điện thoại meizu m5 ? Có thể chuyển một số dữ liệu ứng dụng vào thẻ nhớ được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.479828,
+         "id": "794919",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp hai chiếc iPhone 5s có được không và thủ tục như thế nào tư vấn giúp mình được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.40151,
+         "id": "1006162",
+         "field_search": "question",
+         "question": "tắt pc không đúng cách, cúp điện đột ngột nhiều lần, ảnh hưởng đối với pc thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.249275,
+         "id": "829165",
+         "field_search": "question",
+         "question": " mình muốn kiêm tra thời hạn đã trả góp thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.249275,
+         "id": "1167439",
+         "field_search": "question",
+         "question": "Mình mua trả góp qua thẻ ngân hàng thì làm như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.21169,
+         "id": "1016219",
+         "field_search": "question",
+         "question": "Tôi mua trả góp oppo f1s(2017) được 4thang. Tôi đã trả xong. tôi muốn chuyển sang A5(2017) có đc ko. Nếu dc thì làm như thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.201456,
+         "id": "756739",
+         "field_search": "question",
+         "question": " Tôi muốn mua iphone 5s trả góp thì làm thế nào và trả trước bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.174755,
+         "id": "751120",
+         "field_search": "question",
+         "question": " Muốn kiểm tra xem máy iphone có đúng là bản Quốc tế không thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.11522,
+         "id": "760378",
+         "field_search": "question",
+         "question": " Cho em hỏi số imei có thể đổi được không và câch đổi như thế nào . Điện thoại em iPhone 6S ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.069156,
+         "id": "781383",
+         "field_search": "question",
+         "question": " iphone 4s của em có hiện dòng  bấm nút Home 3 lần để dừng điều khiển công tắc. em phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.023241,
+         "id": "772601",
+         "field_search": "question",
+         "question": " Cho em hỏi, iphone 5 giá như thế nào ạ? Có trả góp gì không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.986481,
+         "id": "806095",
+         "field_search": "question",
+         "question": " cách tải cydia về điện thoại iPhone 6s như thế nào có thể giúp mình không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.969804,
+         "id": "778764",
+         "field_search": "question",
+         "question": " Chỗ mình có bán trả góp không shop. Nếu có thì 5S trả góp chương trình như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.888842,
+         "id": "797841",
+         "field_search": "question",
+         "question": " Bạn ơi mình có iPhone 5s , mình bh muốn restore lại thì làm thế nào và restore xong thì active như thế nào ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.858545,
+         "id": "995517",
+         "field_search": "question",
+         "question": "minh mua điện thoại trả góp ở thế giới di động ,nhưng giườcần tiền gấp mình bán lại máy cho siêu thị thì tính phí thế nào nhỉ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.838475,
+         "id": "999097",
+         "field_search": "question",
+         "question": "Đối với người đã chặn tôi trên instagram, tôi có thể nhắn tin cho họ không? Nếu có, họ có thể thấy tin nhắn của tôi không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.813406,
+         "id": "1161666",
+         "field_search": "question",
+         "question": "Cho em ạ em muốn trả góp điện thoại iphone 8 nhưng em không có hộ khẩu TPHCM và em muốn trả góp theo 0đ thì như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.732854,
+         "id": "997900",
+         "field_search": "question",
+         "question": "Không kết nối được đt với máy tính. Báo như hình ảnh thì làm thế nao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.729263,
+         "id": "884265",
+         "field_search": "question",
+         "question": "Mình muốn tải Cydia.vn nhưng lại bị lỗi như thế này thì phải làm như thế nào để khắc phục được ạ. Mình dùng iphone 5s..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.729185,
+         "id": "992664",
+         "field_search": "question",
+         "question": "E muốn mua trả góp thì cần những gì ạ, trả trước 0đ thì lãi sẽ như thế nào? Với dòng máy ip6 bản 32 gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.703268,
+         "id": "996984",
+         "field_search": "question",
+         "question": "Tôi mua một máy điện thoại Iphone 7plus số imai 353816083234288 sau 2 tháng sử dụng, pin bị tiêu hao nhanh. tôi gửi bảo hành ngày 7/6/2017 đến ngày 26/6 /2017 tôi nhận được máy. Sáng 27/6 tôi rút sạc lúc 6h mức pin 100%, khong sửa dụng để theo dõi, lúc 8h50 mức pin còn 88%. Trong khi đó máy iphone 6 củ tôi cũng tiến hành như thế và còn 100% pin. Tôi muốn hỏi chất lượng bảo hành như thế là như thế nào?. máy mua mới 100% được 3 tháng thì mất gần 1 tháng mang đi bảo hành. khi bảo hành xong thì vẫn sụt giảm pin như vậy thì Thế giới di động có trách nhiệm gì đối với khách hàng, uy tín của TGDD có đảm bảo không? khi bảo hành TGDD có thay thế hay làm gì cho máy của tôi không?Số điện thoại liên lạc 0912036431",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.692786,
+         "id": "1001080",
+         "field_search": "question",
+         "question": "ad ơi giờ  e muốn trả góp thì như thế nào ạ e muốn mua cái máy asus zenphone 3 max 5.5 dấy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.687385,
+         "id": "1146923",
+         "field_search": "question",
+         "question": "Xin chào. Tôi hiện đang có chiếc Samsung Galaxy Note 3 và nó đã được root. Nhưng tôi không thể cập nhật hệ điều hành. Vậy liệu có cách nào để có thể cập nhật hệ điều hành với chiếc điện thoại này không và nếu được thì tôi phải làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.683648,
+         "id": "1165146",
+         "field_search": "question",
+         "question": "E có mua cáp sạc điên thoại iphone, và được đổi trả trong vòng 1 năm.e mua cách đây cỡ 3 tháng,nhưng e k giữ hoá đơn với hộp đựng.Như vậy e có thể đổi trả được k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.65238,
+         "id": "1141913",
+         "field_search": "question",
+         "question": "HIỆn em có sổ tạm trút tạm vắng và bằng lái xe, smnd thì em có thể mua đt trả góp bên mjh k ạ. Và em có thể mua trả góp như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.647178,
+         "id": "1133351",
+         "field_search": "question",
+         "question": "iPhone X bị không rung dù đã cài đặt lại máy thì làm như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.630586,
+         "id": "814383",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sau cài đặt ứng dụng làm theme cho iphone không được vậy?? Anh chị trả lời giúp e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.607963,
+         "id": "834493",
+         "field_search": "question",
+         "question": " giúp với ạ. mỗi lần dùng messenger đều như này. làm thế nào để sửa ạ. mấy bạn nào biết giúp mình với được không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.593833,
+         "id": "1004416",
+         "field_search": "question",
+         "question": "Tôi có đặt mua online 1 ĐTDĐ Lenovo A6600 Plus Black trị giá 2.290.000 đ và nhận hàng chiều ngày 12/7/2017. Sau khi sử dụng được 5 hôm thì máy có biểu hiện mờ và ố màn hình, tôi đem máy đến cửa hàng Điện Máy xanh của thegioididong (ngà 3 Yên Báy- Lê Duẩn- Số 7 Lê Duẩn- Đà Nẵng) báo nhân viên hỗ trợ kỹ thuật để được đổi như cam kết trong chương trình. Tuy nhiên qua xem máy thì nhân viên trả lời là máy do tác động bên ngoài (ý nói là do khách hàng làm hư) nên nói không thể đổi trả. Tôi có giải thích là từ lúc mua đến hôm nay 18/7/2017 tôi không tác động đến máy dưới bất cứ hình thức gì (ngoài việc mở vỏ lắp sim và cắm xạc) nhưng nhân viên không nghe và trả lời là để điện thoại lại khoảng 10 ngày để gửi sang hãng ĐT Lenovo kiểm tra, kiểm định; hoặc nếu không thì khách hàng đem điện thoại đến hãng ĐT Lenovo để kiểm tra. Tôi không đồng ý với việc trả lời như vậy nên đề nghị được gặp quản lý cửa hàng giải thích, nhưng khi gặp quản lý thì quản lý cũng trả lời như vậy. Thất vọng tôi ra về và đề nghị Công ty giải thích và trả lời tôi một cách thích đáng. Tôi thiết nghĩ, đt giá trị không lớn nhưng thái độ làm việc như thế, cung cách phục vụ như thế thì có trăm ngàn ông Đức Tài thì Công ty sẽ cũng sụp đổ. Mua danh 3 vạn- bán danh 3 đồng như người xưa đã nói.      Việc đem máy đi kiểm định, kiểm tra chắc chắn lỗi hư hỏng sẽ là do khách hàng, chứ không bao giờ hãng điện thoại hoặc đơn vị kinh doanh nhận lỗi và cuối cùng phần thiệt thòi là khách hàng gáng chịu. Và đây là kết quả cuối cùng. Thật Phẫn nộ./.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.588316,
+         "id": "1140277",
+         "field_search": "question",
+         "question": "Em đang xài cái lumia 1320 nhưng wifi không thể mở lên được. Em phải làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.586022,
+         "id": "1160009",
+         "field_search": "question",
+         "question": "Ních em có số điện thoại đăng kí tài khoản facebook này và có thể lấy lại được mật khẩu nhưng em vào quên mật khẩu thì nó như thế này. Ad có thể giúp em làm thế nào để kích hoạt được tính năng kia không ạ vì email em quên rồi ạ. Ních fb này rất quan trong với em mong ad giúp đỡ em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.582052,
+         "id": "926310",
+         "field_search": "question",
+         "question": "Chào ADM, sắp tới mình có đổi điện thoại và mình muốn lưu tin nhắn ( k phải imess ) từ iphone A sang iphone B. Ko biết là có cách nào ko, và nếu có thì sẽ phải làm như nào.Đợi câu trả lời của ad. Cảm ơn ADM",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.573841,
+         "id": "830792",
+         "field_search": "question",
+         "question": "tại sao máy tính của tui không tải game , nhạc được vậy . tải cái gì cũng không được. mỗi lần bấm vào nút download là nó hiện ra cái này(ở trong hình) , khi bấm vào how to licence thì nó hiện ra trang này(http://soft247.vn/IDM-Order-Online.s247). phải làm sao đây , trả lời gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.569647,
+         "id": "830307",
+         "field_search": "question",
+         "question": " Muốn diệt virut cho iphone thì làm thế nào anhchi giúp e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.519537,
+         "id": "780410",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi cửa hàng còn bán iphone 5 hoac iphone 5s trả góp nữa không.nếu có thì mua như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.500773,
+         "id": "1015139",
+         "field_search": "question",
+         "question": "Thanh lí hợp đồng trả góp của home credit là như nào vậy? Và tôi muốn bán lại máy thì làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.4985075,
+         "id": "895313",
+         "field_search": "question",
+         "question": " Chào ad, iphone 5s vì sao bị sim chưa kích hoạt miết vậy ad có thể cho e pik câu trả lời được k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.48659,
+         "id": "839741",
+         "field_search": "question",
+         "question": "  Với cấu hình như thế có chơi được liên minh huyền thoại hay fifa online 3 k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.481831,
+         "id": "1008393",
+         "field_search": "question",
+         "question": "Nếu trả góp thì có thể trả tối thiểu là mấy tháng.  Ví dụ như trong vòng 1 tháng có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.480288,
+         "id": "1003333",
+         "field_search": "question",
+         "question": "Đt em iPhone 5 thường bị vô nước màn hình không biết có cách nào sửa được mà không cần tháo iPhone không ạMong ad trả lời giúp emXin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.454117,
+         "id": "1165777",
+         "field_search": "question",
+         "question": "Em muốn xóa messenger nhưng chỉ có 2 nút buộc dừng với tắt thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

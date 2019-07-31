@@ -1,0 +1,802 @@
+{
+   "id_query": "995375",
+   "total": 34173,
+   "total_current": 100,
+   "max_score": 159.5118,
+   "origin_question": "Cho e hỏi e sd đt lenovo A7000 lúc trước di chuyển ứng dụng sang thẻ SD đc mà sao từ khi nâng cấp hệ thống thì phần đó bị mất luôn , k còn hiện lên chữ di chuyển sang thẻ SD nữa có phải là do lỗi nâng cấp hệ thống k ạ",
+   "short": "đt không di chuyển ứng dụng sang thẻ nhớ được nữa",
+   "hits": [
+      {
+         "score": 67.13772,
+         "id": "1136599",
+         "field_search": "question",
+         "question": "Oppo a3s có thể chuyển ứng dụng sang thẻ sd đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.98343,
+         "id": "1021614",
+         "field_search": "question",
+         "question": "Em đang xài samsung J3 pro 2017. Em muốn chuyển hình ảnh và ứng dụng từ máy sang thẻ nhớ SD thì làm sao ạ. Em di chuyển hình thì cứ hiện \"không thể di chuyển\" còn chuyển ứng dụng thì lại ghi \"không đủ dữ liệu\" trong khi thẻ nhớ SD còn trống rất nhiều. Em cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.171062,
+         "id": "1014031",
+         "field_search": "question",
+         "question": "Tôi sài itel s11 plus, hãy hướng dẫn tôi  di chuyển ứng dụng nào đó sang thẻ SD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.97426,
+         "id": "998477",
+         "field_search": "question",
+         "question": "dạ cho e hỏii tại sao e chuyển ứng dụng sang thẻ sd thì ứng dụng đó được báo là không hoạt động được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.9829,
+         "id": "998035",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao chuyển ứng dụng và trò chơi sang thẻ SD được ạ? Máy em là lenovo P70A",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.91175,
+         "id": "1010068",
+         "field_search": "question",
+         "question": "Add cho e hỏi? Oppo a37neo 9 chuyển ứng dụng sang thẻ sd làm s vậy ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.416664,
+         "id": "1146160",
+         "field_search": "question",
+         "question": "E dùng itel s11plus ạ. Đã để đĩa chép mặc định là thẻ SD. Nhưng khi tải ứng dụng về thì lại lưu ở bộ nhớ trong là sao ạ. Và e muốn chuyển ứng dụng sang thẻ SD thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.71124,
+         "id": "1001709",
+         "field_search": "question",
+         "question": "Làm sao để chuyển ứng dụng từ máy sang thẻ sd của máy huawei Y3 2017",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.700317,
+         "id": "1149774",
+         "field_search": "question",
+         "question": "làm thế nào để chuyển ứng dụng sang thẻ SD khi sử dụng vivo y71",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.949432,
+         "id": "1143927",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi về chuyển dữ liệu từ máy sang thẻ nhớ sd, em đang xài máy htc desire 620 dual sim, có khe thẻ nhớ và thông tin máy có hỗ trợ thẻ nhớ, nhưng e có làm theo hướng dẫn chuyển dữ liệu thì k có chức năng chuyển sang thẻ sd, cho e hỏi dòng máy này có hỗ trợ chuyển k ạ? bộ nhớ máy đã đầy rồi ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.988438,
+         "id": "1002664",
+         "field_search": "question",
+         "question": "ad cho e hỏi điện thoại samsung J2 khi e chuyển hình ảnh từ bộ nhớ qua thẻ SD thì điện thoại yêu cầu giấy phép trụy cập thẻ SD và k cho chuyển hình ảnh là seo ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.792843,
+         "id": "830487",
+         "field_search": "question",
+         "question": " Cách chuyển ứng dụng sang thẻ sd trên oppo f1 như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.36514,
+         "id": "1007467",
+         "field_search": "question",
+         "question": "Em có thẻ SD 32GB nhưng em không tải phim về thẻ đc. em xài J2 Prime ạ. làm sao đẻ chuyển thư mục Download sang thẻ SD đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.246445,
+         "id": "1148075",
+         "field_search": "question",
+         "question": "Muốn chuyển dữ liệu sang thẻ sd trên realme c1 thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.159554,
+         "id": "1001526",
+         "field_search": "question",
+         "question": "Cách chuyển dữ liệu nhạc hình ảnh từ máy sang thẻ sd và mỗi lần tải đều qua thẻ sd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.831375,
+         "id": "868086",
+         "field_search": "question",
+         "question": "Chào QTV, cho e hỏi: Facebook của e chuyển qua thẻ SD bị lỗi. Lúc trước chuyển qua thẻ SD sử dụng bình thường. Không biết điện thoại bị lỗi gì mà Fb mở không được. Em đang sử dụng Samsung J5. Nhờ QTV chỉ e các khắc phục. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.65404,
+         "id": "1167719",
+         "field_search": "question",
+         "question": "Khi nào realme c1 hỗ trợ chuyển sang thẻ sd ạ.......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.51069,
+         "id": "1004823",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao Samsung J2 Prime không chuyển được ứng dụng từ máy sang thẻ SD ạ? Có thể chỉ cho em cách chuyển được không ạ... Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.16902,
+         "id": "915147",
+         "field_search": "question",
+         "question": "- thegioididong giúp e với- e tò mò đi phần vùng thẻ nhớ trên PC bằng phần mềm miniTool Parition Wizard- thành công xong máy PC của e k nhận thẻ nhớ nữa e xóa thẻ SD bằng điện thoại bằng cách vô cài đặt dung lượng xóa thẻ SD và mất phân vùng rồi mà máy tính vẫn k nhận còn cắm vào điện thoại thì vẫn nhận cắm dây cáp từ điện thoại vào PC thì thẻ SD nó mất luôn phải khởi động lại mới nhận lại dc thẻ SD mong thegioididong giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.134274,
+         "id": "1161795",
+         "field_search": "question",
+         "question": "Chào anh ạ! Máy Vivo Y91 này có hỗ trợ chuyển ứng dụng từ bộ nhớ trong của máy sang thẻ SD không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.759327,
+         "id": "1165905",
+         "field_search": "question",
+         "question": "Mình dùng samsung j3 pro, mình đã chuyển 1 ứng dụng sang thẻ sd, nhưng dung lượng trống của máy không thay đổi và trong phần thẻ sd không có, vì sao vậy? Mong được giải đáp sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.5102,
+         "id": "1014676",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi cách chuyển ứng dụng sang thẻ nhớ vì nó đang nắm ở bộ nhớ thiết bị, khi chuyển nó cứ bảo hết dung lượng mà thẻ nhớ 16 GB lận, chuyển hình thì bị lỗi k xem đc hình lun, di chuyển ứng dung thị lỗi lun ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.485107,
+         "id": "1162429",
+         "field_search": "question",
+         "question": "làm thế nào để chuyển ứng dụng sang thẻ SD khi sử dụng vivo y71,nếu máy ko hỗ trợ thì có ứng dụng nào ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.39975,
+         "id": "1135370",
+         "field_search": "question",
+         "question": "Ad ơi Xiaomi redmi 5A chuyển ứng dụng sáng thẻ nhớ SD đk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.37921,
+         "id": "998482",
+         "field_search": "question",
+         "question": "Em mới mua samsung j2 prime, máy bộ nhớ ít nên e lắp thêm thẻ nhớ, vào file của bạn thì thẻ nhớ gắn được rồi. Nhưng e vào cài đặt-> ứng dụng, ấn vào ứng dụng muốn chuyển sang thẻ nhớ nhưng nó ko có mục chuyển sang thẻ SD ạ, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.360016,
+         "id": "1149290",
+         "field_search": "question",
+         "question": "làm cách nào để chuyển ứng dụng sang thẻ sd khi sử dụng điện thoại vivo y71 ạ. ad chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.226284,
+         "id": "1012422",
+         "field_search": "question",
+         "question": "Em muốn hỏi là trên con Samsung j7 pro, em muốn chuyển ứng dụng từ bộ nhớ máy sang thẻ nhớ sd phảo làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.87327,
+         "id": "1142827",
+         "field_search": "question",
+         "question": "Mình đang xài j8. Cho mình hỏi là làm sao để chuyển ảnh cũng như là ứng dụng từ bộ nhớ điện thoại sang thẻ sd vậy ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.279266,
+         "id": "997754",
+         "field_search": "question",
+         "question": "QTV  giúp em cách chuyển ứng dụng từ bộ nhớ trong sang thẻ sd trên điện thoại htc 10 evo Em cảm ôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.73247,
+         "id": "999952",
+         "field_search": "question",
+         "question": "E dung Samsung J5 Prime, hiện máy gần hết dung lượng rồi e có chuyển các ứng dụng sang thẻ nhớ để có thêm dl nhưng mỗi lần cập nhật máy vẫn báo k đủ dung lượng.. giống như mấy ứng dụng k có đc chuyển vào thẻ SD hay sao ấy... nên máy ms báo k đủ dung lượng bộ nhớ ngoài hoài... Mong mấy a chị giúp e vs... !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.67118,
+         "id": "1001039",
+         "field_search": "question",
+         "question": "cho e hỏi máy lenovo A7000 sao cắm thẻ nhớ  SD 8G  vào nhận  xong 1 lúc sau lại báo là thẻ không dc hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.41613,
+         "id": "1157835",
+         "field_search": "question",
+         "question": "Realme c1 sao không chuyển dc ứng dụng qua thẻ sd vậyVà làm sao để chuyển",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.97184,
+         "id": "757981",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng Lenovo A7000, em cài đặt lại máy về dữ liệu gốc thì máy có hiện tượng giật, lag khi lướt web và pin hao nhanh giao diện hơi khác trước đó em có nâng cấp hệ thống lên s153. Thế em phải làm thế nao để hết giật?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.86893,
+         "id": "1002706",
+         "field_search": "question",
+         "question": "Mình dùng j2 prime. Tại sao chuyển ứng dụng Messenger từ bộ nhớ thiết bị qua thẻ SD thành công rồi mà bộ nhớ thiết bị vẫn còn lưu ứng dụng đó. Khắc phục sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.868202,
+         "id": "1157450",
+         "field_search": "question",
+         "question": "Ad cho  hỏi e dung oppo a71 bộ nhớ 16gb mà giờ dùng hết r k đủ có các nào chuyển các ứng dụng kia qua thẻ sd  ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.77214,
+         "id": "1155525",
+         "field_search": "question",
+         "question": "Xin cho mình hỏi muốn chuyển ứng dụng hoặc cài đặt ứng dụng sang thẻ nhớ SD của điện thoại Mobistar lai zumbo s 2017 phải làm sao ạ. Xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.752796,
+         "id": "1022562",
+         "field_search": "question",
+         "question": "Cho e hỏi đt M4 của e dù đã chuyển 1 số ứng dụng với game qua thẻ sd ui mà sao nó vẫn báo hết dung lượng lưu trữ là sao ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.503918,
+         "id": "1152050",
+         "field_search": "question",
+         "question": "Cách chuyển hình ảnh từ bộ nhớ máy sang thẻ sd trên điện thoại xiaomi redmi note 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.503918,
+         "id": "1020841",
+         "field_search": "question",
+         "question": "cách chuyển dử liệu từ bộ nhớ trong sang thẻ SD của điện thoại samsung Galaxy J7 pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.208324,
+         "id": "1013404",
+         "field_search": "question",
+         "question": "Mình mua thẻ cào rồi, chuyển khoản completed rồi nhưng mình vẫn chưa có mã thẻ. Lúc chuyển khoản xong hệ thống bảo đang error nên process bán hàng vẫn chạy còn thẻ thì vẫn chưa cấp được. Nhờ tgdd hỗ trợ giúp. 01654376354",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.695816,
+         "id": "1141304",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi , em thắc mắc ko biết bản cập nhật hệ điều hành android smartphone samsung do ai cung cấp ạ , như sony thì nsx sony cung cấp để nâng cấp thiết bị , còn nokia thì nhà sx sẽ gởi bản cập nhật cho hệ điều hành nokia để nâng cấp thiết bị , còn apple thì nhà sx gởi bản cập nhật thiết bị cho apple để hệ điều hành apple nâng cấp thiết bị , samsung , huawei , opple ... cũng như vậy . Vậy cho em hỏi , bản cập nhật thiết bị/hệ điều hành android smartphone của hãng đó do nhà cung cấp gởi qua smartphone mình để nâng cấp thiết bị/hệ điều hành đó phải ko ạ . Vậy bên ngoài có thể gởi bản cập nhật cho mình ko , như 1 trang web hay ứng dụng nâng cấp smartphone mình , mà bản nâng cấp đó ko phải do nhà sx cung cấp mà tự nó làm , liệu 1 trang web hay ứng dụng có thể nâng cấp smartphone mình ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.660458,
+         "id": "1139544",
+         "field_search": "question",
+         "question": "Chuyển ứng dụng qua thẻ SD trên điện thoại Vivo Y71",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.63173,
+         "id": "1010947",
+         "field_search": "question",
+         "question": "Hướng dẫn giúp em cách chuyển ứng dụng từ máy sàng thẻ sd của Nokia 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.42234,
+         "id": "1163290",
+         "field_search": "question",
+         "question": "Mn cho e hỏi là e đang dùng laptop asus win 10 bth e vừa chuyển xuống win 7 thì chuột không sd đc nữa mà lên win 10 vẫn sd bth",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.366962,
+         "id": "997909",
+         "field_search": "question",
+         "question": " Tôi muốn chuyển game sang thẻ sd phai lam sao vay tgdd? Toi dang dung asus zenpad c7.0  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.27482,
+         "id": "997943",
+         "field_search": "question",
+         "question": "mình đang dùng samsung j7 2015, mình chuyển ứng dụng sang thẻ SD nhưng chỉ 1 thời gian tất cả ứng dụng lại trở về bộ nhớ máy là sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.994812,
+         "id": "1150104",
+         "field_search": "question",
+         "question": "Em đang sài realme c1 nhưng không biết làm thế nào để chuyển ứng dụng sang thẻ SD nhờ ai giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.907696,
+         "id": "1166971",
+         "field_search": "question",
+         "question": "Em dùng samsung j4 khi chuyển ứng dụng qua thẻ nhớ sd chỉ chuyển được khoảng 30mb, làm sao để chuyển hết dữ liệu được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.580875,
+         "id": "1017908",
+         "field_search": "question",
+         "question": "Máy em Lenovo a7000 lúc trước thẻ nhớ hoạt động bình thường sao giờ khôi phục cài đặt gốc lại máy ko hỗ trợ thẻ SD sandisk là bị j vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.525158,
+         "id": "1151772",
+         "field_search": "question",
+         "question": "Cho mik hỏi cách chuyển ứng dụng game qua thẻ nhớ SD cho máy oppo a3s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.39495,
+         "id": "1140908",
+         "field_search": "question",
+         "question": "Cho em hỏi sao không thể di chuyển hình ảnh từ đt sang thẻ nhớ được . Với thẻ nhớ cũng không xóa hay di chuyển được ảnh ạ . Đt : ss galaxy a7 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.314075,
+         "id": "1003273",
+         "field_search": "question",
+         "question": "Mình đang dùng noka n5,minh muốn chuyển dữ liệu,ung dụng từ bộ nhớ máy sang thẻ sd thì làm cách nào...xin cám ơn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.284283,
+         "id": "1023734",
+         "field_search": "question",
+         "question": "Cách di chuyển ứng dụng từ máy sang thẻ nhớ của ss a5 2017 lm s ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.167324,
+         "id": "1000499",
+         "field_search": "question",
+         "question": "Cho hỏi cách di chuyển ứng dụng sang thẻ nhớ ss j2 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.097473,
+         "id": "916259",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi sử dụng ứng dụng messenger của fb chụp bằng camera sau thì chụp đc nhưng khi chuyển sang chụp selfie bằng camera trước lại ko chuyển sang đc. Vậy là do lỗi máy hay do lỗi phần mềm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.975334,
+         "id": "1149603",
+         "field_search": "question",
+         "question": "cho hỏi nokia 3 hệ điều hành Android 8.1 sao không thể sử dụng thẻ nhớ SD ngoài  làm bộ nhớ trong vậy .có phải là bị lỗi gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.97459,
+         "id": "743758",
+         "field_search": "question",
+         "question": " Asus zenfone go chuyển ứng dụng qua thẻ nhớ sd bằng cách nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.580334,
+         "id": "1160423",
+         "field_search": "question",
+         "question": "Làm sao chuyển từ bộ nhớ máy đến thẻ sd cho điện thoại oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.505344,
+         "id": "1135019",
+         "field_search": "question",
+         "question": "Cho mình hỏi nokia 5.1 plus có hỗ trợ chuyển ứng dụng vào thẻ SD không ạ? cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.49404,
+         "id": "1148342",
+         "field_search": "question",
+         "question": "Hiện mình có đang sử dụng một con Nokia 3. Mua và sử dụng từ năm ngoái đúng ra là tháng 12/2017. Lúc đấy thẻ SD 4GB cũ của mình vẫn còn sử dụng bình thường, chỉ gắn vào là nhận thẻ, đọc ghi bình thường. Nhưng hiện mình cần sử dụng thêm nhiều ứng dụng nữa nên đã mua một con SD 32GB khi gắn vào thì thẻ không tự nhận, kèm theo đó là mình không định dạng thẻ thành bộ nhớ trong của máy được, thêm cái nữa, sau khi mình gắn lại thẻ SD 4GB thì nó không nhận luôn. Mọi người cho mình xin hướng dẫn để sử dụng được thẻ SD với ạ, mình chật vật vài ngày nay với chuyện này rồi ạ. Xin cảm ơn.......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.454617,
+         "id": "1023553",
+         "field_search": "question",
+         "question": "Làm sao để chuyển ứng dụng qua thẻ nhớ SD cho Android Điện thoại Asus Zenfon Max",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.187546,
+         "id": "1024570",
+         "field_search": "question",
+         "question": "Cho e hỏi em dùng sony m4 khj truyền dữ liệu sang thẻ sd khi truyền rồi có bị mất hình ảnh và ứg dụg ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.991253,
+         "id": "1155282",
+         "field_search": "question",
+         "question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.966,
+         "id": "1155278",
+         "field_search": "question",
+         "question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.943264,
+         "id": "1145917",
+         "field_search": "question",
+         "question": "ac cho em hỏi, trên màn hình laptop của e có tự nhiên xuất hiện chấm tròn di chuyển liên tục, bàn chạm lai không chạm đc ạ, như chuột cấm vào thì sd đc nhưng di chuyển vẫn bị lỗi ạ, hiện tượng này thế nào ạ, cách khắc phục thế nào, laptop e có touchpad đc luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.905216,
+         "id": "1150383",
+         "field_search": "question",
+         "question": "nokia 3.1 plus không thể lưu trữ ứng dụng trên thẻ SD hay sao? tìm đủ chỗ r trong cài đặt và quản lý r nhưng không có chỗ nào cho chuyển ứng dụng qua thẻ sd cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.783485,
+         "id": "895818",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi. Hiện tại iphone nâng cấp điều bị lỗi hả. Iphone của e 5s. Phiên bản 8.3 muốn nâng cấp lên 10.0 mà k biết có nên k. Tại ms đọc đc thông tin là nâg cấp bị lỗi nên e cũg đag k biết có nên nag cấp hay k. Mog ad cho câu trl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.765194,
+         "id": "1164290",
+         "field_search": "question",
+         "question": "Cho em hỏi cách giải mã thẻ sd trên điện thoại đã khôi phục cài đặt gốc với ạ. Trước đó e có mã hóa thẻ sd trên điện thoại sau đó e khôi phục cài đặt gốc máy bây h muốn giải mã và khôi phục lại thẻ sd thì phải làm sao ạ. Máy e là samsung galaxy a8 2018. Mong anh chị giúp đỡ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.730865,
+         "id": "995103",
+         "field_search": "question",
+         "question": "Máy em là Mobiistar Laizoro2 ạ . Em muốn chuyển qua thẻ SD thì phải làm sao ạ . Dung lượng trống thì quá trời mà em chuyển kh được nên em kh tải được ứng dụng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.602276,
+         "id": "1161752",
+         "field_search": "question",
+         "question": "Điện thoại của e là MEIZU m3s, hiện tại máy của e bị root và k nâng cấp đc phần mềm( nếu nâng cấp thì p xóa dữ liệu), e muốn hỏi là có cách nào xóa root đi đc k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.57121,
+         "id": "1002639",
+         "field_search": "question",
+         "question": "Mình đang dùng máy tabA6 s585y,có thể chuyển ứng dụng từ bộ nhớ máy qua thẻ sd không ad ơi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.50926,
+         "id": "831872",
+         "field_search": "question",
+         "question": "Em muốn ra thế giới di dộng để nâng cấp từ hệ điều hành 7.1.2 lên 8.0 thì có tốn phí nâng cấp không ạ, hay được miễn phí ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.25315,
+         "id": "776740",
+         "field_search": "question",
+         "question": " Cách chuyển từ máy qua thẻ nhớ SD của mobell tab 8? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.97399,
+         "id": "1022418",
+         "field_search": "question",
+         "question": "Ad cho e hỏi lenovo vibe k5 plus thì chuyển ảnh từ điện thoại sang thẻ nhớ ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.73978,
+         "id": "1021377",
+         "field_search": "question",
+         "question": "Cho em hỏi là có thể đổi ứng dụng tải về từ bộ nhớ trong sang tải ứng dụng về bộ nhớ ngoài( thẻ sd) được ko ạ em dùng htc 10 evo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.575333,
+         "id": "1016109",
+         "field_search": "question",
+         "question": "e dùng đt samsung j5 2015, e mới mua thẻ nhớ 16g nhưng e k chuyển được sang chế độ lưu vào thẻ nhớ.Đt thì k còn dung lượng trống.Giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.482754,
+         "id": "1150453",
+         "field_search": "question",
+         "question": "Cho mình hỏi chiếc Realme C1 có khả năng chuyển ứng dụng từ máy sang thẻ nhớ được không ạ. Nếu không được thì có cách nào để chuyển sang thẻ nhớ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.301174,
+         "id": "1163815",
+         "field_search": "question",
+         "question": "A ơi lm sao chuyển ứng dụng từ điện thoại  Realme   sang thẻ nhớ đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.174694,
+         "id": "999638",
+         "field_search": "question",
+         "question": "E dùng epic x5 thì chuyển ứng dụng sang thẻ nhớ ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.897552,
+         "id": "1156024",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để chuyển các ứng dụng sang thẻ nhớ trên đt vivo v9 Lúc em vô ứng dụng chọn lưu trữ nó không có mục thay đổi nên em ko biết làm sao để chuyển sang thẻ nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.798836,
+         "id": "1006645",
+         "field_search": "question",
+         "question": "Cho e hỏi thẻ nhớ nó có hạn sd ko vậy sao sài dc có 1 năm mà ko sd dc nữa vậy hay là sài hàng lậu rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.755154,
+         "id": "1000632",
+         "field_search": "question",
+         "question": "ad cho mình hỏi!!!!mình sd đt sony experia Xa mà mình lỡ nâng cấp phiên bản android lên 7.0. Sau khi nâng cấp xong thì điện thoại mình thường bị đơ đơ ko biết làm cách nào để trở về như ban đầu hoặc là e có nên khôi phục cài đặt gốc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.73687,
+         "id": "1008515",
+         "field_search": "question",
+         "question": "Dạ chào ac, em hiện đang dùng dòng 7+ đc 1 tháng ah, nhưng trước đó đt ko hề có biểu hiện ngốn bin, từ khi nâng cấp lên 10.3.3 thì đt e ngốn bin nhiều hơn, tắt hết các ứng dụng chạy ngầm và ko dùng gì vẫn có thể tụt bin nhanh chóng... mong ac giải đáp giúp e trường hợp này do lỗi của hệ điều hành hay của máy ạ, e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.63736,
+         "id": "999083",
+         "field_search": "question",
+         "question": "dạ cho em hỏi hiện máy tính của e đang ở hệ điều hành window 7. giờ em muốn nâng cấp lên hệ điều hành mới nhất thì có bị mất phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.61768,
+         "id": "926024",
+         "field_search": "question",
+         "question": " 5s của e đang hệ điều hành 10.1 nhưng khi tải fb lại báo phải nâng cấp,giờ nâng cấp lên phiên bản bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.588554,
+         "id": "1155269",
+         "field_search": "question",
+         "question": "Mình dùng sam sung j8, sao không có ứng dụng nào có  thể chuyển qua thẻ sd vậy. Ssj8 không có hỗ trợ cho ứng dụng sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.3142,
+         "id": "1148216",
+         "field_search": "question",
+         "question": "Tình hình là máy em sắp hết dung lượng ở điện thoại. Và còn dư 7 gb trong thẻ sd. Nhưng em tải app thì về bộ nhớ đt chứ không sang thẻ sd. Làm sao có thể thay đổi vị trí lưu vậy ạ ?#Oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.274746,
+         "id": "1013216",
+         "field_search": "question",
+         "question": " Sao chuyển file video từ bộ nhớ thiết bị sang thẻ nhớ xem k được của đt huawei lựau22  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.227833,
+         "id": "992723",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi ip6+ của e bị lỗi có sọc trắng trên màn hình mà khi nó xuất hiện thì k di đc cảm ứng đó là do đâu và mất bn tiền nếu sửa e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.08827,
+         "id": "1139128",
+         "field_search": "question",
+         "question": "Mình sd đt samsung j2 pro 2018 mình sd zalo để đổi sdt từ 11 sang 10 số nhưng 1 thời gian thì danh bạ mình lại tự động chuyển thành 11 số như cũ là tại sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.056072,
+         "id": "1158901",
+         "field_search": "question",
+         "question": "Tại sao ứng dụng trên điện thoại oppo neo9 không hiển thị chỗ chuyển qua thẻ sd đã lắp thẻ nhớ rồi ?? Em camd ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.028084,
+         "id": "1005307",
+         "field_search": "question",
+         "question": "Ad cho hỏi. mình dùng j5. bộ nhớ đầy nên mình có gắn thẻ nhớ 8g vào. khi chuyển ảnh từ điện thoại sang thẻ nhớ thì toàn bộ ảnh bị lỗi hết k mở lên được. nhạc mp3 cũng bị lỗi k phát được. Giờ phải làm sao ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.7096,
+         "id": "774776",
+         "field_search": "question",
+         "question": " iPhone 3 lỗi không thể tải ứng dụng vào lúc này. có thể nâng cấp hệ điều hành ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.702686,
+         "id": "1020910",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để ngắt thẻ nhớ SD trước khi tháo gỡ trên Samsung galaxy j5 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.562828,
+         "id": "782166",
+         "field_search": "question",
+         "question": " ad cho e hỏi laptop dell nhà e sau khi nâng cấp lên win 10 bị lỗi mất con chuột cảm ứng e phải lam sao bây giờ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.52592,
+         "id": "1021334",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để chuyển nhạc từ tệp trong thẻ nhớ sang cái ứng dụng âm nhạc của máy z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.482594,
+         "id": "761787",
+         "field_search": "question",
+         "question": "Laptop asus của em bị hư ( chắc là lỗi hệ thống) không khởi động được, qtv cho em hỏi dữ liệu trong hai ổ đĩa D và E có bị mất không và nếu em mua máy mới thì có cách nào chuyển dữ liệu từ máy bị hư này sang máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.390274,
+         "id": "614699",
+         "field_search": "question",
+         "question": " làm sao để chuyển mạng dữ liệu di động đt từ chữ E sang H?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.36527,
+         "id": "1010034",
+         "field_search": "question",
+         "question": "Điện thoại có thẻ nhớ dùng hết bộ nhớ trong sao nó k chuyển qa thẻ nhớ sd vậy ad  Điện thoại Sony Xa Dual f3116",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

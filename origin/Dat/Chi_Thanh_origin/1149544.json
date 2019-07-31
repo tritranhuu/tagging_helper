@@ -1,0 +1,801 @@
+{
+   "id_query": "1149544",
+   "total": 31280,
+   "total_current": 100,
+   "max_score": 43.191685,
+   "origin_question": "Cho mình hỏi điện thoại oppo a37 có hỗ trợ OTG ko ạ",
+   "hits": [
+      {
+         "score": 25.056526,
+         "id": "1003572",
+         "field_search": "question",
+         "question": "Cho e hỏi dòng galaxy j5 2015 có hỗ trợ cáp otg ko ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.496973,
+         "id": "1004808",
+         "field_search": "question",
+         "question": "Adm kiểm tra giúp em điện thoại Huawei Y5 ll có hỗ trợ OTG không ạ??? nếu không hỗ trợ thì có cách nào để kết nối OTG không ạ?? Xin adm giúp em!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.071129,
+         "id": "818491",
+         "field_search": "question",
+         "question": " Máy điện thoại j7 có hỗ trợ USB OTG không QTV cho minh câu trả lời ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.82374,
+         "id": "1149567",
+         "field_search": "question",
+         "question": "Cho mình hỏi Oppo a37 có hỗ trợ HDMI không? có kết nối với TV được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.510548,
+         "id": "810033",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi là điện thoại oppo f1 có hỗ trợ gậy chụp ảnh không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.912718,
+         "id": "1014130",
+         "field_search": "question",
+         "question": "Máy mobiistar laizumbo s có hỗ trợ cáp otg không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.263468,
+         "id": "1164592",
+         "field_search": "question",
+         "question": "Cho em hỏi e sử dụng realms C1 có hỗ trợ otg.. và em gắn chuột và bàn phím và cáp OTG có thể sử dụng đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.242407,
+         "id": "1142129",
+         "field_search": "question",
+         "question": "Tôi đang sài điện thoại oppo r7 plus cho hỏi loại này có hỗ trợ MHL không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.050608,
+         "id": "1023844",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại J7 prime có hỗ trợ 4G không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.032719,
+         "id": "1145373",
+         "field_search": "question",
+         "question": "Sony L2 có hỗ trợ OTG không ạ... Nếu em muốn kết nối điện thoại với chuột và bàn phím thì mua cáp về gắn vô là xài phải không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.97692,
+         "id": "1143853",
+         "field_search": "question",
+         "question": "Dạ cho mình hỏi bên mình có hỗ trợ up rom cho điện thoại sky a870 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.630318,
+         "id": "996847",
+         "field_search": "question",
+         "question": "Mình dùng ip6s, mình muốn hỏi về cáp OTG có hỗ trợ được chuột và bàn phím cho máy không. Mong KTV tư vấn giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.609322,
+         "id": "1160432",
+         "field_search": "question",
+         "question": "pin và điện thoại oppo a3s có hỗ trợ sạc nhanh không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.6061,
+         "id": "1149145",
+         "field_search": "question",
+         "question": "Cho mình hỏi oppo a7 có hỗ trợ chiếu màn hình ĐT len tv samsung ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.578707,
+         "id": "1168754",
+         "field_search": "question",
+         "question": "Bên mình có hỗ trợ root cho điện thoại k ạ điện thoại zenfone max pro m1 ấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.197052,
+         "id": "850173",
+         "field_search": "question",
+         "question": " Đt mobistar lại yuna có hỗ trợ kết nối otg không vậy các.anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.836609,
+         "id": "996464",
+         "field_search": "question",
+         "question": "Shop mình có bán cáp OTG cho điện thoại thông minh không vậy ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.828468,
+         "id": "996179",
+         "field_search": "question",
+         "question": "Cho tui hỏi điện thoại oppo neo 7 có hỗ trợ mạng4G không cho biết cách cài đặt chuyển sang mạng 4G",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.802588,
+         "id": "994173",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi bên mình có hỗ trợ đổi điện thoại rồi bù trừ vào không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.798231,
+         "id": "1138961",
+         "field_search": "question",
+         "question": "Cho e hỏi, điện thoại Oppo F5 ko hỗ trợ hiện thông báo trên thanh trạng thái phải ko ạ? Chỉ khi nào mình trượt xuống thì mới biết đc có thông báo. ĐT e là phiên bản ColorOS V3.2. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.49888,
+         "id": "1024068",
+         "field_search": "question",
+         "question": "mua máy trong danh mục điện thoại cũ thì có hỗ trợ trả góp ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.437963,
+         "id": "1003243",
+         "field_search": "question",
+         "question": "nếu tháng 3 năm 2018 thì điện thoại oppo a37 còn bán ko ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.16963,
+         "id": "1020872",
+         "field_search": "question",
+         "question": "cho hỏi điện thoại Mobiistar LaiYuNaX có hỗ trợ tay cầm chơi Game Playstation không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.947754,
+         "id": "1008820",
+         "field_search": "question",
+         "question": "Cho hỏi bên mình có hỗ trợ cho vay tiền trả góp ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.934706,
+         "id": "1165083",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi? Điện thoại samsung a50 có hỗ trợ cây chụp hình khôg ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.927341,
+         "id": "1146499",
+         "field_search": "question",
+         "question": "Máy ảnh oppo a37 ko vào được đèn faf ko sáng xin hổ trợ à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.914185,
+         "id": "1134530",
+         "field_search": "question",
+         "question": "Mình dùng oppo a37 điện thoại cứ còn 6080 pin là sập nguồn tại sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.869207,
+         "id": "1164039",
+         "field_search": "question",
+         "question": "Oppo f5 youth có hỗ trợ sạc nhanh ko vậy adMà nếu có hỗ trợ thì củ sạc loại nào hỗ trợ sạc nhanh vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.750801,
+         "id": "1164061",
+         "field_search": "question",
+         "question": "bên mình còn hỗ trợ trả góp 0  không ạđiện thoại oppo f11 pro đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.724234,
+         "id": "1135935",
+         "field_search": "question",
+         "question": "Cho hỏi cửa hàng có hỗ trợ thay miếng dán màn hình điện thoại không ạ. Huawei 2i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.668406,
+         "id": "1142511",
+         "field_search": "question",
+         "question": "Sony xperia z3 verizon có hỗ trợ OTG không ạNếu có thì làm cách nào để kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.59211,
+         "id": "1024162",
+         "field_search": "question",
+         "question": "Cho hoi cách xoá mật khẩu màn Hình điện thoại oppo a37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.475073,
+         "id": "1023664",
+         "field_search": "question",
+         "question": "cho mình hỏi bên của hàng co dv hỗ trợ khách hàng chép danh bạ điện thoại từ android sang ios ko bạn 01687475109",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.44295,
+         "id": "1022527",
+         "field_search": "question",
+         "question": "Tôi mới mua Galaxy J7 Pro ở tgdđ cho hỏi dòng sản sẩn này có hỗ trợ kết nối loại USB and OTG không tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.262032,
+         "id": "1024024",
+         "field_search": "question",
+         "question": "Tgdd có hỗ trợ thay pin cho điện thoại sámung galaxy j5 2015 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.240437,
+         "id": "997211",
+         "field_search": "question",
+         "question": "cho em hỏi là bên mình có hỗ trợ thay pin chính hãng iphone 5s 16G không ạ? Điện thoại không phải mua tại tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.217663,
+         "id": "1157031",
+         "field_search": "question",
+         "question": "Mình muốn xóa cache trên điện thoại OPPO A37 mình phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.117523,
+         "id": "1168287",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi điện thoại vivo y91c không hỗ trợ tai nghe giờ em mua về xong gắn zo được ko  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.07039,
+         "id": "1023950",
+         "field_search": "question",
+         "question": " em mới mở cửa hàng điện thoại muốn nhập hàng bên thế giới di động có hỗ trợ ko ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.955729,
+         "id": "1164819",
+         "field_search": "question",
+         "question": "Xin chào, cho e hỏi bên mình có hỗ trợ mua lại điện thoại củ không ạ, đt này lúc trước e mua bên tgdd luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.924507,
+         "id": "1134587",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại LG G5 bên tgdd có hỗ trợ nâng cấp hệ điều hành androi 8 kg ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.82903,
+         "id": "1133715",
+         "field_search": "question",
+         "question": "cho e hỏi tgdd có hỗ trợ cài win cho laptop ko ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.760967,
+         "id": "855203",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi, iPhone 5s có hỗ trợ nhận chuột qua cáp otg không em có nhu cầu chơi game tập kích mong mọi người giải đáp ạ em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.757288,
+         "id": "1153655",
+         "field_search": "question",
+         "question": "Chào ad.cho Mình hỏi Thế Giới Di Động có hỗ trợ cài win 7 cho laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.747196,
+         "id": "1008746",
+         "field_search": "question",
+         "question": "ad ơi cho hỏi đt samsung galaxy j2 prime kết nối OTG ở đâu ạ mình cắm cổng OTG vào rồi chuột vẫn ko lên ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.731012,
+         "id": "1164787",
+         "field_search": "question",
+         "question": "cho e hỏi cửa hàng có hỗ trợ khôi phục lại dữ liệu trong điện thoại sam sung j3 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.572197,
+         "id": "1156085",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo neo5 mà nó ko hỗ trợ game Pubg, có cách nào giúp mình tải game đó về chơi được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.463058,
+         "id": "990314",
+         "field_search": "question",
+         "question": "Cho hỏi tgdd có hỗ trợ mua trả góp qua mcredit ko ạ. Mình mới nghe nói cái này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.457067,
+         "id": "1013715",
+         "field_search": "question",
+         "question": "Cho e hỏi? Máy tính bảng acer b1-723 có hỗ trợ OTG thì có thể xài dc chuột không dây hoặc có dây k qtv? Và xài dc những loại nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.455593,
+         "id": "1167262",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo a3s có hỗ trợ sạc nhanh được không 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.39585,
+         "id": "1141773",
+         "field_search": "question",
+         "question": "mình cần được gọi hỗ trợ về giá mua điện thoại galaxy j8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.389963,
+         "id": "1018347",
+         "field_search": "question",
+         "question": "Chào ad, cho hỏi mình dán keo điện thoại ở Điện Máy Xanh, nhưng mà bảo hành 3 tháng, nhưng chưa đầy 3 tháng, lớp keo nó bong tróc, vậy mình có được hỗ trợ dán lại ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.343544,
+         "id": "999190",
+         "field_search": "question",
+         "question": "Cho e hỏi là bên tgdd có hỗ trợ vay tiêu dùng ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.284386,
+         "id": "914465",
+         "field_search": "question",
+         "question": " Cho mình hỏi ứng dụng vav trợ lý ảo có hỗ trợ cho iphone không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.282814,
+         "id": "996804",
+         "field_search": "question",
+         "question": "Cho e hỏi oppo f1s 2016 có hỗ trợ 4g không ạ...và cách bật như thế nào? ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.23339,
+         "id": "1151601",
+         "field_search": "question",
+         "question": "mình có thể nhờ tgdd hỗ trợ up rom điện thoại xiaomi redmi 6a được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.141102,
+         "id": "1016672",
+         "field_search": "question",
+         "question": "Nếu điện thoại không hỗ trợ 4g thì mình nên mua loại sim 3g nào ạ? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.128643,
+         "id": "1133668",
+         "field_search": "question",
+         "question": "làm thế nào để ri sét lại điện thoại oppo a37. và sau khi cài lại dữ liệu gốc mấy có bị đơ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.120054,
+         "id": "953330",
+         "field_search": "question",
+         "question": "Mình có mua 1 điện thoại Samsung j7 prime trả góp tại tgdd lãi xuất 0% dc 10 ngày . Nhưng bây giờ mình muốn đổi cái j7 prime lên iphone 7 . Cho mình hỏi tại shop có hỗ trợ đổi ko ạ và bù tiền đổi có dc ko ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.108145,
+         "id": "988450",
+         "field_search": "question",
+         "question": "Cho mình hỏi thegioididong có hỗ trợ thanh toán bằng thẻ Visa ko?Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.04502,
+         "id": "1162281",
+         "field_search": "question",
+         "question": "Em dùng iphone 6s plus Cho em hỏi tgdd có hỗ trợ cập nhật ios 12.2  không ạ em mua máy bên ngoài có được hỗ trợ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.039368,
+         "id": "1008812",
+         "field_search": "question",
+         "question": "Làm thế nào để điện thoại oppo a37 chơi LQ đỡ lag Vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.004005,
+         "id": "998725",
+         "field_search": "question",
+         "question": "Muốn hiển thị tỉ lệ pin điện thoại oppo A37 thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.93426,
+         "id": "1010423",
+         "field_search": "question",
+         "question": "Em muốn đem điện thoại ra root tại đây có hỗ trợ phần này không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.869737,
+         "id": "993390",
+         "field_search": "question",
+         "question": "Tôi muốn mua cho con tôi 1 mẫu điện thoại bàn phím, có hỗ trợ thẻ nhớ nhưng không hỗ trợ lên mạng, tương đối bền tầm từ 300.000đ trở xuống xin Thegioididong tư vấn cho tôi điện thoại phù hợp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.8333645,
+         "id": "1004267",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi e có máy iPhone 5 có hỗ trợ 4g ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.799033,
+         "id": "1021812",
+         "field_search": "question",
+         "question": "vậy điện thoại mình mua trả góp tại tgdd được hỗ trợ không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.78357,
+         "id": "1003896",
+         "field_search": "question",
+         "question": "Cách đổi mã google SH lphay của điện thoại di động oppo a37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.774336,
+         "id": "1001031",
+         "field_search": "question",
+         "question": "ad cho em hỏi eGPU thường gắn cho laptop có hỗ trợ card rời vậy nó hỗ trợ khi gắn cho pc bàn ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.755341,
+         "id": "1142525",
+         "field_search": "question",
+         "question": "Làm cách nào để xóa bớt bộ nhớ hệ thống trên điện thoại oppo a37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.734664,
+         "id": "1165228",
+         "field_search": "question",
+         "question": "1/ Vsmart Joy 1 plus và Joy 1 có hỗ trợ Wifi Direct ko, và giải thích giùm mình Wifi Direct có phải dùng để chiếu màn hình điện thoại lên Tivi ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.73282,
+         "id": "1004888",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở đây có bán vs thay pin oppo a37 không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.714374,
+         "id": "1147286",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có cmnd gốc và hộ khẩu tỉnh photo gốc có công chứng nhưng vừa hết hạn 18/1 này thì có được hỗ trợ mua trả góp điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.691619,
+         "id": "1165910",
+         "field_search": "question",
+         "question": "Mình có đặt 1 điện thoại đơn hàng 27400433 tên Mai Phương. Mình muốn nhờ kỹ thuật viên giao để hỗ trợ cài đặt cho điện thoại luôn hộ mình. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.671783,
+         "id": "1006455",
+         "field_search": "question",
+         "question": "tôi có thể mở pin điện thoại oppo A37 như thế nào vui lòng chỉ giúp cho tôi để tôi lắp sim cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.653494,
+         "id": "795197",
+         "field_search": "question",
+         "question": "Cho mình hỏi tai nghe iphone 5s của mình mới mua cùng điện thoại nhưng bị đứt mất rồi, ở tgdđ có hỗ trợ bảo hành tai nghe không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.637454,
+         "id": "1166264",
+         "field_search": "question",
+         "question": "cho em hỏi là em mua điện thoại ở một chỗ khác nhưng em đem điện thoại ra thế giới di động để dán cường lực thì có hỗ trợ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.628191,
+         "id": "1011526",
+         "field_search": "question",
+         "question": "ad ơi cho minh hỏi TGDD có hổ trợ thay pin điện thoại galaxy Y ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.594082,
+         "id": "1004631",
+         "field_search": "question",
+         "question": "Chào Thế giới di động, Tôi muốn mua 1 chiếc điện thoại dành cho người cao tuổi, có hỗ trợ video call,Xin hỗ trợ tư vấn,Xin cảm ơn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.589289,
+         "id": "998637",
+         "field_search": "question",
+         "question": "Cho em hỏi là bên mình có hỗ trợ cài jaibreak không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.588493,
+         "id": "769826",
+         "field_search": "question",
+         "question": " Cho mình hỏi là không biết chỗ mình có hỗ trợ cài mấy chương trình như cad hay 3dmax ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.549673,
+         "id": "1001797",
+         "field_search": "question",
+         "question": "Mình muốn thay pin cho điện thoại xiaomi mi4 thế giới di động có hỗ trợ được không ạ .. nếu được thì thay vào khoảng bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.489357,
+         "id": "1014678",
+         "field_search": "question",
+         "question": " làm sao để tắt dấu chấm tròn màu trắng trên màn hình điện thoại oppo a37 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.479019,
+         "id": "996843",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo a37  a37fw với oppo a37 neo9 khac nhau ở điểm na",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.429701,
+         "id": "1020502",
+         "field_search": "question",
+         "question": "cho em hỏi em sd oppo a37 tự nhiên nó mất tiếng loa ngoài mà nó chuyển qua loa nghe điện thoại vậy máy có bị gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.41527,
+         "id": "1016644",
+         "field_search": "question",
+         "question": "Ad cho hỏi bên mình có hỗ trợ cài đặt các phần mềm văn phòng microsof office ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.383541,
+         "id": "1155334",
+         "field_search": "question",
+         "question": "Cho em hỏi xiaomi mi 8 lite có hỗ trợ sạc nhanh quick charge 3.0 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.331236,
+         "id": "1166421",
+         "field_search": "question",
+         "question": "chào AD cho mình hỏi SS A72018 có hỗ trợ sạc nhanh k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.300479,
+         "id": "1156402",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của em gọi cho người khác thì được còn người khác gọi cho em thì bị thuê bao ạ? Oppo A37 á???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.296262,
+         "id": "957552",
+         "field_search": "question",
+         "question": " Bên mình có hỗ trợ cài proshow producer ko qtv. để mình đem máy tới ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.293626,
+         "id": "1000261",
+         "field_search": "question",
+         "question": "Cho mình hỏi một chút.Mình đang sử dụng điện thoại HTC 820G+ điện thoại tự động bị tắt nguồn mở không lên sạc pin không thấy báo đèn. Nhờ bên mình hỗ trợ giúp mình. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.290094,
+         "id": "779750",
+         "field_search": "question",
+         "question": " Cho em hỏi qtv iphone 4s hỗ trợ 4g ko ạ.? Thank you tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.268145,
+         "id": "774737",
+         "field_search": "question",
+         "question": " Tôi đang dùng Oppo Neo 3 R831 xin hỏi có hỗ trợ 4G không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.261254,
+         "id": "1009181",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn bỏ biểu tượng KBs trên màng hình điện thoại APO A37 cần phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.232094,
+         "id": "845893",
+         "field_search": "question",
+         "question": "mình mua điện thoại oppo f1 nhưng tại sao máy không hỗ trợ phát video trực tiếp trên fb và một số tính năng khác nữa ạ, trong khi vẫn là hệ điều hành AR",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.229869,
+         "id": "996009",
+         "field_search": "question",
+         "question": "Cho e hỏi màn kính của oppo a37 có thể tháo ra đi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.225367,
+         "id": "1012674",
+         "field_search": "question",
+         "question": "em muốn cài game liên minh huyền thoại thì bên mình có hỗ trợ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.199371,
+         "id": "1168616",
+         "field_search": "question",
+         "question": "Cho hỏi máy cũ có hỗ trợ chuyển từ tỉnh khác về ko .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.178317,
+         "id": "871993",
+         "field_search": "question",
+         "question": " Cho em hỏi CPU vs Mainboard hỗ trợ DDR4 cắm Ram vs Card DDR3 có sao ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

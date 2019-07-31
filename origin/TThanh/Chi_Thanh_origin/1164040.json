@@ -1,0 +1,801 @@
+{
+   "id_query": "1164040",
+   "total": 30926,
+   "total_current": 100,
+   "max_score": 100.85688,
+   "origin_question": "Kĩ thuật viên cho em hỏi .   Em dùng Galaxy A6 từ khi máy cập nhật androi 9.0 xong . Từ khi đo sạc máy sao nóng ghe vậy .",
+   "hits": [
+      {
+         "score": 31.81618,
+         "id": "1163647",
+         "field_search": "question",
+         "question": "cho mình hỏi. samsung j7 plus sao không cập nhật lên androi 9.0 vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.74086,
+         "id": "1168170",
+         "field_search": "question",
+         "question": "ĐT A6+ đang cập nhật phần mềm ONE UI PIE 9.0. Khi cập nhập gần xong thì máy cứ hiện dòng chữ SAMSUNG. MÌnh phải làm sao đây Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.855902,
+         "id": "1164486",
+         "field_search": "question",
+         "question": "Galaxy a6 sau khi cap nhat androi 9.0 . Muốn chay đa nhiem làm ntn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.606728,
+         "id": "1166114",
+         "field_search": "question",
+         "question": "Cho em hỏi J6 khi nào mới cập nhật Android 9.0 vậy ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.7544,
+         "id": "1160505",
+         "field_search": "question",
+         "question": "Trước khi cập nhật mình dùng android 8.0 rất ổn định, máy chỉ nóng khi chơi các game nặng từ 2Gb trở lên. Sau khi cài bản cập nhật android 9.0 thì có vấn đề, mình chỉ lướt facebook hay chỉ xem video trên youtube thôi máy đã rất là nóng rồi nên mình không dám chơi game nữa, mình có thể khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.513515,
+         "id": "1152765",
+         "field_search": "question",
+         "question": "Bạn em xài J7 Prime hệ điều hành được cập nhật lên 9.0 vậy tại sao A6 Plus không có thông báo cập nhật ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.400452,
+         "id": "1153119",
+         "field_search": "question",
+         "question": "Shop ơi em dùng điện thoại Nokia 5 mua ở TGDD.. sau khi em cập nhật lên Android 9.0 thì không hiểu sao pin hết rất nhanh..trong khi lúc chưa cập nhật thì rất trâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.702139,
+         "id": "955962",
+         "field_search": "question",
+         "question": "Cho em hỏi cập nhật từ ios 7.1.2 lên 8 được không ạ .... Máy em không yêu cầu cập nhật nhưng vào tải game thì yêu cầu cập nhật cho em hỏi phải làm sao để cập nhật... Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.519495,
+         "id": "1144465",
+         "field_search": "question",
+         "question": "Em sài samsung j7 prime nhưng từ khi cập nhật phần mền lại thì không còn mượt nữa . Cho em biết tại sao bị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.457937,
+         "id": "894417",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi. Máy laptop asus mới mua khi tắt máy để cập nhật và tắt máy, em chọn cập nhật và tắt máy sao lâu quá vậy. Em xảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.195316,
+         "id": "1157174",
+         "field_search": "question",
+         "question": "Điện thoại em bị lỗi từ khi cập nhật lên androi 8 bây giờ điều khiển vào màn hình không được chỉ điểu khiên mấy phím cứng được thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.186857,
+         "id": "764824",
+         "field_search": "question",
+         "question": "Thế giới di động cho em hỏi, em dùng iPhone 4S lúc trước chạy iOS 8.4.1. Hôm kia em cập nhật nó lên iOS 9.2 và rất hao pin. Trước khi cập nhật thì pin dùng được hơn 1 ngày mới phải sạc. Cập nhật xong thì pin dùng không tới một ngày. Em muốn hỏi là giờ em muốn hạ firmware xuống 8.4.1 lại thì bên Kỹ thuật của mình có hỗ trợ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.075363,
+         "id": "1140651",
+         "field_search": "question",
+         "question": "Cho  em  hỏi  máy  oppo A37 của  em  mất  chế  độ  chuyển  camera  trước  chỉ  dùng  được  mỗi  sau  ,từ  khi  cập  nhật  mới  ,em  đã  thử  xoá  dữ  liệu  camera  k  được  ,và  khôi  phục  cài  đặt  gốc  cũng  k  được  ....vậy  em  phải  làm  sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.03768,
+         "id": "784466",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5s khi chưa cắm sạc thì hiện 14% nhưng sau khi sạc máy thì máy lại hiện đang sạc 18%. Đây mới là lần thứ 2 sạc pin cho máy kể từ hôm mua về. Như vậy là làm sao thế QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.034348,
+         "id": "1154802",
+         "field_search": "question",
+         "question": "Samsung a9 hàng mới mua từ thế giới di động, khi sạc pin máy bị nóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.896488,
+         "id": "822555",
+         "field_search": "question",
+         "question": " Tại sao khi sạc pin trên galaxy j7 thì lại nóng máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.832224,
+         "id": "997665",
+         "field_search": "question",
+         "question": "Chào ad, Cho em sử dụng điện thoại Grand Prime G531, Androi 5.1.1, điện thoại báo cập nhật phần mềm, em đã vào cập nhật rồi khi máy khởi động lại khoảng 3 phút sau lại báo cập nhật nữa và hiện tại em đã cập nhật 3 lần rồi nhưng vẫn báo cập nhập. Vậy em phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.545973,
+         "id": "1139356",
+         "field_search": "question",
+         "question": "AD CHO em hỏi em dùng đt samsung galaxy A6. Khi sạc đt báo nhiệt độ thấp k sạc đc. Cách khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.234402,
+         "id": "1158302",
+         "field_search": "question",
+         "question": "cho mk hỏi khi mới mua honor play về là hãng tự cập nhật hệ điều hành emui 9.0 sẳn rồi hay là phải tự cập nhật thủ công vậy?và khi cập nhật lên emui 9.0 rồi có xảy ra lỗi phần mền hay lỗi gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.190739,
+         "id": "996099",
+         "field_search": "question",
+         "question": "Sony x cập nhật lên androi 7.0 có nóng như trước không vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.100428,
+         "id": "1159584",
+         "field_search": "question",
+         "question": "Mình có y91c mới đã có bản cập nhật, vậy có nên cập nhật hay ko, cập nhật khi máy đag sạc có làm sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.644337,
+         "id": "1144254",
+         "field_search": "question",
+         "question": "Emui 9.0 của Huawei khi nào cập nhật cho nova 3i ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.62907,
+         "id": "1154857",
+         "field_search": "question",
+         "question": "Add ơi! Cho mình hỏi máy galaxy s8 của mình chính hãng sao vô cập nhật thủ công mà vẫn chưa có android 9.0 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.41287,
+         "id": "1019965",
+         "field_search": "question",
+         "question": "J700H samsung j7 2015 khi nao mới có bản cập nhật androi 7.0 nought vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.212452,
+         "id": "1009038",
+         "field_search": "question",
+         "question": "Bên kĩ thuật mình cho em hỏi với ạ, cái chương trình test độ chai pin này có chính xác không ạ? Máy em mới mua chưa được 1 tháng, 3 lần đầu đã xả-sạc 8-10 tiếng, em luôn dùng nguồn AC khi dùng máy. Mà giờ em test nó chai 7% pin, quá kinh khủng...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.961044,
+         "id": "1000064",
+         "field_search": "question",
+         "question": "e đang dùng galaxy note 3 LTE. sáng nay máy bị lỗi nên e phải up lại ROM nhưng sau khi up xong thì máy k kết nối đc 4G nữa. bộ phận kĩ thuật có thể hỗ trợ e fix lỗi này được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.949387,
+         "id": "1147865",
+         "field_search": "question",
+         "question": "Cho em hỏi: em mới mua hưawai y9 về máy bắt cập nhật phiên bản mới. Em có nên cập nhật không ạ? Nếu cập nhật xong thì máy có lỗi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.879618,
+         "id": "1158486",
+         "field_search": "question",
+         "question": "Máy a6 của em sau khi cập nhật thì cấu hình với thanh điều hướng khác bây giờ làm s để như cũ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.819864,
+         "id": "835833",
+         "field_search": "question",
+         "question": "Cho em hỏi sao mỗi khi em sạc iPhone 4 thì máy nó nóng cũng về đây sạc cũng bị nóng luôn không biết cái này có phải bị hư pin không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.805063,
+         "id": "1138488",
+         "field_search": "question",
+         "question": " Cho em hỏi nhân viên Kỹ Thuật của TGDD có thể hạ hệ điều hành Android 9.0 xuống Android 8.1 không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.802198,
+         "id": "999787",
+         "field_search": "question",
+         "question": "Ad cho mình hổi galaxy a7 2017 có thể lên android 7 chưa ạ, hôm qua mình có bản cập nhật mình cập nhật s vẫn là 6.0.1 khi nào mỡi có androi 7 vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.701683,
+         "id": "1007671",
+         "field_search": "question",
+         "question": "cho e hỏi e dùng máy galaxy s3 sau khi root máy xong khởi động lại máy nó lag vậy cho e hỏi làm sao để khắc phục ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.681776,
+         "id": "888590",
+         "field_search": "question",
+         "question": " em vừa mua iphone 6s khi sạc pin thì máy nóng lên khi gần được 100 pin vậy thì có sao không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.672626,
+         "id": "1146874",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi sao con j6 em sạc lâu quá em cắm từ 20% lên 100% mất 3 tiếng . Em xài 2 sim và khi sạc kh bật chế độ máy bay.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.541761,
+         "id": "1018784",
+         "field_search": "question",
+         "question": "phần mềm từ điển trong máy tính do bộ phận kĩ thuật cài đặt lúc mới mua nằm ở đâu và tên là gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.52009,
+         "id": "1158492",
+         "field_search": "question",
+         "question": "Chào anh chị.Anh chị cho em hỏi vấn đề này ạMáy em a7 2018 128GB hệ androi 8.0 nay em cập nhật lên androi 9 pie. Tuy nhiên sau khi cập nhật xong thì 4G chạy với tốc độ không tưởng, thua con rùa bò thôi ạ. Anh chị giải thích giùm em.Và nếu như thế mình có hạ xuống androi 8.0 được k ạ.Mấy ngày nay em điên lắm. Có đăng ký gói cước mạng mà dùng không được.Thank anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.414047,
+         "id": "992911",
+         "field_search": "question",
+         "question": "Chào các mod và qtv của tgdđ.Em đang dùng con ipad air 2, em muốn hỏi là sao cứ sạc pin chỉ khoảng 2phút là đầu sạc nối vào ổ cắm và đầu nối vào máy rất nóng??? Đây là do sạc hay do máy của em.  Nó nóng như vậy có bị hỏng sạc,chảy dây sạc hay hỏng máy không? Có cách nào làm cho nó không nóng khi sạc pin được không. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.286627,
+         "id": "874912",
+         "field_search": "question",
+         "question": " Cho em hỏi khi sạc iphone 6s củ sạc bị nóng là bị sao ah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.26537,
+         "id": "1158667",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi tại sao máy oppo f1s của em phiên bản cũ thì không sao nhưng vừa cập nhật phiên bản mới nhất thì máy nóng cực và tụt pin không phanh. Mong ad cho em xin cách khắc phục, em đã thử tắt hết ứng dụng chạy ngầm nhưng khi bật mạng hay wifi là máy bắt đầu nóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.256819,
+         "id": "864304",
+         "field_search": "question",
+         "question": " Thay mặt kính màn hình iphone 4 giá bao nhiêu vậy nhân viên kĩ thuật ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.107964,
+         "id": "782290",
+         "field_search": "question",
+         "question": "Mấy anh kỹ thuật ơi cho em hỏi, em đang xài cái iPhone 5S iOS 8.4.1 mà máy kêu em cập nhật phần mềm iOS 9.1 không biết cập nhật phần mềm này máy chạy ổn định không vậy mấy anh? Em sợ nó bị lag!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.04339,
+         "id": "1005088",
+         "field_search": "question",
+         "question": "Chào anh , chị kĩ thuật viên . Em dùng laptop Dell 3552 , window10 creator . Khi em reset lại máy thì nó vẫn chạy bình thường . Một lúc sau nó hiện ra cái bảng .Em bấm vào Close thì nó lại hiện ra như hình bên dưới . Lỗi reset như v phải sửa s ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.022346,
+         "id": "998334",
+         "field_search": "question",
+         "question": "Mình vừa mua máy samsung galaxy tab a6 hnay xong, sao cứ mỗi khi khóa man hình rồi bật lại thì có wifi nhưng ko truy câpk đc vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.995548,
+         "id": "1022999",
+         "field_search": "question",
+         "question": "Em mua máy A5 2017 tại TGDD gần 1 tháng nay. Em sạc máy có hiện tượng nóng máy. các ứng dụng...wifi. 3G em đều tắt . Vậy máy có sao ko ad . Sạc vào điện nhah mà nóng quá . Em dùng sạc theo máy luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.971777,
+         "id": "1158127",
+         "field_search": "question",
+         "question": "Muốn hạ cập nhật phần mềm từ android 9 xuống android 8 ore samsung a6 plus được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.905735,
+         "id": "871469",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là máy tính em là dell win 10, mới cài win 10 xong thì ngày hôm sau máy nóng, mặc dù đã tắt máy nhưng pin thì cứ hết mặc dù đã sạc đầy. Hiện giờ thì máy không còn nóng như lúc mới cài win 10, em đã thử sử dụng máy mà ko gắn pin, dùng xong tắt máy thì ko vấn đề gì. Khi gắn pin đã sạc đầy vào sử dụng song song với nguồn điện thì cũng ko vấn đề gì. Nhưng khi tắt máy xong để qua 1 đêm thì sáng hôm sau mở máy lên thì máy hết pin... Máy tính em bị vấn đề gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.862198,
+         "id": "997454",
+         "field_search": "question",
+         "question": " Cho em hỏi vì sao máy em sạc hay bị nóng vậy ? Với ở đây có bán sạc Sony Z1 không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.734837,
+         "id": "1157920",
+         "field_search": "question",
+         "question": "Cho em hỏi lên emui 9.0 có ứng dụng đễ đo chiều dài là gì a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.708942,
+         "id": "968558",
+         "field_search": "question",
+         "question": "em dùng ip 5s, máy khi không dùng thì tự sụt pin rồi hết pin, máy nóng ở phần nút home làm mất cảm biến vân tay. Cho em hỏi máy bị vậy pahir làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.6483,
+         "id": "1160268",
+         "field_search": "question",
+         "question": "Đt A50 của e sao khi sạc máy và sạc đều nóng vậy  báo pin yếu mới sạc và khi sạc thi không sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.620478,
+         "id": "1163477",
+         "field_search": "question",
+         "question": "Em mua Xiaomi mi 8 lite, khi máy còn chạy android 8.1 thì chơi game bình thường, nhưng từ lúc cập nhật lên android 9 khi đang chơi liên quân thì nhiều lúc cứ bị mất mạng dù wifi có mỗi máy em dùng, còn chơi các trò khác thì cứ hay văng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.588345,
+         "id": "1155801",
+         "field_search": "question",
+         "question": "Em đang dùng xiaomi mi8 lite và em đã cập nhât phiên bản androi 9.0 . Em muốn cho may e quay vê bản 8.1 thì phải làm sau . Mong ad giúp đơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.569754,
+         "id": "1018786",
+         "field_search": "question",
+         "question": "phần mềm từ điểm trên máy tính do bộ phận kĩ thuật cài đặt lúc mới mua có tên là gì và nằm ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.569727,
+         "id": "1000342",
+         "field_search": "question",
+         "question": "cho em hỏi em đang sử dung điện thoại sam sung j2 prime em vừa mới cập nhật phần mềm từ androd 6.0 lên 6.0.1 như vậy có ảnh hưởng gì đến máy k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.492968,
+         "id": "1151049",
+         "field_search": "question",
+         "question": "chiếc nova 3i của e sau khi được cập nhật emui 9.0 thì mất chức năng face unlock là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.48725,
+         "id": "1156641",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro tại sao khi sạc lại có hiện tượng máy nóng. Và cục sạc cũng nóng vậy. Tôi ko có sài óp cho máy. Cách nào để khắc phục vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.471855,
+         "id": "784207",
+         "field_search": "question",
+         "question": " sau khi tôi cập nhật 8.1 xong rồi nhưng ko dùng được camera cho hỏi làm thế nào để dùng camera ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.445309,
+         "id": "1013178",
+         "field_search": "question",
+         "question": "cho em hỏi sao điện thoại samsung J7 pro của em khi pin còn khoảng 20 đem sạc thì máy bắt đầu nóng lên ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.42804,
+         "id": "997416",
+         "field_search": "question",
+         "question": " Cho em hỏi vì sao máy em sạc hay bị nóng vậy ? Với ở đây có bán sạc Sony Z1 không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.425772,
+         "id": "999290",
+         "field_search": "question",
+         "question": "Cho e hỏi, tại sao khi e cập nhật PC thì loa máy tính lại bị nhỏ vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.414366,
+         "id": "891410",
+         "field_search": "question",
+         "question": "Xin đươc hỏi. Sau khi tôi cập nhật ios10 cho ipad air2 thi may không tải đươc ứng dụng từ app store và không xóa được ứng dụng. Xin hỏi là tại sao? Tôi đã khởi động lại máy nhưng vẫn vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.380928,
+         "id": "802555",
+         "field_search": "question",
+         "question": "Add cho em hỏi: máy em là iPhone 5s nhưng em cứ sạc pin đầy mà không dùng pin cũng hết rất nhanh, mà khi sạc thì máy rất nóng. Trước thì máy em nếu không dùng thì vẫn để được sang ngày hôm sau. Vậy có cách nào khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.333694,
+         "id": "1160562",
+         "field_search": "question",
+         "question": "Dt ss a6 tự nhiên cập nhật phần mềm giao diện mới để trở về giao diện trc khi cập nhật pải lm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.333055,
+         "id": "895733",
+         "field_search": "question",
+         "question": "em xài 6+ cục sạc và dây sạc của máy luôn mà sao khi sạc máy không nóng mà cục sạc rất nóng ạ mà pin vô chậm hơn là e sử dụng cục sạc ipad để sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.209284,
+         "id": "1160431",
+         "field_search": "question",
+         "question": "tôi mới chỉ mua máy đc 2 tuần và  sau khi tôi sạc máy điện thoại realme C1 xong thì từ khi đó nó không bật được màn hình lên nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.199808,
+         "id": "874313",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu mình xoá bản cập nhật như hình vẽ thì máy sẽ như thế nào vậy add? Sau khi xoá điện thoại sẽ chạy bản cập nhật bao nhiêu??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.007015,
+         "id": "1162821",
+         "field_search": "question",
+         "question": "Ip 6s của mình sạc khoảng đến 89% thì sạc nóng và máy ấm nóng , mình có để ứng dụng chạy ngầm khi sạc vậy máy hiện tượng này có sao k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.929008,
+         "id": "1023624",
+         "field_search": "question",
+         "question": "xin cho tui hỏi là j7 prime sau khi up lên androi 7 thì không đổi ngôn ngữ từ việt sang anh được. Vậy phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.896992,
+         "id": "1160723",
+         "field_search": "question",
+         "question": "Cho em hỏi đt của em là samsung j6 được mua tại thegioididong mà sau khi em cập nhật lên android 9.0 P thì có dấu hiệu pin ảo thì có được bảo hành không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.873478,
+         "id": "991464",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi . Mình có dùng ip 7plus khi sạc pin củ sạc rất nóng , thân máy không bị nóng. Nguyên nhân do đâu , có phải củ sạc bị lỗi asy k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.856504,
+         "id": "1154740",
+         "field_search": "question",
+         "question": "Em có cài đặt ứng dụng driver booster 6.3 sau đó cập nhật driver cho máy. Sau khi cập nhật xong thì máy em bị mất mạng, mất âm thanh, chuột không di chuyển được và em cũng không biết còn bao nhiêu lỗi nửa nhưng trước mắt có 3 lỗi nghiêm trọng như v. Dùng trình tự sửa lỗi của máy cũng không fix được. Trước khi cập nhật driver em không sao lưu driver nên không quay về bản cũ được giờ lại không có mạng nửa. Có cách gì để giúp em không ạ. Em cám ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.842525,
+         "id": "869260",
+         "field_search": "question",
+         "question": "cho em hỏi là khi cập nhật xong ios 9.3.3 thì nó bắt nhập tài khoản icloud nhưng em quên pass nên đã bỏ qua có làm sao không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.823582,
+         "id": "766389",
+         "field_search": "question",
+         "question": "cho mình hỏi khi ứng dụng cùa iphone của khách hàng sao lưu với itunes của nhân viên kĩ thuật mà không có ứng dụng đó thì sao trên ip lại không bị mất ứng dụng đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.767508,
+         "id": "1002662",
+         "field_search": "question",
+         "question": "Anh chị kỹ thuật viên cho em hỏi, em đang dùng máy dell inspiron 15. Máy của em bị treo thanh taskbar, em phải khắc phục như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.729853,
+         "id": "1155793",
+         "field_search": "question",
+         "question": "Mình muốn gỡ phiên bản cập nhật mới của A7 có được k ạ? Vì sau khi cập nhật máy dùng rất nhanh hết pin và sạc thì lại rất lâu đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.718445,
+         "id": "872420",
+         "field_search": "question",
+         "question": " không thể tải xuống cập nhật cho LINE.Lỗi truy xuất thông tin từ máy chủ     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.673075,
+         "id": "1023109",
+         "field_search": "question",
+         "question": "Galaxy j7 prime khi nào mới cập nhật lên android 7 vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.645792,
+         "id": "1008697",
+         "field_search": "question",
+         "question": "Em bị mất phiếu hẹn bảo hành củ sạc ip bên kĩ thuật có liên lạc để lấy sạc mà em làm mất phiếu thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.6414,
+         "id": "858356",
+         "field_search": "question",
+         "question": " Máy e iphone5 cập nhật từ IOS7 lên IOS 9 mãi ko dc   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.638985,
+         "id": "1156880",
+         "field_search": "question",
+         "question": "Dạ máy em( huawei y7 pro 2018) nó bất em cập nhật sao khi em cập nhật máy nó mất tiếng hết ạ đeo tay nghe vào vẫn ko nghe tiếng Giúp em đc ko a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.638605,
+         "id": "1015294",
+         "field_search": "question",
+         "question": "Em mới mua galaxy a7 đổi trả 1 tuâgn mà sạc bị lỏng từ lúc mua. Hết pin sạc lại thì máy báo cần dùng đúng phụ kiện của máy , rồi lại báo sạc chậm. Em sạc 2 tiếng mới đầy pin ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.596928,
+         "id": "922694",
+         "field_search": "question",
+         "question": "Cho em hỏi . E xài ip6s plus sau khi cập nhật IOS 10.1.1 xong . Thì máy em bị mất hết tất cả danh bạ . Khi em lưu lại danh bạ mới thì tiếp tục lại bị mất . E không biết làm sao ? Xin tl sớm giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.595022,
+         "id": "1136772",
+         "field_search": "question",
+         "question": "Cho em hỏi.tại s em mới cập nhật androi 9.khi len web xem phim lại hiện thanh điều hướng mà k mất đi như lúc trước ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.573175,
+         "id": "1021015",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao khi down video từ cốc cốc về máy khi xem lại thì âm thanh và hình ảnh không khớp nhau ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.565948,
+         "id": "1161458",
+         "field_search": "question",
+         "question": "Cho e hỏi.máy của e là samsung galaxy j8.thường thì lâu lâu máy báo cập nhật phần mềm,mỗi lần cập nhật xog thì cũng k có khác j,nhưg hôm nay sao e cập nhật xong thì giao diện của máy khác quá z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.501694,
+         "id": "820914",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em rất nóng khi em mới sử dụng 3G còn sử dụng wifi thì không bị sao vậy cho em hỏi bị sao ạ.máy em mới bật 3G khoảng 2phut thì nó nóng ran luôn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.411161,
+         "id": "751149",
+         "field_search": "question",
+         "question": " Chào anhchị, cho em hỏi laptop sony sao khi cập nhật win 8.1 lại bị lỗi màn hình xanh vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.39037,
+         "id": "1022879",
+         "field_search": "question",
+         "question": "Cho mình hỏi :\" Khi mới mua về mình sử dụng ứng dụng google map rất tốt, chỉ đường rất đúng. Nhưng từ khi cập nhật phiên bản mới thì định vị sai và chỉ đường thì lung tung cả. Mình đang dùng J7 Prime . Vậy lỗi do máy hay do phiên bản vậy. Xin cảm ơn\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.38477,
+         "id": "1002552",
+         "field_search": "question",
+         "question": "Em đang dùng con J7 prime. em sạc máy từ 11h đêm tới 7h sáng. như vậy có ảnh hưởng gì tới pin của máy không ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.369207,
+         "id": "1159248",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài dam sung a6 vâcn bào game bình thường,sao tối wa cập nhật phần m xong thì k vào game đc nữa là sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.277962,
+         "id": "1166325",
+         "field_search": "question",
+         "question": "Mình đang dùng galaxy a5, sau khi cập nhật phần mềm thì máy khởi động lại liên tục. Cho mình hỏi máy bị lỗi gì và cách khắc phục như thế nào ạ?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.24218,
+         "id": "760664",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính em khộng bắt được wifi. không biết bị lỗi hay kiểu gì nữa. anh chị trong kĩ thuật biết không giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.19395,
+         "id": "996036",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua máy tab a6 gần 1 năm nhưng gần nữa tháng nay khi em tắt máy rồi mở máy lại khi mở máy thì máy đứng không bấm được sau đó máy tự tắt rồi mở lại mới xài được nhưng thời gian mở lại khá lâu vậy cho em hỏi là máy có bị sao ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.187551,
+         "id": "819334",
+         "field_search": "question",
+         "question": "Em dùng iphone5 danh bạ của em tự cập nhật những số từ facebook vào danh bạ cho em hỏi làm thế nào để xoá mà ko ảnh hưởng đến danh bạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.184341,
+         "id": "785695",
+         "field_search": "question",
+         "question": "Cho tôi hỏi 5s của tôi nhiều lúc bị loạn cảm ứng, tôi mua không mua máy ở TGDĐ vậy tôi mang máy đến nhân viên kĩ thuật sửa được không ạ (tôi có trả tiền sữa chữa)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.157066,
+         "id": "839446",
+         "field_search": "question",
+         "question": "Laptop em hệ windows 8.1 khi tắt máy máy hiện đang cài đặt cập nhật.... Máy bị như vậy phải làm sao để tắt máy ạ? Ad giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.031736,
+         "id": "778040",
+         "field_search": "question",
+         "question": "Các anh ơi cho em hỏi máy iPhone của em vào phần cài đặt chúng ấn vào cập nhật phần mềm sao nó cứ ghi là đang kiểm tra cập nhật mãi chả ra bản cập nhật nào là sao các anh máy em iPhone 4 dùng iOS 6.1.3 muốn lên iOS 7?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.026346,
+         "id": "1138073",
+         "field_search": "question",
+         "question": "vui lòng cho em hỏi, em muốn đổi ngôn ngữ khi soạn văn bản từ tiếng việt sang tiếng trung thì chuyển làm sao trên  galaxy a7 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.018993,
+         "id": "1135808",
+         "field_search": "question",
+         "question": "Mình đang sử dụng chiếc huawei 3i, nhưng khi sạc thì máy thấy rất nóng, rút sạc ra thì máy bình thường. Cho hỏi sạc như thế có bị hư máy không?. Cã máy và củ sạc đều nóng",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "797914",
+   "total": 33626,
+   "total_current": 100,
+   "max_score": 197.48183,
+   "origin_question": "Em đang cần mua laptop phục vụ cho nhu cầu học tập...em học ngành kỹ thuật điện chủ yếu là các phần mềm mô phỏng và đồ họa như: autocad, matlab, simulink,...có một số phần mềm hơi nặng tầm 8-10GB ...tầm giá khoảng 12-13 triệu, có bàn phím số càng tốt...nhờ mọi người tư vấn giúp em ạ!!! em cảm ơn!!!",
+   "hits": [
+      {
+         "score": 78.85215,
+         "id": "877925",
+         "field_search": "question",
+         "question": " a ơi em có nhu cầu mua máy giá tầm 12 triệu yêu cầu đồ họa vì e phải xài các phần mềm như cad nhiềua tư vấn giúp e cái ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.8113,
+         "id": "903854",
+         "field_search": "question",
+         "question": "Em đang là sv năm 2 đang có ý định mua 1 chiếc laptop để phục vụ học tập. Em định mua chiếc lap dell 3558 core i5 vga 2g. Vậy cho em hỏi là chiếc lap này có thể chạy tốt các phần mềm như ps,ai hay một số phần mềm đồ họa khác không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.45675,
+         "id": "915202",
+         "field_search": "question",
+         "question": "E là sinh viên học ngành kế toán. E đang có ý định mua laptop để phục vụ cho việc học của mình. E chủ yếu chỉ sử dụng một số phần mềm của kế toán nên k cần máy có cấu hình mạnh. Xin TGDĐ tư vấn giúp e nên mua của hãng nào là tốt ạ. E xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.14924,
+         "id": "1007605",
+         "field_search": "question",
+         "question": "tư vấn giúp em mua laptop phân khúc 20-25 triệu để học tập và có thể chơi 1 số tựa game như liên minh,... nhu cầu chính của em vẫn là học",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.741447,
+         "id": "890286",
+         "field_search": "question",
+         "question": "Em có nhu cầu mua laptop dell tầm dưới 13 triệu. mục đích của e chuyên code ( e học cntt) thỉnh thoảng photoshop . Tư vấn giùm e với ạ . máy càng nhẹ càng tốt ạ ( mang đi lại cho tiện ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.54086,
+         "id": "897639",
+         "field_search": "question",
+         "question": "Em đang muốn mua laptop tầm 15 triệu đổ lại để học trong 3 năm cấp 3 và đại học. Em tính học sư phạm hoặc ngoại ngữ nên mọi người tư vấn giúp em. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.17064,
+         "id": "1009867",
+         "field_search": "question",
+         "question": "em là tân sinh viên học chuyên ngành kinh doanh đang có nhu cầu muốn mua laptop trong tầm từ 10tr-15tr. mong anh/chị có thể tư vấn giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.10838,
+         "id": "1023791",
+         "field_search": "question",
+         "question": "Tư vấn giúp mình mua máy tính tầm dưới 7 triệu phục vụ học tập online cấp 3 và đại học",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.292477,
+         "id": "1008590",
+         "field_search": "question",
+         "question": "Em sắp vào đại học ngành Xây dựng, có sử dụng các phần nặng như AutoCad, PS, ...( vài Gb 1 ứng dụng), vậy admin tư vấn giúp cấu hình máy window laptop nào thì màn hình đẹp và đủ sức chạy trơn tru các apps trên nhé. và cho em hoi liệu Macbook Air 13 có bằng về khả năng so với những lap window cùng tầm giá không ạ. em có tầm 25 tr.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.57592,
+         "id": "1022194",
+         "field_search": "question",
+         "question": "Em lớp 12 cần tìm máy tính phục vụ việc học tập online và sau này học đại học giá dưới 7 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.90443,
+         "id": "867358",
+         "field_search": "question",
+         "question": "VGA rời, Nvidia GT820M 2Gb và VGA onboard, Intel HD Graphics 5500 cái nào tốt hơn ạmục đích học tập, chơi một số game như LOL và game offline, thêm là thi thoảng dùng một số phần mềm design tầm trung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.092766,
+         "id": "750340",
+         "field_search": "question",
+         "question": "em là sinh viên ngành cơ-đtử với số tiền khoảng 14tr thì em nên mua laptop nào cho việc học và chơi game (LoL, một số game có dung lượng khoảng 8gb hoặc hơn,...) và máy có hỗ trợ card màn hình rời thì càng tốt? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.792786,
+         "id": "890173",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách mua laptop. M ình mua laptop từ 15 triệu đổ lại thì có thể chạy tốt các phần mềm đồ họa như autoCad, solidworks không, và nên mua những hãng nào? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.437397,
+         "id": "786960",
+         "field_search": "question",
+         "question": "với khoảng 12-14 triệu thì nên chọn mẫu laptop nào mà sử dụng phần mềm Solidworks , Catia... hiệu quả . mọi người tư vấn giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.995823,
+         "id": "1150879",
+         "field_search": "question",
+         "question": "Mình là sinh viên công nghệ thông tin cần mua laptop phục vụ cho việc học tập và làm việc giá khoảng 15 triệu. Mong ad tư vấn giúp mình dòng máy phù hợp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.180805,
+         "id": "1000090",
+         "field_search": "question",
+         "question": "tư vấn giúp tôi laptop có card đồ họa mạnh nhất phù hợp với nhu cầu chơi game nặng trong khoảng giá 20 triệu trở xuống đc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.94731,
+         "id": "1002669",
+         "field_search": "question",
+         "question": "Em cần mua một laptop dưới 8 triệu vừa có thể học tập vừa chơi game cầu hình cao như Liên Minh.. thì em nên chọn máy nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.944912,
+         "id": "837008",
+         "field_search": "question",
+         "question": " E cần mua một cái laptop Dell chíp core i5 pin tốt và có card rời khoảng tầm 1013 triệu nhờ anh chị tư vấn giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.664307,
+         "id": "835650",
+         "field_search": "question",
+         "question": "mình đang dự định mua laptop để phục vụ cho nhu cầu giải trí như lướt web, xem phim và chơi game như liên minh huyền thoại,fifa oline 3 ở tầm giá khoảng từ 8 đến 12 triệu thì nên mua máy của hãng nào là tốt nhất, mình đang phân vân giữa dell và asus mong hãy tư vấn cho mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.319733,
+         "id": "1007724",
+         "field_search": "question",
+         "question": "Anh chị tư vấn dùm em những mẫu laptop giá tầm 20tr  30tr dành cho dân đồ họa ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.200237,
+         "id": "994638",
+         "field_search": "question",
+         "question": "Nhờ các anh chị ở thegioididong tư vấn giúp em cấu hình laptop có khả năng chơi một số game đồ họa cao (như gta5, liên minh huyền thoại), chạy tốt photoshop..v..v..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.178856,
+         "id": "1165016",
+         "field_search": "question",
+         "question": "Em theo học ngành CNTT ứng dụng phần mềm thì em chọn laptop nào cho thích hợp ạ giá dưới 20tr",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.082653,
+         "id": "1164710",
+         "field_search": "question",
+         "question": "em cần mua 1 chiếc laptop để học đồ họa, ngoài ra em cũng hay xem phim thì chiếc  nào tầm 20 triệu tối ưu nhất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.07587,
+         "id": "993691",
+         "field_search": "question",
+         "question": "Hiện tại em chuẩn bị lên 12, em cần mua máy nhằm mục đích hỗ trợ chủ yếu cho việc học, ngoài ra còn hỗ trợ thêm viết lách ạ. Em đang lưỡng lự không biết nên mua loại nào. Mong các Tư Vấn Viên tư vấn giúp em ạ! Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.43387,
+         "id": "850533",
+         "field_search": "question",
+         "question": " Mình muốn mua một cái laptop khoảng 12trNhu cầu mình mua để học tập và chơi các dòng game nặng như LMHTTHANKSS ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.1704,
+         "id": "835448",
+         "field_search": "question",
+         "question": "e là sinh viên ngành kỹ thuật cơ khí, phải sử dụng đến các phần mềm như kiểu AutoCAD thì mua laptop nào hợp lý, core i3 hay i5 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.95106,
+         "id": "990397",
+         "field_search": "question",
+         "question": "Chào anh/chịHiện nay em cần mua 1 chiếc laptop tầm 7 triệu để thiết kế nội thất. Chủ yếu là em sử dụng sketchup. Mong anh/chị tư vấn giùm ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.761887,
+         "id": "750721",
+         "field_search": "question",
+         "question": "Anh (chị) cho em hỏi! Em là sinh viên và em đang cần mua gấp laptop để phục vụ cho việc học tập ( bản vẽ chi tiết, thiết kế) và giải trí (chơi game online, lướt web, game nặng). em nhớ anh(chỉ) tư vấn giùm em laptop phù hợp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.451115,
+         "id": "996605",
+         "field_search": "question",
+         "question": "Cho em hỏi : Em cần mua 1 laptop tầm 15 triệu đổ lại có card rời ,đa nhiệm tốt, pin tốt , chạy tốt phần mềm CAD ,LOL, hiệu năng ổn và bảo hành tốt ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.76249,
+         "id": "1151921",
+         "field_search": "question",
+         "question": "Cho em hỏi ạVới tầm giá từ 15-20 triệu em muốn mua laptop: •14 inch • Mỏng nhẹ •Sử dụng tốt các phần mềm văn phòng, corel, photoshop, cad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.734215,
+         "id": "760756",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện em đang muốn mua 2 laptop cho sếp xài, chủ yếu là Microsoft Office chạy mượt mà, cấu hình lướt web êm ái và có thể chạy 1 số phần mềm cấu hình cao như AI, photoshop.... Giá từ tầm 20tr đổ lại thì nên mua loại nào đẹp và chất lượng ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.42665,
+         "id": "999544",
+         "field_search": "question",
+         "question": "Chào anh/chị, em hiện là sinh viên, muốn mua một máy tính bảng với nhu cầu xem phim, lướt web, đọc sách. Nhờ anh chị tư vấn, đề xuất giúp em một vài sản phẩm phù hợp và giá cả càng rẻ càng tốt giúp em. cám ơn anh/chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.57627,
+         "id": "882545",
+         "field_search": "question",
+         "question": "Tìm mua con laptop tầm giá 10 đến 12tr .Cấu hình vừa đủ đáp ứng vs 2 yêu cầu sau\"1.Cho thằng sv năm nhất học cơ khí đồ họa nhẹ nhàng như Autocad thôi.ko cần card đồ họa cao siêu2.Có cổng HDMI để kết nối vs con smart Tv ở nhà cho ông bà xem cải lương.Rất mong Ad và các ae giúp đỡ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.536934,
+         "id": "1117960",
+         "field_search": "question",
+         "question": " intelR UHD graphics 620có học được các ngành kĩ thuật với xử lí đồ họa không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.693623,
+         "id": "922780",
+         "field_search": "question",
+         "question": " Mình cần mua laptop tầm 8 tr phục vụ cho việc học tiếng anh của em gái. Không biết mình nên chọn loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.600155,
+         "id": "1134214",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, em cần tìm một máy tính laptop bất cứ hãng nào giá tầm 13 triệu đổ lại chiến tốt game Liên Minh Huyền Thoại với cấu hình thấp FPS:60, mong anh, chị tư vấn giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.36559,
+         "id": "771105",
+         "field_search": "question",
+         "question": "Với tầm giá 5 triệu thì có nên mua iPhone 4s không? Nhu cầu của em là lướt web, fb, youtube và mp3, chỉ cần mượt, không giật lag gây khó chịu là được. Trong tầm giá còn mẫu điện thoại nào đáp ứng nhu cầu của em nữa không? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.07841,
+         "id": "992563",
+         "field_search": "question",
+         "question": "Mong mọi người tư vấn cho mình là với mức giá 4 triệu thì chiếc điện thoại nào đáng mua nhất???Nhu cầu của mình là chiến tốt và mượt Liên Quân và Asphalt 8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.964348,
+         "id": "1155717",
+         "field_search": "question",
+         "question": "em muốn mua laptop có thể sử dụng được phần mềm corel drew và gerber giá tầm 910 triệu thì mua máy nào được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.881546,
+         "id": "1153812",
+         "field_search": "question",
+         "question": "Em là học sinh em định mua điện thoại tầm gửi á 1 triệu thì ko biết bên TGDD có sản phẩm điện thoại nào 1 triệu phù hợp cho học sinh vừa có cấu hình tốt chơi game tốt xem Youtube và các kiểu ko biết có ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.81521,
+         "id": "763587",
+         "field_search": "question",
+         "question": " Cho em hỏi là Laptop nào của các hãng mà chạy được phần mềm Etab với Autocad với giá từ 67 triệu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.7531,
+         "id": "1017660",
+         "field_search": "question",
+         "question": "Mình cần mua một cái laptop trong tầm giá từ 10-15 triệu phù hợp với việc làm đồ họa nhiều phiền QTV tư vấn giúp mình nếu có thể thì tìm giúp mình laptop của hãng Dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.717056,
+         "id": "1014442",
+         "field_search": "question",
+         "question": "Mình cần tư vấn mua laptop tầm 13 14 triệu, các điệu kiện là: màn hình 15inch full HD, ram(Ram ddr4) với ổ cứng có thể nâng cấp, core i5-7200U tảng nhiệt tốt, ad giúp với nha! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.553726,
+         "id": "1018751",
+         "field_search": "question",
+         "question": "Cho hỏi mình mua laptop nào tầm 15 triệu học autocad, photoshop với pin lâu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.138855,
+         "id": "898096",
+         "field_search": "question",
+         "question": "Tư vấn mua laptop nhẹChàp TGDD, hiện mình đang tìm mua 1 laptop nhẹ (khoảng 1.5kg trở xuống), màn hình tầm 13\", cấu hình i5-i7, RAM 4-8GB, SDD 256GB -500GB. Nhu cầu: dùng cho văn phòng và xử lý ảnh trên Photoshop.Giá khoảng 15.000.000 - 18.000.000Nhờ TGDD tư vấn giúp, cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.103054,
+         "id": "954097",
+         "field_search": "question",
+         "question": "Nhờ shop tìm giúp cho mình con laptop hỗ trợ tốt đồ họa, lập trình, có thể giải trí với các game khá nặng như liên minh trong tầm giá sinh viên với ạ ( 14tr) !! Tks shop.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.078575,
+         "id": "904448",
+         "field_search": "question",
+         "question": "Em muốn mua lap dưới 10 triệu, chủ yếu làm tin học văn phòng, yêu cầu ram 4GB gập 360, màn cảm ứng. Vậy loại nào là phù hợp ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.881588,
+         "id": "1136757",
+         "field_search": "question",
+         "question": "em có mua một laptop lenovo ở tgdd. ổ usb của máy khi ghim các thiết bị như chuột, bàn có hiện tượng nhá điện sáng chuột rồi lập tức mất kết nối. cho em hỏi là lỗi phần cứng hay phần mềm và bảo hành như thế nào .. Số điện thoại: 0858881774",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.639774,
+         "id": "1143901",
+         "field_search": "question",
+         "question": "Ad tư vấn giúp em loại điện thoại giá tầm 6 triệu loại nào tốt nhất ạtạt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.629158,
+         "id": "792590",
+         "field_search": "question",
+         "question": " Xin QTV tư vấn chọn laptop cho sinh viên Cơ khí , chạy được các phần mềm như autocad , solidwork ... giá dưới 6tr ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.60402,
+         "id": "1002801",
+         "field_search": "question",
+         "question": "Trong tầm giá từ 8-10tr (có thể hơn 1 tí) có laptop nào phù hợp cho SV học Đồ hoạ, Công nghệ thông tin k ạ. Ad tư vấn hộ e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.837944,
+         "id": "1023062",
+         "field_search": "question",
+         "question": "Mình là sinh viên đang học xây dựng? Muốn mua laptop để học thì nên mua loại nào tầm giá từ 1015,5 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.482384,
+         "id": "998621",
+         "field_search": "question",
+         "question": "Ad tư vấn dùm. Mình đang cần mua laptop chủ yếu để chơi game nặng như Liên Minh Huyền Thoại, Fifa Online 3.... Mua laptop nào là tốt!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.47832,
+         "id": "834374",
+         "field_search": "question",
+         "question": "em muốn mua một chiếc laptop giá khoảng 10 đến 12 triệu, nhẹ nhàng trong khoảng 1,5kg đến 2,3 kg để dễ mang đi lại, công nghệ CPU corei5 , hãng máy tính nào mà dùng ổn ổn chút, vì e giờ mới năm 2 cần dùng hết đại học. e học về CNTT nhưng không quá nặng về bộ nhớ các thứ nên mong admin tư vấn cho e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.6548,
+         "id": "753847",
+         "field_search": "question",
+         "question": "Em muốn mua Laptip từ 10 tới 15 triệu ad và mọi người tư vấn mua máy nào được để em học và chơi Liên minh huyền thoại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.638374,
+         "id": "891810",
+         "field_search": "question",
+         "question": "Mình muốn mua máy laptop hiệu Dell i5, cấu hình thích hợp cho dân học ngành xây dựng.Bạn có thể tư vấn mình một số máy được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.447704,
+         "id": "1136746",
+         "field_search": "question",
+         "question": "cho mình hỏi phần mềm của mi8pro tốt hơn ko và mình nghe nói xiaomi chỉ về y học chứ ko về điện thoại còn huawei nova 3 thì mình ko bít mong các bạn chỉ mình và mình cần con máy dưới 12 triệu đáp ứng tất cả các tựa game nặng trên ch phay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.376625,
+         "id": "1143741",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại dùng pin tốt, trong tầm giá từ 3 - 4 triệu, Shop tư vấn mình loại nào ok ? Pin khoảng bao lâu ? Chủ yếu FB, Youtube, Zalo, chụp hình. Ko game.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.12998,
+         "id": "1161401",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại nào chơi game tốt giá rẻ tầm 23 triệu ạ? Mong anh chị tư vấn rõ với nói tên giúp em ạ!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.118374,
+         "id": "1160195",
+         "field_search": "question",
+         "question": "Xin chào Shop! Mình muốn mua một cái Tablet, mục đích là để lưu file nghe bài học và file pdf và tải một số phần mềm họcYêu cầu là máy nhẹ, giá thành dưới 5 triệu??Qua tìm hiểu thì mình thích Samsung Tab E 9.6, không biết máy đó có đáp ứng được yêu cầu của mình, hoặc shop có thể hỗ trợ mình giới thiệu một số máy khác phù hợp với yêu cầu trên không ạ? Chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.115147,
+         "id": "1139320",
+         "field_search": "question",
+         "question": " Em có nhu cầu mua laptop từ 15 triệu trở xuống mà cân bằng vừa học vừa chơi thì nên chọn mua máy nào ạ?Em cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.036697,
+         "id": "880151",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về máy laptop cấu hinh thế nào thì chạy tốt các CT đồ họa như corel, photoshop, autocad. Tư vấn giúp mình nhé. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.8396,
+         "id": "1015365",
+         "field_search": "question",
+         "question": "Em ở Thành phố Bến Tre cần mua một chiếc điện thoại giá từ dưới 4 triệu. Yêu cầu là có thể chơi game Liên Quân Mobile mượt, không giật lag. Hiện em đang dùng điện thoại Wiko Robbey ram 2g, cpu 4 nhân 1.3Hz nhưng dù chỉnh đồ họa thấp vẫn bị giật lag, vào game hay vào trận đều sau người khác. Mong Thế Giới Di Động tư vấn giúp em. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.75196,
+         "id": "1143098",
+         "field_search": "question",
+         "question": "e muốn mua laptop macbook có đồ họa cao tiện cho học ngành công nghệ oto thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.520645,
+         "id": "1000664",
+         "field_search": "question",
+         "question": "e cần mua 1 con laptop giá tầm 15tr đổi lại dell hoặc asus    Core i5 hoặc i7  Ram 4G GDDR3L trở lên  Card đồ họa có chip xử lý đồ họa riêng biệt (GPU) có số bit 128 trở lên  Ổ cứng có dung lượng 500GB trở lên thêm một ổ cứng SSD để cài đặt phần mềm.  Màn hình 15.6 có độ phân giải 1920 x 1080",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.456894,
+         "id": "829597",
+         "field_search": "question",
+         "question": " Laptop tầm dưới 8tr để học photoshop ạ ? Em dùng để học lớp 8,9 thôi nên chắc kh nặng lắm  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.335506,
+         "id": "1021882",
+         "field_search": "question",
+         "question": "Cho em hỏi thegioididong có bán bàn phím rời mini dành cho laptop không ạ? Loại tầm trung xài tốt giá khoảng bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.878807,
+         "id": "840093",
+         "field_search": "question",
+         "question": " các quản trị viên tư vấn giúp em vài loại laptop có thể chơi game fifa online 3 mượt có giá tầm 15,5 triệu trỡ xuống ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.743073,
+         "id": "1022847",
+         "field_search": "question",
+         "question": "Chào Qtv, mình hiện giờ đang cần tìm một chiếc điện thoại có tầm giá 3 triệu trở xuống có thể đáp ứng những yêu cầu sau: HĐH Android 6.0, CPU 1.5ghz, RAM 2gb, bộ nhớ 16gb, camera ổn và kết nối wifi tốt, pin máy từ 2500 mah trở lên, có thể chơi mượt mà một số trò chơi online như crossfire legends. Nhờ Qtv tư vấn cho mình một chiếc máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.708275,
+         "id": "756391",
+         "field_search": "question",
+         "question": "Em xin hỏi tư vấn mua laptop dell , cấu hình tốt chơi được GTA 5 , làm photoshop này nọ cũng ổn ,giá tầm 18 triệu đỗ lại , khổ nỗi em không biết chút gì về thông số máy tính cả, nhờ ad chỉ bảo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.580833,
+         "id": "1156941",
+         "field_search": "question",
+         "question": "Thegioididong cho em hỏi, laptop Dell của em không nhận tai phone cắm vào. Em đã từng đi sửa 1 lần ở thegioididong và anh kỹ thuật bảo là lỗi phần mềm, ảnh chỉnh lại được nhưng bây giờ bị tiếp, em không rõ là lỗi gì, thegioididong tư vấn giúp em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.43776,
+         "id": "780973",
+         "field_search": "question",
+         "question": " Cho hỏi em có nhu cầu mua laptop tầm khoảng 12tr15tr thi nên mua máy nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.421417,
+         "id": "851997",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc laptop khoảng 14tr phục vụ việc chơi game giải trí học hành ạ. mọi người tư vấn mình vớià hãng máy tính được ưa chuông nhất bây giờ là dell phải ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.249744,
+         "id": "954734",
+         "field_search": "question",
+         "question": " cho em hỏi ttam có cài đặt các phần mềm máy tính cho ngành thiết kế như lextra, gerber ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.173347,
+         "id": "1016394",
+         "field_search": "question",
+         "question": "QTV cho em hỏi hiện tại em đang muốn mua 1 thiết bị hỗ trợ cho việc học ( chủ yếu về học phát âm tiếng anh tại trung tâm ) , em đang phân vân giữa 3 thiết bị : điện thoại , ipad hay laptop , thì theo QTV em nên xài loại nào là phù hợp nhất hiện tại em đang học lớp 10 . giá khoảng 10tr trở xuống ạ . thanks !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.10082,
+         "id": "855203",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi, iPhone 5s có hỗ trợ nhận chuột qua cáp otg không em có nhu cầu chơi game tập kích mong mọi người giải đáp ạ em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.01844,
+         "id": "799752",
+         "field_search": "question",
+         "question": " Mình có khoảng 17tr...muốn nhờ add tư vấn nên mua laptop nào phục vụ tốt cho nganh XD.... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.877144,
+         "id": "929742",
+         "field_search": "question",
+         "question": " Admin cho em hỏi trong tầm giá 46 triệu thì có laptop nào hổ trợ chơi game đồ họa ở mức trung bình khá không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.866512,
+         "id": "1117059",
+         "field_search": "question",
+         "question": "Chào TGDĐ .. cho e xin tư vấn về dòng máy nào tốt để mình dùng.. phục vụ cho sinh viên nhàng xây dựng ạ.. e đang phân vân.. k biết mua loại nào tốt và rẻ để cho e của e đi học ạ. Tầm 12tr trở lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.857048,
+         "id": "845159",
+         "field_search": "question",
+         "question": "A/c cho e hỏi hiện tại e đang học ngành kế toán thì nên chọn loại laptop nào là phù hợp( máy tầm 10tr trở lại) mong a/c tư vấn giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.77454,
+         "id": "1022627",
+         "field_search": "question",
+         "question": "Hi mọi người. Có ai gặp vấn đề như thế này không trợ giúp em với ạ. Mạng của e hoàn toàn ổn định luôn. Nhờ kỹ thuật hỗ trợ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.751266,
+         "id": "1159402",
+         "field_search": "question",
+         "question": "Cho em hỏi có điện thoại nào chơi game tốt mà tầm giá khoảng 34 triệu không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.59257,
+         "id": "753875",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em cần mua máy tính để học. Em học ngành quản trị kinh doanh thì nên cần mua máy gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.52352,
+         "id": "925801",
+         "field_search": "question",
+         "question": " Cho e hỏi e có tầm khoảng 6tr muốn mua laptop nhưng không biết của hãng nào tốt hơn. Nhờ anh chị tư vấn giúp e ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.47871,
+         "id": "1022702",
+         "field_search": "question",
+         "question": "xin chào, cho em hỏi là laptop Asus của em lâu rồi không sử dụng, giờ phần mềm diệt virus hết hạn, khởi động thì chậm, tải phần mềm về cài đặt không được, có thể tư vấn cho em nên làm gì không ạ. Em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.380665,
+         "id": "1160504",
+         "field_search": "question",
+         "question": "Cho em hỏi em đã mua máy ở thegioididong cũng đã hơn 6 7 tháng rồi giờ em muốn nhờ nhân viên thegioididong tải giúp em một số phần mềm máy tính được không ạ, có tính phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.316086,
+         "id": "997000",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạem muốn mua SamSung mà ko biết chọn cái nào ko bị lag, nhờ ad tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.130608,
+         "id": "989243",
+         "field_search": "question",
+         "question": "Cho em hỏi , em đang dùng 5se , em đang dùng phần mềm phiên bản 8.3 . Vậy em có nên cập nhật phần mềm để dùng máy tốt hơn hay dùng phần mềm cũ ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.038017,
+         "id": "996355",
+         "field_search": "question",
+         "question": "tầm khoảng 800.000 đ cần mua 01 điện thoại. Nhu cầu nghe, gọi, nhắn tin, pin trâu (khoảng 5-7 ngày trở lên càng tốt - càng lâu càng tốt), xài bền (ko phải xài được vài tháng thì hư) theo thegioididong nên mua máy nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.973953,
+         "id": "1016809",
+         "field_search": "question",
+         "question": "Nên mua máy tính Asus hay Dell thì tốt hơn ạ? Mình cần dùng máy có thể làm đồ họa tốt. Giá tầm 13tr ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.970413,
+         "id": "1020510",
+         "field_search": "question",
+         "question": "Em muốn mua 1 smartphone pin thật trâu giá dưới 5 triệu. Tư vấn cho em một số sản phẩm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.959713,
+         "id": "999554",
+         "field_search": "question",
+         "question": "Chào anh/chị, em hiện là sinh viên. Muốn mua một máy tính bảng với nhu cầu xem phim, lướt web, đọc sách. Nhờ tư vấn, đề xuất giúp em một vài sản phẩm phù hợp và giá rẻ giúp em. Xin cám ơn anh/chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.730988,
+         "id": "921570",
+         "field_search": "question",
+         "question": " E là sv học bên ngành kế toán. E định mua laptop. Tư vấn cho e loại nào phù hợp với ngành của e  giá 10tr trở xuống ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.484592,
+         "id": "996836",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.347412,
+         "id": "1018583",
+         "field_search": "question",
+         "question": "Mình bên Tập đoàn Phúc Lộc bình định, cần tư vấn máy PC cấu hình cao dùng cho đồ họa, nhờ bên mình tư vấn giúp mình SDT 0944830137",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.17344,
+         "id": "1012255",
+         "field_search": "question",
+         "question": "em hiện tại là sinh viên năm nhất học ngành kinh doanh vậy có cần mua bản office 365 cho laptop không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.112946,
+         "id": "868219",
+         "field_search": "question",
+         "question": "Mình đang tìm kiếm một mẫu laptop giá dao động 15tr (rẻ hơn càng tốt) phù hợp với việc sử dụng đồ họa và có dung lượng lưu trữ lớn. Các bạn giúp mình chọn một máy nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.06023,
+         "id": "1135423",
+         "field_search": "question",
+         "question": "Cho em hỏi có điện thoại nào mượt , pin trâu chức năng chụp hình tốt,giá học sinh tầm cỡ 1tr mấy đến 2tr mấy kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.985165,
+         "id": "793963",
+         "field_search": "question",
+         "question": " Em muốn mua 1 laptop tầm giá từ 7 triệu đáo lại thị hãng nào tốt ạ. add giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

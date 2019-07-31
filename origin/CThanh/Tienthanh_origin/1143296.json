@@ -1,0 +1,802 @@
+{
+   "id_query": "1143296",
+   "total": 34589,
+   "total_current": 100,
+   "max_score": 166.29808,
+   "origin_question": "Em đang sử dụng điện thoại Oppo A3s 32GB,Hiện tại thì mới mua được 3 ngày,em thấy camera trước của Oppo có màu sắc không bình thường (màu nâu hay vàng), khi em call video hay chụp selfie Em không biết chỗ điều chỉnh.Em muốn hỏi là do máy có màu như vậy hay người dùng mua về điều chỉnh ạ? và điều chỉnh thì ở đâu?",
+   "short": "opppo camera trướcå",
+   "hits": [
+      {
+         "score": 60.758537,
+         "id": "916295",
+         "field_search": "question",
+         "question": "E mua ip 7 plus màu hồng về dùng bình thường nhưng sao cái 3d touch nó không ổn ạ. Ví dụ như chat bong bóng e không mở được. Hay điều chỉnh độ sáng của đèn pin chỗ control cũng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.48424,
+         "id": "792991",
+         "field_search": "question",
+         "question": "Cho em hỏi 5S màu vàng và màu bạc mức tiền như nhau hay như thế nào, ví dụ hôm nay mua điện thoại màu bạc đi đổi màu vàng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.397453,
+         "id": "928921",
+         "field_search": "question",
+         "question": " Mình gọi video zalo thì camera bị tối màu trong khi camera trước của gọi fb thì hình ảnh vẫn tốt màu sắc bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.269814,
+         "id": "1157467",
+         "field_search": "question",
+         "question": "Người ta điện thoại cho em thì xuất hiện dòng chữ \" chuyển hướng cuộc có điều kiện \" tức là điện thoại cho em không được mà em điện thoại cho người  khác thì được hiện tại em đang sai điện thoại oppo f1s và chỉ sử dụng 1 sim vina hoạt động 4g của sim bình thường ạ cho em biết cách khắc phục tình trạng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.045822,
+         "id": "1003005",
+         "field_search": "question",
+         "question": "điện thoại oppo f3 e mới mua chụp ảnh trong phòng chất lượng ảnh có dấu hiệu nhu lem màu ! ko sắc nét !có nhìu hạt! có phải chuyện bình thường hay e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.550003,
+         "id": "1014965",
+         "field_search": "question",
+         "question": "Tạo sao khi chụp ảnh bằng Camera trước lại thấy hình ảnh tươi hơn và có màu sắc khác xa so với Camera sau và trong lúc đang quay video thì chụp hình bằng camera trước cũng khác so với chụp hình bình thường? (Samsung Galaxy J7 Pro)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.49879,
+         "id": "770982",
+         "field_search": "question",
+         "question": "Hi mọi người ! Cho mình hỏi một chút. Mình dùng iPhone 4S. Trước vẫn dùng bình thường. Dạo gần đây, camera 360 của mình có vấn đề. Vào selfie camera trước lúc giơ lên chụp thì bình thường, nhưng nhấn chụp và lưu hình thì bị ám đỏ. Camera sau thì màu bình thường nhưng lưu hình rất lâu, có khi không lưu được và đang chụp thì bị đẩy ra. Lỗi vậy là sao hả mọi người? Ai biết thì chỉ cho em cách khắc phục với ạ! Thanks mọi người!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.541687,
+         "id": "1164386",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ! Em vừa mua 1 máy samsung galaxy A50, máy ảnh của máy chỉ chụp được chế độ âm bản, không chụp được chế độ bình thường ? Vậy em phải làm như thế nào mới có thể điều chỉnh lại ạ ?? Xin cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.39769,
+         "id": "1146082",
+         "field_search": "question",
+         "question": "e đang xài laptop win 8, gần đây máy có tự động điều chỉnh độ sáng, và e ko thể điều chỉnh độ sáng thủ công được nữa, vậy máy em bị lỗi hay là sao ạ, khắc phục ntn vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.30575,
+         "id": "870928",
+         "field_search": "question",
+         "question": "cho em hỏi với ạ, máy của em là lap HP pavilion-14ab120TU, lúc mới mua về em có thể chỉnh đc độ sáng bằng phím f2 f3, nhưng sang ngày thứ hai lại không điều chỉnh được là sao ạ, với cả khi nhấn phím f4 lại ko hiện lên như hôm mới mua ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.297207,
+         "id": "1157272",
+         "field_search": "question",
+         "question": "Điện thoại Samsung galaxy j7 pro. Khi sử dụng các ứng dụng khác camera điều sử dụng bình thường. Nhưng khi gọi trên skype thì camera trước và sau điều không sử dụng được cho e hỏi tại sao ạ. E đã bật quyền truy cập máy ảnh cho ứng dụng rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.13585,
+         "id": "1146466",
+         "field_search": "question",
+         "question": "Mong ad giải đáp : máy của em là ZTE N939Sc sau khi đem đi sửa máy về thì camera của máy chụp không như lúc trước nữa, không rõ nét và màu sắc bị tái đi không được trung thực nữa. Không biết đây là lỗi gì ạ?.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.500587,
+         "id": "1020520",
+         "field_search": "question",
+         "question": "Khi mình mở ảnh màu nâu . Thì xảy ra hiện tượng . Nhưng ứng dụng khi nảy vừa sử dụng xuất hiện ẩn mờ mờ bên trong hình màu nâu đó . Mình đã thử reset máy . Khôi phục cài đặt góc nhưng vẫn không hết . Điều lạ là sau khi mình tắt nguồn mở lại thì mở tấm ảnh màu nâu lên lại xuất hiện logo samsung mờ mờ bên trong tấm ảnh . Vậy lỗi gì và giải pháp ra sau ? . Xin ad gợi ý . Mua tại tgdd được 2 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.305435,
+         "id": "1003105",
+         "field_search": "question",
+         "question": "em mới mua oppo f3 .. khi chụp ảnh trong phòng có ánh sáng đầy đủ xuất ảnh ra thì có hiện tượng ảnh không được sắc nét. chất lượng ảnh không được tốt. vậy đó là chuyện bình thường hay máy có vấn đề gì ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.876644,
+         "id": "1021072",
+         "field_search": "question",
+         "question": "cho em hỏi em mua huawei gr5 2017 này ở tgdd từ hồi tháng 8/2017 sau khi đem về em test game Liên Quân thì vài ngày đầu cái nút điều khiển duy chuyển trong game vẫn bình thường nhưng vài hôm sau em đang duy chuyển thì nút điều khiển bị đơ ra lâu lâu dừng lại nữa ấn 2-3 lần mới ăn vậy cho e hỏi đó là do game hay do máy của e ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.585884,
+         "id": "901385",
+         "field_search": "question",
+         "question": "Đt em là iphone 4s , sao em k nghe đc âm thanh điện thoại trong khi chuông thì vẫn nghe bình thường ạ ? Em điều chỉnh âm lượng ở màng hình chính thì đc , còn vào các apps điều chỉnh k đc ạ , nghe nhạc cũng k nghe đc luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.322906,
+         "id": "1135457",
+         "field_search": "question",
+         "question": "Tôi dùng samsung j7 prime khi nghe gọi tiếng rất bé có phải do máy hỏng hay điều chỉnh ra sao vậy ađ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.793087,
+         "id": "1138258",
+         "field_search": "question",
+         "question": "điện thoại của e là itel p51, sau khi thay màn hình thì màu sắc không rõ, màn hình không nhận diện được màu màu đỏ thành màu tím,... nhưng khi chụp ảnh lại và gửi ảnh sang thiết bị khác thì rất rõ nét, vậy không biết điện thoai của e bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.78955,
+         "id": "806195",
+         "field_search": "question",
+         "question": " Khi nào thì TGDĐ điều chỉnh giá Iphone Ipad mới lại vây? Mình đang chờ điều chỉnh để mua sản phẩm Apple.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.34602,
+         "id": "835690",
+         "field_search": "question",
+         "question": "Em mới mua con 5s màu trắng ngày 24/5 nhưng mới mua về máy rất nhanh hết pin dùng liên tục chỉ được 3h không biết là do lổi pin hay sao.gio e muon đổi máy khác được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.279762,
+         "id": "1020350",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: em mới mua điện thoại Mobell Nova i6 màu hồng, giờ em muốn đổi sang màu vàng đồng (cùng giá) thì em có phải chịu thêm phí không và là bao nhiêu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.7419,
+         "id": "987536",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng máy tính acer win 7 và em muốn hỏi là khi em lên một số trang web và trong trang web có phần bình luận hay hỏi đáp thì em thấy một số tài khoản có ghi chữ đằng sau như admin, vip, mod, uploader,... màu vàng mà nick của em không có vậy không biết 2 chữ mod và uploader là chỉ gì vậy ạ ? vì chữ admin và vip thì em hiểu rồi mà thắc mắc không biết hai chữ còn lại là gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.43252,
+         "id": "1134856",
+         "field_search": "question",
+         "question": "anh chị ơi giúp em với hiện tại em đang sử dụng oppo a3s và mới mua được 2 tháng và nếu hiện tại em sạc đầy 100 % pin trước khi đi ngủ và khi dậy chỉ còn 48 % thì máy của em đang bị làm sao ạ , và dù cho em không sử dụng máy thì vẫn hết pin ạ dưới đây là ảnh chụp màn hình về tiêu thụ điện năng máy của em ạ ac xem giúp em sửa máy với ạ em cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.407993,
+         "id": "1008345",
+         "field_search": "question",
+         "question": "Tôi mới nhận máy nokia 6 màu bạc ngày 27/07/2017. Máy sử dụng tốt, nay tôi muốn được đổi sang màu xanh dương vì tôi rất thích màu xanh nhưng lúc đặc hàng chỉ có màu bạc và màu đen. điều kiện được đổi như thế nào mong thegioididong hỗ trợ. SDT 0915554xxx",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.30498,
+         "id": "918441",
+         "field_search": "question",
+         "question": "Em mới mua iPhone  5s ở tgdd, em mới sử dụng được 3 ngày và em thấy Sđt mình chậm kinh khủng. Vuốt qua chụp hình phải đợi cỡ 20s mới chụp được, wifi thì đang có mà nhầm lúc kh vào mạng được. Vậy có phải là do máy không ạ ? Vậy em có được đổi không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.16684,
+         "id": "991398",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi chiếc Asus 3 max 5.5 inch ben tgdd có màu vàng hay màu xám bạc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.078033,
+         "id": "828907",
+         "field_search": "question",
+         "question": "Cài cái Intel Graphic cho lap win 8.1Độ sáng màn hình ở mức tối thiểu mà trong khi máy đã điều chỉnh đến mức tối đa.Xóa Graphic đi thì lại điều chỉnh bình thường.Ad có cách nào không xóa cái Graphic mà vẫn điều chỉnh độ sáng được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.976795,
+         "id": "1001453",
+         "field_search": "question",
+         "question": "e mới mua đt cũ ss j7 prime màu hồng hôm quatest đt thì ok nhưng có điều về nghe thì thấy loa o biết có đc bảo hành k v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.947277,
+         "id": "887871",
+         "field_search": "question",
+         "question": " ủa ở đây không bán 5s màu vàng hả anh. Em đang có dự định mua 5s màu vàng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.898182,
+         "id": "1159423",
+         "field_search": "question",
+         "question": "Mình mới mua máy nova 3i về không chỉnh j nhưng âm thanh phát ra vang vọng giống như trong phòng thu âm. Không biết bị vấn đề về loa hay do cấu hình máy? Trên máy samsung có chỗ để chỉnh lại, còn máy này thì tìm hoài không thấy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.84671,
+         "id": "763030",
+         "field_search": "question",
+         "question": "Em chào các anh chị em vừa mới mua điện thoại Oppo R7s tại thegioididong. Em muốn hỏi là cách đóng tab khi sử dụng google chorme của máy là làm thế nào ạ vì em không thấy có nút tắt hay đóng ở đâu cả em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.690453,
+         "id": "996545",
+         "field_search": "question",
+         "question": "Cho em hỏi.. Em đang dùng ĐT Sony Xa khi tải nhạc từ MP3 về máy e đã chuyển nhạc vào file màu sắc những trong nhạc vẫn không có bài hát nào.. Làm sao để chỉnh được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.508587,
+         "id": "754157",
+         "field_search": "question",
+         "question": "em đang dùng iphone 5điện thoại cuả em khi cắm sạc thì có  dấu hiệu đang xạc nhưng không lên % pin em đã thử dùng tất cả những xạc khác nhưng vẫn bị hiện tượng như vậy. mọi người có thể cho em biết vậy là do pin hay do máy được không ạ ? nếu là do pin thì khi mua dấu hiệu gì để biết đó là pin tốt hay không tốt ạ,và giá cả ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.171997,
+         "id": "843232",
+         "field_search": "question",
+         "question": "Ad cho e hỏiBình thường thì khi vuốt lên thanh setting từ dưới lên của i phone nó sẽ có màu sắcNhưng của em lại là một màu xám mặc dù em đã lên ios 9.3.2Giờ em muốn có màu sắc như vậy thì phải làm sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.045216,
+         "id": "762063",
+         "field_search": "question",
+         "question": "Laptop của em mới cài lại win, sau đó em có chỉnh lại độ sáng thì nó bị tối mà hình luôn và không điều chỉnh được, mặc dù em đã chỉnh rất nhiều lần trong máy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.67863,
+         "id": "905862",
+         "field_search": "question",
+         "question": "tại sao bấm phím f2 f3 ... để giảm tăng âm lượng hay chỉnh sáng tối màn hình không được máy em loại dell ạ và sao chuột không dây của em đang sử dụng bình thường rồi tự nhiên không dùng được nữa!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.67022,
+         "id": "1157627",
+         "field_search": "question",
+         "question": "máy tính bắt wifi chập chờn cứ hiện hình tam giác màu vàng là do đâu ạ. trong khi các máy khác đều bắt wifi được bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.52498,
+         "id": "809803",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là tại sao máy tính của bạn em khi vô Intel HD Graphis thì có thể vô chỉnh màu được, còn máy tính của em khi vô thì máy hiện ra như hình trên, mong QTV giúp đỡ, em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.516712,
+         "id": "997910",
+         "field_search": "question",
+         "question": " Sao e không có tùy chọn màu cho phím điều hướng v ạ... lm s để cài ạ chỗ màu nền không có ô để tùy chọn màu  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.477875,
+         "id": "1009642",
+         "field_search": "question",
+         "question": "Xin chào,  cho em hỏi là có phần mềm điều chỉnh độ phân giải video từ 360p lên HD ngoại trừ CinemaHD không ạ, em sử dụng phần mềm ấy nhưng video vẫn như cũ, lại không được HD?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.004826,
+         "id": "1152535",
+         "field_search": "question",
+         "question": "Em mới mua Nokia 5.1 plus nhưng về dùng thì lại thường bị đơ cảm ứng. Mà khi tắt màn hình rồi mở lại là dùng bình thường. Cho em hỏi đây là hiện tượng gì vậy? Em mua chưa đầy 30 ngày thì trong trường hợp này em có được đổi lại máy mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.9916,
+         "id": "991105",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Tôi là Long. 2 tuần trước tôi có mua chiếc Oppo f3 ở bên mình. Nhưng nó là màu trắng ở mặt trước nên tôi không thích lắm. Oppo mới ra phiên bản màu đen. Tôi muốn đổi máy đang dùng lấy máy màu đen. Không biết bên mình có hỗ trợ việc đổi sản phẩm hoặc mua bán lại được không. Nếu có tôi cần làm gì và có mất phí không? Tôi mới mua máy được 2 tuần. Máy vẫn dùng tốt không hỏng hóc gì. Tôi xin chờ câu trả lời từ bên mình. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.966717,
+         "id": "1149118",
+         "field_search": "question",
+         "question": "điện thoại samsung galaxy a7 2018 của em bị đổ dung dịch khử mùi vào, bây giờ phím âm lượng (cả tăng lẫn giảm) bị liệt không thể điều chỉnh âm lượng được, kính camera bị bám hơi nước, điện thoại về chế độ safe mode nhưng không trở về chế độ bình thường được. cho em hỏi nguyên do và cách khắc phục ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.80055,
+         "id": "991394",
+         "field_search": "question",
+         "question": "Cho hỏi e vừa mua cái oppo f3 vàng đồng giờ muốn đổi bản màu đen thì có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.72632,
+         "id": "991100",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Tôi là Long. 2 tuần trước tôi có mua chiếc Oppo f3 ở bên mình. Nhưng nó là màu trắng ở mặt trước nên tôi không thích lắm. Oppo mới ra phiên bản màu đen. Tôi muốn đổi máy đang dùng lấy máy màu đen. Không biết bên mình có hỗ trợ việc đổi sản phẩm hoặc mua bán lại được không. Nếu có tôi cần làm gì và có mất phí không? Tôi mới mua máy được 2 tuần. Máy vẫn dùng tốt không hỏng hóc gì. Tôi xin chờ câu trả lời từ bên mình. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.53509,
+         "id": "1136077",
+         "field_search": "question",
+         "question": "1/Tôi mua mới mua điện thoại samsung A7 được vài ngày nhưng nó không hiển thị cuộc gọi nhỡ. Khi tôi khôi phục lại cài đặt gốc thì nó đã hiện thị cuộc gọi nhỡ. Như vậy là máy bị lỗi hhay sao?2/ khi đang dùng điện thoại với mức độ sáng mà tôi chỉnh tự dưng màn hình nó tối lai. Vậy là chế độ của điện thoại là vậy. Hay do máy bị lỗi.Như vậy tôi có thể đổi điên thoại mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.499207,
+         "id": "1008469",
+         "field_search": "question",
+         "question": "Cho em hỏi Oppo A33w của em dùng android 5.1. TGDĐ cho em hỏi máy có thể nâng cấp hệ điều hành hay không và nếu nâng cấp có gặp lỗi không ạ. Cảm ơn TGDĐ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.38344,
+         "id": "1023168",
+         "field_search": "question",
+         "question": "Dạ . Anh chị cho em hỏi 1 vấn đề ạE mua điện thoại ở TGDD nhưng bây giờ muốn đổi cái cùng loại màu khác . Samsung j7 pro màu xám đổi qua màu đen . Em mua được 12 ngày rồi .liệu có đổi được không . Hay mình phải bù 20% tiền . Anh chị tư vấn giùm em ạ .em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.313126,
+         "id": "1160865",
+         "field_search": "question",
+         "question": "tại sao messenger ở oppo a39 lại mất màu sắc cuộc trò chuyện và k có phần đổi màu đặt biệt hiệu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.308094,
+         "id": "798809",
+         "field_search": "question",
+         "question": "Cho em hỏi lí do nào khi cập nhật win 10 thì các video được lưu trong PC màu sắc trở nên đỏ hơn bình thường, cách khác vấn đề đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.25579,
+         "id": "1162672",
+         "field_search": "question",
+         "question": "Mình mua đt ss j6 plus bên TGDD nhưng khi về dùng gọi qua messenger thì camera trước thu lại hình ảnh rất nhiễu, màu chập chờn đấy là do dòng đt hay lỗi của sản phẩm ạ :)))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.23933,
+         "id": "1166826",
+         "field_search": "question",
+         "question": "Camera a50 hay bị vệch màu chỉ khi reset lại thì đỡ 1 tí rất khó chịu? Vậy e có thể đổi máy khác cùng màu được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.229275,
+         "id": "991108",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Tôi là Long. 2 tuần trước tôi có mua chiếc Oppo f3 ở bên mình. Nhưng nó là màu trắng ở mặt trước nên tôi không thích lắm. Oppo mới ra phiên bản màu đen. Tôi muốn đổi máy đang dùng lấy máy màu đen. Không biết bên mình có hỗ trợ việc đổi sản phẩm hoặc mua bán lại được không. Nếu có tôi cần làm gì và có mất phí không? Tôi mới mua máy được 2 tuần. Máy vẫn dùng tốt không hỏng hóc gì. Tôi xin chờ câu trả lời từ bên mình. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.20117,
+         "id": "1142383",
+         "field_search": "question",
+         "question": "Cửa hàng có căn chỉnh màu sắc màn hình laptop k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.053974,
+         "id": "1000599",
+         "field_search": "question",
+         "question": "Tại sao ảnh chụp của camera trước của q luna pro  khi chụp thì ảnh toàn bị lật (phản chiếu) lại vậy! Có cách khác phục hay tùy chỉnh ko ạ! Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.051846,
+         "id": "986596",
+         "field_search": "question",
+         "question": "Em chào các anh chị , các bạn . Em đang xài điện thoại iiphone 7plus khi mới mua em đã chụp hình bằng camera trước thì nó không bị đảo ngược . Nhưng một lần em bấm cái gì đó thì chụp nó lại bị ngược :( Em cố chỉnh nhưng không được ai .Mong mọi người giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.007576,
+         "id": "1014580",
+         "field_search": "question",
+         "question": "alo mình mua điện thoại oppo F3 được 20 ngày rồi giờ mình muốn đổi màu đỏ? thì sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.939926,
+         "id": "999083",
+         "field_search": "question",
+         "question": "dạ cho em hỏi hiện máy tính của e đang ở hệ điều hành window 7. giờ em muốn nâng cấp lên hệ điều hành mới nhất thì có bị mất phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.787273,
+         "id": "1133895",
+         "field_search": "question",
+         "question": "Em sài oppo f5 youth lắp sim Vẫn có sóng bình thường nhưng mà hay bị người khác điện thì thuê bao, đang mở 3g thì không có kết nối như vậy là sao?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.73654,
+         "id": "1010764",
+         "field_search": "question",
+         "question": "Cho em hỏi là cục sạc laptop em có bị chạm và sau khi em mua cục sạc mới về sử dụng lại máy thì em thấy máy bị lag. Không giống như bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.702198,
+         "id": "1135474",
+         "field_search": "question",
+         "question": "Điện thoại J7 pro của em mua tại Thế giới di động cũng được khoảng 1 năm rồi, bữa nay điện thoại bị hư (hình màu của đt bị hư, nó chuyển từ màu xanh đỏ rồi đen lại dần) mà giấy tờ liên quan em ko có giữ lại, không biết bên của hàng có lưu thông tin người mua và có thể giúp được em trong trường hợp này hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.684845,
+         "id": "1159531",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại pin tốt chơii game  mượt và chụp hình đẹp.. không biết nên chọn Oppo hay Vivo ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.676903,
+         "id": "1152991",
+         "field_search": "question",
+         "question": "Em mới mua Samsung Galaxy M20 vào tuần trước. Sau vài ngày sử dụng em thấy chiếc điện thoại của mình hay có dấu hiệu bị đơ và loạn cảm ứng. Em có thể đổi sản phẩm của mình được không ạ, và khi muốn đổi thì em cần phải làm gì ạ. Cho em xin lời khuyên .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.668938,
+         "id": "919758",
+         "field_search": "question",
+         "question": " Tại sao iphone SE không có màu xám vậy? chỉ thấy màu vàng đồng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.587948,
+         "id": "1165723",
+         "field_search": "question",
+         "question": "cho em hỏi muốn cài đặt điều hướng hệ thóng của oppo a3s thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.49454,
+         "id": "1162639",
+         "field_search": "question",
+         "question": "Cho hỏi mình mới mua góp con samsung a50 mới được 3 ngày màu xanh giờ muốn đổi sang màu đen thì được không ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.467564,
+         "id": "1155162",
+         "field_search": "question",
+         "question": "Mình sử dụng con Samsung galaxy a7 2018. Mình phát hiện một điều là khi dùng tay gõ nhẹ lên phần phía trên theo chiều từ ngoài vào lưng điện thoại. Chỗ camera. Có tiếng lách tách. Ban đầu mình cứ nghĩ đấy là óp lưng, nhưng khi rút ốp ra thì mới biết do phần cứng bên trong. Đội ngũ giải đáp giùm mình ạ  ( Điện thoại mới mua 1 tuần, chưa rớt hay va đập lần nào)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.434525,
+         "id": "801278",
+         "field_search": "question",
+         "question": "Phần báo pin máy ip5s của mình bình thường đầy pin báo màu xanh hết pin màu đỏ. Nhung hôm nay lại thấy báo màu vàng. Không biết có bị làm sao không ạ? Trả lời giup mình a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.421013,
+         "id": "990333",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Tháng trước tôi có mua Sản phẩm Oppo F3 bên mình nhưng là màu trắng. Tôi đã dùng được 3 tuần rồi. Hiện Oppo ra phiên bản màu đen. Tôi không biết bên mình có hỗ trợ việc đổi sản phẩm không. Nếu  có tôi phải làm những gì và có mất phí đổi trả hay những gì khác không ạ?  Tôi chờ câu trả lời từ bên mình. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.286427,
+         "id": "1165305",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng đt Oppo F7 128 Gb. Hôm trước em có chỉnh, tắt ứng dụng chạy ngầm khi tắt màn hình. Tuy nhiên giờ em muốn bật lại, thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.22348,
+         "id": "1004922",
+         "field_search": "question",
+         "question": "chào tgdd, mình có mua 1 laptop lenovo 510 15isk máy đã sử dụng,có thể giải đáp thắc mắc của mình được không ạ, cho hỏi chỗ thoát nhiệt máy tại sao lại có chỗ có cái màng bọc màu trắng chỗ lại không có như trong hình ạ, đây có phải là thiết kế của máy hay không?, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.21213,
+         "id": "999676",
+         "field_search": "question",
+         "question": "Xin chào ad TGDD.  Mình mới mua trả góp sản phẩm oppo f3 thường màu đen - mình đã  trả  trước  30%, không  biết  bây giờ mình muốn đổi sang oppo f3 plus có được không.!? Và nếu được thì phải trả thêm bao nhiêu ạ.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.175888,
+         "id": "1143575",
+         "field_search": "question",
+         "question": "tại sao máy của em lại có dòng kẻ màu xanh này ạ, có phải lỗi hệ thống k??? em mới mua ở tgdd 3 hôm trước ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.153027,
+         "id": "871512",
+         "field_search": "question",
+         "question": "Cho em hỏi, Laptop của em là Acer như trong hình, 2 hôm trước em đang dùng bình thường, bỗng dưng máy tắt và phải cắm điện trực tiếp mới dùng được vì hình như máy không nhận pin. Cho em hỏi là máy hư gì vậy ạ? Em mua máy vào tháng cuối tháng 3/2016. Em mua máy ở chi nhánh Cao Lãnh và hiện tại em ko có giấy tờ mua máy thế thì có được bảo hành ko ạ? Và có mất tiền ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.130184,
+         "id": "1163780",
+         "field_search": "question",
+         "question": "Nokia 3 của em sau khi cập nhật androi phiên bản 8.1.0 và ứng dụng Điện thoại phiên bản mới nhất thì giao diện Điện thoại chuyển sang màu đen. Em muốn chuyển sang màu sáng nhưng không khả thi như hình bên dưới. Mong được hỗ trợ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.117256,
+         "id": "916259",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi sử dụng ứng dụng messenger của fb chụp bằng camera sau thì chụp đc nhưng khi chuyển sang chụp selfie bằng camera trước lại ko chuyển sang đc. Vậy là do lỗi máy hay do lỗi phần mềm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.09856,
+         "id": "1004771",
+         "field_search": "question",
+         "question": "chào tgdd, mình có mua 1 laptop lenovo 510 15isk máy đã sử dụng,có thể giải đáp thắc mắc của mình được không ạ, cho hỏi chỗ thoát nhiệt máy tại sao lại có chỗ có cái màng bọc màu trắng chỗ lại không có như trong hình ạ, đây có phải là thiết kế của máy hay không?, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.092674,
+         "id": "1018270",
+         "field_search": "question",
+         "question": "J7 prime của em bị ngấm nước nó bị nổi sáng màn hình ở phần trên màn hình điện thoại . Bật ứng dụng nào lên nó cũng không hoạt động được và luôn hiện lên bảng điều chỉnh âm anh em tắt hoài không được . Không biết bên anh chị có hỗ trợ về vấn đề này không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.05146,
+         "id": "918407",
+         "field_search": "question",
+         "question": "Máy em sau khi cài win ở tiệm về thì thấy màn hình hiển thị không sắc nét như trước là sao vậy ad? Em có ngồi coi người ta cài đàng hoàn k đ đâu cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.044117,
+         "id": "1167928",
+         "field_search": "question",
+         "question": "em sử dụng oppo f5,do em bị hư cả bộ sạc nên em mua củ sạc và dây sạc mới,củ sạc em mua cũng là của oppo,còn dây sạc thìu em mua loauij xmobile của tgdđ ạ,mkjhui sạc thì củ sạc nóng lắm ạ,còn dây và dt thì bình thường,không biết có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.04003,
+         "id": "1149237",
+         "field_search": "question",
+         "question": "Mình mua điện thoại ip 7+ 32Gb được 2 tuần. Nhưng về sử dụng thấy hay bị mất sóng, dùng mạng wifi hay mạng di động cũng thường xuyên bị mất kết nối mạng. Chiếc 7+ cũ mình dùng thì không có bị tình trạng này. Cho mình hỏi đây là lỗi của sản phẩm hay gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.01602,
+         "id": "768148",
+         "field_search": "question",
+         "question": "  Em không biết nên mua iPhone 6s plus màu xám hay hồng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.00687,
+         "id": "1013602",
+         "field_search": "question",
+         "question": "Mình đang sử dụng đt oppo joy 3 ( màu trắng) máy vẫn còn chạy tốt nhưng do bộ nhớ trong có 2GB yeu quá mình sử dụng không được. Mình muốn đổi máy khác có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.96573,
+         "id": "798815",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 4s của em khi cắm tai nghe thì có thanh điều chỉnh âm lương và rút ra thì không có? Cho e cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.926178,
+         "id": "1014133",
+         "field_search": "question",
+         "question": "1 tháng nay điện thoại em ( j5 ) hay xuất hiện hiện tượng giật cam màn hình riêng thanh công cụ thì vẫn bình thường k đổi màu. Chờ 1 tí hoặc tắt máy rồi mở lại thì nó bình thường lại hoặc chỉnh độ tối nó giật giật rồi hết. Cũng thử cài đặt gốc lại rồi mà cũng bị vậy. Help",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.92477,
+         "id": "1006307",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi . Ip6 của e loa nghe nhạc điều bình thường , điện bằng zalo và messenger thì bên nào cũng nghe rất rõ , chỉ có gọi bằng sim thì bên kia không nghe e nói nhưng e nghe bên kia nói rất rõ.. cho e biết là do bị gì vậy ? Tại sim hay tại máy ?? E cám ơn nhiều .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.916832,
+         "id": "1165984",
+         "field_search": "question",
+         "question": "Mình mới mua iphone x bên cửa hàng được 10 ngày. Nhưng khi sử dụng thấy máy nóng rất nhanh (không bật 4g chỉ dùng wifi, nhiệt độ phòng ổn định). Gọi video call khoảng 5-10p là phần viền và quanh cụm camera rất nóng. Liệu đây có phải là lỗi của máy hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.844807,
+         "id": "1148448",
+         "field_search": "question",
+         "question": "Cho e hỏi,E mua ip cũ về thấy 4 viền màn hình có màu vàng nhẹTắt đèn nhìn kĩ thấy màu trắng ko khớp với màn hình rất nhỏ là do đã thay màn hay ép cường lực ko khít để bụi bám hả shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.821712,
+         "id": "1162903",
+         "field_search": "question",
+         "question": "Em sử dụng samsung s6 thường. Tự dưng màn hình có màu sác lạ (như trong hình) ở góc bên trái. Để khoảng chục phút thì màu lan dần ra cả màn hình. Và giờ là điện thoại em bật lên đen xì rồi. Nhưng cảm ứng vẫn không làm sao. Cho em hỏi là điện thoại của em bị gì và phải sửa như thế nào vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.767685,
+         "id": "861107",
+         "field_search": "question",
+         "question": "Xin hỗ trợ , camera điện thoại iphone 5s của tôi bị màu đen, không nhìn thấy gì, trong khi camera trước vẫn bình thường, tên tôi là Phương, số đt 0973455356",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.76304,
+         "id": "869442",
+         "field_search": "question",
+         "question": "Máy của em là iPhone 5s tự dưng bây giờ không phát ra âm thanh, cắm tai nghe vào thì lại hoạt động như bình thường, điều chỉnh phở nút âm lượng thì lại hiển thị âm lượng của tai nghe. Em đã khởi động lại máy, chỉnh các nút rìa nhưng vẫn không được vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.6875,
+         "id": "1142559",
+         "field_search": "question",
+         "question": "Muốn đôie oppo f5 youth vàng qua màu đen như thế nào ạ với lại làm sao để kiểm tra máy còn bao hành không bằng số điện thoại khi mua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.657055,
+         "id": "767480",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi tí. Mình mới mua iPhone 6s Plus nhưng mình thấy lạ là phần hiển thị phần trăm pin khác thường quá. Cụ thể là khi mình dùng còn dưới 20% pin thì lúc nó màu đỏ lúc thì màu vàng. Còn nhiều thì lúc màu trắng lúc thì màu đen. Vậy là tại sao. Mong ad sớm cho mình câu trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.611847,
+         "id": "1168099",
+         "field_search": "question",
+         "question": "Cửa hàng hỏi xíu chụp camera note 8 màu hồng nhiều làm cách nào chỉnh được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.606197,
+         "id": "965162",
+         "field_search": "question",
+         "question": "Em mới mua con ASUS core i5-62000U,tên nó là DESKTOP-SD3LBC8 đang chạy win10.. hôm qua em có cắm sạc để sạc pin từ chiều đến tối rồi quên rút sạc để đến sáng nay... lúc nãy rút sạc ra thì bật máy không lên,khi em cắm sạc vô thì máy lên và hoạt động bình thường,cho em hỏi vậy là máy bị lỗi pin hay bị gì ạ...Vì mới mua đầu tháng 3 nên em có thể đem ra TGDĐ để trực tiếp chỉnh máy hay không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.601917,
+         "id": "1017167",
+         "field_search": "question",
+         "question": "mình vừa mua Oppo f3 màu đỏ chưa được 1 tháng. giờ mình muốn đổi để lấy C9pro hay Oppo F3 plus hoặc điện thoại khác thì phải như thế nào. AD chỉ dùm với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.587967,
+         "id": "787682",
+         "field_search": "question",
+         "question": "Tôi có mua lại một máy iPhone 5s đã qua sử dụng tại thegioididong ngày 12/2. Sau khi về sử dụng được 4 ngày thì camera trước của máy bị lệch vị trí so với ban đầu. Tôi sử dụng không làm rơi hay va đập vậy lỗi này có được đổi trả không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.561768,
+         "id": "1011858",
+         "field_search": "question",
+         "question": "Qtv ơi mình có mua 1 chiếc oppo f3 màu đen tại tgdd ở thường lệ mê linh hà nội. Ngày 18-7-2017 mình không có nhu cầu sử dụng nữa muốn bán lại cho cửa hàng thì giờ được bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.48966,
+         "id": "1010410",
+         "field_search": "question",
+         "question": "Mình xin hỏi có bạn nào bị lỗi ở phần giờ trong Instagram chưa ạ? Hiện tại thì hiển thị trước 15h ạ, trong ảnh này tức là tầm 1h trước. Em không biết lỗi do điện thoại hay app, mong mọi người giúp em fix với. Em dùng Samsung.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

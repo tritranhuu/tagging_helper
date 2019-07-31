@@ -1,0 +1,801 @@
+{
+   "id_query": "792642",
+   "total": 28913,
+   "total_current": 100,
+   "max_score": 79.69685,
+   "origin_question": " iPhone 4 của mình khi gọi facetime máy yêu cầu bật wifi để gọi facetime là sao mình dùng ios 7.1.2 ",
+   "hits": [
+      {
+         "score": 34.130764,
+         "id": "935487",
+         "field_search": "question",
+         "question": "Tại sao 2 máy iphone 4 đều cài đặt mạng Wifi nhưng 1 cái nhà mạng Viettel còn cái kia là Mobi không thể gọi được Facetime.Trong khi 2 cái iphone 4 cùng mạng Viettel lại gọi đc Facetime cho nhau ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.922573,
+         "id": "987083",
+         "field_search": "question",
+         "question": "Điện thoại của e là ip6 mà sao khi em gọi messger bật loa ngoài nói ngta khong nghe gì cả. Trong khi gọi qua facetime lại nghe bt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.59856,
+         "id": "1156463",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình dùng iphone, mình có thể gọi facetime đến sđt đã chặn gọi và ntin mình đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.32495,
+         "id": "777268",
+         "field_search": "question",
+         "question": "Mình muốn hỏi là iphone 4s cập nhật ios 9.2.1 nhưng thỉnh thoảng lại không gọi facetime với  imessenger được là do tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.237562,
+         "id": "752805",
+         "field_search": "question",
+         "question": "Em dùng ip5s, từ lúc lên ios 9.1, phần mềm facetime khi em gọi sang ipad vẫn ok, nhưng một số số điện thoại em gọi nó đổ chuông nhưng bên kia không hiện thông báo và bên đó gọi lại bên em cũng không hiện thông báo (đổ chuông 1 lúc báo là \"KHÔNG KHẢ DỤNG\"). Vậy cho em hỏi lý do là vì sao và làm thế nào để khắc phục ạ? (2 số đều nhắn tin cho nhau bình thường, chỉ là gọi facetime âm thanh lẫn facetime là không được)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.846273,
+         "id": "998285",
+         "field_search": "question",
+         "question": "Tôi có samsung J7 prime muốn gọi video thì làm thế nào?Người khác dùng iphone gọi facetime cho mình không được là vì sao?Nhờ ad giải đáp giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.693722,
+         "id": "873616",
+         "field_search": "question",
+         "question": "A ơi. E gọi FaceTime nhưng bên kia k nghe đc tiếng. Vào micro thì ntn. E muốn bật FaceTime của micro thì làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.806782,
+         "id": "1142142",
+         "field_search": "question",
+         "question": "Chao a/c Cho em hỏi em đang xài cái ip6s nhưng muốn gọi facetime với bạn thì không thấy facetime hiện lên để gọi dù hai đứa xài iphone nhưng bạn em thì vào danh bạ thấy facetime luôn nhưng máy em lại hiện của zalo. Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.722178,
+         "id": "765398",
+         "field_search": "question",
+         "question": " iPhone 6 minh đang xài không gọi được FaceTime thoại , chỉ gọi sẽ video   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.57404,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.236343,
+         "id": "1158908",
+         "field_search": "question",
+         "question": "Mình làm theo mọi chỉ dẫn rồi nhưng sao không gọi được FaceTime trên ip x ad nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.820677,
+         "id": "934909",
+         "field_search": "question",
+         "question": " Cho mình hỏi sao Khong bật được FaceTime . Bật lên báo lỗi  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.745483,
+         "id": "938500",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng iphone 5 QT ios 9 gọi điện bình thường, gọi facetime bình thường nhưng gọi các ứng dụng khác như facebook mesenger, zalo, viber, line... Thì bên kia không nghe được tiếng của mình. Dù đã cho phép các ứng dụng đó sư dụng micro, chạy lại pm cũng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.645704,
+         "id": "992804",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi..mình mới mua ip6s plus tại TGDĐ được tầm một tuần...hiện tại mình gọi facetime, facetime audio cho người khác được, nhưng khi họ gọi lại thì máy luôn báo đang kết nối, mình tắt đi gọi lại cho ngta thì được, cho mình hỏi cách khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.006834,
+         "id": "929040",
+         "field_search": "question",
+         "question": "E đang dùng iphone 6s, máy rất ok. Không hiểu sao hôm nay e gọi cho bạn thì e vẫn nghe tiếng bạn nhưng em nói bạn ko nghe. Dù là facetime hay messenger hay gọi hình thường. Vậy là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.92059,
+         "id": "872484",
+         "field_search": "question",
+         "question": "Bác nào cho e hỏi là e dùng ip 6s mà làm đủ mọi cách k kích hoạt được facetime là sao nhỉ?? Trong cài đặt cũng không có chỗ để bật facetime luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.617216,
+         "id": "882102",
+         "field_search": "question",
+         "question": " Hiện tại tôi đang ở nước ngoài nhưng khi về nước facetime sẽ gọi vào sô cũ của tôi hay là số điện thoại mới ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.756866,
+         "id": "911649",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là sao ipad mini 3 của mình không kích hoạt được facetime với imessage z .đăng nhập vào imessage thì lại lỗi facetime,,ngược lại...ai pt  mình với,wifi nhà mình ổn định nên chắc ko phải do mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.475746,
+         "id": "999681",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4s khi nói chuyện Facetime mình nói nhưng đầu dây bên kia không nghe thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.176537,
+         "id": "812158",
+         "field_search": "question",
+         "question": " CHO EM HỎI khi gọi mesenger thì hệ thống yêu cầu kết nói ảnh mà micro để gọi, em dùng lap win 7 tìm mọi cách không đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.068918,
+         "id": "813543",
+         "field_search": "question",
+         "question": " Facetime trên điện thoại iphone của mình bị ẩn thì làm sao khắc phục? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.94176,
+         "id": "765158",
+         "field_search": "question",
+         "question": " iPhone 4s của mình đang là iOS 7.1.2 làm sao để cập nhật phần mềm ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.699354,
+         "id": "993079",
+         "field_search": "question",
+         "question": "Facetime có thể gọi và nhắn tin miễn phí qua nhật đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.574492,
+         "id": "756921",
+         "field_search": "question",
+         "question": " Sao iPhone 4 của mình chạy iOS 7.1.2 nhưng mà sao không có màu mè như iPhone 4s vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.52755,
+         "id": "928402",
+         "field_search": "question",
+         "question": "Máy mình là ip4 phiên bản 7.1.2 mình l thể tải được facebook và messenger về máy.nó toàn hiển thị là ứng udngj này yêu cầu ios 8.8 trở lên mới tải về và sử dụng được.là sao vậy.lúc trước mình vẫn tải và dùng được như thường nhưng sau khi xóa để tải lại thì lại k dc.mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.30187,
+         "id": "793887",
+         "field_search": "question",
+         "question": " Em dùng iphone 5 bản quốc tế. Khi kích hoạt FaceTime cứ bị hiện lên như này là sao ạ .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.256144,
+         "id": "930540",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao máy mình khi gọi đi lại không hiển thị thời gian cuộc gọi . Gọi đã bắt máy rồi .mà khi người khác gọi tới lại có ,mình dùng iphone 6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.140108,
+         "id": "820639",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4 phiên bản 7.1.2. Mình muốn thêm ảnh vào danh bạ của từng liên lạc nhưng ảnh mỗi lần gọi không full toàn màn hình được. Phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.071682,
+         "id": "939253",
+         "field_search": "question",
+         "question": " tại sao iphone 4 của em ios 7.1.2 không tải facebook về được mà máy ip4s cũng ios 7.1.2 tải về được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.864586,
+         "id": "1145491",
+         "field_search": "question",
+         "question": "Em vừa đổi sang iphone 8 và có sao lưu từ iphone cũ , nhưng vừa sao lưu xong và bấm vào ứng dụng facetime thì ứng dụng tự biến mất . Em có vào phần tìm kiếm và phần cài đặt thì cũng không thấy hiện facetime nữa , trong danh bạ cùa em cũng k thể gọi cho những người sử dụng iphone bằng facetime nữa :((( mn cho em hỏi là máy em bị sao vói ạ :(((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.711477,
+         "id": "780794",
+         "field_search": "question",
+         "question": "Giờ em muốn nâng cấp iPhone 4 của em lên ios 7.1.2 nhưng cần tới 1,1gb và yêu cầu 3.8gb mới nâng cấp được , trong khi đó em đã xóa hết các app nặng nhưng vẫn không đủ , không hiểu phần gb còn lại được dùng để lưu cái gì , ad giúp em với ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.614487,
+         "id": "753508",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có cái iPad moden A1432 không đăng nhập vào facetime được phải làm sao? Mình đã cài icloud và thử nhiều wifi khác nhau rồi mà vẫn không vào được facetime. Nhờ admin giúp dùm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.575495,
+         "id": "1160043",
+         "field_search": "question",
+         "question": "xin chào, em muốn mua 1 chiếc điện thoại giá tầm 3-4 tr, có thể trả góp, tuy nhiên em yêu cầu chiếc điện thoại đó bắt được wifi hoặc dùng 3G tốt khi gọi video call, em cảm ơn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.568886,
+         "id": "766941",
+         "field_search": "question",
+         "question": " Tớ dùng iPhone 6plus sao tới cài facetime mà ko có số dt mà máy dùng nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.012592,
+         "id": "955962",
+         "field_search": "question",
+         "question": "Cho em hỏi cập nhật từ ios 7.1.2 lên 8 được không ạ .... Máy em không yêu cầu cập nhật nhưng vào tải game thì yêu cầu cập nhật cho em hỏi phải làm sao để cập nhật... Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.887007,
+         "id": "928448",
+         "field_search": "question",
+         "question": "Admin . Cho mình hỏi xí . Mình đang dùng iphone 4. Máy mình đang bị lổi là .\" Tắt mạng 3g đi thì có cột sống ,nghe gọi bth. Còn bật mạng 3g lên thì mất cột sống luôn,ko nghe gọi đc , chỉ duy còn chử 3G , vô mạng bthuong\" . Mình ko bt lỗi sao luôn . Giờ 1 là dùng 3 g thì mất nghe gọi , mà nghe gọi thì ko dùng đc 3G . Mong Ad giúp mình với. Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.856846,
+         "id": "1154213",
+         "field_search": "question",
+         "question": "em muốn hỏi sao trên macbook air của em lại bị lỗi kích hoạt facetime với imessenger vậy ạ? có cách khắc phục không? trong khi đt iphone của em facetime vẫn sử dụng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.752966,
+         "id": "883162",
+         "field_search": "question",
+         "question": "Minh đang dùng iphone 5 ...nhưng khi mình gọi Facetime hay messenger cho bạn mình, lúc mình nói tì bạn mình nghe nhỏ nhưng mình nói thì bên bạn mình lại nghe to và tốt...thế cho mình hỏi có phải máy mình bị hỏng loa ko ạ...nhưng nghe nhạc tì ok...nếu hỏng tì bên st có sửa ko à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.616385,
+         "id": "906414",
+         "field_search": "question",
+         "question": "Xin cho hỏi 2 máy iPhone cùng dùng chung app ID Khi có một cuộc gọi FaceTime tới thì Cả 2 máy đều đổ chuông. Có thể trả lời 2 máy cùng lúc hay không? Hay là máy nào trả lời trước thì máy kia tự động tắt? Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.598421,
+         "id": "1133604",
+         "field_search": "question",
+         "question": "mình đang dùng ip 5 ios 10.3.3 nhưng không kích hoạt được imess và facetime. ad có thể cho mình cách khắc phục được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.570044,
+         "id": "792911",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4, phần mềm 7.1.2, khi gọi video bằng ứng dụng line thì bên người nghe không nghe thấy tiếng mà vẫn nhìn thấy hình. Xin quản trị viên hỗ trợ dùm mình. Thanks bạn nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.552816,
+         "id": "800800",
+         "field_search": "question",
+         "question": " Laptop mình dùng win8.1 tại sao mỗi khi khởi động hay tắt máy đều yêu cầu updates? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.491251,
+         "id": "990920",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 7 Plus nhưng không biết tại sao khi mình chuyển sim từ Iphone 5 qua thì máy lại không kích hoạt được imess và facetime. Bạn nào biết thì giúp mình nha. Mình cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.421482,
+         "id": "799573",
+         "field_search": "question",
+         "question": "Cho mình hỏi chútMình mới mua IPhone 5s, nhưng đột nhiên một ngày tìm đến ứng dụng Facetime lại không thấy icon, tim kiếm ở tất cả các mục đều không thấy, nên làm thế nào?, có vào mục giới hạn để bật nhưng cũng không thấy Facetime đâu nữa/",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.10285,
+         "id": "777196",
+         "field_search": "question",
+         "question": " Shop cho mình hỏi là shop có hạ cáp iPhone 4 ios 7.1.2 xuống 6.1.2 được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.904057,
+         "id": "762421",
+         "field_search": "question",
+         "question": "Mình bị cái mic khi bật loa ngoài.mình nói họ không nghe. Còn dùng loa trong thì nghe bình thườngTrên facebook, zalo, tango, line.Còn facetime thì lại bình thường nhéTrên iphone 6.Ai biết giúp đỡ cái?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.895168,
+         "id": "1001030",
+         "field_search": "question",
+         "question": " Cho Mình Hỏi Tại Sao máy note5 của Mình bật loa ngoài là Mình gọi cho ai là người ta ko nge thấy j là sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.874798,
+         "id": "766983",
+         "field_search": "question",
+         "question": "Mình có con iPhone 4s muốn kết nối với iPhone khác bằng FaceTime mà nó cứ báo \"đang kết nối\" mà đợi mãi không được... Đã nhập đầy đủ ID và máy gọi Line vẫn được... có pro nào giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.795666,
+         "id": "772624",
+         "field_search": "question",
+         "question": "Bạn ơi, sao iPhone 4 của mình không hiện được ảnh Full màn hình khi có cuộc gọi đến vậy? Mặc dù mình đã là theo bạn nói, bạn giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.75705,
+         "id": "814660",
+         "field_search": "question",
+         "question": "Chào mọi người mình có cái iphone 5, mày yêu ccaucap nhật chương trình sau khi mình nhấn ok để cập nhật, máy yêu cầu nhập mật khẩu 6 số? Mình ko hiểu vì sao giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.73831,
+         "id": "847745",
+         "field_search": "question",
+         "question": "Anh ơi ~~cho em hỏi facetime của e gọi thì bt ~~ nhưng e nói người ta không nghe em , người ta nói chuyện thì e nghe vây !!! là bị gì vậy a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.631428,
+         "id": "1023819",
+         "field_search": "question",
+         "question": "Mình đang dùng iPad Air 2. Sau khi mình cập nhật IOS 11 thì máy hiện lên màn hình khóa bình thường và yêu cầu nhập mậ khẩu. Nhưg sau đó máy hiện lên 1 màn hình trắng yêu cầu nhấn home để mở khóa nhưg khi nhấn home thì lại bảo nhập mật mã trog khi ko có bàn phím hiện lên. Giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.587564,
+         "id": "885014",
+         "field_search": "question",
+         "question": "ad cho e hỏi e gọi facetime cho người khác họ k nghe thấy e nói mà e nghe thấy họ nói lỗi này là sao ạ e dung iphone5 nhé gọi điện mic thoại vẫn oke",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.578493,
+         "id": "988179",
+         "field_search": "question",
+         "question": "Mình xài iPhone 6 , gọi messenger với Zalo bấm loa ngoài hay video thì nói bên kia không nghe còn bên kia nói mình vẫn nghe bình thường . Còn mình gắn dây phone vào hay gọi bình thường không video không loa ngoài thì bình thường không bị gì hết  Gọi FaceTime củng bình thường không có lỗi vậy cho mình hỏi đó có phãi chịu chứng lỗi main không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.575783,
+         "id": "1159155",
+         "field_search": "question",
+         "question": "mình đang dùng oppo a3s, k hiểu sao đang sạc mình xem thì lỗi đen màn hình, không hiện gì hết, dù bật nguồn cũng k hiện. Trong khi người gọi vẫn gọi đượccho mình. mà máy mình k có chuông cũng như k nhận được cuộc gọi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.5573,
+         "id": "756505",
+         "field_search": "question",
+         "question": "Chào AD mình vừa vừa iPhone 6s Plus được 20 hôm,từ hôm mua về máy của mình khi nhận cuộc gọi từ số khác gọi đến,đó chưa kịp trả lời thì máy vào tắt màn hình máy vẫn đổ chuông ,mình bật máy lên không có chỗ nào để mình trả lời cuộc gọi,vậy có phải máy của mình bị lỗi không? Nếu bị lỗi mình có được đổi máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.5289,
+         "id": "770071",
+         "field_search": "question",
+         "question": " iPhone 4 16GB của em đã nâng cấp lên iOS 7.1.2 mà sao vào các App camera nó bị chậm là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.366077,
+         "id": "801906",
+         "field_search": "question",
+         "question": "Mình sử dụng iphone 4 thường, ios 7.1.2. Hôm nay máy báo ios hết hạn sử dụng. Vậy mình có thể cập nhật phần mềm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.302214,
+         "id": "759524",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là tại sao Messenger của em không gọi được video mà Appstore yêu cầu cập nhật liên tục rồi ạ? em đang dùng iphone 5S, mong anh chị giúp em với ạ? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.276012,
+         "id": "993420",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Tại sao mình đang thực hiện cuộc gọi muốn ấn nút nguồn để khóa màn hình sao cuộc gọi cũng kết thúc luôn vậy. Mình dùng iphone",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.191925,
+         "id": "886131",
+         "field_search": "question",
+         "question": " Làm sao để tải các ứng dụng đòi ios 8 mà trong khi đó iphone 4 của mình ko lên được ios 8 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.007395,
+         "id": "1144711",
+         "field_search": "question",
+         "question": " Mình cần tư vấn mua điện thoại smartphone, yêu cầu tự động ghi âm cuộc gọi và pin trâu. Cảm ơn ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.943396,
+         "id": "812587",
+         "field_search": "question",
+         "question": " iCloud, Facetime bị ẩn trên iphone 4s, làm sao khắc phục? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.916086,
+         "id": "1154265",
+         "field_search": "question",
+         "question": "anh ơi, cho em hỏi: em đang dùng iphone 4 IOS 7.1.2, nhà em k có wifi nên em dùng 3g trên iphone thế là sau một thời gian, pin của nó yếu đi rõ rệt. Anh có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.852776,
+         "id": "861030",
+         "field_search": "question",
+         "question": "Cho mình hoi máy của mình dang nhắn tin SMS cho bạn mình thì máy chuyển sang nhắn tin FaceTime nhưng tin nhắn không tới bạn mình mà lại tới số lạ khác và mình kiểm tra chi tiết tin nhăn gửi cho bạn trên may mình vân có còn bạn mình thì FaceTime khổng kích hoạt ma tin nhắn vẫn đến số lạ là bị làm sao vậy mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.774149,
+         "id": "1154572",
+         "field_search": "question",
+         "question": "Chào bạn.Mình đang dùng Note 9, mình thử dùng Samsung Pay, khi yêu cầu mình quét móng mắt và dùng mã pin mình làm theo. Nhưng khi thoát khỏi phầm Samsung pay thì khi khóa màn hình và mở lại nó yêu cầu nhập mã pin. Mình nhập đúng 4 số mà không được. Mình không hiểu lắm, đã khởi động lại rồi mà không mở được? ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.75094,
+         "id": "899676",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5s, tại sao có cuộc gọi đến khi màn hình ko sáng rồi bật sáng lên mà ko thấy sđt ng gọi nhưng vẫn có chuông. Mọi ng cho hỏi bị sao và cách khác phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.64953,
+         "id": "1161403",
+         "field_search": "question",
+         "question": "Cho hỏi cách phá khóa vẽ màn hình máy galaxy note 8 với mình để vẽ màn và vân tay nhưng khi tắt đi mình quren mất hình vẽ để mở khóa và máy yêu cầu phải vẽ chứ không đc dùng vân tay khi tắt đi bật lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.57395,
+         "id": "1165984",
+         "field_search": "question",
+         "question": "Mình mới mua iphone x bên cửa hàng được 10 ngày. Nhưng khi sử dụng thấy máy nóng rất nhanh (không bật 4g chỉ dùng wifi, nhiệt độ phòng ổn định). Gọi video call khoảng 5-10p là phần viền và quanh cụm camera rất nóng. Liệu đây có phải là lỗi của máy hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.426914,
+         "id": "854756",
+         "field_search": "question",
+         "question": "tại sao mình cập nhật lên ios 10.0 r mà khi có cuộc gọi đến mình lại ko thấy đèn LED nháy trong khi mình đã bật chế độ đèn LED cảnh báo lên r",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.387516,
+         "id": "943694",
+         "field_search": "question",
+         "question": " Mình dùng iphone 6 plus, bạn mình dùng iphone 5, bạn mình tháo sim ra rồi nhưng mình gọi vẫn đổ chuông là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.387434,
+         "id": "870717",
+         "field_search": "question",
+         "question": " Iphone 4 phần mềm ios 7.1.2 muốn nâng cấp lên ios 8.1 thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.376955,
+         "id": "931107",
+         "field_search": "question",
+         "question": "Mình đang dùng ip 6s Plus, Mình bị như vậy không thể kích hoạt được facetime và imess. Các bạn chỉ giúp mình sao với ạ. Thanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.327078,
+         "id": "762197",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s có tải vivavideo về nhưng quay xong và lưu rồi nhưng khi vào xem lại không xem được. Yêu cầu bật truy cập trong thiết đặt mà mình tìm mãi không thấy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.262745,
+         "id": "1162493",
+         "field_search": "question",
+         "question": "Chào ad ! Điện thoại iphone của em bị mất . Em đã dùng icloud để khóa máy từ xa . Giờ tìm được máy lại rồi nhưng máy yêu cầu mật khẩu khi em vô hiệu hóa . Giờ em muốn gỡ bỏ mật khẩu đó để lần sau mở máy điện thoại không yêu cầu nhập nữa thì phải làm sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.234507,
+         "id": "777032",
+         "field_search": "question",
+         "question": "Các bạn giúp mình với iPhone 4S của mình nghe cuộc gọi xong bị như ảnh mình đính kèm lên mình phải tắt nguồn bật lại mới dùng được, ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.231503,
+         "id": "988183",
+         "field_search": "question",
+         "question": "Mình xài iPhone 6 , gọi messenger với Zalo bấm loa ngoài hay video thì nói bên kia không nghe còn bên kia nói mình vẫn nghe bình thường . Còn mình gắn dây phone vào hay gọi bình thường không video không loa ngoài thì bình thường không bị gì hết  Gọi FaceTime củng bình thường không có lỗi vậy cho mình hỏi đó có phãi chịu chứng lỗi main không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.155554,
+         "id": "916413",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi tại sao tại nghe của máy Lenovo a2010 mình dùng lúc gọi điện khi nói thì bên kia đường dây họ lại k nghệ thấy j là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.14143,
+         "id": "771928",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 4s của mình gọi đi gọi đến đều không không nghe thấy gì cả. Bật loa ngoài cũng không có tín hiệu. Mong bạn giúp mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.115448,
+         "id": "1153439",
+         "field_search": "question",
+         "question": "Mình mới update con iphone 6 của mình lên ios 12.1.4 và giờ nó k báo lỗi \"K có dịch vụ\", k thể nghe gọi hay nhắn tin được. Vào wifi vẫn được nhưng k thể bật 3G. Cho mình hỏi cách giải quyết với ạ. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.066349,
+         "id": "893700",
+         "field_search": "question",
+         "question": "Mình dùng ip6 và ios 9.2.1. Bình thường mình bật 3g lên dùng vô tư nhưng hôm nay chỉ bật đc 2g chứ bật 3g nhưng ko lên là bị sao ạ? Trong khi đó mạng vettel đủ 4-5 vạch k mất sóng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.995478,
+         "id": "847445",
+         "field_search": "question",
+         "question": " Iphone 5s của mình khi ngta gọi đến thì chỉ rung chứ ko đổ chuông thì tại sao ạ. Mà vào cài đặt bật lớn thì nó ok ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.977024,
+         "id": "845342",
+         "field_search": "question",
+         "question": " Tại sao iPhone 5s của mình số khác gọi đến ma không vuốt được để nghe ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.976355,
+         "id": "764939",
+         "field_search": "question",
+         "question": "Máy mình là iPhone 5S màu vàng mà bị dính iCloud mình có hỏi cửa hàng này nọ họ nói là cứ dùng đến khi nó trục trặc thì tính sau. mà bây h nó cứ gửi liên tục yêu cầu đăng nhập thì mình phải làm sao để tắt thông báo đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.973131,
+         "id": "876275",
+         "field_search": "question",
+         "question": "Cho mình hỏi: cả nhà mình bố mẹ và mình đều dùng chung 1 tk icloud, mỗi khi máy mình có cuộc gọi nhỡ của bạn mình gọi tới thì cả máy bố và mẹ mình đều hiện số của bạn mình và ngược lại. Cho hỏi làm sao để tắt chức năng này đc ạ? Cảm ơn ad và mọi người nha!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.955055,
+         "id": "896974",
+         "field_search": "question",
+         "question": "Khi em dùng ứng dụng messenger của facebook để gọi chiếc iphone của em nó nóng bừng lên đặc biệt khi gọi cả video và nó ngốn pin cực kỳ nặng. Nên cho em hỏi là máy có vấn đề gì không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.931688,
+         "id": "942792",
+         "field_search": "question",
+         "question": " Mình đang xài iphone 4 phien ban IOS 7.1.2 cho mình hỏi vậy có phát trực tiếp trên Facebook được không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.926765,
+         "id": "808065",
+         "field_search": "question",
+         "question": "Xin chào mình xài Zenfone 4 nhưng sao tự nhiên mất rung làm cách nào để máy rung khi có tin nhắn hay cuộc gọi được làm ơn giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.87781,
+         "id": "1140608",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy nova 3i mình gọi video trên mess và zalo với gọi bình thường mà bật loa ngoài là người bên kia không nghe gì. Còn k gọi video và k bật loa ngoài là vẫn nghe bình thường là do gì vậy??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.854517,
+         "id": "1146556",
+         "field_search": "question",
+         "question": "điện thoai j7 pro của mình khi có cuộc gọi zalo thì k bấm nghe được. n kêu mãi k tắt (trong khi người gọi tắt r) mình khởi động lại máy thì hết. là sao nhi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.808872,
+         "id": "765893",
+         "field_search": "question",
+         "question": "Mình hỏi là iPhone 5S dùng sim kép những sdt mình lưu vào danh bạ thì mình không thể gọi được còn những số mình không lưu thì vẫn gọi bình thường? Không biết là bị sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.808828,
+         "id": "815024",
+         "field_search": "question",
+         "question": " e sài iphone 4 ios 7.1.2 có dùng trả lời tin nhắn trên màn hình khóa được không vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.800415,
+         "id": "1154171",
+         "field_search": "question",
+         "question": "em sử dụng vmarts joy1plus, khi tắt nguồn máy hỏi mã pin, em đã nhập đúng rồi, nhưng máy yêu cầu ĐỂ MỞ KHÓA ĐIỆN THOẠI CỦA BẠN, HÃY TẮT RỒI BẬT ĐIỆN THOẠI là sao ạ, tư vấn giúp em với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.765764,
+         "id": "1010370",
+         "field_search": "question",
+         "question": "Tại sao khi em bật led cảnh báo cuộc gọi khi nháy nhưng nó không có hiện đèn . E đang dùng iPhone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.738167,
+         "id": "841142",
+         "field_search": "question",
+         "question": "cho mình hỏi khi tắt máy tính thì bị yêu cầu có dòng chữ UPDATE AND SHUT DowN là sao ạ. Khi bị như vậy mình không tắt được máy tính.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.719301,
+         "id": "1155995",
+         "field_search": "question",
+         "question": "Cho mình hỏi chiếc note 8 của mình khi update phần mềm mới không trượt nghe được khi có cuôc gọi đến là sao? Gọi đi vẫn bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.582624,
+         "id": "765263",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 4S, mình muốn cài đặt tất cả cài đặt cho điện thoại nhưng khi cài đặt máy yêu cầu nhập mã khóa của bạn. Cho hỏi mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.57725,
+         "id": "1158826",
+         "field_search": "question",
+         "question": "Cho em hỏi: Tại sao khi em gọi người khác lúc trước không sao dạo gần đây hễ gọi là đổ chuông 2 lần xong là báo bận luôn z ạ (Số đó k hề chặn sdt của em cũng k gọi người khác khi em goi luôn  ạ).Chỉ có số đó là báo bận còn lại gọi bình thường.Em dùng Samsung j7 prime ạ...Dùng sim Vietnammobile để  gọi ạ .   Em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.500914,
+         "id": "815091",
+         "field_search": "question",
+         "question": " Anh chị QTV ơi cho em hỏi iphone 4 của em đang chạy ios 7.1.2 bây giờ muốn nâng cấp lên ios 8 làm sao anh chi   ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

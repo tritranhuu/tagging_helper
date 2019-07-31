@@ -1,0 +1,801 @@
+{
+   "id_query": "818979",
+   "total": 34793,
+   "total_current": 100,
+   "max_score": 268.59457,
+   "origin_question": "Zalo của em là phiên bản mới nhất và chính thống, nhưng sao lại không thể gửi ảnh hoặc đăng ảnh. Khi gửi ảnh thì chỉ được 10% rồi báo gửi thất bại, còn đăng ảnh thì báo là không đồng bộ.Em đã thử rất nhiều wifi khác nhau và 3G đều gửi được, chỉ duy nhất wifi ở nhà trọ của em là không được (wifi nhà trọ mạng tốt lắm). Cũng chính wifi nhà trọ này, tất cả các điện thoại khác đều gửi ảnh được còn điện thoại em thì không.Như vậy không phải lỗi do mạng, mong ad giải đáp cho em với, ngày giờ máy em chạy chuẩn.",
+   "hits": [
+      {
+         "score": 93.4411,
+         "id": "1134222",
+         "field_search": "question",
+         "question": "Điện thoại của mình là Nokia 3 mới mua được 3 tháng. Mấy ngày gần đây thì khi mình mở kết nối Wifi thì máy chỉ hiện dòng chữ đang tìm mạng Wifi suốt nhưng máy mình không tìm ra được một mạng nào trong khi máy mọi người đều hiện rất nhiều  mạng và bắt được Wifi. Xong có lúc máy đt của mình đã dò được  wifi r thì khi gõ mật khẩu vào thì vẫn không kết nối được wifi, chỉ hiện mỗi dòng \"đã lưu\" ở dưới tên mạng wifi. chắc chắn lỗi không phải do ổ phát wifi vì máy của ng khác vẫn kết nối bình thường. Mình đã ra TGDĐ và đc cập nhật lên Android 8, ngay lúc đó thì bắt đc wifi nhưng sau đó khi về nhà thì lại không tìm được mạng wifi nào nữa dù xung quanh nhà mình có rất nhiều mạng wifi. Mong admin giải đáp giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.09976,
+         "id": "842506",
+         "field_search": "question",
+         "question": "tại sao điện thoại e gửi ảnh qua zalo cho người khác không được ạ. nhấn nút gửi k được trong khi gửi ảnh qua facebook vsf các ứng dụng khác thì bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.88078,
+         "id": "776192",
+         "field_search": "question",
+         "question": " Cho e hỏi ad. Em dùng iPhone 4s, giờ em không xoá được ảnh, không đăng được ảnh, không gửi được ảnh là vì sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.69451,
+         "id": "1001539",
+         "field_search": "question",
+         "question": "Xin chào cả nhà. Cả có thể giúp em lấy lại wechat được không? E đăng kí wechat bằng sđt của em nhưng khi đổi máy quên mật khẩu? Chuyển từ android=) IOS. nhưng khi kích vào phần quên mật khẩu kích vào gửi mã xác mình về điện thoại thì nhà mạng lại không gửi mã xác minh về ấn đi ấn lại không gửi thì nó báo thao tác quá nhiều. Tóm lại là không thể nào tìm lại được mật khẩu. ních của em cũng khá nhiều bạn chủ yếu là công việc, mong mọi người chỉ cách tìm lại được tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.036934,
+         "id": "1016975",
+         "field_search": "question",
+         "question": "Zalo của tôi gọi điện thoại, nhắn tin được nhưng không đăng ảnh và gửi được ảnh mặc dù tôi đã làm các thao tác như kiểm tra kết nối mạng, đăng suất nhập lại tài khoản zalo, vào ứng dụng xóa bộ nhớ, đăng nhập lại ảnh nhiều lần ,kiểm tra đồng hồ giờ nhưng vẫn không được. Xin hãy giúp tôi  !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.86394,
+         "id": "750579",
+         "field_search": "question",
+         "question": "Vì sao iPhone 5S của tôi chỉ vào được một mạng duy nhất ở nhà.  Còn tất cả các mạng khác đều không tìm thấy đu ở cơ quan hay quán cà phê?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.90526,
+         "id": "1142112",
+         "field_search": "question",
+         "question": "Dạ, Ad support giúp em với ạ, em đang dùng điện thoại Asus Zenphone 2 (mã ZE 551ML), điện thoại em chỉ nhận duy nhất 1 thẻ Sim nhà mạng là Viettel còn lại tất cả nhà mạng khác em kiểm tra trong mục \"Mạng Khả Dụng\" thì đều bị cấm hết, em cắm Sim Mobifone vào thì ko nhận được ạ. Em không biết khắc phục như thế nào hay lỗi máy ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.74578,
+         "id": "909924",
+         "field_search": "question",
+         "question": "Tại sao điện thoại samsung J5 của mình mới cài đặt lại chương trình. thì mình tải zalo về thì lại k gửi ảnh đi được, ảnh người khác gửi thì mình nhận được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.43266,
+         "id": "854989",
+         "field_search": "question",
+         "question": "Messenger trên iphone 4 của mình gần 1 tháng nay thì người khác gửi ảnh cho mình không xem được. Muốn xem phải lưu ảnh vào máy rồi mở ra xem nhưng chỉ có ảnh gửi rời mới lưu và xem đc. Mng giúp mình fix lỗi này với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.191536,
+         "id": "1001546",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng Sony z5. Khi nhắn tin đăng ký gói 3g cả 2 nhà mạng Vinaphone và Mobile đều kg được. Báo lỗi \"Không thể gửi!\". Hỏi nhà mạng, họ nói do cài đặt \"bảo mật về tin nhắn...\" trên máy. Nhưng tôi kg tìm và kg khắc phục được. Xỉn Admin chỉ dẫn giúp! Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.79677,
+         "id": "828716",
+         "field_search": "question",
+         "question": "Điện thoại của em tự nhiên không gửi đc tin nhắn, không vào được các trang mạng như FB,...khi gửi ttin nhắn hoặc truy cập mạng em đều nhận được thông báo vị trí của bạn không xác định.em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.43968,
+         "id": "817338",
+         "field_search": "question",
+         "question": "E đăng ảnh lên tường zalo nhưng ảnh đó lại được gửi đến 1 người bạn trong zalo của e mặc dù e không hề gửi ảnh đó . Như vậy là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.56169,
+         "id": "1163539",
+         "field_search": "question",
+         "question": "Tôi gửi ảnh Như hình dưới đây và không kết nối được wifi? Điện thoaij của tôi a7 2018? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.54835,
+         "id": "896171",
+         "field_search": "question",
+         "question": "Zalo của mình không gửi hình ảnh được mà nhận được hình ảnh của bạn bè.gửi, trước đây vẫn gửi bình thường.mà sao mấy ngày gần đây gửi đi gửi lại nhiều lần máy vẫn báo là chia sẻ thành công mà người nhận vẫn không nhận được (c òn gửi tin nhắn vẫn bình thường) Cho hỏi zalo bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.12566,
+         "id": "1149553",
+         "field_search": "question",
+         "question": "Giúp em với ạ. Em sd đt j3 pro. Mạng wifi nhà em không yếu. Tất cả điện thoại khác đều xem video trên youtube bình thường riêng điện thoại em nó cứ hay đứng là bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.76617,
+         "id": "911189",
+         "field_search": "question",
+         "question": "Zalo trên máy tính của em trước đó dùng bình thường, mấy hôm nay khi chỉ gửi tin nhắn thì ok, còn gửi ảnh cái nó cứ báo \"đang gửi\" như thế này và không cho gửi tin nhắn nữa luôn. e khởi động lại máy hay gỡ ra cài lại đều vẫn bị như thế!!!Giúp e với ạ !!! huhuhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.34496,
+         "id": "992835",
+         "field_search": "question",
+         "question": "cho em hỏi nếu em dùng wifi nhà bạn em thi nhà mạng sẽ ghi lại lịch sử của máy em hay của mang nhà bà em ạ?? và nếu em dùng wifi nhà người khác thì nhà mạng cũng ghi nhận lịch sử của máy em hay không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.16243,
+         "id": "766786",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút ạ. em dùng ip4s, trước đây, khi em tắt 3g và wifi thì điện thoại vẫn nhận được tin nhắn zalo và messager bình thường, chỉ có ảnh thì không load được hoặc load chậm, nhưng khoảng 1 tuần nay, khi em tắt 3g và wifi thì không nhận được tin nhắn zalo nữa anh chị cho em hỏi là có phải do cài đặt gì không mà điện thoại em bị như vậy ạ? Giờ có cách nào để nó như cũ được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.11885,
+         "id": "935005",
+         "field_search": "question",
+         "question": "Tại sao em xem ảnh trên máy tính từ điện thoại gửi qua Messenger thì nó rất mờ nhỉ? E xem trên điện thoại rất nét, e cũng cài đặt tải ảnh lên HD cả rồi. Chỉ khi xem trên máy tính mới bị thôi, tức là máy tính xem ảnh từ messenger do điện thoại tải lên thì rất mờ ạ! Giúp e khắc phục với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.10814,
+         "id": "1019117",
+         "field_search": "question",
+         "question": "Chào ad, cho em hỏi, trên điện thoại android của em thường xuyên không nhận được mạng wifi nào, trong khi máy tính hoặc các thiết bị khác đều sử dụng mạng wifi đó bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.03117,
+         "id": "1134569",
+         "field_search": "question",
+         "question": "ad cho mình hỏi là mình đang dùng thằng Zenfone max pro, điện thoại mình không bắt được wifi trong nhà nhưng vẫn nhận được các mạng wifi xung quanh. trong khi những người khác trong nhà thì vẫn bắt được wifi trong nhà. Trường hợp này là bị gì hả ad? Cám ơn ad trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.93168,
+         "id": "1155728",
+         "field_search": "question",
+         "question": "2 máy của em có chung tài khoản fb mới đây em nhắn tin qua lại trên massenger lúc hai máy đều hoạt động lên mạng 3g mạnh cùng một lúc khi người khác gửi hình trên messenger thì hình ảnh 2 máy nhận dc đều bị ảnh hưởng, một máy thì hình ảnh bị bể nét, máy còn lại bị bể nét nhiều hơn mặc dù hình ảnh của người gửi cho mình không bị mờ. Ko biết có bị lỗi tài khoản hay ứng dụng gì ko mà gỡ ứng dụng rồi cài lại vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.60689,
+         "id": "1146650",
+         "field_search": "question",
+         "question": "mình mới mua 1 iPhone 6s plus tại TGDĐ chưa được 1 tháng. Hôm kia đang lướt Facebook ngon lành thì Wifi tự nhiên ngắt kết nối, mình cố kết nối lại nhưng không được và bị báo sai mật khẩu (nhưng mình khẳng định 100% là không sai). Sau đó mình có thử kết nối Wifi của mấy nhà xung quanh nhưng đều không được (vẫn chắc chắn mật khẩu đúng). đến khi ra của hàng TGDĐ thì nhân viên hỗ trợ lại kết nối được Wifi ở shop và nói là Wifi nhà mình bị lỗi. Lỗi thế nào được khi mình đã thử kết nối Wifi của nhiều nhà, vậy là máy mình lỗi chứ phải không? Giờ làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.07096,
+         "id": "876286",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. E đang xài iphone 6 sau nhiều lần sao lưu thì bây giờ vô album ảnh xem lại ảnh thì phải có 3g hoặc wifi thì mới xem rõ ảnh được còn nếu không có mạng thì hình ảnh rất mờ và hiện biểu tượng chữ i ở góc dưới bên phải màn hình. Có cách nào khắc phục tình trạng này không ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.8017,
+         "id": "1168197",
+         "field_search": "question",
+         "question": "Làm sao để xác minh icloud vậy? Hệ thống thông báo là đã gửi nhiều mã xác minh nhưng minh không nhận được cái nào!!!! Khi mình gửi số điện thoại đã đăng kí icloud rồi mà nói là số điện thoại này không đúng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.46905,
+         "id": "871254",
+         "field_search": "question",
+         "question": "Iphone 5s bật wifi xem video trên mạng xã hội và youtube thì lại mất wifi, khi kết nối lại được nhưng lại mất, có khi không kết nối được và mắt phải tự động chọn nhà mạng. Cho em hỏi đo là do nguyên nhân nào dù em đã thử mọi cách cỏ thể làm wifi bất sóng tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.956856,
+         "id": "889810",
+         "field_search": "question",
+         "question": "máy mình chỉ tải được những bộ sticker trong zalo..còn những hình ảnh sticker máy điện thoại khác gửi tới thì khi bấm tải xuống chỉ hiện lên phần chia sẻ, không có phần tải về....làm thế nào để tải những hình động của zalo khác gửi đến",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.479546,
+         "id": "799861",
+         "field_search": "question",
+         "question": "Cho e hỏi, tại sao e đăng stt zalo nhưng những ảnh đó lại tự động gửi cho 1 người mà e vào phần tin nhắn zalo với người đó thì không thấy gửi. Có phải điện thoại em bị theo dõi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.47829,
+         "id": "828951",
+         "field_search": "question",
+         "question": "Sao mình đăng nhập ko được hom qua mình dùng wifi ko được nên chuyển sang 3g và đăng nhập được hôm nay đăng xuất ra rồi vào lại bằng wifi hay 3g đều ko được wifi nhà mình là VNPT",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.40296,
+         "id": "1138258",
+         "field_search": "question",
+         "question": "điện thoại của e là itel p51, sau khi thay màn hình thì màu sắc không rõ, màn hình không nhận diện được màu màu đỏ thành màu tím,... nhưng khi chụp ảnh lại và gửi ảnh sang thiết bị khác thì rất rõ nét, vậy không biết điện thoai của e bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.86593,
+         "id": "996611",
+         "field_search": "question",
+         "question": "mh có con iphone 5s bắt đc wifi nhưng lại không có mạng,trong khi đó máy tính + đt samsung của em mh thì lại bắt đc và có mạng,mh đem điện thoại đi bắt thử wifi nhà khác thì điện thoại 5s của mh vẫn dùng mạng bình thường??? bạn nào giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.68883,
+         "id": "996109",
+         "field_search": "question",
+         "question": "Em đang dùng j7 prime. Lỗi không đồng bộ ảnh được. E vào album thì vẫn xem được ảnh. Nhưng vào ứng dụng bất kì nào để truy cập vào album ảnh thì ko hiển thị. Chỉ hiển thị 6 ảnh mặc định máy thôi. Ví dụ vào zalo để gửi ảnh cho bạn bè nhưng không thể tìm thấy ảnh. Mong ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.135765,
+         "id": "935487",
+         "field_search": "question",
+         "question": "Tại sao 2 máy iphone 4 đều cài đặt mạng Wifi nhưng 1 cái nhà mạng Viettel còn cái kia là Mobi không thể gọi được Facetime.Trong khi 2 cái iphone 4 cùng mạng Viettel lại gọi đc Facetime cho nhau ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.82386,
+         "id": "1157088",
+         "field_search": "question",
+         "question": "Cho em hỏi là e đang dùg Oppo a71 và hiện tại e không xem được ảnh bấm vào thì toàn hiện ra màn hình Trắg đã thử tắt nguồn và bật lại nhưg vẫn vậy. Nhưg gửi hình ảnh qua mess thì vẫn được đồng thời các ứng dụng chỉng ảnh cũng không vào được load lâu .Làm thế nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.75096,
+         "id": "1009716",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi Sao máy mình đang dùng wifi nhà bt giờ lại k tìm thấy đc wifi đó, trong khi mấy máy khác dùng ok mạng rất manh.Các wifi khác thì máy vẫn bắt bình thường Em đã reset máy và tắt modum wifi bật lại mà k tìm đc wifi nhà Mong ad giúp e máy lumia 525 ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.69317,
+         "id": "1149496",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi, e sài samsung j3pro, mạng sim 4g vẫn chạy bình thường nhưng khoảng 1 tuần nay thì mạng đột nhiên kh vào dc các ứng dụng như fb, tiktok, zalo thì chỉ gửi được tin nhắn thường kh gửi được hình ảnh nhưng khi lắp sim vào máy khác thì mạng vẫn chạy nhanh bình thường. Chỉ e cách khắc phục với ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.657845,
+         "id": "805414",
+         "field_search": "question",
+         "question": "Nhà e đang dùng ip6plus em gửi từ Nhật về.Nhưng khi em gọi video line,sky,facebook về thì bên em chỉ nghe sôi mà ko nghe dk ở nhà nói gì.Phần mềm và các chức năng của máy đều bình thường.Chỉ có gọi qua mạng là ko dk.Làm thế nào để khắc phục lỗi này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.44692,
+         "id": "779746",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại HKphone Revolead. Tất cả ảnh gửi qua viber đều được lưu vào thẻ nhớ. Nhưng lúc mình tháo thẻ nhớ ra đến khi lắp vào thì mất toàn bộ ảnh đã lưu của viber. Làm thế nào để lấy lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.434326,
+         "id": "912062",
+         "field_search": "question",
+         "question": " Tại sau bên zalo của e không gửi được hình ảnh lỗi do máy hay do zalo ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.42592,
+         "id": "1158667",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi tại sao máy oppo f1s của em phiên bản cũ thì không sao nhưng vừa cập nhật phiên bản mới nhất thì máy nóng cực và tụt pin không phanh. Mong ad cho em xin cách khắc phục, em đã thử tắt hết ứng dụng chạy ngầm nhưng khi bật mạng hay wifi là máy bắt đầu nóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.276184,
+         "id": "874996",
+         "field_search": "question",
+         "question": "Cho em hỏi. Messenger của em cứ hiển thị \"Không thể hiển thị các tin nhắn\". Em gửi tin nhắn cho bạn em thì thấy không gửi được nhưng bạn em lại xem được. Còn bạn em thì không thể gửi được cho em. Sau khi em xoá app đi và cài lại sau khi đọc được vài hướng dẫn trên mạng thì các tin nhắn của em mất sạch và vẫn có tình trạng \"Không thể hiển thị các tin nhắn\". Hãy giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.05729,
+         "id": "1022138",
+         "field_search": "question",
+         "question": "cho em hỏi vì sao ảnh em chụp từ samsung galaxy j7 Pro khi gửi qua tin nhắn  nhìn trên máy tính nó không rõ nét và có màu khác hẳn ở trên điện thoại ạ ^^ em đối chiếu 1 ảnh ấy trên 2 máy thấy ns khác hẳn màu và ảnh trên máy tính bị mờ hơn ảnh trên điện thoại? Có phải máy bị lỗi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.90049,
+         "id": "786844",
+         "field_search": "question",
+         "question": "Em đang có chiếc iPhone 5 phiên bản ios 9.2.1 mà kết nối wifi kém quá khoảng 10m là không kết nối được chỉ nhận được tín hiệu thôi, các máy khác vẫn kết nối được bình thường ạ với lại e cũng thử ở 2 modem khác nhau rồi nhưng cũng vậy chỉ được 3-5m thôi ạ 7m là chập chờn còn 10m đổ ra là không kết nối được ạ (tín hiệu wifi 3 vạch bth) lỗi này do đâu? Và phải khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.71339,
+         "id": "1152582",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình vào Samsung Garaxy J7 prime để đăng nhập mật khẩu của wifi ở nhà thì không đăng nhập được. Nhưng đăng nhập bằng wifi khác thì được. Nhưng đăng nhập trên laptop thì lại được. Các anh/chị tư vấn dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.613716,
+         "id": "818630",
+         "field_search": "question",
+         "question": "wifi nhà em mới đặt lại mật khẩu. nhưng khi máy tính nhà em kết nối thì ko hiện ô để nhập mật khẩu. bắt wifi nhà hàng xóm vẫn bình thường. cho e hỏi đây là lỗi của mt hay lỗi cả wifi ạ? và em cần phải làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.53588,
+         "id": "885047",
+         "field_search": "question",
+         "question": "Ad cho em hỏi DT em hiện tại là samsung J5, em sử dụng cũng được 1 năm rồi nhưng gần đây ĐT vô mạng thì bình thường nhưng riêng vào Mesenger lạị báo \" Đang đợi mạng\"... gửi tin nhắn hoặc nhận tin nhắn đều rất chậmTrường hợp này em phải làm sao ạ? Mong ad giúp đỡ. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.32755,
+         "id": "1021938",
+         "field_search": "question",
+         "question": "mình mới mua máy mới dc 1 tuần khi bắt tất cả cả wifi khác nhau thì báo mới k hiện hình ảnh như hình, còn mở 3g thì điều ok! ức chế lắm nha! tuy lỗi nhỏ nhưng chắc có những lỗi khác? có đổi lại máy mới dc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.30455,
+         "id": "781431",
+         "field_search": "question",
+         "question": "Em dùng iPhone 4 wifi tại nhà dùng mạng các trang bình thường nhưng tự nhiên vào fb hằng ngày vẫn đc tự nhiên hôm nay không được.. sang mạng nhà khác lại vào được về nhà lại không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.667915,
+         "id": "1021895",
+         "field_search": "question",
+         "question": "Cho em hỏi là: em bị lỗi wifi, khi bắt được wifi, vào được mạng bằng wifi nhưng máy báo là không có internet, wifi không có quyền truy cập internet.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.54323,
+         "id": "1008782",
+         "field_search": "question",
+         "question": "Mình dùng samsung a7, khi gửi ảnh qua zalo chỉ hiện đang gửi 10% sau đó gửi không được . Xin tư vấn giúp mình cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.48841,
+         "id": "1134390",
+         "field_search": "question",
+         "question": "Em đang dùng máy sony z4, trước máy em vẫn kết nối wifi bình thường, nhưng 1 tuần nay máy em kết nối thì hiện đã kết nối nhưng wifi có chấm than, em thay ip tĩnh vẫn không được. Các wifi nhà khác máy em kết nối bt chỉ có wifi nhà em mới vậy. Anh/chị cho e hỏi e vậy là máy e bị sao ạ và khắc phục ntn ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.19701,
+         "id": "779976",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 5 của em khi bật 3G thì người khác nhắn tin nhận được thông báo,nhưng khi dùng WiFi thì người khác nhắn tin thông báo lại không hiển thị,như vậy là sao nhỉ,giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.10551,
+         "id": "843131",
+         "field_search": "question",
+         "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.07702,
+         "id": "758134",
+         "field_search": "question",
+         "question": "Chào ad . Em đang dùng ứng dụng line . Đang nhắn tin bình thường thì tự dưng không gửi được tin nhắn mặc dù wifi và 3g nét căng . Mình thoát ra vào lại thì ứng dụng thông báo không đăng nhập được và yêu cầu kiểm tra kết nối mạng . Nhờ ad chỉ giúp cho ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.00505,
+         "id": "999653",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao wifi nhà em miễn có mưa là nó ko có mạng còn ko mưa thì khoảng 10 11h tối thì mất mạng tới sáng khoảng 7 8h thì có mạng em rất bực bội ko pít có phải là do nhà mạng cắt xén mạng phải ko ạ `.´",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.00072,
+         "id": "797717",
+         "field_search": "question",
+         "question": "Em mới mua iphone 5s về chưa được 15 ngày nhưng lên mạng máy chạy rất chậm lúc chạy được lúc không được , thử dùng nhiều wifi các chỗ nhưng vẫn như thế vậy thì e có thể xuống đổi máy khác được k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.786,
+         "id": "1155700",
+         "field_search": "question",
+         "question": "Chào anh chị KTV! Em có con iphone 6s mua của TGDD cũng lâu rồi. Máy bị lỗi wifi khá khó hiểu. Khi dùng wifi tại nhà, lướt web, apps hoàn toàn bình thường, nhưng khi chơi game online (LineAge2 Revolution) thì game liên tục mất kết nối do gián đoạn, các máy khác chơi bình thường. Khi ra wifi quán cafe thì iphone 6s chơi ok không bị mất kết nối.Vậy là do sóng wifi iphone yếu, đồng thời do mạng wifi nhà yếu có phải không ạ?(em đã áp dụng mọi cách từ update os, khôi phục mọi cài đặt,...)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.72796,
+         "id": "1165442",
+         "field_search": "question",
+         "question": "Máy oppo F9 tự khởi động lại khi vào file ảnh hoặc gửi ảnh qua zalo là lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.65792,
+         "id": "831925",
+         "field_search": "question",
+         "question": "em đang dùng Iphone 6, cứ mỗi lần tắt wifi, 3g rồi bật lên lại hoặc chuyển vùng dữ liệu thì zalo cũng bị out luôn và phải đăng nhập lại, tin nhắn của một số người gửi tới trong khi zalo e đang off khi đăng nhập lại cũng không nhận được luôn, e phải khắc phục sao ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.46733,
+         "id": "828027",
+         "field_search": "question",
+         "question": "Cả nhà ơi cho mình hỏi, mình gửi tin nhắn cho bạn mình trên zalo mà bạn ấy chưa đọc, chỉ mới có thông báo đã gửi thôi. Vì trước khi mình gửi tin nhắn đó, bạn ấy ít dùng zalo nên bạn ấy xoá zalo đi. Tận 3 tháng sau mới tải lại thì tin nhắn mình gửi liệu bạn ấy có nhận được không cả nhà?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.41817,
+         "id": "870403",
+         "field_search": "question",
+         "question": "Không thể yêu cầu kết bạn, danh sách bạn của người này đã đầy. Cho e hỏi ad em không gửi được lời mời kết bạn cho người khác và mọi người cũng không gửi được cho em. Ad giúp em với ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.2772,
+         "id": "816760",
+         "field_search": "question",
+         "question": "máy tính em không mua trong hệ thống tgdd nhưng nó bị lỗi card wifi vậy em đem lại hệ thống tgdd có hỗ trợ gửi máy của em lên hàng được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.94287,
+         "id": "903476",
+         "field_search": "question",
+         "question": "Tôi không gởi được messenger trên Facebook cho 1 người.còn tất cả các bạn khác mình đều gởi được.và người bạn đó cũng vậy chỉ có mình tôi là bạn đó không gửi được thôi.xin hãy cho tôi biết lý do và giúp tôi với.cám ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.91988,
+         "id": "811351",
+         "field_search": "question",
+         "question": " Iphone 6 khi tắt wifi thì kh gửi dc iMess . Khi bật wifi thì gửi được là thế nàoo ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.752174,
+         "id": "910651",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy em hay bị xem video hoặc các clip ngắn ở trên youtube và tất cả các trang đều ko được vậy. Nó cứ đứng yên ở 0:0 giây. Trong album ảnh cũng xem không được. Ai biết lỗi gì chỉ em với :(. Ip6 ios10.1.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.64574,
+         "id": "1141895",
+         "field_search": "question",
+         "question": "trung tâm tgdd cho em hỏi: máy của em là samsung s7 thường mua được 3 tháng thì bị tình trạng là không thể kết nối với các thiết bị không dây như wifi bluetooth.em gửi 2 tấm hình, tuy wifi tắt nhưng nó vẫn chạy còn biểu tượng wifi thì khi bấm vào thì nó sáng mờ. trung tâm có thể tư vấn cho em về cách khắc phục được không ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.57588,
+         "id": "1023822",
+         "field_search": "question",
+         "question": "Em xài mp3 phiên bản 3.7.6 vì em hk xài dc phiên bản mới mà khi đăng nhập vào phiên bản cũ thì nó kêu là hk kết nối tới máy chủ em đã thử nhiều lần đổi wifi các kiểu mà vẫn không được mà khi đó wifi nó full rất mạnh mong ad giúp em nhanh dc hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.566414,
+         "id": "1160147",
+         "field_search": "question",
+         "question": "cho em hỏi ạ facebook của em đăng nhập trên điện thoại di động thì được còn đăng nhập tại các thiết bị khác như máy điện thoại khác hoặc máy tính thì lại không được là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.43687,
+         "id": "908714",
+         "field_search": "question",
+         "question": "Em dùng iphone 6s , vào ứng dụng facebook bình thường , wifi tốt , nhưng khi em bấm nút Like ảnh thì nó sáng lên , sau đó em kéo xuống like ảnh khác thì ảnh ở trên đã like nó không hiện màu Xanh của nút like nữa ạ . Em đã xóa ứng dụng FB tải lại , khôi phục cài đặt gốc nhưng vẫn bị tình trạng đó ạ . Mong ad giải đáp lỗi này giúp em cách khắc phục với ạ . Xin Cám Ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.42713,
+         "id": "786957",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi chút. em đang dùng iPhone 6 lock nhật , 8,3 đã jb . gần đây wifi của máy không biết bị làm sao,lúc bắt được lúc không, hầu như là không bắt được. em đã thử rất nhiều wifi khác nhau . em mong ad giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.41814,
+         "id": "1143267",
+         "field_search": "question",
+         "question": "cho em hỏi em xài zalo trên máy tính 1 thời gian và kết bạn khá nhiều, nhưng dạo gần đây k gửi được lời mời kết bạn được nữa, nó báo là STR_FRIEND_REQUEST_FAIL_210, ngay cả trên điẹn thoại cũng k gửi được lời mời thì phải khắc phục sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.40935,
+         "id": "956084",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình vừa tạo 1 nick facebook mới, mình gửi lời mời kết bạn cho các bạn của mình, đặt avatar, ảnh bìa fb, nhưng phần trò chuyện, mình nhắn tin cho các bạn không được, tình trạng wifi thì vẫn bình thường, ngay phần trò chuyện có hiện lên là trò chuyện trên facebook không khả dụng, mình đã bật trò chuyện ngay từ đầu, nhưng khi nhắn thì vẫn bị lỗi, giống như bị mất mạng, nhắn không qua ấy, nhưng wifi nhà mình vẫn bình thường. Mình có đăng nhập nick ấy vào điện thoại nhưng nó vẫn bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.35981,
+         "id": "953320",
+         "field_search": "question",
+         "question": " Cho em hỏi là trên zalo mà người ta gửi tin nhất cho em em xem không được em gửi người ta xem được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.32222,
+         "id": "823989",
+         "field_search": "question",
+         "question": " Tại sao zalo không thể xem được hình ảnh khi người ta gửi hình vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.25137,
+         "id": "846046",
+         "field_search": "question",
+         "question": "Màn hình điện thoại ip5 mình bị màn hình có đường sọc , ngang.. Như vậy , có phải là lổi do bị nhiễm virut mới bị vậy không ... Chụp màn hình lại cho gửi cho một ng khác xem thì không thấy đừog ngang , sọc ây ... Chỉ máy chính chủ mới thấy thôi ...- mạng wifi thì mạnh..: len youtube coi phim thì mạnh lắm .. Con zô facebook chơi thì chạy không nổi...Cho hõi là tại sao ạ ????Cám ơn nhiều ạ ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.18922,
+         "id": "831474",
+         "field_search": "question",
+         "question": "Mình muốn hỏi là tn zalo đã gửi và đã nhận thì khác nhau như thế nào. Tn ở trạng thái đã gửi thì ng nhận có biết là m gửi tn cho họ ko, hay khi nào \"đã nhận\" mới biết được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.17689,
+         "id": "1158659",
+         "field_search": "question",
+         "question": "cho em hỏi, em xài XS Max, em có mấy hình ảnh gửi trên zalo, bấm vào nút : ( 3 chấm lưu lại ) thì báo toàn bộ ảnh và video đã được lưu,  nhưng vào album ảnh trên iphone lại ko có, nhưng lưu từng tấm thì lại có! em thử xoá app và khởi động iph nhưng vẫn ko thay đổi ! cám ơn Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.98849,
+         "id": "918849",
+         "field_search": "question",
+         "question": "Admin ơi, cho mình hỏi máy đt lumia của mình lúc kết nối bluetooth với máy Dell thì nó chỉ hiện đã ghép nối chứ không hiện Đã kết nối. Do đó không gửi file được mà chỉ nhận được file. Mong ad giúp đỡ. Mình ad 1 ảnh ví dụ nhưng máy mình đều hiện đã ghép nối chứ không hiện đã kết nối như trong ảnh. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.93132,
+         "id": "1141451",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao j2 pro mình xài  wifi mà wifi chỉ cách 7 bước chân thì nó mất lun cây sóng . Lại gần thì nó có sóng nhiều khi nó còn ở mức thấp nhất của wifi . Đt khác kết nối tầm xa thì vẫn full sóng wifi . Cho hỏi đt j2 pro 2018 mình bị sao ạ ad trl giúp . Mạng wifi trog nhà nha ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.89582,
+         "id": "807573",
+         "field_search": "question",
+         "question": "QTV cho em hỏi em có iPhone 5C lock mỹ nhưng không nhớ nhà mạng nào em dùng sim ghép để unlock rồi chọn thử tất cả các nhà mạng rồi nhưng không được. Mấy ông thợ bảo phải mua sim ghép mới unlock được, thể cho em hỏi anh chị có bản sim ghép mỹ không anh và unlock được máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.70739,
+         "id": "793254",
+         "field_search": "question",
+         "question": "Ko biết ip 3GS em bị gì mà wifi bị :- Bắt được wifi kết nối được wifi đó nhưng ko kết nối Internet được mặc dù máy khác là được- Hoặc là kết nối wifi không được ( thỉnh thoảng ) máy khác làm được- Kết nối wifi lâu=> Em đã reset mạng và cài đặt rồi nhưng ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.60516,
+         "id": "1165693",
+         "field_search": "question",
+         "question": "anh chị có thể giúp tư vẫn giúp em được không? máy của em là htc one m8. mỗi lần vào mạng là nó lại auto tắt wifi và hiện lên màn hình như trong ảnh, anh chị có thể cho em biết lỗi này là lỗi gì và khắc phục nó ntn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.58373,
+         "id": "1138805",
+         "field_search": "question",
+         "question": "Tại sao khi e gửi tin nhắn thì người nhận có thể nhận nhận được nhưng khi họ gửi ngược lại thì e ko nhận được.... Cả 2 bên thuê bao gửi-nhận đều ko có thông báo bị lỗi khi gửi gì cả???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.12828,
+         "id": "1156101",
+         "field_search": "question",
+         "question": "Tại sao e dùng oppo A37 mà không đăng được ảnh lên facebook mặc dù đã đăng xuất và cập nhật phiên bản mới nhất rất nhiều lần.  😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.84524,
+         "id": "1165697",
+         "field_search": "question",
+         "question": "anh chị có thể giúp tư vẫn giúp em được không? máy của em là htc one m8. mỗi lần vào mạng là nó lại auto tắt wifi và hiện lên màn hình như trong ảnh, anh chị có thể cho em biết lỗi này là lỗi gì và khắc phục nó ntn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.720245,
+         "id": "1159300",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi, em mới vừa mua con Huawei Y9 ở TGDD, em sử dụng wifi nhà để tải ứng dụng trên CH Play thì nó cứ báo \"chờ tải xuống\" còn nếu sử dụng wifi phát từ điện thoại khác thì lại tải được, vậy mình khắc phục sao ạ, em cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.68039,
+         "id": "1023702",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chút em sử dụng ứng dụng google photo để lưu ảnh được nhiều nhưng e mới lưu được 1 nửa số ảnh thôi dung lượng của Google photo thì còn nhiều, khi em tải tiếp lên thì máy báo lỗi không tải lên phương tiện được. Em đã tắt máy đi khởi động lại mà vẫn không thực hiện được, ad giúp em với ạ. Máy em dùng là samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.61439,
+         "id": "846882",
+         "field_search": "question",
+         "question": "Em đăng nhập trên cùng đtTài khoản Fb của em thi ko tải được ảnh nổi bậtCòn của bạn em thì đcEm đã tải Fb phiên bản mới nhất cho hỏi là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.5062,
+         "id": "1146666",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer aspire v5-471G win 10 và em muôn hỏi là mấy bữa nay mạng wifi dùng có cứ bị chập chập lúc thì vô được lúc thì không vô được và firefox nó báo là Server not found, hôm nay thì tự nhiên máy tính nó hiện lên thông báo nói là có máy tính khác trong mạng trùng địa chỉ ip gì đó, trên điện thoại cũng không vô  mạng được luôn, không biết phải sửa sao đây ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.31737,
+         "id": "911649",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là sao ipad mini 3 của mình không kích hoạt được facetime với imessage z .đăng nhập vào imessage thì lại lỗi facetime,,ngược lại...ai pt  mình với,wifi nhà mình ổn định nên chắc ko phải do mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.15495,
+         "id": "1007787",
+         "field_search": "question",
+         "question": "- điện thoại em không hiển thị tin nhắn gửi tới. k biết máy em bị sao ạ. - gửi đi vẫn được nhưng người khác gửi đến máy em thì không hiển thị. hiện em đang xài lenovo a6020a40.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.1346,
+         "id": "1168537",
+         "field_search": "question",
+         "question": "Cho em hỏi: xem được họ đăng hình nhưng vô mục ảnh của zalo đó lại không thấy hình ảnh. Như vậy có phải là em bị người ta chặn xem nhật kí không? Nếu như là vậy thì khi họ chặn nhật kí với lại chặn tin nhắn thì khi em đăng 1 stt hay hình ảnh gì đó lên trang zalo của mình thì người ta có nhận đc thông báo+ xem được nhật kí của em không ạ. E xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.09867,
+         "id": "990653",
+         "field_search": "question",
+         "question": "em dùng iphone 4s lúc trước thì còn bình thường nhưng do em dùng mạng 3G nhiều nên máy khá nóng nên đã bị hỏng wifi bây giờ nút wifi ở trung tâm kiểm soát đã bị biến thành màu xám trong cài đặt thì ko bật đc em đã thử 1 số cách như reset mạng reset toàn bộ máy nhưng đều không có hiệu quả vậy em mong admin và các mod giúp em khắc phục lỗi này em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.09176,
+         "id": "1001778",
+         "field_search": "question",
+         "question": "Mình có mua 1 điện thoại Samsung J7 ở cửa hang Thegioididong. Hiện giờ nó đang bị lỗi khi vào mạng wifi của văn phòng minh. Mạng wifi ở nhà thì ok nhung mạng ở văn phòng thì nó cứ kết nối rồi ngắt kết nối rồi lại kết nối. Cứ liên tục như vậy. Bạn có thể chỉ cho minh cách chỉnh được ko?Cảm ơn rất nhieuLinh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.03801,
+         "id": "807182",
+         "field_search": "question",
+         "question": "Chào admin mmình vừa bị mất iphone 4 cho hỏi admin là mình tìm = cách lên find mà nó hiện ra như này :Tất cả các thiết bị ngoại tuyếnKhông thể hiện thị vị trí vì tất cả của bạn đều đang ngoại tuyếnad coi dùm nó sao bị thế này. định gửi ảnh mà bảo 1MB nên không gửi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.017715,
+         "id": "1143105",
+         "field_search": "question",
+         "question": "Em khôi phục gốc máy Samsung S6 Edge và bị mất hết các ảnh trong bộ sưu tập...Cho em hỏi có lấy lại các ảnh đó được không ạ ???Cho em gửi lời cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.618324,
+         "id": "761453",
+         "field_search": "question",
+         "question": "Chào các anh chị kĩ thuật viên. Cho em hỏi vì sao khi em upload video lên face bằng điện thoại iPhone 3s lại không được. Vào kho ảnh chỉ hiển thị ảnh không hiển thị toàn bộ video, mà em gởi tin nhắn video qua face không được. Hơn nữa khi em nhấp vào đoạn video đó để chia sẻ thì chỉ hiển thị chia sẻ được qua \"Gửi thư\" \"youtube\" mà thôi. Có thể khắc phục được không ạh? Khắc phục như thế nào xin giúp dùm em với. Chớ bây giờ trong điện thoại em rất nhiều video của bạn bè được ghi lại mà muốn chia sẻ lên face lại không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.571396,
+         "id": "825394",
+         "field_search": "question",
+         "question": " Kính gửi BQTCho em hỏi cách nào tối ưu nhất để unlock iphone 5 khoá nhà mạng đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.56654,
+         "id": "841876",
+         "field_search": "question",
+         "question": "em đăng ký zalo bằng số điện thoại cũ. Bây giờ số điện thoại ấy bị nhà mạng thu hồi và khả năng có người khác sử dụng rồi. em muốn chuyển tài khoản zalo ấy sang số điện thoại mới em đang dùng được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

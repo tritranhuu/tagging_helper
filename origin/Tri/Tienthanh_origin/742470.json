@@ -1,0 +1,801 @@
+{
+   "id_query": "742470",
+   "total": 32195,
+   "total_current": 100,
+   "max_score": 44.030754,
+   "origin_question": " Em mới mua iPhone 5S mà không có Cydia, giờ làm sao đây bác? ",
+   "hits": [
+      {
+         "score": 23.401455,
+         "id": "808072",
+         "field_search": "question",
+         "question": " Tải Cydia cho iPhone 5s ở đây vậy ad sao máy em không có ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.867775,
+         "id": "873785",
+         "field_search": "question",
+         "question": "iPhone 5s sao ko có sẵn Cydia z add khi vào AppStore thì ko có Cydia làm cách nào để tải iPhone 3 có mà sao iPhone 5 ko có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.261309,
+         "id": "788305",
+         "field_search": "question",
+         "question": " E mới mua Iphone 5s.. trên máy còn icloud của người dùng trước mà em không có pass.. giờ làm sao để logout ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.328144,
+         "id": "841103",
+         "field_search": "question",
+         "question": " em mới mua iphone 5 mà giờ sim ghép e bị khóa giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.144938,
+         "id": "742959",
+         "field_search": "question",
+         "question": "Em mua iPhone 4s ở TGDĐ 6 tháng rồi. Mà bây giờ em mới thấy cái mật khẩu giới hạn. Em thử mà kiểu gì cũng không được. Ad cho em biết là làm sao đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.593338,
+         "id": "766996",
+         "field_search": "question",
+         "question": " Muốn cài cydia mà ios 9.1 làm sao vậy ? Em không làm được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.278152,
+         "id": "1168483",
+         "field_search": "question",
+         "question": "Em mới mua dt iphone 6s plus chưa được 4 tháng mà nó bị kén mạng wifiThì em phải làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.201246,
+         "id": "881561",
+         "field_search": "question",
+         "question": " Tại sao iPhone 4s của em mới mua đây mà không đổi hình nền được vậy ạ ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.898865,
+         "id": "814271",
+         "field_search": "question",
+         "question": "Bác em cho ipad 2 năm rồi em cài đặt lại giờ nó bắt itune để kich hoat mà bác em không nhớ giờ có cach nào không em sợ bố mẹ chửi :v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.85514,
+         "id": "1151540",
+         "field_search": "question",
+         "question": "Cho em hỏi.em có Sài iPhone 5s mà em lỡ quên mk iclau vậy giờ em phải làm sao hả anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.695913,
+         "id": "776774",
+         "field_search": "question",
+         "question": " Em mới mua iphone 5s mà sao tai nghe không kết nối được với điện thoại nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.677437,
+         "id": "796305",
+         "field_search": "question",
+         "question": "iPhone 5s mà mới bị mất tối qua mà em chỉ mới bật icloud tìm iphone thôi ko mở định vị mà giờ đt e tắt nguồn rồi..giờ có cách nào định vị được không chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.549221,
+         "id": "815830",
+         "field_search": "question",
+         "question": "Anh ơi sao em dùng 5s mà sao máy chạy mạng cứ nóng lên vậy máy bị làm sao không bây giờ không vào của hàng của ap đẻ mua được nữa em mới mua dc 3 tháng bây giờ em muốn đổi máy được không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.426006,
+         "id": "853609",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi iPhone 5s của mình đã jaibreak có cydia,giờ mình khôi phục cài đặt bị treo táo mình phải làm tnao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.137476,
+         "id": "837894",
+         "field_search": "question",
+         "question": " Iphone mới mua sạc vào pin hơi nhanh ạ. Chưa đến 3 giờ. Vậy là có bị sao không ạ. Em đang xài 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.089304,
+         "id": "798564",
+         "field_search": "question",
+         "question": "Em mua iPhone 5s được hai tháng. Mà giờ loa ngoài tự nhiên không nghe đc. Muốn nghe em phải cắm phone mới nghe đc. Loa điện thoại em bị sao vậy ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.081934,
+         "id": "759376",
+         "field_search": "question",
+         "question": " Ad ơi cho hỏi mình mới mua cái iPhone 5s mà có tài khoản iCloud mà giờ mình muốn xóa tài khoản iCloud được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.046589,
+         "id": "931576",
+         "field_search": "question",
+         "question": " iphone 5s không cập nhật qua OTA được.. Như thế làm sao đây Admin?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.897686,
+         "id": "747970",
+         "field_search": "question",
+         "question": " Fix cái này sao đây mấy bác, lên mạng không được dù có kết nối?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.82761,
+         "id": "877414",
+         "field_search": "question",
+         "question": " Cho hỏi bên tiệm mình có cài đặt cydia cho iPhone 5s không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.82761,
+         "id": "764709",
+         "field_search": "question",
+         "question": " iPhone 5s lock nhà mạng sprint iOS 8.4.1 có thể cài Cydia được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.701582,
+         "id": "812521",
+         "field_search": "question",
+         "question": "Em mua cũ lại iPhone 6s plus nhưng đã cài khoá vân tay, mà chủ máy lại không ở đây, vậy em phải làm sao mới mở được máy và sử dụng ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.691624,
+         "id": "807042",
+         "field_search": "question",
+         "question": " Tải Cydia cho iPhone kiểu j vậy ad?? Sao máy em không có ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.656368,
+         "id": "840730",
+         "field_search": "question",
+         "question": " Em mới mua iPhone 5s về sạc thấy máy hơi bị nóng vậy có sao không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.604138,
+         "id": "1023663",
+         "field_search": "question",
+         "question": "anh em vừa mới mua laptop cho em. em sử dụng được tối nay là 3 tuần và em mới reset máy tính lại. nhưng mà bây giờ em cài đặt lại word, excel, powerpoint các ứng dụng cần thiết thì yêu cầu phải có 25 ký tự gì đó. mà em không biết mà 25 ký tự này ở đâu giờ em pphai làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.438351,
+         "id": "1159145",
+         "field_search": "question",
+         "question": "máy tính của em trước đây mua tại thế giới di động có mua qua office giờ làm sao để không phải mua ofice mà vẫn xài được chứ không đánh word hay excel được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.383852,
+         "id": "763007",
+         "field_search": "question",
+         "question": " Cho em hỏi cách cài bài hát làm nhạc chuông trên iPhone 5s vậy ad. Em mới mua mà chả biết dùng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.348553,
+         "id": "790145",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 5s em mới mua cách đây 2 ngày dán màn hình rồi , bây giờ dán màn hình bị hỏng bóc ra , đi dán thì mất bao tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.266263,
+         "id": "763635",
+         "field_search": "question",
+         "question": " Cho hỏi mình mới mua iPhone 5s mà sao ko dùng được vân tay? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.230697,
+         "id": "836482",
+         "field_search": "question",
+         "question": " Làm sao có thể cài đặt cydia mà k cần jb v!!ad giúp e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.229578,
+         "id": "751068",
+         "field_search": "question",
+         "question": "  Điện thoại iPhone 5S bây giờ giá bao nhiêu thế em muốn mua mà không biết giá? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.205142,
+         "id": "854726",
+         "field_search": "question",
+         "question": " em dag sai dt iphone 5s phien ban 9.3.1 co cai cydia duoc khong ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.166044,
+         "id": "898064",
+         "field_search": "question",
+         "question": " Mình mới mua Iphone 5S 16G, sạc có 1 giờ 30 phút là đầy. Không biết có bị gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.152103,
+         "id": "885080",
+         "field_search": "question",
+         "question": " Em mới mua chiếc iPhone 5s của tgdd đc 7 tháng giờ màn hình bị lỗi sọc dọc.Thì em có đc bảo hành không ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.1410475,
+         "id": "803608",
+         "field_search": "question",
+         "question": " cho em hỏi khi em thay đổi ngôn ngữ iphone mà lại không có tài khoản app thì làm sao đây ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.074635,
+         "id": "1013170",
+         "field_search": "question",
+         "question": "Cho e hỏi chút. E có dùg chug icloud với bác e. Giờ e muốn thoát icl trên máy bác e mà vẫn muốn 2 máy dùng bt thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.064276,
+         "id": "928129",
+         "field_search": "question",
+         "question": " E mới mua dt iPhone 5s hôm qua giờ có bán lại dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0454,
+         "id": "823324",
+         "field_search": "question",
+         "question": " cho em hỏi. em mới mua iphone 5s đc 2 tuần mà bị lỗi FB có đc đổi máy mới ko ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.03507,
+         "id": "808067",
+         "field_search": "question",
+         "question": "Các bác ơi em không biết làm sao mà người ta lấy mất gmail của em còn đổi số điện thoại hiện tại em đang rất khổ vì không biết phải làm sao tại mất gmail cũng đồng nghĩa e mất luôn tai khoản icloud có bác nào biết cách không chỉ e mvới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.033149,
+         "id": "929864",
+         "field_search": "question",
+         "question": " Mình mới mua iphone 5s nhưng khi lắp sim vào thì mất hế danh bạ. giờ làm sao để lấy lại danh bạ được nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.019105,
+         "id": "994098",
+         "field_search": "question",
+         "question": "Tôi mới mua cái dt cách đây 1 tháng mấy mà bây giờ hệ thống kêu là không có mua dt trong vòng 3 tháng là sao vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.919606,
+         "id": "857615",
+         "field_search": "question",
+         "question": " Em đang sử dụng iPhone 5s mà tạo tài khoản iCloud không được phải làm sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.89597,
+         "id": "1016531",
+         "field_search": "question",
+         "question": "Cho em hỏi e mới mua chiếc iPhone 5s mà lúc e k dùng điện thoại mà pin vẫn giảm mà còn giảm nhanh bây giờ e đi đổi cái khác có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.861343,
+         "id": "842868",
+         "field_search": "question",
+         "question": " Vì sao vào cydia tìm ứng dụng clean master cho ios không vào được tôi đang sử dụng iphone 5s quốc tế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.832025,
+         "id": "766019",
+         "field_search": "question",
+         "question": "Anh ơi sao iPhone 5s của em vừa mua hôm nay sáng vẫn sài bình thường nhưng bây giờ bàn phím không hoạt động, nhập số không được, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.830774,
+         "id": "776460",
+         "field_search": "question",
+         "question": "Em mới mua máy iPhone nhưng mới đây vào zalo và face hoặc game dùng bằng mạng thì bị đẩy ra ngoài,em đã xoá bớt ứng dụng và khởi động lại máy rồi mà vẫn bị như vậy máy em bị làm sao, có ảnh hưởng nhiều không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.758784,
+         "id": "836097",
+         "field_search": "question",
+         "question": "MÌNH MỚI MUA IPHONE 5S 16G BÂY GIỜ MÌNH MUỐN TẠO TÀI KHOẢN ID MỚI NHƯNG KHÔNG BIẾT CÁCH LÀM NHỜ MỌI NGƯỜI HƯỚNG DẪN MÌNH VỚI",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.701041,
+         "id": "761113",
+         "field_search": "question",
+         "question": "Em nhặt được 1 máy iPhone 5s. Nhưng tài khoản icloud đã bị khóa. Mà lắp sim khác vào thì nó cần tài khoản icloud để kích hoạt nhưng mà không có. Bây giờ mà phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.603558,
+         "id": "1023705",
+         "field_search": "question",
+         "question": "Các bác giúp em vs chuyện là em mới mua con iphone 5 mà tài khoản người ta em đã thoát vs xoá hết em nhập của em vô đầy đủ hết nhưng sao lúc em vào aap store em cập nhật ứng dụng lại bị bắt đăng nhập ID của ngươi bán cho em ạ các bác biết giúp hộ em cái",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.55877,
+         "id": "794634",
+         "field_search": "question",
+         "question": " Iphone 5s của em mới mua về là 1560 mAh mà xài gần 2 năm rồi mà nó còn 1400mAh vậy pin nó có bị chai không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.530788,
+         "id": "778556",
+         "field_search": "question",
+         "question": " Ad ơi. Máy em hiện sài là iphone 4 mà không có cydia. Em muốn tải về thỳ phãi tải như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.480345,
+         "id": "839126",
+         "field_search": "question",
+         "question": "iphone của em mới mua nhưng sử dụng liên tục chỉ được tầm 4 giờ .. vậy pin có làm sao không ạ .. em mới chỉ mua ở thế giới di động hơn 1 tuần thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.4750395,
+         "id": "749086",
+         "field_search": "question",
+         "question": " Muốn Jailbreak thì làm thế làm vậy ad để cài Cydia í mà thử mãi mà không đc? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.465141,
+         "id": "793653",
+         "field_search": "question",
+         "question": " Ad cho em hỏi ,em mới mua iphone 5s được 17 ngày , máy bị giật màn hình nhiều lắm , em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.4635515,
+         "id": "792610",
+         "field_search": "question",
+         "question": "Em mới mua iphone 5s mà dùng tai nghe cứ chập chờn mà em lắp sang máy khác vẫn dùng bt thế có phải do lỗi của máy không ak ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.4203415,
+         "id": "794669",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5S lock có nên mua không? Và tại sao bây giờ em thấy ở cửa hàng bán rất nhiều? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.406021,
+         "id": "916959",
+         "field_search": "question",
+         "question": "Đt mình là 5s, mà bây giờ cứ muốn cập nhật cái gì trong App Store thì nó cứ hiện ra cái tài khoản nào nhưng không phải của mình. Bây giờ thì phải làm sao đây ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.379095,
+         "id": "986514",
+         "field_search": "question",
+         "question": " cho em hỏi em bật chế độ ánh sáng đêm giờ muốn vô tắt mà nó hiện như vậy không tắt được làm sao đây????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.210279,
+         "id": "960423",
+         "field_search": "question",
+         "question": " Iphone 4s của em cài cydia làm sao z ạ êm ko bit càu .chỉ em với .của em ios 9.3.5 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.185544,
+         "id": "1168771",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp iphone nhưng trước đây cách đây 3 4 năm gia đình em có mua trả góp và bị nợ xấu không biết bây giờ em muốn mua thì có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.169796,
+         "id": "771083",
+         "field_search": "question",
+         "question": "Các bác cho em hỏi sao biểu tượng gọi video trên messenger của em cứ xoá đi tải về dùng được lúc là mất vậy máy iphone 5s bản 9.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.14855,
+         "id": "992104",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi hỏi lúc em mua iphone 5s bên tgdd chi nhánh bình phước có cài đặt cho em tài khoản icloud mà sao giờ em đăng nhập mật khẩu báo không đúng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.146362,
+         "id": "997771",
+         "field_search": "question",
+         "question": "tôi có mua 1 chiếc iphone 5s ,tôi cài đặt xong giờ tôi tắt itunes,app store giờ tôi muốn bật lại mà không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.105463,
+         "id": "1148530",
+         "field_search": "question",
+         "question": "Mình mua iphone 7lus cũ. Sài 1 tháng rùi. Mà không biết iphone có mặt khẩu id apple .giờ mình không có mặt khẩu rồi làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.084769,
+         "id": "844545",
+         "field_search": "question",
+         "question": " mình mới mua iphone 5s của mà giờ về mở nguồn k lên, bạn mua ở tgdđ,vậy lát mình ghé để kiểm tra dk k ah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.996283,
+         "id": "801696",
+         "field_search": "question",
+         "question": " Tại sao máy iphone 5s em mới mua nút âm lượng bị lỏng zậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.995811,
+         "id": "806640",
+         "field_search": "question",
+         "question": " Ad ơi máy em iphone 5s mới mua trả góp , giờ nó bị lỗi phần cứng có được sửa hay đổi máy k ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.941025,
+         "id": "887871",
+         "field_search": "question",
+         "question": " ủa ở đây không bán 5s màu vàng hả anh. Em đang có dự định mua 5s màu vàng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.933776,
+         "id": "994522",
+         "field_search": "question",
+         "question": "Cho em hỏi. E đaq xài iphone 5s. Hiện tại facebook máy em đang bị lỗi ( viết status không có phông nền màu). Bây giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.930469,
+         "id": "766296",
+         "field_search": "question",
+         "question": " Sao máy iphone 4s ios 9.2 không cài được cydia ạ? Giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.919519,
+         "id": "805081",
+         "field_search": "question",
+         "question": " Tôi mới mua một chiếc ip 5s ở TGDD chưa đầy một tuần mà pin đã bị phồng. Giờ có đổi được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.908262,
+         "id": "745110",
+         "field_search": "question",
+         "question": " Sao iPhone 5S của em lại là Unknown mà em đã mua bản quốc tế? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.891546,
+         "id": "788213",
+         "field_search": "question",
+         "question": "cho em hỏi em đang dùng iPhone 5s em mới mua được 1 tháng giờ muốn đổi sang iPhone 6 16g được không ạ em phải các thêm bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.889669,
+         "id": "795010",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5s . Em muốn tải AppStorevn cho máy chưa jaibreak mà sao kích vào tải nó hiện lên dòng chữ này thì phải làm sao mới tải được ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.887608,
+         "id": "1136494",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua máy redmi6 cách đây 1 tháng giờ sạc của em không vào nữa thì có được đổi sạc mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.859782,
+         "id": "744327",
+         "field_search": "question",
+         "question": " iPhone 5S bị mất mã bảo vệ thì giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.827559,
+         "id": "1006024",
+         "field_search": "question",
+         "question": "Cho em là em đang Sài ip 5s em cũng mới mua à mà sao nó mau hết pin vậy em có thể làm gì để khắc phục hay có cần đem lên tgdd kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.76171,
+         "id": "775803",
+         "field_search": "question",
+         "question": " ad ơi cho em hỏi. sao em mua iPhone 5S ở tgdd màn hình không sáng trắng mà lại sáng hồng nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.761659,
+         "id": "763788",
+         "field_search": "question",
+         "question": " Hôm bữa em mua iPhone 5s chạy sẳng 9.1 giờ có nên úp lên 9.2 không ạ ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.758892,
+         "id": "781862",
+         "field_search": "question",
+         "question": " Chào anh chị, em mới mua iPhone 5S có cần tải phần mềm diệt virus không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.755884,
+         "id": "822498",
+         "field_search": "question",
+         "question": " Có cách nào cài cydia cho ios 7 trên iPhone 4 8GB mà không cần máy tính không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.73821,
+         "id": "781689",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang xài iphone 5s được 2 tuần rồi nên còn rất mới, bây giờ em muốn bán ra để bù tiền vào mua iphone 6 plus có được không vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.719985,
+         "id": "812540",
+         "field_search": "question",
+         "question": "Cho em hỏi, em có một cái iphone 5 cũ giờ em muốn đổi lấy 5s mới hoặc iphone 6s, và em sẽ bù tiền thêm để đổi, có được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.69585,
+         "id": "830896",
+         "field_search": "question",
+         "question": " Em tạo ID cho iPhone 5s nhưng hình thức thanh toán là visa,amex...mà ko có mục không. vậy thì phải làm sao nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.661672,
+         "id": "765107",
+         "field_search": "question",
+         "question": " Cho em hỏi máy iPhone 4s iOS 9.2 có cài Cydia đuợc không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.656415,
+         "id": "806099",
+         "field_search": "question",
+         "question": " iPhone 5s nếu mua bây giờ có giảm giá gì không thế QTV, với sau này iPhone 5s có giảm giá nữa không D D ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.651363,
+         "id": "762833",
+         "field_search": "question",
+         "question": "  Điện thoại em mua lại của người ta mà quên mã mở khóa không có icloud giờ làm sao mở? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.631285,
+         "id": "784466",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5s khi chưa cắm sạc thì hiện 14% nhưng sau khi sạc máy thì máy lại hiện đang sạc 18%. Đây mới là lần thứ 2 sạc pin cho máy kể từ hôm mua về. Như vậy là làm sao thế QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.612753,
+         "id": "1140715",
+         "field_search": "question",
+         "question": "em mới mua iphone XR mà em tìm kiếm bên trợ Năng không thấy hiển thị 3D touch cho e hỏi làm sao để mở dc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.593954,
+         "id": "793226",
+         "field_search": "question",
+         "question": "Em mua iphone 5s lúc hè. Nhưng vừa mới đây nó lại bị kẻ sọc nửa phần màn hình dưới. Em không biết tại sao lại vậy. Thế giới di động lại xa nhà em. Em không đi sửa được. Tình trạng này em dùng hết tháng đến 26-3 nghỉ mới đi sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.593954,
+         "id": "793225",
+         "field_search": "question",
+         "question": "Em mua iphone 5s lúc hè. Nhưng vừa mới đây nó lại bị kẻ sọc nửa phần màn hình dưới. Em không biết tại sao lại vậy. Thế giới di động lại xa nhà em. Em không đi sửa được. Tình trạng này em dùng hết tháng đến 26-3 nghỉ mới đi sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.582663,
+         "id": "998348",
+         "field_search": "question",
+         "question": "Sao iphone 7 plus của em mới mua được 5 ngày mà em tạo vân tay rồi khóa máy thì mở bằng vân tay không được ạ em làm đi làm lại hoài mà vẫn vậy cho hỏi có bị lỗi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.544919,
+         "id": "791643",
+         "field_search": "question",
+         "question": "Em dùng iPhone 4s 16g gần đây máy báo dung lượng đầy . Em đã xoá hết dư liệu mà xem trong phần sử dụng vẫn báo dung lượng chiếm phần đó vẫn còn. Các bác giúp em với thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.537812,
+         "id": "962438",
+         "field_search": "question",
+         "question": "Mình có mua một chiếc iphone 5s cách đây khoảng hơn hai tuần. Nhưng mình đã làm rơi mất thì bên TGĐ mình có hỗ trợ tìm lại hay không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.534178,
+         "id": "1010342",
+         "field_search": "question",
+         "question": "Đây là chiếc nokia 6 của em mới mua được 4 hôm bây giờ em...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.521705,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.469081,
+         "id": "815030",
+         "field_search": "question",
+         "question": " Em mới mua đt iphone 4s,giờ em muốn bán không biết TGDD có thu không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.449017,
+         "id": "781620",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở TGDĐ có bán iphone 5S cũ không? Mình mua lumia 730 được hơn 1 năm và muốn bán lại mua iphone 5s thì mình phải làm sao ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.447322,
+         "id": "862907",
+         "field_search": "question",
+         "question": " Em có sai iphone 4 e cài mật khẩu mà e wên mật khẩu giờ phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

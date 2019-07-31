@@ -1,0 +1,801 @@
+{
+   "id_query": "1155740",
+   "total": 30510,
+   "total_current": 100,
+   "max_score": 101.90062,
+   "origin_question": "em định mua 1 chiếc laptopctrong tầm khoảng 18 tr  để học cơ khí thì ko biết è có thể mua loại nào đây",
+   "hits": [
+      {
+         "score": 31.53998,
+         "id": "922780",
+         "field_search": "question",
+         "question": " Mình cần mua laptop tầm 8 tr phục vụ cho việc học tiếng anh của em gái. Không biết mình nên chọn loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.661348,
+         "id": "886978",
+         "field_search": "question",
+         "question": " Em cần mua 1 con laptop vừa học vừa chơi game tầm 20tr không biết nên mua loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.566273,
+         "id": "990305",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc điện thoại cấu hình cao để chơi games tầm khoảng 4tr đổ lại thì nên mua loại nào nhỉ ? mọi người có thể tư vấn giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.37814,
+         "id": "1153812",
+         "field_search": "question",
+         "question": "Em là học sinh em định mua điện thoại tầm gửi á 1 triệu thì ko biết bên TGDD có sản phẩm điện thoại nào 1 triệu phù hợp cho học sinh vừa có cấu hình tốt chơi game tốt xem Youtube và các kiểu ko biết có ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.988232,
+         "id": "1164710",
+         "field_search": "question",
+         "question": "em cần mua 1 chiếc laptop để học đồ họa, ngoài ra em cũng hay xem phim thì chiếc  nào tầm 20 triệu tối ưu nhất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.923279,
+         "id": "1023062",
+         "field_search": "question",
+         "question": "Mình là sinh viên đang học xây dựng? Muốn mua laptop để học thì nên mua loại nào tầm giá từ 1015,5 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.692392,
+         "id": "1000290",
+         "field_search": "question",
+         "question": "Cho e hỏi là điện thoại phù hợp vs nữ tầm 4-6tr5 thì loại nào tốt nhất v ạ? E muốn mua 1 chiếc nhưng ko biết rõ đc loại nào tốt hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.340673,
+         "id": "1001998",
+         "field_search": "question",
+         "question": "Anh chị cho hỏi máy tính nào tầm hơn 10 tr.... học được nghành  Cơ Điện Tử  và chiến tốt game lmht ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.354733,
+         "id": "1020685",
+         "field_search": "question",
+         "question": "Ad ơi,e định mua 1 chiếc laptop asus giá từ 1315 tr,chủ yếu là để chơi game mạnh,ad có thể tư vấn cho e k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.536507,
+         "id": "888083",
+         "field_search": "question",
+         "question": " Ad cho em hỏiE muốn mua 1 lap mà có thể chơi mượt game Fifa thì mua loại nào và Tầm 10 triệu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.520473,
+         "id": "903854",
+         "field_search": "question",
+         "question": "Em đang là sv năm 2 đang có ý định mua 1 chiếc laptop để phục vụ học tập. Em định mua chiếc lap dell 3558 core i5 vga 2g. Vậy cho em hỏi là chiếc lap này có thể chạy tốt các phần mềm như ps,ai hay một số phần mềm đồ họa khác không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.646873,
+         "id": "1141360",
+         "field_search": "question",
+         "question": "mấy anh làm bên kĩ thuật cho e hỏi chút ạ:rằng có nên mua luôn 1 chiếc smart tv khoảng tầm gần 10 tr hay tính kinh tế mua 1 chiếc internet tv tầm dưới 5tr rồi lắp thêm đầu tv box ạMong nhận dc phản hồi sớm vì đây là câu hỏi e băn khoăn bấy lâu chưa ai giải đáp ạEm xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.608936,
+         "id": "1160043",
+         "field_search": "question",
+         "question": "xin chào, em muốn mua 1 chiếc điện thoại giá tầm 3-4 tr, có thể trả góp, tuy nhiên em yêu cầu chiếc điện thoại đó bắt được wifi hoặc dùng 3G tốt khi gọi video call, em cảm ơn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.481718,
+         "id": "797936",
+         "field_search": "question",
+         "question": " Cho e hỏi laptop loại asus hoặc dell tầm 1415 tr 15,6 inch nên mua con nào ạ.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.47121,
+         "id": "916690",
+         "field_search": "question",
+         "question": " em cần mua laptop có thể lướt web đọc báo ,học online,xem video thì nên mua loại nào dưới 10tr ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.304794,
+         "id": "991637",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mún mua một chiếc điện thoại khoảng 6tr trở xuống để chơi game thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.057976,
+         "id": "993088",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn mua một chiếc điện thoại có giá tầm  3,5 triệu có dung lượng pin lớn một chút   thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.012728,
+         "id": "753449",
+         "field_search": "question",
+         "question": " Em là sinh viên và học ngành quản trị kinh doanh . anh chị có thể cho em biết mình nên mua máy tính loại nào không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.669947,
+         "id": "1001214",
+         "field_search": "question",
+         "question": "mình muốn mua loptop dell khoảng 10 đến 15 tr chơi game vs coi phim ... mình ko pit chọn loại nào xin tư vấn giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.277098,
+         "id": "773579",
+         "field_search": "question",
+         "question": "Thưa, cháu là một học sinh Trung học cơ sở đang rèn luyện tính tự lập. Vậy nên cháu muốn tự mình mua một chiếc laptop. Cháu thấy chiếc laptop HP STREAM 13 N2840 rất phù học với lứa tuổi và túi tiền của cháu. Vậy cô chú có thể cho cháu biết hạn khuyến mại của chiếc máy được không ạ! Cháu cảm ơn rất nhiều!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.060013,
+         "id": "849688",
+         "field_search": "question",
+         "question": "Em muốn học lập trình và em định mua 1 chiếc laptop rẻ thôi vì nhà nghèoanh/chị có thể tư vấn cho em laptop nào hỗ trợ tốt việc lập trình không ạvà cấu hình tối thiểu cho việc lập trình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.871542,
+         "id": "1157587",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn mua điện thoại tầm 77.5 triệu chơi game ổn định pin cao với chụp ảnh tốt thì có những loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.817427,
+         "id": "765060",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 chiếc laptop để học tập và chơi game. Mình thích Asus hơn (không bắt buộc) thiết kế không bo tròn quá nhiều, ram 4g, giá dưới 7tr. Bạn nào biết laptop nào như thế có thể tư vấn cho mình được ko ? thanks trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.757362,
+         "id": "882545",
+         "field_search": "question",
+         "question": "Tìm mua con laptop tầm giá 10 đến 12tr .Cấu hình vừa đủ đáp ứng vs 2 yêu cầu sau\"1.Cho thằng sv năm nhất học cơ khí đồ họa nhẹ nhàng như Autocad thôi.ko cần card đồ họa cao siêu2.Có cổng HDMI để kết nối vs con smart Tv ở nhà cho ông bà xem cải lương.Rất mong Ad và các ae giúp đỡ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.717983,
+         "id": "1167020",
+         "field_search": "question",
+         "question": "Cho hỏi trong tầm giá 10 tr máy nào có camera sau và trc chống rung quang học đẹp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.649725,
+         "id": "1151688",
+         "field_search": "question",
+         "question": "E mún mua laptop có thể chơi game pubg, liên minh tầm giá 1215tr thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.443016,
+         "id": "1017478",
+         "field_search": "question",
+         "question": "Em muốn mua 1 cái laptop tầm 10tr để chơi game Liên minh . fo3, mấy game nhẹ nhẹ khác. Lâu lâu sử dụng Word.Excel.Pascal. Thì nên mua loại nào ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.341158,
+         "id": "1168832",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc điện thoại tầm 3 triệu thì nên mua loại nào, nhu cầu sử dụng của mình là nghe - gọi, xem youtube và chụp ảnh sống ảo thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.264688,
+         "id": "999042",
+         "field_search": "question",
+         "question": "e là sv cơ khí. e muốn mua máy nào vừa hok vừa chơi game  lol,outlast,... e nên mua máy ntn thì phù hợp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.240074,
+         "id": "1151314",
+         "field_search": "question",
+         "question": "Em cần 1 chiếc điện thoại chơi game mượt giá rẻ pin trâu ko bit nên mua loại nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.08123,
+         "id": "746899",
+         "field_search": "question",
+         "question": "em là sinh viên học quản trí kinh doanh tại Hà Nội. em muốn mua 1 chiếc laptop giá khoảng 9-11tr. máy nhanh, mượt, pin bền, màn hình đẹp, làm việc văn phòng ổn, thì nên mua máy nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.806606,
+         "id": "1134956",
+         "field_search": "question",
+         "question": "Mình muốn mua một chiếc máy giá tầm 5 triệu theo ad mình nên mua máy nào để có thể chơi game và xem phim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.791605,
+         "id": "750340",
+         "field_search": "question",
+         "question": "em là sinh viên ngành cơ-đtử với số tiền khoảng 14tr thì em nên mua laptop nào cho việc học và chơi game (LoL, một số game có dung lượng khoảng 8gb hoặc hơn,...) và máy có hỗ trợ card màn hình rời thì càng tốt? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.596437,
+         "id": "1117059",
+         "field_search": "question",
+         "question": "Chào TGDĐ .. cho e xin tư vấn về dòng máy nào tốt để mình dùng.. phục vụ cho sinh viên nhàng xây dựng ạ.. e đang phân vân.. k biết mua loại nào tốt và rẻ để cho e của e đi học ạ. Tầm 12tr trở lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.244505,
+         "id": "1009587",
+         "field_search": "question",
+         "question": "Tầm 20m mua lap nào chơi đc trò fo3 ah? Mấy trò như lmht hay dota em ko chơi nên có thể bỏ qua. Em đang ngắm con asus zenbook ux430 cơ mà lại card onboard @@",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.23739,
+         "id": "886970",
+         "field_search": "question",
+         "question": " Mình muốn hỏi với giá tầm 10 tr , có thể chọn dòng laptop 2 in 1 nào tốt không? Có màu trắng không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.168959,
+         "id": "760740",
+         "field_search": "question",
+         "question": "Qtv ơi mình muốn mua 1 chiếc laptop giá khoảng 10 triệu mà chơi game liên minh  huyền thoại + fifa mượt không lag giật thì nên mua loại nào? QTV tư vấn giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.14139,
+         "id": "1150482",
+         "field_search": "question",
+         "question": "Cho em hỏi bây jo dt tầm 6-7 tr thì loại nào chơi mượt các gam thịnh hành hiện nay  , ko quá nóng máy , pin trâu , máy bền về sau z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.007824,
+         "id": "1022290",
+         "field_search": "question",
+         "question": "Em là sinh viên, hiện h em cần tìm mua 1 laptop có thể đáp ứng đc việc học, và cũng có thể chơi game đc. Anh chị nào biết có thể tư vấn giúp em với. Mà nếu rm mua trả góp thì em có đc nhận quà tặng kh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.977375,
+         "id": "1144459",
+         "field_search": "question",
+         "question": "Iphone 7s plus 128gb nào có lại ạ Em muốn mua iphone ko biết loại nào tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.792461,
+         "id": "1143098",
+         "field_search": "question",
+         "question": "e muốn mua laptop macbook có đồ họa cao tiện cho học ngành công nghệ oto thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.736235,
+         "id": "1163511",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc điện thoại tầm 5tr bạn có thể giới thiệu cho mình được chứ thks!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.709648,
+         "id": "1141466",
+         "field_search": "question",
+         "question": "Ad cho hỏi giờ tầm 3-4 tr thì mua con gì được yêu cầu pin trâu. Mình chỉ coi youtube lướt web là chủ yếu. Game thì ngày chơi khoảng 1 tiếng.  cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.56238,
+         "id": "1017107",
+         "field_search": "question",
+         "question": "Khoảng tháng 3/2016 ,em có mua 1 máy tính bảng wing s880 ,(mua hàng cũ ),em xài khoảng 1 thời gian chỉ để học bài thì phải tạm ngưng vì phải bận luyện thi.Nên em mới cách đây thấy pin hết rất nhanh ,chơi game 45 phút là hết sạch pin ,em thấy lạ ,em lên xem cấu hình thì pin tận 3400mah ,khi em cài chương trình power doctor thì tá hỏa pin chỉ tối đa có 1000mah ,em không biết chương trình này có đúng không nên em thấy rất hoang mang .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.479242,
+         "id": "997000",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạem muốn mua SamSung mà ko biết chọn cái nào ko bị lag, nhờ ad tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.424793,
+         "id": "1000544",
+         "field_search": "question",
+         "question": "e mún hỏi ad là khi mk mua mtbang tầm 3tr-4tr thì thẻ nhớ có sẵn hay mình ohair mua ạ, Với lại ad có thể giới thiệu e 1 vài loại mtbang mak có dung lượng khá ổn vì e đao nhìu ứng dụng học tập lắm ạ và chạy mượt nk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.420761,
+         "id": "991724",
+         "field_search": "question",
+         "question": "Mình muốn mua đt nokia chỉ để gọi và nghe, nhẹ, mỏng, nhỏ gọn, pin càng bền càng tốt...tầm 1 tuần mói sạc thì tốt. Có thể tư vấn dùm nên mua loại nao? Xin cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.411198,
+         "id": "1007605",
+         "field_search": "question",
+         "question": "tư vấn giúp em mua laptop phân khúc 20-25 triệu để học tập và có thể chơi 1 số tựa game như liên minh,... nhu cầu chính của em vẫn là học",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.316261,
+         "id": "921570",
+         "field_search": "question",
+         "question": " E là sv học bên ngành kế toán. E định mua laptop. Tư vấn cho e loại nào phù hợp với ngành của e  giá 10tr trở xuống ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.26966,
+         "id": "1136439",
+         "field_search": "question",
+         "question": "Đt nokia 3.1 e mua được 18 ngày đang sd thì mất nguồn. Vậy e có được bh 1 đổi 1 ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.225119,
+         "id": "1153437",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại chơi game liên quân ổn định pin trâu để cày xuyên đêm khoảng 3 triệu thì nên mua máy nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.053892,
+         "id": "802384",
+         "field_search": "question",
+         "question": "Anh (chị) cho em hỏi. Em muốn mua laptop để học và lưu tài liệu, có hổ trợ ổ đĩa DVD. Thế em nên chọn loại mấy như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.036205,
+         "id": "835448",
+         "field_search": "question",
+         "question": "e là sinh viên ngành kỹ thuật cơ khí, phải sử dụng đến các phần mềm như kiểu AutoCAD thì mua laptop nào hợp lý, core i3 hay i5 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.027805,
+         "id": "1149954",
+         "field_search": "question",
+         "question": "Em có mua 1 chiếc j7pro qua tay nhưng không biết tài khoảng account của người chủ trước nếu reset lại máy có bị gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.916447,
+         "id": "1149222",
+         "field_search": "question",
+         "question": "Tầm 600k 700k mua loa vi tính có bluetool loại nào ã",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.905962,
+         "id": "780973",
+         "field_search": "question",
+         "question": " Cho hỏi em có nhu cầu mua laptop tầm khoảng 12tr15tr thi nên mua máy nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.876904,
+         "id": "1147184",
+         "field_search": "question",
+         "question": " Trong phân khúc 4tr500k thì em có thể mua máy nào tốt để chơi các loại game nặng và pin lâu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.859547,
+         "id": "1016394",
+         "field_search": "question",
+         "question": "QTV cho em hỏi hiện tại em đang muốn mua 1 thiết bị hỗ trợ cho việc học ( chủ yếu về học phát âm tiếng anh tại trung tâm ) , em đang phân vân giữa 3 thiết bị : điện thoại , ipad hay laptop , thì theo QTV em nên xài loại nào là phù hợp nhất hiện tại em đang học lớp 10 . giá khoảng 10tr trở xuống ạ . thanks !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.738184,
+         "id": "1020485",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 cái ip6s 32gb trả trước tầm 3tr5 thì lãi suất như nào vậy?trả khoảng 9th",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.700949,
+         "id": "744396",
+         "field_search": "question",
+         "question": "E muốn mua laptop..tầm 10--12tr...đó giờ chưa sử dụng lần nào... giới thiệu cho e loại máy chạy cấu hình mạnh..bền...để tiện việc học tập...e thích hàng DELL...tư vấn dùm e với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.690594,
+         "id": "851997",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc laptop khoảng 14tr phục vụ việc chơi game giải trí học hành ạ. mọi người tư vấn mình vớià hãng máy tính được ưa chuông nhất bây giờ là dell phải ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.67279,
+         "id": "1152310",
+         "field_search": "question",
+         "question": "xin chàotôi mới mua 1 chiếc điện thoại samsung A7 nhưng ko biết nhắn tin mới như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.657988,
+         "id": "1148148",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 7, giờ em muốn mua thêm 1 chiếc android để đáp ứng những nhu cầu mà iphone 7 không có thì nên mua chiếc điện thoại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.64036,
+         "id": "1152806",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 laptop chơi fifa online mượt giá tầm 1014 tr nhờ tư vấn giùm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.602615,
+         "id": "1139437",
+         "field_search": "question",
+         "question": " cho em hỏi giữa máy vsmart joy 1 và realmi c1 thì loại nào tốt hơn để tải các ứng dụng hỗ trợ học tập và chụp hình ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.579317,
+         "id": "1146480",
+         "field_search": "question",
+         "question": "Anh cho hỏi mục định giá máy cũ sao ko có loại a9 pro 2016 vậy anh. Định đổi a9 pro 2016 lên a9 2018 mà ko biết định giá như nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.524387,
+         "id": "794911",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad khoảng 4tr rưỡi. Mình trả trước 1 tr thì hàng tháng mình phải trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.523586,
+         "id": "1157983",
+         "field_search": "question",
+         "question": "Cho hỏi  máy laptop nào   phù  hợp  với  dân  thiết  kế  3d với  giá  tầm  khoảng  25 tr trở  xuống",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.501646,
+         "id": "929861",
+         "field_search": "question",
+         "question": "Nình muốn mua 1 laptop để học tập cũng như chơi các game vừa mình nên chọn máy nào trong khoảng 10tr có cảm ứng trên 14inch chip i3/i5càng tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.364328,
+         "id": "1014409",
+         "field_search": "question",
+         "question": "ad cho e hỏi với mức giá tầm 2tr đến 2tr5 mình có thể mua đc những chiếc điện thoại nào pin và cấu hình ổn chút ko ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.27786,
+         "id": "1012944",
+         "field_search": "question",
+         "question": "e mún mua một laptop để sử dụng cho vc lm nhạc thu âm mixing phối khí giá khoảng 23 triệu đổ xuống",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.271523,
+         "id": "1154303",
+         "field_search": "question",
+         "question": "Chào anh chị giờ em muốn mua 1 điện thoại tầm giá 3.5 trieu chở lại mà em ko biết mua cái nào ngon hết anh chị tư vấn giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.210043,
+         "id": "1164883",
+         "field_search": "question",
+         "question": "em muốn mua 1 con laptop khoảng 10tr đổ xuống có thể chơi được liên minh và game bns thì mình nên mua máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.061953,
+         "id": "897639",
+         "field_search": "question",
+         "question": "Em đang muốn mua laptop tầm 15 triệu đổ lại để học trong 3 năm cấp 3 và đại học. Em tính học sư phạm hoặc ngoại ngữ nên mọi người tư vấn giúp em. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.039827,
+         "id": "1141284",
+         "field_search": "question",
+         "question": "em là học sinh muốn mua điện thoại mới xài tết tầm giá 23tr có tai thỏ và chơi game mượt thì nên chọn máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.034887,
+         "id": "759194",
+         "field_search": "question",
+         "question": "Cho mình hỏi , mình muốn bán 1 chiếc iphone 6 plus 64gb màu trắng , máy còn mới nguyên chưa 1 vết xước , bên bạn có mua lại không ? Và mua lại trong khoảng tầm bao nhiêu tiền vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.020292,
+         "id": "1011284",
+         "field_search": "question",
+         "question": "E ở khu vực Thái Nguyên e muốn mua pin của laptop Lenovo B460 524G75G thì e có thể mua ở đâu ạ. Các cơ sở của minh có bán loại pin này k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.947536,
+         "id": "1002912",
+         "field_search": "question",
+         "question": "Anh ơi , anh có thể gợi ý cho em diện thoại nào chơi game Liên Quân mượt ko giật lag tầm từ 8-10 tr đong của samsung và apple nha thanks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.914408,
+         "id": "1000548",
+         "field_search": "question",
+         "question": "Cách đây 1 năm mình có mua bên tgdd 1 chiếc sim để vào mạng 1 năm đến bây giờ đã hết hạn và mình muốn đăng kí lại có được ko ? Sđt là 01298691623",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.904629,
+         "id": "1018751",
+         "field_search": "question",
+         "question": "Cho hỏi mình mua laptop nào tầm 15 triệu học autocad, photoshop với pin lâu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.898142,
+         "id": "874643",
+         "field_search": "question",
+         "question": " Em cần mua 1 laptop chơi game mượt thì nên chon loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.875896,
+         "id": "1144457",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 chiếc điện thoại để chơi game và pin dung lượng cao , khống biết mình lên mua chiếc điện thoại nào mình mong thế giới di đông đề xuất cho mình những chiếc điện thoại tốt để chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.80045,
+         "id": "1143741",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại dùng pin tốt, trong tầm giá từ 3 - 4 triệu, Shop tư vấn mình loại nào ok ? Pin khoảng bao lâu ? Chủ yếu FB, Youtube, Zalo, chụp hình. Ko game.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.645798,
+         "id": "1008756",
+         "field_search": "question",
+         "question": "nếu em chưa có tiền mặt mà em muốn mua 1 chiếc điện thoại khoảng 5-6 triệu liệ có thể mua được không vây.em có CMTND+sổ hộ khẩu chính chủ+thẻ bảo hiểm y tế.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.642586,
+         "id": "753875",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em cần mua máy tính để học. Em học ngành quản trị kinh doanh thì nên cần mua máy gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.557167,
+         "id": "1013989",
+         "field_search": "question",
+         "question": "tầm 7 tr thì máy nào sf đẹp ,bền và hợp với nữ nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.538082,
+         "id": "1009867",
+         "field_search": "question",
+         "question": "em là tân sinh viên học chuyên ngành kinh doanh đang có nhu cầu muốn mua laptop trong tầm từ 10tr-15tr. mong anh/chị có thể tư vấn giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.538046,
+         "id": "1149846",
+         "field_search": "question",
+         "question": "Chào. Em định mua ĐT khoản 3trieu. Nhưng không biết cái nào ổn ạ. Em định mua Nokia 3.1. Nhưng nghe nói không tốt lắm. Tải game liên quân chơi chút bị hắt ra. Còn Samsung và xiaomi thì cũng nghe nói nó máy không ổn. Vậy loại nào tạm ổn sài bền ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.482473,
+         "id": "996836",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.475853,
+         "id": "1016022",
+         "field_search": "question",
+         "question": "cho em hỏi ở đây có mua lại máy cũ không ạ , em muon ban lai 1 chiếc iphone ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.448963,
+         "id": "1150148",
+         "field_search": "question",
+         "question": "em mới mua chiếc huawei y7 pro 2019 , dùng chưa đầy 1 tháng , phía sau mặt lưng thấy sưng lên 1 chút , ko biết em đem đến bên mình kiểm tra nếu có thể thì đổi máy mới được ko ạ , chứ thấy sưng sưng vậy sợ nổ lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.394796,
+         "id": "1024316",
+         "field_search": "question",
+         "question": " cho hỏi em muốn mua chiếc đt itez 1516 mà ko biết có trường reinh Khuyến mại gì cho chiếc đt đó ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.343187,
+         "id": "777090",
+         "field_search": "question",
+         "question": " Em đang tính muốn mua 1 chiếc laptop có thể lướt web và chơi game fifa online 3 tốt? Ai biết tư vấn cho e với ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.320478,
+         "id": "829597",
+         "field_search": "question",
+         "question": " Laptop tầm dưới 8tr để học photoshop ạ ? Em dùng để học lớp 8,9 thôi nên chắc kh nặng lắm  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.26062,
+         "id": "1003698",
+         "field_search": "question",
+         "question": "cách đây tầm 1 tháng em có mua 1 dây tai nghe EP Xmobile EP-M4 nâu bảo hành 1 năm nhưng h nghe còn 1 bên thì em được đổi mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.2545,
+         "id": "1005521",
+         "field_search": "question",
+         "question": "Cho mình hỏi có laptop nào tầm 910 tr chơi fo3 tốt không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.226084,
+         "id": "908436",
+         "field_search": "question",
+         "question": " Hiện có khuyến mãi nào dành cho laptop hk ạ. E đag tính mua nhưg hk pk nên mua loại nào. Tầm 10tr ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.221237,
+         "id": "1006111",
+         "field_search": "question",
+         "question": "cho em hỏi 18 tuổi có mua trả góp được không vậy. để em mua trả góp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.216728,
+         "id": "1141531",
+         "field_search": "question",
+         "question": "Bây giờ mình có 10 tr thì có nên mua Vivo V11 ko vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

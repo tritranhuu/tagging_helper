@@ -1,0 +1,802 @@
+{
+   "id_query": "1134975",
+   "total": 32162,
+   "total_current": 100,
+   "max_score": 61.078594,
+   "origin_question": "Tại sau e không có thùng rác khoi phục ảnh vậy ạ ad trả lời giúp em ",
+   "short": "ko có thùng rác trong máy",
+   "hits": [
+      {
+         "score": 30.29736,
+         "id": "1014446",
+         "field_search": "question",
+         "question": "Sau khi em xóa ảnh thì máy báo đã lưu vào thùng rác của Samsung Could. Vậy thùng rác đó nằm ở đâu hay có cái nào để khôi phục ảnh đã xóa không ạ? Phần khôi phục trong máy em không có mục bộ sưu tập. Em dùng J7 Prime.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.088213,
+         "id": "1162680",
+         "field_search": "question",
+         "question": "Mình lỡ tay xóa một số hình ảnh và video trong thùng rác của Nokia6.1plus. Vậy mình có thể khôi phục lại các video đấy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.752995,
+         "id": "1152593",
+         "field_search": "question",
+         "question": "cho e hỏi làm sao để khôi phục ảnh bị xoá trên con Oppo A71 vậy?? như Mi A1 xoá rồi dô thùng rác còn vậy A71 sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.899519,
+         "id": "814383",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sau cài đặt ứng dụng làm theme cho iphone không được vậy?? Anh chị trả lời giúp e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.823397,
+         "id": "1008772",
+         "field_search": "question",
+         "question": "Add ơi cho em hỏi. Bữa đó em em vô App trung tâm bảo mật của oppo trên đt. Em có bấm dọn dẹp gì đó rồi vào google ảnh thì ảnh bị mất hết trơn. Em tìm trong thùng rác cũng không có. Add giúp em khôi phục lại với 😢😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.535082,
+         "id": "1167288",
+         "field_search": "question",
+         "question": "Điện thoại samsung j4 của mình thông báo đầy bộ nhớ nên mình đã vào \"file của bạn\" trên máy và ấn xóa mấy cái ở bộ nhớ trong. Mãi sau mới biết bị mất hết ảnh ở thư viện máy ảnh. Vậy cho mình hỏi cách khôi phục lại ảnh với ạ. Ở thùng rác k có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.502068,
+         "id": "1153080",
+         "field_search": "question",
+         "question": "xóa ảnh muốn tìm lại trên thùng rác của j6 lavendar như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.414999,
+         "id": "996525",
+         "field_search": "question",
+         "question": "Mình muốn xóa vĩnh viễn ảnh hay video ở Samsung A7. Mình bấm xóa rồi. Vậy hình ảnh có còn trong thùng rác không? Mình kiểm tra như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.04006,
+         "id": "1145989",
+         "field_search": "question",
+         "question": " Đây là ảnh em chép từ máy cũ, nhưng khi muốn xoá thì lại ko hiện biểu tượng thùng rác thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.8902,
+         "id": "1144308",
+         "field_search": "question",
+         "question": "Cho mình hỏi ViVo Y71 có thùng rác hk?  Nếu có thì sao ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.651869,
+         "id": "1022710",
+         "field_search": "question",
+         "question": "E có sài điện thoại oppo a37...e có tải snow về khi chụp ảnh,mình lưu ảnh thì snow lại lưu trong quản lí tệp/hình ảnh, sao không lưu được vào thư viện giúp e với,mong ad trả lời e nhanh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.44144,
+         "id": "1156629",
+         "field_search": "question",
+         "question": "tại sao em gửi lời kb mà nó hiện vậy, ad có cách khắc phục nào ko ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.187433,
+         "id": "942687",
+         "field_search": "question",
+         "question": " Tại sao messenger của em bị mất hết tin nhắn ? Ad trả lời nhanh giúp em  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.993317,
+         "id": "782858",
+         "field_search": "question",
+         "question": " Ad có giúp lên win 10 cho laptop không vậy, hôm qua hỏi nhưng ad không trả lời ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.736439,
+         "id": "805926",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua điện thoại iPhone 5s tại cửa hàng và copy một số ảnh của máy cũ vào nhưng tại sao lại ko xóa được ảnh đó nhỉ. Khi tích vào ảnh thì biểu tượng thùng rác bên dưới lại ẩn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.717037,
+         "id": "1137030",
+         "field_search": "question",
+         "question": "Cho em hỏi là làm thế nào để không hoàn toàn xóa ảnh vĩnh viễn ạ, làm thế nào mà ảnh vừa chụp được lưu trên google drive hay bất cứ ứng dụng nào mà khi mình bấm xóa ảnh trong thùng rác thì em vẫn có thể tìm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.556784,
+         "id": "1166313",
+         "field_search": "question",
+         "question": "Cho e hỏi muốn tìm lại ảnh trên máy ssj7 prime thì làm sao ạk. E vào thùng rác mà báo là k tìm thấy mục nào bị xóa là sao ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.365053,
+         "id": "816835",
+         "field_search": "question",
+         "question": " Ad ơi bản 9.2.1 jaibreak được chưa ạ????Thanks ad trả lời giúp e đi ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.140675,
+         "id": "1019469",
+         "field_search": "question",
+         "question": " như vậy là sao ad có thể trả lời giúp không ?  dòng chữ cuối cùng ý là sao   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.755314,
+         "id": "940542",
+         "field_search": "question",
+         "question": " tại sao ảnh chụp màn hình của máy em lại ko xóa được ạ,không có hình giỏ rác,,,máy em là ip5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.363724,
+         "id": "1136366",
+         "field_search": "question",
+         "question": "Iphone 6 của e lên ios 12.1 có jb đc k adNếu được mong ad trả lời giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.03146,
+         "id": "1010793",
+         "field_search": "question",
+         "question": "27.0 mb là bao nhiêu gb vậy ad . Trả lời giúp em nhanh lên ạ. Vs lại cái câu hỏi bên dưới nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.011856,
+         "id": "1023604",
+         "field_search": "question",
+         "question": "cho e hỏi e chụp ảnh trên máy j7 pro mà lúc đầu vần hiển thị ảnh bình thường,1 lúc sau mở ra thì lại không thấy ảnh đâu nữa,mất hết ảnh.hiệ tại e chụp thì lại có ảnh .Vậy là bị sao ạ và p làm ntn để khác phục máy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.800644,
+         "id": "994253",
+         "field_search": "question",
+         "question": "Mong ad trả lời giúp e. Em có con j5 prime mua hồi tháng 2 tại tgdd đà nẵng,bây giờ lại muốn đổi lên con j7 prime tại tgdd luôn thì bù tầm bao nhiêu, cảm ơn ad đã đọc tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.718287,
+         "id": "1019043",
+         "field_search": "question",
+         "question": "cho e hỏi, e mới cài được nhạc chuông video cho điện thọi j5 prime nhưng khi ấn trả lời lần thứ nhất thì lại bị quay về nhạc chuông mặc định và k có video, r sau đó phải ấn trả lời lần 2 mới được. Vậy làm sao để khắc phục ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.422613,
+         "id": "815024",
+         "field_search": "question",
+         "question": " e sài iphone 4 ios 7.1.2 có dùng trả lời tin nhắn trên màn hình khóa được không vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.404491,
+         "id": "828086",
+         "field_search": "question",
+         "question": " ad cho e hỏi có jaibreak 9.2.1 chưa ạ?e xin câu trả lời nhe ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.395227,
+         "id": "1140208",
+         "field_search": "question",
+         "question": "   máy em bị như vậy làm sao ạ, lenovo z51, mong ad trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.389774,
+         "id": "915409",
+         "field_search": "question",
+         "question": "Ad cho e hỏi tại sao em đặt màn hình nền cho ip 6s ios10 thì ảnh lại bị tối hơn so với ảnh gốc nhỉ? Có cáhc gì khắc phục không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.33578,
+         "id": "751656",
+         "field_search": "question",
+         "question": " Tại sao không thể xóa ảnh đã chụp trên iphone... ad giúp e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30206,
+         "id": "1153747",
+         "field_search": "question",
+         "question": "Album All phôt trong iphone mình tự động nhân đôi tất cả hình ảnh, nhưng dung lượng trong máy không thay đổi. Khi mình tât cả bản nhân đôi, chie giữ lại 1 bản. Iphone Storage đề nghị xoá ảnh trong thùng rác để làm trống bộ nhớ.Nếu mình xoá thì sẽ trống gần 10GB. Nhưng hình ảnh vẫn nguyên lúc đầu. Vậy là sao ạ?Và nếu mình xoá thì sau này hình trong iphone mình có bị mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.294624,
+         "id": "868104",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao em lên zako và đã cài hiển thị thông báo , trả lời nhanh tin nhân mà khi có tin nhắn lại k có. Giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.18926,
+         "id": "895313",
+         "field_search": "question",
+         "question": " Chào ad, iphone 5s vì sao bị sim chưa kích hoạt miết vậy ad có thể cho e pik câu trả lời được k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.11332,
+         "id": "767320",
+         "field_search": "question",
+         "question": " Anh ơi, tại sao em nâng cấp 5S của em lên iOS 9.2 thì giờ chụp hình không được nữa ạ, mong anh trả lời giúp em? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.98887,
+         "id": "1167383",
+         "field_search": "question",
+         "question": "Em quên mất mật khẩu riêng tư và câu trả lời ở phần câu hỏi để khôi phục thì em phải làm sao?  , hiện tại em đang sử dụng oppo F9 ạ,  mong Anh chị giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.958289,
+         "id": "1010488",
+         "field_search": "question",
+         "question": "Ad ơi, điện thoại oppo neo 7 sao sạc nó hiện thị đang sạc vài giây sau thì vui lòng cắm sạc, lặp đi lặp lại mấy ngày, hôm nay em sạc thì nó không lên % nào hết, mong ad trả lời giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.883707,
+         "id": "957480",
+         "field_search": "question",
+         "question": "iPhone 5 của e tại sao sử dụng khoảng 5p thì máy lại tự động tắt nguồn và khởi động lại ,cứ như vậy mà lặp đi lặp lại ạ ?mong ac trả lời giúp e ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.880245,
+         "id": "772596",
+         "field_search": "question",
+         "question": "Cho mình hỏi, khi xoá tin nhắn mình ấn thêm rồi, chọn được rồi nhưng không xuất hiện biểu tượng thùng rác thì làm thế nào?(iphone 6 )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.782585,
+         "id": "799481",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5s nhưng trong 3 lần sạc đầu tiên vì lý do công việc mình không thể sạc đủ 8 tiếng vậy có ảnh hưởng gìì không? Và lần sạc thứ 4 này mình có thể sạc 8 tiếng đc ko? AD trả lời giúp mình với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.779089,
+         "id": "1135577",
+         "field_search": "question",
+         "question": "Oppof1s tôi lỡi dọn dẹp rác nó xóa mất ảnh trong facebook và messenger nên giờ có khôi phục lại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.778832,
+         "id": "1157643",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung m20, có một số hình trên máy mình vô tình xóa, mình định khôi phục lại nhưng không tìm thấy thùng rác ở đâu, mình đã thử vào cài đặt trong bộ sưu tập nhưng vẫn không thấy. Phải làm sao đây ad? Mình cám ơn :3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.734952,
+         "id": "824789",
+         "field_search": "question",
+         "question": "CHO EM HỎI TẠI SAO VIBER Ở SINGAPORE KHI NGƯỜI ĐÓ NGƯỜI TA ĐÃ OFF ĐI LÀM TẮT 3G WIFI HẾT R NHƯNG VẪN CÒN TRỰC TUYẾN CỠ 25P SAU HOẶC CÓ NHIỀU LÚC 14,15,20,5P SAU MỚI HIỆN LÊN TRỰC TUYẾN LẦN CUỐI VÀO LÚC.... ? EM THẮC MẮC LÀ TẠI SAO LẠI NV Ạ ? Giống như hình ảnh bên dứoi là ng đó gửi cho em kết thúc cuộc nói ch lúc 8:38 mà 8:52 mới off ạ ? TRẢ LỜI GẤP GIÚP EM VỚI NHÉ AD :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.664219,
+         "id": "802057",
+         "field_search": "question",
+         "question": " Cho em hỏi máy nó bị gì vậy ạ?. Hôm qua bấm bấm sao nó bị vậy. Ai trả lời giúp em với hic  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.648212,
+         "id": "1011008",
+         "field_search": "question",
+         "question": "ad cho em hỏi lap em hiệu dell inprison core i5, pin không tháo rời được. Nếu em vừa sạc vừa dùng có hư pin không ạ, nếu hư thì làm sao khắc phục lúc máy hết pin mà em đaq dùng ạ. Mong ad trả lời em sớm để e bjk.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.599435,
+         "id": "1154739",
+         "field_search": "question",
+         "question": "nếu cọc 500k để nhận ưu đãi trả góp 0% sam sung a50 thì đến khi điện thoại về có cần trả trước thêm không ạ?Mong mod trả lời giúp trong câu hỏi này vì em hiện tại không dùng điện thoại ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.569192,
+         "id": "1149702",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao máy iphone của e đã xoá ID aple này vi quen mk và thay thế ID khác nhưng khi vào app để tải ứng dụng thì lại bắt nhập ID cũ . lm cách nào để khắc phục vậy ạ. mong ad trả lời cho e sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.498162,
+         "id": "1156681",
+         "field_search": "question",
+         "question": "Mình mới mua SS A30 nhưng chưa biết cách chụp màn hình ra sao? Ad trả lời giúp được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.474592,
+         "id": "811478",
+         "field_search": "question",
+         "question": " Iphone 5c có thay vỏ iphone 5 không qtv. Trả lời giúp em sớm nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.418422,
+         "id": "885492",
+         "field_search": "question",
+         "question": "  Qtv giúp e trả lời những câu hỏi thật lòng...máy e bị viết chữ ra số, e ấn fn  f11 numlk,,, sao không đk vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.211815,
+         "id": "1167026",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi với ạ. em dùng oppo A3S đt em bị hư và mất thẻ nhớ những hình ảnh em lưu trong hộp thư bảo mật. thì người nhặt được thẻ nhớ em có thấy được không ạ. mong ad trả lời em với ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.167057,
+         "id": "1158811",
+         "field_search": "question",
+         "question": "Iphone 7 và iphone 7plus khác nhau sao vậy ạ. Mong ad trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.154504,
+         "id": "1155327",
+         "field_search": "question",
+         "question": "Vivo y71 làm.sao chuyển ứng dụng sang thẻ nhớ ạ.. Mong ctv trả lời giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.091726,
+         "id": "1150951",
+         "field_search": "question",
+         "question": "AC cho em hỏi tại sao máy IP e, không hiện ảnh icloud, trong mục ảnh không không hiện đám mây. Vậy cho Em hỏi phải làm ntn ? Vio lòng hỗ trợ giúp e. trân trọng cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.058333,
+         "id": "748925",
+         "field_search": "question",
+         "question": " Em làm đến đây không thấy trả lời email cả?????!!!! Mòng anh chị giúp em.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.049664,
+         "id": "1157783",
+         "field_search": "question",
+         "question": "em đã xóa 1 folder hình (ko phải từng hình mà là nguyên một folder chứa hình) trên s10+, ko có trong thùng rác và e dùng dumpster cũng ko quét ra được các file này, cắm vô pc thì các soft ko mở được bộ nhớ đt. Có cách khôi phục nào ko? em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.039472,
+         "id": "788193",
+         "field_search": "question",
+         "question": "Cho em hỏi??? Hqa đến giờ em lấy móng tay cào qua lại camera truớc sau iPhone 5s nhiều lần ( phải hơn 10 lần ạ) ??? Vậy camera có bị trầy hay bị ảnh hưởng gì không ạ??? Em không biết sao mình lại làm vậy nữa...ad tl giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0260515,
+         "id": "1143105",
+         "field_search": "question",
+         "question": "Em khôi phục gốc máy Samsung S6 Edge và bị mất hết các ảnh trong bộ sưu tập...Cho em hỏi có lấy lại các ảnh đó được không ạ ???Cho em gửi lời cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0101595,
+         "id": "798934",
+         "field_search": "question",
+         "question": "AD cho em hỏi là Laptop của em đã hết hạn bảo hành nhưng em muốn cài lại windows,em mang mẩy cửa hàng thegioididong có bảo hành cho em không ạ.mong Ad trả lời giúp em ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.981742,
+         "id": "1153162",
+         "field_search": "question",
+         "question": "mọi người cho em hỏi em sử dụng điện thoại xiaomi 5A prime được 9 tháng, e quên mật khẩu nên chạy lại chương trình sau đó nó bảo e đăng nhập tài khoản MI nhưng tài khoản MI e ko biết, vì tài khoản đó TGDĐ tạo giúp em, hiện tại e mang đi sửa tại cửa hàng đt nhưng ko đc, nên đưa vào TGDĐ sửa mọi người giúp e trả lời xem có thể sửa được không? vì em rất lo lắng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.978715,
+         "id": "896083",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi máy mình k thay đổi được hình nền là sao ạ, vào thay đổi bị mờ đi phần chon ảnh. vào hiện dòng chữ mau đỏ kia. admin trả lời giúp mình khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9751,
+         "id": "748476",
+         "field_search": "question",
+         "question": " iphone 6 bị tụt pin mặc dù không sử dụng, đã tắt hết các ứng dụng , wifi, 3g, ad giúp em trả lời với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.929281,
+         "id": "1150952",
+         "field_search": "question",
+         "question": "AC cho em hỏi tại sao máy IP e, không hiện ảnh icloud, trong mục ảnh không không hiện đám mây. Vậy cho Em hỏi phải làm ntn ? Vio lòng hỗ trợ giúp e. trân trọng cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.927691,
+         "id": "1007704",
+         "field_search": "question",
+         "question": "Tại sao không gửi nhãn dán được vậy ạ? Có hỏi 1 câu giống nv mà không thấy ai trả lời hết nên phải hỏi lại!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.899156,
+         "id": "996848",
+         "field_search": "question",
+         "question": "Máy e mua tại tgdd lenovo a 7000plus sao em đã chỉnh âm lượng lên hết mức mà ko thấy nhạc chuông trong khi máy vẫn rung . trả lời giúp e cái",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.851709,
+         "id": "902187",
+         "field_search": "question",
+         "question": "Cho e hỏi ad cái ạ:e dùng iphone 5s e đi làm em bỏ điện thoại vào bao quần bò,sau vài tiếng e lấy điện thoại để chụp hình thì thấy phần chụp ảnh màn hình nó màu đen,e không biết tại sao,vậy nhờ ad cho e cách giải quyết vấn đề này dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.849755,
+         "id": "1135589",
+         "field_search": "question",
+         "question": "Cửa hàng cho mình hỏi bên ad có bán miếng dán màn hình xiaomi mi band 3 k ạ? Trả lời gấp giúp mình ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.814764,
+         "id": "1021318",
+         "field_search": "question",
+         "question": "Cho e  hỏi là ip 3 còn hỗ trợ bên id apple ko , mong trả lời giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.7919855,
+         "id": "885345",
+         "field_search": "question",
+         "question": " QTV giúp em trả lời những câu hỏi thật lòng, em bị viết chữ ra số, sao em Ấn F11 sao không được vậy QTV?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.790017,
+         "id": "1158372",
+         "field_search": "question",
+         "question": "em bị khóa icloud có lấy lại được không ạ e quên câu trả lời bảo mật ơ icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.770249,
+         "id": "993112",
+         "field_search": "question",
+         "question": "AD ơi, tại sao mỗi khi em tắt máy nó lại hiện lên \" Getting windows ready don\"t turn off your computer\" tầm 10p sau mới tắt máy hẳn vậy có sao không ạ, làm thế nào để khắc phục điều này vậy, e cám ơn nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.73897,
+         "id": "819648",
+         "field_search": "question",
+         "question": " Em vừa lên Win 10 mà hiện tại Zalo của em không nhận tin hay trả lời tin nhắn được. Vậy em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.680898,
+         "id": "1003333",
+         "field_search": "question",
+         "question": "Đt em iPhone 5 thường bị vô nước màn hình không biết có cách nào sửa được mà không cần tháo iPhone không ạMong ad trả lời giúp emXin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.669173,
+         "id": "1007777",
+         "field_search": "question",
+         "question": "Làm sao để khắc phục lỗi lấy không được điểm ảnh ở xa của camera sau trên nokia3 hả ad. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.65539,
+         "id": "1023092",
+         "field_search": "question",
+         "question": "cho em hỏi oppo R830k lâu lâu không chụp được ảnh không lưu được ảnh là lỗi gì ạ. giúp em khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.648253,
+         "id": "806883",
+         "field_search": "question",
+         "question": " iphone 3 có cập nhập được ios7 không giúp trả lời nhanh đi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.631377,
+         "id": "571622",
+         "field_search": "question",
+         "question": " Tại sao Facebook không trả lời tin nhắn được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.624815,
+         "id": "1019990",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi. E đang sử dụng sony xa ultra f3216. Hôm qua e có khôi phục cài đặt gốc. Sau khi khôi phục thì camera truoc bị rung không lấy nét được. Nó cứ rung rung hình ảnh mờ. Xin quản trị viên giúp e cách khắc phục và chỉnh lại ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.618946,
+         "id": "1156583",
+         "field_search": "question",
+         "question": "E sau khi khôi phịc cài đặt gốc mây HTC 626 thì bị tình trạng vậy. Giúp e khắc phục với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.600871,
+         "id": "1003983",
+         "field_search": "question",
+         "question": "E dùng máy iPhone 6s plus,  e có 1sô hình ảnh quan trọng bị nhỡ xoá mất vậy bên cửa hàng có cách phục hồi hình ảnh giúp e được ko ạ,  nếu được e mang máy ra cửa hàng ạ, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.59473,
+         "id": "1144701",
+         "field_search": "question",
+         "question": " Tại sau k đăng nhập vào chlay được mặc dù 3g mạnh nhưg k đăng nhập được mong trả lời vs ạ máy android  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.532748,
+         "id": "828909",
+         "field_search": "question",
+         "question": "Tại sao fb lúc trước vào bị cấm rồi phục hồi được nhưng dùng 1 thời gian lại bị như vạy không vao fb được nữa. Tại wifi nhà bị hư nên mình dùng mạng 3G của vina. Mong ad trả lời nhanh nhất có thể và cách khắc phục ạ. Mình dùng microsoft nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.506732,
+         "id": "1001638",
+         "field_search": "question",
+         "question": "AD ơi  em muốn xóa mục cmd này thì làm ntn ạ? Mong ad trả lời sớm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.48983,
+         "id": "1156985",
+         "field_search": "question",
+         "question": "A c cho e hỏi. Đt oppo f5 e có tải file game apk về. Nhưng sau đó xóa đi. Tại sao vẫn không khôi phục lại dung lượng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.459318,
+         "id": "871349",
+         "field_search": "question",
+         "question": " Anh chị giúp em cách khắc phục đăng ảnh lên zalo bị mờ, không được nét như ảnh gốc. em cảm ơn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.429823,
+         "id": "1014356",
+         "field_search": "question",
+         "question": "ad ơi ở đây có bán pin của nokia 112 prince ko ạ ?????trả lời nhanh cho em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.321104,
+         "id": "986982",
+         "field_search": "question",
+         "question": "Tai nghe blutooh di ngoai mua co bi hư ko ạ xin the gioi di động trả lời giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.32089,
+         "id": "874358",
+         "field_search": "question",
+         "question": "laptop U80Vseries bật đèn bàn phím như thế nào ạ có biểu tương đèn bàn phím trên nút f3 nhưng ấn hoài mà k lên ad có thể trả lời giúp em đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.235278,
+         "id": "908714",
+         "field_search": "question",
+         "question": "Em dùng iphone 6s , vào ứng dụng facebook bình thường , wifi tốt , nhưng khi em bấm nút Like ảnh thì nó sáng lên , sau đó em kéo xuống like ảnh khác thì ảnh ở trên đã like nó không hiện màu Xanh của nút like nữa ạ . Em đã xóa ứng dụng FB tải lại , khôi phục cài đặt gốc nhưng vẫn bị tình trạng đó ạ . Mong ad giải đáp lỗi này giúp em cách khắc phục với ạ . Xin Cám Ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.231362,
+         "id": "1019179",
+         "field_search": "question",
+         "question": "Tại sao có người gọi đến máy mình mà màn hình không hiện lên, nó còn rung liên tục tầm 30p ai trả lời giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.228399,
+         "id": "1140786",
+         "field_search": "question",
+         "question": "cho tôi hỏi ứng dụng lịch S Planner có phải của google phát hành không AD ơi ? vui trả lời nhanh giúp tôi nhé AD ơi.xin cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.226974,
+         "id": "1009897",
+         "field_search": "question",
+         "question": " Sai không thanh toán trước được ạ. E thử nhiều lần lắm rồi.  Mong bqt sớm có câu trả lời với em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2067995,
+         "id": "1156490",
+         "field_search": "question",
+         "question": "Thay màn hình của Nokia 7 plus giá nhiêu vậy ? Trả lời giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.205404,
+         "id": "802821",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone có bao giờ bị nhiễm virus không ạ em nghe mọi người nói là không nhưng em không tin lắm nên em muốn hỏi anh chị để đỡ thắc mắc chuyện này ạ anh chị trả lời giúp e mnhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.198713,
+         "id": "1145054",
+         "field_search": "question",
+         "question": "Em không xoá ảnh trong thư viện mà tại sao ảnh tự mất và hiện lên dòng chữ \" không mục nào \" là sao vậy ạ .Chỉ em cách khôi phục lại đi ạ ( em dùng điện thoại Samsung j2)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.16404,
+         "id": "912066",
+         "field_search": "question",
+         "question": " Tai sau zalo k gui dc ảnh .. loi do zalo hay dt ??? Chỉ e cách khắc phục ạ... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.133815,
+         "id": "1016495",
+         "field_search": "question",
+         "question": "AD cho em hỏi là ảnh trong bộ sưu tập tại sao e xóa mà không được vậy? Điện thoại Samsung J2 prime.Mong ad hồi đáp sớm. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.1219225,
+         "id": "876286",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. E đang xài iphone 6 sau nhiều lần sao lưu thì bây giờ vô album ảnh xem lại ảnh thì phải có 3g hoặc wifi thì mới xem rõ ảnh được còn nếu không có mạng thì hình ảnh rất mờ và hiện biểu tượng chữ i ở góc dưới bên phải màn hình. Có cách nào khắc phục tình trạng này không ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.114761,
+         "id": "1153875",
+         "field_search": "question",
+         "question": "Ois  iphone có cách nào khỏi phục k vay giúp tôi cai thiên iPhone 5s để được khoi phục và su dung may với mọi người oi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.111965,
+         "id": "873635",
+         "field_search": "question",
+         "question": "Hi TGDĐ,Mình có cài itunes trên máy tính và sau đó copy nhạc vào điện thoại. Mọi quá trình đều diễn ra thành công. Tuy nhiên, khi mình mở iphone và truy cập vào Nhạc thì bị xuất hiện hình ảnh này. Mọi thao tác tại đây đều không hoạt động. Không biết có vấn đề gì xảy ra? TGDĐ trả lời giúp mình với. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

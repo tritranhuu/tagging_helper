@@ -1,0 +1,801 @@
+{
+   "id_query": "811396",
+   "total": 32899,
+   "total_current": 100,
+   "max_score": 73.23398,
+   "origin_question": " Cho em hỏimáy của em sao không tải ảnh lên được facebook a?với lại hiện tại muốn tải phần mềm gì cũg không được? ",
+   "hits": [
+      {
+         "score": 31.83748,
+         "id": "1007569",
+         "field_search": "question",
+         "question": "tại sao không tạo được tài khoản facebook khi tạo máy hiện chữ tải ảnh bạn lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.55028,
+         "id": "758249",
+         "field_search": "question",
+         "question": " Cho em hỏi cái iPhone 5 của em giờ em muốn tải phần mềm diệt virus về em tải phần mềm nào được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.107018,
+         "id": "815816",
+         "field_search": "question",
+         "question": "Máy của em là Iphone 5 mà sao tải phần mềm cài nhạc chuông lại không được khi tải xong vào cài thì hiện lên như kiểu là Win ở máy tính không chạy được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.926441,
+         "id": "819300",
+         "field_search": "question",
+         "question": " máy của mình sao không tải ảnh lên facebook được. Có ai biết giúp mình với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.70153,
+         "id": "907366",
+         "field_search": "question",
+         "question": "Xin chào cho em hỏi em có con lap Vaio i5 tại sao em tải game không được cứ bấm vào phần download là cụ bị trạng thái chờ nhận dạng file mà không hiện lên phần tải về cho máy' a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.756393,
+         "id": "874790",
+         "field_search": "question",
+         "question": " tại sao em không tải được ứng dụng zalo vậy ạ. phần mềm 8.1 đó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.358604,
+         "id": "818933",
+         "field_search": "question",
+         "question": " Tại sao em đã tải về rồi mà không cài đặt được facebook chỉ tải được fb lite là sao ạ chỉ em với.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.835138,
+         "id": "884174",
+         "field_search": "question",
+         "question": "Tôi muốn tải phần mềm gọi về ipad của tôi nhưng không tìm thấy được ipad của tôi là 4.2.2 giúp tôi lf sao tải được phần mềm nghe và gọi trong ipad 4.2.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.545343,
+         "id": "939253",
+         "field_search": "question",
+         "question": " tại sao iphone 4 của em ios 7.1.2 không tải facebook về được mà máy ip4s cũng ios 7.1.2 tải về được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.17147,
+         "id": "1158671",
+         "field_search": "question",
+         "question": "Cửa hàng cho em hỏi tại sao oppo a3s không tải được facebook ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.960676,
+         "id": "910503",
+         "field_search": "question",
+         "question": " mới mua máy tính asus nhưng lại tải phần mềm chụp ảnh không chụp được làm thế nào để chụp được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.902895,
+         "id": "1158628",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là samsung a7 nhưng sao không xem được tập đính kèm các file trên facebook ạ? Tải về không được. Em cần cài phần mềm hay làm thế nào để xem được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.722881,
+         "id": "774293",
+         "field_search": "question",
+         "question": "Cho em hỏi em quên mật khẩu của iPad, nên em không thể tải một số phần mềm vể máy được, em có thể lấy mật khẩu lại được không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.606983,
+         "id": "876068",
+         "field_search": "question",
+         "question": " Cho em hỏi e vào app store nó lại k hiện thị hình ảnh . Tải ứng dụng xuống cũg k đc vậy    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.454653,
+         "id": "766843",
+         "field_search": "question",
+         "question": " Quản trị viên cho em hỏi tải phần mềm gì về có thể download được video ios ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.24864,
+         "id": "840373",
+         "field_search": "question",
+         "question": "Cho e hỏi phần mềm cốccốc của iPhone 5s tải phim trên phimmoi.net tải về chưa được nữa phim thì bị lỗi thì phải làm sao ạ.có phần mềm nào tải phim cho iPhone nữa không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.197147,
+         "id": "1023702",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chút em sử dụng ứng dụng google photo để lưu ảnh được nhiều nhưng e mới lưu được 1 nửa số ảnh thôi dung lượng của Google photo thì còn nhiều, khi em tải tiếp lên thì máy báo lỗi không tải lên phương tiện được. Em đã tắt máy đi khởi động lại mà vẫn không thực hiện được, ad giúp em với ạ. Máy em dùng là samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.069616,
+         "id": "815917",
+         "field_search": "question",
+         "question": "Em có iphone 4s lúc đầu em mới mua máy tại cửa hàng em nhớ bên cửa hàng tải cho em 1 số ứng dụng bằng tải khoản của họ, em dùng 1 tuần sau a thấy appstore hiện cập nhập bản mới mới lại em dùng tài khoản của mình rồi nên lúc cập nhập a vô tình ấn sai nên cái ứng dụng đó hiển thị đang chờ mãi không xoá đi được liệu em chạy lại phần mềm có mất đi được không ạ, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.030298,
+         "id": "911919",
+         "field_search": "question",
+         "question": "Facebook em bị lỗi nên em xoá và tải lại , vào appstore thì facebook hiện chữ ''mở'' và không tải lại được , em đã tắt nguồn ,đặt lại, tắt hay bật giới hạn , vào dung lượng để xoá app nhưng vẫn không được , anh chị giúp em :( , giờ cứ như nó còn kẹt đâu đấy nên hiện chữ ''mở'' không tải lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.926321,
+         "id": "949479",
+         "field_search": "question",
+         "question": "Ip 6 mình vừa xóa facebook rồi tải lại k được nó hiện là : cập nhật này hiện tại không khả dụng hãy thử lại sau. Mình đã thử kết nối với wifi khác nhưng tải không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.785442,
+         "id": "802838",
+         "field_search": "question",
+         "question": "Anh ơi em tải Facebook về rồi nhưng không đăng hình lên Facebook bằng điện thoại nó không có ạ có Facebook mà điện thoại vô hình tải lên không có hiện Facebook anh giúp em với làm cách nào nha?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.528994,
+         "id": "1024080",
+         "field_search": "question",
+         "question": "cho e hỏi chút ạ. e đã có tk id apple rồi, e muốn tải phần mềm xuống máy tính, chọn tải xong đăng nhập nick thì nó lại hiện lên là : id apple này chưa được sử dụng trong app store. vui lòng xem xét lại tài lại tài khoản. em ấn vào nút xem xét thì nó không hiện lên gì cả! làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.370598,
+         "id": "1022702",
+         "field_search": "question",
+         "question": "xin chào, cho em hỏi là laptop Asus của em lâu rồi không sử dụng, giờ phần mềm diệt virus hết hạn, khởi động thì chậm, tải phần mềm về cài đặt không được, có thể tư vấn cho em nên làm gì không ạ. Em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.356897,
+         "id": "994487",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 5s, Messenger của em không tải được tin nhắn của em với bạn bè trước đây, chỉ tải được phần tin nhắn của em với những người gần đây thôi ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.300858,
+         "id": "1161631",
+         "field_search": "question",
+         "question": "Tôi đã Tải Facebook like lại máy tại sao không quay trực tiếp trên Facebook được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.265127,
+         "id": "762036",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5 bản lock em muốn tải phim từ úc mà sao em không tải được khi em tải toàn hiện là video không thể tại vì lý do bản quyền. Em cần sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.250938,
+         "id": "854694",
+         "field_search": "question",
+         "question": "tại sao facebook của mình không like được ảnh không like được ảnh khiong chia sẻ được bài viết không đăng được gì lên hết không nhắn tin được nói chung là không làm được một cái gì mà chỉ vào xem được thôi mọi người giúp miifnh với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.040375,
+         "id": "1008223",
+         "field_search": "question",
+         "question": "Cho em hỏi, dung lượng của điện thoại còn 232 MB trống mà phần mềm em tải chỉ có 34MB sao lại không đủ dung lượng vậy ạ? Điện thoại em là NOKIA X2. Em thấy dung lượng rất nhanh đầy, trong khi thẻ nhớ lại còn đủ đến 2GB, làm sao để lưu hình ảnh bên thẻ nhớ mà không lưu trong điện thoại vậy ạ? Vì em cần tải phần mềm thêm về học mà tải được ít quá, từ trước tới giờ em chỉ tải có khoảng 5,6 cái vvề, em đã xóa hết fb, mes, zalo, twister rồi mà vẫn không đủ. Hồi xưa em tải được nhiều thứ mà bây giờ không được nữa, điện thoại em bị hư hay sao vậy ạ? Các anh chuyên viên chỉ em với huhu...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.944132,
+         "id": "996084",
+         "field_search": "question",
+         "question": "Máy oppo f1s xoá nhầm facebook giờ không tải lại được facebook lúc tải cứ bị báo lỗi không tải được là sao vậy ???????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.83244,
+         "id": "845780",
+         "field_search": "question",
+         "question": " Mình dùng máy tính. không up được ảnh lên facebook, load xong toàn báo ảnh tải không hợp lệ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.826332,
+         "id": "1149705",
+         "field_search": "question",
+         "question": "Xin hỏi tại sao gần đây máy của em tải ảnh trên pinterest về điện thoại lại không được mặc dù em xài ứng dụng đó đã 2 năm vẫn tải về bình thường. Em không biết đã gặp sự cố gì nhưng lần cuối em tải được ảnh trên đó về là vào ngày 24 tháng 1. Điện thoại em là samsung galaxy j4 2018. Em tìm cách khắc phục nhưng không được nên xin nhờ đội ngũ tgdđ giúp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.674324,
+         "id": "926487",
+         "field_search": "question",
+         "question": " Tôi tải youtube mai không được tôi tải nó hiện lên đang chờ mà cả ngày không được vậy là sao dúp tôi với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.631687,
+         "id": "745807",
+         "field_search": "question",
+         "question": " Tại sao oppo mirror 5 không tải được fifa 16 vậy chỉ em với ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.569641,
+         "id": "788562",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 5 của em khi tải ứng dụng từ AppVn về thì hiện lên cầu \"Không thể tải ứng dụng về vào lúc này\" phải làm sao mới tải về được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.460619,
+         "id": "914742",
+         "field_search": "question",
+         "question": " sao win 10 của e không tải được lol ad ơi ? Tải về toàn ra phần mềm word thôi 3 AD ơi phải làm sao bây h ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.313524,
+         "id": "777208",
+         "field_search": "question",
+         "question": "Tại sao em lập được tài khoản iCloud rùi mà muốn tải cái gì nó lại có bước này và em không hiểu cái mã mí cái thư tín là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.31328,
+         "id": "832739",
+         "field_search": "question",
+         "question": "Sao tôi cài đặt wp10 cho lumi630 facebook của tôi không đăng tải được hình ảnh. Không chia sẻ được hình ảnh của tôi được. Và tôi vào facebook hay bị kick ra khỏi màn hình chính. Qtv cho giải pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.307505,
+         "id": "843931",
+         "field_search": "question",
+         "question": " Tại sao em tải Messenger lại về máy, mà máy lại ghi là không tải được ứng dụng là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.276873,
+         "id": "917095",
+         "field_search": "question",
+         "question": "Em đang dùng J7 Prime nhưng sao em không thể tải file word về từ Facebook nhưng trước đây em vẫn tải được. Khi em bấm chọn file thì hiện thông báo \"Không thể tải trang này\". Em đã thử nhiều file khác nhau vẫn không tải được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.254353,
+         "id": "889810",
+         "field_search": "question",
+         "question": "máy mình chỉ tải được những bộ sticker trong zalo..còn những hình ảnh sticker máy điện thoại khác gửi tới thì khi bấm tải xuống chỉ hiện lên phần chia sẻ, không có phần tải về....làm thế nào để tải những hình động của zalo khác gửi đến",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.210915,
+         "id": "785820",
+         "field_search": "question",
+         "question": " Ipad air 2 có tải được phần mềm vivavideo không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.20442,
+         "id": "996432",
+         "field_search": "question",
+         "question": "Cho em hỏi , điện thoại em là j7 prime , tại sao em tải phần mềm về thì nó chỉ hiện lên màng hình chờ không có ở màn hình chình giờ muốn gở cài đặt thì vào CHPlay để tìm tên ứng dụng đó mới gở cài đặt được . Trong khi đó lúc trước máy em không có bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.150303,
+         "id": "1153632",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang sử dụng samsung j7 pro. em tải hình ảnh từ google về máy nhưng khi em vào file mở thư mục tải về ra thì không xem được ảnh. Em đã thử tải lại và khởi động lại máy vẫn không mở được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.14788,
+         "id": "651264",
+         "field_search": "question",
+         "question": " em có tải phần mềm wechat về máy nhưng chỉ nhận được cuộc gọi đến còn e gọi đi không được là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.131237,
+         "id": "862005",
+         "field_search": "question",
+         "question": "Dạo nàu fb e ko up ảnh lên được. Ko phải do nick e bị hack do e láy nick khác cũg ko up ảnh lên đuọc ạ. E tưởng fb e bị lỗi e xóa và tải lại nhưng cũng ko up lên được ạ. Mong a cj giúl đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.10972,
+         "id": "897519",
+         "field_search": "question",
+         "question": " Tại sao em vào trình duyệt chome lên facebook lại không được?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.101748,
+         "id": "894684",
+         "field_search": "question",
+         "question": " Em muốn nhờ bên tgdd tải giùm em phần mềm power point nhưng em không biết có mất phí không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.042816,
+         "id": "804551",
+         "field_search": "question",
+         "question": " Sao lumia tải zalo lại không có phần gọi video ạ.sao lại không cài được facebook lite ạ.em xin cảm ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.013584,
+         "id": "1000032",
+         "field_search": "question",
+         "question": "Em sài samsung j2 prime khi chụp ảnh thì hình ảnh vẫn bình thường nhưng khi call video facebook thì hình ảnh lại bị tối và bên kia không thấy gì, dù em đã xóa và tải lại, khởi động lại máy nhưng vẫn không được. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.867895,
+         "id": "835097",
+         "field_search": "question",
+         "question": " tại sao tôi không thể nào được facebook ở máy lumia 730. tải nó toàn lỗi không cho tải kêu chờ xử lý ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.859001,
+         "id": "1022974",
+         "field_search": "question",
+         "question": "Tại sao điện thoại obi mv1 tải facebook về không được điện thoại android đang khởi động và mở máy lên không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.84509,
+         "id": "766326",
+         "field_search": "question",
+         "question": " Em muốn tải nhạc vào iPhone mà sao không tải được vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.831879,
+         "id": "867545",
+         "field_search": "question",
+         "question": "iPad của em bị gì mà nó cứ tự hiển thị mấy cái thông báo quảng cáo\"Andoird của bạn bị nhiễm virus\", \" Quay số trúng iPhone\" hoặc nó tự vào ch play. Em chơi chưa được 1p là quảng cáo cứ hiện lên. Em đã tải phần mềm quét virus với cả tắt nguồn iPad mà nó vẫn vậy. Giúp em với!!!!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.750942,
+         "id": "1158418",
+         "field_search": "question",
+         "question": "Chào ad, mình lỡ tay xoá ứng dụng Facebook, giờ muốn tải lại trên CH PLAY nhưng mà không thể tải lại được, nó cứ hiện ra là ứng dụng không tương thích với thiết bị (mình dùng Oppo a3s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.721138,
+         "id": "1024156",
+         "field_search": "question",
+         "question": "tại sao máy em không đăng kí được icloud giúp em với tại vì không đăng nhập được cái nớ nên máy em không tải được ứng dụng về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.71992,
+         "id": "1017714",
+         "field_search": "question",
+         "question": "Máy samsung báo tải phần mềm .nếu tôi tải phần mềm về máy có làm mất đến dữ liệu của máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.667301,
+         "id": "927622",
+         "field_search": "question",
+         "question": " Messenger của em nó cứ hiện như này thì sao ạ. Em thử tải lại nhiều lần mà không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.638577,
+         "id": "803444",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em muốn kết nối lại với Facebook giống như hình của bạn Kiet Nguyen mà biểu nhập loại xác nhận gì đó là sao em không biết ad giúp với ạ?a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.515356,
+         "id": "949042",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao khi cài đặt phần mềm tải trên mạng về trên win 10 không được vậy. các file crack đều bị xóa khi tải về. có cách nào cài được không ạ. Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.515322,
+         "id": "1013241",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng Oppo F3 Plus, em muốn cài đèn flash cho tin nhắn và cuộc gọi nhưng không được. Em có tải 1 số phần mềm nhưng chỉ đk 1 ngày lại phải vào cài đặt lại, ad có thể hướng dẫn e được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.515081,
+         "id": "1148062",
+         "field_search": "question",
+         "question": "Nokia 3.1 có tải được facebook k ak. Em tải hoài mà không đuocj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.49115,
+         "id": "835213",
+         "field_search": "question",
+         "question": " Em tải ảnh từ đt lên zalo nhưng nó không được. nó báo là không đồng hóa đươc zalo với máy chủ.. e phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.468863,
+         "id": "766129",
+         "field_search": "question",
+         "question": "Tôi muốn tải ứng dụng của Hàn Quốc nhưng không thể tải được vì không tương thích với Việt Nam. Trong vpn one click lại không có quốc gia Hàn Quốc vậy tôi phải làm sao để tải được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.459232,
+         "id": "758827",
+         "field_search": "question",
+         "question": " Cho em hỏi em đang dùng iPhone 5 và đã lên 9.01 em tải ảnh về được mấy hôm thì mất là sao ạ? Ad giúp em với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.457886,
+         "id": "752932",
+         "field_search": "question",
+         "question": "Cho em hỏi. Hiện tại điện thoại em là dòng iPhone 5. Bây giờ em muốn gỡ phần mềm từ 9.1 xuống 8.3 hoặc 8.4 có được không ạ? Với lại diệt virus. Điện thoại em thường xuyên bị đứng trượt mở nguồn không qua.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.373856,
+         "id": "896878",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy của em bình thường vẫn hiện lên hình ảnh được chụp trong máy mà giờ lại xuất hiện lên hình của bạn em , em và bạn đó không hề xài chung iCloud hay là gì hết mà tại sao lại xảy ra như vậy! Mong mọi người giải thích sớm nhất có thể cho em!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.34307,
+         "id": "1158387",
+         "field_search": "question",
+         "question": "Facebook của em báo lỗi không tải đc ạ.chỉ e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.306816,
+         "id": "846882",
+         "field_search": "question",
+         "question": "Em đăng nhập trên cùng đtTài khoản Fb của em thi ko tải được ảnh nổi bậtCòn của bạn em thì đcEm đã tải Fb phiên bản mới nhất cho hỏi là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.306686,
+         "id": "915211",
+         "field_search": "question",
+         "question": " Laptop e tải mấy file dữ liệu pdf hay mấy file đọc ko được. Cho e hỏi tải phần mềm gì để đọc được mấy file trên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.295206,
+         "id": "875010",
+         "field_search": "question",
+         "question": " Iphone3gs không tải được phần mềm trong appstore phải làm sao ạ? Nó cứ đòi ios7. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.239075,
+         "id": "931609",
+         "field_search": "question",
+         "question": "ChàoAnh/ChịHiện tại em mới mua chiếc laptop Inp 3458 ở cửa hàng chạy Win 8.1 bản quyền. Hiện tại thì máy em có các phần mềm như WPS Writer, WPS Prensentation, WPS Spreadsheets tương tự như Word, Exell, Power Point. Khi mở file word hay exell thì nó lại mở phần mềm kia. Vậy cho em hỏi phần mềm kia có quan trọng không. Nếu xóa thì có ảnh hưởng gì tới phần mềm của máy không. Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.179462,
+         "id": "832096",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao e không tải đc phần mềm diệt virus cho iPhone 5s vậy. Hoặc nếu tải đc cũng k sử dụng đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.155561,
+         "id": "862608",
+         "field_search": "question",
+         "question": "Xin chào,Tôi muốn hỏi tại sao không đăng tải ảnh lên được ở zalo và nhận được câu báo: \"Cần cấp quyền truy cập ảnh, để có thể chia sẽ ảnh từ thư viện và lưu vào thiết bị\"Vậy là lỗi gì vậy Add?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.102234,
+         "id": "830527",
+         "field_search": "question",
+         "question": "admin cho mình hỏi, đt iphone của mình báo tài khoản icloud đã đầy, mình có đăng nhập và trang web icloud, mình muốn xem hiện tại icloud của mình đang sao lưu những gì mà bị đày, vì máy mình chỉ cài vài chương trình cơ bản, hình ảnh và video thì mình tải hết lên phần mềm drop rồiThanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.100048,
+         "id": "824372",
+         "field_search": "question",
+         "question": " E dùng galaxy j3 nhưg sao e tải phần mềm facebook về k hiện ra màn hình ching..vậy làm.cách nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.096378,
+         "id": "998102",
+         "field_search": "question",
+         "question": "Em dùng oppo joy 3 tại sao em tải fb về nó không cài đặt được hiện báo lỗi 24",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.99692,
+         "id": "807893",
+         "field_search": "question",
+         "question": " Máy em chạy lại phần mềm xong em quên mật khẩu iCloud không vào được máy sao giờ giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.991018,
+         "id": "1136732",
+         "field_search": "question",
+         "question": " Cho em hỏi nếu em muốn tải một ảnh nền có sẵn của zalo thì làm sao để tải ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.93102,
+         "id": "830458",
+         "field_search": "question",
+         "question": " cho e hỏi,tại sao galaxy trend plus của em vẫn chưa thể tải lên avatar video trên facebook vậy.XIN giúp đỡ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.841158,
+         "id": "765192",
+         "field_search": "question",
+         "question": " Em muốn lên ios 8.4 mà nó không hiện lên chữ cập nhạt phần mềm giờ phải làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.832247,
+         "id": "804976",
+         "field_search": "question",
+         "question": " dạ cho em hỏi tại sao em không lưu được ảnh được gửi qua từ tin nhắn trong facebook ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.817566,
+         "id": "1010137",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là! Em tải ứng dụng từ Ch Play và 100% rồi thì không cài đặt được, e chờ cả ngày cũg không được. Mong ad chỉ dẫn jùm em cái. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.80835,
+         "id": "800367",
+         "field_search": "question",
+         "question": " Cho em hỏi khi tải trò chơi nó hiện lên như thế này mà nhập hoài không được là sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.807827,
+         "id": "768381",
+         "field_search": "question",
+         "question": " Cho em hỏi sao laptop mình lên store tải game không được.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.806137,
+         "id": "919259",
+         "field_search": "question",
+         "question": "Cho em hỏi ID của em là ở Việt Nam nhưng tại sao bây giờ em tải app là chuyển qua tiếng Nhật. Có cách gì giúp em được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.691114,
+         "id": "876991",
+         "field_search": "question",
+         "question": " Cho em hỏi cách khắc phục lỗi 0x87AF0813 khi em tải facebook bản chính thức trên windows phone ạ? Tải không được! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.682358,
+         "id": "802927",
+         "field_search": "question",
+         "question": "1 tuần trước em còn tải được fjle trên facebook về mà hôm nay lại không tải được.tải về báo tải xuống không thành công. Em dùng HTC ONE MAX. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.629793,
+         "id": "867978",
+         "field_search": "question",
+         "question": " Tại sao laptop em tải cái gì cũng không được hết vậy? Nó cứ quay quay hoài là sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.622898,
+         "id": "759088",
+         "field_search": "question",
+         "question": "Chào anh (chị)! Cho em hỏi làm thế nào để lấy lại tài khoản line. Mọi ngày em gọi vẫn bình thường nhưng hôm nay mình cũng gọi được nhưng lại không thấy tiếng gì cả. Em liền gỡ và tải lại phần mềm line (tài khoản của mình chưa đăng kí email)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.614895,
+         "id": "843457",
+         "field_search": "question",
+         "question": "E muốn xoá cài đặt I.O.S 9.3.2 e tải vài bữa trước về bản cũ là 7.1.2 sao không được vậy? . Chỉ thấy hiện chữ đã tải bản cập nhật phần mềm I.O.S 9.3.2 thôi , e xài i pad 3 wifi , chạy ko mượt như trước nữa , chỉ dùm e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.5689,
+         "id": "750569",
+         "field_search": "question",
+         "question": " Em có ipod 4 em có thể đem lên TGDĐ để cập nhật phần mềm được không? hiện giờ máy ipod 4 của em là ios 4.3.3. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.540365,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.534513,
+         "id": "940163",
+         "field_search": "question",
+         "question": "iPhone 4s của em lúc trước em xóa hết tất cả ứng dụng trò chơi và mạng xã hội.bây giờ em muốn tải lại thì yêu cầu tạo ID Apple em gõ vào thì hiện lên .Bạn cần cập nhật ios mới tải game được. làm ơn giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.492178,
+         "id": "1017671",
+         "field_search": "question",
+         "question": "Lap của em có cài phần mềm chống virus McAfee livesafe ,trong lúc em đang tải dữ liệu lên gmail thì nhận được thông báo virus protection,nhưng vậy là máy em có bị nhiễm virus không vậy anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.488314,
+         "id": "1010225",
+         "field_search": "question",
+         "question": " Tại sao nhạc việt em vẫn tải được còn nhạc nước ngoài em không tải được. Nó báo lỗi như vậy là sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.478958,
+         "id": "814117",
+         "field_search": "question",
+         "question": " Tại sao máy iPhone lại không tải game được?              ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.445347,
+         "id": "1134652",
+         "field_search": "question",
+         "question": "Máy sony z5 của mình mới mới update lên 7.0 thì không tải được Facebook,  đã xoá dữ liệu bộ nhớ cache của ch play, với dịch vụ play rồi tắt nguồn bật lại vẫn không được.  Bây giờ phải làm sao. Các app khác vẫn tải bình thường, mã lỗi là -505",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.414608,
+         "id": "801462",
+         "field_search": "question",
+         "question": " Sao tải zalo không được ? Mình lỡ xoá zalo đi bây giờ muốn tải lại nhưng không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.399015,
+         "id": "1142533",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu mua laptop bên mình các phần mềm của microsoft sẽ được tải bản đầy đủ hay bản dùng thử ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

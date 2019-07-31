@@ -1,0 +1,801 @@
+{
+   "id_query": "761666",
+   "total": 28984,
+   "total_current": 100,
+   "max_score": 159.23454,
+   "origin_question": "Máy mình bị lỗi display driver stopped responding and has recovered thường xảy ra mỗi khi chơi game mặc dù cấu hình máy mình vượt xa cấu hình tối thiểu để chơi game đó, ai biết cách khắc phục lỗi này thì làm ơn hướng dẫn mình với.",
+   "hits": [
+      {
+         "score": 72.00379,
+         "id": "907817",
+         "field_search": "question",
+         "question": "em có mua laptop win 10 Acer aspire e5 575g chơi game vs xem phim lúc sao bật game lại nó báo lỗi display driver stopped responding and has recovered là sao ạ em xin luon cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.02307,
+         "id": "796254",
+         "field_search": "question",
+         "question": "Mình đang sử dụng con Dell Inspiron N5558 win8.1 trong lúc đang chơi FO3 hay LOL thì máy hiển thị Display driver stopped responding and has recovered vậy bây giờ mình fix lại như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.117847,
+         "id": "1133728",
+         "field_search": "question",
+         "question": "Vì sao Samsung A7  khi chơi game liên quân thường bị lỗi kết nối với máy chủ dù  cấu hình  máy tương đối  cao,,  mong nhận được sự hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.793987,
+         "id": "994015",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài iphone 6 plus sao khi chơi game dream language soccer 2017.mới tải về chơi rất mượt nhưng khi chơi được 3,4 game là bắt đầu giật lag là sao cho hỏi máy mình đang bị gì và cách khắc phục lag khi chơi game này.trong khi đó máy mình cấu hình rất mạnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.27133,
+         "id": "1154260",
+         "field_search": "question",
+         "question": "Điện thoại của em khi vài chơi free fire khi vài trận thì nhân vật đen lát sau thì vị văng ra màn hình chính có cách nào khắc phục không.Mặc dù đã chỉnh cấu hình game thấp . Xóa tải lại nhưng vẫn bị .....điện thoại mình là j2pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.75973,
+         "id": "886167",
+         "field_search": "question",
+         "question": "Tgdd cho mình hỏi máy mình 5s khi gọi điện thì màn hình giáp loa nóng ran dù gọi vài giây khi chơi game thì cũng nóng hơn chỗ khác mà cảm ứng hay loạn khi chơi game tgdd cho mình hỏi máy bị làm sao thế cách khắc phục luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.740948,
+         "id": "998971",
+         "field_search": "question",
+         "question": " e muốn chơi game gta 5 và một số game khác thì e muốn hỏi với cấu hình như này có chơi được game gta 5 k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.48297,
+         "id": "998968",
+         "field_search": "question",
+         "question": " e muốn chơi game gta 5 và một số game khác thì e muốn hỏi với cấu hình như này có chơi được game gta 5 k ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.278893,
+         "id": "1166174",
+         "field_search": "question",
+         "question": "Choi game dien thoai .có dấu hiệu ghi Lỗi phân tích dữ liệu của máy chủ.Vậy vui lòng hướng dẫn cách làm khắc phục sữa lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.009308,
+         "id": "1163211",
+         "field_search": "question",
+         "question": "Tại sao chơi pubg trên redmi note 7 dù để cấu hình thấp nhưng khi gần cuối game có hiện tượng giật lag hoặc dơ máy vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.9652,
+         "id": "1014447",
+         "field_search": "question",
+         "question": "Dạ cho hỏi điện thoại của mình chơi game thường hay bị quăng ra ngoài ,chỉ cho mình cách khắc phục đi cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.77301,
+         "id": "853241",
+         "field_search": "question",
+         "question": "Mình xài iphone 4 phiên bản 7.1.2 cứ mỗi lần chơi game ngôi sao thời trang lại bị văng ra màn hình chủ ! làm sao để khắc phục vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.631752,
+         "id": "999171",
+         "field_search": "question",
+         "question": "Cho mình hỏi với cấu hình hiện tai của redmi note 4 có thể chơi tựa game Vainglory được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.287926,
+         "id": "1145694",
+         "field_search": "question",
+         "question": "cho mình hỏi sao máy mình J7+ bị màn hình như vầy khi chơi game . còn tất cả các ứng dụng khác thì ko lại bị . cho mình biết có khắc phục dc ko hay là phải đem máy ra tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.18656,
+         "id": "1166291",
+         "field_search": "question",
+         "question": "Cấu hình galaxy S10 liệu chơi game có hay bị sụt FPS",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.717216,
+         "id": "1140668",
+         "field_search": "question",
+         "question": "Minh muốn mua máy để chơi game cấu hình nặng như lien quan.  Vltk.  Thì chọn dòng mấy nào ngon vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.663727,
+         "id": "761434",
+         "field_search": "question",
+         "question": "Laptop của em lâu lâu hay bị lỗi not responding, có khi bị khi mới khởi động máy, có khi đang xài bình thường thì bị, cho hỏi máy em bị lỗi gì, làm sao để khắc phục, xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.194416,
+         "id": "1160751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 6 32g khi chơi game hay vào app thì hay bị văng ra ngoài, bực nhất là đang chơi game bị văng ra mà vào lại thì 99% nó lại văng. Mình đã làm nhiều cách như xoá ứng dụng khôi phục lại máy xong tải về lại và vẫn bị văng game như thường, cho mình hỏi là điện thoại mình nó bị gì và có cách nào khắc phục không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.02359,
+         "id": "1017778",
+         "field_search": "question",
+         "question": "hướng dẫn cách khắc phục lỗi facebook messenger báo đã xảy ra lỗi, vui lòng thử lại với ạ. em bấm vô cuộc trò chuyện là bị báo lỗi như vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.876835,
+         "id": "1133450",
+         "field_search": "question",
+         "question": "Nokia 3 lỗi cảm ứng khi chơi game có cách khắc phục được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.7345,
+         "id": "1162652",
+         "field_search": "question",
+         "question": "Máy e sam sung j8 khi chơi game bị che khuất 1 phần màn hình và làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.592545,
+         "id": "808270",
+         "field_search": "question",
+         "question": "Mình đang sử dụng Sky a900 nhưng khi mình chơi trò chơi , sau đó thì mở tab mới ra ngoài , một ít phút sau mở tab trò chơi cũ thì lại phải chạy lại trò chơi ấy . ad cho mình hỏi cách khắc phục và lỗi của máy với ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.507072,
+         "id": "989918",
+         "field_search": "question",
+         "question": "cho hỏi mình có cái iphone 5 vô youtube máy báo lỗi .. đã xảy ra lỗi hướng dẫn mình chỉnh lại nhe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.40497,
+         "id": "1005398",
+         "field_search": "question",
+         "question": "Cấu hình của ip5 hiện tại là bao nhiêu h em muốn cấu hình của ip4s lên 5 dc k ạ vì game em muốn chơi vào game ghi cấu hình không đạt chuẩn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.206234,
+         "id": "807514",
+         "field_search": "question",
+         "question": "Hiện tại mình đang cần mua một laptop giá tầm 4 triệu, mình xem tại TGDD thì có sản phẩm Lenovo ideapad 100s có cấu hình tốt nhất trong tầm giá này. Nhưng hiện tại mình đang phân vân vài vấn đề.- Với cấu hình như thế thì mình có thể chơi được một số game như LOL hay không ?(trên mạng có review cấu hình này chơi ở low setting được)- Máy có được bán trả góp hay không ?- Chế độ bảo hành thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.023533,
+         "id": "1145706",
+         "field_search": "question",
+         "question": "Xin hướng dẫn giúp tôi khắc phục lỗi này: gần đây tôi mới mua điện thoại huawei nova 3e từ TGDĐ, đt thường tự bật sáng màn hình khi đang khóa máy để nằm yên, và cả khi đang sạc pin đều bị hiện tượng giống nhau; màn hình khóa tối tự nhiên bật lên hình nền màn hình chính (chỉ hình nền, và thanh thông tin trên cùng thôi, trên màn hình chỉ hiện hình nền không kèm thông tin gì khác), sau đó nó lại tự chuyển sang màn hình khóa (có đồng hồ, ngày, ...) rồi tắt tối lại. Cứ khoảng 10' lại bị vậy. Xin hướng dẫn tôi khắc phục lỗi này. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.984467,
+         "id": "1145668",
+         "field_search": "question",
+         "question": "Ở Nhatrang, muốn mua laptop Asus Vivobook S50 S510UA, Cấu hình mạnh để chơi game. Thegioididing có máy cũ không và giá cả ra sao. LH 0935435053.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.73592,
+         "id": "1157972",
+         "field_search": "question",
+         "question": "Điện thoại của em là Xiaomi a2lite và em có vấn đề là khi em cài trò chơi mới rồi chơi được một thời gian thì khi vào lại trò chơi kia để chơi thì bị lỗi treo khi khởi động game (tức game treo chứ máy vẫn hoạt động ổn định ) em cần giải pháp cho tình trạng này vì con game đó là thứ để chơi với bạn thân. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.710743,
+         "id": "807320",
+         "field_search": "question",
+         "question": " Máy tính mình khi khởi động xong báo lỗi như Hình, chỉ mình cách khắc phục với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.63568,
+         "id": "1009176",
+         "field_search": "question",
+         "question": "Muốn mua máy tính phục vụ cho nhu cầu giải trí thì cần chọn máy có CPU? ROM? RAM? Cấu hình tối thiểu? Thương hiệu nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.50131,
+         "id": "846175",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua máy laptop hãng Asus dog gl552j. Cấu hình khá mạnh mà chơi game nó giật quá. Trong khi đó mạng ổn định",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.210377,
+         "id": "871595",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi vào facebook trên smarthphone thì có hiện thông báo là phải tạo một mã khóa mới. Nhưng khi tạo thì lại bảo là xảy ra lỗi như hình dưới đây. Có bạn nào biết thì chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.202694,
+         "id": "995597",
+         "field_search": "question",
+         "question": "Cho mình hỏi  mình muốn mua  cái laptop 8gp  chíp i5  card  màn hình stx 730  có  thể  chơi dc  game  cấu  hình cao  giá thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.187393,
+         "id": "1019816",
+         "field_search": "question",
+         "question": "ad cho mình hỏi, khi copy từ máy tính sang đt samsung s4, cứ đến 99% là nó hiện the device has either stopped responding or has been disconnected là bị làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.114582,
+         "id": "999630",
+         "field_search": "question",
+         "question": "Ai biết cách khắc phục tình trạng này k. đt tôi là oppo neo7 đùng đc khoảng 6 tháng thì tôi dùng thêm sin vietnam từ lúc đó trên màn hình nó hiện lên cái loa kêu 1 tiếng r tự động out game ai biết cách khắc phục chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.104797,
+         "id": "1136682",
+         "field_search": "question",
+         "question": "A có thể tư vấn em máy nào từ 1 đến 2 triệu có cấu hình tốt không ạ để chơi game ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.86889,
+         "id": "803097",
+         "field_search": "question",
+         "question": "Zalo mình cứ cập nhật giờ bị sai mặc dù giờ ở máy mình vẫn đúng. Ad biết khắc phục lỗi này không giúp mình với. Mình cũng đã thử xoá đi cài lại vẫn bị vậy.... Mình đang dùng ip5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.655617,
+         "id": "1000151",
+         "field_search": "question",
+         "question": "nếu cấu hình máy không đủ để chơi liên quân trên ipad thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.65343,
+         "id": "970359",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone se giờ còn bao nhiêu ạ, như cỡ giá với iphone se thì về cấu hình cũng như về chơi game thì có máy nào tầm giá với se mà mạnh hơn hog",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.56311,
+         "id": "744816",
+         "field_search": "question",
+         "question": " Cho em hỏi cách khắc phục lỗi bảo mật khi chơi game trên laptop hp windows 8.1? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.55958,
+         "id": "1009783",
+         "field_search": "question",
+         "question": "Mọi người giúp với ạ, mình đang dùng cái oppo f1s 2016 từ khi mua về vẫn tốt nhưng sau vài hôm trở lại mỗi khi chơi game Crossfire Legend với liên quân thình thoảng màn hình tự vuốt giực đi rất nhanh, ai có như mình hoặc có cách khắc phục giúp mình ạ 😰😰😰",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.492046,
+         "id": "1144263",
+         "field_search": "question",
+         "question": "Cho hỏi con nokia6.1 với oppo a83 thì con nào chơi game và cấu hình cao hơn, mạnh hơn? Và nokia6.1 được bán khi nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.42261,
+         "id": "996336",
+         "field_search": "question",
+         "question": "Hướng dẫn khắc phục lỗi lớp phủ màn hình máy itel s11 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.35354,
+         "id": "1159487",
+         "field_search": "question",
+         "question": "nếu mình chuyển game sang thẻ nhớ thì khi chơi game có bị lỗi gì ko. mình dùng huawei thẻ nm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.29786,
+         "id": "849621",
+         "field_search": "question",
+         "question": "em đang dùng Masstel N470 nè .Máy lag lắm cahyj chậm nx.tốc độ CPU chỉ cos1.GHz Ram 512mb chạy chậm lắm.! nhiều lần chơi game mà máy tự khởi động lại.chơi game khi ra ứng dụng thì thì màn hình có màu xanh đen,tý nữa bật lên lại thì vẫn màu ấy chờ một thời gian dài thì mới bật lên mạn hình đc lại.Có cách nào cho máy chạy nhanh hơn và khắc phục các lỗi đó ko? Máy đó thì có thay CPU tốc độ lớn hơn đc ko?? Và còn có một lỗi nx là khi đang chơi game hay chạy một ứng dụng thì nó cứ hiện ra cái chữ \"hiện ứng dụng ko phản hồi bạn có muốn đóng ứng dụng\" làm sao để khắc phục đây???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.219265,
+         "id": "1162939",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại của mình là samsung A3 2016, mặc dù đt không làm gì, để yên thì lâu lâu ại tự động sáng màn hình mặc dù không có thông báo hay gì cả. Giúp mình cách khắc phục lỗi này nhé vì nó làm ảnh hưởng đến lượng pin quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.19636,
+         "id": "1165121",
+         "field_search": "question",
+         "question": "Mình đang dùng nokia 5.1 plus,  sau mỗi lần chụp mỗi bức ảnh là máy tự tạo ra ảnh ảo,  cho mình hỏi có cách nào để khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.04758,
+         "id": "777243",
+         "field_search": "question",
+         "question": "Cho mình hỏi về giá cả của iphone 4 16gb, khi nâng lên ios 7.1 thì cấu hình có mượt không? chơi game nặng như asphalt 8 có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.00666,
+         "id": "1014968",
+         "field_search": "question",
+         "question": "ad . cho e hỏi . lúc sài bình thường không sao nhưng khi chơi game khung hình lại là hình vuông . ad có thể hướng dẫn e cách chỉnh full mang hình game dc ko ạ - asus i7 win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.79654,
+         "id": "755539",
+         "field_search": "question",
+         "question": "Em đang dự định mua con HP 4530s cũ để chơi FiFa Online 3 nhưng không biết cấu hình máy này có chơi được không xin anh chị tư vấn giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.647373,
+         "id": "914085",
+         "field_search": "question",
+         "question": " Máy cấu hình này chơi được liên minh huyền thoại không ạ ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.553257,
+         "id": "1144367",
+         "field_search": "question",
+         "question": "ipad của mình vừa bị đổ nước vào nút bật máy và máy bị chập chờn, đang chơi game mà cứ bị out ra màn hình khóa hoặc tự bật nút tắt nguồn, bây giờ thì màn hình cứ sáng lên và có hình quả táo, làm cách nào để máy trở lại bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.50448,
+         "id": "769320",
+         "field_search": "question",
+         "question": " Cho em hỏi. Muốn chơi game cf và liên minh huyển thoại thì cấu hình như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.45274,
+         "id": "896252",
+         "field_search": "question",
+         "question": " Ai pit sửa lỗi này không chỉ cho mình với  trên YouTube toàn hướng dẫn sửa cho máy tính k Ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.382256,
+         "id": "1138160",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j6 2018 chơi liên quân bị lỗi duy chuyển lâu lâu bị hướng dẫn em cách khắc phục ik ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.194298,
+         "id": "1008503",
+         "field_search": "question",
+         "question": "Mình dùng lenovo k5 plush mà sao chơi game liên quân giật quá trời vậy. Cho hỏi máy này có cách nào khắc phục để chơi liên quân ổn định hơn ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.166866,
+         "id": "836026",
+         "field_search": "question",
+         "question": " làm thế nào để khắc phục mã lỗi khi tải game trên máy laptop window . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.126163,
+         "id": "875962",
+         "field_search": "question",
+         "question": "ad cho e hỏi e mối mua máy delll vostro 3559 bên mình, trong khi chơi game thì xuát hiện lỗi VIDEO SCHEDULE INTERNAL ERROR và đáng chơi thì màn hình n tối đen 1 lúc r lại lên và xuất hiện lỗi ứng dụng dó bị chặn ko cho truy cập vào graphic r ứng dujng tự out... cho e hỏi làm thế nào để fixx",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.068207,
+         "id": "1140792",
+         "field_search": "question",
+         "question": "Chào các bạn ktv mình đang gặp 1 số lỗi khi xài máy hưawei nova3i1. Khi xem phim toàn màn hình thì bị thu nhỏ video và quay ra màn hình chính làm mình rất là khó chịu cái này xảy ra liên tục mặc dù mình k đụng chạm gì cả2. Khi xem fim toàn màn hình thì thanh điều hướng vẫn hiện vì nó mày trắng nên nhìn rất là khó chịu. Mình thử mọi cách mà vẫn k ẩn nó đi đc.3. Ứng dụng Facebook khi xem video trên đó thì 30s là tự động dừng video k tiếp tục phát nữa. Mình thử cho video chạy tiếp và sau 30s thì nó cẫn dừng lại. Khá là khó chịuMong các bạn ktv giải đáp giúp mình cách khắc phục. Mình ms mua máy này đc 20 ngày mà gặp nhìu lỗi gây bất tiện khiến mình khá thất vọng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.992683,
+         "id": "1023285",
+         "field_search": "question",
+         "question": "Trong tầm giá 5tr thì chiết điện thoại nào có cấu hình khỏe... Chơi những game nặng mượt mà nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.99145,
+         "id": "837233",
+         "field_search": "question",
+         "question": " Cấu hình MÁY như thế này có chơi được liên minh huyền thoại không ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.99145,
+         "id": "768945",
+         "field_search": "question",
+         "question": " Anh ơi máy em cấu hình thế này có chơi được fifa không ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.985256,
+         "id": "874083",
+         "field_search": "question",
+         "question": "em đang sử dụng Ipad mini 2 3G ..sau chơi game 3D . chơi 1 chút nó hay bị văng ra hoài..có phải do máy hay không ? hay là do cấu hình của apple có vấn đề ak ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.84225,
+         "id": "1150568",
+         "field_search": "question",
+         "question": "điện thoại của mình vô internet được, nhưng không vào zalo đươc, mỗi lần vô là nó báo có lỗ xảy ra, kiểm tra lại, co ai biết không bày mình cách khắc phục . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.80599,
+         "id": "1158486",
+         "field_search": "question",
+         "question": "Máy a6 của em sau khi cập nhật thì cấu hình với thanh điều hướng khác bây giờ làm s để như cũ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.79593,
+         "id": "759273",
+         "field_search": "question",
+         "question": " Máy Sky Iron A870S không chơi được Gangstar Vegas Lúc mình chơi thì máy hay bị đứng QTV chỉ mình cách khắc phục với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.791748,
+         "id": "1143721",
+         "field_search": "question",
+         "question": "Ad cho em hỏi vấn đền này em ko hiểu lắm, là sao điều là ipad 2017 với nhau mà sao cái của anh em thì chơi pubg với cấu hình là HDR Cực cao đc, còn cái ipad của em thì chỉ chơi đc với cấu hình HD cao thôi là sao ad, mặc dù cái ipad của em nó có để HDR nhưng em bấm vào thì nó lại để là tuỳ chọn này sẽ sớm có trên thiết bị của bạn? Vấn đề này em ad có thể giải thích dùm em đc ko ạ em cám ơn ad trc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.7799,
+         "id": "754106",
+         "field_search": "question",
+         "question": "Cho mình hỏi về ứng dụng game trên điện thoại: hiện tại mình có cài game Plant vs Zombie 2 trên cả 2 hệ điều hành ISO và Android, mỗi khi xóa game hay cài lại hệ điều hành thì dữ liệu game đều bị mất mặc dù mình đã kết nói game với facebook và dùng địa chỉ ID apple và google play để mua game đó nhưng vào game thì bị mất hết save và phải chơi lại tự đầu cho mình hỏi có cách nào có thể giữ lại save khi phải cài lại điện thoại được không, hoặc mình muốn chuyễn game từ hệ máy ISO sang Androi mà muốn giữ lại save thì phải làm thế nào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.74534,
+         "id": "1024100",
+         "field_search": "question",
+         "question": "tôi bị lỗi phím số bên phải.bị lỗi số 4 với lại nhiều khi tôi viết trên bàn phím,thì hiện ra phần như nut f12.đây có phải lỗi driver không và cách khắc phục lỗi này như thế nào, tôi xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.57058,
+         "id": "912068",
+         "field_search": "question",
+         "question": "màn hình máy tính pc của mình bình thường dùng ko sao nhưng khi khởi động game lên thì bị mất 1/3 màn hình bên phải , đen ko có j hết ? cho mình xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.489742,
+         "id": "757506",
+         "field_search": "question",
+         "question": "Laptop Dell 5110 i5 2450M, 2.50Ghz, ram 8GB, 2 card, nhưng sao chơi game lag vô cùng. Mình xài cáp quang 10mb. Máy khác cấu hình thấp hơn nhưng chạy mượt lắm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.39917,
+         "id": "828347",
+         "field_search": "question",
+         "question": "Qtv, mình không vào được facebook từ trưa đến giờ, mặc dù đã tắt mở lại mấy nhiều lần, sau đó có xóa ứng dụng facebook để tải lại nhưng lại không thể tải lại ứng dụng mặc dù kết nối mạng vẫn bình thường, khi tải về lại thì báo lỗi -504, cho mình xin cách khắc phục ạ. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.35314,
+         "id": "1134370",
+         "field_search": "question",
+         "question": "cho mình hỏi với, mình đang dùng ip6 bản mỹ ios 11.1.1, hiện tại máy mình không bắt được wifi mặc dù đang ở trong phòng có wifi, thỉnh thoảng thì bắt được thì được 1 vạch sóng mà yếu không thể lướt fb hay lên mạng được, cho mình biết máy mình đang bị lỗi j và cách khắc phục với ạ, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.341663,
+         "id": "1133987",
+         "field_search": "question",
+         "question": "Mh sd dt samsung j7 2016 bị cảnh báo lỗi camera trước. Hướng dẫn mh cách khắc phục lỗi với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.336693,
+         "id": "1017077",
+         "field_search": "question",
+         "question": "Vợ mình vừa mua con oppo F3 mới tinh. Nhưng mình thử chơi game lỗi kinh khủng.  Vừa vào game thì lỗi. Bị ddis ra. Rồi sim2 vina k bắt được 3g nghĩa là sao???????.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.318848,
+         "id": "1145764",
+         "field_search": "question",
+         "question": "Cho mình hỏi con redmi note 5 pro khi xài sim 4g thì tốc độ mạng lúc chơi game có ổn định va và nhanh không ạ. Mình đang xài thánh sim vnmb mà sao chơi game bị lỗi mạng hoài, không biết tại máy hay mạng nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.224834,
+         "id": "1163129",
+         "field_search": "question",
+         "question": "Hướng dẫn khắc phục lỗi điều khoản dịch vụ apple media trên appstore với ad ,giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.202904,
+         "id": "999777",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4s khi chơi game tự nhiên nó bật ra màn hình chính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.1715,
+         "id": "786920",
+         "field_search": "question",
+         "question": "Máy Sony xperia m2 mình đang dùng bị rung liên tục không biết bị làm sao.Lúc đầu nó làm đơ màn hình mình tắt bật máy không được, sau đó thì cảm ứng màn hình bình thường lại nhưng hơi chậm, còn máy thì vẫn tiếp tục rung kể cả khi đã tắt nguồn.Có ai biết lỗi do đâu và sửa ntn thì chỉ e với ạ T.T",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.125954,
+         "id": "844708",
+         "field_search": "question",
+         "question": " Cho mình hỏi cấu hình như vậy chơi được GTA 5 ko ạ ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.12152,
+         "id": "1148415",
+         "field_search": "question",
+         "question": "Sao a7 2018 xài hay bị lỗi khi chơi game liên quân vậy dù đã cập nhật bản vá lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.04921,
+         "id": "1155477",
+         "field_search": "question",
+         "question": "Cho em hỏi máy ss j2 prime khi chơi game hay bị loạn cảm ứng thì cách khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.040348,
+         "id": "1000339",
+         "field_search": "question",
+         "question": "Mình vừa mới mua điện thoại samsung j2 prime cách đây hơn 2 thángVà tự nhiên dạo này máy mình bị lỗi như sau. Gọi videocall thì ng bên kia thấy hình mình rất tối mặc dù có đủ điều kiện sáng. Nhưng khj mình sử dụng máy ảnh thì vẫn ok. V cho hỏi. Lỗi như v là ntn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.921965,
+         "id": "769315",
+         "field_search": "question",
+         "question": " Em dùng iPhone 4 khi chơi game hoặc ứng dụng vuốt trên màn hình game thì thoát ra màn hình máy thì tắt thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.848219,
+         "id": "805199",
+         "field_search": "question",
+         "question": " Máy tính mình khởi động xuất hiện thông báo như ảnh là bị lỗi gì? Hướng dẫn mình các khắc phục được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.817677,
+         "id": "1010691",
+         "field_search": "question",
+         "question": "Mình dùng cái Sony Xperia XA, hôm qua thấy bộ nhớ máy đầy trên 70%, mình đã vào phần lưu trữ bộ nhớ và nhấn vào \"nhấn để biết thêm chi tiết, sau đó mình chọn vào \"bộ nhớ trong dùng chung\" và xoá hết 745MB trong \"dữ liệu khác\". Sau đó tự game mình tải về chơi không đc mà bắt tải lại, gỡ bỏ game xong thì máy tự khoá màn hình và bên hình ảnh thì bị thay đỗi cái phần sắp xếp... Mình phảo làm sao ạk?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.816362,
+         "id": "890253",
+         "field_search": "question",
+         "question": " Cấu hình Lenovo Yoga 510 15ISK i5 6200U4GB1TBWin10Có thể chơi được game Liên Minh Huyền Thoại mượt k vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.804764,
+         "id": "768942",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi máy em cấu hình thế này có chơi được fifa không ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.764172,
+         "id": "1164678",
+         "field_search": "question",
+         "question": "Mình mới mua Mi 8 dc tầm 1 tháng chơi game cứ bị đen màn hình và văng game. Mình đã gỡ game cài lại và khôi phục máy cài lại nhưng vẫn gặp lỗi này. Mình muốn đổi điện thoại khác dc ko ạ. Lúc mua giảm 2tr còn 10tr990 mình muốn đổi cái khác cũng mi 8 bù bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.684597,
+         "id": "1146429",
+         "field_search": "question",
+         "question": "Mình muốn hỏi laptop mình trước đây chơi game ok nhưng đột nhiên nay vào game không được và máy báo là game bị đóng vì không tìm thấy thiết bị hoặc gặp vấn đề với diver . vui lòng cập nhật driver mới nhất hoặc phiên bản driver ổn định nhất. Ad có thể chỉ mình cách cập nhật driver hay không ạ. Mình sử dụng laptop HP. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.547356,
+         "id": "1135151",
+         "field_search": "question",
+         "question": "Mình muốn cập nhật ios 12.1.1 beta 3 hoặc bản chính thức đều bị lỗi này, có ai biết cách khắc phục k cần dùng máy tính k ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.477516,
+         "id": "1022199",
+         "field_search": "question",
+         "question": " máy mình như thế này là bị làm sao vậy?? cho mình cách khắc phục với. cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.458641,
+         "id": "792217",
+         "field_search": "question",
+         "question": " Mình đang dùng iphone4 đang chơi game CDHT thì bị đẩy ra , mình hỏi xem có cach nào khăc phục tình trạng này ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.408869,
+         "id": "835426",
+         "field_search": "question",
+         "question": " Mình gặp lỗi này khi restore máy không biết xử lí như thế nào mong hướng dẫn cụ thể nhất ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.336294,
+         "id": "938962",
+         "field_search": "question",
+         "question": "Tài khoản zalo của mình khi đăng xuất bị lỗi số lượng yêu cầu vượt quá mức cho phép là sao? Cách khắc phục như thế nào? Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.298758,
+         "id": "858935",
+         "field_search": "question",
+         "question": "    ad cho e hỏi cấu hình máy như thế này có chơi được GTA 5 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.25622,
+         "id": "849393",
+         "field_search": "question",
+         "question": " ad cho hỏi cấu hình thế này chơi lmht mượt k ạ. hay là máy core i5  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.253044,
+         "id": "998455",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi sản phẩm j5 prime của mình hiện tại mới xảy ra lỗi đó là máy sử dụng 3g khoảng 2 3h ( do mình thường đọc truyện ) thì ở 4 cạnh góc màn hình bị ám đỏ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.199017,
+         "id": "1141135",
+         "field_search": "question",
+         "question": "Cho mình hỏi là instagram của mình đang chơi bình thường sao lại tự động out ra ngoài rồi mình đăng nhập vô lại thì thấy bị mất hết hình :( ( dù mình đã out ra lần nữa để cho chắc ko bị lỗi gì nhưng ảnh thì vẫn bị mất ?? Tại sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

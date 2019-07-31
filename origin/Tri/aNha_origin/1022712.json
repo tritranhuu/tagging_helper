@@ -1,0 +1,801 @@
+{
+   "id_query": "1022712",
+   "total": 29862,
+   "total_current": 100,
+   "max_score": 55.785416,
+   "origin_question": "Mình quên mật khẩu an toàn tệp tin có cách nào vào đc ko ạ",
+   "hits": [
+      {
+         "score": 28.756836,
+         "id": "1151535",
+         "field_search": "question",
+         "question": "Quên mật khẩu tủ an toàn huawei 2i và câu hỏi khi quên mật khẩu rồi lm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.565582,
+         "id": "1147796",
+         "field_search": "question",
+         "question": "Làm thế nào để vào lại được tủ an toàn trên điện thoại hauwei nova 3i khi quên mật khẩu đăng nhập thế các bạn cho hỏi với. Mibhf quên cả câu trả lời bì mật nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.338837,
+         "id": "1004009",
+         "field_search": "question",
+         "question": "Làm sao để bỏ mật khẩu trên điện thoại oppo neo 7. Mình đến cài đặt - chung - an toàn và bảo mật - nhập mật khẩu cũ rồi đến đây. Như vậy làm cách nào để tắt mật khẩu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.872852,
+         "id": "1142686",
+         "field_search": "question",
+         "question": "Em không muốn cài mật khẩu nữa nhưng khi vào \"An toàn và bảo mật\" thì nó hiện ntn ở phần \"Không có mật khẩu\". Em phải làm sao để xóa mật khẩu ạ huhu em không muốn dùng pass nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.578396,
+         "id": "1000502",
+         "field_search": "question",
+         "question": "cái oppo a37 của eem sao khi đổi từ mật khẩu   mẩu hình sang mật khẩu số của cái an toàn  tập tin thì bấm mật khẩu không được nữa  như kiểu bàm phiếm liệt không bấm ăn nữa vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.32041,
+         "id": "1162006",
+         "field_search": "question",
+         "question": "Xài win10 cài mật khẩu mở máy mà bây giờ quên mật khẩu thì có cách nào khắc phục được k ạ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.292887,
+         "id": "799271",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt iP5 của mình cài đặt lại nhưng mình lại quên mật khẩu để khởi động máy vì trước đó mình có đăng ký nhiều gmail giờ mình ko nhớ mật khẩu máy không khởi động được. Liệu có cách nào khởi động đc ko hat là vứt xó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.222708,
+         "id": "855645",
+         "field_search": "question",
+         "question": "Mình lập icloud bằng địa chỉ mail cũng đuôi icloud.com, bây giờ mình quên mất mật khẩu icloud, ko biết lấy lại mật khẩu bằng cách nào. các bạn giúp mình với!! :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.090801,
+         "id": "1141564",
+         "field_search": "question",
+         "question": "em có cái máy tính acer mà để lâu không dùng tới nên quên mật khẩu. Có cách nào mở mật khẩu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.992916,
+         "id": "1153329",
+         "field_search": "question",
+         "question": "Mình ấn nhầm khởi động chế độ an toàn của samsung tab3v giờ khởi động lại nó hiện code rồi đòi mật khẩu không mở đc máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.992916,
+         "id": "1153330",
+         "field_search": "question",
+         "question": "Mình ấn nhầm khởi động chế độ an toàn của samsung tab3v giờ khởi động lại nó hiện code rồi đòi mật khẩu không mở đc máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.984526,
+         "id": "779923",
+         "field_search": "question",
+         "question": " Mình có em Galaxy note 5 sơ tâm bị quên mật khẩu và email giờ có cách nào reset không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.83202,
+         "id": "909175",
+         "field_search": "question",
+         "question": " Cho mình hỏi nếu quên cả Icloud và mật khẩu thì có cách nào mở được Ipad Air ko bạn? Cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.637436,
+         "id": "1016236",
+         "field_search": "question",
+         "question": "Laptop e đặt mật khẩu nhưng e quên mất. Bên mình có thể mở máy giúp e đc ko ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.414139,
+         "id": "1148061",
+         "field_search": "question",
+         "question": "icloud bị khóa và quên mật khẩu nhưng khi nhấn vào để mở khóa thì lại bị nói là phiên bản đã bị hết hạn !!!!dù đã vào id apple và làm mọi cách để tìm mật khẩu nhưng toàn hiện ra toàn trang khác so với khi xem tren youtube",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.362812,
+         "id": "1130966",
+         "field_search": "question",
+         "question": "Ad ơi, mình quên mật khẩu giới hạn thì ra TGDD kỹ thuật ở đó có cách nào để mình đặt lại được mật khẩu không. thanks a lot.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.334003,
+         "id": "1161027",
+         "field_search": "question",
+         "question": "E muốn đặt lại toàn bộ iphone của mình nhưng e lại quên mật khẩu giới hạn và không có máy tính ! E phải làm thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.320723,
+         "id": "974386",
+         "field_search": "question",
+         "question": " Quên mật khẩu giới hạn iphone4s thì mở bằng cách nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.30018,
+         "id": "1154673",
+         "field_search": "question",
+         "question": "Quên mật khẩu dự phòng Samsung Note 4 Có cách nào lấy lại mật khẩu dự phòng của chiếc smartphone này không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.263577,
+         "id": "996258",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo f1s. Em nâng cấp lên Android 6.0. Bây h em quên mật khẩu màn hình khóa, mật khẩu ứng dụngChạy lại rom máy cũng yêu cầu mật khẩu có cách nào khôi phục lại ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.24802,
+         "id": "745896",
+         "field_search": "question",
+         "question": " Mình quên câu hỏi bảo mật bây giờ muốn đổi mật khẩu ID mà không biết làm cách nào có ai biết giúp mình với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.17917,
+         "id": "780142",
+         "field_search": "question",
+         "question": "Mình thật thất vọng khi hệt điều hành iOS dễ dàng bị AppCola cài vào một cách dễ dàng. Liệu iOS có còn bảo mật và an toàn không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.045712,
+         "id": "871656",
+         "field_search": "question",
+         "question": " Tôi quên mật khẩu icloud hướng dẫn tôi cách lấy lại mật khẩu của mình. Xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.958824,
+         "id": "1147768",
+         "field_search": "question",
+         "question": "Cách khôi phục mật khẩu vivo y91 khi quên mật khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.715649,
+         "id": "1166631",
+         "field_search": "question",
+         "question": "Bây h em quên mật khẩu máy realme c1 thì lấy lại bằng cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.711031,
+         "id": "773519",
+         "field_search": "question",
+         "question": " Em bị quên mật khẩu có cách nào lấy lại giúp em không qua itune không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.643885,
+         "id": "874719",
+         "field_search": "question",
+         "question": " tôi bị quên mật khẩu wechat cũng không có liên kêt chỉ nhớ mỗi id thì có cách nào để lấy lại mật khẩu không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.549414,
+         "id": "845105",
+         "field_search": "question",
+         "question": "Chào các bạn. Mình đang ở lào. Mình lỡ tay xoá mất cái ứng dụng zalo. Đăng nhập lại thì quên mật khẩu. Số đt bên việt sang đây ko thể gửi tn đc. Cho mình hỏi có cách nào lấy mã kích hoạt ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.397793,
+         "id": "1135436",
+         "field_search": "question",
+         "question": "Quên mật khẩu ẩn trò chuyện của zalo Lấy lại bằng cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.304583,
+         "id": "912808",
+         "field_search": "question",
+         "question": "Em quên mật khẩu icloud nhưng khi lấy lại bằg email thì chính cái icloud đó là email luôn thế là không thể nào đặt lại đc mật khẩu mới. Anh chị ad cho e hỏi là có cách nào để lấy lại không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.093102,
+         "id": "758159",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 4 muốn hỏi mình quên Mail và mật khẩu, làm cách nào để tìm thấy được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.051893,
+         "id": "754204",
+         "field_search": "question",
+         "question": " quên mất Id Apple, đã chọn quên mật khẩu và gửi qua email, nhưng không thấy tin nhắn nào đến mail. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.048561,
+         "id": "1145734",
+         "field_search": "question",
+         "question": "facebook của em quên mật khẩu . nhờ liên hệ tin cậy mới vào được . em có đủ mã của liên hệ tin cậy nhưng nhập xong nó cứ để lỗi hoặc bạn đã thử quá nhiều lần . hơn tuần nay em không vào được facebook có cách nào khôbg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.045746,
+         "id": "1158632",
+         "field_search": "question",
+         "question": "em bị quên mật khẩu id apple nhưng khi vào mục quên mật khẩu trên apple thì nó bắt nhập số điện thoại, nhập xong nó lại không chuyển đến phần chọn thông tin muốn đặt lại là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.925646,
+         "id": "913786",
+         "field_search": "question",
+         "question": " chỉ em cách mở khóa tài khoản icloud với ạ em quên mật khẩu mò pass qquài k đc nên bị khóa ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.889729,
+         "id": "769271",
+         "field_search": "question",
+         "question": " Cho mình hỏi tài khoản iCloud bị khóa gửi về mail thì ko nhân đc có cách nào mở khóa và đặt lại mật khẩu ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.727617,
+         "id": "1146542",
+         "field_search": "question",
+         "question": "Active 1 quên mật khẩu khóa bằng hình vẽ thì cách phá khóa như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.649275,
+         "id": "995684",
+         "field_search": "question",
+         "question": "cho mình hỏi có cách nào khôi phục lại đt ip7 khi ko nhớ mật khẩu và lúc mua trong máy có tài khỏan icloud nhưng ko để ý tới làm cách nào có thể khôi phục lại đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.642788,
+         "id": "1009728",
+         "field_search": "question",
+         "question": "cho em hỏi mật khẩu iphon7 mình quên mật khẩu thì phải lm như thế lào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.569084,
+         "id": "1134621",
+         "field_search": "question",
+         "question": "Cách khắc phục lỗi quên mật khẩu oppo f3,bên cửa hàng có chạy chương khôi phục mật khẩu không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.49913,
+         "id": "767551",
+         "field_search": "question",
+         "question": " Tôi đang xài iPhone 4, tôi đã quên mật khẩu icloud. Có cách nào để xoáthoát tài khoản ra không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.483624,
+         "id": "743622",
+         "field_search": "question",
+         "question": " Chào bạn. Mình đàng iPhone 6 Plus mà quên mật khẩu và mail ko còn nhớ gì nữa. Giờ làm cách nào tạo lại ID được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.477926,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.472246,
+         "id": "1158814",
+         "field_search": "question",
+         "question": "Cách gỡ mã PIN  mật khẩu  của Huawei, quên mật khẩu rồi ai chỉ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.462599,
+         "id": "1022804",
+         "field_search": "question",
+         "question": "Máy đang dùng a57  nhé  mất mật khẩu quên dấu vân tay có cách nào để mở khong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.33008,
+         "id": "1160545",
+         "field_search": "question",
+         "question": "mình dùng oppo a37 mà quên mật khẩu mã hóa ứng dụng làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.330002,
+         "id": "741905",
+         "field_search": "question",
+         "question": "Cho mình hỏi lấy lại mật khẩu iCloud như thế nào khi quên mật khẩu,quên tài khoản gmail.ai biết chỉ hộ nhé. Cảm ơn nhiều?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.288143,
+         "id": "927637",
+         "field_search": "question",
+         "question": "Trên ứng dụng bảo mật của Zalo rất an toàn bảo mật đối với tất cả các tài khoản ! Đó là một ưu điểm nhưng cũng có một nhược điểm . Chính vì bảo mật đó mà những cặp vợ chồng xa ko gần nhau có những điều dấu kín tin nhắn riêng tư , những bl bảo mật khi mà ng Vk hay ng Ck ko thể bit . Vậy có thể nào hay có cách nào để 2 tài khoản như 1 để biết và tin tưởng nhau ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.272837,
+         "id": "1148785",
+         "field_search": "question",
+         "question": "Mình cài đạt mật khẩu mà jo bị quên không nhớ mật khẩu để mở giờ làm như nào với mở đươc mật khẩu vậy  loại điện thoại oppo A37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.272112,
+         "id": "877690",
+         "field_search": "question",
+         "question": "Add cho em hỏi chút, em có chiếc iphone 5s cũ nhưng quên mật khẩu icloud vì bị người khác đổi mất, máy có mật khẩu giới hạn nhưng em ko nhớ. Bây giờ em muốn restore lại hoàn toàn máy. Khi em kết nối itunes thì thấy tài khoản icloud đó đang dùng ở 1 điện thoại iphone khác.Vậy có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.26478,
+         "id": "1137761",
+         "field_search": "question",
+         "question": "cách đây mấy tháng em có cài mật khẩu cho phần tin nhắn với nhật kí cuộc gọi của đth lvmobile. Giờ dùng lại đth đó mà em quên mất mk là gì. có cách nào để vô được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.165215,
+         "id": "966405",
+         "field_search": "question",
+         "question": "Mình bị mất zalo vì khóa sim và quên mật khẩu. Giờ mình muốn tìm lại danh sách bạn bè tren zalo cũ mà ko có lưu số diện thoại. Vậy mình có cách nào tìm dc ko. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.151043,
+         "id": "801734",
+         "field_search": "question",
+         "question": "Điện thoại bị lỗi chương trình, chạy lại chương trình nhưng cần mật khẩu icloud để thuyết lập điện thoại nhưng em quên mật khẩu có cách nào bẻ mật khẩu đó không ai có thể giúp em không em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.144985,
+         "id": "1164005",
+         "field_search": "question",
+         "question": "Ad cho hỏi: khi mình ko có máy tính thì mình có thể reset Iphone khi quên mật khẩu màn hình được không và mình ko có mật khẩu cuat icould trong con iphone đó, mong ad giúp !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.121881,
+         "id": "1159664",
+         "field_search": "question",
+         "question": "Chào  TTMình  quên  tài  khoản  và  mật  khẩu  icloud trên  ipad giờ  bị khóa  lai ko  mở  được. Vay xin hỏi  cô cách  nào  mở  được  ko àh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.09595,
+         "id": "1143606",
+         "field_search": "question",
+         "question": "Mình có mua cái máy của hãng Huawei media pad ple701_L T2pro do cháu mình cai mật khẩu Ma nó quên thấy vậy mình bẻ cái mât khẩu luôn ai ngờ cứ tưởng như máy thường mở nguồn nó bảo bắt buộc phải có tài khoản sao lưu của  google nó mới cho sài bình thường mà giờ quên mất mật khẩu và tài khoản google rồi toàn dữ liệu quan trọng khong biết có cách nào giúp với ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.08536,
+         "id": "774459",
+         "field_search": "question",
+         "question": " Bi quên tài khoản và mật khẩu giờ làm cách nào để kích hoạt lại iPhone 5S? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.073278,
+         "id": "745210",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi đt của e mua ở Store sau đó e ra vienthonga nhớ ktv cái id apple giúp. Bên vienthonga có cho e mật khẩu đăng nhập bình thường nhưng trong thời gian này đt bắt buộc đăng nhập mật khẩu id e nhập mật khẩu cũ nhưng đt báo mk ko đúng . Vậy đt e có được bảo mật an toàn ko vậy ah? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.068464,
+         "id": "858102",
+         "field_search": "question",
+         "question": " quên mật khẩu máy tính bang masstel tab 760 có cách mở không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.047165,
+         "id": "833431",
+         "field_search": "question",
+         "question": " Cách tắt chế độ an toàn trên Samsung Galaxy S3 thế nào ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.042877,
+         "id": "1020905",
+         "field_search": "question",
+         "question": "Iphone mà bị quên mật khẩu làm thế nào mở ạ. Iphone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.03294,
+         "id": "1152871",
+         "field_search": "question",
+         "question": "em quên mật khẩu hotmail, bây giờ đặt lại mật khẩu lại không nhận được tin nhắn báo mã xác nhận ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.01037,
+         "id": "1169257",
+         "field_search": "question",
+         "question": "Em có cái ip4 nhưng mà em quên mật khẩu mở máy va quên mật khẩu tài khoản ic thi gio phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.007158,
+         "id": "1143395",
+         "field_search": "question",
+         "question": "Chào bạn, mình quên mật khẩu Icloud, mail đăng kí cũng là mail Icloud. Ngày sinh mình nhớ mà nó bảo ko đúng. Còn cách nào khác để mở khoá máy không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.977074,
+         "id": "1015245",
+         "field_search": "question",
+         "question": "Phải làm bằng  Cách nào để thoát chế độ an toàn trên android",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.793564,
+         "id": "921090",
+         "field_search": "question",
+         "question": "Cách lấy lại tài khoản Line khi quên tên tài khoản và cả mật khẩu ( còn nhớ ID ) ( đã liên kết với fb nhưng đăng nhập vẫn ko vào )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.789783,
+         "id": "1009560",
+         "field_search": "question",
+         "question": "Chào AD. Mình hiện đang quên tài khoản apple trên máy iphone 5s của mình.HIện tài khoản mình đã bảo mật 2 lớp, và đang mất mật khẩu, bị khóa do nhập sai mk nhiều lầnMình vẫn còn nhớ: Email, sđt đăng kí bảo mật (vẫn nhận tin nhắn về bt), chỉ mỗi mỗi pass.Giờ mình vào khôi phục nó cứ bắt nhập pass cũ để mở khóa mà ko nhớ pass cũ. AD có cách nào giúp mình với ạ. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.78454,
+         "id": "774462",
+         "field_search": "question",
+         "question": " Bị quên tài khoản và mật khẩu iCloud giờ làm cách nào để kích hoạt lại iPhone 5S? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.775711,
+         "id": "1165939",
+         "field_search": "question",
+         "question": "Xin chào ạ mình xài ip7plus mình muốn biết cách đặt mật khẩu khi tắt nguồn có đc kg ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.719692,
+         "id": "949505",
+         "field_search": "question",
+         "question": " Ad cho em hỏi máy e ip5s ios 10.2 đã quên mật khẩu giới hạn. Ad có cách nào giúp em với!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.717968,
+         "id": "998456",
+         "field_search": "question",
+         "question": "Như mình quên ca imell mật khẩu len phai lam.Sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.716799,
+         "id": "1141474",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy xiaomi mà quên mật khẩu micloud thì làm có phá được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.71633,
+         "id": "1142492",
+         "field_search": "question",
+         "question": "mình cài đặt mật khẩu cho điện thoại và tin nhắn làm thế nào để gỡ mật khẩu mình dùng opppo f9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.704329,
+         "id": "1152376",
+         "field_search": "question",
+         "question": "quên mật khẩu điện thoại thì đem ra có mở được ko ạ, em xài oppo F3 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.679195,
+         "id": "1142478",
+         "field_search": "question",
+         "question": "Em quên mất mật khẩu laptop, bên mình có hỗ trợ ko, nếu có thì phí là bao nhiêu ạ, em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.671148,
+         "id": "1007950",
+         "field_search": "question",
+         "question": "E bị quên mật khẩu id giờ muốn lấy lại mật khẩu id sam sung a3 thế nào được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.635378,
+         "id": "1155456",
+         "field_search": "question",
+         "question": "ad ơi, bên mình có mở kháo iphone 7lus bị quên mật khẩu vô hiệu hoá ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.595598,
+         "id": "1136472",
+         "field_search": "question",
+         "question": "Mình lỡ xóa ứng dụng zalo, sau khi tải lại ứng dụng thì mất hết sạch tin nhắn, mình maatstimf cách khôi phục tin nhắn qua sao lưu nhưng ko đc, admin làm ơn chỉ mh cách lấy lại toàn bộ tin nhắn đc ko? thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55157,
+         "id": "1160314",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đag sài oppf7 ,đã cho ảnh vào vùng an toàn riêng tư. Mình muốn xem lại ảnh đó phải vào mục nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.531006,
+         "id": "863334",
+         "field_search": "question",
+         "question": " mih đang dùng ip6s ,tự nhiên ko bắt đc wifi, nhập mật khẩu wifi thì toàn bảo sai.Những máy khác vẫn bắt đc wifi đo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.522888,
+         "id": "968567",
+         "field_search": "question",
+         "question": "em quên mật khẩu zalo và yêu cầu mã xác nhận để tạo mật khẩu mới nhưng không nhận được tin nhắn. phải làm sao ạ, help me!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.504538,
+         "id": "995178",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình bị quên mật khẩu ID Apple cách đây khoảng 1 tháng. Sau đó mình có làm gửi xác minh đến Apple và có yêu cầu chờ tài khoản hiện đang khóa vì lý do bảo mật và chờ xác minh.Nhưng 1 tháng nay không có hướng dẫn gửi về cho mình.Có cách nào để mình lấy lại được mật khẩu và mở khóa ID ko. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.494505,
+         "id": "902400",
+         "field_search": "question",
+         "question": " quên mật khẩu iphone 4s thì làm cách nào để mở được khi máy đang vô hiệu hóa??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.396517,
+         "id": "790364",
+         "field_search": "question",
+         "question": "Em đang sử dụng iphone 6 plus nhưng vì lâu quá không sử dụng đến tài khoản icloud nên bay giờ e đã quên mật khẩu... Vậy làm cách nào tìm lại mật khẩu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.32828,
+         "id": "814883",
+         "field_search": "question",
+         "question": "khi mình tải bất cứ ứng dụng nào về cũng bắt mình nhập tài khoản và mật khẩu mới được tải, mình mua máy 1phone 4s nhưng ko có biết tk và mật khẩu tải điền vào thì phải lấy lại như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.32368,
+         "id": "1007637",
+         "field_search": "question",
+         "question": "Có nên dùng uc browser ko? Mình thấy nó có nhiều tính năng hay nhưng ko biết có an toàn ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.304659,
+         "id": "996522",
+         "field_search": "question",
+         "question": "Cho hỏi Oppo Neo 9 có mục an toàn tập tin. Vậy khi mình chuyển File vào đó, nó sẽ chiếm bộ nhớ trong hay ngoài, co thay đổi được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.288805,
+         "id": "990518",
+         "field_search": "question",
+         "question": "cho hỏi, muốn xem lại mật khẩu wifi đã lưu trong điện thoại iphone mà bị quên phải làm cách nào???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.24554,
+         "id": "1155098",
+         "field_search": "question",
+         "question": "Chơ e hỏi là Máy iphone 5s quên mật khẩu rồi có sữa được nữa ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.238733,
+         "id": "782537",
+         "field_search": "question",
+         "question": " Tôi quên mất mật khẩu để vào bios, tgdd có thể giúp tôi reset lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.232426,
+         "id": "897959",
+         "field_search": "question",
+         "question": " Quên mật khẩu icloud và câu hỏi bí mật phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.225506,
+         "id": "1158700",
+         "field_search": "question",
+         "question": "Điện thoại nikia 8.1 quên mật khẩu reset thế nào vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.223263,
+         "id": "802893",
+         "field_search": "question",
+         "question": " Mình bị quên mật khẩu giới hạn mà mình còn nhớ mật khẩu icloud thì mình có thể lấy lại mat khau gioi han được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.208412,
+         "id": "886401",
+         "field_search": "question",
+         "question": " Tôi quên mật khẩu facebook làm thế nào để lấy lại được? Chỉ cho t cách với. Cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.203375,
+         "id": "747224",
+         "field_search": "question",
+         "question": " Laptop em bị quên mật khẩu. Vậy em ra nhờ TGDĐ mở mật khẩu được không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.195705,
+         "id": "826914",
+         "field_search": "question",
+         "question": " Cho em hỏi cách reset lại mật khẩu admin em đã cài trước đó nhưng hiện tại lại quên mất mật khẩu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.183603,
+         "id": "914075",
+         "field_search": "question",
+         "question": " Tgdđ cho e hỏi với đc k ạ? Điện thoại ip4 của e bị quên mật khẩu icloud thì giờ có thể đăg xuất đc nữa khôg ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.166769,
+         "id": "1135030",
+         "field_search": "question",
+         "question": "Cho e hỏi là e lỡ nghịch cho mấy tệp anhr vào chế độ an toàn bây h tìm lại mãi k thấy đâu e có xem hướng dẫn tìm lại bảo là vài trình quanr lý tệp nhuwg máy oppo a71 này e k tìm thấy trình qly ấy ở đâu bayh e lm nt đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.159689,
+         "id": "771505",
+         "field_search": "question",
+         "question": " Em quên mật khẩu giới hạn thì làm thế nào ạ? Mong được giúp đỡ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

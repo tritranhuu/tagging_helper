@@ -1,0 +1,802 @@
+{
+   "id_query": "1166072",
+   "total": 28804,
+   "total_current": 100,
+   "max_score": 51.598225,
+   "origin_question": "cho mình hỏi màn hình samsung A720 cháy thì sửa là bao nhiêu tiền",
+   "short": "sửa đt samsung a720",
+   "hits": [
+      {
+         "score": 26.562271,
+         "id": "1011328",
+         "field_search": "question",
+         "question": "Mình muốn sửa màn hình cảm ứng samsung galaxy j3 thì hết bao nhiêu tiền thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.192238,
+         "id": "1018725",
+         "field_search": "question",
+         "question": "Em muốn sửa điện thoại, cụ thể là em muốn thay màn hình samsung J7 pro thì hết khoảng bao nhiêu tiền ạ ? Và sửa thì phải mất bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.903534,
+         "id": "1014960",
+         "field_search": "question",
+         "question": "Amin cho mình hỏi máy samsung A5 2016 muốn thay màn hình thì bao nhiêu tiền vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.65826,
+         "id": "786440",
+         "field_search": "question",
+         "question": " Cho mình hỏi là iphone 4s bị hư sóng thì sửa hết bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.376438,
+         "id": "1156467",
+         "field_search": "question",
+         "question": "Máy của em là xiaomi redmi note 5a h bị vỡ màn hình thì sửa hết bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.30172,
+         "id": "1160652",
+         "field_search": "question",
+         "question": "Điện thoại samsung j7 pro bị nhiễu màn hình tím thì làm sao ạ? Nếu đem ra thegioididong sửa thì bao nhiêu tiền vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.55519,
+         "id": "1134939",
+         "field_search": "question",
+         "question": "cho mình hỏi thay màn hình samsung j7 prime thì mất khoảng nhiêu tiền vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.430902,
+         "id": "1154340",
+         "field_search": "question",
+         "question": "em muốn thay màn hình samsung galaxy j4 thì bao nhiêu tiền v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.290743,
+         "id": "1020144",
+         "field_search": "question",
+         "question": "Cho e hỏi màn hình j7 pro bể thì thay màn hình mất bao nhiêu tiền ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.268808,
+         "id": "860573",
+         "field_search": "question",
+         "question": " Cho mình hỏi Ip5s thay màn hình với mặt kính trước luôn là bao nhiêu tiền vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.929005,
+         "id": "772033",
+         "field_search": "question",
+         "question": " Màn hình ipad của em bị bể và hư camera sau! Có sửa được không ạ? Nếu sửa được thì bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.912678,
+         "id": "1157491",
+         "field_search": "question",
+         "question": "Mình có cái Samsung tab3v bị hỏng cảm ứng, giờ sửa thì bao nhiêu tiền vậy shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.866179,
+         "id": "1139971",
+         "field_search": "question",
+         "question": "Thay màn hình samsung galaxy s8 plus bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.824188,
+         "id": "996477",
+         "field_search": "question",
+         "question": "AD cho em hỏi 1 lần dán màn hình là bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.805836,
+         "id": "1148381",
+         "field_search": "question",
+         "question": "Cho mình hỏi thay màn hình trong iphone 5s và màn hình ngoài bao nhiêu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.76534,
+         "id": "1136608",
+         "field_search": "question",
+         "question": "Thay màn hình samsung galaxy j7 prime bao nhiêu tiền vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.69515,
+         "id": "1158285",
+         "field_search": "question",
+         "question": "Điện thoại của mình là j7 pro hiện tại nó bị bể màn hình mình muốn hỏi xem chi phí sửa chửa cho màn hình là bao nhiêu??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.507242,
+         "id": "998200",
+         "field_search": "question",
+         "question": "1258             anh ơi cho em hỏi SamSung Galasy Gran 2 thay màn hình hết bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.48893,
+         "id": "1166827",
+         "field_search": "question",
+         "question": "Điện thoại samsung j6  thay kính màn hình hết bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.480625,
+         "id": "1154373",
+         "field_search": "question",
+         "question": "Thay màn hình samsung j7 pro hết bao nhiêu tiền vậy shop.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.411266,
+         "id": "805730",
+         "field_search": "question",
+         "question": " Adm cho em hỏi. Giờ thay màn hình IP5 thì mất bao nhiêu tiền ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.359074,
+         "id": "1148155",
+         "field_search": "question",
+         "question": "Em muốn thay màn hình cảm ứng điện thoại samsung j5 prime thì bao nhiêu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.309942,
+         "id": "791922",
+         "field_search": "question",
+         "question": " cho em hỏi thay màn hình iPhone 5 thì khoảng bao nhiêu tiền ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.053493,
+         "id": "1019819",
+         "field_search": "question",
+         "question": "cho e hỏi. samsung j7 prime bê màn hình ngoài. có bảo hành không ak. nếu thay màn hình  la bao nhiêu tiền vậy ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.958841,
+         "id": "997436",
+         "field_search": "question",
+         "question": "Cho mình hỏi thay màn hình iphone 5 vs pin thì bao nhiêu tiền ạ đã từng mua ở tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.865118,
+         "id": "1133821",
+         "field_search": "question",
+         "question": "Cho hỏi thay màn hình samsung j6 thì giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.715748,
+         "id": "1161595",
+         "field_search": "question",
+         "question": "cho em hỏi thay màn hình j7 2016 bao nhiêu tiền.......................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.624474,
+         "id": "993393",
+         "field_search": "question",
+         "question": "Điện thoại iphone 6 trung quốc 3tr5 của em bị liệt cảm ứng giờ sửa thì tốn bao nhiêu tiền ạ?Chỉ sửa cảm ứng thôi hay là thay luôn màn hình ạ QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.590094,
+         "id": "988158",
+         "field_search": "question",
+         "question": "Cho mình hỏi giá thay màn hình samsung gts 7392 là bao nhiêu? Màn hình của bình bị nứt, vẫn còn cảm ứng tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.562408,
+         "id": "1015714",
+         "field_search": "question",
+         "question": "Xin cho hỏi là nếu thay màn hình điện thoại Samsung Galaxy J7 pro thì giá khoảng bao nhiêu??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.435684,
+         "id": "766122",
+         "field_search": "question",
+         "question": "Màn hình iPad Air 1 của em bị vỡ. Cho em hỏi là thay màn hình thì mất khoảng bao nhiêu tiền, mặt kính có chất lượng không? Em có nghe nói về ép màn hình, cho em hỏi là của hàng mình có hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.427227,
+         "id": "1160457",
+         "field_search": "question",
+         "question": "Sửa điện thoại samsung galaxy note 5 bị nứt kính trong sửa bao nhiêu tiền ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.417799,
+         "id": "1159647",
+         "field_search": "question",
+         "question": "cho mình hỏi thây màn hình samsung j7 pro giá bao nhiêu vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.370234,
+         "id": "1167771",
+         "field_search": "question",
+         "question": "Màn hình realme2pro vừa mua đc2 tuần giờ vỡ màn hình.Nó k hiện gì trên màn hình nữa,Sửa được không và mất bao nhiêu tiền anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.32666,
+         "id": "1017343",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình có con samsung j3 bị rè loa trong mua tai tgdd nhưng hết bảo hành rồi cho hỏi sửa bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.28784,
+         "id": "752507",
+         "field_search": "question",
+         "question": " Cho mình hỏi . mình có một điện thoại iphone 5s bị hư nút home thì có sửa được không?. và sửa mất bao nhiêu tiền ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.274513,
+         "id": "1138028",
+         "field_search": "question",
+         "question": "Cho e hỏi thay màn hình samsung j5 bao nhiu tiền ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.270573,
+         "id": "1138267",
+         "field_search": "question",
+         "question": "Cho em hỏi thay màn hình đt a8 2018 hết bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.236048,
+         "id": "1023841",
+         "field_search": "question",
+         "question": "Mình muốn thay màn hình ss E5 bao nhiêu tiền vậy. Thay thì co lâu không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.144659,
+         "id": "1023303",
+         "field_search": "question",
+         "question": "Điện thoại samsung s8 của mình bị rơi và vỡ màn hình. Vậy cho mình hỏi giá thay màn hình là bao nhiêu và thời gian gửi bảo hành là bao lâu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.130371,
+         "id": "1166180",
+         "field_search": "question",
+         "question": "Cho em hỏi : Màn hình kiếng và cảm ứng của máy Xiaomi Redmi 5 Plus bị vỡ thì tiền thay lại là bao nhiêu và trong bao nhiêu ngày thì có thay xong ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.126097,
+         "id": "819447",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình muốn thay màn hình ngoài đt iphone 5 ở cửa hàng thì mất bao nhiêu tiền? Hôm trước mình làm rơi đt bị nứt màn hình ở ngoài và vẫn xài bt á",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.065342,
+         "id": "1024021",
+         "field_search": "question",
+         "question": "Cho tôi hỏi máy tính bảng galaxy tab E  đag xài thì nó bị xọc màn hình . tắt nguồn mở nguồn lên thì màn hình màu xám không thấy gì hết . cảm ứng vuốt thì bình thường . cho hỏi bị gì mà sửa bao nhiêu tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.053234,
+         "id": "1164604",
+         "field_search": "question",
+         "question": "Cho hỏi màn hình iPad của em bị sao vậy và nếu sữa thì hết bao nhiêu tiền  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.975012,
+         "id": "1006732",
+         "field_search": "question",
+         "question": "Ss a5 của mình bị bể màn hình trong thì thay khoảng bao nhiêu tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.964788,
+         "id": "999387",
+         "field_search": "question",
+         "question": "dạ... cho em hỏi màn hình asus zefnone 3 max 5.5 in thay màn hình bao nhiêu tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.911879,
+         "id": "1018897",
+         "field_search": "question",
+         "question": "Em muốn thay màn hình Oppo F1 thì hết bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.848017,
+         "id": "1001047",
+         "field_search": "question",
+         "question": "cho mình hỏi màn hình samsung J2 hiện tại bên mình thay giá bao nhiêu nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.846546,
+         "id": "1003860",
+         "field_search": "question",
+         "question": "Mình mua 6s plus tại cửa hàng và bây giờ máy bị bể kính ngoài màn hình. Cho mình hỏi muốn ép kính lại thì hết bao nhiêu tiền và thời gian là bao lâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.800596,
+         "id": "748791",
+         "field_search": "question",
+         "question": " ad ơi, cho em hỏi thay màn hình iPhone 4s bao nhiêu tiền ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.798449,
+         "id": "1133922",
+         "field_search": "question",
+         "question": "Mình dùng máy Samsung Galaxy J3 Pro, bị vỡ màn hình , cho mình hỏi nếu thay màn hình khác thì giá giao động trong khoảng bao nhiêu ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.791304,
+         "id": "1133640",
+         "field_search": "question",
+         "question": "Điẹn thoại samsung j7 prime loa bị vào nước sửa bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.738827,
+         "id": "1133407",
+         "field_search": "question",
+         "question": "Giá màn hình Oppo F5 hiện tại là bao nhiêu tiền vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.721422,
+         "id": "817024",
+         "field_search": "question",
+         "question": " Chào !Mình có 1 con Hp 2000 seres. bị cháy sạc, cho mình hỏi là tgdđ có bán sạc riêng ko? nếu có thì giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.386583,
+         "id": "1136866",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi thay màn hình laptop HP 15.6 inch tốn khoảng bao nhiêu tiền ạ? Máy mình bị những mảng đen lớn trên màn hình..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.3263,
+         "id": "1162981",
+         "field_search": "question",
+         "question": "Đt  samsung  j7primer  của   em  bị  bể   màn   hình  nếu   thay  lại  tầm   bao  nhiêu  tiền  vậy  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.289558,
+         "id": "1156041",
+         "field_search": "question",
+         "question": "cho em hỏi màn hình đt samsung J7 plus bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.22569,
+         "id": "1015286",
+         "field_search": "question",
+         "question": "Anh/chị   cho em hỏi...điện thoại samsung j7 pro của em...bị mẻ ở góc màn hình..em thay lại thì tốn bao nhiêu tiền..có được bảo hành không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.119291,
+         "id": "768552",
+         "field_search": "question",
+         "question": "Cái iPhone của em nó bị hư màn hình, vậy mình sửa màn hình rồi nó có bị mất hình ảnh hay số điện thoại không vậy ad.. Với lại cho em hỏi giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.099514,
+         "id": "1009039",
+         "field_search": "question",
+         "question": "cho mình hỏi thay man hình galaxy tap6 giá bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.096415,
+         "id": "996323",
+         "field_search": "question",
+         "question": "Sửa chữa màn kính iPhone 6 hết bao nhiêu tiền vậy thế giới di động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.04065,
+         "id": "1007954",
+         "field_search": "question",
+         "question": "Ad cho em hỏi giá màn hình Samsung J7 Pro bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.04065,
+         "id": "901891",
+         "field_search": "question",
+         "question": " Cho em hỏi thay màn hình Samsung A7  2016, giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.994724,
+         "id": "1020149",
+         "field_search": "question",
+         "question": "Ad cho em hỏi thay màn hình samsung  j7 pro bao nhiu tiền ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.975718,
+         "id": "992516",
+         "field_search": "question",
+         "question": "Có ép kính màn hình iPhone 6blus hông biếu có thì giá bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.954762,
+         "id": "804300",
+         "field_search": "question",
+         "question": " Anh chi cho em hoi thay màn hình iphone5 bao nhiêu tiền ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.855762,
+         "id": "999219",
+         "field_search": "question",
+         "question": "E đang dùng samsung a5 2017, không may đi du lịch bị bể màn hình. Giờ e muốn thay màn hình thì hết bao nhiêu tiền ạ? Thay có lâu k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.82735,
+         "id": "1153769",
+         "field_search": "question",
+         "question": "Cho mình hỏi Giá khi thay màn hình Ip8 là bao nhiêu vậy a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.82735,
+         "id": "1133920",
+         "field_search": "question",
+         "question": "Cho mình hỏi thay màn hình của galaxy s8 plus là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.80949,
+         "id": "1138243",
+         "field_search": "question",
+         "question": "Cho em hỏi dt Samsung galaxy S7Adge thay màn hình bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.79237,
+         "id": "1003303",
+         "field_search": "question",
+         "question": "Mình đang xài lenovotab7 những bị rớt vỡ màn hình trong và màn hình ngoài, cho mình hỏi thầy hai cái này mất bao nhiêu tiền và thời gian bảo lau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.771156,
+         "id": "1010767",
+         "field_search": "question",
+         "question": "Cho mình hỏi dây USB của samsung A5 2017 hiện tại bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.753107,
+         "id": "751981",
+         "field_search": "question",
+         "question": " Em muốn thay màn hình điện thoại galaxy A5 thì khoảng bao nhiêu tiền ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.726372,
+         "id": "1162477",
+         "field_search": "question",
+         "question": "Điện thoại samsung Tap A6 bị sụp nguồn sửa lại bao nhiêu tiền . Bao nhiêu ngày có. Có bền hay hông. Bảo hành trong bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.719353,
+         "id": "1135824",
+         "field_search": "question",
+         "question": "Cho em hỏi thay màn hình điện thoại samsung j5 prime bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.705868,
+         "id": "1158295",
+         "field_search": "question",
+         "question": "Shop cho hỏi? Mình có cái samsung galaxy s7 edge bị bể hư màn hình! Mình muốn thay màn hình lẫn mặt kính trước sau của máy thì mất bao nhiêu vậy shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.679655,
+         "id": "996850",
+         "field_search": "question",
+         "question": "Dạ TTDD cho em hỏi giờ muốn thu lại đt samsung galaxy j7 prime được bao nhiêu tiền ạ, không thì nêu em đổi qua samsung galaxy j7 pro thì phải bù bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.602842,
+         "id": "787622",
+         "field_search": "question",
+         "question": "Cho mình hỏi là iphone 6s bị rớt, nứt một đường ngay trên chỗ gần camera trước thì sửa hết bao nhiêu tiền ạ? Mình nghe nói là dán kính lại phải ko?Cảm on ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.545593,
+         "id": "774513",
+         "field_search": "question",
+         "question": " Thay màn hình Laptop ASUS 14inch khoảng bao nhiêu tiền vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.514797,
+         "id": "797114",
+         "field_search": "question",
+         "question": " Add cho mình có 1 cái iPhone 5 trắng bị lỗi màn hình và cảm ứng thì bây giờ thay hết bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.488297,
+         "id": "1136140",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại em là vivo v7+, bị vỡ và đen 2/3 màn hình. Thì cho em hỏi là nếu thay màn hình thì mất bao nhiêu và mất bao lâu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.408255,
+         "id": "986122",
+         "field_search": "question",
+         "question": "Các bác ở TGDD cho em hỏi ? Giá thay một chiếc màn hình điện thoại iPhone 5s  zin theo máy là bao nhiêu tiền ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.392284,
+         "id": "1133862",
+         "field_search": "question",
+         "question": "online friend _ mình định hỏi giá của 1 chiếc điện thoại samsung a9 là bao nhiêu tiền vậy ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.331932,
+         "id": "1014063",
+         "field_search": "question",
+         "question": "thay màn hình oppo f1s hết bao nhiêu tiền vậy ạ .......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.322899,
+         "id": "1003004",
+         "field_search": "question",
+         "question": "Thay màn hình điện thoại samsung galaxy j7 prime là bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.32026,
+         "id": "1017675",
+         "field_search": "question",
+         "question": "Thay màn hình chính điện thoại Xiaomi hết bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.32026,
+         "id": "1015214",
+         "field_search": "question",
+         "question": "thay màn hình laptop asus X401A hết bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.32026,
+         "id": "1152248",
+         "field_search": "question",
+         "question": "Màn hình sam sung galaxy j7 prim giá bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.279842,
+         "id": "1161552",
+         "field_search": "question",
+         "question": "các ad cho em hỏi màn hình samsung j7pro bị chảy mực bg mà thay thì hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.256605,
+         "id": "997056",
+         "field_search": "question",
+         "question": "ad ơi, cho em hỏi là điện thoại oppo f1 bị rớt xuống nước và không bật đc nguồn nữa thì sửa tầm bao nhiêu tiền ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.221573,
+         "id": "1012420",
+         "field_search": "question",
+         "question": "chữa màn hình zenphone bị nứt hết bao nhiêu tiền vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.211517,
+         "id": "792770",
+         "field_search": "question",
+         "question": " Cho mình hỏi là thay pin iPhone 5 là bao nhiêu tiền vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.188955,
+         "id": "995911",
+         "field_search": "question",
+         "question": "Thay màn hình j7 prime bao nhiêu tiền? K tổn hại đến màn hình trong chỉ ỡ màn hình ngoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.14261,
+         "id": "1156595",
+         "field_search": "question",
+         "question": "điện thoại em samsung galaxy j7 cập nhật phần mềm xong mở không lên , như vậy là bị gì ạ , sửa bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.118496,
+         "id": "1160667",
+         "field_search": "question",
+         "question": "dạ cho em hỏi điện thoại của em bị cấn giờ điện thoại nó không còn lên hình nữa thì phải làm sao ạ . mà em muốn thay màn hình điện thoại samsung j3 ( 2016) bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.08784,
+         "id": "1013168",
+         "field_search": "question",
+         "question": "thay màn hình samsung j3 còn bảo hành thì hết bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.053938,
+         "id": "1152685",
+         "field_search": "question",
+         "question": "Cho em hỏi dt iphone 6 phus bị hư mút home sửa khoảng bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.053747,
+         "id": "1155061",
+         "field_search": "question",
+         "question": "Cho hỏi tôi mua m20 được 3 tuần rồi mà mới bị rớt bể màn hình tôi muốn đổi máy mới thì phải bù thêm bao nhiêu tiền để lấy máy m20 khác mới nguyên kiện..và thay màn hình giá bao nhiêu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.02686,
+         "id": "1134734",
+         "field_search": "question",
+         "question": "Thay màng hình điện thoại samsung j7 pro bao nhiêu tiền vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

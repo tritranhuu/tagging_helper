@@ -1,0 +1,801 @@
+{
+   "id_query": "798199",
+   "total": 29672,
+   "total_current": 100,
+   "max_score": 63.18389,
+   "origin_question": " Muốn mua một cái máy tính dell màn hình 1112 inch ở TGDĐ có hàng không nhỉ? ",
+   "hits": [
+      {
+         "score": 23.444967,
+         "id": "803449",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn thay màn hình máy dell 14 inch, TGDĐ có dịch vụ này không? Giá khoảng bao nhiêu vậy? Mình cảm ơn trước nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.904844,
+         "id": "999934",
+         "field_search": "question",
+         "question": "Sửa lỗi màn hình máy tính không lên ở máy tính Dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.187788,
+         "id": "999388",
+         "field_search": "question",
+         "question": "mình cần dán mặt sau màn hình và dán bàn phím cho laptop dell Ins N3558 màn hình 15.6 inch thì có k và giá bao nhiêu nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.82404,
+         "id": "786819",
+         "field_search": "question",
+         "question": " Em dùng iPhone 6 bị vỡ màn hình ở TGDĐ có thay không nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.318832,
+         "id": "753708",
+         "field_search": "question",
+         "question": "anh chị nhân viên nào cho em hỏi. em có mua 1 cái máy tính dell ở TGDĐ, hiện em đang dùng win 10, em muốn đưa máy về trạng thái khi mới mua về không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.047384,
+         "id": "757403",
+         "field_search": "question",
+         "question": " AD cho hỏi ở TGDĐ có thay màn hình iphone5 ko nhỉ? và thay được giá là bao nhiêu nhỉ? Thanks AD! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.873629,
+         "id": "963270",
+         "field_search": "question",
+         "question": " Bao giờ xả hàng ip5s vậy nhỉ để mua mấy cái bạn ạ.và mua ở đâu nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.672508,
+         "id": "997336",
+         "field_search": "question",
+         "question": "Tôi có một laptop SONY VIO  15.6 inch mua ở TGDĐ Khánh Hội q7 hồi năm 2011.  Hiện tại, máy tôi chạy chậm và không khởi động được.  Tôi muốn mang tới TGDĐ đê sửa chửa.  Chính sách bảo hành và bảo trì bên TGDĐ như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.31637,
+         "id": "754876",
+         "field_search": "question",
+         "question": "Cho em hỏi em có một máy tính asus bị lỗi bàn phím , cho hỏi TGDĐ có thể bảo hành cho em được không, máy em không mua ở TGDĐ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.17926,
+         "id": "759647",
+         "field_search": "question",
+         "question": "  Em muốn mua miếng lót bàn phím silicon cho máy tính sony vaio fit SVF màng hình 14 inch bên Lazada có không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.097197,
+         "id": "994388",
+         "field_search": "question",
+         "question": "cho em hỏi ở đây có dán màn hình máy ảnh ko ạ.màn hình máy rộng 3 inch",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.00546,
+         "id": "1134758",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi cái, hiện tại mình muốn mua oppo A3s 32G không biết cửa hàng mình ở Yên Thành Tản Lĩnh Ba Vì có còn máy này không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.868048,
+         "id": "1010182",
+         "field_search": "question",
+         "question": "Máy tính mình bị một gạch dọc màn hình, mình có thể mang qua của hàng mà mình mua để sửa được không. hết bảo hành có mất phí không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.858719,
+         "id": "1162913",
+         "field_search": "question",
+         "question": "Em có mua một cái máy galaxy a9 ở thế giới di động bị rơi vỡ màn hình, và đang có bảo hành rơi vỡ 6 tháng vậy em muốn thay màn hình mới có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.498493,
+         "id": "918092",
+         "field_search": "question",
+         "question": "Mình có mua 1 cái laptop dell vostro vào tháng 9/2016. bây giờ màn hình máy tính của mình bị hư 1 góc. mà mình không còn nhớ là để hóa đơn mua hàng ở đâu. không biết bên mình có hỗ trợ bảo hành cho mình không. mình mua tại thegioididong tren đường Lê Văn Sỹ. tel: 0933112xxx",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.32682,
+         "id": "908798",
+         "field_search": "question",
+         "question": "Ad cho hỏi cái máy tính của t đang bị cái gì không, sạc pin mà nó báo không sạc. sạc vẫn sáng màn hình nhưng nó báo là (đã cắm vào, không sạc). máy tính dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.053734,
+         "id": "1017131",
+         "field_search": "question",
+         "question": "hỏi tôi muốn mua ddienj thoại thông minh panasonic P55 Max có màn hình 5.5 inch HD, kính cong 2.5D, pin 5.000mA, ở đâu, siêu thị mình có bán không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.000113,
+         "id": "825330",
+         "field_search": "question",
+         "question": "admin ơi ! mình có một cái máy tính dell để bàn chay win 7 xài gần một năm nên nó cũng lad nên em muốn đưa máy về mặc định phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.99445,
+         "id": "1011398",
+         "field_search": "question",
+         "question": "Chào thế giới di động .! Cho mình hỏi một vài thông tin về Bphone 2, khi nào thì có sản phẩm trải nghiệm tại chuỗi cửa hàng của TGDĐ nhỉ? mình ở Đà Nẵng, muốn trải nghiệm và ủng hộ hàng Việt..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.970514,
+         "id": "803223",
+         "field_search": "question",
+         "question": " Mình muốn mua pin cho dell inspiron 5521 15.6 inch, loại pin tốt nhất thì giá bao nhiêu và bao lâu thì có hàng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.825392,
+         "id": "1020738",
+         "field_search": "question",
+         "question": "em mới mua con DELL inspiron 14 được một tháng , không hư hao nay muốn đổi máy khác tại cửa hàng có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.794075,
+         "id": "1165348",
+         "field_search": "question",
+         "question": "Samsung J7 pro của mình bị vỡ màn hình, TGDĐ có thay được màn hình cho mình không nhỉ? Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.783995,
+         "id": "803456",
+         "field_search": "question",
+         "question": "Máy ipad của em, bị bẩn màn hình trong và bị móp một Ít đầu trên. Bây giờ phải làm thế nào ạ. Tgdd có sửa chữa không ạ. Máy e mua ở tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.561071,
+         "id": "1155768",
+         "field_search": "question",
+         "question": "em hiện có 1  ổ cứng SSD Samsung 860 Evo 250GB Sata III 2.5 inch và em muốn mua máy tính laptop dell inspirion 15 300, không biết ổ cứng của em có cài được vô không ạ? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.516804,
+         "id": "1145569",
+         "field_search": "question",
+         "question": "cho e hỏi ở tgdd có miếng dán màn hình 9.7 inch k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.45675,
+         "id": "787644",
+         "field_search": "question",
+         "question": "Tôi ở huyện Tam Nông. Tôi muốn mua máy latop dell 3451 cho cơ quan, giá TGDĐ là 7.190.000. nhưng TGDĐ có thể ghi hóa đơn là 7.490.000 được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.41359,
+         "id": "1010787",
+         "field_search": "question",
+         "question": "Không biết là TGDĐ ở TP.Vinh có thay màn hình với cả chạy phần mềm máy Vivas Lotus S1 không nhỉ? Máy mình không hiểu sao không thể bật kết nối wifi và bluatooth đượcMong #ad phản hồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.097305,
+         "id": "895750",
+         "field_search": "question",
+         "question": "Mình mua Dell spiron 3558 ở tgdđ được 2 tháng,bây giờ muốn bán lại được không?mình còn đủ hộp những tờ hóa đơn mua hàng thì không tìm ra,vậy có bạn lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.825111,
+         "id": "995045",
+         "field_search": "question",
+         "question": "TGDĐ ơi, cho mình hỏi có dịch vụ dán màn hình chất liệu nhám cho laptop 15,6 inch ko ạ? cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.819416,
+         "id": "898431",
+         "field_search": "question",
+         "question": "Tôi mua laptop Dell Vostro 3360 service tag 91LBVW1 khoảng bốn năm tại một cửa hàng ở Thái Hà, HN. Hiện nay máy có tình trạng thỉ thoảng có nhiều sọc dọc màn hình, nghi là dây cáp màn hình chập chờn. Xin hỏi khắc phục sự cố này ở đâu, giá cả như thế nào. Xin được hồi âm qua email: bacvan@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.798119,
+         "id": "888844",
+         "field_search": "question",
+         "question": "Muốn kết nối màn hình máy tính \"Samsung SyncMasterB2030\" với laptop \"Dell inspiron 3558i5 5200u\" thì phải làm thế nào ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.65982,
+         "id": "1140612",
+         "field_search": "question",
+         "question": "máy tính em là dòng dell inspiron 15 3000series core i5 đời 2017 có card màn hình rời không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.651588,
+         "id": "1139192",
+         "field_search": "question",
+         "question": " Máy Vsmart đã có hàng trải nghiệm ở các cửa hàng TGDD chưa nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.60919,
+         "id": "1140870",
+         "field_search": "question",
+         "question": "Cho em hỏi là, em vừa mua 1 con dell 15.6\" tại TGDD mà hôm bữa chưa dán màn hình của máy. Không biết ở đó có dán màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.558487,
+         "id": "760998",
+         "field_search": "question",
+         "question": " Ở TGDĐ có thay màn hình iphone không vậy.giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.439247,
+         "id": "999207",
+         "field_search": "question",
+         "question": "Cửa hàng TGDĐ có cấp lại sim viettel bị mất không anh chị nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.368214,
+         "id": "994017",
+         "field_search": "question",
+         "question": "Máy mới mua đk một tuần bh muốn trả lại thì mất bn  nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.36782,
+         "id": "1009284",
+         "field_search": "question",
+         "question": "tgdđ cho em hỏi điện thoại em mua ở tgdđ bị hư màn hình rồi mà hết bảo hành vậy có nhận thay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.35589,
+         "id": "1163114",
+         "field_search": "question",
+         "question": "Em vừa mua một cái đt thoại vào sáng nay mai em muốn đổi cái mới ko biết có tính phí ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30276,
+         "id": "829888",
+         "field_search": "question",
+         "question": "Mình hiện nay đang dùng asus P450L. Mình mới mua một dây HDMI để kết nối từ máy tính của mình sang một tivi SamSung 32 inch hỗ trợ đầy đủ. Nhưng, khi cắm đấu hai đầu dây vào máy tình và tivi, tivi hiển thị \"no signal\" và màn hình máy tính của mình thì không có hiện tượng gì kết nối ( nó vẫn giữ nguyên trạng thái hiện tại). Mình có thử tổ hợp \" WINDOWN+P\" nhưng không được. Máy tính của mình đang dùng win 8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.198391,
+         "id": "745232",
+         "field_search": "question",
+         "question": " tại cửa hàng mình có bán máy tính Dell inspiron 15 7547 không bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.151583,
+         "id": "853098",
+         "field_search": "question",
+         "question": " Tgdđ có thay màn iPhone 5s không nhỉ?? giá bao nhiêu nếu có thay? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.139683,
+         "id": "1020741",
+         "field_search": "question",
+         "question": "Mình mới vừa thay kính iphone 5s ở một tiệm gần nhà. Về thì thấy màn hình bị sáng quá mức. Không biết liệu màn hình thay có tốt không? Họ tính tiền là 300k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.094559,
+         "id": "1024067",
+         "field_search": "question",
+         "question": "Dear TGDĐ!Cho em hỏi em muốn nâng cấp ram cho máy tính (máy em mua tại TGDĐ) thì xin cho em báo giá và thời gian xong ạ. em muốn gắn thêm 1 cây ram 4Gb bus 1600. máy em là dell vostro 3568. hiện giờ máy đang có 4Gb ram nhưng chạy rất chậm. cấu hình I7 mà thật sự rất không hài lòng. Mong có phản hồi của TGDĐ.!Thanks !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.946254,
+         "id": "1134467",
+         "field_search": "question",
+         "question": "cho e hỏi, em mua điện thoại nokia 3 ở cửa hàng TGDĐ, em làm rơi điện thoại hư màn hình cảm ứng. Vậy bên mình có thay màn hình ko ạ, nếu có cho em xin giá thay màn hình là  nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.941571,
+         "id": "1145689",
+         "field_search": "question",
+         "question": "Điện thoại Huawei Pro Y7 2019 mua ở TGDĐ: phía trên đồng hồ và lịch hiển thị ở màn hình khóa có biểu tượng một chiếc giày và cạnh nó là một con số, con số này thay đổi theo thời gian, tôi không biết biểu tượng và con số này có ý nghĩa gì, muốn tắt nó được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.923478,
+         "id": "1005652",
+         "field_search": "question",
+         "question": "Máy tính Dell Inspiron 5767 sử dụng card màn hình rời hay sao vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.864271,
+         "id": "864075",
+         "field_search": "question",
+         "question": " Bên TGDD có miếng dán màn hình laptop 14 không? Mình muốn dán cho máy Dell Latitude E7450 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.847272,
+         "id": "807107",
+         "field_search": "question",
+         "question": " cho e hỏi thay màn hình laptop Asus 14 inch cửa hàng có nhận thay không? nếu có thì chi phí bao nhiêu ạ? e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.844405,
+         "id": "775803",
+         "field_search": "question",
+         "question": " ad ơi cho em hỏi. sao em mua iPhone 5S ở tgdd màn hình không sáng trắng mà lại sáng hồng nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.831401,
+         "id": "798183",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua iphone 6s bản VN/a ở TGDĐ trên hà nội, mà giờ ra làm ngoài móng cái màn hình đang chơi game bị kẻ 1/3 phía dưới màn hình có đc bảo hành ko ạ. mà giờ lại đang đi làm gần TGDĐ ở móng cái, hoá đơn thì e làm mất rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.789414,
+         "id": "791491",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có chiếc Laptop Dell Vostro 3460 màn hình bị mành mành ở phía trên. Bây giờ mình muốn mang máy qua thegioiđiong thay được không vậy & giá thay màn hình là bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.740143,
+         "id": "1020567",
+         "field_search": "question",
+         "question": "ac cho e hỏi cái ak, oppo f3 ở cửa hàng ac có gián full màn hình chưa ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.656951,
+         "id": "1011410",
+         "field_search": "question",
+         "question": "Mình sài Sony C4 Dual. Mình muốn thay màn hình và pin của máy. Bên tgdđ có hỗ trợ giúp mình việc liên hệ lấy hàng và thay không? Trân trọng!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.630178,
+         "id": "1145317",
+         "field_search": "question",
+         "question": "xin cho hỏi lúc trước mình có mua 1 laptop tại của hàng (2 năm rồi), nay màn hình laptop bị nhiễm từ (một góc màn hình có màu tím), bên mình có nhận kiểm tra và xử lí sửa không ạ. còn nếu e muốn tự khắc phục ở nhà thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.626051,
+         "id": "1161608",
+         "field_search": "question",
+         "question": "E máy Huawei 3i ở cửa hàng. Bị rơi nứt kính màn hình. Cửa hàng có thay kính màn hình đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.569158,
+         "id": "995062",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi vợ tôi mới mua 1 cái samsung J1 2016 cho mẹ chưa được 1 tuần giờ vợ tôi muốn đổi lại mua cái  Máy tính bảng Samsung Galaxy Tab 3V T116Thì có phải bù chi phí gì không. Và nếu không có hàng tại cửa hàng thì đặt hàng có không và có phụ phí gì không. Rất mong được tư vấn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.560221,
+         "id": "891810",
+         "field_search": "question",
+         "question": "Mình muốn mua máy laptop hiệu Dell i5, cấu hình thích hợp cho dân học ngành xây dựng.Bạn có thể tư vấn mình một số máy được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.553043,
+         "id": "789790",
+         "field_search": "question",
+         "question": " Em muốn mua Macbook Pro 13  2015  hoặc 15 thì có cửa hàng TGDĐ nào ở TP.HCM kinh doanh sản phẩm này không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.52177,
+         "id": "996060",
+         "field_search": "question",
+         "question": "Chào công ty mình muốn hỏi mình mua máy iphone 6s plus  ở tgdđ máy mình hàng chĩnh hãng thi thoảng bj đơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.509379,
+         "id": "1135120",
+         "field_search": "question",
+         "question": "Mình ở Đà Lạt - Lâm Đồng muốn mua samsung galaxy note fe...có thể chuyển hàng về cửa hàng TGDĐ tại Đà Lạt để xem trước được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.487588,
+         "id": "1001216",
+         "field_search": "question",
+         "question": "Không biết mình mua cường lực trên lazada rồi đến TGDĐ gián được không nhỉ , vì khi mình mua máy TGDD vẫn chưa có ốp của J2 prime . Nếu giờ mình qua dán có được tính vào bảo hành không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.452614,
+         "id": "754784",
+         "field_search": "question",
+         "question": "Em có một máy tính Asus em mua ở Bình Định còn bảo hành, em mua của một tiệm khác, có thể bảo hành tại Thegioididong.com khác được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.449159,
+         "id": "831859",
+         "field_search": "question",
+         "question": "Mình mua máy ở thế giới di động và vừa cài lại win vào mất đi chức năng xoay màn hình thì giờ đem ra TGDĐ thì TGDĐ có cài lại win cho mình không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.433779,
+         "id": "1019193",
+         "field_search": "question",
+         "question": "Chào ad...em mới mua laptop dell inspiron 3467 ở tgdđ... Máy e mỗi lần mở lên nó cứ hiện cái review settings không tắt được phải tắt máy mở lại... giờ phải khắc phục sao ak...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4159775,
+         "id": "1022089",
+         "field_search": "question",
+         "question": "Mình ở Hà Nội, đang muốn mua máy theo diện đổi trả ở một cửa hàng thuộc hệ thống Thế giới di động ở Quảng Ninh. Vậy mình phải làm sao khi mà không thể đến cửa hàng đó để trực tiếp mua máy được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.360609,
+         "id": "1134096",
+         "field_search": "question",
+         "question": "ram dell inspiron N4110 lắp vào máy dell vostro 3468 được không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.357777,
+         "id": "1160504",
+         "field_search": "question",
+         "question": "Cho em hỏi em đã mua máy ở thegioididong cũng đã hơn 6 7 tháng rồi giờ em muốn nhờ nhân viên thegioididong tải giúp em một số phần mềm máy tính được không ạ, có tính phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.342435,
+         "id": "878059",
+         "field_search": "question",
+         "question": "Em mới mua máy 6plus ở cửa hàng về nhà dùng thỉnh thoảng máy đơ. tắt nút nguồn thì nó nháy màn hình cái rồi mấy tắt thế là máy bị lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.313671,
+         "id": "921678",
+         "field_search": "question",
+         "question": "laptop tôi màn hình 15.6 inch 1366*768 nhưng các icon bị răng cưa cái vòng tròn loading khi nhấn chuột phải cũng bị khía răng cưa không được tròn cả chữ cũng vậy có phải màn hình bị lỗi không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.313671,
+         "id": "921673",
+         "field_search": "question",
+         "question": "laptop tôi màn hình 15.6 inch 1366*768 nhưng các icon bị răng cưa cái vòng tròn loading khi nhấn chuột phải cũng bị khía răng cưa không được tròn cả chữ cũng vậy có phải màn hình bị lỗi không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.291535,
+         "id": "776798",
+         "field_search": "question",
+         "question": " Tôi có laptop không phải mua ở TGDĐ muốn đến TGDĐ cài Win bản quyền được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.285903,
+         "id": "1133725",
+         "field_search": "question",
+         "question": "trung tâm mình có nhận thay màn hình j7 2016 k add. trc e mua ở tgdđ mà h nó bị cháy màn hình ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.27823,
+         "id": "782863",
+         "field_search": "question",
+         "question": " Thế giới di động có dán màn hình laptop 14 inch không ạ. Và có bảo hành không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.274696,
+         "id": "1159517",
+         "field_search": "question",
+         "question": "bên cửa hàng mình có hổ trợ mở khóa màn hình không ạ. em sài iphone 6 plus . và em mua máy ở cửa hàng khác. em không đăng nhập icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.257085,
+         "id": "1005446",
+         "field_search": "question",
+         "question": "alo, mình muốn thay linh kiện, bên mình có màn hình máy tính bảng Samsung GTN8000 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.152435,
+         "id": "802059",
+         "field_search": "question",
+         "question": " Cho hỏi mua máy dell i3, 11.6 inch trả góp giá bao nhiêu, thanh toán thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.118735,
+         "id": "789383",
+         "field_search": "question",
+         "question": "Mình mua máy ở TGDĐ, mình muốn cái đặt lại pass word cho TK icloud nhưng có mấy câu hỏi mình không thể trả lời được vì khi mình mua máy nhân viên của TGDĐ cài đặt hộ. Giờ mình muốn tìm lại câu trả lời thì làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.106122,
+         "id": "1144480",
+         "field_search": "question",
+         "question": "tgdđ có thể hỗ trợ mình cài ios 12 được không ? máy mình đang chạy ios 9.2.1... máy yêu cầu phải kết nối itune bằng máy tính mới cài được ios12... nhưng không hiểu sao máy tính mình không cài được itune... nhờ tgdđ hỗ trợ cho lẹ được không ạ ? máy 5s này lúc trước mua ở tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.087752,
+         "id": "1164835",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi: mình có mua Macbook Air bên TGDĐ, hiện tại máy đang bị sọc màn hình, và thỉnh thoảng sập nguồn khi khởi đông. Mình có thể bảo hành máy ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.074807,
+         "id": "1143135",
+         "field_search": "question",
+         "question": "ở tgdd có bán banf phim laptop dell vostro 3568153568 ko a nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.07111,
+         "id": "1133712",
+         "field_search": "question",
+         "question": "mk mua máy có win bản quyền ở tgdđ bây h muốn cài lại win thì cửa hàng có hỗ tợ cài lại k ạ. phí bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.037426,
+         "id": "1145067",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại tầm giá khoảng 5 triệu có: ram 3GB, camera sau kép, màn hình trên 5,7 inch, pin trên 3000mAh và không có tai thỏ (cả giọt nước luôn .-.).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.017592,
+         "id": "760589",
+         "field_search": "question",
+         "question": " Cho hỏi còn iPhone 4 nữa không nhỉ. Mình muốn mua 1 cái màu trắng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.973073,
+         "id": "1005324",
+         "field_search": "question",
+         "question": "Em mua máy mobiistar lai zumbo 2017 1 tuần trước. Mấy ngày nay thì có một dải màu đen xuất hiện ở đầu màn hình. Vậy có bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.931031,
+         "id": "790303",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp máy laptop dell 3558 i3, mình hiện đang ở TP. Mỹ Tho Tiền Giang, xin hướng dẫn cách mua hàng ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.881927,
+         "id": "1010702",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua iphone 6plus ở tgdđ còn trong tg bảo hành mà màn hình bị lổi màu. Nhưng mà máy có trầy xước vỏ máy. Thế mình còn bảo hành được màn hình ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.844564,
+         "id": "1139507",
+         "field_search": "question",
+         "question": "Mình vừa mua con A7 hôm qua thì báo cập nhật phần mêm .nếu mình không muốn cập nhật phần mềm thì làm thế nào để tắt thông báo ở trên góc màn hình nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.828118,
+         "id": "1163510",
+         "field_search": "question",
+         "question": "Trước mình có mua 2 chiếc đt ở TGDĐ, giờ mình có nhu cầu đổi sang một chiếc điện thoại mới thì không biết TGDĐ có chính sách thu hồi máy cũ không và nếu có thì mình muốn xin thông tin cụ thể về chính sách này.Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.819866,
+         "id": "997818",
+         "field_search": "question",
+         "question": "j7 prô ở cai lậy tiền giang có hàng chưa vậy  . tính mua mà không biết có hàng chưa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.80488,
+         "id": "999090",
+         "field_search": "question",
+         "question": "Mình mua trả góp tivi ở điện máy xanh của ngân hàng ACS muốn trả góp hàng tháng ở TGDD có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.703527,
+         "id": "1165297",
+         "field_search": "question",
+         "question": "Mình mua A8 star máy đổi trả từ ngày 10012019 giờ muốn đổi sang not 8thì tính như nào nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.692855,
+         "id": "774155",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính laptop em mua ở tgdd lâu rùi, cái quạt tản nhiệt ko hoạt động em có thể đem xuống của hàng kiểm tra được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.673351,
+         "id": "1008019",
+         "field_search": "question",
+         "question": "Cho tôi hỏi TGDĐ huyện Giồng trôm là:Máy nà chơi game nặng tot với giá từ 2 triệu đến 3 triệu . Màn hình 5.2 hoặc 5.5 inch.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.65534,
+         "id": "1008388",
+         "field_search": "question",
+         "question": "e mới mua máy tính ở trong hộp có 2 cái đĩa vậy hai cái đĩa đó có công dụng gì vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.605438,
+         "id": "1004718",
+         "field_search": "question",
+         "question": "Ở cửa hàng không có miếng dán màn hình của xiaomi redmi note 3 thì ra tgdd có được dán màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.565206,
+         "id": "1148453",
+         "field_search": "question",
+         "question": "Cửa hàng bên mình ở huyện trực ninh nam định có máy xiaomi note 6 pro ko nhỉ. Mua dịp này có ưu đãi j ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.55023,
+         "id": "829080",
+         "field_search": "question",
+         "question": "cho mình hỏi laptop mình mua ở TGDĐ, còn bảo hành .Mình sơ ý làm vỡ màn hình , bây giờ đem đến TGDĐ bảo hành,  ngoài chi phí sửa chữa TGDĐ có thu thêm phí gì khác không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.545295,
+         "id": "1001917",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi ở TGDĐ có thay pin zenfone 2 phiên bản 5'5 inch không ạ? Nếu có thì giá cả thế nào và mất bao lâu ạ? Số seri của máy F4AZFG06Z494 .",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

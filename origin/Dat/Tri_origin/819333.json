@@ -1,0 +1,801 @@
+{
+   "id_query": "819333",
+   "total": 31496,
+   "total_current": 100,
+   "max_score": 31.13121,
+   "origin_question": " Cho em hỏi TGDĐ có nhận cài đặt windows không ạ? ",
+   "hits": [
+      {
+         "score": 17.909256,
+         "id": "755561",
+         "field_search": "question",
+         "question": " Cho em hỏi tgdd có cài Windows lại cho laptop không ạ? Windows có bản quyền hay không? Cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.51475,
+         "id": "778873",
+         "field_search": "question",
+         "question": " Máy em có cài Windows 10 hỏi cài đặt Turbo Pacal thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.900167,
+         "id": "820752",
+         "field_search": "question",
+         "question": "Mình được người quen mua laptop giúp nhưng hdh không có bản quyền. nên mình hỏi Tgdđ các bạn có nhận cài đặt win không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.67365,
+         "id": "1012266",
+         "field_search": "question",
+         "question": "Em có 1 laptop mang HĐH là Free DOS và em muốn mua windows 10 bản quyền thì TGDĐ có bán không và khi cài thì cài ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.373825,
+         "id": "822991",
+         "field_search": "question",
+         "question": "Qtv cho em xin hỏi là khi em cài đặt Windows 10 lên máy tính bằng cách tải xuống từ trang chủ của Microsoft, sau khi cài đặt xong thì máy không thể nhận mạng từ wifi dù đã kết nối ạ,em đã kiểm tra mạng và mạng vẫn kết nối được với các thiết bị khác.Vậy thì có thể cho em hỏi cách khắc phục lỗi này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.32006,
+         "id": "803653",
+         "field_search": "question",
+         "question": " Bên thế giới di động co cài đặt windows 10 bản quyền cho laptop không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.256233,
+         "id": "763339",
+         "field_search": "question",
+         "question": "Laptop bị lỗi wifi nên mình vừa cài lại Windows 8.1 tại TGDĐ, vậy cho mình hỏi Windows mình cài lại là bản quyền hay crack vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.910384,
+         "id": "757225",
+         "field_search": "question",
+         "question": " Cho em hỏi Thegioididong.com có cài win cho laptop không mua ở đây không ạ? và Windows có bản quyền hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.822554,
+         "id": "927328",
+         "field_search": "question",
+         "question": " các bác cho em hỏi cách cài lại windows 7 được không ạ!!!!!!!!!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7482815,
+         "id": "1000860",
+         "field_search": "question",
+         "question": "bên mình có hỗ trợ cài đặt word 2016 không ạ? và mình muốn update lên windows 10 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.403628,
+         "id": "776754",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy tính ASUS K56C ram 4G và đang dùng Windows 7 . Em muốn nâng cấp lên 8G và cài đặt Windows 8 có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.242511,
+         "id": "1162812",
+         "field_search": "question",
+         "question": "AD cho em hỏi là bên mình cài giúp em máy Macbook sang Windows được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.229466,
+         "id": "924997",
+         "field_search": "question",
+         "question": " Chờ em hỏi là giờ em khôi phục cài đặt gốc Windows 10 là chỉ mất dữ liệu ổ C chứ không ảnh hưởng đến ổ D phải không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.016718,
+         "id": "763286",
+         "field_search": "question",
+         "question": " Cho em hỏi ở siêu thị Thế giới di động có cài windows không Ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.912088,
+         "id": "840069",
+         "field_search": "question",
+         "question": " TGDĐ có hạ PHIÊN BẢN WINDOWS KOTỪ WINDOWS 10 XUỐNG WINDOWS 8.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.909453,
+         "id": "763961",
+         "field_search": "question",
+         "question": " Laptop dell không có hệ điều hành bản quyền thì có thể cài đặt HĐH Windows 8 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8097515,
+         "id": "896991",
+         "field_search": "question",
+         "question": "Cho em hỏi Bộ phận kĩ thuật bên công ty mình có hỗ trợ reset lại máy tính windows không ạ? Máy em đang bị lỗi mà muốn reset lại thì em lại không biết phải cài đặt như thế nào a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.783179,
+         "id": "1009626",
+         "field_search": "question",
+         "question": "cho em hỏi sao em gõ đúng mã product key mà vẫn không thể cài được active windows 10 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.780855,
+         "id": "1017729",
+         "field_search": "question",
+         "question": "Cho em hỏi ở tgdđ có cài word 2010 cho laptop không ạ? Nếu có thì cho em biết giá luôn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.507515,
+         "id": "1161056",
+         "field_search": "question",
+         "question": "Xin hỏi TGDĐ có nhận thay pin cho Xperia XA không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.500594,
+         "id": "763301",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDD mình có cài lại windows 7 cho laptop  được mua từ siêu thị hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.498735,
+         "id": "1009284",
+         "field_search": "question",
+         "question": "tgdđ cho em hỏi điện thoại em mua ở tgdđ bị hư màn hình rồi mà hết bảo hành vậy có nhận thay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.399473,
+         "id": "750954",
+         "field_search": "question",
+         "question": " Bên Thế giới di động có cài Windows cho Macbook Air không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.353821,
+         "id": "1159034",
+         "field_search": "question",
+         "question": "Thegioididong có cài đặt Office không ạ? Nếu có cho em hỏi tốn bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.225118,
+         "id": "804384",
+         "field_search": "question",
+         "question": " anh cho em hỏi loptop sony hệ điều hành windows 7 cài lên windows 8.1 duoc khong ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.157853,
+         "id": "1166159",
+         "field_search": "question",
+         "question": "TGDĐ cho e hỏi là cái biểu tượng cài đặt nó tự chuyển sa...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.100179,
+         "id": "760465",
+         "field_search": "question",
+         "question": "Mấy anh chị cho em hỏi là em có 1 máy tính bàn chạy hệ điều hành Windows 8 em nâng cấp lên WIndows 10 thành công rồi em xóa phiên bản cũ bây giờ em khôi phục cài đặt gốc ( Xóa toàn bộ tệp tin) như vậy có vấn đề gì không qtv?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.082108,
+         "id": "1150474",
+         "field_search": "question",
+         "question": "Cho em hỏi, máy của em sau khi cài đặt lại thì không gọi đi được cũng không nhận được cuộc gọi nào là sao vậy ạ? Điện thoại em là oppo a37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.030782,
+         "id": "743358",
+         "field_search": "question",
+         "question": " Chỉ tôi cách cài đặt windows 10 trên laptop đi QTV ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.028907,
+         "id": "750726",
+         "field_search": "question",
+         "question": "Cài windows 10 có mất dữ liệu trên máy không vậy. Em đang dùng laptop asus windows 7 ultimate có nâng cấp lên windows10 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.913544,
+         "id": "798566",
+         "field_search": "question",
+         "question": " Cho em hỏi giờ em đem lap top ra tgdđ có được cài win 10 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.892259,
+         "id": "820177",
+         "field_search": "question",
+         "question": "dạ cho em hỏi em cài đặt đèn led khi nhận cuộc gọi đến rồi. Nhưng khi em gọi thử thì nó không chóp đèn là s ạ.. dạ em đang xài iphone5s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.887931,
+         "id": "756939",
+         "field_search": "question",
+         "question": "cho em hỏi .Em đang dùng laptop chạy windows 7 có chạy được phần Windows Phone Recovery Tool để hạ xuống windows 8.1 cho Lumia 630 không ạ . Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.845919,
+         "id": "779096",
+         "field_search": "question",
+         "question": " Thế giới di động có nhận lên cấp windows cho máy win7 không ạ? không phải win bản quyền nhé ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.815936,
+         "id": "1140900",
+         "field_search": "question",
+         "question": "Cửa hàng có nhận cài đặt hộ phần mềm trên laptop ko ạ tại em ko biết cài và ko có wifi dạ cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.803144,
+         "id": "800167",
+         "field_search": "question",
+         "question": "Cho em hỏi từ lúc em qua bên TGDĐ tải windows 10 mới về sao không còn nghe âm thanh nữa QTV giúp PC có lại được âm thanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.757083,
+         "id": "803779",
+         "field_search": "question",
+         "question": " cho em hỏi laptop sony hệ điều hành win 7 cài lên windows 8.1 được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.735368,
+         "id": "882728",
+         "field_search": "question",
+         "question": "Lap e đang sử dụng hệ điều hành windows 8 nhưng lại không có bản quỳên. Xin hỏi e muốn cài đặt lại hệ điều hành thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.682797,
+         "id": "760668",
+         "field_search": "question",
+         "question": " Ad có thể chỉ em cách cài đặt word 2013 không ạ ?? Và siêu thị mình có cài đặt word không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.667475,
+         "id": "812164",
+         "field_search": "question",
+         "question": " Khi mở máy.. Máy bắt cài đặt activate windows là gì vậy ah.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.633492,
+         "id": "1139865",
+         "field_search": "question",
+         "question": " TGDĐ có hỗ trợ cài WIN10 cho laptop không ạ.............................. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.592723,
+         "id": "809609",
+         "field_search": "question",
+         "question": "AD ơi cho em hỏilaptop của em cập nhật lên windows 10 khi cài game liên minh huyền thoại máy cài không được cho em hỏi máy của em bị gì sau không cài được ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.510933,
+         "id": "761301",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi máy em có phải chính hãng không ạ. với lại em tải iOS 9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt, cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.501476,
+         "id": "903589",
+         "field_search": "question",
+         "question": " cho e hỏi bên tgdđ có cài win10 cho laptop không ạ !? nếu có thì chi phí là bnhiu ạ !? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.462055,
+         "id": "925014",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Em mua laptop ở TGDĐ nay đã hết bảo hành, em vừa refresh win lại nên mất hết các chương trình Word, Excel.... đã đc TGDĐ cài khi mua máy. Giờ em muốn ra TGDĐ cài lại thì có được không và phí cài là bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.447784,
+         "id": "811298",
+         "field_search": "question",
+         "question": " Sao tải game trên windows không được ad,chỉ em cách cài game trên máy tính có hệ điều hành windows 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.356326,
+         "id": "1152988",
+         "field_search": "question",
+         "question": "cho em hỏi. laptop của em mua cũng hơn 1 năm rồi. em muốn cài lại win (máy win10). Vậy bên tgdđ mình cài lại dùm em được không và có phí không ạ!!!Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.34163,
+         "id": "846358",
+         "field_search": "question",
+         "question": " Hi admin!Cho mình hỏi, có thể cài đặt chỉ nhận cuộc gọi trong danh bạ điện thoại trên iphone không?Xin cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.315159,
+         "id": "951051",
+         "field_search": "question",
+         "question": " Em đang xài windows 7, nếu bây giờ em cài lại win thì các dữ liệu có lưu không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.306651,
+         "id": "1017048",
+         "field_search": "question",
+         "question": "Cho em hỏi s em vào cài đặt. Bấm vào sao lưu va cài đặt lại thì đt thoại báo la cài đặt đã dừng la s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.274243,
+         "id": "784313",
+         "field_search": "question",
+         "question": "Admin cho em hỏi ạ! Em có con iphone 5 muốn bán bù qua để mua iphone 5s thì tgdđ có nhận thu không ạ và giá dao động bao nhiêu ạ? Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.179907,
+         "id": "877414",
+         "field_search": "question",
+         "question": " Cho hỏi bên tiệm mình có cài đặt cydia cho iPhone 5s không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.170726,
+         "id": "789383",
+         "field_search": "question",
+         "question": "Mình mua máy ở TGDĐ, mình muốn cái đặt lại pass word cho TK icloud nhưng có mấy câu hỏi mình không thể trả lời được vì khi mình mua máy nhân viên của TGDĐ cài đặt hộ. Giờ mình muốn tìm lại câu trả lời thì làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.075661,
+         "id": "823618",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có nhận cài Microsoft office hok ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.044266,
+         "id": "1134790",
+         "field_search": "question",
+         "question": "cho mình hỏi tgdđ có nhận nâng ram cho laptop ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.020507,
+         "id": "778735",
+         "field_search": "question",
+         "question": " Cho em hỏi máy iPhone 5s có tự cài đặt được iOS 9.2.1 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.020339,
+         "id": "758673",
+         "field_search": "question",
+         "question": " TGDĐ có hỗ trợ cài appstorevn cho iphone 6s không ạ , có tốn tiền không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.9974985,
+         "id": "819392",
+         "field_search": "question",
+         "question": "Chào THẾ GIỚI DI ĐỘNG.Hiện tại máy mình mới up lên windows 10 thì không cài được OFFICE 2016, trong khi cái máy kia  thì cùng hệ điều hành ấy với bản office 2016 này. Thì vẩn cài đặt tốt, không có lỗi nào xảy ra. Em có cái hình báo lỗi khi cài đặt office, mong các anh chị kỹ thuật xem qua và giải đáp giúp xem máy em bị lỗi gì hay thiếu cái gì mà không cài được. Rất mong nhận được phương pháp khắc phục lỗi trên.Mong nhận được trả lời sớm nhất từ các kỷ thuậy TGDD.Thân chào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.977753,
+         "id": "750863",
+         "field_search": "question",
+         "question": "Anh cho em hỏi cài windows 10 mất dữ liệu trên ổ đĩa nào vậy anh và có mất ứng dụng trên máy không. hiện tại em đang dùng laptop asus hệ điều hành windows 7 ultimate không bản quyền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.972377,
+         "id": "1155586",
+         "field_search": "question",
+         "question": "Word, powerpoint 2010 được cài miễn phí phải không ạ? Em có thể đem lap lên TGDĐ nhờ cài giúp không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.952818,
+         "id": "851732",
+         "field_search": "question",
+         "question": "Ad cho em hỏi ip của em quên mật khẩu icloud bây giơ em đặt lại tất cài đặt thì có bị sao ko ,không phải là xoá mọi nội dung và cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.9226,
+         "id": "1137043",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi với, hiện tại em đang dùng J2 Prime nhưng không thể kết nối được vào Facebook, cài đặt lại password thì nhận được thông báo Lỗi không xác định mong được hỗ trợ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.902266,
+         "id": "998807",
+         "field_search": "question",
+         "question": "TGDĐ có hỗ trợ cài win lại không ạ, máy em bị lỗi rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.884059,
+         "id": "998982",
+         "field_search": "question",
+         "question": "Em có có iphone 5 dùng 1 thời gian e cảm thấy nó chạy chậm lên e khôi phục cài đặt gốc và sau khi khôi phục nó không nhận đc sim nữa nó ko nhận sim thì ko cài đặt đc máy mong mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.867488,
+         "id": "757609",
+         "field_search": "question",
+         "question": "Chào QTV!Mình có máy Vaio lúc mua có sẵn windows 8 64 bit, nhưng không hiểu sao nhiều lần qua TGDĐ reset ổ C lại mà vẫn cứ lắc, đơ, em nghĩ chắc RAM 2G không kham nỗi HĐH 64 bit thì phải, nhưng không dám cài win 32 bit sợ mất bản quyền windows, nên anh chị tư vấn giúp em với ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.86638,
+         "id": "754323",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop acer ram 2GB, core i3, 32 bit cài windows nào tốt nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.857953,
+         "id": "1145028",
+         "field_search": "question",
+         "question": "Tại sao em đang dùng pc thì nó hiện 1 khung cửa sổ và nó kêu là:GIấy phép windows của bạn sẽ hết hạn sớm Bạn cần kích hoạt windows trong cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.839012,
+         "id": "1166739",
+         "field_search": "question",
+         "question": "Em muốn cài windows 10 thì cỡ bao nhiêu tiền vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.828705,
+         "id": "1018377",
+         "field_search": "question",
+         "question": " Em mới lấy 1em xiaomi redmi 4x em muốn hỏi là làm thế nào cài đặt được khi mình nhận cuộc gọi thì có cả Flash ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.8186035,
+         "id": "931403",
+         "field_search": "question",
+         "question": " Chào ad. Cho mình hỏi Tgdđ có hỗ trợ cài lại win không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.777043,
+         "id": "993766",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao điện thoại của e lại không có Siri trong phần cài đặt vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.77077,
+         "id": "830539",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDĐ có jailbreak iPhone iPad không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.76709,
+         "id": "839446",
+         "field_search": "question",
+         "question": "Laptop em hệ windows 8.1 khi tắt máy máy hiện đang cài đặt cập nhật.... Máy bị như vậy phải làm sao để tắt máy ạ? Ad giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.760288,
+         "id": "1146369",
+         "field_search": "question",
+         "question": "Anh(chị) cho em hỏi em có đặt dây cáp lightning 1.2m devia aex và nhận tại cửa hàng TGDĐ 820 Xô Viết Nghệ Tĩnh, Bình Thạnh, TPHCM. Anh(chị) có thể check giúp em xem hiện đã về hàng tại siêu thị chưa ạ? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.753718,
+         "id": "805612",
+         "field_search": "question",
+         "question": "em đã lên win 10 bản quyền từ tháng 8/2015, lúc đó tính năng mở khóa vân tay vẫn dùng ngon. Cho đến hôm qua, em Khôi phục cài đặt gốc xong thì không tìm thấy windows hello trong phần cài đặt đăng nhập nữa mặc dù đã cài đủ driver, em cũng đã update nhưng nó vẫn không xuất hiện. Bác nào biết có thể chỉ giúp em có được không. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.728002,
+         "id": "797230",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDĐ mình có sửa laptop, cài lại phần mềm win, driver máy tính đã tích hợp sẵn win bản quyền không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.707196,
+         "id": "805254",
+         "field_search": "question",
+         "question": "windows 10 cho laptop ổn định không ah. và bênh thế giới di động có hỗ trợ cài windows 10 bản quyền cho tất cả laptop không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.705949,
+         "id": "1005063",
+         "field_search": "question",
+         "question": "cho em hỏi ở thế giới di động có cài đặt Bkav bản quyền ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.701145,
+         "id": "776971",
+         "field_search": "question",
+         "question": " Anh cho em hỏi có nên cài đặt phiên bản ios 9.2.1 cho iPhone 5 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.677502,
+         "id": "1152618",
+         "field_search": "question",
+         "question": "Em mua laptop ở thegioididong vào năm 2014 đã hết bảo hành. Vậy em có thể ra shop nhờ cài lại Windows 10 được không ạ và có tính phí cài hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.656248,
+         "id": "1166482",
+         "field_search": "question",
+         "question": "Cách cài đặt office miễn phí trên Windows 10  đối với laptop mà ở đây là lenovo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.6550865,
+         "id": "863452",
+         "field_search": "question",
+         "question": "em đang xài máy tính để bàn , máy tính có hiện lên thông báo hỏi có nâng cấp lên windows 10 không ? cho em hỏi là windows 10 có gì ưu điểm gì so vs windows 7 ạ , và nâng cấp lên thì có cần lưu ý gì ko , có mất dự liệu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.574098,
+         "id": "766786",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút ạ. em dùng ip4s, trước đây, khi em tắt 3g và wifi thì điện thoại vẫn nhận được tin nhắn zalo và messager bình thường, chỉ có ảnh thì không load được hoặc load chậm, nhưng khoảng 1 tuần nay, khi em tắt 3g và wifi thì không nhận được tin nhắn zalo nữa anh chị cho em hỏi là có phải do cài đặt gì không mà điện thoại em bị như vậy ạ? Giờ có cách nào để nó như cũ được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.56272,
+         "id": "876474",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách cài đặt nhận thông báo khi sử dụng facebook trên chrome ở màn hình khóa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.532023,
+         "id": "748687",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là khôi phục cài đặt gốc cho laptop Asus TP550L có bị mất dữ liệu phần mềm không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.526651,
+         "id": "1019684",
+         "field_search": "question",
+         "question": " Cho em hỏi sao máy em ko khôi phục cài đặt gốc đc ạ??  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.514016,
+         "id": "854761",
+         "field_search": "question",
+         "question": " Thegioididong có hỗ trợ cài lại Windows 10 không ạ? Và nếu có thì có phát sinh chi phí nào không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.488868,
+         "id": "759574",
+         "field_search": "question",
+         "question": " Cho em hỏi, trên điện thoại iPhone mình có thể cài đặt được chương trình quét virus cho máy mình được không vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.449797,
+         "id": "772575",
+         "field_search": "question",
+         "question": " Cho mình hỏi cài đặt imessge như thế nào. Sao mình cài đặt không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.432671,
+         "id": "1162055",
+         "field_search": "question",
+         "question": "Cho em hỏi TGDĐ có mua máy cũ không ạ..Em xin cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.41977,
+         "id": "761294",
+         "field_search": "question",
+         "question": "Em tải ios9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt. cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.407308,
+         "id": "1164910",
+         "field_search": "question",
+         "question": "Admin ơi, cho mình hỏi bên thế giới di động có hỗ trợ khách cài đặt app không ạ tại mình không biết cách để cài đặt app Wechat với Weibo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.378449,
+         "id": "790624",
+         "field_search": "question",
+         "question": " cho em hỏi ở thế giới có cài đặt win trên lap top không vậy ? có tính phí không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.377393,
+         "id": "806942",
+         "field_search": "question",
+         "question": "Cho hỏi em đang xài windows 7, em muốn nâng cấp lên windows 10 có activate, cho hỏi thế giới di động có hỗ trợ làm không? Nếu có thì giá khoảng bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.365259,
+         "id": "820038",
+         "field_search": "question",
+         "question": " Xin hỏi, TGDĐ mình có nhận sữa iphone bị hư ổ sim không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.345192,
+         "id": "868331",
+         "field_search": "question",
+         "question": " Ad cho hỏi em tải game trên Windows 7 lấy usb copy qua Windows 10 chơi đc không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.344333,
+         "id": "987111",
+         "field_search": "question",
+         "question": "Tgdđ cho em hỏi siêu thị tgdđ có bán các loại sạc laptop không ạ ??? E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.337157,
+         "id": "798934",
+         "field_search": "question",
+         "question": "AD cho em hỏi là Laptop của em đã hết hạn bảo hành nhưng em muốn cài lại windows,em mang mẩy cửa hàng thegioididong có bảo hành cho em không ạ.mong Ad trả lời giúp em ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.310299,
+         "id": "1024401",
+         "field_search": "question",
+         "question": "cho em hỏi em mua điện thoạiOppo a37 ở TGDĐ đc 1 tuần. GIờ muốn trả lại thì nhận được bao nhiêu tiền ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

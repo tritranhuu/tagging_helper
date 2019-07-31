@@ -1,0 +1,801 @@
+{
+   "id_query": "751078",
+   "total": 26052,
+   "total_current": 100,
+   "max_score": 58.495007,
+   "origin_question": " Quên mã ID iPhone 4S thì làm sao cài đặt lại? Làm ở đâu? Bao nhiêu tiền? ",
+   "hits": [
+      {
+         "score": 24.951118,
+         "id": "987584",
+         "field_search": "question",
+         "question": " Toi quen ID iphone 4s làm thế nào để lấy lai ID vả lại tôi quên ko nhớ email tôi phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.906246,
+         "id": "789563",
+         "field_search": "question",
+         "question": " Muốn cài đặt lại hệ điều hành android thì lấy ở đâu làm cách nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.816833,
+         "id": "779850",
+         "field_search": "question",
+         "question": " Em muốn chạy lại chương trình cho iPhone 4S vì em quên mật khẩu iCloud, vậy thì bao nhiêu tiền vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.281467,
+         "id": "794768",
+         "field_search": "question",
+         "question": " Mình quên mật khẩu của iPhone 4S làm sau mình cài lại được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.004238,
+         "id": "784151",
+         "field_search": "question",
+         "question": " iPhone 4s bị lỗi itunes làm sao ạ, nếu ra tiệm thì bao tiền ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.41318,
+         "id": "765263",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 4S, mình muốn cài đặt tất cả cài đặt cho điện thoại nhưng khi cài đặt máy yêu cầu nhập mã khóa của bạn. Cho hỏi mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.388042,
+         "id": "886660",
+         "field_search": "question",
+         "question": "Em quên mã iphone. làm thế nào để mở lại đc vậy??Chỉ cho em cách tìm lại và nếu ra cửa hàng thì tìm lại mất bao nhiêu tiện??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.155952,
+         "id": "760254",
+         "field_search": "question",
+         "question": " Làm sao để cài ID Apple cho iPhone 4s vậy ạ,giúp mình với ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.620035,
+         "id": "812551",
+         "field_search": "question",
+         "question": " cách reset cài đặt gốc cho iphone 4s làm sao vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.993101,
+         "id": "785015",
+         "field_search": "question",
+         "question": " Mua iphone 4s cũ có cài đặt sim ghép rồi giờ muốn gỡ bỏ thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.85836,
+         "id": "1168151",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu ID Apple thì phải làm sao ạ Điện Iphone 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.67867,
+         "id": "758417",
+         "field_search": "question",
+         "question": " Cho em hỏi cách reset khôi phục cài đặt cho iphone 4s . Phải làm sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.661842,
+         "id": "778694",
+         "field_search": "question",
+         "question": " Cho hỏi root máy là sao, ở đâu root và bao nhiêu tiền. Cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.224981,
+         "id": "774515",
+         "field_search": "question",
+         "question": " Tôi muốn biết giá bán lại điện thoại iPhone 4S đã bị khóa iCloud thì bán lại được bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.112936,
+         "id": "789120",
+         "field_search": "question",
+         "question": " Shop còn iphone 4s không ạ? Nếu còn thì bao nhiêu tiền ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.833158,
+         "id": "1012453",
+         "field_search": "question",
+         "question": "adm ơi máy nokia c300 của e bị khóa mã bảo vệ giờ e quên mã e muốn lại lại thì phải làm sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.753143,
+         "id": "909873",
+         "field_search": "question",
+         "question": "Làm sao tìm lại được id Apple chua xác minh bằng mail.iphone của em bị Activation iPhone do quên id Apple.giờ có cách nào lấy lại id Apple k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.73309,
+         "id": "807151",
+         "field_search": "question",
+         "question": "Mình có máy điện thoiaj iphone 4S sau khi tải cài đặt phần mềm trên máy sau đó khởi động lại máy báo phải nhập mật mật khẩu ID Apple nhưng mình không nhớ, giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.640896,
+         "id": "777242",
+         "field_search": "question",
+         "question": " Iphone 4s 9.2.1 có cài cydia được không ở đâu cho hỏi. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.45413,
+         "id": "778019",
+         "field_search": "question",
+         "question": " Quên mã pin 2 Sony Xperia Z3 phải làm sao lấy lại vậy Admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.435173,
+         "id": "779038",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em mới cài đặc gốc máy iPhone 4 ios7.1.2 lại giờ mở lên máy đòi phải nhập id apple mà em lại quên id rồi vậy giờ phải làm sao để mở máy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.425295,
+         "id": "1017182",
+         "field_search": "question",
+         "question": "Em muốn đổi iphone 4 thành iphone 4s hoặc 5 thì bù thêm bao nhiêu tiền ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.408203,
+         "id": "786440",
+         "field_search": "question",
+         "question": " Cho mình hỏi là iphone 4s bị hư sóng thì sửa hết bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.174295,
+         "id": "818060",
+         "field_search": "question",
+         "question": " Máy iphone của con tôi cho tôi mà nó quên số pin và quên luôn ID của apple thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.149578,
+         "id": "907929",
+         "field_search": "question",
+         "question": " Điện thoại iphone 4s của e quên tài khoản ID apple giúp e tạo lại đi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.062712,
+         "id": "1161433",
+         "field_search": "question",
+         "question": "khôi phục cài đặt gốc mà quên gmail thì phải làm s mn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.027605,
+         "id": "760533",
+         "field_search": "question",
+         "question": " Làm sao để tạo iD mới trên iPhone vậy chỉ em với quên mất iD cũ rồi. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.018667,
+         "id": "913400",
+         "field_search": "question",
+         "question": " PSU máy tính bàn là bao nhiêu tiền và nó được bán ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.89458,
+         "id": "796148",
+         "field_search": "question",
+         "question": "Tôi quên mật khẩu Apple id của mình. Tôi tìm lại thì họ bắt nhập mã khôi phục nhưng tôi không lưu lại. Bay giờ phải làm thế nào xin hãy giúp tôi :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.883669,
+         "id": "860686",
+         "field_search": "question",
+         "question": " Em đang sài iphone 4s , nếu muốn lên ios 8 thì phải tốn bao nhiêu tiền ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.883669,
+         "id": "843854",
+         "field_search": "question",
+         "question": " Nút nguồn iPhone 4s bị lúng nếu thay thì khoảng bao nhiêu tiền ạ. Em cám ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.878798,
+         "id": "1155894",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu giới hạn ở iphone 7plus ios 10.3 thì làm sao để lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.842585,
+         "id": "748214",
+         "field_search": "question",
+         "question": "Cho mình hỏi... Điện thoại iphone 4s mình vô màn hình chính không được, nó đòi apple id nhưng mình quên nick của nó rồi, giờ phài làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.768229,
+         "id": "756088",
+         "field_search": "question",
+         "question": " Iphone5 bao nhiêu tiền  nếu mua ở ngoài thì bao nhiêu tiền vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.549881,
+         "id": "1022557",
+         "field_search": "question",
+         "question": "cài lại phần mền cho điện thoại hết bao nhiêu tiền? điện thoại nokia 3310 của em mới mua cài mật khẩu, xong e nhập sai mật khẩu 2 lần nhập lại thì báo mật mã sai trong khi đã ấn đúng. làm cách nào để mở khóa ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.523457,
+         "id": "753403",
+         "field_search": "question",
+         "question": "QTV ơi. Cho em hỏi bao giờ mới có iPhone 4s 16Gb hoặc 32gb ạ?Và nếu như e mua iphone 4s 8Gb thì sau khi cửa hàng đã cài đặt tất cả thì còn khoảng bao nhiêu dung lượng trống nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.502636,
+         "id": "918251",
+         "field_search": "question",
+         "question": " Em khôi phục lại cài đặt gốc nhưng quên không nhớ tài khoản icloud nữa. Bây giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.414581,
+         "id": "880253",
+         "field_search": "question",
+         "question": " Cho e hỏi cài nhạc chuông MP3 cho iphone 4s thì làm sao được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.26981,
+         "id": "843305",
+         "field_search": "question",
+         "question": " làm sao để cài đặt lại được app store cho đt iphone 6? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.190441,
+         "id": "1149998",
+         "field_search": "question",
+         "question": "Iphon bị quên mật khẩu ituns thay bao nhiêu tiền ạ.và bao lâu thì có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.1697,
+         "id": "811745",
+         "field_search": "question",
+         "question": " khôi phục cài đặt gốc trên iphone thì làm sao vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.154188,
+         "id": "1021693",
+         "field_search": "question",
+         "question": "Ad cho hỏi:Sao trong gmail của mình đã có tin nhắn xác nhận đặt gmail làm id apple rồi. nhưng giờ quên mật khẩu, làm theo ad hướng dẫn lấy lại mật khẩu nhưng bên apple bảo là id không tồn tại.giờ làm sao ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.096474,
+         "id": "748791",
+         "field_search": "question",
+         "question": " ad ơi, cho em hỏi thay màn hình iPhone 4s bao nhiêu tiền ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.05576,
+         "id": "1137992",
+         "field_search": "question",
+         "question": "Cài lại win laptop hết bao nhiêu tiền?thời gian cài mất bao lâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.981016,
+         "id": "796267",
+         "field_search": "question",
+         "question": " Khi mình reset lại con iphone thì làm mất hết phần trong cài đặt giờ làm thế nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.957645,
+         "id": "806587",
+         "field_search": "question",
+         "question": " Khi quên mật khẩu để khôi phục cài đặt gốc phải làm sao máy Lenovo A5000? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.94396,
+         "id": "739622",
+         "field_search": "question",
+         "question": "Chào tgdd. Cho em hỏi muốn đổi iPhone 4s màu trắng 16GB lấy iPhone 5S Trắng 16Gb thì bao nhiêu và trả góp 10 tháng mỗi tháng bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.871025,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.696688,
+         "id": "845469",
+         "field_search": "question",
+         "question": " cho tôi hỏi tôi phải làm gì khi tải lại zalo mà quên tài khoản ID máy iphone vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.695488,
+         "id": "804643",
+         "field_search": "question",
+         "question": "tình trạng máy iphone 3s của mã khôi phục cài đặt gốc giờ không lên màn hình đk luôn ở trong tình trạng cho mấy tiếng đồng hồ rồi mà vẫn như thế thì có bị làm sao ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.689657,
+         "id": "1161241",
+         "field_search": "question",
+         "question": "Em lỡ quên mật khẩu mở khóa của samsung J7 pro thì làm sao  để mã hóa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.642303,
+         "id": "1165101",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi tài khoản facebook của em giờ quên mật khẩu có cài số điện thoại nhưng bấm vô quên mật khẩu thì nó không gửi mã về điện thoại thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.60355,
+         "id": "951664",
+         "field_search": "question",
+         "question": " Cho em hỏi em mua iphone ở cửa hàng sau khi reset lại máy em quên mk và tk iclould thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.600061,
+         "id": "1143256",
+         "field_search": "question",
+         "question": "iphone4 của tôi bị quên ID apple giờ cần phải làm sao??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55692,
+         "id": "783205",
+         "field_search": "question",
+         "question": " Phí cài win ở TGDD bao nhiêu ạ?hôm nay còn làm không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55483,
+         "id": "1021169",
+         "field_search": "question",
+         "question": "Mình muốn đặt 1 iphone x. Làm sao để đặt ad? Và khoảng bao lâu thì iphone x về?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.535364,
+         "id": "847522",
+         "field_search": "question",
+         "question": " cho mình hỏi. mình dùng máy IP5C bản lock nhật.mình lỡ cài lại máy mà quên ID icloud giờ làm như thế nào ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.523518,
+         "id": "1017549",
+         "field_search": "question",
+         "question": "làm sao để kiểm tra mình đã trả góp tiền sản phẩm bao nhiêu tháng , còn thiếu bao nhiêu tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.508049,
+         "id": "1148475",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu Facebook phải làm sao để vào lại được.em có bấm quên mật khẩu nó gữi mã số qua email em đã bỏ lâu giờ phải làm sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.490173,
+         "id": "763257",
+         "field_search": "question",
+         "question": "  Sao máy em cài đặt lại iPhone rồi máy bị treo luôn giờ phải làm sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.466934,
+         "id": "758074",
+         "field_search": "question",
+         "question": " Ở đây có bán iPhone 5 lock không vậy? Nếu có thì bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.452154,
+         "id": "762833",
+         "field_search": "question",
+         "question": "  Điện thoại em mua lại của người ta mà quên mã mở khóa không có icloud giờ làm sao mở? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.438847,
+         "id": "1020120",
+         "field_search": "question",
+         "question": "Thay pin iphone 5s ở đâu ?  Với giá giao động từ bao nhiêu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.351582,
+         "id": "769179",
+         "field_search": "question",
+         "question": " Làm sao để cài đồng hồ cho màn hình chính iPhone 4S ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.318615,
+         "id": "902400",
+         "field_search": "question",
+         "question": " quên mật khẩu iphone 4s thì làm cách nào để mở được khi máy đang vô hiệu hóa??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.313515,
+         "id": "756948",
+         "field_search": "question",
+         "question": "  Em mua iphone ở chi nhánh Đồng Hới nhưng em quên mật khẩu iTunes thì làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.310768,
+         "id": "757512",
+         "field_search": "question",
+         "question": " Mình mua máy iPhone 4s ngày 22082015 , giờ mình muốn đổi trả thì máy mình còn được bao nhiêu tiền vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.303242,
+         "id": "1159465",
+         "field_search": "question",
+         "question": "Cho em hỏi cách xóa id apple và đặt lại tất cả kể cả id luôn làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.301073,
+         "id": "1147619",
+         "field_search": "question",
+         "question": "Máy Samsung galaxy j7 plus,cài đặt khóa ứng dụng mà quên mật khẩu thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.28686,
+         "id": "804630",
+         "field_search": "question",
+         "question": " Nâng ram laptop asus len 4gb mất bao nhiêu tiền vậy mà có thể mang đến nâng cấp ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.239973,
+         "id": "1133351",
+         "field_search": "question",
+         "question": "iPhone X bị không rung dù đã cài đặt lại máy thì làm như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.229925,
+         "id": "1148451",
+         "field_search": "question",
+         "question": "Cho em hỏi  giá iphone 6 plus mất icloud quên mật khẩu đt mất bao nhiêu tiền ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.147924,
+         "id": "876849",
+         "field_search": "question",
+         "question": " iphone mình bị lỗi 601 thì phải làm sao. sửa thì hết bao nhiêu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.129387,
+         "id": "946255",
+         "field_search": "question",
+         "question": " ip3 mình hư cam làm sao để sửa và tốn khoảng bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.006147,
+         "id": "745255",
+         "field_search": "question",
+         "question": " em quên ID và email của icloud nhưng nhớ mật khẩu làm thế nào để lấy lại ID  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.934399,
+         "id": "782851",
+         "field_search": "question",
+         "question": " Em muốn tìm iPhone 4s thì giá tầm bao nhiêu ạ?Nếu bây giờ đặt thì tầm 29 tết đc hàng chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.89074,
+         "id": "769798",
+         "field_search": "question",
+         "question": " iphone đã jaibreak làm sao để khôi phục cài đặt gốc? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.884705,
+         "id": "902851",
+         "field_search": "question",
+         "question": " Iphone 5S IOS 10 bị vô hiệu hoá thì mở nó làm sao khi đã quên mật khẩu id Apple chỉ có mật khẩu iCloud thoi add ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.871023,
+         "id": "835718",
+         "field_search": "question",
+         "question": " Tôi quên tài khoản iCloud làm như thế nào mà lấy lại được tài khoản để mở được iphone 4S đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.832972,
+         "id": "817428",
+         "field_search": "question",
+         "question": " làm sao để phá tài khoản icloud khi quên mật khẩu ở máy iphone 4. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.813326,
+         "id": "771329",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 4s, khi gọi điện thì loa trong không nghe đc, e thấy trên mạng hướng dẫn là thử cài đặt lại nhưng e không nhớ mã giới hạn. có cách nào không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.68103,
+         "id": "871554",
+         "field_search": "question",
+         "question": " em muốn cài lại win 8 cho laptop bao nhiêu tiền vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.62694,
+         "id": "874659",
+         "field_search": "question",
+         "question": " tại sao cài đặt mạng iphone 4s lại bị sập nguồn sạc nó kêu tút z ad giúp em vs ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.620245,
+         "id": "744327",
+         "field_search": "question",
+         "question": " iPhone 5S bị mất mã bảo vệ thì giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.57729,
+         "id": "925519",
+         "field_search": "question",
+         "question": " Em lên ios 10.1 e quên gửi mã xác nhận sang nước đức mà h e gửi lại mã thì nó kêu gửi quá nhiều lần thì phải làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.565348,
+         "id": "783384",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em mua máy ở tiệm khác nhưng máy em no bị vô hiệu hóa kết nối itunes . giờ em muốn sửa lại thì có làm được ko ạ! nếu đươc thì hết phí bao nhiêu ạ! máy em iphone 4s 32gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.52777,
+         "id": "819447",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình muốn thay màn hình ngoài đt iphone 5 ở cửa hàng thì mất bao nhiêu tiền? Hôm trước mình làm rơi đt bị nứt màn hình ở ngoài và vẫn xài bt á",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.51751,
+         "id": "761527",
+         "field_search": "question",
+         "question": "Em đặt lại máy là iPhone. Nó kêu nhập tài khoản icoud rồi. Nhưng nó đòi thêm ID Apple nữa. Nhưng em không nhớ thì em phải làm sao a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.482578,
+         "id": "1143198",
+         "field_search": "question",
+         "question": "Cho em hỏi là ở shop có cài lại word, excel, parabol không ạ? Nếu có thì cho em hỏi là hết bao nhiêu tiền ạ ?? Em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.42963,
+         "id": "930381",
+         "field_search": "question",
+         "question": "Em làm rơi iphone 4s xuống đất thì tắt máy nhưng cắm sạc lại lên nhưng rút sạc ra thì tắt máy mở kh lên. cho e h? máy bị gì và sửa hết bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.428144,
+         "id": "1144764",
+         "field_search": "question",
+         "question": " Giờ điện thoại em ,mà em quên mặt khẩu ứng dụng giờ làm sao đặt lại được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.425495,
+         "id": "1160652",
+         "field_search": "question",
+         "question": "Điện thoại samsung j7 pro bị nhiễu màn hình tím thì làm sao ạ? Nếu đem ra thegioididong sửa thì bao nhiêu tiền vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.419664,
+         "id": "805233",
+         "field_search": "question",
+         "question": " iPhone 5S làm sao để cài đặt danh bạ facebook vậy AD ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.36554,
+         "id": "795602",
+         "field_search": "question",
+         "question": " Mật khẩu chạy chương trình iPhone 4 và khi mình quên mật khẩu của tài khoản ID mình phải làm gì mới lấy lại được. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.350092,
+         "id": "1166739",
+         "field_search": "question",
+         "question": "Em muốn cài windows 10 thì cỡ bao nhiêu tiền vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.349325,
+         "id": "1151370",
+         "field_search": "question",
+         "question": "Laptop đem đi bảo hành, nếu cài win lại thì có tốn tiền không? Nếu tốn thì tốn bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.346079,
+         "id": "1153003",
+         "field_search": "question",
+         "question": "Cho e hỏi em xài iphone 5s sau khi đặt lại máy thì không thể khởi động lại máy được. Đăng nhập id apple toàn hiện không thể đăng nhập.giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.299503,
+         "id": "822680",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn thay đổi id appe để tải app trên ios 9.3.1 thì làm như thế nào? Mình tìm mãi mà không thấy mục itunes and appstore đâu cả. Trên ios 9.2 trở xống nó nằm dưới mục cài đặt icloud mà lên 9.3 thì lại mất tích.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.253077,
+         "id": "1157560",
+         "field_search": "question",
+         "question": "Toi quên mã fecabook làm cách nào để có dc mã fecabook bằng cách đơng giản nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

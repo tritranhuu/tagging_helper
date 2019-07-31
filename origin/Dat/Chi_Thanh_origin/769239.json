@@ -1,0 +1,801 @@
+{
+   "id_query": "769239",
+   "total": 31665,
+   "total_current": 100,
+   "max_score": 42.30996,
+   "origin_question": " Cho mình hỏi bên bạn có làm sim ghép cho iPhone 6 lock không? ",
+   "hits": [
+      {
+         "score": 30.133612,
+         "id": "762824",
+         "field_search": "question",
+         "question": " Cho em hỏi ở đây có bán sim ghép cho iphone 6 lock Nhật không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.071026,
+         "id": "753259",
+         "field_search": "question",
+         "question": " Mình muốn bán iphone 5s sim ghép bên bạn có mua không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.604624,
+         "id": "1158379",
+         "field_search": "question",
+         "question": "Bên mình có bán sim ghép cho iphone look không shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.45372,
+         "id": "1002574",
+         "field_search": "question",
+         "question": "Hiện tại em đang xài iphone 6 lock  nếu mua sim ghép có fix lỗi đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.735798,
+         "id": "846950",
+         "field_search": "question",
+         "question": "Máy mình iPhone 5s lock nhật softbank . Hiện tại đang dùng sim ghép . Mới up ios 10 nhưng thấy đơ quá , giờ muốn cài đặt lại cho bớt ngơ nhưng sợ cài đặt lại xong mất sim ghép . Cho hỏi sau khi cài đặt lại có ảnh hưởng gì đến sim ghép k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.72325,
+         "id": "766215",
+         "field_search": "question",
+         "question": " Cho hỏi thế giới di động có dịch vụ ghép sim hay unlock điện thoại iPhone 6s Plus lock nhà mạng docomo không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.246258,
+         "id": "807573",
+         "field_search": "question",
+         "question": "QTV cho em hỏi em có iPhone 5C lock mỹ nhưng không nhớ nhà mạng nào em dùng sim ghép để unlock rồi chọn thử tất cả các nhà mạng rồi nhưng không được. Mấy ông thợ bảo phải mua sim ghép mới unlock được, thể cho em hỏi anh chị có bản sim ghép mỹ không anh và unlock được máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.69155,
+         "id": "999120",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở thegioididong có bán miếng ghép cho iphone bản lock không ạ? Nếu có thì giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.392565,
+         "id": "991419",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mua máy iphone 6s bên nhật, máy lock chưa kích hoạt, bây giờ mình mang ra hệ thống siêu thị TGDD nhờ kích hoạt dùng sim ghép có được không? Liệu có thể kiểm tra máy đã trả hết cước chưa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.27472,
+         "id": "1012243",
+         "field_search": "question",
+         "question": "bên mình có gắn sim ghép cho ip5s với dán màn hình hông?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.080063,
+         "id": "775886",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng iPhone 5 lock nhật nhà mạng Softbank. Dùng sim ghép heaicard v7.4 em có nâng cấp lên ios 9.2.1 được không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.966993,
+         "id": "1006339",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng Ip 5 lock của Nhật, do máy hay bị tắt nguồn và sóng không ổn định nên mình muốn thay sim ghép và pin, Ad có thể cho mình biết chi phí và chế độ bảo hành của pin với sim ghép không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.826847,
+         "id": "1157869",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi  bên bạn còn kinh doanh dòng apple iphone 6, 6 không ạ? Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.766443,
+         "id": "1143085",
+         "field_search": "question",
+         "question": "iphone 6 quốc tế e mua sim về gắn vào thì nó hiện lên 1 cục sóng có lúc không có dịch vụ.. dạ cho e hỏi: mình mua sim ghép vào dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.078588,
+         "id": "1151981",
+         "field_search": "question",
+         "question": "cho mình hỏi máy sony z1 bị khóa mạng có dùng sim ghép được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.893396,
+         "id": "839070",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mua sim vina bùm nano khi lắp vào sim ghép ip 5 lock kddi báo chua cài đặt thẻ sim, khi thao ra lắp vào sim cũ của mình thì lên sóng bình thường là làm sao ạ( sim vina bùm vẫn bình thường(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.878736,
+         "id": "953344",
+         "field_search": "question",
+         "question": "Các ace cho e hỏi.E đang dùng iphone 6 lock đc 1 tháng không hiểu vì tại làm sao tự nhiên lại Không Có Dịch Vụ.Bh thay đổi các loại sim ghép x sim , heicar ... không thể lên sóng và nhận sim đc nữa.E nhờ các cao nhân chỉ giúp cách khắc phục lỗi Không Dịch Vụ ạ.Đã reset cài lại từ ban đầu mà vẫn không thể đc...!Liệu có phải do phần cứng bên trong sim ko ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.425827,
+         "id": "767153",
+         "field_search": "question",
+         "question": "Cho e hỏi lúc trước e có sử dụng iPhone 4s bằng sim ghép , nhưng bây giờ e muốn lấy sim đã ghép ở iPhone 4s sang sử dụng cho 5s phiên bản quốc tế được không ạ , có ảnh hưởng gì không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.0051,
+         "id": "1014984",
+         "field_search": "question",
+         "question": "cho mình hỏi . mình muốn mua sim bên tgdd , bên bạn có đăng ký sim luôn hộ được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.896282,
+         "id": "798856",
+         "field_search": "question",
+         "question": "Qtv ơi cho em hỏi thay màn iPhone 5 lock và mua sim ghép nữa thì hết tất cả bao nhiu ạ ??Shop có thay chứ ạ mà thay thì bao nhiêu là được??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.663069,
+         "id": "1023694",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6 lock nhật có lên ios 11 được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.659515,
+         "id": "879682",
+         "field_search": "question",
+         "question": " ad cho hỏi thế giới di đông có lắp sim ghép ko?hiện tại địa điểm mường ẳng điện biên có hỗ trợ lắp sim ghép ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.64308,
+         "id": "757130",
+         "field_search": "question",
+         "question": " Cho mình hỏi, mình xài iphone 5 lock ios 8.4 giờ mình nâng cấp lên ios 9.2, máy không nhận sim giờ mình phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.52713,
+         "id": "1016839",
+         "field_search": "question",
+         "question": "cho hỏi bên mình có làm lại sim viettel không vâyj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.263252,
+         "id": "858131",
+         "field_search": "question",
+         "question": "Bạn mình bảo . Iphone 4s của anh ấy dùng 2 sim . 1 sim cắt nhỏ . Và 1 sim to bt ở trong máy nhưng chỉ nhận sim nhỏ . Vậy có phải iphone lock không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.138002,
+         "id": "1004818",
+         "field_search": "question",
+         "question": "có bán sim ghép vfsim ko để mở iphone look không?????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.96508,
+         "id": "757083",
+         "field_search": "question",
+         "question": " Ủa cho mình hỏi Iphone 5 Lock có bảo mật tốt giống như Iphone 5 quốc tế không vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.94407,
+         "id": "1018731",
+         "field_search": "question",
+         "question": "bên mình có ip 6 lock không ạ? nếu có thì giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.905634,
+         "id": "1017415",
+         "field_search": "question",
+         "question": "bên mình có bán sim ghép 4g ko ạ... gắn vào máy có sài được 4g ko ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.802547,
+         "id": "811404",
+         "field_search": "question",
+         "question": " SHOP cho mình hỏi, iphone 6 hàng đổi trả bên bạn có thể chuyển từ HCM về vũng tàu được không, vì mình ở vũng tàu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.661451,
+         "id": "1156948",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em có đang dùng iphone 5s block sim ghép.  Hôm trước có nghịch tháo sim ra, h bỏ vô sim báo k nhận. Em có mang ra tiệm thì họ bảo phải  bắt buộc đăng xuất ra icloud ( ,em quên pass mất rồi ) ,nhưng theo em tìm hiểu thì hình như lắp sim ghép k liên quan tới icloud phải k ạ. Và cho em hỏi bên thế giới dy động các anh có hỗ trợ lắp sim ghép k ạ và có cần phải đăng xuất icloud như họ nói k. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.587633,
+         "id": "792997",
+         "field_search": "question",
+         "question": " Cho mình hỏi ios 9.2.1 có bản Jailbreak cho iphone vào ngày 2.26.2016 chưa vậy iphone 5 lock bị mất sim và SMS? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.571669,
+         "id": "805387",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5S hiện tại ở cửa hàng có ghép sim không vậy tại máy mình gửi từ nhật về? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.369501,
+         "id": "788770",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5lock nhật dùng sim ghép bên mình có fix lỗi 3g và kiêm tra tài khoản và lỗi phải có thêm +84 mới gọi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.153744,
+         "id": "785015",
+         "field_search": "question",
+         "question": " Mua iphone 4s cũ có cài đặt sim ghép rồi giờ muốn gỡ bỏ thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.073935,
+         "id": "1143782",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6, 6s bên cửa hàng còn có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.01227,
+         "id": "990445",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iphone 5 bản lock này giờ không hỗ trợ sim trung quốc thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.91757,
+         "id": "899594",
+         "field_search": "question",
+         "question": " Cho hỏi giờ mình có cái iphone từ bên Mỹ về muốn xài sim VN thì ohari làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.865189,
+         "id": "841103",
+         "field_search": "question",
+         "question": " em mới mua iphone 5 mà giờ sim ghép e bị khóa giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.803022,
+         "id": "943694",
+         "field_search": "question",
+         "question": " Mình dùng iphone 6 plus, bạn mình dùng iphone 5, bạn mình tháo sim ra rồi nhưng mình gọi vẫn đổ chuông là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.693203,
+         "id": "826336",
+         "field_search": "question",
+         "question": " Cho mình hỏi, bản iPhone 6s plus bên mình bán là bản lock hay quốc tế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.665947,
+         "id": "781191",
+         "field_search": "question",
+         "question": " Xin chao qtv bên mình có thay mặt kính iPhone không ạ và chỉ cho em hỏi e bị roi iPhone giờ không nhận sim làm sao ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.58347,
+         "id": "1019914",
+         "field_search": "question",
+         "question": "cho e hỏi, e xài iphone 6 ios10.3.3 restore lại có thành iphone lock ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.55418,
+         "id": "1168231",
+         "field_search": "question",
+         "question": "Ad cho hỏi mình dùng iphone 6 lock. Giờ đt rất lác giật. Cho hỏi nếu chạy lại chương trình thì đt có nhận sim ghép không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.511421,
+         "id": "1006167",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi bên mình có USB 3g để bỏ sim dùng cho máy tính latop ko ah? nếu có giá bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.331789,
+         "id": "772668",
+         "field_search": "question",
+         "question": "Anh or chị cho em hỏi hiện tại em đang dùng iPhone 5S lock nhật em không dùng được sim điện thoại tại nước mình bây giờ em phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.289469,
+         "id": "1165025",
+         "field_search": "question",
+         "question": "cho mình hỏi bên bạn có cảm ứng của điện thoại xiaomi mi 6 không. điện thoại mình đang dùng mà cảm ứng không lướt được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.191828,
+         "id": "781788",
+         "field_search": "question",
+         "question": " Mình mới mua cái iphone 6.iphone 6 có phát được wifi cho máy tính ko bạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.180418,
+         "id": "836458",
+         "field_search": "question",
+         "question": "chào bạn! mình dùng iphone 6 nhưng thấy đt rất nhanh sụt pin bạn cho mình hỏi có cách nào khắc phục không vây!Mình cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.17712,
+         "id": "805964",
+         "field_search": "question",
+         "question": " Bạn ơi cho hỏi Giá iPhone 5 bên mình là bao nhiu ! Có Trả góp không ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.036148,
+         "id": "775923",
+         "field_search": "question",
+         "question": " Lam sao để biết iPhone 6 em đang dùng mạng sim gì vậy anh chi? Vì iPhone của em bản lock? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.968541,
+         "id": "804668",
+         "field_search": "question",
+         "question": " iPhone 6 của em nó không nhận sim cho em hỏi đó có phải là nhà mạng không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.927489,
+         "id": "986534",
+         "field_search": "question",
+         "question": " Chào Shop, cho em hỏi bên mình còn bán iPhone 6 Plus 64Gb không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.635016,
+         "id": "867998",
+         "field_search": "question",
+         "question": "Mình có iphone 5c mua tại thế giới di động tuy nhiên đã hết hạn bảo hành, nay bị hỏng ổ sim và khay sim (Không nhận sim và không lấy khay sim ra được) vậy cho mình hỏi bên bạn hỗ trợ gửi lên hãng fpt sữa được không và phí hết bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.608117,
+         "id": "1161683",
+         "field_search": "question",
+         "question": "Cho mình hỏi thay pin Iphone 6 không plus thì mức giá như thế nào bạn ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.594908,
+         "id": "1158583",
+         "field_search": "question",
+         "question": "Mình tên Thiện xin hỏi ad hệ điều hành IOS có app nào viết from chử tiếng việt đẹp để ghép vào ảnh không? Mình sử dụng iphone 6 Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.569407,
+         "id": "956915",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone 6 lock của mình đang ở ios 9.3Mình muốn đặt lại tất cả cài đặt dòng 2 thì có bị nâng lên ios 10.2.1 không ạ?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.486301,
+         "id": "958418",
+         "field_search": "question",
+         "question": " cho em hởi bên mình có thay pin iphone 6 không ạ.giá như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.447627,
+         "id": "1016680",
+         "field_search": "question",
+         "question": "cho mình hỏi bên tgdd có sửa phần này  ko  custom binary blocked by fap lock custom binary blocked by fap lock  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.395943,
+         "id": "897918",
+         "field_search": "question",
+         "question": " Chào bạn! Mình muốn chèn hình ảnh vào màn hình khóa của iphone 6, nhưng không làm được, bạn chỉ mình cách làm với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.354858,
+         "id": "995183",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi, bên bạn có sản phẩm bàn phím máy tính không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.308392,
+         "id": "765170",
+         "field_search": "question",
+         "question": " Bạn ơi. Cho mình hỏi bên thế giới di động mình có hạ ios không bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.2755575,
+         "id": "760918",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, hôm trước mình mua iPhone 6 64gb ở cữa hàng khác mà giờ mình muốn đổi sang iPhone 6 16gb thì bên TGDD có chính sách gì không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.246372,
+         "id": "825583",
+         "field_search": "question",
+         "question": "Xin chào các bạn qtv. Mình có một máy iphone 6 plus hàng bên Mỹ gởi về, xin hỏi bên tgdd có nhận cấu hình máy không. Mong nhận được sự giúp đỡ. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.235182,
+         "id": "786177",
+         "field_search": "question",
+         "question": "Tgdđ cho mình hỏi mình dùng iphone 6. Sáng nay có làm rơi xong giờ cầm điện thoại lắc có tiếng kêu lạch cạch bên trong. Vậy là máy mình bị làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.111879,
+         "id": "1004288",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên bạn có bán ổ cứng di động cho iphone không bạn?, nếu có thì dung lượng khoảng bao nhiêu GB, Nếu được cho mình cái link sản phẩm nhé!!!Thanks!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.101863,
+         "id": "759194",
+         "field_search": "question",
+         "question": "Cho mình hỏi , mình muốn bán 1 chiếc iphone 6 plus 64gb màu trắng , máy còn mới nguyên chưa 1 vết xước , bên bạn có mua lại không ? Và mua lại trong khoảng tầm bao nhiêu tiền vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.096964,
+         "id": "779860",
+         "field_search": "question",
+         "question": " Mình muốn ghép đôi iPhone 5s với điện thoại android thì làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.075995,
+         "id": "1134749",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn thay pin điện thoại iphone 5, cửa hàng bên các bạn có dịch vụ này không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.000098,
+         "id": "793617",
+         "field_search": "question",
+         "question": " cho e hỏi bên tgdd có bán iPhone 6 cũ k, có trả góp đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.961,
+         "id": "989153",
+         "field_search": "question",
+         "question": "Cho mình hỏi imeil này có phải bên bạn không nha 864212033739257",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.959162,
+         "id": "1011578",
+         "field_search": "question",
+         "question": "Cho hỏi ở bên bạn có bảo hành samsung mình mua ở bên khác không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9537325,
+         "id": "782489",
+         "field_search": "question",
+         "question": " Cho em hỏi bên cửa hàng có bán hàng like new iPhone 6 16gb không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.936143,
+         "id": "1019140",
+         "field_search": "question",
+         "question": "Cho e xin hỏi hiện e đang bên cambodia và e có đang xài sim metfone bên đây,xin cho hỏi e làm sao để sim e có thể gọi và nt cho việt nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.916319,
+         "id": "783291",
+         "field_search": "question",
+         "question": "Ad cho em ? tại sao kiểm tra imei lại có dòng cuối cùng ghi sim lock check sim lock là sao ạk nhờ anh kiểm tra hộ em vs iPhone 5S 32GB Gold IMEI: 358759053370390 Serial Number: F2LLM7B1FFFN Telephone Technical Support: Expired Repairs & Service Coverage: Expired Carrier:  Blacklisted:  SIM Lock: ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.852095,
+         "id": "763622",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình lắp sim thỉnh thoảng mới nhận. Còn không cứ báo mạng không khả dụng. Về nhà mình thì lại có. Ra ngoài đường. Quanh xã cũng không có mạng khả dụng là sao ạ. Jup mình với iPhone 4S ạ. Mình mua cũ nên không hỏi lock hay quốc tế. Nhưng sim nào cũng nhận. Thanks Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.848291,
+         "id": "799567",
+         "field_search": "question",
+         "question": " Cho mình hỏi. Mình đang dùng iPhone 5. Tự nhiên máy không nhận sim thì làm thế nào... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.835169,
+         "id": "752274",
+         "field_search": "question",
+         "question": "Mọi người kiểm tra dùm emei iphone 6+ này là Lock hay world vậy, và dùng được sim nào ở VN, restore lại máy có bị thành cục gạch không??Emei: 354435068712363",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.78582,
+         "id": "756059",
+         "field_search": "question",
+         "question": "Máy mình sử dụng các nhà mạng được hết, máy không dùng sim ghép, mình sử dụng iPhone 4s, vậy mình muốn restore lên bản 9.2 , vậy có bị khóa mạng hay không? Thanks Quản trị viên. Hóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.777451,
+         "id": "1003641",
+         "field_search": "question",
+         "question": "Mình có chiếc iphone 5s bị không nhận sim bên mình có sửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.715698,
+         "id": "751477",
+         "field_search": "question",
+         "question": " Cho em hỏi em muốn mua sim ghép với cài đặt ip5s mang từ nhật về thì chi phí hết bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.677074,
+         "id": "988845",
+         "field_search": "question",
+         "question": "bạn mình mới mua cho mình tai nghe có cái hộp xoắn dây vô cho khỏi bị rối, mà mình làm mất cái hộp rồi, bên bạn có bán cái hộp không không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.6759815,
+         "id": "1150343",
+         "field_search": "question",
+         "question": "Bên cửa hàng có sạc không dây cho iPhone 8 không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.657039,
+         "id": "777874",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình từ hôm qua đến giờ không nhận sim. Máy cứ báo đang tìm kiếm or là không có dịch vụ. Lắp sim vào máy khác vẫn bình tthuòng. Mình đã cài đặt gốc rồi vẫn không được. Máy mình là iPhone 6 plus. Cho hỏi máy mình bị sao vậy. Sửa có lâu không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.650572,
+         "id": "743990",
+         "field_search": "question",
+         "question": " Admin ơi ! Cho e hỏi bên mình có bẻ khóa iCloud của iPhone 6 ko? Giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.623147,
+         "id": "743657",
+         "field_search": "question",
+         "question": "Anh chị qtv ơi. cho em hỏi, điện thoại iPhone của e. khi check imei thì hiện dòng : Check SIM lock mà máy nhận cả sim viettel với sim vinaphone . vậy iPhone của em là bản quốc tế phải không anh nhị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.565796,
+         "id": "762361",
+         "field_search": "question",
+         "question": "AD cho hỏi mình mới mua con iPhone 5S tại Thegioididong.com1. Nhưng có mã sản phẩm là xxxxVN/A là sao AD?2. Là Sim Lock = Unknow? why not = Unlocked ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.553722,
+         "id": "1004957",
+         "field_search": "question",
+         "question": "em có gọi video cho bạn mình nhưng bên kia không nghe thấy thì phải làm sao ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.529989,
+         "id": "790758",
+         "field_search": "question",
+         "question": " Tgdđ có fix lỗi iphone 6 plus lock được không ạ? Và bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.529181,
+         "id": "769389",
+         "field_search": "question",
+         "question": " Bạn cho hỏi trường hợp tớ bị quên mật khẩu mở máy cho iPhone 6 plus thì làm thế nào? giúp tớ với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.513565,
+         "id": "751178",
+         "field_search": "question",
+         "question": " Cho em ? Bên mình có restore iphone 6 không ạ. Em restore mà bị treo logo kết nối itunes? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.474596,
+         "id": "1136363",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn xài cả 2 sim  thẻ nhớ trên Xiaomi note 6 pro thì phải làm sao ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.427822,
+         "id": "779095",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên bạn có nhận thay vỏ laptop Sony vaio svf1421QSG không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.427822,
+         "id": "1001907",
+         "field_search": "question",
+         "question": "Bạn cho hỏi bên mình có bán pin điện thoại Galaxy S4 không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.394597,
+         "id": "1017833",
+         "field_search": "question",
+         "question": "Bạn cho hỏi bên bạn có huawei P10 không? giá bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.357915,
+         "id": "1009866",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên tgdd còn bán sim 4g viettel không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.356407,
+         "id": "770850",
+         "field_search": "question",
+         "question": "  Ad cho em hỏi cái làm sao để biết iPhone quốc tế và iPhone Lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.275223,
+         "id": "1140401",
+         "field_search": "question",
+         "question": "Đâu cho mình hỏi bên bạn có hạ phần mềm ios xuống được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.259857,
+         "id": "805286",
+         "field_search": "question",
+         "question": " Cho tôi hỏi tgdd có thể fix lỗi iphone 5 lock không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

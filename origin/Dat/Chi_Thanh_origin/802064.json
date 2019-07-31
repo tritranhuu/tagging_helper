@@ -1,0 +1,801 @@
+{
+   "id_query": "802064",
+   "total": 29377,
+   "total_current": 100,
+   "max_score": 61.622837,
+   "origin_question": " Làm sao nhập tên Zalo của người ây vào Zalo mình được xin chỉ giùm em? ",
+   "hits": [
+      {
+         "score": 39.803688,
+         "id": "802070",
+         "field_search": "question",
+         "question": " Làm sao nhập tên của người ấy vào Zalo được mong giải đáp lẹ giùm cái? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.487118,
+         "id": "844359",
+         "field_search": "question",
+         "question": " Chào Ad...Mình muốn đổi tên của một người bạn của mình trong zalo, theo ý mình thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.081507,
+         "id": "1166691",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi Zalo của mình sdt mực khẩu điều đúng tại sao ko vô dc sdt Zalo này mình bị mất rồi zay làm sao vào Zalo của mình dc đây xin chỉ đùm cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.886805,
+         "id": "864904",
+         "field_search": "question",
+         "question": "Làm sao để tạo status dưới tên tài khoản??tôi thấy nhiều người trong frendlist có dòng status chạy dưới tên tài khoản zalo...xin hướng dẫn dùm mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.868952,
+         "id": "1138904",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao zalo em lại thông báo có người khác đăng nhập trên thiết bị khác và bị đổi tên vậy ạ? Đổi tên em thành tên người đó và khi e đăng nhập lại thì bị mất hết dữ liệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.817236,
+         "id": "806908",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, trong danh bạ điện thoại em không lưu số của người này và họ đã add em trong zalo. Nhưng sau 1 thời gian em không còn thấy tên người này trong danh bạ zalo nữa. Vậy thì có phải người này đã không chơi zalo nữa phải không ạ? hay em đã bị người đó chặn nên không còn thấy tên người này nữa. Mong ad giải đáp giùm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.514702,
+         "id": "812339",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm thế nào để xóa tên zalo của người sử dụng sim trước khi mình sử dụng ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.322363,
+         "id": "939255",
+         "field_search": "question",
+         "question": " Làm cho zalo trên android của mình không hiện tên làm sao v ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.152962,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.60722,
+         "id": "847624",
+         "field_search": "question",
+         "question": "Ad ơi có thể đăng nhập một tài khoản zalo trên hai máy tính cùng một lúc không?. Tại sao trên zalo có mục quản lý danh sách các máy tính đăng nhập mà mìn thấy chỉ đăng nhập được một máy nhỉ.Mình đăng nhập zalo của người yêu bằng máy tính của mình để mình kiểm tra a ấy, nhưng khi người yêu mình cũng đăng nhập trên máy tính thì máy của mình toàn bị thoát ra. Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.192558,
+         "id": "799368",
+         "field_search": "question",
+         "question": " Ai vào zalo của mình phải không mọi người..!!!!!!!!!!!!!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.12319,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.92883,
+         "id": "958099",
+         "field_search": "question",
+         "question": "Mình nghĩ zalo nên thêm phần thay đổi số điện thoại giống facebook đi chứ. Một ngày nào đó người ta quên mật khẩu mà số điện thoại đăng kí đã bị mất và có ngươif khác sử dụng. Zalo chơi mấy năm liền. Không may có kẻ xấu vào zalo của người khác lừa đảo làm phiền bạn bef trong khi ních zalo là của mình.Hoặc khách hàng gọi tới tổng đài nhờ cho biết mã khóa vừa được gửi đến từ sim ấy thì cũng có khó khăn gì đâu ạ. Hôm qua em vừa vào được zalo. Có người vào zalo của em. Em vào lại thì mật khẩu không đúng. E cũng không hiểy zalo làm sao nữa. Tư vấn khách hàng thì chả ra làm sao. Em góp ý vậy ạ. Và giờ e muốn xóa tk zalo kia thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.767086,
+         "id": "790240",
+         "field_search": "question",
+         "question": " Điện thoại iPhone 4 cdama bỏ sim vào được không xin hỏi có gì mong mọi người chỉ giùm? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.321447,
+         "id": "884011",
+         "field_search": "question",
+         "question": " Lỗi 2027 đăng nhập vào Zalo ko dk thì làm sao,mọi ng giúp mình voi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.25643,
+         "id": "769400",
+         "field_search": "question",
+         "question": "Mình kg gửi lời kết bạn zalo với người khác, nhưng tại sao trên danh sách zalo của mình lại có nick zalo người đó ? Do người đó lưu số đt của mình rồi tự đồng bộ zalo hay là lý do gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.08887,
+         "id": "1004556",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đã xoá bạn trên zalo, sau đó mình đổi tên tài khoản zalocủa mình, vậy người đó có tìm lại đuợc tài khoản zalo của mình ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.009253,
+         "id": "799833",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao nhập tk zalo của gấu vào đt thì trong zalo của gấu k có tn nào?? Và có cách nào để xem tn zalo của gấu trên đt của mình k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.945274,
+         "id": "844792",
+         "field_search": "question",
+         "question": "mình tuyển admin cho zalo page của mình . người đó xóa mình khỏi quản trị viên của chính page mình .làm sao để mình lấy lại duocjd zalo page của mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.847878,
+         "id": "1141644",
+         "field_search": "question",
+         "question": "Lúc mình mới tạo Zalo, thì sđt của người ấy không ở trong danh bạ zalo của mình, và mình vs người ấy cũng không phải là bạn trên zalo. Nhưng khoảng 1-2 tuần sau, người ấy xuất hiện trong danh bạ và là bạn trong zalo của mình, mặc dù mình và người ấy không kết bạn vs nhau. Tại sao vậy ah?_MÌnh chỉ lưu sdt người ấy trong điện thoại thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.821844,
+         "id": "836564",
+         "field_search": "question",
+         "question": "Khi nhập số điện thoại vào để đăng nhập zalo tôi nhập các số nhưng không thấy hiển thị (không nhập được) vậy thì phải làm sao?Trước khi có trường hợp trên zalo của tôi vẫn đang hoạt động bình thường nhưng khi nhập kí tự viết tin nhắn thì không nhập được, sau đó tôi gỡ zalo và cài lại thì không nhập được số điện thoại vào để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.769268,
+         "id": "833698",
+         "field_search": "question",
+         "question": "Tại sao em đăng nhập zalo trên máy tính mà màn hình cứ hiển thi không lấy được thông tin người dùng và bắt đóng ứng dụng zalo là làm sao ạ??? Tối hôm trước em vẫn đăng nhập được bình thường ạ... Rất mong được giải đáp...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.749071,
+         "id": "993510",
+         "field_search": "question",
+         "question": "Cho mình hỏi .Sao mình không tải được ứng dụng zalo trên IP4 thường,Vào appstore thì máy bảo chỉ tải được trên iOS 8. .Vậy có cách nào để mình tải ứng dụng zalo về không nhĩ ! Có gì mọi người chỉ mình với nhé !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.555248,
+         "id": "1015743",
+         "field_search": "question",
+         "question": "Mình muốn hỏi làm sao để xem được trạng thái và cập nhật của người khác trên zalo máy tính ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.540474,
+         "id": "838237",
+         "field_search": "question",
+         "question": "zalo trên điện thoại mình báo có một máy tính khác đang đăng nhập vào tk zalo này của mình mà mình k hiểu vì sao, trong khi đt chỉ mình mình sử dụng, mà cũng k nhận được tin nhắn báo mật khẩu để sử dụng trên máy tính. Thế là sao? Mình muốn hỏi thêm là chưa bao giờ mình đăng nhập zalo trên máy tính, vậy lần đăng nhập đầu tiên trên máy tính của người đó liệu có xem được toàn bộ các cuộc trò chuyện của mình trước đó không? Mình đang rất lo, vì toàn những thông tin quan trọng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.5217,
+         "id": "808369",
+         "field_search": "question",
+         "question": " E dùng sky a840s, sao zalo của em dưới tên zalo của bạn bè không thấy báo đang truy cập hay đẫ truy cập ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.417067,
+         "id": "810054",
+         "field_search": "question",
+         "question": " Chi dùm e cách xem tin nhắn zalo của người khác khi dăng nhập đươc vào njk cua ho rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.303991,
+         "id": "850131",
+         "field_search": "question",
+         "question": " Zalo của mình bị khóa tài khoản bây giờ mình đăng nhập lại được nhưng không nhận được tin nhắn thì phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.26216,
+         "id": "799092",
+         "field_search": "question",
+         "question": "Cho hỏi hiện tại zalo của mình được đăng nhập vào 1 laptop của người yêu mình và một dt của mình. vậy khi mình nt trên dt xong mình sóa đi trên laptop còn hiện hk vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.235596,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.225626,
+         "id": "946270",
+         "field_search": "question",
+         "question": " Sao zalo của em khi người ta gửi yêu cầu kết bạn em nhận được thông báo mà không vào trả lời yêu cầu đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.026579,
+         "id": "803755",
+         "field_search": "question",
+         "question": "TK Zalo của em tạm thời bị khóa.em không làm gì ảnh hưởng đến quy định khi dùng Zalo.em ko dùng zalo 1 ngày rồi em mở Zalo thì thấy phải đăng nhập,bình thường e mở Zalo là vào luôn,em nhập thì thông báo TK bị tạm khóa.Anh chị giải đáp cho em vấn đề này được không ạ? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.984613,
+         "id": "817143",
+         "field_search": "question",
+         "question": " Tại sao không xem được ảnh của người khác trên zalo. Trước đó mình vẫn xem được ảnh của họ. Có phải người đó chặn mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.877592,
+         "id": "835005",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu mình và người kia đã từng kết bạn zalo, nay mình đã hủy kết bạn. Sau đó mình vẫn xem được ảnh, không xem được nhật ký của người đó dù không phải bạn bè zalo nữa. Nhưng hôm nay phần ảnh cũng chỉ còn là (0). Mình dùng zalo của đồng nghiệp tìm nick và xem cũng như vậy. Liệu mình có bị người đó chặn zalo? Hay là người đó đã xóa bỏ hoàn toàn ảnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.686224,
+         "id": "825668",
+         "field_search": "question",
+         "question": "Hình ảnh trên Zalo của em bị người khác lấy và tạo tài khoản mới rồi lấy đăng hình em và đăng bậy bạ e phải làm sao để khoá nick Zalo người đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.668367,
+         "id": "821786",
+         "field_search": "question",
+         "question": " Tại sao tài khoản Zalo .01225964xxx1 của tôi không đăng nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.660486,
+         "id": "1154155",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu như zalo đăng nhập dc vào 2 cái dt v làm cách nào để đăng xuất zalo của mình ra khỏi dt kia mà kg cầm dt kia đăng xuất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.62019,
+         "id": "833696",
+         "field_search": "question",
+         "question": "Tài khoản Zalo của tôi đang kết nối giữa pc và iPhone rất tiếc - không biết tại sao tự nhiên PC không đăng nhập vào Zalo được nữa - iphone vẫn đăng nhập bình thường - khi PC đăng nhập Zalo thấy hiện dòng chữ: không có kết nối kiểm tra đường truyền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.570293,
+         "id": "1153761",
+         "field_search": "question",
+         "question": "Trong ứng dụng zalo, tôi sử dụng tính năng ẩn trò chuyện, nhg khi cuộc gọi zalo (của người ẩn )đến vẫn đổ chuông. Xin hỏi làm thế nào ( k muốn chặn hoàn toàn) mà chỉ muốn ẩn tin nhắn và k đổ chuông cuộc gọi zalo. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.44395,
+         "id": "910814",
+         "field_search": "question",
+         "question": " Trên zalo mình muốn tải stick  nhoi cùng wel yo ma zalo báo là chỉ giới hạn cho một số người dùng la sao nhỉ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.402716,
+         "id": "805988",
+         "field_search": "question",
+         "question": " Em cũng không biết làm sao có thể xoá hình zalo được hãy chỉ em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.3881,
+         "id": "1136526",
+         "field_search": "question",
+         "question": "Mình xoá vị trí zalo tránh làm phiền 1 ngày , không bật lại nữa mà sao vẫn nhận được lời kết bạn quanh đây. Mọi người chỉ em với, nó quá phiền với em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.12005,
+         "id": "1135256",
+         "field_search": "question",
+         "question": "Muốn đăng nhập 2 nick zalo trên laptop ausus làm sao em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.07157,
+         "id": "935580",
+         "field_search": "question",
+         "question": "A ơi e bị người ta vào tài khoản zalo đời làm sao đó bị : tài khoản của bạn bị khóa đáng yêu cầu xóa tài khoản. H e phải làm sao a.e vẫn còn sdt đk của e a làm ơn chỉ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.032816,
+         "id": "800826",
+         "field_search": "question",
+         "question": " Cho em hỏi nếu quên mật khẩu Zalo mà số điện thoại đăng nhập Zalo đã bị mất thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.029863,
+         "id": "813610",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi sim mobi của em lâu rồi không dùng chỉ để sử dụng zalo thôi, nhưng tại bữa nay em bấm nhầm gì đó thoát khỏi zalo, giờ em đăng nhập lại không được, tại không nhớ mật khẩu, lấy sim đăng ký tài khoản nhắn tin thì báo là không khả dụng, vậy em phải làm sao để lấy lại được mật khẩu zalo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.002218,
+         "id": "1140807",
+         "field_search": "question",
+         "question": "sao zalo của mình không mở được tin nhắn vậy?nó chỉ hiện một khung màu trắng bên cạnh như vậy. ấn chuột vào tin nhắn mà không mở được thì làm thế nào ?mong ad chỉ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.974293,
+         "id": "837507",
+         "field_search": "question",
+         "question": "Cho em hỏi, nếu mình xoá tên một người nào đó trong danh bạ Zalo thì người đó k thể gọi hay nhắn tin cho mình nữa phải k ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.964523,
+         "id": "901715",
+         "field_search": "question",
+         "question": "Tại sao tài khoản zalo của em tự nhiên bị khóa mà em đăng nhập vào thì nó để là mật khẩu không đúng,,,,,,em đăng ký thì cũng không được,,,,để là sđt đã được đăng ký cần nhập mật khẩu,,,,,,,,như vậy em phải làm sao,,,,,,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.906986,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.890633,
+         "id": "773693",
+         "field_search": "question",
+         "question": "QTV cho em hỏi cái Oppo neo 7 của em vô zalo bấm dô phần kết bạn qua facebook sao nó để kết quả không phù hợp là sao vậy mong QTV chỉ giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.80909,
+         "id": "1016975",
+         "field_search": "question",
+         "question": "Zalo của tôi gọi điện thoại, nhắn tin được nhưng không đăng ảnh và gửi được ảnh mặc dù tôi đã làm các thao tác như kiểm tra kết nối mạng, đăng suất nhập lại tài khoản zalo, vào ứng dụng xóa bộ nhớ, đăng nhập lại ảnh nhiều lần ,kiểm tra đồng hồ giờ nhưng vẫn không được. Xin hãy giúp tôi  !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.717407,
+         "id": "1020956",
+         "field_search": "question",
+         "question": "mình mới mua cái sim mới và cái sim đó đã được người khác đăng ki zalo, mình muốn đăng kí zalo của mình với số điện thoại đó có được ko, nếu được thông tin của mình có bị người cũ truy cập không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.638374,
+         "id": "1140364",
+         "field_search": "question",
+         "question": "Tại sao tên trong zalo lại không cập nhật như tên trong danh bạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.635376,
+         "id": "922676",
+         "field_search": "question",
+         "question": "Tại sao không thể đăng nhập zalo, facebook trên điện thoại của em. Trong khi đó có thể đăng nhập trên một thiết bị khác ạ. Xin giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.569971,
+         "id": "1153547",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi khi mình bật mạng lên thì zalo tự đăng nhập. mình thoát zalo rồi nhưng chạm vào ứng dụng vẫn còn. giúp mình đăng nhập zalo thủ công chứ khong mặc định với. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.562885,
+         "id": "872561",
+         "field_search": "question",
+         "question": " Số đt0963342489 tôi bỏ rồi sao số đt khác vẫn vào Zalo được, tôi muốn xoá Zalo làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.55174,
+         "id": "851312",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao có người lại dùng đươc nic zalo của mình đẻ nhắn tin cho bạn mình trong khi đó mình vẫn đang truy cập mà điện thoại của mình sử dụng mật khẩu và cũng không cho ai mượn may. Bạn có thể cho mình biết làm thế nào để biết chắc chắn níc zalo của mình có người khác truy cập vào hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.53907,
+         "id": "809343",
+         "field_search": "question",
+         "question": "Đt mih vừa wa thế giới di động sửa, bạn kỹ thuật xóa zalo và tải zalo khác cho miu. Mih về k đăng nhập vào zalo đc, kích vào quên mật khẩu thì zalo báo đã quá số lần lấy mã 24h nữa mới lấy lại đc. Zờ mih fải làm thế nào để vào zalo đc vì cv của mih zất cần zalo. Zúp mih với, cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.469187,
+         "id": "809670",
+         "field_search": "question",
+         "question": "Mình đã gửi kết bạn trên zalo, ng đó không chấp nhận, vậy làm các nào để người đó không vào xem đc nhật kí, ảnh của mình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.467627,
+         "id": "1158965",
+         "field_search": "question",
+         "question": "Danh bạ điện thoại vẫn còn nhưng chỉ hiện kết nối zalo khi người trong danh bạ gọi mình không hiện tên nữa chỉ hiện số. Vô danh bạ ấn tên thì mấy mấy icon nhắn tin gọi điện là như nào nhỉ thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.402147,
+         "id": "1010431",
+         "field_search": "question",
+         "question": " Tại sao tôi không dẫn nhập vào zalo của mình đc mà cứ để thiết bị bán dẫn dùng ko đc hỗ trợ 2028  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.37154,
+         "id": "864077",
+         "field_search": "question",
+         "question": "Mình có kb trên zalo những người đó không đồng ý mà cũng không xóa bây h mình không thể kb thêm vì zalo báo đã quá số người gì đấy, mình phải làm sao đây... Mà zalo sau bao lâu mới tự hủy kb vậy??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.301962,
+         "id": "889806",
+         "field_search": "question",
+         "question": " cho mình hỏi vì sao zalo của mình không tải được những hình động của zalo máy khác gửi tới ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.20615,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.174578,
+         "id": "935222",
+         "field_search": "question",
+         "question": " Em bị khóa zalo vì nhập sai nhiều lần đến 2027 e phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.140465,
+         "id": "801034",
+         "field_search": "question",
+         "question": "Cho em hỏi tí ạ. trong danh bạ của em không còn tên của người đó nữa, nhưng gửi tin nhắn, thì nó thông báo là hiện tại người này chưa dùng zalo có nghĩa là sao ạ, nhưng lúc sau nó vẫn ghi là đã gửi, bạn này đã nửa tháng không dùng zalo rồi ạ, giúp em với ạ, em đang cần gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.126484,
+         "id": "801372",
+         "field_search": "question",
+         "question": "Zalo của em dạo gần đây hay bị hết phiên truy cập, phải đăng nhập lại. Có một lần đăng nhập lại xong là mất hết tin nhắn, chỉ chừa lại với vài người thôi. Hình ảnh đã chia sẻ cũng mất. Trang cá nhân vẫn còn đầy đủ. Cho em hỏi làm sao để khắc phục việc bị hết phiên truy cập ạ? Tin nhắn bị mất như có lấy lại được không? Em chỉ xài Zalo trên điện thọai thôi. Điện thọai em là HTC Desire 526g.Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.045986,
+         "id": "835994",
+         "field_search": "question",
+         "question": "Zalo của em bị người khác xâm nhập rồi đổi mật khẩu luôn, họ lên đó nhắn tin bậy bạ, em không thể quản lý tài khoản đó được nữa, giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.044888,
+         "id": "827152",
+         "field_search": "question",
+         "question": " Máy của em bị lỗi ngày tháng trên điện thoại khi đăng nhập vào zalo thì ko đc cho em hỏi khắc phục sao vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.974314,
+         "id": "904830",
+         "field_search": "question",
+         "question": "Em muốn đăng nhập zalo pang sdt người yêu để theo dõi cô ấy chút xíu mak k có mật khẩu kung k thể hồi mật khẩu được.có cách nào đăng nhập bằng số điện thoại người ý xem tin nhắn được k z.mn pít chỉ giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.974173,
+         "id": "855558",
+         "field_search": "question",
+         "question": "Em muốn tải zalo trên PC bằng ứng dụng BlueStacks nhưng lúc cài đặt báo lỗi xác thực, cần đăng nhập vào tài khoản Google của mình. Là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.971024,
+         "id": "1138468",
+         "field_search": "question",
+         "question": "Tại sao số sim mình mới mua lại có tài khoản zalo của người khác. Giải thích đi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.951761,
+         "id": "811128",
+         "field_search": "question",
+         "question": " Cách lấy lại mật khẩu Zalo số điện thoại bị mất làm sao lấy lại được chỉ giúp em  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.939007,
+         "id": "935225",
+         "field_search": "question",
+         "question": " Em bi khóa zalo vì nhập sai mật khẩu quá nhiều lần 2027 em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.896856,
+         "id": "819186",
+         "field_search": "question",
+         "question": " Zalo của mình bị hack nên bị mất hết ảnh giờ làm sao mình lấy lại ảnh được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.892395,
+         "id": "828592",
+         "field_search": "question",
+         "question": "Cho e hỏi. Điện thoại e không thông báo tin nhắn zalo, thì làm sao ạ. E đã làm theo mấy cách trên mạng chỉ mà cũng không được. Xin chỉ giúp e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.885078,
+         "id": "1161398",
+         "field_search": "question",
+         "question": "Cho em hỏi sao oppo f9 của em không gọi hay nt sms được mà chỉ gọi qua zalo được thôi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.828035,
+         "id": "1005497",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao con ip 5s của mình gọi video call trên zalo hay mesenger, mình nói người ta không nghe mà người ta nói lại thì mình nghe. Mong bạn chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.805403,
+         "id": "1163295",
+         "field_search": "question",
+         "question": "Xin hướng dẩn giúp mình khi cập nhật zalo gặp tiếng nhật thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.780767,
+         "id": "819187",
+         "field_search": "question",
+         "question": " Zalo của mình bị hack nên bị mất hết ảnh giờ làm sao mình lấy lại ảnh được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.772186,
+         "id": "910991",
+         "field_search": "question",
+         "question": " Tôi đăng nhập vào zalo, nhưng không vào được và báo mã lỗi112? Cách khắc phục? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.683027,
+         "id": "969058",
+         "field_search": "question",
+         "question": " MÌNH QUÊN MẬT KHẨU ZALO NHƯNG SỐ ĐIỆN THOẠI ĐĂNG KÍ KHÔNG PHẢI SỐ MÌNH LÀM SAO LẤY LẠI Zalo được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.681204,
+         "id": "893876",
+         "field_search": "question",
+         "question": "Cho e hỏi là tình trạng là cái zalo e sao tự nhiên nó không thông báo khi có tin nhắn tới nào vào zalo nó mới thấy, xin bên tgdd chỉ e cách khắc phục ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.669615,
+         "id": "809765",
+         "field_search": "question",
+         "question": "Chào ad, cho mình hỏi khi bị người khác chặn zalo của mình, thì họ có thể xem được bình luận của mình trên ảnh của họ không. Bình luận sau khi họ đã chặn zalo mình nhé. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.628702,
+         "id": "1141518",
+         "field_search": "question",
+         "question": "Cùng trên zalo, nhưng không kết bạn thì người khác có đọc được nhật ký của mình không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.611773,
+         "id": "831925",
+         "field_search": "question",
+         "question": "em đang dùng Iphone 6, cứ mỗi lần tắt wifi, 3g rồi bật lên lại hoặc chuyển vùng dữ liệu thì zalo cũng bị out luôn và phải đăng nhập lại, tin nhắn của một số người gửi tới trong khi zalo e đang off khi đăng nhập lại cũng không nhận được luôn, e phải khắc phục sao ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.611746,
+         "id": "863271",
+         "field_search": "question",
+         "question": "Xin chào!Tôi cài zallo trên máy tính hdh win 10,dù đã ghi nhớ đăng nhập nhưng mổi làn mở máy zalo đều đòi đăng nhập,xin chỉ cho cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.60062,
+         "id": "953293",
+         "field_search": "question",
+         "question": " Em đăg nhập zalo mà báo lỗi 502 hoài.phải làm như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.589663,
+         "id": "802184",
+         "field_search": "question",
+         "question": " Em dùng Samsung J5 mà bắt được wifi nhưng không vào được mạng chỉ nhắn tin được trên zalo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.569632,
+         "id": "806689",
+         "field_search": "question",
+         "question": "Em bị người ta chặn zalo cũng hơn 1 tháng. 10 ngày em không lên lại zalo. Hôm nay em lại tự nhiên báo là người đó đag sử dụng zalo hãu gửi tin nhắn là sao ạ. Là người ta bỏ chặn em phải không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.543766,
+         "id": "914730",
+         "field_search": "question",
+         "question": " Cho e hỏi zalo của e chỉ 2 ngày k vào,khi vào thì lạ thông báo bị khóa, h e phải làm sao khi sim e bị khóa lâu rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.539606,
+         "id": "874453",
+         "field_search": "question",
+         "question": "Tại sao vào zalo của người khác lại không xem được ảnh vậy. Vào rất nhiều nick để xem ảnh đều hiện thị không có ảnh. Mà người đó lại k chặn minh xem nhật kí hay gì hết .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.506523,
+         "id": "1140884",
+         "field_search": "question",
+         "question": "Cho mình hỏi có người gửi kb trên zalo cho mình nhưng lát mình vô xem lại thì mất hết là tại sao vậy làm sao để xem lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.426594,
+         "id": "799861",
+         "field_search": "question",
+         "question": "Cho e hỏi, tại sao e đăng stt zalo nhưng những ảnh đó lại tự động gửi cho 1 người mà e vào phần tin nhắn zalo với người đó thì không thấy gửi. Có phải điện thoại em bị theo dõi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.404425,
+         "id": "862093",
+         "field_search": "question",
+         "question": "Em mới mua sim ở tgdđNhưng khi về đăng kí thì bảo số này đã đk zalo rEm vào zalo ních em nhập sdt mới mua thì thấy cí một ních đã và đang xài trên chính sdt của emVậy. Là. Sao. Qtv.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.35957,
+         "id": "797578",
+         "field_search": "question",
+         "question": " Tại sao khi đăng nhập zalo vào điện thoại khác lại không đọc được tn, có cách nào đọc được không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.280794,
+         "id": "838897",
+         "field_search": "question",
+         "question": "Sao zalo của mình đúng số đúng mật khẩu mà ko vào đc ạ. số đó là số việt nam giờ mình ko ở việt nam nữa nên bỏ số điện thoại đó đi rồi có phải vì vậy mà mình bị mất luôn zalo không ạ. đăng nhập vào hệ thống báo là thiết bị của bạn không được hỗ trợ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.25336,
+         "id": "804506",
+         "field_search": "question",
+         "question": " Tại sao điện thoai em Zalo đăng nhập được vài tiếng lại bị kích ra và phải đăng nhập lại? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

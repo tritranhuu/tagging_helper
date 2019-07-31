@@ -1,0 +1,801 @@
+{
+   "id_query": "798078",
+   "total": 31808,
+   "total_current": 100,
+   "max_score": 113.00693,
+   "origin_question": "Mọi người cho mih hỏi sao iPhone 5s của mih không thông báo cuộc gọi nhỡ và không cài được thời gian, thòi gian nó cứ nhảy loạn xạ",
+   "hits": [
+      {
+         "score": 31.487225,
+         "id": "774648",
+         "field_search": "question",
+         "question": " Mình mới mua iphone 5s ở thegioididong nhưng bây giớ máy bị loạn cảm ứng máy cứ nhảy loạn xạ thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.37318,
+         "id": "930540",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao máy mình khi gọi đi lại không hiển thị thời gian cuộc gọi . Gọi đã bắt máy rồi .mà khi người khác gọi tới lại có ,mình dùng iphone 6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.770315,
+         "id": "1162451",
+         "field_search": "question",
+         "question": "Cho minh hỏi sam sung galaxy A9 2018 có đen led thông báo cuộc gọi nhỡ và pin yếu không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.995098,
+         "id": "948243",
+         "field_search": "question",
+         "question": " cho e hỏi sao fb của e người khác gọi đến thì k báo cuộc gọi mà toàn thành gọi nhỡ nhưng mình gọi đi thì vẫn được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.270401,
+         "id": "936446",
+         "field_search": "question",
+         "question": "Iphone6 của e cứ mỗi khi có người gọi đến thì lại hiện lên cuộc gọi nhỡ nhưng chuông không kêu. người đó phải gọi lần 2 mới gọi được. Cho e hỏi khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.259272,
+         "id": "1150793",
+         "field_search": "question",
+         "question": "Mình dùng ss j7 2016. Máy mình bỏ trong túi nên bị tắt nguồn lúc mình bật lên là 8:30 nhưng thời gian hiện trên màn hình là 20:30. Mình thấy có cuộc gọi nhỡ trên thanh thông báo nhưng đã gạt bỏ để vào nhật kí xem rõ hơn nhưng k có số nhỡ. Mình chỉnh lại ngày giờ vẫn không tìm được các cuộc gọi bị nhỡ hay đã gọi lúc đồng hồ không chính xác. Mình muốn tìm thông tin các số liên lạc ấy thì phải làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.254816,
+         "id": "837695",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi là bây facebook của em nó thông báo là không thể kết nối tới máy chỉ còn messenger của em thông báo là \"đã hết thời gian. Không thể kết nối tới facebook. Vui lòng kiểm tra kết nối tới máy chủ\". Trong trường hợp này em p làm tn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.371712,
+         "id": "929350",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng máy tính win 7 mà máy em nó không báo cuộc gọi đến mà toàn báo cuộc gọi nhỡ nhưng goi đi vẫn được thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.32616,
+         "id": "888380",
+         "field_search": "question",
+         "question": "Tại sao facebook messenfer trên iphone không thông báo ? mình đã bật thông báo rong phần cài đặt nhưng vẫn không được ? cảm ơn mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.050331,
+         "id": "1150478",
+         "field_search": "question",
+         "question": "Máy mình dùng android 9, tại sao ko có thông báo cuộc gọi nhỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.990063,
+         "id": "1152217",
+         "field_search": "question",
+         "question": "Sao mình đã cài đặt giống như hướng dẫn mà ko thấy thông báo cuộc gọi nhỡ vậy bạn. Mình đang xài huawei y9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.785215,
+         "id": "752674",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em xài iPhone5. Từ khi nâng cấp IOS mới nhất tới giờ, khi có cuộc gọi nhỡ em vào xem , thông thường thì cái thông báo nó sẽ mất nhưng giờ nó cứ hiện lên ấy ạ. Làm sao cho nó mất ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.748632,
+         "id": "1131125",
+         "field_search": "question",
+         "question": "Em mới cập nhật phần mềm. Thông báo tin nhắn cuộc gọi nhỡ đều không báo ạ. Với em không gửi được tin nhắn cho tổng đài phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.739431,
+         "id": "937371",
+         "field_search": "question",
+         "question": "cho mình hỏi là hình ảnh của mình tag bạn bè tuy họ không cài phê duyệt vào dòng thời gian nhưng khi mình tag họ họ lại nhận được thông báo đó, còn những người khác tag họ thì xuất hiện ngay trên tường fb mà không có thông báo, phải chăng facebook của mình bị lỗi? và cách khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.587725,
+         "id": "1166490",
+         "field_search": "question",
+         "question": "Cho mih hỏi mình mới mua galaxy note8 mih có thắc mắt tí. Nút nhấn trên bút spen có tác dụng ji và cách sài nút nhấn đó để làm ji hihi. Androi 8 mih ko muốn nâng lên 9 thì có sao ko ạk. Ad thông não mih 2 câu hỏi nhé. Xin cảm ơn hihi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.282436,
+         "id": "998982",
+         "field_search": "question",
+         "question": "Em có có iphone 5 dùng 1 thời gian e cảm thấy nó chạy chậm lên e khôi phục cài đặt gốc và sau khi khôi phục nó không nhận đc sim nữa nó ko nhận sim thì ko cài đặt đc máy mong mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.274971,
+         "id": "835114",
+         "field_search": "question",
+         "question": " Adb ơi cho mình hỏi là điện thoại OPPO F1 mình vào đâu để cài đặt giới hạn thời gian cuộc gọi vậy.thang!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.273882,
+         "id": "887573",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao mình gọi zalo cho một và người bn thì không được mà họ gọi mình cũng không báo là đang gọi luôn, chỉ thấy toàn là cuộc gọi nhỡ không hà...còn đại đa số những người khác thì mình gọi được...các bạn có cách nào chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.133682,
+         "id": "817073",
+         "field_search": "question",
+         "question": "Lỗi Messenger của facebook , trên hệ điều hành AndroidMessenger của mình đã là ver mới nhất rồi nhưng khi thực hiện cuộc gọi video với bất cứ ai nó đều cho 1 cái thông báo như vầyRất tiếc bạn không thể thực hiện cuộc gọi :Họ không thể thực hiện cuộc gọi ngay bây giờVà người khác gọi đến mình cũng chẳng có thông báo , ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.085705,
+         "id": "1012883",
+         "field_search": "question",
+         "question": "Tôi có mua của TGDD, Q7, CN Nguyễn Thị Thập, 1 đt Asus Laser 5.0LTE số G1AZCY00E909, số HĐ đỏ 7779641, bị tình trạng loạn cảm ứng, nhấn số này nhảy số khác, không nhấn thì nó tự nhấn loạn cả lên, lúc bị lúc không. Xin hỏi hướng xử lý như thế nào. Thời gian bảo hành bao lâu, trong thời gian bảo hành, TGDD có hỗ trợ cho mượn máy phụ dùng đỡ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.014704,
+         "id": "1009436",
+         "field_search": "question",
+         "question": "máy cũ đổi trả thì xác định thời gian bảo hành thông qua số điện thoại phải không, và bảo hành tại mọi cửa hành của thegioididong phải không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.925278,
+         "id": "762401",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi cái iPhone 5S của em mở đèn Led cảnh báo rồi mà sao có cuộc gọi nó không nhá đèn vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.922821,
+         "id": "1148288",
+         "field_search": "question",
+         "question": "Cho mih hỏi. Mih mún đổi điện thoại mới và bù tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.694687,
+         "id": "776490",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5 tại sao những tin nhắn và hình ảnh trong zalo của mình lại ko lưu được hết nó cứ bị xoá dần theo thời gian",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.469,
+         "id": "1152783",
+         "field_search": "question",
+         "question": "Mình xin hỏi  điện thoại của mình gọi đi không được và người khác gọi lại cũng không đc lúc gọi cho người khác cứ 3 giây là kết thúc cuộc gọi và hiện thị chử TẮT ĐÀI không biết vì sao mình đang xài wiko jerry2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.157793,
+         "id": "953165",
+         "field_search": "question",
+         "question": " điện thoại iphone 5s của mình không hiển thị thời gian sử dụng , đây là lỗi hay chỉnh sao ạ     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.059542,
+         "id": "1156443",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi tai sao con xiaomi redmi note 6 pro của mình cứ đúc vào túi quần là không nhận được cuộc gọi đến, mặc dù đã tắt chế độ bỏ túi. Mình đang dùng MUI 10.2...Mong mọi người giúp đỡ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.00115,
+         "id": "941636",
+         "field_search": "question",
+         "question": "Tôi mua 1 iphone 5s tại cửa hàng. Sau khi dùng 1 thời gian. Chiếc điện thoại của tôi hay bị loạn cảm ứng. Vậy xin hỏi tôi có được đổi lại không. Tôi còn đầy đủ phiếu bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.836979,
+         "id": "1018246",
+         "field_search": "question",
+         "question": "Làm sao để điện thoại GR5 mini báo chuông ở zalo và messenger khi màn hình đã khóa nhưng vẫn đang bật wifi liên tục? Chỉ nhận được thông báo có cuộc gọi nhỡ. Tuy nhiên đã  bật thông báo trên zalo và messenger.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.467306,
+         "id": "876275",
+         "field_search": "question",
+         "question": "Cho mình hỏi: cả nhà mình bố mẹ và mình đều dùng chung 1 tk icloud, mỗi khi máy mình có cuộc gọi nhỡ của bạn mình gọi tới thì cả máy bố và mẹ mình đều hiện số của bạn mình và ngược lại. Cho hỏi làm sao để tắt chức năng này đc ạ? Cảm ơn ad và mọi người nha!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.360216,
+         "id": "1147576",
+         "field_search": "question",
+         "question": "Máy nokia lumia 520 windows 8.1 của mình sao không vào được Skype mặc dù đã kiểm tra mạng và thời gian nhưng nó vẫn báo không thể đăng nhập, mong ad giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.295877,
+         "id": "1016217",
+         "field_search": "question",
+         "question": "Em mua nokia3 được 15 ngày .nhưng giờ cứ cắm sạc là điện thoại đơ .lúc thì vào phần biết tin nhắn nhảy loạn xạ .em khôi phục cài đặt gốc cũng không được .vậy em đổi trả máy khác có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.278208,
+         "id": "1014733",
+         "field_search": "question",
+         "question": "Đt của mình là htc 10 evo hiện thông báo cuộc gọi nhỡ nhưng không tắt được. Trên thanh thông báo hiện khung trắng như hình bấm vào thì hiện lịch sử cuộc gọi. Có phải bị lỗi phần mền không. Ad giúp chỉ giúp mình khắc phục. Mình mới mua ở tgdđ được 1 tháng thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.200085,
+         "id": "951090",
+         "field_search": "question",
+         "question": "Iphone 5s của tôi bị lỗi Pin, báo % pin rất ảo!Tôi mua máy chính hãng tại TGDD và còn trong thời gian bảo hành.Vậy tôi mang đi có được bảo hành pin hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.08944,
+         "id": "995376",
+         "field_search": "question",
+         "question": "Thế giới di động cho em hỏi ? điện thoại của em bị loạn cảm ứng? mà vẫn còn trong thời gian bảo hành / nếu gửi đi BH thì khoảng mất bao nhiêu thời gian ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.083435,
+         "id": "968329",
+         "field_search": "question",
+         "question": "Cho em hỏi sao mà em dùng iphone 5 thì từ khi em bị bể cường lực cái màn hình em lâu lâu bấm chữ hay lướt trên màn hình bị cà dựt còn khi mà soạn tin nhắn thì nó cứ nhảy chữ loạn xạ. vậy nó bị gì ạ? làm sao để sửa cho nó hết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.829346,
+         "id": "1004987",
+         "field_search": "question",
+         "question": "Minh muốn hỏi trước đây mình có mua trả góp dt bên bạn nhug còn 2thang nữa lxong nhug mih chưa trả , pjo đã được 1nam rui , vậy pjo monh muốn trả thì tiền lời có nhiu k ah , và mih quên mất số hợp đồng rồi , mong bên mih trả lời sớm giúp mih để mih pit mà trả hết tiền cho bên bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.81976,
+         "id": "809343",
+         "field_search": "question",
+         "question": "Đt mih vừa wa thế giới di động sửa, bạn kỹ thuật xóa zalo và tải zalo khác cho miu. Mih về k đăng nhập vào zalo đc, kích vào quên mật khẩu thì zalo báo đã quá số lần lấy mã 24h nữa mới lấy lại đc. Zờ mih fải làm thế nào để vào zalo đc vì cv của mih zất cần zalo. Zúp mih với, cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.730959,
+         "id": "818544",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao ip6 của e cài đặt ảnh người gọi mà nó k hiển lên màng hình khi có cuộc gọi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.572569,
+         "id": "1157875",
+         "field_search": "question",
+         "question": "Cho mih hỏi đợi mih có mua cái đt nokia dùng SĐT 0928575154 đặt hàng giờ mih muốn đổi cái khác v bù tiền zo đc ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.49196,
+         "id": "1024313",
+         "field_search": "question",
+         "question": "Mình đag Sài oppo a37 mih Sài được 1 thoi gian van tot sau vai ngay thi minh sạc cảm giác hoi lau nhu trc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.434732,
+         "id": "1148432",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 8plus 64GB nhưng thời gian gần đây mình kiểm tra nhật kí cuộc gọi thì không xem được. Xin chỉ mình cách khắc phục được không? Xin cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.408064,
+         "id": "749447",
+         "field_search": "question",
+         "question": "Ad cho tớ hỏi, tớ mới mới mua 1 chiếc 5s gold cũ ở TGDD, thời gian gần đây tớ sạc pin 1 mạch đầy nhưng thấy máy báo 98% (pin đầy nhé, cắm 3 tiếng liền) rút ra cắm lại nó hiện 100%, xong từ đó dẫn đến nguyên nhân máy không báo thời gian chờ và thời gian sử dụng PIN nữa. Add có thể cho biết lý không và liệu có khi nào TGDD thay PIN khác vào mà không phải là pin đi theo máy khôngCám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.349478,
+         "id": "1143489",
+         "field_search": "question",
+         "question": "Mọi người có thể giúp mik lỗi này đc không? Hnay, mih mới vào setting để update điện thoại nhưng nó lại bị lỗi gì đó... Mong ae giúp.Điện thoại mình:Samsung Grand PrimeAndroid 4.4.4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.332142,
+         "id": "1012760",
+         "field_search": "question",
+         "question": "Mọi người cho mk hỏi tại sao 2 thuê bao k thể gọi cho nhau. Lúc gọi cho máy bên kia chưa rung chuông đã báo cuộc gọi kết thúc r là s...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.313059,
+         "id": "1134598",
+         "field_search": "question",
+         "question": "Mình mua OPPO F7 ở thế giới di động được mấy tháng rồi dùng rất ok. Tuy nhiên thời gian gần đây, các cuộc gọi đến không có số lưu trên danh bạ thì không đổ chuông, kiểm tra cài đặt cuộc gọi không chọn lệnh nào chặn cả, cho mình hỏi cách khắc phục như thế nào ạ? Mong phản hổi sớm của Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.209003,
+         "id": "1143718",
+         "field_search": "question",
+         "question": "Cho mình hỏi về con nokia 1, khi sạc điện thoại thường thường thì nó sẽ hiện \"đang sạc\" và thời gian còn lại để sạc. Nhưng lúc mình sạc thì nó chỉ báo là \"đang sạc\", không có thời gian sẽ sạc xong, và tầm 30' mới lên được 1%, máy mình có vấn đề gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.052475,
+         "id": "1163180",
+         "field_search": "question",
+         "question": "Tôi xài đt Mobell Nova P2, ngày nào cũng bị tình trạng phần mềm Hot Games tự động nhảy vào cài, tôi đã đặt chế độ chặn cài đặt các app không rõ nguồn gốc nên app đó không cài được nhưng nó cứ nhảy lên thông báo. Xin Add giúp dùm làm sao xóa triệt để những app đó không cho tự động nhảy vào máy. Xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.046595,
+         "id": "1133459",
+         "field_search": "question",
+         "question": "E xài j7 pro.khi e cài bản cập nhật gần đây thì  Khi máy có tin nhắn hay cuộc gọi nhỡ thì k hiện thông báo.e vô cài đặt làm mọi cách vẫn k dc. Mong ad giup e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.04039,
+         "id": "787663",
+         "field_search": "question",
+         "question": " tôi muốn biết ít thông tin giá cả và thời gian về thay dây cáp iPhone 4 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.039055,
+         "id": "809354",
+         "field_search": "question",
+         "question": "điện thoại của mình là Lenovo A7010, cho mình hỏi khi có cuộc gọi wechat đến mà màn hình đang ở trạng thái tắt thì không biết được thông báó có cuộc gọi đến, vì thế ít khi mình nhận được cuộc gọi từ wechat..ai biết cách nào cài khi màn hình tắt nhưng vẫn có thông báo như cuộc gọi thông thường thì chỉ dùm mình với...cảm ơn các bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.956774,
+         "id": "766008",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 5s hôm nay chiều về bàn phím còn bình thường sau đó đến tối thì bàn phím không hoạt động bấm qua danh bạ hay mục ưa thích, gần đây,thư thoại điều không được, bấm số cũng không được, người khác gọi lại nhưng không hiện cuộc gọi nhỡ,  mình phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.862272,
+         "id": "1162628",
+         "field_search": "question",
+         "question": "cho e hỏi ạ e mua laptop ở shop về 1 khoảng thời gian vẫn dùng được word và office 365 sao h lại k dùng được nó cứ bắt nhập key ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.824238,
+         "id": "761964",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 (máy đổi trả) thư mục cuộc gọi không sử dụng được. Bây giờ mình muốn đổi máy khác được không, còn trong thời gian 30 ngày lỗi sản phẩm: mong được hồi âm sớm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.822409,
+         "id": "1019675",
+         "field_search": "question",
+         "question": "điện thoại em lúc mới mua về thì gọi bình thường nhưng xài 1 thời gian thì không gọi cho ai được hết nhắn tin cũng không được người ta gọi tới bấm nút xanh qua nghe thì nó tự tắc chưa kịp nói gì hết giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.793274,
+         "id": "779020",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 5, mạng Mobifone, sáng nay tự dưng không gọi đi được, cứ tít nhanh rồi báo kết thúc cuộc gọi, trong khi vẫn nhận cuộc gọi và nhắn tin bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.789362,
+         "id": "1021254",
+         "field_search": "question",
+         "question": "Cho mih hoi iphone khi nào về ạk?Và có giá chính xác chưa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.725142,
+         "id": "1004592",
+         "field_search": "question",
+         "question": "Mobiistar prime X1 không có đèn báo tin nhắn hay cuộc gọi nhỡ hã..thấy có lổ đèn mà vào cài đặt k có chổ đèn báo..sạc pin cũng k có đèn báo là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.671589,
+         "id": "1010417",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy Sony e4, của mình vừa thay mặt kính cảm ứng xong thì các chức năng khác vẫn hoạt động bình thường. Nhưng khi thực hiện cuộc gọi đi và đến thì màn hình cảm ứng nó lại nhảy loạn các chức năng lên không kiểm soát được cuộc gọi, cho mình hỏi như thế là bị gì?  Có phải khi thấy mặt kính chưa vệ sinh sạch vẫn còn bẩn và bọt khí không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.457006,
+         "id": "1014647",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, điện thoại e khi nhận đc cuộc gọi đến chỉ đổ chuông nhưng không hiện lên giao diện cuộc gọi, đến khi cuộc gọi kết thúc thì ms hiện lên cuộc gọi nhỡ. Ad cho e hỏi nguyên nhân và cách xử lý!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.447475,
+         "id": "1020008",
+         "field_search": "question",
+         "question": "Ad cho minh hỏi, Mình cài wechat nhưng khi gọi chỉ người gọi nghe đc tiếng, còn người nhận cuộc gọi từ máy mình không nghe được triếng cả khi gọi hình và goi tiếng. trong khi đó người nhận cuộc gọi vẫn nhận dược hình và tin nhắn.Làm ơn trợ giúp mình với. Cảm ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.416203,
+         "id": "752340",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính dùng 1 thời gian khi khởi động lại thông báo lỗi của explorer nhưng không ghi gì cả kèm 1 hình tam giác vàng có chấm than?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.327154,
+         "id": "796537",
+         "field_search": "question",
+         "question": "iphone 4s của em mới mua dùng được một thời gian thì cứ thấy yêu cầu cài đặt phần mềm gì đó em không nhớ.em đồng ý cài đặt sau đó máy bị treo hoàn toàn,như vậy là bị thế nào,sửa chữa ra sao và chi phí nhiều không ạ.Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.209661,
+         "id": "1151156",
+         "field_search": "question",
+         "question": "Cho e hỏi e xài A5 2017 sao đt e k có báo cuộc gọi nhỡ trên màn hình chính vậy ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.15986,
+         "id": "875193",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là sao ipad mình lên ios 10 beta 5 sao thanh dock nó cứ chóp chóp rồi biến mất có khi biến thành màu đen chạy loạn xạ..(đã reboot máy và restore máy nhưng ko dc)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.123615,
+         "id": "775189",
+         "field_search": "question",
+         "question": "Chào bạn!Mình có mua bên thế giới di động một ipad mini,thời gian gần đây nó cứ báo bị nhiễm virut và pin bị hư hại nghiêm trọng.Vậy bạn cho mình hỏi ipad có nhiễm virut được không?Rất mong phản hồi sớm từ bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.056034,
+         "id": "783765",
+         "field_search": "question",
+         "question": "Em đang đung một con iPhone 4s được một thời gian thế là nó tự dưng không kéo được phần Kiểm soát Thông tin nữa và nút Home ảo thì ấn một lần khong được mà phải ấn hai lần",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.033373,
+         "id": "931706",
+         "field_search": "question",
+         "question": "Chào ad,tôi đang dùng ip 5s cho tôi hỏi có cách nào để tắt tính năng thông báo cuộc gọi đến không ạ.Mỗi lần có cuộc gọi đến là lại có giọng nói gì đó ý???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.005953,
+         "id": "895763",
+         "field_search": "question",
+         "question": "em xài iphone mà lâu lâu nó cứ báo là phải sao lưu iphone gì đó,em không biết cái đó là gì hết,mọi người có thể giúp em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.968124,
+         "id": "777101",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 5S trả góp hôm 05/01/2016máy hay bị có cuộc gọi đến có chuông có dung mà không hiển thị ai gọi, không tắt không nghe được hết chuông thì báo cuộc gọi nhỡ và nhiều lúc có cuộc gọi không thể gạt nghe được, lại còn bị thế này nữa, em gửi ảnh không biết có phải lỗi nặng không, em mang ra Thế giới di động họ chỉ nâng cấp lên 9.2.1 song trả lại không biết thế nào, ad xem hướng khắc phục như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.831371,
+         "id": "1138417",
+         "field_search": "question",
+         "question": "A cho em hỏi tại sao thời gian tren masage với bảng tin lại không đúg với đt ah ! Vd e gủi tn lúc 23h mà báo 6hVới bẳng tin không hiện thời gian đăng mà toàn 15h trước là sao ah !E dùng ipx",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.752157,
+         "id": "809259",
+         "field_search": "question",
+         "question": " Không hiện thông báo có tin nhắn từ zalo và âm cuộc gọi đến k co ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.749964,
+         "id": "995070",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi chút ạ! Mình có mua 1 tai nghe, giờ nó bị hỏng 1 bên tai nghe mà mình không nhớ thời gian mua ( theo hình thức 1 đổi 1 trong 1 năm đó ạ) vậy mình có thể vào đâu để biết thông tin về thời gian mua xem còn trong thời gian 1 năm không vậy ạ?. Cám ơn ad ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.584808,
+         "id": "769759",
+         "field_search": "question",
+         "question": "ad ơi em mới mua iPhone 5s tại TGDD tuần trc đến giờ tự nhiên máy xảy ra TH để qua đêm thì thời gian sử dụng = thời gian chờ, cho em hỏi lỗi này do pin máy hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.57642,
+         "id": "918973",
+         "field_search": "question",
+         "question": "Em dang nói chuyên zalo thì có cuộc gọi bên máy em liền tắt cuộc gọi bên máy thì bên zalo lại thấy thế gọi lại liên tục sau khi em gọi lại không được nữa bên kia gọi cho em thì ho vãn nghe đỗ chuông còn em không nghe báo chuông nhưng báo cuộc gọi nhỡ em gon cho máy nào cũng không dược",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.5638,
+         "id": "840577",
+         "field_search": "question",
+         "question": "Ai cho minh hỏi minh đang dùng iPhone 4s nhưng khi có người gọi đến thì điện thoại không báo có cuộc gọi trong khi đầu dây ben kia vẫn nghe chuông đổ.giò mình phai làm thế nào?ai chỉ dùm mình với.cảm ơn mọi người trước ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.560131,
+         "id": "1141296",
+         "field_search": "question",
+         "question": "Làm thế nào để cài đc bộ đọc tjếg việt cho người khiếm thị trên máy nokia e72 mìh đag rất cần chỉ giúp mih vớj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.551456,
+         "id": "1134989",
+         "field_search": "question",
+         "question": "Muốn phân biệt cuộc gọi đến,đi,nhỡ trong nhât ký cuộc gọi của oppo f7 zhif làm thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.540354,
+         "id": "890177",
+         "field_search": "question",
+         "question": "Help. Mọi người cùng giúp đỡ nhé.Zalo của mình cứ báo \"đang chờ\" không biết nó chờ cái gì mấy tiếng liền ^^.Không truy cập được. không xóa được.Cảm ơn m.n!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.530998,
+         "id": "757745",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4S 9.2. Mình cài ảnh người gọi đến được thời gian đầu thì hiển thị full màn hình còn bây giờ chỉ hiển thị một ảnh nhỏ ở góc phải màn hình. Cho mình hỏi làm thế nào để cho full màn hình đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.525564,
+         "id": "1001413",
+         "field_search": "question",
+         "question": "Mình dùng oppo f1s mình gọi cho sdt bạn mình. Bạn mình xài Samsung s7 . Nó hiển ĐÃ CHUYỂN CUỘC GỌI và sau đó thông báo là thuê bao hiện không liên lạc được. Là do bạn minh tắt máy hay sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.507896,
+         "id": "1023429",
+         "field_search": "question",
+         "question": "Nếu mình mua lại máy của một người khác đang còn thời gian bảo hành của tgdd thì mình có được hưởng quyền lợi bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.482151,
+         "id": "810101",
+         "field_search": "question",
+         "question": "laptop mua tai TGDD TPTA tại sao sau một thời gian sử dụng Microsoff báo hết hạn cấp phép Windows, vậy TGDD cài Win có bản quyền không? và cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.478426,
+         "id": "751576",
+         "field_search": "question",
+         "question": " samsung J7 không có mục cài đặt thời gian khóa màn hình? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.447868,
+         "id": "872279",
+         "field_search": "question",
+         "question": " Mọi người cho hỏi cái sao mình cài đặt facebook lại không được nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.441273,
+         "id": "816976",
+         "field_search": "question",
+         "question": "Mình bị mất iphone và đã sữ dụng chức năng Find My iPhone ..đã khóa máy và cũng hiện ra vị trí ..Nhưng 1 thời gian sau thì nó báo Iphone ngoại tuyến.. vậy giờ phải làm sao để tìm được máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.410404,
+         "id": "811044",
+         "field_search": "question",
+         "question": " Mọi người cho mình hỏi ic nguồn của iphone 5s hiện giờ là bao nhiêu ạ và ở tgdd có ic nguồn không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.375353,
+         "id": "1156521",
+         "field_search": "question",
+         "question": "Iphon xs max có chống được nước không và thời gian là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.216059,
+         "id": "1152210",
+         "field_search": "question",
+         "question": "Làm ơn cho e hỏi e đang sử dụng HTC khi sạc tự nhảy loạn xạ làm sao để khác khắc phục dc ạ e cũng thử đổi những cục sạc khác nhưng nó vẩn bị ik như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.213875,
+         "id": "991323",
+         "field_search": "question",
+         "question": "Em vừa nhận được cuộc gọi nhỡ từ thế giới di động. Xin hỏi điện có gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.164055,
+         "id": "1155961",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi trê S9 Plus, còn hỗ trợ chức năng nhấn 1 lần để nhận cuộc gọi thay vì vuốt màn hình k ạ? Máy e bị tình trạng cuộc gọi nhỡ và thông báo trên Viber không hiện thị trên màn hình, phải vô ứng dụng mới biết. Có cách nào khắc phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14314,
+         "id": "772660",
+         "field_search": "question",
+         "question": "Mình xài iPhone 5s khi bỏ chặn số điện thoại mình không thích thì những tin nhắn tới trong thời gian mình chặn có xem được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.137222,
+         "id": "1024122",
+         "field_search": "question",
+         "question": "Cho e hỏi sao laptop sử dụng 1 thời gian lại sạc không vào pin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.13528,
+         "id": "1151204",
+         "field_search": "question",
+         "question": "Điện thoại Huawei Y9 2019. Làm sao để hiện cuộc gọi nhỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.057518,
+         "id": "1022945",
+         "field_search": "question",
+         "question": "Mình đang dùng XA Ultra nhưng sao Facebook và Zalo hiện thời gian không đúng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.03644,
+         "id": "900436",
+         "field_search": "question",
+         "question": " Cuộc gọi đến đt đọc tên người gọi đến rất phiền. Cài đặt IOS10 để không đọc tên người gọi đến? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.006268,
+         "id": "783110",
+         "field_search": "question",
+         "question": "Cho mình hỏi ipad mini 2 của mình bỗng nhưng xài thì bị loạn cảm ứng. Khóa máy mở lại thì hết nhưng 1 thời gian lại bị như cũ.Trước có bị 1 thời gian nhưng sau đó hết và giờ lại bị lại. Ko biết lỗi này là sao nhỉNếu cần sửa chữa thì TGDĐ sửa dc ko ?Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.96559,
+         "id": "794878",
+         "field_search": "question",
+         "question": "mình mới mua 1 chiếc iphone 5s tại thế giới di động Giao Thủy. Mang về sử dụng thì tai nghe trong có vẻ có vấn đề gọi 900 thì vẫn nghe rõ nhưng nghe hay gọi cuộc gọi của mọi người thì bị rè và âm thanh rất nhỏ. Cho mình hỏi là có bị lỗi cài đặt hay là lỗi loa trong để ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.945503,
+         "id": "1023957",
+         "field_search": "question",
+         "question": "Oppo f3 cài thời tiết ra màn hình gióng Như ư thời gian lm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

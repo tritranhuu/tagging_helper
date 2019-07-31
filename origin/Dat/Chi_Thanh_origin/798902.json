@@ -1,0 +1,801 @@
+{
+   "id_query": "798902",
+   "total": 32628,
+   "total_current": 100,
+   "max_score": 55.987644,
+   "origin_question": " Xin cho mình hỏi Laptop Apple không có bán hả ad, mình muốn mua trả góp laptop của apple ",
+   "hits": [
+      {
+         "score": 26.049746,
+         "id": "997388",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua đt cũ trả góp samsung j7 prime nhưng mình muốn mua trả góp thêm samsung j2 prime có được không hả tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.589758,
+         "id": "764769",
+         "field_search": "question",
+         "question": " Có laptop nào trả góp 0 không ad. Mình muốn mua core i5 mà giá hơi cao mình muốn góp mà không biết sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.144144,
+         "id": "999279",
+         "field_search": "question",
+         "question": "mình đang mua trả góp điện thoại muốn mua trả góp laptop nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.828363,
+         "id": "757956",
+         "field_search": "question",
+         "question": " Em mua laptop trả góp tại cửa hàng của mình bây giờ em không thích xài laptop nữa em có thể nào bán lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.14591,
+         "id": "781203",
+         "field_search": "question",
+         "question": "Mình mua trả góp laptop đã trả được 2 tháng, nay mình nhận được lệnh nhập ngũ. Vậy mình có được xin tạm hoãn đóng tiền trả góp không? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.057697,
+         "id": "761804",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên này không kinh doanh laptop hãng apple à? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.385725,
+         "id": "758532",
+         "field_search": "question",
+         "question": " Mình muốn mua Apple Watch chính hãng từ TGDD. Khi nào TGDD mới bán Apple Watch vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.200165,
+         "id": "781007",
+         "field_search": "question",
+         "question": "Mình mới mua laptop trả góp tại FPT.shop do mình đang cần gấp 1 khoản tiền mặt nên bây giờ muốn bán lại không biết có đượn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.18051,
+         "id": "992158",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp 0 laptop DELL, thủ tục trả góp như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.874052,
+         "id": "773705",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop có bán trả góp không ạ? Và trả góp có phải chịu lãi suất không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.648544,
+         "id": "841833",
+         "field_search": "question",
+         "question": "Cho hỏi cửa hàng mình có bán Laptop Asus ROG GL552JX hay không ?Nếu có thì giá bao nhiêu và có thể mua trả góp được hay không và trả bao nhiêu % ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.525063,
+         "id": "1165434",
+         "field_search": "question",
+         "question": "xin hỏi tgdd có bán sạc laptop không ạ, tôi muốn mua sạc laptop HP không biết có ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.333607,
+         "id": "784777",
+         "field_search": "question",
+         "question": " cho mình hỏi... ngày mai mình muốn mua iPhone 5s trả góp trả trước 0  có được không ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.306946,
+         "id": "1017066",
+         "field_search": "question",
+         "question": "Cho hỏi bên mình có bán dây khóa laptop ko ạ ? mình muốn mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.283665,
+         "id": "790303",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp máy laptop dell 3558 i3, mình hiện đang ở TP. Mỹ Tho Tiền Giang, xin hướng dẫn cách mua hàng ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.933985,
+         "id": "772989",
+         "field_search": "question",
+         "question": "Xin hỏi mình đang có hợp đồng trả góp iPhone 6s 16GB của Home credit, mình đã trả được 1 tháng, muốn hỏi mình còn mua trả góp được nữa không? Tiền sử tài chính tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.712492,
+         "id": "817348",
+         "field_search": "question",
+         "question": " Xin hỏi bên mình có bán pin laptop hiệu acer không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.63238,
+         "id": "935205",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn cài lại win cho laptop của mình, nhưng laptop của mình ko mua ở tgdd, vậy thì có đc hỗ trợ ko. Nếu có thì mình phải trả phí bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.600657,
+         "id": "1011295",
+         "field_search": "question",
+         "question": "bên mình có bán trả góp nokia 3310 không ạem muốn mua ngay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.530987,
+         "id": "1142045",
+         "field_search": "question",
+         "question": "Hiện tại em muốn mua trả góp apple watch seri 4, bằng cách trả góp qua thẻ master card em không biết có cần điều kiện gì thêm không, mong bên mình tư vấn giúp.Email hoanglai467@gmail.comSđt 0378687490",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.24871,
+         "id": "846754",
+         "field_search": "question",
+         "question": " TGDĐ không có bán đế tản nhiệt dành cho laptop hả add??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.198309,
+         "id": "1152622",
+         "field_search": "question",
+         "question": "apple pencil 2018 TGDD không có bán hả shop, có tương thíc với ipad 9,7 thế hệ thứ 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.184278,
+         "id": "862738",
+         "field_search": "question",
+         "question": " tui muốn mua iphone 5s cho hỏi có bán trả góp không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.13599,
+         "id": "922741",
+         "field_search": "question",
+         "question": " Tgdd có thể cho tôi hỏi  Laptop lenovo yoga 500 IBD có bán trả góp 0 không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.130053,
+         "id": "1011685",
+         "field_search": "question",
+         "question": "ad cho em hỏi !! e muốn mua laptop Acer Aspire A515 thanh toán trước 30% và góp 6 tháng !! em sinh ngày 28/8/1998 và công việc tự do !! thế có được mua góp không ? và có cần thủ tục gì ??? xin ad cho e câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.098251,
+         "id": "1166022",
+         "field_search": "question",
+         "question": "ad cho e hỏi, muốn mua trả góp con A50, mình có chọn trả trước bao nhiêu  được không v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.090229,
+         "id": "791457",
+         "field_search": "question",
+         "question": " cho e hỏi e có chiếc iPhone 5s mua trả góp giờ được 4 tháng nhưng e muốn đổi trả thì cách tính ntn ad hả ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.075329,
+         "id": "1014941",
+         "field_search": "question",
+         "question": "Bên mình có bán thẻ tải về của Apple không ạ? Nếu bán thì có những mệnh giá nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.055834,
+         "id": "991339",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về các gói mua bán trả góp của iphone 6 32gb.có bao nhiêu gói vậy..?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.027435,
+         "id": "768754",
+         "field_search": "question",
+         "question": " Cho mình tgdd có bán Apple iPod đời 2001 không, có bán thì giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.92708,
+         "id": "859412",
+         "field_search": "question",
+         "question": "Mình là nhân viên làm quán ăn, hiện tại mình muốn mua 1 laptop để chơi game, vì mức lương hạn chế nên mình muốn mua trả góp! Nhưng mình chỉ có CMND và hộ khẩu công chứng thì có mua được trả góp hay không? Mức lương của mình là 3 triệu 8 đến 4 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.805706,
+         "id": "995644",
+         "field_search": "question",
+         "question": "bạn ơi mình muốn mua đt với laptop trả góp mà mình không có hộ khẩu với bằng lái xe vậy mình còn cách nào để mua được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.785513,
+         "id": "839040",
+         "field_search": "question",
+         "question": " Thế giới di động có bán laptop cũ k z xin cảm ơn.Có đc mua laptop trả góp không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.741655,
+         "id": "1016037",
+         "field_search": "question",
+         "question": "Mình mua máy trả góp không lãi xuất là không được tạng phiếu mua hàng hả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.648228,
+         "id": "1151554",
+         "field_search": "question",
+         "question": "mình mua laptop tại tgdd muốn  xin lại key kich hoạt win 10 của máy có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.6429,
+         "id": "1160963",
+         "field_search": "question",
+         "question": "Mình mua Laptop ở ĐMX, giờ laptop ko phù hợp với mục đích sử dụng của mình (máy bị đơ, chậm) mình muốn bán lại Laptop để mua máy mới. ĐMX có mua lại máy của mình ko ạ? Máy mình mua tháng 11/2017",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.502321,
+         "id": "806287",
+         "field_search": "question",
+         "question": " Cho mình hỏi là khi tạo một apple id mới thì có mất ứng dụng và game của apple id cũ hay không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.45781,
+         "id": "787213",
+         "field_search": "question",
+         "question": "cho mình hỏi : mình mới mua ip6s plus bên tgdd nhưng tài khoản id apple là của nhân viên tgdd đăng nhập. Mình k biết mật khẩu, vậy bh mình muốn đăng nhập bằng tk id apple của mình thì cần làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.428467,
+         "id": "1162622",
+         "field_search": "question",
+         "question": "Xin chào,Mình có con Macbook Pro Mid 2015.Mình muốn bán để mua laptop mới tại thegioididong.Giá khoảng bao nhiêu nếu bán tại đây?Cám ơn,chung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.370749,
+         "id": "1155011",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mua laptop trả góp thì có phải trả trước bao nhiêu phần trăm không hay là trả ngóp ngay từ đầu cũng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.34594,
+         "id": "998074",
+         "field_search": "question",
+         "question": "Laptop mình mua trả góp được 3 tháng thegioididong có mua lại không? Thủ tục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.32332,
+         "id": "836835",
+         "field_search": "question",
+         "question": " ad cho em hỏi, hiện giờ có máy laptop nào trả góp 0 cho sinh viên không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.309118,
+         "id": "991775",
+         "field_search": "question",
+         "question": "Mình mới mua đt oppo f3 trả góp được 1 tuần. Bây giờ mình được ng nhà cho cái đt iphone nên muốn bán lại oppo f3 cho tgdd. Mình muốn hỏi đt trả góp thì tgdd có mua lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.270771,
+         "id": "1006176",
+         "field_search": "question",
+         "question": "mình mới mua trả góp oppo f1s được hơn 1 tháng.mình muốn bán lại có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.238611,
+         "id": "1164734",
+         "field_search": "question",
+         "question": "Cho e hỏi? E mua laptop bên mình cách đây 3tháng giờ e muốn bán laptop lại được k ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.15396,
+         "id": "876227",
+         "field_search": "question",
+         "question": " Mình bị mất dây sạc Laptop x544l xin hỏi có bán ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.134445,
+         "id": "1006172",
+         "field_search": "question",
+         "question": "mình mới mua trả góp oppo f1s được hơn 1 tháng.mình muốn bán lại có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.069252,
+         "id": "1147951",
+         "field_search": "question",
+         "question": "Minh mới mua trả góp uwer y9 2019 mấy hôm nay mình muốn trả lại máy y9 mua oppo r16 xin hỏi mình có bị trừ phí gi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.061523,
+         "id": "994008",
+         "field_search": "question",
+         "question": " Em muốn mua đt trả góp , không trả trước , cần giấy tờ sao hả? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.98261,
+         "id": "998791",
+         "field_search": "question",
+         "question": "cho em hỏi ưu đãi cho sinh viên khi mua laptop trả góp là những gì ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.968208,
+         "id": "803030",
+         "field_search": "question",
+         "question": " cho hỏi bên mình có bán iPhone 5 trả góp không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.853464,
+         "id": "1167174",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e mới mua trả góp 1 chiếc đt ở bên mình mad k said nữa muốn bán lại giá đc k a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.851805,
+         "id": "1141965",
+         "field_search": "question",
+         "question": "Mình mua dt trả góp nhưng giờ mình muốn bán lại nhưng mình vẫn chưa góp hết cho ngan hang kg biết thế giới di động có thu lại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.812109,
+         "id": "1006920",
+         "field_search": "question",
+         "question": "TGDD cho mình hỏi put Apple pencil và bàn phím theo bao da của Ipad Pro 12.9 có bán kèm tại shop chưa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.731913,
+         "id": "766605",
+         "field_search": "question",
+         "question": " Kiểm tra hộ mình IMEI 013030008637235 xem có phải hàng chính hãng của Apple không nhé, xin cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.679123,
+         "id": "1011465",
+         "field_search": "question",
+         "question": "mua trả góp có cần người bảo lãnh k hả shop e đang định mua trả góp sản phẩm của shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.6588,
+         "id": "1137235",
+         "field_search": "question",
+         "question": "Xin chào, cho mình hỏi, mình muốn mua ipad wifi 2018 32G, nếu trả góp thì tổng chi phí mình trả là bao nhiêu, có thể cho mình xem chi tiết, số tiền phải trả theo tháng không, cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.642422,
+         "id": "780309",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao máy của em muốn tạo một ID Apple mới mà máy bắt trả phí. . . có còn cách nào để thay tài khoản mà không mât phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.634058,
+         "id": "897542",
+         "field_search": "question",
+         "question": "Hi bên thegioididong có mua lại laptop không ạ? Mình đã mua online laptop Asus trên thegioididong hồi tháng 5 giờ mình muốn bán lại để mua máy mới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.626595,
+         "id": "877872",
+         "field_search": "question",
+         "question": " Mình muốn mua iPhone 5s trả góp, trả trước không đồng. Vậy mình cần những điều kiện gì. Xin cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.605942,
+         "id": "1023533",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại vernee thor plus có bán trả góp không ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.605942,
+         "id": "999742",
+         "field_search": "question",
+         "question": "cho e hỏi cửa hàng mình có bán lap trả góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.596357,
+         "id": "1156501",
+         "field_search": "question",
+         "question": "Xin chào, mình muốn mua SS note 8 trả góp. Mình có sẵn bản gốc CMND, BLX. Số tháng trả góp 6 tháng của Home Credit. Mong nhận được tư vấn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.562672,
+         "id": "1013173",
+         "field_search": "question",
+         "question": "Cho  mình hỏi mình đang định mua co máy  Laptop Asus A540UP i3 7100U/4GB/500GB/2G M420/Win10/(DM094T) trả góp 30% của home credit mà mình đang là sinh viên thì cần những gì để có thể làm thủ tục mua trả góp! cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.554846,
+         "id": "1000029",
+         "field_search": "question",
+         "question": "ad cho mình hỏi trả gop 0đ có quà tặng j k hả ad mong ad trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.539165,
+         "id": "1008779",
+         "field_search": "question",
+         "question": "Cho mình hỏi.  Sony XA ultra có bán trả góp không?  Có lãi suất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.505665,
+         "id": "1157498",
+         "field_search": "question",
+         "question": "Laptop của e mua trả góp tại cửa hàng mình,  nhưng do loa của máy 1 bên bị rè vậy e có được nhận bảo hành không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.49575,
+         "id": "1004644",
+         "field_search": "question",
+         "question": "bên mình laptop Apple Macbook 12 MLH72 Core M 1.1GHz8GB256GB 2016 có máy cũ không ạ? nếu có giá bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.457958,
+         "id": "764076",
+         "field_search": "question",
+         "question": "  Mình chưa có tài khoản Apple ID quản trị viên có thể cho mình xin tài khoản ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.367918,
+         "id": "1000569",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình mua con laptop hãng Dell giá 11tr ở thegioididong đc 1 năm. giờ muốn bán lại có đc k.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.356512,
+         "id": "1020570",
+         "field_search": "question",
+         "question": "TGDD không còn cho thanh toán trả góp online nữa hả ad ơi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.310186,
+         "id": "804123",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng iPhone 4S nhưng giờ mình đổi mật khẩu iTunes. Ra bọn bán điện thoại họ bảo tắt iTunes mình tải trò chơi máy không hỏi mật khẩu Itunes, nhưng giờ mình vào Apple để đặt lại iTunes nhưng không tải được. Ad cho mình hỏi giờ mình phải làm sao. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.274837,
+         "id": "1138555",
+         "field_search": "question",
+         "question": "đặc cọc rồi làm hồ sơ trả góp luôn hả ad..mình thêm tiền cọc được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.268202,
+         "id": "771547",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình chơi Clash Of Clan hơn 3 năm, giờ vào thì bị báo là ID Apple không đúng hoặc sai mật khẩu, mình đi sâu vào hơn thì lúc nhập Id apple bị báo là ID không tồn tại, cho mình hỏi có phải ai đã đổi ID Apple hay Pass của mình vậy? Cảm Ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.262444,
+         "id": "887313",
+         "field_search": "question",
+         "question": " Chào admin. TgddMình muốn mua laptop già dưói 6 triệu. Xin cho mình hỏi thì loại nào là tối ưu nhất. Cảm ơn ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.24518,
+         "id": "792034",
+         "field_search": "question",
+         "question": "Mình mới mua sản phẩm Apple iPhone 5s bên thegioididong.sử dụng được gần 1 tháng mình thấy pin của Apple iPhone 5s tụt rất nhanh.có khi sạc đầy chỉ sử dụng được tầm hơn 2h đồng hồ.vậy mình muốn hỏi sản phẩm có bị lỗi về pin hay không !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.244644,
+         "id": "1136689",
+         "field_search": "question",
+         "question": "mình cần hỗ trợ mua máy trả góp thì thủ tục ntn hả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.169802,
+         "id": "1147058",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp Samsum J6, mình chỉ cần bằng lái xe thôi hả shop , hay có cần xác minh thông tin từ gia đình không ạ, cảm ơn shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.129854,
+         "id": "1015829",
+         "field_search": "question",
+         "question": "chào ad, tôi muốn mua laptop asusfx553vddm304 bên mình có hàng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.087929,
+         "id": "992272",
+         "field_search": "question",
+         "question": "Mua laptop có được trả góp không. Em định mua.Nếu có nhớ Trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.080093,
+         "id": "769762",
+         "field_search": "question",
+         "question": "Chào ad,Mình hiện có 1 laptop đã mua cách đây 4 năm, hiệu ACER của thegioididong, hiện mình muốn bán lại để đổi sang sở dụng sản phẩm khác. Cho mình hỏi chế độ chính sách thu lại như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.057545,
+         "id": "837751",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên mình có bán laptop Dell inspiron 11 3000 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.05096,
+         "id": "1001716",
+         "field_search": "question",
+         "question": "cho mình hỏi của hàng có bán micro thu âm karaoke tren laptop không? cảm ơn nhiều ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.05078,
+         "id": "1021120",
+         "field_search": "question",
+         "question": "Ad cho e hỏi bên minh có bán laptop trả trước 0 đồng không dị.. nếu có thì có máy nào ạk..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.046043,
+         "id": "1141850",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình nua máy trả góp nhưng giờ mình muốn đổi trả để mua máy khác thì có được áp dụng như mua trả thẳng không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.033594,
+         "id": "956372",
+         "field_search": "question",
+         "question": " cho mình hỏi mình mới mua trả góp iphon ben homecreditgiờ mình có thể mua trả góp tiếp bên homcredit nua không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.031353,
+         "id": "906796",
+         "field_search": "question",
+         "question": " Cho mình hỏi laptop mình không mua bên TGDĐ nhưng mình muốn dán màn hình vs vỏ bên mình đc ko? tks ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.020836,
+         "id": "1155464",
+         "field_search": "question",
+         "question": "Chị mình có mua laptop bên tgdd nhưng nay để lại cho mình. CHo mình hỏi mình có thể đổi sđt đăng kí bảo hành trên laptop đó không vì máy mới mua. Xin cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.02037,
+         "id": "999090",
+         "field_search": "question",
+         "question": "Mình mua trả góp tivi ở điện máy xanh của ngân hàng ACS muốn trả góp hàng tháng ở TGDD có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.005985,
+         "id": "1153591",
+         "field_search": "question",
+         "question": "Mình muốn mua sản phẩm Apple Watch S4 với hình thức trả góp qua thẻ tín dụng HSBC thấy có phát sinh chênh lệch, mình thấy HSBC có đối tác với Alelay sao lại phải tốn thêm phí vậy?  Link sản phẩm: https://www.thegioididong.com/dong-ho-thong-minh/apple-watch-s4-gps-40mm-vien-nhom-xam-day-vai-den",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.00137,
+         "id": "841316",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có bán sạc laptop acer không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.974825,
+         "id": "814528",
+         "field_search": "question",
+         "question": " Bao giờ mới bán ipad pro 9.7inch vậy cho xin bảng giá lun nhé bên thế giố di độbg có bán các phụ kiện của apple ko vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.966333,
+         "id": "832097",
+         "field_search": "question",
+         "question": " Em mua trả góp laptop cần những gì và không trả trước có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.903877,
+         "id": "999676",
+         "field_search": "question",
+         "question": "Xin chào ad TGDD.  Mình mới mua trả góp sản phẩm oppo f3 thường màu đen - mình đã  trả  trước  30%, không  biết  bây giờ mình muốn đổi sang oppo f3 plus có được không.!? Và nếu được thì phải trả thêm bao nhiêu ạ.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.89784,
+         "id": "801246",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ mình mới mua trả góp laptop Acer của TGDĐ hiện tại laptop của mình vào đọc báo hay 1 số ứng dụng khác thì máy thường xuyên bị treo máy hay nói cách khác là bị đơ máy trong 1 phút sau đó chạy bình thường. Vậy cho mình hỏi như vậy là bị sao mong các bạn hồi âm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.853315,
+         "id": "1162991",
+         "field_search": "question",
+         "question": "Giúp mình với ạ, mình đang có con iphone 7plus bị khóa apple id vì mình nhập sai mật khẩu mà trước đó mình chưa xác minh tài khoản apple id trong gmail. Bây giờ, mình có làm thủ tục mở khóa thì apple thông báo 8 ngày nữa mình sẽ được đặt lại apple id mới . Vậy cho mình hỏi sau 8 ngày đó nếu mình nhập đúng mật khẩu thì điện thoại có trở lại bth kh ạ.- Mong ad trả lời mình ạ. Mình cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.852985,
+         "id": "1006833",
+         "field_search": "question",
+         "question": "Mình có mua trả góp dt sony xa1 unltra dc 33 ngày kon 5 kỳ trả góp giờ muốn bán lại cửa hàng thì ntn nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.847492,
+         "id": "993706",
+         "field_search": "question",
+         "question": "Xin hỏi, mình muốn mua trả góp 1 điện thoại tầm 7 triệu, góp trong vòng 1 năm. Vậy thì mỗi tháng mình phải góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.839664,
+         "id": "998124",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp J5 prime. Mình đã đặt hàng online. XIn hỏi buổi tối bên Home credit có làm việc không?. Tối mình mới lấy đk CMT gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

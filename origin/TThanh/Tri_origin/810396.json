@@ -1,0 +1,801 @@
+{
+   "id_query": "810396",
+   "total": 30892,
+   "total_current": 100,
+   "max_score": 65.56233,
+   "origin_question": " A cho em hỏi làm thế nào để biết người kia đang ở đâu mà chỉ cần định vị iPhone với iPhone? ",
+   "hits": [
+      {
+         "score": 25.271551,
+         "id": "996297",
+         "field_search": "question",
+         "question": "cho mình hỏi mình vừa mất điện thoại sam sung a5 giờ trên máy chỉ có tài khoản gmail muốn biết vị trí máy ở đâu thì làm thế nào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.131914,
+         "id": "796305",
+         "field_search": "question",
+         "question": "iPhone 5s mà mới bị mất tối qua mà em chỉ mới bật icloud tìm iphone thôi ko mở định vị mà giờ đt e tắt nguồn rồi..giờ có cách nào định vị được không chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.691181,
+         "id": "832022",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất điện thoại iPhone 5S mà người ta tắt nguồn vậy mình định vị được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.66838,
+         "id": "772829",
+         "field_search": "question",
+         "question": " iPhone bị mất nhưng không bật định vị phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.828226,
+         "id": "1159742",
+         "field_search": "question",
+         "question": "dạ cho em hỏi điện thoại của em là iphone Xs max em đã tháo sim và tắt định vị tắt tìm iphone vậy người khác có thể định vị được em không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.66721,
+         "id": "806676",
+         "field_search": "question",
+         "question": " Mọi người cho mình hỏi có ai biết ứng dụng nào để tải video từ trang web về cho iPhone không chỉ mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.319124,
+         "id": "762966",
+         "field_search": "question",
+         "question": " Cho em hỏi e bị mất con iPhone 5s nhưng nếu bị người khác tắt định vị thì có cách nào tìm lại được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.194773,
+         "id": "815291",
+         "field_search": "question",
+         "question": " Cách định vị iPhone 6s khi bị thất lạc như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.191057,
+         "id": "761125",
+         "field_search": "question",
+         "question": "Ad ơi. Cách đây vài tháng khi người bạn ở hà nội gui cho mình bức hình bằng viber. Trong khi gửi có định vị. Và mình lấy tấm hình này chuyển tiếp  cho một bạn ở sài gòn. Người bạn ở sài gòn nhận được tấm hình này và bấm xem định vị và thấy tấm hình trên vẫn thấy định vị ở hà nội mặc dù mình ở đà nẵng chuyển tiếp hình của bạn đó thôi, nhưng giờ mình cũng làm như vậy nó không định vị chỗ cũ nữa, mà nó định vị lúc mình gửi. Không biết viber có bị lỗi j không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.055569,
+         "id": "737764",
+         "field_search": "question",
+         "question": "Cho em hoi muon aiphone6 theodoi dinh vi dc oppo thi lam nhu naoCho em hỏi muốn iPhone 6 theo dõi định vị đc Oppo thì làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.965298,
+         "id": "1147637",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em bị người khác cài định vị, vậy làm sao để không bị nữa ạ? Gmail em cũng đã xoá khỏi máy rồi mà vẫn bị vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.572472,
+         "id": "1160620",
+         "field_search": "question",
+         "question": "Làm thế nào để tìm thấy vị trí  iphone 6 bị mất mà k có id chĩ sử dụng gmail",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.424314,
+         "id": "1006260",
+         "field_search": "question",
+         "question": "adm cho em hỏi xíu, em mới bị Kẻ xấu lấy trộm ĐT S7 em muốn định vị vị trí của máy hiện tại ở đâu có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.368275,
+         "id": "766022",
+         "field_search": "question",
+         "question": " Cho em hỏi cách phân biệt iPhone 4 thường và 4s với ạ. Và làm thế nào để biết dung lượng bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.2401,
+         "id": "1000691",
+         "field_search": "question",
+         "question": "Cho mình hỏi có phần mềm định vi theo dõi điện thoại nào mà ko cần cài đặt trên máy mình muốn định vị ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.214212,
+         "id": "815464",
+         "field_search": "question",
+         "question": " Iphone lock xài ok không qtv , em đang định mua mà không bik như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.092356,
+         "id": "747942",
+         "field_search": "question",
+         "question": "Ad với mọi người cho em hỏi 1 tí ạ. Không biết có ai từng xem Kill Me Heal Me chưa, em mới xem xong và để ý thấy dàn laptop Samsung sử dụng trong phim vừa mỏng vừa đẹp, có vẻ hợp cho sinh viên và dân văn phòng. Em quên chụp ảnh lại rồi mà cũng không biết tìm tên máy ở đâu. Anh chị nào nếu đã xem qua và để ý biết tên máy thì cho em xin với ạ, vì em cũng đang định mua 1 con mà nhìn nó thì vừa mắt quá :DEm cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.823114,
+         "id": "840577",
+         "field_search": "question",
+         "question": "Ai cho minh hỏi minh đang dùng iPhone 4s nhưng khi có người gọi đến thì điện thoại không báo có cuộc gọi trong khi đầu dây ben kia vẫn nghe chuông đổ.giò mình phai làm thế nào?ai chỉ dùm mình với.cảm ơn mọi người trước ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.64722,
+         "id": "793375",
+         "field_search": "question",
+         "question": " Cho mình hỏi với.mình đang dùng iPhone 5 mà khi tải ứng dụng nó chỉ quay tròn mà không chạy,ai biết chỉ mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.633154,
+         "id": "1013746",
+         "field_search": "question",
+         "question": " Ai cho minh biết tìm font f1s ở đâu chỉ mình với   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.565327,
+         "id": "843131",
+         "field_search": "question",
+         "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.49386,
+         "id": "783161",
+         "field_search": "question",
+         "question": " Ad ơi làm thế nào để biết bản block và bản quốc tế ở iphone ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.483418,
+         "id": "814993",
+         "field_search": "question",
+         "question": "Em đang sử dụng con laptop asus F555L nhưng không biết bật tính năng đèn bàn phím ở đâu. Bác nào biết thì chỉ em với... Em cảm thông, ý lộn e cảm ơn :^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.42915,
+         "id": "860783",
+         "field_search": "question",
+         "question": " Giờ mình bị mất cái điện thoại iPhone muốn định vị nó thì làm như nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.327,
+         "id": "1020718",
+         "field_search": "question",
+         "question": "cho e hỏi điện thoại có chủ dịch vụ định vị bây giờ phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.314802,
+         "id": "880392",
+         "field_search": "question",
+         "question": "Qtv giúp em nhé làm thế nào để phân biệt đuợc đâu là chiết laptop tốt cách để ss chọn lựa ạ em định mua cho em gái mình nhưng khổ nổi là em không biết gì về laptop tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.304522,
+         "id": "733605",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi là em dùng iphone và bạn em có gửi cho tệp MP3 nhưng không biết làm sao để mà nghe được, giúp em với. Cần tải gì để hỗ trợ bày cho em nhé. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.24887,
+         "id": "760544",
+         "field_search": "question",
+         "question": " Đặt mua iPhone 5s ở đâu vậy chỉ mình với QTV ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.222185,
+         "id": "807876",
+         "field_search": "question",
+         "question": " Sao iPhone 5C của em không có Airplay mà chỉ có Airdrop chơi game trên có cần có Airplay em phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.91739,
+         "id": "774851",
+         "field_search": "question",
+         "question": "Mọi người giúp với ạ. Máy em là iPhone 4 không hiểu sao cứ vào ứng dụng camera 360 là bị out ra ngoài. Mặc dù em đã xoá rồi tải lại nhưng vẫn không được. Có ai biết lỗi ở đâu không ạ. Chỉ em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.913218,
+         "id": "751612",
+         "field_search": "question",
+         "question": "Các anh em cho mình hỏi có cây iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.913218,
+         "id": "751160",
+         "field_search": "question",
+         "question": "Các anh em cho mình hỏi có cây iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.804352,
+         "id": "1144971",
+         "field_search": "question",
+         "question": "Chào ad, Em đang có ý định bán máy cũ để mua góp ViVo11i, thế em cần làm những gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.794088,
+         "id": "1017142",
+         "field_search": "question",
+         "question": "Máy em asus zenfone max.shop có thể chỉ em cách lưu trữ mặc định sang thẻ sd được không ạ.em đang cần người chỉ gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.783543,
+         "id": "779109",
+         "field_search": "question",
+         "question": " Em muốn ghi âm trên máy tính Dell core i3 mà không biết làm thế nào ạ? Chỉ em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.777267,
+         "id": "765542",
+         "field_search": "question",
+         "question": "Bây giờ e chưa có ID apple muốn tạo thì em phải làm như thế nào ạ? Có a chị nào biết có thể chỉ cho em với được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.706312,
+         "id": "1160616",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi iphone bị bạn lấy cấp mà dung gmail có định vị đc k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.60133,
+         "id": "775234",
+         "field_search": "question",
+         "question": " Em bị mất mật khẩu giới hạn trên chiếc iPhone 5 e đang dùng làm sao lấy lại đc a chị chỉ cho e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.507944,
+         "id": "800038",
+         "field_search": "question",
+         "question": "ad cho mình hỏi làm thế nào để restore lại máy iphone vậy? mình download file ở đâu để có file chuẩn vậy ad? thanks rất nhiều. rất mong được hỗ trợ.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.487127,
+         "id": "997744",
+         "field_search": "question",
+         "question": "Mình mới vừa mất 1 cái điện thoại OPPO F1S. Mình có thể dùng điện thoại cùng hãng để định vị được không? Mà điện thoại của mình bị khoa nguồn rồi. Bạn nào biết chỉ mình với! Mình cám ơn các bạn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.351776,
+         "id": "871256",
+         "field_search": "question",
+         "question": "Xóa tài khoản icloud trên iphone 5s?Em được người chú tặng chiếc iphone 5s mà còn bị dính tài khoản icloud thì em phải làm thế nào để bỏ được tài khoản ạ? Ở thegioididong có hỗ trợ không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.348076,
+         "id": "749245",
+         "field_search": "question",
+         "question": " Cho mình hỏi muốn  Jailbreak Để Cài Cydia Ở IPhone 5 Thì Làm Thế Nào vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.17662,
+         "id": "786792",
+         "field_search": "question",
+         "question": "Mình đang muốn đổi icon thành một nhóm nhạc mình thích trên iPhone 4s mà không biết cách làm sao . Chỉ giúp mình với ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.138836,
+         "id": "889257",
+         "field_search": "question",
+         "question": "em đang dùng Samsung Galaxy A3. Em rất thích nhạc âm báo tin nhắn mặc định của zalo (để phân biệt với các loại tin nhắn sms, viber,...). Tuy nhiên hiện tại điện thoại của em lại báo chuông theo chuông của sms mà em ko biết làm thế nào để đặt lại chuông mặc định. Nhờ các anh chị giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.131054,
+         "id": "1136526",
+         "field_search": "question",
+         "question": "Mình xoá vị trí zalo tránh làm phiền 1 ngày , không bật lại nữa mà sao vẫn nhận được lời kết bạn quanh đây. Mọi người chỉ em với, nó quá phiền với em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.110672,
+         "id": "791695",
+         "field_search": "question",
+         "question": " MẤY PRO CHO EM HỎI IPHONE 3S CỦA EM TẮT ĐỊNH VỊ XOng rồi tự nhiên nó bật lại. Có cách nào khắc phục ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.107582,
+         "id": "1006127",
+         "field_search": "question",
+         "question": "Mình ko để ý nhỉ, trc giờ có bị thế đâu. Giờ sang máy khác nó thế. Bực quáCả nhà cho e hỏi e dùng iPhone mà sao e lưu nhắc nhở lưu ngày giờ xong thoát ra mà nó chẳng báo. Cứ mặc định ở 1 ngày và 1 giờ đấy là sao? Hay phải chỉnh tuỳ chọn nào mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.069843,
+         "id": "751089",
+         "field_search": "question",
+         "question": " iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.038044,
+         "id": "844391",
+         "field_search": "question",
+         "question": "Adm cho e hỏi iphone 5s của em không hiển thị chi tiết cuộc gọi. A chị chỉ giúp em phần cài lại ở mục nào với ạ. Xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.992771,
+         "id": "769676",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 6S muốn tìm máy nhưng máy em mới mua nên chưa cài đặt iCloud chỉ mới cài đặt màn hình khóa và ID Apple. Có cách nào để định vị lại máy được không ạk, mong anh chị giúp em tìm máy với ạk. Em cảm ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.986162,
+         "id": "777295",
+         "field_search": "question",
+         "question": "Cho em hỏi về máy iPhone. Em vào web thì máy báo nhiễm virus. Và có giới thiệu cho em cài Appcola để diệt virus nhưng em không biết tìm phần diệt virus ở đâu. Anh có thể giúp em được không ạ. Cảm ơn a.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.914536,
+         "id": "751555",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6s bên TGDD mà có người nói là hàng nấu lại làm sao để biết được máy mình như thế nào hả qtv..có wed nào kiểm tra được chiếc điện thoại như thế nào không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.891384,
+         "id": "767723",
+         "field_search": "question",
+         "question": "Cho e hỏi là ở iphone 6 plus nếu có bật GPS mà k kết nối mạng thì có thể định vị được máy bằng iCloud không ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.798773,
+         "id": "1141296",
+         "field_search": "question",
+         "question": "Làm thế nào để cài đc bộ đọc tjếg việt cho người khiếm thị trên máy nokia e72 mìh đag rất cần chỉ giúp mih vớj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.682888,
+         "id": "924978",
+         "field_search": "question",
+         "question": " Ad ơi điều khiển công tắc iphone của em không định vị được khuôn mặt giờ em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.678102,
+         "id": "880368",
+         "field_search": "question",
+         "question": "Em mua lại máy tính của một người quen thông qua cậu em, nhưng bây giờ em muốn xem mã pin thì phải làm thế nào ạ??? e đang cần để ghép đối với bluetooth trên đt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.659409,
+         "id": "795577",
+         "field_search": "question",
+         "question": " Em dùng iPhone 4 mà Cần cập nhập iOS 7.0 hoặc hơn thì làm như thế nào vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.652647,
+         "id": "745856",
+         "field_search": "question",
+         "question": " cho em hỏi làm thế nào để biết số điện thoại mình đang sử dụng cho viber là số mấy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.63308,
+         "id": "853005",
+         "field_search": "question",
+         "question": "Chào mọi người , mọi người cho em hỏi làm sao để xuất hiện bong bóng chat với ạ. Máy của em là iphone 4s ạ. Nhanh nhanh dùm e với .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.631042,
+         "id": "778004",
+         "field_search": "question",
+         "question": " Mọi người ơi, làm thế nào để tải video trên facebook về iPhone 5 được ạ, em cám ơn ️️️ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.566547,
+         "id": "827903",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cách phân biệt iPhone 5s chính hãng với ạ. Mua iphone ở TGDĐ có đảm bảo về mặt chất lượng ko.em đang định ra cửa hàng mình mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.559664,
+         "id": "929449",
+         "field_search": "question",
+         "question": "Tôi đang dùng iphone 5s với bản IOS 10.Ad cho hỏi làm thế nào để tuỳ chỉnh mạng của máy về chế độ 3G luôn luôn mà không có E giống như Android vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.555187,
+         "id": "1009785",
+         "field_search": "question",
+         "question": "sao không ai trả lời hết vậy em đang cần hỗ trợ làm cách nào chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.542288,
+         "id": "998943",
+         "field_search": "question",
+         "question": "Cho em hỏi, iPhone của em bị sọc, cách sửa lỗi thế nào? Xin trả lời cho em biết với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.524994,
+         "id": "762921",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi tại sao nhằm lúc cái iPhone 6 nó nói chuyện quá trời mà không biết ở đâu làm gì khác cũng không vào được. Đợi nó hết cái tự tắt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.472136,
+         "id": "877867",
+         "field_search": "question",
+         "question": "Tôi đã tải về ứng dụng typiora để thiết kế cho mình một bàn phím đẹp nhưng thiết kế xong thì không biết làm thế nào để sử dụng nó ad chỉ với máy toi dùng là iPhone 5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.463026,
+         "id": "777750",
+         "field_search": "question",
+         "question": " Em cần trợ giúp mã thư tín để lập được một tài khoản gmail cho iPhone có ai biết giúp em với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.418583,
+         "id": "796527",
+         "field_search": "question",
+         "question": "Em tải nhạc từ zingmp3 vào điện thoại samsung J7 mà không biết vào chô nào để mở file vừa tải. Mà cũng không biết nó tải vào đâu nữa giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.408976,
+         "id": "1142897",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt cái khóa đấy đi ở đt oppoA37 chỉ giúp tôi với ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.368128,
+         "id": "1116993",
+         "field_search": "question",
+         "question": "Tôi bị mất máy tôi đăng nhập icloud vào máy khác để xem định vị ở đâu lần đầu được lần sau báo icloud k tồn tại là sao ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.327139,
+         "id": "742625",
+         "field_search": "question",
+         "question": "Cho em hỏi sao em vào thời tiết của oppo neo 7 mà điện thoại báo không định vị được và thêm thành phố là sao.trong khi em đã bật định vị rồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.294577,
+         "id": "1150104",
+         "field_search": "question",
+         "question": "Em đang sài realme c1 nhưng không biết làm thế nào để chuyển ứng dụng sang thẻ SD nhờ ai giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.287695,
+         "id": "962914",
+         "field_search": "question",
+         "question": " Làm thế nào để tải ứng dụng cho iPhone 3gs mà đơn giản nhất ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.283407,
+         "id": "1011384",
+         "field_search": "question",
+         "question": "E đang xài SS j2 mà e hỏi là địa chỉ email trong tiện ích Ch play trên máy đt nhưng em lại không nhớ được mật khẩu, như vậy e có thể làm cách nào để biết được cái mật khẩu email đó không vậy ạ, a, chị chỉ giúp e với. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.281591,
+         "id": "1013477",
+         "field_search": "question",
+         "question": "Mọi người ơi. Tại sao hồi đó khi 2 người nhắn tin với nhau. Thì masenger biểu tượng camera nó hiện vòng sóng. Để biết là đang đọc tin. Còn bây giờ. Nhắn tin mà masenger nó không có hiện ở biểu tượng vòng tròn ở camera. Xin mọi người chỉ giúp ạ. Thanhk mọi người ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.22716,
+         "id": "1154217",
+         "field_search": "question",
+         "question": "Em dùng oppo f9 máy chưa root. Giờ em muốn xem lại mk wifi mà mình đã đăng nhập ở máy. Mọi người ai biết cách chỉ cho em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.211563,
+         "id": "813438",
+         "field_search": "question",
+         "question": " Máy iphone 5s bị lấy cắp và bị tắt nguồn có cách nào định vị được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.207085,
+         "id": "1141690",
+         "field_search": "question",
+         "question": "Cho e hỏi muốn cài đặt theo dõi định vị điện thoai cua mg khác thì làm thế nào ạ. E dg sài samsung j7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.200232,
+         "id": "1139859",
+         "field_search": "question",
+         "question": " TGDD còn bán iphone 5 không ạ.muốn mua mà không biết ở đâu có hàng chính hãng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.191902,
+         "id": "859747",
+         "field_search": "question",
+         "question": " Cho em hỏi có cách nào để người khac không biết mình đang online zalo không ạ? cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.09006,
+         "id": "757758",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em đang xài iPhone 5S mà mỗi khi tắt màn hình là nó bị nháy 1 cái rồi mới tắt hẳn làm thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.004707,
+         "id": "1139041",
+         "field_search": "question",
+         "question": "Iphone của em 64gb nhưng đã đầy rồi. Em có tìm hiểu những cách kia nhưng không biết cách nào ổn và an toàn, nên em đang cần có những biện pháp khắc phục cái vấn đề nan giải này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.966824,
+         "id": "814818",
+         "field_search": "question",
+         "question": " em có 1 iphone 5s nhưng quyên mật khẩu, mà iphone chưa được kết nối với itunes thì phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.963812,
+         "id": "757745",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4S 9.2. Mình cài ảnh người gọi đến được thời gian đầu thì hiển thị full màn hình còn bây giờ chỉ hiển thị một ảnh nhỏ ở góc phải màn hình. Cho mình hỏi làm thế nào để cho full màn hình đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.930454,
+         "id": "769730",
+         "field_search": "question",
+         "question": "Em vừa bị mất cái iPhone 5 tối qua, khi e gọi thì vẫn đổ chuông, không ai bắt máy, định vị thì báo ngoại tuyến e phải làm sao đây ạ, lên find friend trên máy tính thì không xác định được vị trí. giúp e với QTV ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.886261,
+         "id": "763655",
+         "field_search": "question",
+         "question": "Chào mọi người em đang dùng iPhone 6s nhưng ở ngoài màn hình ko có úng dụng FaceTime mặc định của máy.em thử tìm trong phần giới hạn ko có,ở phần trong phần thông báo thì vẫn thấy có FaceTime.Như vậy là sao vậy mọi người,ai biết giúp em đi​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.878109,
+         "id": "999087",
+         "field_search": "question",
+         "question": "Làm thế nào để khắc phục được ạ? Mình k like được cũng không theo dõi được? Mọi người chỉ giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.84271,
+         "id": "1157897",
+         "field_search": "question",
+         "question": "ai chỉ em với khi iphone ở chế độ tai nghe ạ, em đang nghe nhạc cái nó bị chuyển về chế độ tai nghe ạ ai biết cách giúp em với. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.82222,
+         "id": "975862",
+         "field_search": "question",
+         "question": " LÀM THỂ NÀO ĐỂ BIẾT KHI MANG MÁY IPHONE ĐI SỬA BỊ THAY THẾ LINH KIỆN ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.817293,
+         "id": "770850",
+         "field_search": "question",
+         "question": "  Ad cho em hỏi cái làm sao để biết iPhone quốc tế và iPhone Lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.805798,
+         "id": "1148753",
+         "field_search": "question",
+         "question": "anh chị ơi giúp em với,em làm mất điên thoại samsung j6 2018 mà nếu không có mật khẩu samsung cloud thì có bẻ được khóa điện thoại không ạ,. E đã thử lên trang find my phone để định vị nhưng không có kết nối internet nơi điện thoại nên k định vị được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.753178,
+         "id": "750433",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm cách nào để nhận biết iphone 6 quốc tế vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.752851,
+         "id": "812555",
+         "field_search": "question",
+         "question": "Ai có kinh nghiệm dùng lap hãng ASUS chỉ mình vớiMình mới mua con ASUS K541LN pin liền máy.tra trên web thì mỗi người một ý kiến,k biết nghe ai.Mọi người cho mình hỏi cách sạc pin với ạ,làm thế nào để pin không bị chai ạ :((Thanks !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.743427,
+         "id": "784896",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để biết điện thoại mình có bị nhiễn virus , máy của em đang xài là iPhone 3. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.729946,
+         "id": "1134481",
+         "field_search": "question",
+         "question": "XIN CHÀO! E XÀI DT OPPO F9, KHI E TẢI PHẦN MỀM ĐỊNH VỊ VỀ MÁY OPPO THÌ KHI XÀI 3G, NO K TỰ ĐỘNG CẬP NHẬT VỊ TRÍ , CHỈ KHI NÀO VÀO ỨNG DỤNG ĐỊNH VỊ ĐÓ THÌ MỚI HIỂN THI VỊ TRÍ , MÀ KHI XEM TRÊN THIẾT BỊ KHÁC THÌ NO ĐỂ KHÔNG CÓ TÍNH HIỆU 3G HOẶC LÀ ĐT OPPO ĐÓ K  TRUY CẬP.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.720778,
+         "id": "780947",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để diệt virus ở iPhone , tim thì không thấy có ứng dụng diệt vizut nào cho iPhone ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.626822,
+         "id": "755297",
+         "field_search": "question",
+         "question": " Làm thế nào để root Honor 4C vậy ad? Chỉ cho mình với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.575142,
+         "id": "1136437",
+         "field_search": "question",
+         "question": "Mjnh đang dùng máy samsung galasy j3 mà k biết cài đặt thế nào để lưu trữ dữ liệu tải xuống từ chomre mặc định vào thẻ nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.545626,
+         "id": "759317",
+         "field_search": "question",
+         "question": " Ad cho em hỏi TGDD mình có còn bán iphone 5 không ạ, nếu không thì ad biết ở đâu bán không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

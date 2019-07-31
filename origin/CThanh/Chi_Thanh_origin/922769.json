@@ -1,0 +1,801 @@
+{
+   "id_query": "922769",
+   "total": 33020,
+   "total_current": 100,
+   "max_score": 83.97466,
+   "origin_question": "iPhone 6 plus của em nó cứ bắt cập nhật lên 10.1.1 thì mới cài được ứng dụng facebook thế có nên lên ios 10.1.1 không ạ",
+   "hits": [
+      {
+         "score": 34.741596,
+         "id": "920609",
+         "field_search": "question",
+         "question": " Máy e mới cập nhật IOS 10.1.1 , giờ e muốn trở về hệ IOS cũ thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.43446,
+         "id": "1023013",
+         "field_search": "question",
+         "question": "6 plus lock có nên cập nhật lên ios 11 hay không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.071827,
+         "id": "918958",
+         "field_search": "question",
+         "question": "Hiện tại e đang xài iPhone 5 sử dụng ios 10.0.2, do facebook của e bị xoá nên bây giờ tải lại nhưng nó lại bảo phải lên ios, nhưng e lại k muốn lên vì máy lâu rồi, có cách nào tải dc facebook mà k cần lên ios 10.1.1 k ạ. Tks ad nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.75072,
+         "id": "918855",
+         "field_search": "question",
+         "question": "Iphone 5s có nên cập nhật phiên bản 10.1.1 k ạ.lên thì máy có nhanh hơn hay chậm đi ạ.và 5s có thể lên tối đa phiên bản bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.062346,
+         "id": "923386",
+         "field_search": "question",
+         "question": " E muốn hạ ios 10.1.1 xuống 10.0.2 được không ạ. Em dùng iphone 5 bản 16g ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.828455,
+         "id": "896937",
+         "field_search": "question",
+         "question": " em mới cập nhật iphone 5s của em lên ios 10.0.2 máy vào ứng dụng chậm rồi ấn nút home mới mở được máy.giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.747145,
+         "id": "916024",
+         "field_search": "question",
+         "question": " iPhone 6 chạy ios 10.1.1 vô chát messenger facebook bị văng ra ngoài liên tục là lỗi gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.666615,
+         "id": "925586",
+         "field_search": "question",
+         "question": " Ở thế giới di động có hỗ trợ hạ cấp ios 10.1.1 xuống 10.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.105482,
+         "id": "1020505",
+         "field_search": "question",
+         "question": "tai sao em khôi phục iphone 4s trong itunes mà cứ hiện lỗi hoài thế vs lại cho em hỏi nó bắt cập nhật lên 9.3.5 máy em cập nhạt được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.67125,
+         "id": "872522",
+         "field_search": "question",
+         "question": "Tại Sao Iphone 5 của em phiên bản mới 7.1.2 Nó cứ vậy em . Em vào cài đặt phền mềm rồi nhưng sao chẳng được . Anh chỉ em nâng cấp lên 8.0 với để e có thể cập nhật những ứng dụng khác . Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.637691,
+         "id": "1152373",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để cập nhật được YouTube trên oppo neo 9 ạ. Em vào thì nó bắt em cập nhật. Em cập nhật thì nó hiện. Ứng dụng không thích hợp với thiết bị của bạn. Như vậy phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.622807,
+         "id": "1157378",
+         "field_search": "question",
+         "question": "Máy em ios 9 muốn cập nhật lên ios 12 thì bị thế này em , nếu em ra ngoài cập nhật khi nào có bản mới muốn cập nhật thì phải làm thế nào ạ với lại em không có máy tính nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.614323,
+         "id": "912789",
+         "field_search": "question",
+         "question": "Anh chị ad cho e hỏi là lúc e lên ios 10.1.1 thì có bị hỏi mật khẩu của icloud không ạ. E quên mất mật khẩu icloud mà lại định nâng lên ios 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.610744,
+         "id": "922694",
+         "field_search": "question",
+         "question": "Cho em hỏi . E xài ip6s plus sau khi cập nhật IOS 10.1.1 xong . Thì máy em bị mất hết tất cả danh bạ . Khi em lưu lại danh bạ mới thì tiếp tục lại bị mất . E không biết làm sao ? Xin tl sớm giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.342453,
+         "id": "918981",
+         "field_search": "question",
+         "question": " Em cài đặt Facebook trên IOS 10 bị báo cập nhật IOS mới nhất nhưng không cập nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.285995,
+         "id": "902470",
+         "field_search": "question",
+         "question": "cho em hoi Iphone 5s của em đang ở ios 7.1.2 em muốn lên ios 8 thì làm thế nào ak. em sợ cập nhật trong cài đăt lên ios 10 thì sẽ ko xuống dc ios 8 nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.23019,
+         "id": "797705",
+         "field_search": "question",
+         "question": " Mình mới mua Iphone 6s ở TGDD mình có nên cập nhật phần mềm lên iOS 9.2.1 không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.937729,
+         "id": "778040",
+         "field_search": "question",
+         "question": "Các anh ơi cho em hỏi máy iPhone của em vào phần cài đặt chúng ấn vào cập nhật phần mềm sao nó cứ ghi là đang kiểm tra cập nhật mãi chả ra bản cập nhật nào là sao các anh máy em iPhone 4 dùng iOS 6.1.3 muốn lên iOS 7?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.80319,
+         "id": "919381",
+         "field_search": "question",
+         "question": "Sao máy iPhone 5S của e no vừa có thông báo nâng cấp lên ios 10.1.1 mà kích vào xem thông báo nó vẩn k mất cái thông báo , nếu h nâng cấp lên có bị lổi j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.625896,
+         "id": "779200",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi sao bấm vô cập nhật phần mềm của Iphone thì nó cứ tìm kiếm mãi mà không ra vậy ạ!? E muốn nâng cấp lên IOS 9.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.500198,
+         "id": "868108",
+         "field_search": "question",
+         "question": " Em không thể đăng nhập mp3 trên iphone được ạ..nó toàn bảo là đăng nhập hết hạn.máy e mới cập nhật lên ios 9.3.3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.494429,
+         "id": "915577",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng ip6s ban 10.1.1 mình tai facbook tren app họ ghi ( bạn phải cập nhập phiên bản mới nhất của ios mới sử dụng được app này ) là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.492626,
+         "id": "912214",
+         "field_search": "question",
+         "question": " tại sao iphone 5 của em  bản ip5 16g vna  không tắt được âm khi chụp ảnh ạ ? hiên máy em đang chạy ios 10.1.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.376707,
+         "id": "1147865",
+         "field_search": "question",
+         "question": "Cho em hỏi: em mới mua hưawai y9 về máy bắt cập nhật phiên bản mới. Em có nên cập nhật không ạ? Nếu cập nhật xong thì máy có lỗi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.307766,
+         "id": "1022989",
+         "field_search": "question",
+         "question": "Cho em hỏi là những chiếc IPhone xách tay chính hãng có được cập nhật lên IOS mới nhất không ạ. Nếu muốn lên IOS mới nhất cho điện thoại xách tay thì phải làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.114862,
+         "id": "768025",
+         "field_search": "question",
+         "question": " iPhone 5S có nên cập nhật bản mới nhất của iOS 9 không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.97422,
+         "id": "810099",
+         "field_search": "question",
+         "question": "Xin hỏi hệ điều hành iOS App Store khi cài đặt ứng dụng báo lỗi \"ứng dụng này đòi hỏi phải có iOS 8.3 hoặc mới hơn bạn phải cập nhật lên iOS 8.3 để tải về và sử dụng ứng dụng này \"chỉnh lại như thế nào Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.953363,
+         "id": "1142512",
+         "field_search": "question",
+         "question": " mới mua sam sung a9 2018 giờ nó cứ hiển thị cập nhật phần mềm mới thì có lên cập nhật không ạ mong a chị phản hồi sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.899836,
+         "id": "1142520",
+         "field_search": "question",
+         "question": "e mới mua sam sung a9 2018 giờ nó cứ hiển thị cập nhật phần mềm mới thì có lên cập nhật không ạ mong a chị phản hồi sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.872578,
+         "id": "879019",
+         "field_search": "question",
+         "question": " tai sao cập nhật lên win 10 anniversary thi store không cập nhật ứng dụng được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.74639,
+         "id": "966423",
+         "field_search": "question",
+         "question": " 5s lên 10.3 có đc k add hiện tại em đang dùng 10.1.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.523436,
+         "id": "792908",
+         "field_search": "question",
+         "question": " Em xài iPhone 6 sao không cập nhật được Facebook phiên bản mới mặc dù đã có phiên bản mới rồi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.38349,
+         "id": "796717",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản icloud và dùng rất bình thường. Nhưng có 1 vài ứng dụng khi mình cập nhật thì nó cứ ra tài khoản icloud của người khác ( nếu mình cài đặt 1 ứng dụng mới nó vẫn sử dụng tài khoản của mình)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.31168,
+         "id": "921777",
+         "field_search": "question",
+         "question": "Em xài lap Vaio. Vừa rồi lap của em mới đem đi sửa máy, người ta cài cho em win7 có bản quyền. Bây giờ em muốn lên win8. Nếu em cập nhật lên thì có mất bản quyền không? Và cách cập nhật lên thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.28839,
+         "id": "756318",
+         "field_search": "question",
+         "question": " iPad của mình cập nhật iOS 9.2 mà cả ngày nó cứ hiện lên dòng chữ đang xác minh cập nhật, giờ muốn thoát ra sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.28181,
+         "id": "835096",
+         "field_search": "question",
+         "question": "Iphone 3GS, đang cập nhật phiên bản IOS mới , nó tự tắt nguồn, sau đó tự động lên nguồn dĩ nhiên là phải xuất hiện hình trái táo. nhưng nó không lên, cứ lên trái táo rồi tắt đen thui hồi sau lại cứ lên tắt , lên tắt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.271662,
+         "id": "764824",
+         "field_search": "question",
+         "question": "Thế giới di động cho em hỏi, em dùng iPhone 4S lúc trước chạy iOS 8.4.1. Hôm kia em cập nhật nó lên iOS 9.2 và rất hao pin. Trước khi cập nhật thì pin dùng được hơn 1 ngày mới phải sạc. Cập nhật xong thì pin dùng không tới một ngày. Em muốn hỏi là giờ em muốn hạ firmware xuống 8.4.1 lại thì bên Kỹ thuật của mình có hỗ trợ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.188137,
+         "id": "922548",
+         "field_search": "question",
+         "question": " Đt e iphone 6 plus sao e chi cap nhat dc phien bản 10.1.1 ko cap nhat dc 10.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.14712,
+         "id": "1155838",
+         "field_search": "question",
+         "question": "Em có 1 máy iphone 6 muốn nhờ tgdđ cập nhật lên ios 10.3.3 bao nhiêu tiền zậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.136667,
+         "id": "814647",
+         "field_search": "question",
+         "question": " Mình đang sử dụng Iphon 3gs 16gb IOS 6 mình muốn cài lên IOS 7 để được tải một số ứng dụng vậy có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.097841,
+         "id": "778569",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua con iPhone 5 em đã quên kiểm tra icloud về thì em lở tay out ra khi nhập icloud mới của em vào để cập nhật tải ứng dụng nó báo bảo em phải nhập icloud của chủ trước mới cho phép cập nhật hay tải ứng dụng. Bây giờ em phải làm thế nào để cập nhật với tải ứng dụng được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.090433,
+         "id": "1157120",
+         "field_search": "question",
+         "question": "Nii Cho em hỏi máy em là iphone 8 plus, theo em biết thì trên hệ điều hành IOS thì story của facebook và instagram có phần chèn âm nhạc nhưng tại sao máy em không có dù đã cập nhật đầy đủ? Đây là lỗi của máy hay lỗi ứng dụng? Em phải làm sao để có phần chèn này? Máy bạn em 6s+ chưa cập nhật phần mền mới nhưng vẫn sử dụng được tính năng này!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.87613,
+         "id": "778116",
+         "field_search": "question",
+         "question": "Hiện em đang dùng iphone 5s bản lock nhật có jb ios7, giờ e muốn update thì có lên ios 8 được ko ạ? Hay là bắt buộc nó sẽ lên 9 ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.820887,
+         "id": "774862",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 đã lên iOS 9.2 vừa nẫy máy có bản cập nhật iOS 9.2.1 em không tải mà sao máy đã tự tải về vậy em có lên cài đặt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.81027,
+         "id": "833975",
+         "field_search": "question",
+         "question": "ứng dụng trên máy tính của em nó cứ có biểu tượng chữ \"e\" . khi em bấm vào thì không mở được ứng dụng với lại nó hiện lên cái bảng( internet download manager) bắt mình đăng ký . Mong anh( chị )giúp dùm em!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.777079,
+         "id": "869260",
+         "field_search": "question",
+         "question": "cho em hỏi là khi cập nhật xong ios 9.3.3 thì nó bắt nhập tài khoản icloud nhưng em quên pass nên đã bỏ qua có làm sao không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.752832,
+         "id": "761552",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi em đang dùng iPhone 6 Plus cũng đang muốn lên iOS 9.2 thế hiện giờ bản iOS đấy có dùng được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.712225,
+         "id": "836697",
+         "field_search": "question",
+         "question": "em đã cập nhật phiên bản mới của Facebook nhưng nó hay bị lag nên em muốn quay trở lại phiên bản như thế này thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.70256,
+         "id": "1150553",
+         "field_search": "question",
+         "question": "Ios 12 khi được cập nhật lên tất cả  iPhone thì dùng có hao pin hơn các ios trc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.659266,
+         "id": "771880",
+         "field_search": "question",
+         "question": " Cập nhật thì máy để cập nhật lên ios 9.2 mà em muốn cập nhật ios 8.2 thì làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.639887,
+         "id": "1160988",
+         "field_search": "question",
+         "question": "Hi anh chị TGDD , cho e hỏi . Hiện tại e đang sài Ip7 Plus có nên cập nhật lên IOS 12.2 không ? và IOS 12.2 có lổi gì không ạ ? tks !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.625616,
+         "id": "918983",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua iphone SE , đó giờ xài bên windowphone nên e ko biết bên ios có tính năng chạm để mở màn hình ko ạ, nếu cứ bấm nút home vậy mau hư lắm ạ, với lại e thây nó có bản cập nhật ios 10 gì đó có nên cập nhật ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.60328,
+         "id": "1167319",
+         "field_search": "question",
+         "question": "Glaxy A50 bị tình trạng khó cài đặt ứng dụng mới và cập nhật ứng dụng, phải khởi động lại máy thì cài đặt và cập nhật được ,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.5485,
+         "id": "863462",
+         "field_search": "question",
+         "question": "Nếu muốn iphone 4s lên ios 9.3.3 mà em có nghe nói mọi người bảo iphone 4s bị khai tử nếu cập nhật ios lên thì sẽ bị hỏng máy thì có đúng không ạ.? Hiện tại máy e đang là ios 9.2(13c75) thì có lên được 9.3.3 không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.508236,
+         "id": "876685",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút: em mới mua 6 plus bên mình, các ứng dụng khác bật lên thì vẫn bính thường nhưng chỉ riêng ứng dụng facebook bật lên thì màn hình đen 1 lúc rồi mới mở đc ứng dụng ra? E đã xoá đi cài lại mà vẫn vậy? Vậy có cách nào giải quyết ko ak? Thanks ac nhiều!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.491997,
+         "id": "764791",
+         "field_search": "question",
+         "question": " iOS 7.1.1 cập nhật trực tiếp lên 9.2 có được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.468105,
+         "id": "1024578",
+         "field_search": "question",
+         "question": "Em mới mua Samsung J7 prime mà nó cứ bắt cập nhật phần mềm mới. Cho e hỏi nếu cập nhật thì bản sau có gì thay đổi không. So với bản hiện tại nó có thay đổi nhiều không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.323982,
+         "id": "788575",
+         "field_search": "question",
+         "question": "iphone 3 của mình nếu không cập nhật lên ios 7 thì không tải được 1 cái gì trên app store,mà bh nó ms chỉ 6.1.6 thôi. bây giời phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.323263,
+         "id": "912403",
+         "field_search": "question",
+         "question": "Chào bạn. Mình không nhớ rõ mật khẩu id apple nên đăng nhập nhiều lần dẫn đến bị khoá tài khoản. Các bạn có các nào để giúp mình lấy lại tài khoản và mật khẩu không ạ,mình dùng iphone 6 plus, ios 10.1.1. Thaks bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.320784,
+         "id": "789151",
+         "field_search": "question",
+         "question": " Iphone 5s liệu có nên cập nhật bản ios 9.2.1 không ạ , cho em câu trả lời mới  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.29651,
+         "id": "778308",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 đã lên iOS 9.2 vừa nẫy máy có bản cập nhật iOS 9.2.1 em không tải được mà sao máy cứ báo lỗi là sao ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.244427,
+         "id": "765620",
+         "field_search": "question",
+         "question": "Mình đang xài cái iphone 4s mình mới cập nhật phần mềm lên ios 9.2 cập nhật xong thì đang nhập ID Apple không được giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.243727,
+         "id": "779252",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Sau khi restore lại iphone 4 thì có bắt buộc phải cập nhật lên ios 9 không ? Mà bắt buộc thì update lên thì máy sẽ bị giật,lag thì có cách nào khác không admin ? Tại máy em bây giờ đang bị vô hiệu hóa :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.21963,
+         "id": "925261",
+         "field_search": "question",
+         "question": " Tôi đang sài iphone 5s chay ios 10.1.1 giờ muốn chuyển về bản 9 nào gần nhất được không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.20836,
+         "id": "923368",
+         "field_search": "question",
+         "question": " Mấy anh chị cho em hỏi Iphone 4 có thể cập nhật lên ios 8 được không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.182999,
+         "id": "769209",
+         "field_search": "question",
+         "question": "Em sử dụng iPhone 3G mà em muốn nâng cấp lên được không nếu được thì lên được iOS 7 không làm sao bạn em chỉ vào CÀI ĐẶT-CĐCHUNG-CẬP NHẬT-PHẦN MỀN nhưng có lỗi chỉ cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.093786,
+         "id": "897650",
+         "field_search": "question",
+         "question": "điện thoại mình là ip6 plus chạy ios 9.2.1, mình muốn update lên ios nhưng khi vào phần cập nhật phần mềm trong cài đặt chung thì không hiện lên bản ios để Tải về và Cài đặt mà lúc nào cũng báo là đang kiểm tra các bản cập nhật cả ngày. Vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.087214,
+         "id": "1157950",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo a37 mới đây có bản cập nhật mới sao em cập nhập không được nó cứ bảo lỗi cập nhật ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.956871,
+         "id": "1140083",
+         "field_search": "question",
+         "question": "Tại sao máy em cập nhật lên android 8.1.0 trên nokia 3 . Vô chplay cập nhật ứng dụng trò chơi với YouTube không được vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.87973,
+         "id": "1023895",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6s plus hiện tại mình mới cập nhật lên ios 11 nhưng do gặp nhiều lỗi,máy thỉnh thoảng giật lag,thoát ứnng dụng đột ngộtVậy mình có thể up xuống bản ios 10.3.3 được không?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.72752,
+         "id": "756857",
+         "field_search": "question",
+         "question": " Mình mới mua iPhone 6s, máy đã tự cập nhật phần mềm ios 9.2. Vậy mình có nên cài đặt không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.667265,
+         "id": "776532",
+         "field_search": "question",
+         "question": " cho em hỏi e đang dùng ip5 ios 6 vậy giờ có lên được 7 không ạ hay bắt buộc phải lên 9 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.620453,
+         "id": "781013",
+         "field_search": "question",
+         "question": "Em xin chào QTV hiện nay em đag dùng iPhone 5 quốc tế mà bản cập nhật 7. Em thấy nó bị giới hạn tải ứng dụng nên em muốn lên bản 8. Liệu có được không ạ? Mà trong máy có bản 9. rồi em không muốn lên 9. Mong QTV giúp em! Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.607124,
+         "id": "1023694",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6 lock nhật có lên ios 11 được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.587633,
+         "id": "750849",
+         "field_search": "question",
+         "question": "Mình xài iPhone 5 bản quốc tế. Mình mới vừa cập nhật lên iOS 9.1. Để hoàn tất cập nhật mình phải đăng nhập ID. Nhưng đt cứ báo không thể đăng nhập, giờ điện thoại mình không thể sử dụng được, mình phải làm sao ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.491798,
+         "id": "992017",
+         "field_search": "question",
+         "question": "Ipad của mình cập nhật lên ios 11 bản beta thì sau khi có bản chính thức thì cập nhật trực tiếp hay phải quay lại ios 10 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.469044,
+         "id": "766473",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ? Em đang dùng iPhone 5s trước đây em có mượn nick app của bạn để tải game và ứng dụng giờ em thay tài khoản app khi cập nhật ứng dụng thì nó lại hiện tài khoản cũ lúc ban đau tải game chứ không hiện tài khoản hiện tại em không thể cập nhật lên phiên bản cho các ứng dụng được mong anh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.401815,
+         "id": "896974",
+         "field_search": "question",
+         "question": "Khi em dùng ứng dụng messenger của facebook để gọi chiếc iphone của em nó nóng bừng lên đặc biệt khi gọi cả video và nó ngốn pin cực kỳ nặng. Nên cho em hỏi là máy có vấn đề gì không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.377514,
+         "id": "1152765",
+         "field_search": "question",
+         "question": "Bạn em xài J7 Prime hệ điều hành được cập nhật lên 9.0 vậy tại sao A6 Plus không có thông báo cập nhật ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.318922,
+         "id": "1144467",
+         "field_search": "question",
+         "question": "ad cho em hỏi: em muốn nâng cấp ios lên cao. nhưng em aan vào cập nhật phần mềm thì nó cứ hiện ra dòng chữ \"đang kiểm tra bản cập nhật\" mà nó mãi không hiện ra văn bản để cập nhất.e để cả 1 tiếng mà cũng không được. ad giuoa em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.268772,
+         "id": "912322",
+         "field_search": "question",
+         "question": " Cho hỏi có phần mềm quay video màn hình nào trên HDH ios 10.1.1 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.200977,
+         "id": "940163",
+         "field_search": "question",
+         "question": "iPhone 4s của em lúc trước em xóa hết tất cả ứng dụng trò chơi và mạng xã hội.bây giờ em muốn tải lại thì yêu cầu tạo ID Apple em gõ vào thì hiện lên .Bạn cần cập nhật ios mới tải game được. làm ơn giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.066526,
+         "id": "955962",
+         "field_search": "question",
+         "question": "Cho em hỏi cập nhật từ ios 7.1.2 lên 8 được không ạ .... Máy em không yêu cầu cập nhật nhưng vào tải game thì yêu cầu cập nhật cho em hỏi phải làm sao để cập nhật... Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.017126,
+         "id": "1166480",
+         "field_search": "question",
+         "question": "Samsung a20 báo yêu cầu cập nhật ứng dụng có nên cập nhật k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.981825,
+         "id": "1135141",
+         "field_search": "question",
+         "question": "E dùng ip5s ios7, messenger yêu cầu cập nhật thì e xoá tải lại nhưng vô nó vẫn yêu cầu cập nhật, bấm vô appstore thì mess không có chỗ cập nhật mà chỉ có chữ open để mở ứng dụng thôi ạ, giờ e không thể vào xem tin nhắn được vì nó cứ yêu cầu cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.94047,
+         "id": "1159919",
+         "field_search": "question",
+         "question": "Samsung j7 2016 không có bản cập nhật được lên android 7.0 và kiểm tra thì máy báo bản cập nhật mới nhất đã được cài đặt là bản 6.0.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.892237,
+         "id": "917565",
+         "field_search": "question",
+         "question": " Qtv cho mk hỏi s lại k tải dk facebook trên appstore và n bắt cập nhật ios mới nhất để tải ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.86876,
+         "id": "918063",
+         "field_search": "question",
+         "question": " ios 10.1.1 có về được 9.0.2 khôngmình đang sài iphone 5 muốn về ios 9.0.2 để jb ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.81996,
+         "id": "771024",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5, mấy hôm trước em có cập nhật lên iOS 9.2 nhưng giờ em muốn quay lại phiên bản iOS cũ (7.1.4) thì có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.754242,
+         "id": "799916",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 6 16GB của e mới tải có 3 ứng dụng à sao nó cứ báo dung lượng sắp đầy , rồi vào ứng dụng không được cứ bị dăng ra ngoài , rồi bị đứng máy nữa , có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.659576,
+         "id": "822372",
+         "field_search": "question",
+         "question": "Tại sao iphone 3G của e cập Nhật đến IOS 4.2.1 khi login vào AppStore thì nó bảo cập Nhật đến IOS mới nhất. Mấy a QTV giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.640938,
+         "id": "859232",
+         "field_search": "question",
+         "question": "Xin chào. Có thể cho tôi hỏi iphone4 của tôi mới khôi phục và cập nhật phần mềm lại , nhưng khổ nỗi là không thể cài đặt đc youtube, iphone báo phải cập nhật lên ios 8.0. Nhờ các a hướng dẫn giup. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.500662,
+         "id": "955222",
+         "field_search": "question",
+         "question": " Anhchị ơi cho em hỏi iPhone 4 có nên upload lên ios 8 không ạ , em đang dùng iOS 7 nén không thể tải facebook về ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.371347,
+         "id": "828882",
+         "field_search": "question",
+         "question": "Máy của e là ip5 lock nâng cấp lên 9.3.1 bây h vào facebook bằng 3g cứ báo không có mạng là sao ạ. Chỉ khi bắt wifi mới vào được thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.337671,
+         "id": "781313",
+         "field_search": "question",
+         "question": " Em đang dùng iphone 4s nhưng tải mp3 về cứ bắt chạy lên IOS.7 là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.298159,
+         "id": "922596",
+         "field_search": "question",
+         "question": "Anh cho e hỏi hiện tại e đang sử dụng iphone 5s và nâng cấp lên 10.1.1 em muốn cho zuống hệ điều hành này đc ko e cảm ơn 9.3.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.29249,
+         "id": "753262",
+         "field_search": "question",
+         "question": "Cho em hỏi máy của em vào phần cập nhật nó không hiện bản IOS nào nó chỉ hiện đang kiểm tra cập nhật. Làm thế nào để cập nhật bây giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.209475,
+         "id": "783213",
+         "field_search": "question",
+         "question": " Khi cập nhật lên ios 7 thì có mất dữ liệu của máy như game hay nhạc không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.059801,
+         "id": "834503",
+         "field_search": "question",
+         "question": "Mình vừa cập nhật ip5s 16g len ios 9.3 xong thì hiện lên bảng cập nhật nhà cung cấp nhưng khi mình ấn vào cập nhật thì không thấy j xảy ra nên mình tắt mạng vậy cho mình hỏi dt mình có bị j không và cập nhật nhà cung cấp là như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

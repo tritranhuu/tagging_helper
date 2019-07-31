@@ -1,0 +1,801 @@
+{
+   "id_query": "778116",
+   "total": 33406,
+   "total_current": 100,
+   "max_score": 97.909485,
+   "origin_question": "Hiện em đang dùng iphone 5s bản lock nhật có jb ios7, giờ e muốn update thì có lên ios 8 được ko ạ? Hay là bắt buộc nó sẽ lên 9 ạ. E cảm ơn",
+   "hits": [
+      {
+         "score": 47.437206,
+         "id": "776532",
+         "field_search": "question",
+         "question": " cho em hỏi e đang dùng ip5 ios 6 vậy giờ có lên được 7 không ạ hay bắt buộc phải lên 9 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.682266,
+         "id": "779252",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Sau khi restore lại iphone 4 thì có bắt buộc phải cập nhật lên ios 9 không ? Mà bắt buộc thì update lên thì máy sẽ bị giật,lag thì có cách nào khác không admin ? Tại máy em bây giờ đang bị vô hiệu hóa :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.22726,
+         "id": "1160572",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Giờ e đang oẻ ios 11.2 muốn lên ios 12 mà k muốn lên bản cao hơn thì có đk k ạ. Hay đã lên là bắt buộc phải lên bản mới nhất ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.323734,
+         "id": "1135143",
+         "field_search": "question",
+         "question": "Iphone5s của e giờ đang ở ios7 giờ em có thể lên ios 9 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.511864,
+         "id": "1138790",
+         "field_search": "question",
+         "question": "Chào shop ạ, e hiện tại đang dùng điện thoại iphone 5s. Bây giờ e muốn cập nhật lên phiên bản 10.2.1 có sợ bị giật không ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.73646,
+         "id": "781013",
+         "field_search": "question",
+         "question": "Em xin chào QTV hiện nay em đag dùng iPhone 5 quốc tế mà bản cập nhật 7. Em thấy nó bị giới hạn tải ứng dụng nên em muốn lên bản 8. Liệu có được không ạ? Mà trong máy có bản 9. rồi em không muốn lên 9. Mong QTV giúp em! Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.54298,
+         "id": "902470",
+         "field_search": "question",
+         "question": "cho em hoi Iphone 5s của em đang ở ios 7.1.2 em muốn lên ios 8 thì làm thế nào ak. em sợ cập nhật trong cài đăt lên ios 10 thì sẽ ko xuống dc ios 8 nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.37929,
+         "id": "745638",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng iphone 5s lock nhật ios 7.0.4. Tgdd cho mình hỏi mình muốn lên ios8.4 thì có được không a. ( - Shop có dịch vụ nâng cấp ios không ạ ??? )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.24656,
+         "id": "863462",
+         "field_search": "question",
+         "question": "Nếu muốn iphone 4s lên ios 9.3.3 mà em có nghe nói mọi người bảo iphone 4s bị khai tử nếu cập nhật ios lên thì sẽ bị hỏng máy thì có đúng không ạ.? Hiện tại máy e đang là ios 9.2(13c75) thì có lên được 9.3.3 không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.231804,
+         "id": "858356",
+         "field_search": "question",
+         "question": " Máy e iphone5 cập nhật từ IOS7 lên IOS 9 mãi ko dc   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.185146,
+         "id": "823037",
+         "field_search": "question",
+         "question": "Xin hỏi ạ e đang dùng iPhone 5s chạy bản 7.0.1 có 4G không ạ mà em kiểm tra không có chức năng đó hay phải cập nhật lên mới có ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.07002,
+         "id": "764118",
+         "field_search": "question",
+         "question": "Chào anh(chị)Em mới mua một chiếc iPhone 5s LOCK 32G. Em nghe bảo cần jaibreak mới fix được hết lỗi. Em cần một lời khuyên là em nên nâng cấp lên IOS mấy? 8.4.1 hay là bản 9. Bản iOS 9 nếu hết lỗi thì 5s có nên lên không vì em sợ máy chưa đủ độ như 6 hay 6sEm cảm ơn !!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.80784,
+         "id": "750367",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em update lên ios 9.1 giờ em muốn xuống ios 8 thì có xuống được không và có phải jailbreak không ạ em rất muốn xuống ios 8 nhưng em không muốn jailbreak em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.675735,
+         "id": "832464",
+         "field_search": "question",
+         "question": " Cho e hỏi 4s đang phiên bản 7.1. Giờ là phiên bản 9. Mà e chỉ muốn lên 8. Thì làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.422497,
+         "id": "751440",
+         "field_search": "question",
+         "question": " Mình đang dùng 5s lock nhật nhưng mình lên ios 9 có cách nào khắc phục lỗi không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.21778,
+         "id": "981733",
+         "field_search": "question",
+         "question": "Hiện giờ apple đã có phiên bản ios 10.3.1 ...em đang ở ios 8.4.1 thì e có thể up lên ios 9.3.5không? Tại vì ios 10 nhìn nó rối quá..e xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.161015,
+         "id": "788625",
+         "field_search": "question",
+         "question": " IOS 9.2.1 có bản jb chưa vậy ad em đang dung iphone 5s chạy IOS 9.2.1 em muốn jb ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.76007,
+         "id": "882990",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi. em lỡ update Iphone 5s của em lên phiên bản IOS 9.3.5 giờ nó hao pin nhanh quá em muốn hạ xuống IOS 9.3 thấp hơn hoặc 9.2 có được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.482643,
+         "id": "785818",
+         "field_search": "question",
+         "question": "Cho em hỏi gấp về iphone,em vừa mua con lock nhật và hệ điều hành là ios 6.1.4 bây giờ có cách update nào để lên 7.1.2 thôi không ạ,tại em nghe nói nếu update ios thì phải chọn cái mới nhất là 9. mấy thì phải",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.136436,
+         "id": "779619",
+         "field_search": "question",
+         "question": " e đang dùng ip 5 ios 8 có nên lên ios 9 không ạ và nên thì có vấn đề gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.823116,
+         "id": "761552",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi em đang dùng iPhone 6 Plus cũng đang muốn lên iOS 9.2 thế hiện giờ bản iOS đấy có dùng được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.787254,
+         "id": "740604",
+         "field_search": "question",
+         "question": " Admin ơi.  Em đang dùng iPhone 5s hệ điều hành ios 8.3. Bây giờ e muốn nâng cấp lên 8.4 thì có được nữa không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.662067,
+         "id": "744432",
+         "field_search": "question",
+         "question": " E đang dùng 5s nếu e cập nhật lên hệ điều hành 9.1 thì máy có bị giật lag không ạ. E cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.244793,
+         "id": "874784",
+         "field_search": "question",
+         "question": "Em đang dùng ipad 2 bản wifi và mới lên ios 9.3.4 thì thấy nó lag và tụt pin nhanh , cho em hỏi là có thể quay về ios 8 được không.em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.1509,
+         "id": "774881",
+         "field_search": "question",
+         "question": "Máy mình 4s ios 7.1 đã jailbreak giờ muốn xóa jb hoặc lên 8.x thôi thì có được không? Nếu được thì làm như thế nào? xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.111286,
+         "id": "742452",
+         "field_search": "question",
+         "question": " Máy em iPhone 5 xài iOS 6 giờ nâng cấp hệ điều hành lên iOS 7 hay iOS 8 có được không hay lên là lên bản cao nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.021435,
+         "id": "901816",
+         "field_search": "question",
+         "question": " Qtv ơi cho e hỏi. Là đt của e giờ vẫn đang dùng iOS 7.1.2 bây giờ e muốn lên iOS 8 có đc k? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.896717,
+         "id": "918689",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5s lock ios 7 mình muốn lên ios 10 đuoc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.841614,
+         "id": "786468",
+         "field_search": "question",
+         "question": "iphone 5 lock từ nhật gủi về ,k bik nó có \"\"S\"\" không nữa,mà mình mún p từ bản ios 6 lên 7 thôi dc k ạ,nghe nói nó up thẳng lên bản cao nhất là 9.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.836845,
+         "id": "894029",
+         "field_search": "question",
+         "question": "cho em hỏi một chút là hiện tại e đang dùng ip 5 vì trước đây không muốn nâng ios nên e vẫn để ios 7.1.1. bây giờ ip đã có đến ios 10 nhưng e chỉ muốn nâng lên ios 8 thì có cách nào không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.764137,
+         "id": "864282",
+         "field_search": "question",
+         "question": " Chào ad ạ, hiện tại e đag dùng ios bản 9.2 bây giờ em muốn hạ xuống bản ios 8 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.564068,
+         "id": "936650",
+         "field_search": "question",
+         "question": "Giúp em với! Em làm rơi máy tính nên giờ nó bắt dùng đĩa để khởi động thì giờ có cách nào làm nó khởi động hay bắt buộc phải mang ra quán dùng đĩa ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.412807,
+         "id": "760416",
+         "field_search": "question",
+         "question": " Mình đang xài iPhone 5 Lock iOS 8.4.1 chưa jailbreak thì có nên update lên iOS 9.2 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.35653,
+         "id": "930852",
+         "field_search": "question",
+         "question": "e hiện tại đang dùng iphone 4 hệ điều hành iOS 7.1.2 và e muốn nâng cấp nó lên phiên bản thấp nhất là 8.0 ko biết có đc ko ạ? e thấy bạn e cũng dùng iphone 4 mà nâng cấp đc thành ios 8.0 rồi. nhờ ad hướng dẫn cho e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.316185,
+         "id": "770543",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 4 của em có up lên iOS 8 hay 9 được hong ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.223763,
+         "id": "891915",
+         "field_search": "question",
+         "question": " Ad cho e hỏi. Iphone 5s có nên lên ios10 ko. E dang phân van. Hiện e đang dùng ios 8.4.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.133026,
+         "id": "901028",
+         "field_search": "question",
+         "question": "xin chào các anh chị.em đang xài IPhone 5 chạy IOS 7.1.2 giờ em muốn lên 8. có được không ạ.và các anh chỉ cho em cách cài lên 8. e cám ơn nhìu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.069588,
+         "id": "836775",
+         "field_search": "question",
+         "question": " Em có 1 con iphone 5 dùng IOS 6.1 em muốn nâng lên 8.4 có được ko ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.712505,
+         "id": "893735",
+         "field_search": "question",
+         "question": " Chào ad. Hiện tại mình dùng iphone 5s và đã nâng cấp lên ios 10 rồi bây giờ mình muốn xuống lại ios 9 được k ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.497364,
+         "id": "863467",
+         "field_search": "question",
+         "question": "Em muốn nâng cấp iphone 4s lên ios 9.3.3 nhưng em nghe nói iphone4s bị khai tử nên nếu nâng cấp ios thì sẽ bị hỏng máy.. Vậy em có lên được ios 9.3.3 cho máy iphone4s được không ạ? Máy e hiện đang là ios 9.2(13C75)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.37291,
+         "id": "765186",
+         "field_search": "question",
+         "question": "Hiện tại em có iphone 5s máy lock bây giờ em muốn chuyển lên bản Quốc tế thì làm như thế nào ạ và khi chuyển lên có phải nâng cấp không và máy dùng có ổn định không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.296112,
+         "id": "939588",
+         "field_search": "question",
+         "question": " Cho em hỏi cách nâng cấp từ ios 7 lên ios 8 hay 9 thì làm sao ạ ? em đang sài iphone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.226456,
+         "id": "763617",
+         "field_search": "question",
+         "question": " AD ơi. Hiện giờ em đang dùng iPhone 5 chạy ios 9.1 mà giờ nó gửi em bản 9.2. Vậy em có nên nâng lên 9.2 không ạ...???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.22279,
+         "id": "965066",
+         "field_search": "question",
+         "question": " giờ em muốn lên hdh ios 8.1.1 lên ios 9 thì có đc k?máy e báo cập nhập lên ios 10.2.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.046593,
+         "id": "771024",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5, mấy hôm trước em có cập nhật lên iOS 9.2 nhưng giờ em muốn quay lại phiên bản iOS cũ (7.1.4) thì có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.914408,
+         "id": "819318",
+         "field_search": "question",
+         "question": " AD cho e hỏi hiện tại e có thể hạ bản ios 9 xuống ios 8 k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.91141,
+         "id": "755579",
+         "field_search": "question",
+         "question": "Em cập nhật lên ios 9 giờ khi khoá xoay màn hình thì em không dùng được nút xoay trên phím home ảo theo ý mình như ios 8 được. Có phải ios 9 huỷ tính năng này không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.682144,
+         "id": "820896",
+         "field_search": "question",
+         "question": "DX3P75PPFRC6352040068352210Đây là seri và imei của chiếc iPhone 5s 16gb gold mà e từng mua ở tgdd, các a kỹ thuật viên có thể giúp e xem nó là bản lock hay quốc tế được không, cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.615824,
+         "id": "781413",
+         "field_search": "question",
+         "question": "Anh/Chị có thể cho em hỏi có thể nâng cấp trực tiếp từ IOS 7 trên iPhone 5S lên IOS 9 được không ạ? Nếu không thì làm cách nào? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.478197,
+         "id": "966141",
+         "field_search": "question",
+         "question": " Qtv ơi e đang sử dụng iphone 4s nhưng phiên bản là 7. Giờ e muốn nâng cấp lên 8. Thỳ làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.417982,
+         "id": "922769",
+         "field_search": "question",
+         "question": "iPhone 6 plus của em nó cứ bắt cập nhật lên 10.1.1 thì mới cài được ứng dụng facebook thế có nên lên ios 10.1.1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.27439,
+         "id": "757877",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 4S mà lỡ cập nhật lên ios 9.2 rồi, bây giờ còn có thể hạ xuống 8.4 được không?Cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.257074,
+         "id": "762692",
+         "field_search": "question",
+         "question": " Cho em hỏi bản 9.2 đã JB được chưa ạ? Với iphone 5s lock ấy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.23712,
+         "id": "754729",
+         "field_search": "question",
+         "question": " Cho e hỏi là máy iPhone 5S ios 9.0.2 lock nhật đã jailbreak được chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.175531,
+         "id": "1008807",
+         "field_search": "question",
+         "question": "Chào ad e đang dùng con oppo a39 dùng adroids 5.1 bây giờ có lên được 6.0 ko. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.075153,
+         "id": "897650",
+         "field_search": "question",
+         "question": "điện thoại mình là ip6 plus chạy ios 9.2.1, mình muốn update lên ios nhưng khi vào phần cập nhật phần mềm trong cài đặt chung thì không hiện lên bản ios để Tải về và Cài đặt mà lúc nào cũng báo là đang kiểm tra các bản cập nhật cả ngày. Vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.061028,
+         "id": "955491",
+         "field_search": "question",
+         "question": " iPhone 5s của e đang xài ios 7,1 giờ e muốn nâng cấp lên ios 9.3 đc k vậy quản trị, e xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.049538,
+         "id": "1023694",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6 lock nhật có lên ios 11 được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.997007,
+         "id": "824489",
+         "field_search": "question",
+         "question": " Ad giúp em kiểm tra xem ip này là bản quốc tế hay lock được ko ạ?imei 013425008828802 E CẢM ƠN Ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.965502,
+         "id": "759631",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 4s bản 8g định lên iOS 9 không biết có ổn định không hiện tại máy chạy iOS 8.3.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.946484,
+         "id": "746080",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi e đang dùng iphone 5s bản của mĩ (model a1533) . Em nâng cấp lên ios 9.0.2 e mua sim 4g sao ko dùng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.698751,
+         "id": "1133298",
+         "field_search": "question",
+         "question": "Anh chị ơi. Em đang dùng ip 5s, chạy ios 9.3.2. Em đang muốn nâng lên ios cao hơn vì em chơi liên quân hay bị out game ra( đang load vào trận nó out game ra). Em có vào cài đặt rồi chọn mục cập nhật phần mềm nhưng nó load lâu quá mãi có bản cập nhật.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.471006,
+         "id": "856180",
+         "field_search": "question",
+         "question": "Chào Mod. Mod cho mình hỏi mình đang dùng IP5 đã jb ios 6.1. Vậy mình có thể nâng cấp lên IOS 8.1 được không, hay phải nâng cấp lên bản IOS mới nhất ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.439651,
+         "id": "790899",
+         "field_search": "question",
+         "question": "Em có máy iPhone 5:cho em hỏi là sao em nâng lên iOS 9.2 thì wifi kém và chập chờn ạ có về được bản 8.1 hay nhỏ hơn 9 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.385933,
+         "id": "767338",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 iOS 6.1.4 giờ em muốn lên bản cao hơn nhưng giữ lại bản 6.1.4 này sau mà dùng không thích có thể quay về được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.3554,
+         "id": "956915",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone 6 lock của mình đang ở ios 9.3Mình muốn đặt lại tất cả cài đặt dòng 2 thì có bị nâng lên ios 10.2.1 không ạ?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.335878,
+         "id": "1157378",
+         "field_search": "question",
+         "question": "Máy em ios 9 muốn cập nhật lên ios 12 thì bị thế này em , nếu em ra ngoài cập nhật khi nào có bản mới muốn cập nhật thì phải làm thế nào ạ với lại em không có máy tính nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.329523,
+         "id": "795400",
+         "field_search": "question",
+         "question": "QTV cho e hỏi ạ. E đang dùng iPhone 4s, e chót lỡ lên IOS 9.1 . Máy dùng dơ với giật quá ạ. Giờ e muốn hạ xuống IOS 7.1 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.27473,
+         "id": "750031",
+         "field_search": "question",
+         "question": "AD cho mình hỏi mình dùng iphone 5s trước dùng ios cũ vẫn xem video bình thường mà lên ios 9 trang web bây giờ không xem được video giúp mình một chút được không ạ? Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.254868,
+         "id": "990725",
+         "field_search": "question",
+         "question": "E đang sử dụng Ip5s, e mới cập nhật lên IOS 10.3.2 được gần 1 tháng. Lúc mới cập nhật thì điện thoại e sử dụng bình thường, có phần mượt hơn IOS 9 nhưng thời gian gần đây e thấy điện thoại ko còn mượt nữa, nhiều lúc rất lag và hay bị treo màn hình phải tắt màn hình đi xong bật lại mới được. Cho e hỏi là điện thoại e bị như vậy có phải do HĐH hay ko, và nếu là do HĐH thì có nên hạ HĐH xuống hay ko. Mong nhận được câu trả lời sớm nhất ạ, e xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.219568,
+         "id": "1159805",
+         "field_search": "question",
+         "question": "Xin chào. Mình muốn hỏi là TGDĐ có update máy ASUS Win 10 từ 32bit lên 64bit không ạ?. Nếu có thì phí sẽ là bao nhiêu ạ?. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.161886,
+         "id": "788450",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iphone 4s lên được ios 9.1.2 là kịch àmà ios 9.1.2 đã có jb chưa ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.099976,
+         "id": "801200",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi 1 chút là em đang dùng con 5s lock nhật. em dùng itunes, restore lại máy.xong và bắt đầu chọn lại từ đầu là ngôn ngữ đến vùng rồi wifi rồi tiếp theo nó bắt lắp sim mà em không có sim và không đi tiếp được nữa là sao ạ? Trước em vẫn dùng không có sim chỉ dùng wifi vẫn được màEm cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.098452,
+         "id": "922596",
+         "field_search": "question",
+         "question": "Anh cho e hỏi hiện tại e đang sử dụng iphone 5s và nâng cấp lên 10.1.1 em muốn cho zuống hệ điều hành này đc ko e cảm ơn 9.3.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.084301,
+         "id": "1136831",
+         "field_search": "question",
+         "question": "Hiện em đang dùng iphone 5s lock em đang dùng 1 sim khác nhưng mà bayh em muốn đổi sim thì có đổi được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.049013,
+         "id": "749124",
+         "field_search": "question",
+         "question": " Cho em hỏi e đang dùng Iphone 5s IOS 9.1  giờ em muốn hạ xuống IOS 8.4 có được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.882692,
+         "id": "795010",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5s . Em muốn tải AppStorevn cho máy chưa jaibreak mà sao kích vào tải nó hiện lên dòng chữ này thì phải làm sao mới tải được ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.78719,
+         "id": "842379",
+         "field_search": "question",
+         "question": " Cho em hỏi e muốn tắt tiếng cam ios 9.3.1 máy nhật, bên tgdd có hỗ trợ ko ạ.. hay e phải làm cách nào. em cảm ơn.! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.78498,
+         "id": "769907",
+         "field_search": "question",
+         "question": "Cho e hỏi e đag dùng 5s mà lỡ lên 9.2 bây giờ e muốn dùng 8.4 thì có hạ được không ạ tại lên 9.2 máy hay đơ lắm và không được như trước kia nửa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.730883,
+         "id": "779200",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi sao bấm vô cập nhật phần mềm của Iphone thì nó cứ tìm kiếm mãi mà không ra vậy ạ!? E muốn nâng cấp lên IOS 9.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.65226,
+         "id": "783604",
+         "field_search": "question",
+         "question": " QTV cho em hỏi tí ạ. em có con ip4s bản ios6. giờ em muốn lên ios7 phải làm như nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.646116,
+         "id": "766636",
+         "field_search": "question",
+         "question": " Chào ad điện thoại iPhone 5s với giá 8 triệu 400 thì là bản quốc tế hay bản lock ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.56352,
+         "id": "823035",
+         "field_search": "question",
+         "question": " Xin hỏi e đang dùng iPhone 5s chạy ios 7.0.4 có 4 g không ạ mà e vào tìm không có. Xin cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.47726,
+         "id": "844912",
+         "field_search": "question",
+         "question": " Cho e hỏi e lên ios 10 bản beta giờ e muốn xuống giúp e được không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.449284,
+         "id": "795717",
+         "field_search": "question",
+         "question": " Anh cho em hỏi iphone 5 lock em đang dùng bản 9.1 không có phần hospot em thì lên bản 9.0.2 có phần hospot không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.434319,
+         "id": "775886",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng iPhone 5 lock nhật nhà mạng Softbank. Dùng sim ghép heaicard v7.4 em có nâng cấp lên ios 9.2.1 được không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.430325,
+         "id": "796326",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chút ạ. Em đang dùng ipad 1 chạy ios 5.1.1 đã jailbreak giờ em muốn chạy lên ios mới nhất thì có lên được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.41501,
+         "id": "840617",
+         "field_search": "question",
+         "question": "bây giờ máy e là iphone 5s mới cập nhật lên ios 9.3.2 mà giật và lag qua . e muôn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.337505,
+         "id": "1021958",
+         "field_search": "question",
+         "question": "Qtv ơi cho e hỏi. Máy e đang sử dụng ios11. Nhưng tự nhiên bây h ko kết nối đc với appstore nữa. Restart, thoát icloud ko đc. Mà bây h e ko cập nhật đc bản ios mới nữa. Nó cứ bảo là up to date mà ip của e cập nhật đều đều. Có phải là lỗi của ios11 hay ko ạ. Giúp e với ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.297709,
+         "id": "1166412",
+         "field_search": "question",
+         "question": "Em dùng iphone 7. Khi update lên ios 12.2 thì bị lỗi mất sóng và mất imei. Em có đọc được thông tin là apple sẽ hổ trợ sửa lỗi này miễn phí. Vậy giờ bên mình có nhận chuyển điện điện lên trung tâm apple để sửa chữa không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.29613,
+         "id": "990431",
+         "field_search": "question",
+         "question": "Hiện tại e đang dùng ipad air 2 và chạy ios 11 bản beta. Máy có hiện tuọng giật lag. Cho e hỏi có cách nào để hạ xuống ios 10.2.3 k. Bao giờ ra bản chính thức ios 11 thì máy có tự cập nhật bản ms nhất k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.248867,
+         "id": "796328",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chút ạ. Em đang dùng ipad 1 chạy ios 5.1.1 đã jailbreak giờ em muốn chạy lên ios mới nhất thì có lên được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.245726,
+         "id": "842875",
+         "field_search": "question",
+         "question": " iPhone của e là phiên bản lock ngưng e đã unlock bằng phần cứng rồi giờ e reset máy nó có bị lock lại ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.119078,
+         "id": "929028",
+         "field_search": "question",
+         "question": "Cho e hỏi vì sao pin của e vẫn tốt mà tụt pin hoài,không dùng cũng tụt. Hay do e mới cập nhật IOS 10.2 ạ. Điện thoại e là Ip 5s ạ. Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.108313,
+         "id": "1023895",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6s plus hiện tại mình mới cập nhật lên ios 11 nhưng do gặp nhiều lỗi,máy thỉnh thoảng giật lag,thoát ứnng dụng đột ngộtVậy mình có thể up xuống bản ios 10.3.3 được không?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.069664,
+         "id": "925261",
+         "field_search": "question",
+         "question": " Tôi đang sài iphone 5s chay ios 10.1.1 giờ muốn chuyển về bản 9 nào gần nhất được không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.006683,
+         "id": "1146579",
+         "field_search": "question",
+         "question": "Cho mình hỏi Nokia 6 có được update lên Android 9 không ? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.98486,
+         "id": "774862",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 đã lên iOS 9.2 vừa nẫy máy có bản cập nhật iOS 9.2.1 em không tải mà sao máy đã tự tải về vậy em có lên cài đặt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.974976,
+         "id": "1136366",
+         "field_search": "question",
+         "question": "Iphone 6 của e lên ios 12.1 có jb đc k adNếu được mong ad trả lời giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

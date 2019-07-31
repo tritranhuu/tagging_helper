@@ -1,0 +1,802 @@
+{
+   "id_query": "1140710",
+   "total": 24542,
+   "total_current": 100,
+   "max_score": 44.556828,
+   "origin_question": "Tại sao oppo a3s không cài đặt trợ lí google được.",
+   "short": "đt ko cài đc gooogle assistant",
+   "hits": [
+      {
+         "score": 18.75807,
+         "id": "999746",
+         "field_search": "question",
+         "question": "Oppo r8007  tải  sao cài google play services không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.664644,
+         "id": "1155253",
+         "field_search": "question",
+         "question": "Điệb thoại Oppo a3s em mới mua về thì sạc sao cho hợp lí ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.264297,
+         "id": "862340",
+         "field_search": "question",
+         "question": " Chào ad iPhone 4s của e tại sao không thấy cho mục quản lí thiết bị trong cài đặt chung ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.019793,
+         "id": "1020335",
+         "field_search": "question",
+         "question": " oppo f3 tại sao không cài đặt được font chữ.đã thử rất nhiều lần nhưng không cài được.mong được chỉ giúp  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.956991,
+         "id": "1149150",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Mình dùng Oppo a3s , tại sao mình không tải các ứng dụng trên Google Play về thẻ SD được mà nó lại tải trên lưu trữ thiết bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.885756,
+         "id": "808093",
+         "field_search": "question",
+         "question": "tại sao tải game cf về laptop không được, và tại game từ google play và cài đặt cần pass ; email or phone , nhưng tôi không có.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.671213,
+         "id": "1158671",
+         "field_search": "question",
+         "question": "Cửa hàng cho em hỏi tại sao oppo a3s không tải được facebook ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.447304,
+         "id": "1167262",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo a3s có hỗ trợ sạc nhanh được không 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.282585,
+         "id": "1149292",
+         "field_search": "question",
+         "question": "Cách cài đặt mở màn hình 2 chạm trên điện thoại oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.071747,
+         "id": "1164623",
+         "field_search": "question",
+         "question": "Làm sao để bật tính năng OK Google lên được ạ? Em vào mà nó cứ không cho bật. Oppo A3S, mong được các anh giúp đỡ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.818981,
+         "id": "1139936",
+         "field_search": "question",
+         "question": "Mình đang xài oppo a37 mình gỡ cài đặt ứng dụng không xài như Google play trò chơi, Google play phim thì có ảnh hưởng gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.80354,
+         "id": "998102",
+         "field_search": "question",
+         "question": "Em dùng oppo joy 3 tại sao em tải fb về nó không cài đặt được hiện báo lỗi 24",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.674164,
+         "id": "1020481",
+         "field_search": "question",
+         "question": "cho hỏi tại sao oppo f3 ko cài được ứng dụng font chữ vậy.đã tải nhiều ứng dụng ma vẫn không có cái nào cài đặt được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.556097,
+         "id": "1143487",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi là máy mình OPPO A3S khi tải Liên Quân về thì nó không thể cài đặt được..toàn báo lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.154667,
+         "id": "1158638",
+         "field_search": "question",
+         "question": "Mình có mua cái Oppo a3s nhưng ko biết cách đẻ cài đặt nhấn đúp . Chỉ mình nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.059183,
+         "id": "1138404",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại oppo a3s 16gb tại thế giới di động giờ tôi muốn đổi oppo a3s 32gb cáp thêm tiền được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.937366,
+         "id": "1165723",
+         "field_search": "question",
+         "question": "cho em hỏi muốn cài đặt điều hướng hệ thóng của oppo a3s thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9141035,
+         "id": "1160432",
+         "field_search": "question",
+         "question": "pin và điện thoại oppo a3s có hỗ trợ sạc nhanh không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.53565,
+         "id": "1140275",
+         "field_search": "question",
+         "question": "Hiện tại em đang sử dụng điện thoại oppo a3s .e có cài đặt các cử chỉ khi màn hình tắt như nhấn đúp để mở máy , vẽ chữ o để chụp ảnh ... Nhưng cảm ứng vô cùng chập chờm lúc được lúc lại không cho em hỏi tại sao lại như vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.480759,
+         "id": "1009171",
+         "field_search": "question",
+         "question": "Tại sao oppo f3 không có cài đặt font chữ v add.....ad giải đáp giúp em với ạ. ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.386173,
+         "id": "1148781",
+         "field_search": "question",
+         "question": "Oppo A3s có hỗ trợ định dạng thẻ sd làm bộ nhớ trong không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.382942,
+         "id": "1150267",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao đt oppo A3s khi quay màn hình lại không có tiếng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.274523,
+         "id": "768382",
+         "field_search": "question",
+         "question": "Tại sao iPhone 5 ( có Jaibreak) của em không truy cập được địa chỉ Google, tất cả các ứng dụng sử dụng địa chỉ Google để tìm kiếm đều không vào được ( không load được tẹo nào ), cả Youtube cũng không vào được ạ. ...( Nếu vào Safari cài đặt Bing hoặc Yahoo làm công cụ tìm kiếm thì vẫn tra cứu được, nhưng các phần liên quan đến google và truy cập youtube qua safari đều không có kết nối )....Mong được thegioididong trợ giúp khắc phục , em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.213649,
+         "id": "1134414",
+         "field_search": "question",
+         "question": "Tại sao em không vào được app store dù em đã cài đặt giờ như các cách. Cài đặt lại máy vẫn không được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.052329,
+         "id": "1156156",
+         "field_search": "question",
+         "question": "Tại s tui không cài file ứng dụng đã tải về trên google được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.915631,
+         "id": "1167684",
+         "field_search": "question",
+         "question": "sao mình không cài được google  Assistant máy mình là oppof7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9002695,
+         "id": "1021475",
+         "field_search": "question",
+         "question": "Achi ơi cho em hỏi sao oppo neo9 sao k cài đặt viế được chữ nhật bản ... Chị có thế giúp e cài đặt được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.880344,
+         "id": "800249",
+         "field_search": "question",
+         "question": " Tại sao không khôi phục cài đặt gốc được, máy đòi hỏi mã pin ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.770197,
+         "id": "809071",
+         "field_search": "question",
+         "question": " Tại sao cài đặt hình nền live lại không được ạk. Trên iphone 6s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.695411,
+         "id": "1164910",
+         "field_search": "question",
+         "question": "Admin ơi, cho mình hỏi bên thế giới di động có hỗ trợ khách cài đặt app không ạ tại mình không biết cách để cài đặt app Wechat với Weibo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.619477,
+         "id": "1140981",
+         "field_search": "question",
+         "question": "Sao máy Oppo A3s của em,dùng tai nghe mà không nghe được âm thanh trái phải của tai nghe ạ(Máy oppo a3s khác thì nghe đc)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.541436,
+         "id": "779730",
+         "field_search": "question",
+         "question": " Tại sao không tải được Internet Download Manager có thể hướng dẫn mình cài đặt không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.44821,
+         "id": "1143522",
+         "field_search": "question",
+         "question": "oppo a3s không có hổ trợ tai nghe vậy phải mua tai nghe ngoài của sản phẩm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.428805,
+         "id": "996179",
+         "field_search": "question",
+         "question": "Cho tui hỏi điện thoại oppo neo 7 có hỗ trợ mạng4G không cho biết cách cài đặt chuyển sang mạng 4G",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.396315,
+         "id": "1140921",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao điện thoại Oppo a3s 16G mà chỉ xài được có 8G thôi ạ Làm sao để mở thêm G ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.382215,
+         "id": "752612",
+         "field_search": "question",
+         "question": " Tôi không cài đặt được IOS 8.4.1 làm sao để cài đặt được ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.376132,
+         "id": "1134127",
+         "field_search": "question",
+         "question": "Ad cho e hỏi tí: làm sao để cài đặt hiện tin nhắn messenger khi e đang xem phim hoặc onl fb trên điện thoại oppo a3s ạ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.218029,
+         "id": "807704",
+         "field_search": "question",
+         "question": " Cho mình hỏi tại sao máy tính bảng của mình lại không cài đặt messenger được??  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.195304,
+         "id": "1157809",
+         "field_search": "question",
+         "question": "Điện thoại oppo A3s của em giờ không lên nguồn được phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.093602,
+         "id": "779395",
+         "field_search": "question",
+         "question": " Chào bàn tại sao trên điện thoại iphone 5 của tôi không cài đặt được cydia ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.083664,
+         "id": "1150635",
+         "field_search": "question",
+         "question": "Tại sao tải hết 100 lại hk cài đặt . e đang sài nova2i .chạy hết 100 vẫn hk cài đặt được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.030919,
+         "id": "1022338",
+         "field_search": "question",
+         "question": "Em dùng samsung galaxy s5 tại sao ấn khôi phục cài đặt gốc lại hiện lên là cài đặt đã dừng rồi không khôi phục được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.998683,
+         "id": "808723",
+         "field_search": "question",
+         "question": "Mình vừa mua win bản quyền nhưng không biết cách cài đặt vậy thegioididong có thể hỗ trợ cài đặt giúp mình được không?? Mình cám ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.970056,
+         "id": "1159226",
+         "field_search": "question",
+         "question": "Tại sao oppo a3s giữ phím tắt nguồn lại vào ứng dụng goole cần cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.788535,
+         "id": "1158288",
+         "field_search": "question",
+         "question": "Em có mua máy oppo A3S bên mình em mua trả góp ạ hiện tại em trả được 2 tháng rồi ạ cho em hỏi máy bây giờ bị sập nguồn và bật không lên . Em muốn hỏi xem có được hỗ trợ sửa máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.765308,
+         "id": "1163590",
+         "field_search": "question",
+         "question": "Làm sao để root trên điện thoại Oppo A3s mong được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.625885,
+         "id": "999627",
+         "field_search": "question",
+         "question": " Tại sao mình lại không gỡ cài đặt app này đượcvậy ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.593594,
+         "id": "764606",
+         "field_search": "question",
+         "question": " Oppo Neo 7 chơi được Asphalt 8 không ạ. Nếu được thì cài đặt thế nào vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.522937,
+         "id": "772575",
+         "field_search": "question",
+         "question": " Cho mình hỏi cài đặt imessge như thế nào. Sao mình cài đặt không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.517764,
+         "id": "1137895",
+         "field_search": "question",
+         "question": "Anh oi em cập nhập windown 10 rồi nhưng sao em cài ứng dụng không được nó hiện chờ xử lí",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.512259,
+         "id": "750351",
+         "field_search": "question",
+         "question": " Muốn cài đặt định vị trên oppo mirror 5 làm Sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.445791,
+         "id": "1011887",
+         "field_search": "question",
+         "question": " máy em bị như thế là lỗi gì. Em đã xóa dữ liệu, cài đặt lại google play rồi mà vẫn không được.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.416321,
+         "id": "1163945",
+         "field_search": "question",
+         "question": "Cho em hỏi Oppo A3s có nhân đôi ứng dụng được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.416321,
+         "id": "1150336",
+         "field_search": "question",
+         "question": "Máy oppo a3s không mở trẹo được lam sau để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.380505,
+         "id": "818933",
+         "field_search": "question",
+         "question": " Tại sao em đã tải về rồi mà không cài đặt được facebook chỉ tải được fb lite là sao ạ chỉ em với.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.378682,
+         "id": "845850",
+         "field_search": "question",
+         "question": " Tại sao khi cài đặt zalo lại báo là không thể tải xuống ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.377283,
+         "id": "830480",
+         "field_search": "question",
+         "question": "Cho e hỏi là mình gỡ cài đặt messenger ròi bây giờ muốn cài đặt lại nó kêu cần phải đăng nhập tài khoản google của mình là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.359489,
+         "id": "1148457",
+         "field_search": "question",
+         "question": "Oppo a3s có thể chuyển nhạc vào thẻ nhớ được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.305378,
+         "id": "940070",
+         "field_search": "question",
+         "question": " thegioididong có hổ trợ cài đặt phần mềm cho laptop không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.298303,
+         "id": "811427",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5s Mình vào google thì thấy google báo bị nhiễm 6 virut cần cài uc brower mà mình cài đặt vào vẫn thấy như thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.280358,
+         "id": "1000860",
+         "field_search": "question",
+         "question": "bên mình có hỗ trợ cài đặt word 2016 không ạ? và mình muốn update lên windows 10 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.270846,
+         "id": "1146904",
+         "field_search": "question",
+         "question": "Làm sao ẩn imei điên thoại oppo a3s để nhà phát hành game không tìm được bị khi chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.241503,
+         "id": "1137043",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi với, hiện tại em đang dùng J2 Prime nhưng không thể kết nối được vào Facebook, cài đặt lại password thì nhận được thông báo Lỗi không xác định mong được hỗ trợ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.198836,
+         "id": "834139",
+         "field_search": "question",
+         "question": "Tại sao khi vào cài đặt chung của iphon5s rồi vào trợ năng sau đó bấm chữ đậm sao nó ra như vầy nó cứ đứng như vậy miết là vì sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.196939,
+         "id": "1022113",
+         "field_search": "question",
+         "question": "E quên mật khẩu oppo neo9 mà đăng nhâp google không được thì phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.144425,
+         "id": "1145434",
+         "field_search": "question",
+         "question": "Làm sao khắc phục lỗi không thể cài đặt ứng dụng ạ?? Máy e oppo f1s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.110458,
+         "id": "1015722",
+         "field_search": "question",
+         "question": "Tại sao tôi muốn khắc phục tình trạg gửi tin nhắn lỗi cho các đầu số ngắn mà vào phần cài đặt trên đt samsung j2 prime chọn phần ừn dụng lại k thấy có phần quản lí ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.101094,
+         "id": "1154219",
+         "field_search": "question",
+         "question": "Oppo a3s sạc không dây được khôngMong trả lờ sớm nhất có thể",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.089868,
+         "id": "1148610",
+         "field_search": "question",
+         "question": " Sao tôi ko bật được ok google trong Voice matchTôi dùng F9 oppo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.064118,
+         "id": "793104",
+         "field_search": "question",
+         "question": " bên TGDD có hỗ trợ hướng dẩn cài đặt smartwacth với iPhone không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.060698,
+         "id": "1159218",
+         "field_search": "question",
+         "question": "Vì sao oppo a3s của em sac qua đem hôm sau dậy là máy bị chết luân không len được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.060179,
+         "id": "1133886",
+         "field_search": "question",
+         "question": "Mình có mua cái Oppo A3S 16G mà sao không chuyển dung lượng máy sang thẻ nhớ được vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.054262,
+         "id": "1000120",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách cài đặt google Chrome và youtube trên galaxy book",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.052466,
+         "id": "1007891",
+         "field_search": "question",
+         "question": "Iphone 4s tải ứng dụng trên google về lúc tải xong đang cài đặt . Máy lại báo là không thể tải ứng dụng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.045754,
+         "id": "1166925",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu xoá dữ liệu của google play thì có ảnh hưởng gì không ạ?? Bởi vì mình muốn tăng dung lượng bộ nhớ cho điện thoại Oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.009489,
+         "id": "1136838",
+         "field_search": "question",
+         "question": " Tại sao máy của mình tải Zalo về lại không hiện trên màn hình mà phải vào cài đặt mới mở được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.98657,
+         "id": "1017920",
+         "field_search": "question",
+         "question": "Tôi muốn khồi phục cài đặt gốc điện thoại oppo r1001. Nó cứ hiện mật khẩu và tôi đã nhập đúg mật khẩu 0000, và cứ hiện mật khẩu lên, không cài đặt gốc đc. Nhờ trợ giúp cho tôi, xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.982589,
+         "id": "813959",
+         "field_search": "question",
+         "question": " Ad ơi tại sao mình dùng mấy cái hình này ở zalo mà nó lại tự lưu hết vào trình quản lí tệp là sao .máy oppo mirror 5   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.971189,
+         "id": "1146772",
+         "field_search": "question",
+         "question": "Thay pin cho Oppo A3s giá bao nhiêu vậy Ad.Điện máy xanh có hỗ trợ thay không, giá pin và tiền công thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.928168,
+         "id": "1163405",
+         "field_search": "question",
+         "question": "Em đang dùng oppo a3s Làm sao để chuyện sang phiên bản colorOS được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.846805,
+         "id": "1007473",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo.  Tại sao khi sạc tới 63% thì nó dừng lại.  Và báo rằng \"Pin không hơp lí,  để đảm bảo an toàn,  ngưng sạc\" vậy?? Làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.838237,
+         "id": "1134446",
+         "field_search": "question",
+         "question": "Máy samsung galaxy grand prime lỗi: Vào Cài đặt - Tài khoản - Google bị lag đơ luôn mục đó ko thể xóa tài khoản google được ( kiểu thông báo  không phản hồi luôn ạ ). ad chỉ em cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.813831,
+         "id": "1168828",
+         "field_search": "question",
+         "question": "Tôi dùng điện thoại oppo A3s mà sao cuộc gọi không sáng đèn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.810173,
+         "id": "1149819",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có hỗ trợ cài đặt win10 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.749378,
+         "id": "1134807",
+         "field_search": "question",
+         "question": "xin chaocho tôi hỏi, tôi mới mua điện thoại oppo a3s, bên phần cài đặt phần mềm hệ thống phiên bản mới nhưng tôi không thích, thì làm sao loại bỏ phần thông báo cập nhật hệ thống đó, rất mong sự hướng dẫn của TGDD thank!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.727155,
+         "id": "1136714",
+         "field_search": "question",
+         "question": "mình dùng oppo a37f tại sao máy mình tắt màn hình khóa hình k được ạ, nó ghi là phải tắt mật khẩu phải xía thông tin đăng nhập dược lưu trữ trong cài đặt , cài đặt bổ sung, bảo mặt và riêng tư . Vậy làm sao để tắt khóa hình đt đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.718678,
+         "id": "847419",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy Oppo f1 của mình tại sao không báo thức được. Đặt báo thức mà chuông không kêu, cũng không có phản ứng gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.682202,
+         "id": "788913",
+         "field_search": "question",
+         "question": "    em dùng iphon4 .e vao phần xóa cài đặt mạng giờ nó như thế nay em phải xử lí thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.676188,
+         "id": "1161980",
+         "field_search": "question",
+         "question": "Trung tâm có hổ trợ kỷ thuật cài đặt Face ID không ạ. Nếu có tôi muốn cài Face ID trên con máy Xiaomi Redmi 4X có được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.634868,
+         "id": "1166426",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao oppo A3s của em mới mua có 6 tháng mà sao hôm nay mở nguồn không lên mặc dù không rớt hay dính nước và cũng không hết pin luôn ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.619059,
+         "id": "1159592",
+         "field_search": "question",
+         "question": "Điện thoại oppo a3s của em bị ai đó khóa bằng Find my device. Em không nhớ tài khoản đồng bộ vì chị nhân viên tgdđ khi cài đặt điện thoại đã đồng bộ bằng tài khoản nào đó mà em không biết. Em phải làm sao đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.597181,
+         "id": "1164527",
+         "field_search": "question",
+         "question": "cho mình hỏi cách chữa cài đặt, dịch vụ của google play đã dừng lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.594888,
+         "id": "1163282",
+         "field_search": "question",
+         "question": "Khi khôi phục cài đặt gốc của máy tab 6 , bị yêu cầu xác minh tài khoảng google mà không nhớ tài khoảng cũ thì làm sao, giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.588969,
+         "id": "1117031",
+         "field_search": "question",
+         "question": "Tại sao tivi vào xem youtube không được nên tôi đã vào cài đặt nhà máy để cài lại và giờ tivi bị rè mà vẫn xem không được? Khắc phục sớm giúp tôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.579872,
+         "id": "1141832",
+         "field_search": "question",
+         "question": "Cho em hỏi cái nháy đỏ ở camera trước của Oppo a3s có sao không nhỉ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.569847,
+         "id": "816472",
+         "field_search": "question",
+         "question": " Ad cho e hoi tại sao máy tính của e kg khôi phục cài đặt gốc được ak?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.541109,
+         "id": "1159407",
+         "field_search": "question",
+         "question": "E muốn hỏi là giờ e muốn đổi cái điện thoại Oppo A3s 16g thành cái Oppo A3s 32g thì phải bù thêm nhiêu tiền nữa nếu mình bán cái Oppo A3s 16g thì được nhiêu vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.535979,
+         "id": "753852",
+         "field_search": "question",
+         "question": "Hiện tại tôi đang dùng iPhone  6 Plus ! không hiểu tại sao máy của tôi qua một đêm đột nhiên không thể thực hiện được chức năng gọi điện nữa tôi đã thử rs lại cài đặt mạng , cài đặt máy nhưng vẫn không có kết quả . Mong được các bạn tư vấn giúp !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.526329,
+         "id": "1150268",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao khi em quay màn hình xong thì sau khi xem lại em ko nghe tiếng ạ?Hiện tại em đang sài Oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

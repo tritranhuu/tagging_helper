@@ -1,0 +1,801 @@
+{
+   "id_query": "738373",
+   "total": 31190,
+   "total_current": 100,
+   "max_score": 84.684586,
+   "origin_question": " Cho em hỏi nếu em còn nhớ id pass của ID apple nhưng em muốn tìm pass iCloud thì tìm ntn ạ?? giúp em với  ",
+   "hits": [
+      {
+         "score": 40.380062,
+         "id": "1140295",
+         "field_search": "question",
+         "question": "Kiem tra dum em lai cai pass id apple dum em vs em quen pass roi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.495556,
+         "id": "759249",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em bị người khác hack mất pass ID Apple sau khi nó khởi động lại thì nó báo iPhone đã bị mất và bị xoá, bắt nhập lại iID Apple và pass nhưng không có pass thì bây giờ làm sao mở ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.94844,
+         "id": "798434",
+         "field_search": "question",
+         "question": "Em mới mua cái iphone5 cũ, icloud của nó cũng đã thoát. xui thay khi em cài nhạc bằng laptop thì bị dính cái id cũ mà em ko nhớ pass. máy cứ hỏi pass hoài ... có cách gì không anh?? Mong anh giúp đớ. cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.768787,
+         "id": "759717",
+         "field_search": "question",
+         "question": "Anh em giúp với, ID Apple của mình t.hanh@outlook.com.vn rõ ràng mình đánh đúng pass nhưng sao không vô đc, làm sao để lấy lại mật khẩu,xin cám ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.297962,
+         "id": "1159791",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu bị đăng xuất khỏi ID apple với Tìm iphone và xóa toàn bộ và đặt lại máy từ đầu có tìm lại đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.28451,
+         "id": "792258",
+         "field_search": "question",
+         "question": " Nếu em nhặt được điện thoại mà không biết ID Pass Icloud và không biết Pass máy thì làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.148277,
+         "id": "760197",
+         "field_search": "question",
+         "question": " Em có apple rồi nhưng xác minh kiểu gì ạ em tìm cách xác minh tài khoản id apple mãi mà không tìm ra ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.683636,
+         "id": "769676",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 6S muốn tìm máy nhưng máy em mới mua nên chưa cài đặt iCloud chỉ mới cài đặt màn hình khóa và ID Apple. Có cách nào để định vị lại máy được không ạk, mong anh chị giúp em tìm máy với ạk. Em cảm ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.022957,
+         "id": "733979",
+         "field_search": "question",
+         "question": "Tôi có tài khoản email xxx@icloud.com, trong quá trình đăng ký có email ID apple dự phòng, nhưng do quên pass mail icloud, khi lấy lại pass thông qua ID apple là: xxxnhcd@yahoo.com thì toàn chỉ thay đổi được ID app thôi vẫn không vào được xxx@icloud.com. Xin được giúp. TksNguyễn Văn Minh: xxxnhcd@yahoo.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.847702,
+         "id": "922148",
+         "field_search": "question",
+         "question": "ad cứu em với ạ. e có nghịch dại tạo tk icloud mà h e k nhớ mk, h e phải làm tn ạ? h máy bảo e nhập apple ID vs pass mà e k làm đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.54749,
+         "id": "738949",
+         "field_search": "question",
+         "question": " Em muốn xác minh ID Apple nhưng không biết làm như thế nào? Em không tìm được mail về để xác minh. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.457546,
+         "id": "757106",
+         "field_search": "question",
+         "question": " Cho em hỏi  ID Apple và ID Icloud  có giống nhau không ak..tại em mới tại ID Apple ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.35997,
+         "id": "769672",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 6s mà không biết tìm như thế nào. Tại máy em mới mua nên chưa cài icloud mới cài màn hình khóa và id apple. Mong ad giúp em tìm lại máy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.167847,
+         "id": "1007005",
+         "field_search": "question",
+         "question": "Cho em hỏi tìm thẻ nhớ trên Samsung j7 thì phải làm sao ạ?  Em đã gắn thẻ nhớ rồi nhưng tìm mãi vẫn không thấy thẻ nhớ nằm đâu ạ.  Giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.652046,
+         "id": "909873",
+         "field_search": "question",
+         "question": "Làm sao tìm lại được id Apple chua xác minh bằng mail.iphone của em bị Activation iPhone do quên id Apple.giờ có cách nào lấy lại id Apple k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.502514,
+         "id": "757118",
+         "field_search": "question",
+         "question": " AD cho em hỏi nếu máy dính icloud thì dùng ID Apple lấy lại được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.4528,
+         "id": "843237",
+         "field_search": "question",
+         "question": "Em muốn hỏi cách thoát icloud mà không nhớ pass với email ạ. Vì đây là TK của người khác trên mạng cho em mượn, nhưng giờ đổi mật khẩu nên em k thoát được. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.395008,
+         "id": "781589",
+         "field_search": "question",
+         "question": " Trong iPhone 5s mình muốn thay đổi địa chỉ mail và pass trong tài khoản ID Apple và Icloud thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.36328,
+         "id": "1016233",
+         "field_search": "question",
+         "question": "Em dùng j7 prime có đặc pass cho app Samsung notes nhưng h em quên pass thì phải làm sao ạ???giúp em với...cảm ơn a/c nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.836325,
+         "id": "807384",
+         "field_search": "question",
+         "question": "iPhone của em vừa cập nhật lên 9.3, nhưng em quên pass iCloud, giờ không vào được nên máy bị khoá rồi. E cũng quên cả pass của email nhận thông tin nên không reset được. Hiện tại Ipad của e cũng đang dùng iCloud này, vậy có cách nào tìm lại được pass đe mở đuoc iPhone k ad? Em cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.832605,
+         "id": "903791",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em cài đặt pass iphone của em là chữ, xong rồi em tắt máy mở lại để bấm pass thử xem sao thì lại không mở được. Em không biết em có bấm sai cái gì không, chứ pass chữ bấm lại tận 2 lần, em không nhớ tài khoản icoud thì giờ phải làm sao? Giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.689314,
+         "id": "927133",
+         "field_search": "question",
+         "question": " mình quên Pass ID của iphone rồi sao đây ad, nhưng mail liên kết mình vẫn nhớ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.628696,
+         "id": "1159261",
+         "field_search": "question",
+         "question": "Em muốn làm lại cái id app Apple nhưng em làm nó ko cho Giờ em phải làm saoXin giúp em làm với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.247917,
+         "id": "770773",
+         "field_search": "question",
+         "question": "Ad hồi sáng em có nhờ anh bên TGDD tạo giúp em tài khoản iCloud rồi, em đi thay loa điện thoại bị người ta xóa ID iCloud, Ad cho em hỏi làm sao lấy lại được ID tại em không nhớ ID em nhớ mật khẩu iCloud thôi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.994278,
+         "id": "1158201",
+         "field_search": "question",
+         "question": "Em muốn hỏi là:  khi máy của em bị rơi xuống nước , em vớt ra nhưng lại để tầm gần 1 năm mà không động chạm gì tới , bay giờ em đã mở máy len được nhưng nó bắt kích hoạt bằng ID Apple , nhưng em k nhớ ID Apple và mật khẩu thì lam sao bây giờ ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.984766,
+         "id": "758584",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi em muốn cập nhật ứng dụng nó lại ra cái id apple khác (điện thoại của em là hàng second hand) mà trong khi đó tải ứng dụng về thì nó lại ra id apple của em ạ?? Em muốn hỏi làm sao để out cái id apple thuyhang996cmt8@gmail.com ạ?? ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.639717,
+         "id": "745255",
+         "field_search": "question",
+         "question": " em quên ID và email của icloud nhưng nhớ mật khẩu làm thế nào để lấy lại ID  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.545237,
+         "id": "751344",
+         "field_search": "question",
+         "question": " Apple của em mới cập nhật chương trình.máy đòi id apple và mk. Em xin các anh chị giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.412825,
+         "id": "831383",
+         "field_search": "question",
+         "question": "Dạ anh/chị cho em hỏi tối qua nhà em bị trộm vào lấy 2 IPad air và air 2. mà đến khuya em mới nhớ ra pass icloud sau đó em đăng nhập được và bật tìm Iphone lên rồi em cũng bật Báo mất trên đó kêu em nhập pass màn hình và số đt để có gì ngta gọi lại. trong khi đó 2 máy đều để là ngoại tuyến. Cho e hỏi nếu 2 máy kia em ko có bật chế độ Tìm Iphone lên thì khi vô mạng rồi nó có định vị đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.267023,
+         "id": "756770",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi sao Id apple không gửi mã thay đổi mật khẩu cho gmail vậy. Id của mình mất pass rồi. Gmail vẫn sử dụng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.166893,
+         "id": "926223",
+         "field_search": "question",
+         "question": "Em vào link 192.168.1.1 xong nó hiện như vậy thì giờ em muốn đổi tên id và pass wifi thì làm như thế nào ạ? Cảm ơn anh/ chị ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.733984,
+         "id": "771911",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Ip của mình bị hack icloud. Mình kiểm tra kích hoạt thì hệ thống báo ở chế độ \"bật\" rồi. Icloud của mình vẫn hiển thị trong máy, khi mình nhập pass cũ thì không được, mình đổi pass mới hệ thống báo đã đổi thành công, nhưng khi nhập pass mới vào máy thì lại báo pass hoặc ID không đúng. Giờ mình muốn thoát ID này khỏi máy thì mình phải làm sao? Máy mình 4s ios 7 chưa jailbreak, mình có thể khôi phục cài đặt được không. Mong ad cho ý kiến. Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.586185,
+         "id": "802089",
+         "field_search": "question",
+         "question": "Em mua điện thoại iPhone cũ mà khi kích hoạt nó báo như vậy : \" iphone này đang được liên kết với id apple (b*******yahoo.com) đăng nhập id apple đã được sử dụng để thiết lập iphone này \" e phải làm sao để kích hoạt đây ạ? Em không biết pass :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.56424,
+         "id": "783017",
+         "field_search": "question",
+         "question": " Em bị mất iPhone 6s liên có tìm được qua imei hay id Apple không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.41167,
+         "id": "754240",
+         "field_search": "question",
+         "question": "Tôi có nhờ Thegioididong.com Cam Ranh cài dùm id Apple, nhưng giờ dính luôn iCloud của Thegioididong.com Cam Ranh. có tên là Hong Lequang, giờ tôi lên tgdd hỏi để gỡ ID thì nhân viên nói không biết, cái iPad của tôi bây giờ không cài bất cứ ứng dụng gì khi bị dính ID Apple và iCloud của Thegioididong.com có tên Le Hongquan.Mong Thegioididong.com giúp tìm giúp tôi tên người nhân viên này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.246231,
+         "id": "771547",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình chơi Clash Of Clan hơn 3 năm, giờ vào thì bị báo là ID Apple không đúng hoặc sai mật khẩu, mình đi sâu vào hơn thì lúc nhập Id apple bị báo là ID không tồn tại, cho mình hỏi có phải ai đã đổi ID Apple hay Pass của mình vậy? Cảm Ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.167095,
+         "id": "740005",
+         "field_search": "question",
+         "question": "Em vừa restore lại iPhone của em và để active lại thì nó hỏi ID Apple và đuôi đăng nhập thì là iCloud . Nhưng khi e vẫn còn dùng được máy thì em đăng ký iCloud ở phần cài đặt thì lag đuôi @gmail.com . Anh chị có cách nào để em biết được cái đuôi iCloud đấy là gì đc không ạ? Cái ID Apple của em thì xác minh rồi nhưng em khác cái đuôi @iCloud đấy từ đâu ra . Từ lúc em sử dụng máy em chưa được gửi thông báo cái đấy bao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.010864,
+         "id": "827220",
+         "field_search": "question",
+         "question": " ID apple này đang hiện hành trên Ipad của tôi, sao tìm lại mật khẩu thì nó báo là không phải ID apple vậy ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.86627,
+         "id": "1162887",
+         "field_search": "question",
+         "question": "Cho em hỏi. Apple watch của em chỉ kết nối bluetooth dien thoại em thì có ai kế bên chia sẻ hay kết nối được với apple watch của em ko ạ. Nếu em thoat id apple trên dien thoai cua apple watch thi đăng nhập lại nhu thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.72772,
+         "id": "770777",
+         "field_search": "question",
+         "question": "Ad cho e hỏi cái hồi sáng e có nhờ a kỹ thuật viên tạo giúp e tài khoản iCloud mà điện thoại em bị hư loa nên em đi thay loa nhưng bi người ta đổi ID iCloud mà e ko nhớ ID icloud em nhớ mật khẩu icloud thôi ad cho e hỏi làm sao lấy lại TK icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.59488,
+         "id": "1016826",
+         "field_search": "question",
+         "question": "mình đang sử dụng con iphone 5s nhưng vừa rồi restore nên bị bắt đăng nhập tài khoản icloud nhưng mình quên cả ID và pass. bên kỹ thuật hỗ trợ giúp mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.496933,
+         "id": "757121",
+         "field_search": "question",
+         "question": " Cho em hỏi dùng ID Apple đăng nhập vào iCloud được không zậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.4823,
+         "id": "751615",
+         "field_search": "question",
+         "question": " Em tạo được ID Apple rồi nhưng nó phải xác nhận ID apple? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.43674,
+         "id": "751211",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 5s nhưng sau khi khởi động máy nó lại bảo nhập pass mà em chưa để pass lần nào cả. Quản trị viên tư vấn giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.429247,
+         "id": "901857",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu bị quên mật khẩu đăng nhập ITUNES & APP STORE thì em đăng ký như nào để lấy lại? ID của ICLOUD có giống như ID của APP không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.395367,
+         "id": "783012",
+         "field_search": "question",
+         "question": " Em nghe nói có thể tìm được ip đã mất qua imei hoặc id Apple. Có đúng không ạk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.267488,
+         "id": "1165118",
+         "field_search": "question",
+         "question": "ad cho em hỏi em muốn lấy lại pass facebook nhưng sau khi đổi pass xong thì nó yêu cầu xác mình,xong tói bước 2 xác nhận email thì cứ đứng mãi trang này dù em nhập email mới mấy lần luôn,nó có gửi mã tới email nhưng quay sang face thì cứ đứng mãi trang ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.205036,
+         "id": "769530",
+         "field_search": "question",
+         "question": "Con iphone 6 plus của em . Ko lưu đc pass wifi . Em nhập lại pass đúng mà máy báo ko truy cập được vs bảo sao pass . Vào wf nhà khác vẫn ngon là ntn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.091988,
+         "id": "1143995",
+         "field_search": "question",
+         "question": "Em có id appel nhưng sao em lấy id đáy nhập vào icloud thì nó như vậy dị ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.087973,
+         "id": "1021318",
+         "field_search": "question",
+         "question": "Cho e  hỏi là ip 3 còn hỗ trợ bên id apple ko , mong trả lời giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.00705,
+         "id": "1140502",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi mình muốn đổi gmail cho ID icloud có được k ạ? Nếu được thì làm cách nào ạ. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.99115,
+         "id": "808619",
+         "field_search": "question",
+         "question": " Cho em hỏi reset iphone có cần pass icloud hay gì không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.970858,
+         "id": "813856",
+         "field_search": "question",
+         "question": "Muốn xác minh tài khoản ID ntn hả anh vì em ko biết xác minh cái tài khoản ID ntn ho nên em muốn gửi lời để hỏi công ty mình mong các anh có thể giải mã hộ em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.956135,
+         "id": "940189",
+         "field_search": "question",
+         "question": "em đã chọn tạo ID Apple mới nhưng hiện lên Bần cần cập nhật ios.em không biết làm sao cả .em cũg không biết tạo ID Apple luôn.làm ơn giúp em iphone 4s của em chưa chạy chương trình luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.864271,
+         "id": "1023918",
+         "field_search": "question",
+         "question": "các bác ơi cho em hỏi là làm cách nào để đổi ID Appel Để down như từ ID appel này sag ID appel khác em tìm hiểu mãi mà khg chuyển đc nó cứ ra ID Appel cũ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.86066,
+         "id": "767235",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi là máy em hôm trước báo là tìm iPhone của bạn đã được vô hiệu hóa trên iPhone, xong rồi nick giờ đăng nhập iCloud vô không được nữa ạ, có cách nào lấy lại iCloud không ạ? Mà em vào chỗ quên mật khẩu ý, đăng nhập nó bảo là không phải ID Apple, rất mong Ad giúp đỡ ạ. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.762232,
+         "id": "931738",
+         "field_search": "question",
+         "question": "em dùng id cũ để nhập vào máy mới... nhưng chỉ vào đc icloud thôi ạ... còn vào itunes thì nó báo là \" ko thể xác minh, đã có lỗi khi kết nói với máy chủ id apple\".. vậy là sao ạ?.. giờ e ko vào app store để tải ứng dụng đc ạ... giúp e với..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.696684,
+         "id": "813207",
+         "field_search": "question",
+         "question": " Cho em hỏi tgdd minh có phá được icloud của 4s không.?? Em có 1 em nằm ngủ mấy ngày vì bị mất pass icloud rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.62799,
+         "id": "909360",
+         "field_search": "question",
+         "question": "id apple của em bị khóa do e nhạp sai mật khẩu icloud quá nhiều . e quên email va câu hỏi bảo mật em có cách nào khác đẻ mở id apple k ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.518337,
+         "id": "1165259",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 6s plus nhưng quên mất pass icloud vậy em có nâng cấp ios được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.371159,
+         "id": "1024052",
+         "field_search": "question",
+         "question": "cho em hỏi là em khôi phục icloud nhưng email tạo cùng vs icloud em quên mất giờ phải làm sao ạ   id của em đang bị khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.363155,
+         "id": "767948",
+         "field_search": "question",
+         "question": "iPad của em tự nhiên bị báo mất và tài khoản ID Apple của em bị hack. Hiện tại máy cứ yêu càu nhập ID để xóa iPad..em phải làm thế nào..ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.330496,
+         "id": "763008",
+         "field_search": "question",
+         "question": "Laptop của em mua ở tgdđ, lâu rồi em không sử dụng, mà trước đây em có cái pass, nay em quên mất, không biết tgdđ có giúp em gỡ pass được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.303001,
+         "id": "927536",
+         "field_search": "question",
+         "question": " nếu làm theo thì có mất dữ liệu không? ko mở được pass sao tắt tìm iphone được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.267046,
+         "id": "804800",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ em xài ip5s á. Mà em tải trò chơi hay gì đó thì nhập id khác. Rồi cập nhật thì một id khác là sao ạ. Trả lời giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.102373,
+         "id": "755986",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi chút ạ. Mua lại iPhone 5 cũ thì mình sẽ lấy luôn icloud và id apple của họ hay mình tự tạo ạ. Em cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.027325,
+         "id": "1022072",
+         "field_search": "question",
+         "question": "Em muốn đăng nhập id apple mới nhưng bị như vậy thì phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.993153,
+         "id": "780314",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là tạo ID apple mà họ bắt trả phí nhưng còn cách nào để không mất phí mà tạo đăng kí 1 ID mới không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.888176,
+         "id": "1016843",
+         "field_search": "question",
+         "question": "Mình không nhớ ID và pass đang nhập account samsung. Giờ mình muốn lấy lại thông qua đại chỉ email đã đăng ký.Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.866596,
+         "id": "817147",
+         "field_search": "question",
+         "question": "admin cho em hỏi? có ai đó đã cố gắng thay đổi thông tin id apple của e không thành, và có thư gửi đến email tạo tk id apple của e thông báo vì điều đó, và bây giờ thì không hiểu sao id của em bị không tồn tại là sao? em có cách nào để khôi phục lại id apple của e k? e còn email tạo tk và số đt???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.761957,
+         "id": "812142",
+         "field_search": "question",
+         "question": "Máy của em bị dính iCloud quên mật khẩu nhưng máy xài ID Apple là btcuc2702@gmail.com có cách nào kích hoạt icloud được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.722902,
+         "id": "905486",
+         "field_search": "question",
+         "question": " Máy tính em reset lại nhập Apple ID đúng rồi thì máy hiên lên Try again later. Giờ máy em bị đen rồi, giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.677027,
+         "id": "946244",
+         "field_search": "question",
+         "question": " Iphone 7 của em quên touch id mở kiểu gì giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.661814,
+         "id": "869260",
+         "field_search": "question",
+         "question": "cho em hỏi là khi cập nhật xong ios 9.3.3 thì nó bắt nhập tài khoản icloud nhưng em quên pass nên đã bỏ qua có làm sao không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.642199,
+         "id": "827869",
+         "field_search": "question",
+         "question": "A/c giải đáp giúp e với, ID Apple này em dùng cũng lâu rồi nhưng lỗi là gì mà bây giờ nhiều ứng dụng rất đơn giản mà ID của e lại k tải đc free ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.54929,
+         "id": "923228",
+         "field_search": "question",
+         "question": " A ơi em lo có mk iCloud còn Apple và gmail của e bh đt đòi iCloud mà lo ko tìm đi bh e phải lm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.508512,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.49096,
+         "id": "1167707",
+         "field_search": "question",
+         "question": "Làm sao để phá khóa id huawai ạtrong khi đó em không nhớ tk id với mk id",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.446978,
+         "id": "804080",
+         "field_search": "question",
+         "question": "Cho em hỏi, em mới mua lại Iphone 4 cũ nên tài khoản Icloud em không biết pass và hiện tại đang muốn tạo Icloud mới thì có cách nào xóa Icloud cũ không ạ? Em search google nhiều rồi mà không biết cách nào ạ? Em đem máy ra Thegioididong giúp xóa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.446012,
+         "id": "868173",
+         "field_search": "question",
+         "question": "Mình nhập sai câu hỏi bảo mật nhiều nên bị khóa như ảnh dưới ! Nhưng vẫn nhớ Apple ID vs Pass đăng nhập ! Làm như thế nào để có thể thay đổi lại được câu hỏi bảo mật không ạ ! Thanks bạn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.388266,
+         "id": "759105",
+         "field_search": "question",
+         "question": " Cho em hỏi mật khẩu Apple ID của thegioididong là gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.344122,
+         "id": "761527",
+         "field_search": "question",
+         "question": "Em đặt lại máy là iPhone. Nó kêu nhập tài khoản icoud rồi. Nhưng nó đòi thêm ID Apple nữa. Nhưng em không nhớ thì em phải làm sao a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.326702,
+         "id": "913786",
+         "field_search": "question",
+         "question": " chỉ em cách mở khóa tài khoản icloud với ạ em quên mật khẩu mò pass qquài k đc nên bị khóa ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.31239,
+         "id": "780309",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao máy của em muốn tạo một ID Apple mới mà máy bắt trả phí. . . có còn cách nào để thay tài khoản mà không mât phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.292084,
+         "id": "788305",
+         "field_search": "question",
+         "question": " E mới mua Iphone 5s.. trên máy còn icloud của người dùng trước mà em không có pass.. giờ làm sao để logout ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.276857,
+         "id": "1015771",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn bẻ khoá icloud thì phải đi đâu rồi giá cả ra sao dậy ! Em mất hết thông tin tài khoản apple id rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.09759,
+         "id": "796970",
+         "field_search": "question",
+         "question": "ad ơi cho am hỏi có cách nào mở khóa iphone 4s khi bị dính icloud nhưng em không nhớ pass lẫn tk z có thể khôi phục lại ko ạ ????? help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.07791,
+         "id": "768702",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em đồng bộ dnh bạ dt ip5 lên icloud co cần phải tạo tai khoan apple id ko ?em cam ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.070976,
+         "id": "787119",
+         "field_search": "question",
+         "question": "QTV cho em hỏi , bây giờ cái ipad mini của em được mua lại từ chủ trước , mà ng ta chưa deactivate cái tài khoàn apple, mà bây h thằng em em nó vọc vọc rồi cái h nó bị disabled, em có xài cách reset to factory setting ở cái ipad recovery mode thông qua itunes trên máy tính rồi, xong rồi giờ nó lại đòi ID với pass để active ipad.... Giúp em đi ạ , em cảm ơn...!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.000612,
+         "id": "1142686",
+         "field_search": "question",
+         "question": "Em không muốn cài mật khẩu nữa nhưng khi vào \"An toàn và bảo mật\" thì nó hiện ntn ở phần \"Không có mật khẩu\". Em phải làm sao để xóa mật khẩu ạ huhu em không muốn dùng pass nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.878565,
+         "id": "826082",
+         "field_search": "question",
+         "question": " Anh chị gì ơi cho em hỏi tại sao em đã thay đổi cái id apple stores của ip4 rồi mà nó vẫn còn hiện lại ạ... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.847755,
+         "id": "758689",
+         "field_search": "question",
+         "question": " Cho em hỏi, em muốn tìm 1 laptop khoảng 1213 triệu chơi liên minh, thì tìm laptop nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.841307,
+         "id": "1160728",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi IPhone 6 có phá được Pass Đt mà không cần Icloud k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.827002,
+         "id": "796148",
+         "field_search": "question",
+         "question": "Tôi quên mật khẩu Apple id của mình. Tôi tìm lại thì họ bắt nhập mã khôi phục nhưng tôi không lưu lại. Bay giờ phải làm thế nào xin hãy giúp tôi :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.761541,
+         "id": "761063",
+         "field_search": "question",
+         "question": "  Cho em hỏi ID Apple không đăng nhập được thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.725761,
+         "id": "1159027",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6 plus mà tải mess không được, người ta bảo em phải đăng nhập vào iTunes store (mật khẩu id Apple) nhưng tài khoản Apple này bị khoá và em không nhớ lần đăng nhập, có thể giúp em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.698614,
+         "id": "789383",
+         "field_search": "question",
+         "question": "Mình mua máy ở TGDĐ, mình muốn cái đặt lại pass word cho TK icloud nhưng có mấy câu hỏi mình không thể trả lời được vì khi mình mua máy nhân viên của TGDĐ cài đặt hộ. Giờ mình muốn tìm lại câu trả lời thì làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.696703,
+         "id": "924407",
+         "field_search": "question",
+         "question": " sao em xó id apple của nhật rồi nhưng em lại không tải được game này về ạ  nó lại hỏi cái này là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.65723,
+         "id": "736174",
+         "field_search": "question",
+         "question": "Em muốn tạo ID Apple nhưng khi tạo được rồi thì không có mã để xác nhận, cho em hỏi làm thế nào để lấy được mã xác nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

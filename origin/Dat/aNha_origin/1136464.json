@@ -1,0 +1,801 @@
+{
+   "id_query": "1136464",
+   "total": 27817,
+   "total_current": 100,
+   "max_score": 223.24101,
+   "origin_question": "Nếu em dùng  phần mềm subtitle Aegisub va MeguiCòn về vẽ truyện manga em dung Clip studio paintGiữa 2 loại máy ASUS VIVOBOOK S15 S510UQ I5(BQ475T) va may   asus vivobook  X507UF i5 (EJ121T) thi loai nao ok hon v a? và còn loại nào phù hợp giới thiệu giup em.",
+   "hits": [
+      {
+         "score": 53.497364,
+         "id": "1162522",
+         "field_search": "question",
+         "question": "Cho em hoi may  Laptop Asus VivoBook S510UN i5 8250U4GB1TB MX150Win10 BQ276T dùng ssd dạng nào ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.776012,
+         "id": "1155360",
+         "field_search": "question",
+         "question": "Em quên mật khẩu mở khóa màn hình laptop giờ phải làm sao ạ? Em đang dùng máy Asus VivoBook X507UF i5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.612465,
+         "id": "1150601",
+         "field_search": "question",
+         "question": " Laptop Asus Vivobook S15 S530UA i5 8250U4GB1TB16GBWin10 BQ290T có hàng ở Trà Vinh k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.09372,
+         "id": "1141942",
+         "field_search": "question",
+         "question": " Cho hoi oppo va sam sung thi dong spham nao su dung em hon a. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.55994,
+         "id": "1129746",
+         "field_search": "question",
+         "question": "Em hiện đang sử dung laptop asus vivobook s15 x530un, bây giờ em không sử dung được tổ hợp phím fn+esc và đèn bàn phím, mong được hỗ trợ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.12924,
+         "id": "1167605",
+         "field_search": "question",
+         "question": "Mình muốn hỏi laptop asus vivobook X507UF-EJ121T có gắn được SSD Samsung NVMePM981 M.2 PCle GEN3 x4 256GB MZVLB256HAHQ không vậy ad ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.274754,
+         "id": "1153193",
+         "field_search": "question",
+         "question": "tai sao may loptop Asus VivoBook N5000X441(GA004T) và May Asus VivoBook N5000X441(GA024T) cau hinh giong nhau chang khac vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.103767,
+         "id": "1008408",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính asus ViVo book S15 S510 và máy asus A540 UP i5. Ad xem so sánh hai máy này giúp em cái nào hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.96225,
+         "id": "1154844",
+         "field_search": "question",
+         "question": "cho em hỏi cách bật led phím  asus s510uq bq475t như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.415306,
+         "id": "996081",
+         "field_search": "question",
+         "question": "xin chao admin cho minh hoi la hien tai minh dang dung 2 chiec iphon va dung 2 ID khac nhau tam goi la may A va may BMinh out ID cua may A ra va dang nhap ID cua may B vao may A .Sau  do minh OUT ID cua may B dang tren may A ra  va dang nhap ID cua may A  vao nhu ban dau .Thi tu nhien 2 may bay gio bi xung dot so dien thoai vao nhau (ca 2 may may nao cung co nhu la dung chung 1 ID vay ) bay gio phai lam cach nao de cho 2 may khong lien ket danh ba voi nhau .Co ai biet ko giup minh voi Thank nhieu admin va cac ban nhe .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.385723,
+         "id": "1164869",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên mình có thay pin lap Asus Vivobook s15 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.001446,
+         "id": "869570",
+         "field_search": "question",
+         "question": " tư vấn cho mình các loại ram phù hợp cho chip i5 6200U đi giùm với ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.774075,
+         "id": "1136052",
+         "field_search": "question",
+         "question": "Cho em hỏi dòng máy  Asus Vivobook X507MABR211TPentium N5000 bên mình còn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.502403,
+         "id": "1148262",
+         "field_search": "question",
+         "question": "Laptop Asus Vivobook Flip 14 TP412UA-EC070T Core i5-8250U/ Win10 (14.0 inch FHD IPS) hiện shop có bán không, nếu có thì giá là khoảng bao nhiêu? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.12803,
+         "id": "1168806",
+         "field_search": "question",
+         "question": "ad cho em hỏi máy tính Asus VivoBook X540U em dung chưa được 1 năm giờ em muốn đổi qua máy HP 15 da0443TX i3 thì hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.854582,
+         "id": "1156572",
+         "field_search": "question",
+         "question": "dạ em chào anh chị ạ, em đang dùng loại lap dell vostro i5 3568, em muốn nâng cấp ram thì nên dùng loại ram nào ạ? và giá thành của từng loại am ntn để em tham khảo ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.764816,
+         "id": "1006690",
+         "field_search": "question",
+         "question": "cho em hỏi laptop ASUS VIVOBOOK S15S150 chưa nhập hàng hả??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.597645,
+         "id": "1005714",
+         "field_search": "question",
+         "question": "Laptop Asus UX360UA i5 7200U có phù hợp với nhu cầu sử dụng của sinh viên không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.428936,
+         "id": "831308",
+         "field_search": "question",
+         "question": "Em tai game gangsta vegar tren iphone 4 nhung khi vao choi thi am thanh cua no bi giac con choi thi van binh thuong va giup em lam the nao de iphone chay muot hon e xin cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.953293,
+         "id": "1168460",
+         "field_search": "question",
+         "question": "Laptop Asus VivoBook S15 S510UA i3 8130U/4GB/1TB/Win10/(BQ222T) ở đà nẵng k có hàng thì làm sao em có thể xem hàng trươc khi quyết định ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.914278,
+         "id": "882782",
+         "field_search": "question",
+         "question": " ad cho em hỏi laptop acer và asus thì loại nào bền hơn ạ, và loại nào tốt hơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.89885,
+         "id": "1156372",
+         "field_search": "question",
+         "question": "hiện tại hệ thống của thế giới di dộng và điện máy xanh đã bán Laptop asus vivobook S15 S530UN BQ005T core I7-855U/win 10 (15.6 inch FHD IPS) hay chưa, báo giá giúp mình, tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.731516,
+         "id": "1162265",
+         "field_search": "question",
+         "question": "Em mới mua laptop ASUS Vivobook vào đầu tháng 4/2019 S530UA. Phần đế máy dễ bị trầy xước. Có cách nào để hạn chế không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.586636,
+         "id": "751761",
+         "field_search": "question",
+         "question": "  Em xài iPhone 3GS cho em hỏi máy cài được phần mềm phát wifi không và phần mềm nào là phù hợp phải mua hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.420376,
+         "id": "1163272",
+         "field_search": "question",
+         "question": "shop có máy Asus vivobook x507ua SSD ko ạ?mình ở Huế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.325655,
+         "id": "888713",
+         "field_search": "question",
+         "question": " Mình muốn mua laptop core i5 có giá khoảng từ dưới 11t. Có thể vẽ cad. Nhờ bạn tư vấn giúp có máy nào phù hợp ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.141031,
+         "id": "1164170",
+         "field_search": "question",
+         "question": "cho em hoi dt itel A32f vs dt itel A16 plus cai nao muot hon va luot fakebook muot hon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.119387,
+         "id": "1133699",
+         "field_search": "question",
+         "question": "Em đang xài laptop Asus vivobook s510U Em mới tậu hôm tháng 10 Mà tình trạng máy của em hiện giờ rất chậm, mở app nào lên cũng chậm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.989971,
+         "id": "1164163",
+         "field_search": "question",
+         "question": "cho em hoi dt itel A32f vs dt itel A16 plus cai nao muot hon va luot fakebook muot hon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.84954,
+         "id": "751768",
+         "field_search": "question",
+         "question": "Em xài iPhone 3GS, cho em hỏi mình cài được phần mềm phát wifi cho máy được hay không, phần mềm nào phù hợp và bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.48788,
+         "id": "1136770",
+         "field_search": "question",
+         "question": "Cho em hoi oppo a3s 2gb  va realme 2 32gb thi cai nao tot hon? Theo y kien cua ad.Xet ve mat thuong hieu?do nhay khi choi game nhu pubg,lien quan,freefire,ros,va cac game nang khac? Cam on ad nhieu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.052334,
+         "id": "748517",
+         "field_search": "question",
+         "question": "Qtv ơi. Máy tính asus TP300LA i5 (500gb) vs máy tính TP500LA i5 (1TB) máy nào chơi game Liên minh với fifa3 mượt vậy. Và máy nào có dung lượng chứa game nhiều hơn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.932415,
+         "id": "994975",
+         "field_search": "question",
+         "question": "laptop asus vivobook s15 phiên bản cao cấp nhất ( cpu intel core i7, chipset đồ họa nvida geforce 940mx ) giá bao nhiêu, thegioididong có phân phối ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.872837,
+         "id": "1158767",
+         "field_search": "question",
+         "question": "máy dùng cho công việc kế toán, thì loại mày nào phù hợp ạ? giá tầm 1013tr",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.869122,
+         "id": "896982",
+         "field_search": "question",
+         "question": " Mở đèn bàn phím máy Asus thế nào vậy, máy em là X550V core i5 6300 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.470276,
+         "id": "1020365",
+         "field_search": "question",
+         "question": "Mình có củ sạc oppo in put 100-240 v~50/60hz 0.3 A output 5v 2a cho hỏi mua loại cáp nào cho phù hợp sạc nhanh mà k nóng máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.457867,
+         "id": "1163365",
+         "field_search": "question",
+         "question": "shop có máy asus vivobook x507UA SSD ko ạ?mình ở Huế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.362991,
+         "id": "989037",
+         "field_search": "question",
+         "question": "Iphone 5s cua em lien tuc bi tat nguon khi restore lai may thi gap loi khong the restore duoc thi bi gi a? Co sua duoc khong va sua thi het bao nhieu a? Iphone 5s cua em lien tuc bi tat nguon khi restore lai may thi gap loi khong the restore duoc thi bi gi a? Co sua duoc khong va sua thi het bao nhieu a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.343832,
+         "id": "1013102",
+         "field_search": "question",
+         "question": "Samsung Galaxy j7 pro gia bao nhiu tiên vay va j7 pro va j7 2017 may nao dung tot hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.136557,
+         "id": "1010743",
+         "field_search": "question",
+         "question": "Em  vua moi mua chiet ASUS zephon 3 max 5.5 Sao 1 thang su dung thi cap nhat androi 7.1 thi bin sac rat cham . Va có  lúc  sac khong vào  luon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.865004,
+         "id": "1013559",
+         "field_search": "question",
+         "question": "Cho minh hoi may Q edgy nen dung phien ban ch play nao vA phien ban dich vu play nao...neu co thi gui link cho mik nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.859655,
+         "id": "1166122",
+         "field_search": "question",
+         "question": "Chào ad ạ. Cho em hỏi bên mình có dòng asus vivobook X507MA _ BR211T_ Pentitum N500 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.837854,
+         "id": "832705",
+         "field_search": "question",
+         "question": "Em dùng ip5s may cua em bị nỗi nghe nhac . Em khong cam tai nghe nhung no hien la tai nghe va khong nghe được . Nhung cam tai nghe thi van nghe được . Anh chi giup em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.816631,
+         "id": "1000290",
+         "field_search": "question",
+         "question": "Cho e hỏi là điện thoại phù hợp vs nữ tầm 4-6tr5 thì loại nào tốt nhất v ạ? E muốn mua 1 chiếc nhưng ko biết rõ đc loại nào tốt hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.664831,
+         "id": "1156439",
+         "field_search": "question",
+         "question": "XIN CHÀO, CHO EM HỎI BÊN MÌNH CÒN DÒNG SẢN PHẨM \" ASUS VivoBook Flip 14 TP412UA  KHÔNG Ạ? CÓ THỂ TƯ VẤN GIÚP EM DÒNG SẢN PHẨM NÀY KHÔNG?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.593246,
+         "id": "1007748",
+         "field_search": "question",
+         "question": "cho em hoi em co cai may zenfone 6 da nap root bay gio em muon nap recovery thi phai lam the nao va nap bang  thu cong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.51838,
+         "id": "1164706",
+         "field_search": "question",
+         "question": "Laptop asus vivobook s14 430ua i3 bao h có ạ.....................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.51656,
+         "id": "812162",
+         "field_search": "question",
+         "question": " Ad cho em hoi iPhone 5 dung vào mang tam 10phut thi may rát nong va nhanh hét pin do la loi gi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.359093,
+         "id": "1160409",
+         "field_search": "question",
+         "question": "Galaxy a 50 co ho tro 4 g ko ban ban 64 gb va 128 gb ban nao tot hon vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.27553,
+         "id": "1139010",
+         "field_search": "question",
+         "question": " Shop đã kinh doanh dòng này chưa Asus vivobook 14 X420. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.179455,
+         "id": "1144723",
+         "field_search": "question",
+         "question": " mình muốn cài một phần mềm giả định cho pc nên chọn loại nào là ốt nhất ah. máy mình là asus i3 đang chạy windown 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.10405,
+         "id": "1164156",
+         "field_search": "question",
+         "question": "cho em hoi dt itel A32f va dt itel A16 plus thi dien thoai nao tot hon.nhu cau cua em la xem youtube choi game va chụp hinh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.101223,
+         "id": "928124",
+         "field_search": "question",
+         "question": "E dang su dung iPhone 6, day tai nghe cam vào may van nghe binh thuong, nhung bám nút am lượng va nhan cuộc gọi ko duoc, e lay day tai nghe thu may khác thi van binh thuong. A ( chi ) cho e hoi may e bi gi va sua thi gia bao nhieu tien ạ. Thank A ( chi )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.96621,
+         "id": "1156013",
+         "field_search": "question",
+         "question": "Hôm 8/3 mình có mua một máy Vivobook s14 s410ua core i5. Về sử dụng được 2 bữa thì máy chạy cực kì chậm, mình có update lại máy rồi nhưng chạy vẫn rất chậm. Giờ có cách khắc phục nào không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.950493,
+         "id": "927630",
+         "field_search": "question",
+         "question": "Cho em hoi em dang dung iphone 5 lock LL/A em kich hoat sim xong thi goi va nhan tin duoc nhung khong vao mang duoc va tren thanh trang thai bao khong co dich vu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.916506,
+         "id": "885499",
+         "field_search": "question",
+         "question": " Cho em hỏi chút ạ. 10 triệu thì nên mua laptop loại nào phù hợp cho con gái, bền và hay di chuyển nhiều, màn hình  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.906885,
+         "id": "882984",
+         "field_search": "question",
+         "question": "Asus VivoBook X202E-DH31TMình có mua TGDĐ 1 laptop , nhưng sử dụng thời gian không hiểu sao mất tiêu chức năng . dùng 3 ngón tay vuốt trên màng hình Asus VivoBook X202E-DH31T . làm sao để sử dụng được lại ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.886066,
+         "id": "1144491",
+         "field_search": "question",
+         "question": "a ơi laptop asus vivobook S510U e đang dùng ổ HDD giờ bỏ thêm ổ SSD vào cùng lúc đc k hay phải tháo HDD ra ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.773796,
+         "id": "865594",
+         "field_search": "question",
+         "question": " em nâng ram bao nhiêu tiền vậy ạ máy tính loại asus ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.65316,
+         "id": "830433",
+         "field_search": "question",
+         "question": " cho em hỏi laptop asus k43e vx113 cần chọn ổ cứng 500gb như thế nào phù hợp buss ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.445473,
+         "id": "887028",
+         "field_search": "question",
+         "question": "Vâng cho em hỏi em mới mua em lap asus a556uf i5 6200u, e có nhờ mấy a kĩ thuật cài đặt lại phần ngôn ngữ máy cho e mà hình như mấy a í quên, bây giờ làm sao để e cài dặt thành tiếng việt đc ạ. và cho em hỏi sao e lên apps tải zalo về k đc ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.430153,
+         "id": "911032",
+         "field_search": "question",
+         "question": "a oi cho e hoi la dt cua e gio mat mat khau icloud va email kung k vao dc .gio cu may giay no lai hien nen tren man hinh xac mik ID apple .gio e phai lam cach nao de cho no k hien nen .va neu nhu e reset lai may thi lieu con dung dc nua k a .cam on a n ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.357248,
+         "id": "1136908",
+         "field_search": "question",
+         "question": " cho mình hỏi tại tgdd krong pak  daklak đã có máy Laptop Asus VivoBook TP410UA chưa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.230597,
+         "id": "1015113",
+         "field_search": "question",
+         "question": "Chào mọi người.Em đang muốn mua một con laptop với: CẤU HÌNH KHỎE, MÁY BỀN, CHƠI GAME TỐT , 14\"Và em đang phân vẫn giữa các máy  Asus X441UA i5 7200U/4GB/500GB/Win10/(GA056T)  Asus K401UB i5 6200U/4GB/500GB/2GB GT940/Win10/(FR049T) Dell Inspiron 3467 i5 7200U/4GB/1TB/Win10/(C4I5107W)Em nên mua máy gì ạmong mọi người giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.144026,
+         "id": "1001676",
+         "field_search": "question",
+         "question": "Dell Inspiron 3467 i5 7200U/4GB/1TB/Win10/(C4I5107W) và  Asus A540UP i5 7200U/500GB/4GB/2GB R5M420/Win10/(GO097T)  máy nào xài ngon hơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.03582,
+         "id": "820733",
+         "field_search": "question",
+         "question": " Cho em hoi cho mình có thay vỏ iphone 5 không a .nếu có thi cả màn hình ngoài va vỏ hết bao nhieu tiền a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.958658,
+         "id": "988220",
+         "field_search": "question",
+         "question": "Em muốn mua Laptop để dùng cho chuyên ngành thiết kế thời trang, dùng được các phần mềm Photoshop, Corel, Gerber, Adobe lllustrator... Vậy những máy nào là phù hợp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.940714,
+         "id": "764485",
+         "field_search": "question",
+         "question": " Cho em hỏi Em muốn laptop dưới 10 triệu, có thể sử dụng phần mềm photoshop cs4 và corel x5, vậy em nên mua loại nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.900187,
+         "id": "873968",
+         "field_search": "question",
+         "question": " Em cần mua phần mềm diệt virut cho máy tính mà không biết mua loại nào, anh chị tư vấn em với ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.802721,
+         "id": "1143535",
+         "field_search": "question",
+         "question": "Snapdragon 630 voi helio p60 chip nao manh hon va chenh lech co nhieu ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.647667,
+         "id": "1005720",
+         "field_search": "question",
+         "question": "Laptop Asus UX360UA i5 7200U ổ cứng có dung lượng bao nhiêu vậy quản trị viên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.635386,
+         "id": "1016790",
+         "field_search": "question",
+         "question": " cho em hoi em xai samsung grand max,gio cuc pin em bi hu, em co the dung cuc pin cua loai sam saung nao khac ko a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.552242,
+         "id": "1149951",
+         "field_search": "question",
+         "question": "e dang dung may meizu m5c, e da su dung thu pham mem tim dien thoai thi tu nhien may bi format, hien tai may em khong the tat nguon, khong the tai ung dung, khong the dat mat khau, moi nguoi giup em voi a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.516682,
+         "id": "845159",
+         "field_search": "question",
+         "question": "A/c cho e hỏi hiện tại e đang học ngành kế toán thì nên chọn loại laptop nào là phù hợp( máy tầm 10tr trở lại) mong a/c tư vấn giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.507988,
+         "id": "749195",
+         "field_search": "question",
+         "question": "Qtv ơi. Laptop Asus X554LP i5 4210U/4GB/500GB/1GB M230/Win8.1 và laptop Asus K455LA i3 thì máy nào chiến game lm và fifa mượn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.35111,
+         "id": "799098",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi Laptop asus em mua ở TGDD.dùng một thời gian.Vẫn còn bảo hành loại dòng Asus p550LD i7 sao em sạc máy,pin mãi cũng không lên nổi 100% toàn 93%,hôm nay còn sạc mãi cũng 88%.Em phải làm thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.208908,
+         "id": "831927",
+         "field_search": "question",
+         "question": "Em dung lumia 430 e bi loi hay dam bao may anh cua ban da dc ket noi va khong bi ung dung khac su dung truoc wp8 gio len 10 van bi ad giup e voi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.175983,
+         "id": "1136373",
+         "field_search": "question",
+         "question": "Đt ss a5 bi va manh va không nên hinh em hoi phai lam cach nao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.068253,
+         "id": "948755",
+         "field_search": "question",
+         "question": " cho mình hỏi asus x454l core i3 mình thay thành core i5 được không. nếu thấy có cần gắn thêm gì nữa khôn. cảm ơn a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.991234,
+         "id": "1159163",
+         "field_search": "question",
+         "question": "Laptop HP 15 bs161TU i5 8250U4GB1TBWin103VM52PA ĐƯỢC HỔ TRỢ SSD M2 CHUẨN LOẠI NÀO VẬY SHOP",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.814074,
+         "id": "1145646",
+         "field_search": "question",
+         "question": "Bên TGDD có máy  Laptop ASUS VivoBook S330UA không ạ, mình tìm trên web thì không thấy, nếu có nhờ inbox giá cho mình với, mình mua máy trước tết. Cảm ơn QTV ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.714258,
+         "id": "798270",
+         "field_search": "question",
+         "question": " Anh tư vấn giùm em , em có 5tr muốn mua laptop để chơi lm nên dùng máy loại nào vậy a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.671917,
+         "id": "994602",
+         "field_search": "question",
+         "question": "Da cho em hoi loai gay tu suong nao thich hop voi dien thoai samsung galaxy j7. Loai gay nao tot duoi gia tien 100 a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.65166,
+         "id": "781338",
+         "field_search": "question",
+         "question": "Em đang dùng Asus f454l chạy win 10 nhưng máy bị lỗi phải reset lại reset xong máy bị mất phần mềm asus smart gesture giờ em tải nó ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.623596,
+         "id": "1146676",
+         "field_search": "question",
+         "question": "Cho e hỏi bên tgdđ còn loại loa bluetooth loại nào a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.570585,
+         "id": "1159710",
+         "field_search": "question",
+         "question": "Máy laptop asus vivobook mình mới mua hôm 8/4/2019, hôm nay là sang ngày thứ 2 mà máy chạy ko mượt, hay bị lag là sao hả shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.538464,
+         "id": "778650",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPad mini 2 với iPad air loại nào đọc truyện Tranh tốt hơn? iPad mini 2 đọc truyện tranh có khó nhìn bé không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.52348,
+         "id": "915331",
+         "field_search": "question",
+         "question": " cach tao icloud tren may vi tinh va cach su dung icloud de vao tai khoan xac minh gmail duoc su dung nhu the nao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.445883,
+         "id": "778951",
+         "field_search": "question",
+         "question": " Cho hỏi iPad Mini với iPad Air loại nào đọc truyện tranh tốt? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.434444,
+         "id": "935652",
+         "field_search": "question",
+         "question": " Em bi mat sim dang nhap zalo va quen mat khau em mong may anh chi giup lay lai mat khau zalo em chan thanh cam on ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.373705,
+         "id": "1150564",
+         "field_search": "question",
+         "question": "tgđ có hổ trọ nâng cấp ổ cứng hdd lên ssd cho asus vivobook a510u k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.315754,
+         "id": "1011559",
+         "field_search": "question",
+         "question": "cho hỏi thế giới di động có bán pin của philips s307 ko ạ, hoặc loại pin phù hợp với điện thoại s307 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.219059,
+         "id": "751323",
+         "field_search": "question",
+         "question": " Cho em hỏi khi mua Laptop Asus TP500LB i5 5200U4GB500GB2GB 940MWin8.1 có được tặng chuột không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.219059,
+         "id": "751271",
+         "field_search": "question",
+         "question": " Cho em hỏi khi mua Laptop Asus TP500LB i5 5200U4GB500GB2GB 940MWin8.1 có được tặng chuột không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.147442,
+         "id": "904448",
+         "field_search": "question",
+         "question": "Em muốn mua lap dưới 10 triệu, chủ yếu làm tin học văn phòng, yêu cầu ram 4GB gập 360, màn cảm ứng. Vậy loại nào là phù hợp ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.142773,
+         "id": "803415",
+         "field_search": "question",
+         "question": "Chào a/c ! A/c cho em hỏi là laptop của em là Dell Vostro 2420 RAM 4GB. vậy giờ em muốn nâng cấp RAM thì em nên dùng loại RAM nào và e nên lắp RAM 8GB hay 2 RAM 4GB ạ. em cảm ơn a/c !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.063204,
+         "id": "1145668",
+         "field_search": "question",
+         "question": "Ở Nhatrang, muốn mua laptop Asus Vivobook S50 S510UA, Cấu hình mạnh để chơi game. Thegioididing có máy cũ không và giá cả ra sao. LH 0935435053.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.030853,
+         "id": "870980",
+         "field_search": "question",
+         "question": " cho hỏi laptop asus k401lb thì có mấy khe ram v? tgdđ có kinh doanh loại máy nào có cấu hình tương tự như vậy không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.86727,
+         "id": "854256",
+         "field_search": "question",
+         "question": "mình dùng asus k450ca loại core i3 ram 2 gb.cho mình hỏi tại sao máy mình lại không hoạt động mic. mình dùng win 7 ultimate 64bit",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

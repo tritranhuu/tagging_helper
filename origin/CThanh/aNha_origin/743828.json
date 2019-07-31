@@ -1,0 +1,809 @@
+{
+   "id_query": "743828",
+   "total": 32822,
+   "total_current": 100,
+   "max_score": 123.35331,
+   "origin_question": "Samsung Galaxy J5 không sáng màn hình mỗi khi có tin nhắn hay thông báo của facebook ,zalo... mà chỉ có chuông và rung. Cần giúp đỡ cho sáng màn hình mỗi khi có thông báo hay tin nhắn .",
+   "hits": [
+      {
+         "score": 123.35331,
+         "id": "743828",
+         "field_search": "question",
+         "question": "Samsung Galaxy J5 không sáng màn hình mỗi khi có tin nhắn hay thông báo của facebook ,zalo... mà chỉ có chuông và rung. Cần giúp đỡ cho sáng màn hình mỗi khi có thông báo hay tin nhắn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.578876,
+         "id": "805220",
+         "field_search": "question",
+         "question": " Xin hướng dẫn mình làm sao để thông báo lên màn hình khi có tin nhắn Facebook hay thông báo mới? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.222374,
+         "id": "1161856",
+         "field_search": "question",
+         "question": "Mình dùng oppo a3s, mình bật thông báo và chuông của zalo nhưng khi có tin nhắn chỉ rung chứ k có âm thanh thông báo.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.30454,
+         "id": "1153045",
+         "field_search": "question",
+         "question": "Ad cho e hỏi sao máy samsung j4 thông báo hay tin nhắn tới màn hình không sáng v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.791096,
+         "id": "786518",
+         "field_search": "question",
+         "question": "Em đang xài Samsung Galaxy S4 bản docomo. Cho em hỏi sao điện thoại em cứ đổ nhạc chuông tin nhắn (chuông thông báo) trong khi không hề có bất cứ tin nhắn hay thông báo nào từ facebook, zalo, game, cũng như không có bất kì ứng dụng nào cần cập nhật cả ạ? Em đã thử tắt mọi thông báo đổ chuông của từng app, tắt nguồn máy, nhưng khi mở máy lên lại đổ chuông thông báo. Anh chị KTV giúp đỡ với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.146675,
+         "id": "1024056",
+         "field_search": "question",
+         "question": "Chào tgdd ạ! Em đang dùng samsung j5 prime.... Dạo này tin nhắn trên zalo và messenger của em không có thông báo lúc tắt màn hình rồi có tin nhắn màn hình cũng không sáng luôn ạ ! Cho em hỏi làm sao khắc phục được???? Em cảm ơnnnn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.202423,
+         "id": "800675",
+         "field_search": "question",
+         "question": "Chị cho em hỏi vì sao Galaxy J7 của em khi có tin nhắn Zalo tới điện thoại không sáng đèn màn hình chỉ có âm thanh thông báo giúp em với ạ em đã đặt câu hỏi nhiều lần rồi mà không được đáp ứng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.908363,
+         "id": "1160591",
+         "field_search": "question",
+         "question": "Samsung S8 không sáng màn hình khi có tin nhắn zalo ??? Nhờ TGDĐ hướng dẫn cách khắc phục ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.19244,
+         "id": "1016255",
+         "field_search": "question",
+         "question": "xin chào TGDD1. Mình mới mua nokia 6 và khi nt ấn bàn phím luôn rung các bạn có biết tắt rung chỗ nào ko2. các thông báo khi có tin nhắn của các ứng dụng không hiển thị thông báo lên màn hình khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.151466,
+         "id": "834883",
+         "field_search": "question",
+         "question": " tại sao em đã bật hết thông báo trong zalo nhưng sao lại k nhận dc thông báo khi mỗi lần tin nhắn tới ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.833885,
+         "id": "1135264",
+         "field_search": "question",
+         "question": "E đang sử dụng samsung J7 Pro. Lúc trước khi có thông báo facebook hay tin nhắn zalo đều hiện số ở trước ứng dụng. Mà sao bây giờ k có tin nhắn nó k còn hiện bao nhiu tin nhắn nửa. Chỉ e cách cài đặt lại với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.264343,
+         "id": "855650",
+         "field_search": "question",
+         "question": "Minh đang dùng Ss A5 2016khi có tin nhắn zalo hoặc Fb đến máy chỉ kêu chuông chứ không sáng màn hình ( sms vẫn sáng và có chuông binh thường ) Mình đã chỉnh ở trong cài đặt mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.877563,
+         "id": "939549",
+         "field_search": "question",
+         "question": "Samsung j2 prime ko báo sáng màn hình khi có tin nhắn face hoặc zalo (đã mở tất cả tùy chọ và cấp quyền ) cách khắc phục như thế nào ạ.xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.453354,
+         "id": "1153397",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao đt oppof7 của mình có tin nhắn zalo sao máy ko báo chuông mà chỉ rung thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.986324,
+         "id": "1159341",
+         "field_search": "question",
+         "question": "tại sao e bật tất cả nút thông báo.. nhưng mỗi khi tin nhắn đến messenger hay zalo .. tại sao máy k hiển thị? e đang dùng xs max. ad giúp e!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.957546,
+         "id": "1001707",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi làm ntn khi có tin nhắn,thông báo  từ các ứng dụng sáng màng hình lên ạ. Em đang dùng j7 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.521336,
+         "id": "1013587",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Điện thoại SamSung J2 cài nhạc chuông riêng thông báo riêng. Mà sao khi có thông báo tin nhắn lại đổ chuông như âm nhạc chuông luôn ạ?? Làm sao để thay đổi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.329876,
+         "id": "1155104",
+         "field_search": "question",
+         "question": "Sao tin nhắn zalo tới no ko đổ chuông thông báo banh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.315716,
+         "id": "1009122",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: Em sử dụng samsung j2 prime nhưng không hiểu sao khi có thông báo tin nhắn comment facebook hay được gắn thẻ hoặc bài viết quan tâm không hiển thị lên màn hình khóa.Ad giúp em khắc phục ạXin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.138927,
+         "id": "896535",
+         "field_search": "question",
+         "question": " Lỗi không thông báo tin nhắn zalo khi ở chế độ chờ android 5.1.1 dù bật wifi và bật thông báo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.992596,
+         "id": "994153",
+         "field_search": "question",
+         "question": "Em muốn hỏi là e dùng IP4, tự dưng mấy hôm nay khi có tin nhắn đến nó không hiển thị trên màn hình cũng như biểu tượng tin nhắn không hiển thị có tin nhắn mà e phải vào đọc tin nhắn mới biết là có tin nhắn đến hay không? Vậy làm cách nào để khắc phục ạ. Em đã vào thông báo và bật hiển thị trên màn hình khóa cũng như hiện bản xem trước rồi!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.880642,
+         "id": "1135301",
+         "field_search": "question",
+         "question": "Cho em hỏi em sài samsung a7 2018 thì đt em có hỗ trợ sáng màn hình khi có thông báo không ạ ?? Mong anh chị chỉ giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.566345,
+         "id": "1021498",
+         "field_search": "question",
+         "question": "Mình có mua sony X ở tgdd. Nhưng hnay mình mới để ý là khi có tin nhắn SMS thì màn hình không còn sáng lên mà chỉ có âm báo và đèn led thôi. Mọi lần thì vẫn sáng màn hình bình thường, vấn đề bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.421375,
+         "id": "1140262",
+         "field_search": "question",
+         "question": "Cho m hỏi cách cài  khi có thông báo màn hình sáng lên trên máy samsung a6 với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.989365,
+         "id": "803187",
+         "field_search": "question",
+         "question": " Sao khi tắt ứng dụng zalo thì không nhận được thông báo khi có tin nhắn mới vậy... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.85141,
+         "id": "1157000",
+         "field_search": "question",
+         "question": "hướng dẫn hiện thị thông báo có tin nhắn đến trên màn hình khóa sam sung A50",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.573303,
+         "id": "1013307",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để tắt cái dòng cuối cùng chứ khi tắt màng hình là ko có thông báo gì cả gọi đến hay tin nhắn mess gì cũng ko có chuông",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.527557,
+         "id": "769045",
+         "field_search": "question",
+         "question": " Ad ơi giúp mình tắt âm báo và rung khi có tin nhắn zalo trên iPhone 6s plus với! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.417263,
+         "id": "1149486",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao con oppo f9 của em khi có tin nhắn về lại k sáng màn hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.360344,
+         "id": "1159078",
+         "field_search": "question",
+         "question": "OPPO F9 em mới mua được khoảng 1 tháng rưỡi nhưng sao hôm nay Khi mở máy lên rồi vào Zalo thì tin nhắn mới hiện lên chứ nó khoonv thông báo ở ngoài màn hình chính hay thành thông báo, cho Em hỏi máy có bị gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.272423,
+         "id": "1165097",
+         "field_search": "question",
+         "question": "cho em hỏi là khi tin nhắn messenger đến mà tại sao màn hình không mở lên ạ mặc dù em đã mở hiển thị thông báo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.138893,
+         "id": "1151074",
+         "field_search": "question",
+         "question": "Sao zalo của mình tin nhắn ko báo vào máy. Mà bên kia tin nhắn họ gửi báo đã xem. Trong khi mình ko biết tin nhắn tới. Và mình cũng chưa xem.mong ad giúp đỡ. Cảm ơn ad nhìu!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.061756,
+         "id": "825420",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi lenovo k5 plus mới mua thấy có mấy lỗi sau:1. âm lượng nhạc chuông set mức lớn nhất nhưng khi xem fim hay chơi game tăng giảm âm lượng ứng dụng thì nhạc chuông lại nhỏ đi2. tin nhắn zalo không thấy sáng màn hình và sáng led nên rất khó theo dõi3. đèn led thông báo của dòng máy này có nhấp nháy không?4. Nút đa nhiệm có cách nào nhấn 1 lần được luôn thay vì phải giữ lâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.908394,
+         "id": "1005012",
+         "field_search": "question",
+         "question": "J7 pro có đèn báo khi nhận dc tin nhắn ,thông báo hay lúc xạc pin không vây ? Và đẻ bật đèn đó ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.695675,
+         "id": "896772",
+         "field_search": "question",
+         "question": " Mình dùng máy A7 2016, mình muốn cài đặt chuông thông báo tin nhắn zalo thì phải vô đâu mong ad chỉ giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.593147,
+         "id": "809259",
+         "field_search": "question",
+         "question": " Không hiện thông báo có tin nhắn từ zalo và âm cuộc gọi đến k co ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.331047,
+         "id": "1133921",
+         "field_search": "question",
+         "question": "iPhone 8 plus của mình mới mua chưa đc 2 tháng mà thỉnh thoảng máy cứ mở wifi hay 3G là máy rung liên tục trong khi mình kiểm tra ko thấy có Thông báo hay tin nhắn mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.219296,
+         "id": "1134039",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để tắt thông báo liên tục của cái tin nhắn của máy và messenger khi tin nhắn tới  lần mà mình k đọc cũng 1 tin nhắn đó mà cứ báo đi báo lại nhiều lần khi mua về k có bị sao nhưng khi cập nhật phần mềm thì nó lại bị như vậy nó rất khó chịu xin ad chỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.97083,
+         "id": "802576",
+         "field_search": "question",
+         "question": "Cho e hỏi, ứng dụng line trên ios 9.2.1 ờ ngoài màn hình chủ có thông báo có tin nhắn ( góc icon hiện số 5) nhưng khi em vào thì ko xem được tin nhắn, cứ như không có mạng, e vào web thì bình thường, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.84375,
+         "id": "1154610",
+         "field_search": "question",
+         "question": "E đag dùng máy mobistar x. E k nhận đc thông báo có tin nhắn . Khi mở ứng dụng mới thấy tin nhắn. Chỉ e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.835808,
+         "id": "1136306",
+         "field_search": "question",
+         "question": "Ace ai đã từng dính lỗi bảo mật mở khóa màn hình Motodola Moto G5s plus. Cụ thể là :1. Khi máy không nhận vân tay, vân tay ướt. Mình thử 2 3 lần máy báo không nhận dạng được, nhưng khi ấn phím nguồn vuốt lên vào luôn màn hình chính dù mình không nhập pass. 2. Bật ứng dụng thông báo moto, khi ứng dụng có thông báo, dù mình chưa cấp 1 quyền nào cho ứng dụng về mở khóa bảo mật, nhưng chỉ cần ấn vào icon thông báo ví dụ tin nhắn, facebook, zing mp3,... Thì máy vào thẳng ứng dụng và không cần nhập pass hay chạm vân tay. Ace ai bị lỗi trên có thể khắc phục được thì giúp đỡ mình với. Xin được chỉ giáo ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.68913,
+         "id": "1009299",
+         "field_search": "question",
+         "question": "Ứng dụng Zalo trên samsung a5 2016 của t ko hiển thị nội dung thông báo có tin nhắn... ở thanh cuộn phía trên như hình dưới đây mặc dù có tin nhắn đến. T đã cài đặt hiển thị thông báo rồi nhưng ko được. Mong đc các KTV tư vấn.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.52012,
+         "id": "1141302",
+         "field_search": "question",
+         "question": "các bạn cho mình hỏi, ssj6 2018 khi thông báo đến chỉ nghe âm thanh không sáng màn hình như iphone sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.346504,
+         "id": "782625",
+         "field_search": "question",
+         "question": "Mình đang dùng IPhone 5. Khi khóa màn hình. bật nút nguồn lên thì màn hình chỉ sáng mờ mờ đen, ko hiển thị ra giao diện chính của máy là sao. Mặc dù gọi đến hay nhắn tin đều nghe được chuông, Và lưu chụp màn hình thì vẫn đc. Lâu lâu những lúc khóa màn hình thì bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.228535,
+         "id": "833691",
+         "field_search": "question",
+         "question": "tại sao trên thông báo zalo trên điện thoại của tôi là : có tin nhắn mới, nhung vào zalo lại không co tin nhắn mới nào cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.141254,
+         "id": "868104",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao em lên zako và đã cài hiển thị thông báo , trả lời nhanh tin nhân mà khi có tin nhắn lại k có. Giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.95759,
+         "id": "1157686",
+         "field_search": "question",
+         "question": "Ad ơi. Muốn ip xs max nháy thông báo tin nhắn mới ở màn hình làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.92669,
+         "id": "1008189",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại oppo f1s của em khi nhận dc thông báo từ mess lại ko sáng màn hình ạ. Ps; em đã bật chức năng bật màn hình cho thông báo màn hình khóa nhưng lúc dc lúc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.861095,
+         "id": "1018246",
+         "field_search": "question",
+         "question": "Làm sao để điện thoại GR5 mini báo chuông ở zalo và messenger khi màn hình đã khóa nhưng vẫn đang bật wifi liên tục? Chỉ nhận được thông báo có cuộc gọi nhỡ. Tuy nhiên đã  bật thông báo trên zalo và messenger.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.79314,
+         "id": "779976",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 5 của em khi bật 3G thì người khác nhắn tin nhận được thông báo,nhưng khi dùng WiFi thì người khác nhắn tin thông báo lại không hiển thị,như vậy là sao nhỉ,giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.755016,
+         "id": "805213",
+         "field_search": "question",
+         "question": " Xin hướng dẫn cho mình cách cài đặt tiện tích thông báo tin nhắn FB lên màn hình máy tính. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.662476,
+         "id": "846756",
+         "field_search": "question",
+         "question": "Các anh chị cho e hỏi với. Em dùng oppo F1, e đã bật chế độ chạy nền cho ứng dụng zalo rồi mà khi có tin nhắn vẫn k nhận đc thông báo. chỉ khi e vào ứng dụng zalo thì mới nhận đc thông báo ạ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.29272,
+         "id": "1153553",
+         "field_search": "question",
+         "question": "Em sử dụng nokia 3.1 plus, sau khi cập nhập lên androi 9 em gặp tình trạng zalo không nhận được thông báo tin nhắn đến hay cuộc gọi đến. Khi nào em mở zalo mới nhận được thông báo. Em vào cài đặt kiểm tra thì zalo được mở thông báo.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.11658,
+         "id": "828136",
+         "field_search": "question",
+         "question": " Cho em hỏi, khi mình chọn chế độ bạn thân với 1 người thì ng đó có nhận được tin nhắn hay thông báo về việc đó không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.060665,
+         "id": "773490",
+         "field_search": "question",
+         "question": " Samsung A5 2016 có đèn led thông báo tin nhắn với miss call không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.944828,
+         "id": "1138283",
+         "field_search": "question",
+         "question": "cho e hỏi là e đang dùng dòng máy xiaomi repmi 5lus làm cách nào để bật tin nhắn zalo lên vậy ạ. chỗ thanh thông báo thì có loa trong thôi ạ. mag loa trong thì có cài 1 bài hát rồi ạ. e muốn tắt loa trong bật chuông tin nhắn zalo lên ạ. mà ở màn hình khóa nó ko hiện tin nhắn zalo. nhưng mà fb thì hiện đầy đủ ạ. giải đáp giúp e vs nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.830036,
+         "id": "1157020",
+         "field_search": "question",
+         "question": "Ad cho hỏi với. Mình dùng samsung j7pro. Mấy hôm nay bị mất âm thanh tin nhắn đến. Cũng không hiển thị biểu tượng có tin nhắn đến ở thanh công cụ. Chỉ rung rồi sáng lên 1 cái, rồi phải vào mục tin nhắn mới biết là có tin nhắn đến. Chỉ giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.793865,
+         "id": "880878",
+         "field_search": "question",
+         "question": "Chào adMinh mới mua đt oppo f1s nhưng về ứng dụng zalo nó chỉ thông báo tin nhắn khi mình online con mình off zalo nhưng vẫn có wifi 3g thì nó không thông báo gì cả. Ad có cách nào chỉ mình với. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.673187,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.560345,
+         "id": "1023150",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao ẩn nội dung tin nhắn trên màn hình khóa của galaxy s8 ạ, có tin nhắn tới là moi người ko cần mở khóa cũng đọc được tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.32321,
+         "id": "837140",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi đt samsung galaxy j3 có đèn led thông báo tin nhắn như dòng Samsung s4 k vậy qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.274513,
+         "id": "1137091",
+         "field_search": "question",
+         "question": "ad cho mình hỏi chút, mình đang sử dưng huawei nova 3i Mình muốn hiển thị thông báo trạng thái face hoặc tin nhắn của zalo, viber ra mình hình chờad có thể chỉ cách giúp mình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.226295,
+         "id": "1003954",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ! Tôi đang dùng điện thoại Samsung galaxy j320g, khi ấn giữ trên màn hình thì điện thoại rung lên (vd khi muốn xóa tin nhắn trên Messenger hay Zalo thì phải ấn giữ vào tin nhắn để chọn chức năng xóa.. khi đó thao tác ấn giữ phím máy tôi cứ bị rung lên), tôi muốn tắt thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.169407,
+         "id": "1003616",
+         "field_search": "question",
+         "question": "Sao máy j7 prim của e mới mua.e cài đặt nhấp nháy đèn led cho các cuộc gọi và tin nhắn trên sim đến thì có cháy đèn. Còn các thông báo  cho tin nhắn đến hay cuộc gọi  wa ứng dụng facebook. Zalo thì đèn led ko nhấp nháy vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.748993,
+         "id": "868281",
+         "field_search": "question",
+         "question": "cho mình hỏi sao ip của mình bay h khi có tin nhắn máy chỉ báo ở màng hình khóa . còn vào mục tin nhắn thì ko thấy hiện thị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.720802,
+         "id": "828779",
+         "field_search": "question",
+         "question": "mình dùng facebook trên máy tính. Nhưng gần đây khi facebook thông báo có tin nhắn, mình mở xem được nhưng trả lời không được. Nó cứ hiện \"Tin nhắn chưa đc gửi, vui lòng thử gửi lại\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.67226,
+         "id": "1154425",
+         "field_search": "question",
+         "question": "Cho mình hỏi mỗi khi cuộc gọi đến hoặc gọi đi bằng sim điện thoại, mà lại báo vào tin nhắn zalo. làm sao bỏ chế độ này. Điện thoại mình sam sung J5 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.637413,
+         "id": "925517",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi ứng dụng facebook cập nhật nhưng mất messenger không thông báo tin nhắn bên người nhắn tin qua không thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.531757,
+         "id": "828027",
+         "field_search": "question",
+         "question": "Cả nhà ơi cho mình hỏi, mình gửi tin nhắn cho bạn mình trên zalo mà bạn ấy chưa đọc, chỉ mới có thông báo đã gửi thôi. Vì trước khi mình gửi tin nhắn đó, bạn ấy ít dùng zalo nên bạn ấy xoá zalo đi. Tận 3 tháng sau mới tải lại thì tin nhắn mình gửi liệu bạn ấy có nhận được không cả nhà?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.53009,
+         "id": "885223",
+         "field_search": "question",
+         "question": "cho mình hỏi về ĐT iphone 5S mới mua. khi ai gọi zalo đến ĐT thì không đổ chuông hay rung gì cả, chỉ có thông báo là có người gọi đến thôi, nếu không nhìn ĐT thì không biết có người gọi. rất bất tiện. à, trường hợp này xảy ra khi màn hình đã khóa, còn khi đang dùng thì có đổ chuông. máy có bị lỗi phần mềm hay cứng gì không? xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.30728,
+         "id": "797800",
+         "field_search": "question",
+         "question": "khi đăng nhập zalo qua pc để đọc tn mới thì trên zalo dt co mất thông báo tin nhắn mới k?.và khi pc k đăng xuâtd lần sau vào có cần quét QR nữa k. và có tự động gởi tn báo co pc đănh k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.13772,
+         "id": "1016237",
+         "field_search": "question",
+         "question": "Câu hỏi lần trước mình hỏi là tại sao chuông thông báo tin nhắn cứ tự động tăng âm lượng, và giờ mình phát hiện ra là chỉ khi nhận được tin nhắn rác thì chuông lại to hết cỡ. Hơn nữa tính năng chặn tin nhắn rác hoạt động rất phiền hà. Vẫn nhận tin nhắn bình thường với chữ Spam và tự động lưu luôn số đó vào danh bạ. Đã không chặn được lại còn thông báo to hơn, rõ ràng hơn nữa chứ. Nhiều lúc ức chế với cái J5 Prime này cực kỳ luôn. Mình muốn hỏi xem có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.067165,
+         "id": "1151754",
+         "field_search": "question",
+         "question": "Mình không nhận được tin nhắn và cuộc gọi zalo khi tắt màn hình, chỉ nhận được khi mở sẵng ứng dụng vậy phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.04309,
+         "id": "768525",
+         "field_search": "question",
+         "question": "Ad giúp mình tắt âm thanh và chế độ rung khi có tin nhắn zalo trên iPhone 6S với (cuộc gọi và tin nhắn điện thoại vẩn bình thường nha)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.82261,
+         "id": "889257",
+         "field_search": "question",
+         "question": "em đang dùng Samsung Galaxy A3. Em rất thích nhạc âm báo tin nhắn mặc định của zalo (để phân biệt với các loại tin nhắn sms, viber,...). Tuy nhiên hiện tại điện thoại của em lại báo chuông theo chuông của sms mà em ko biết làm thế nào để đặt lại chuông mặc định. Nhờ các anh chị giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.82247,
+         "id": "1159370",
+         "field_search": "question",
+         "question": "(tôi dùng samsung J4 core) mua ở của hàng của TGDĐ hàng mới 100%. xin hỏi khi máy ở chế độ tắt màn hình cuộc gọi zalo va tin nhắn đều không nhận đươc phải khi mở ứng dụng zalo lên thi mới nhận được tn và cuộc gọi. ( tôi đã vào mục cài đặt kiểm tra ứng dụng của zalo xem có bị giới hạn thông báo hay ko) tắt màn hình đi khoảng 5p là vô hiệu lực. chỉ có zalo với viber là bị như vậy. tôi thấy rất bất tiện và ko hài lòng chút nào.. xin chỉ cách khắc phục. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.77368,
+         "id": "1000876",
+         "field_search": "question",
+         "question": "Sao đt J5 Prime bật k lên màn hình ạ trong khi vẫn có đèn nháy thông báo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.74132,
+         "id": "1165941",
+         "field_search": "question",
+         "question": "Cho e hỏi cách cái đặt nhận thông báo khi tắt màn hình trên đt huawei y9 ạ. Màn hình khi tắt rồi và mở lên k thấy được thông báo tn hoặc zalo v. V. Chỉ khi mở khóa mới nhìn thấy được.hay máy của e bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.735603,
+         "id": "1154894",
+         "field_search": "question",
+         "question": "mình xài samsung galaxy a7 2018 , cho mình hỏi cài đặt ntn để mục tin nhắn hiện lên số tin nhắn chưa đọc, đt mình chỉ báo chuông thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.699974,
+         "id": "795219",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ, màn cảm ứng máy iphone 4s có nằm cả phần rìa không ạ hay chỉ mỗi phần màn hình sáng thôi ạ, em bị vỡ nát gần phím lúc màn hình sáng nhìn qua khe nứt có ánh sáng vậy có phải hỏng cả cảm ưng không ạ và thay bây giờ khoảng bao nhiêu ạ. Em cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.557205,
+         "id": "893876",
+         "field_search": "question",
+         "question": "Cho e hỏi là tình trạng là cái zalo e sao tự nhiên nó không thông báo khi có tin nhắn tới nào vào zalo nó mới thấy, xin bên tgdd chỉ e cách khắc phục ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.1726,
+         "id": "998070",
+         "field_search": "question",
+         "question": "Làm ơn cho hỏi Nokia 3 khi có tin nhắn hoặc cuộc gọi nhỡ đến màn hình luôn hiển thị, nháy đèn như Samsung J7 hay màn hình tối phải mở vuốt màn hình mới nhìn thấy.Xin cảm ơn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.169353,
+         "id": "1013229",
+         "field_search": "question",
+         "question": "Điện thoại Samsung J7 Prime khi có thông báo đến thì sẽ rung và phát âm báo, nhưng nếu chỉ muốn phát âm báo mà không rung thì phải điều chỉnh như thế nào ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.16807,
+         "id": "828592",
+         "field_search": "question",
+         "question": "Cho e hỏi. Điện thoại e không thông báo tin nhắn zalo, thì làm sao ạ. E đã làm theo mấy cách trên mạng chỉ mà cũng không được. Xin chỉ giúp e ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.12776,
+         "id": "1159752",
+         "field_search": "question",
+         "question": "Em đang dùng samsung j6+ mà cứ khoảng 10 phút lại sáng màn hình 1 lần mà k có thông báo cho hỏi làm sao để khắc phục tình trạng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.12742,
+         "id": "1162746",
+         "field_search": "question",
+         "question": "Nếu  1 một app đã được ẩn bằng trung tâm bảo mật thì nó có  thông báo khi có tin nhắn đến không  ví dụ  như zalo được ẩn chẳng hạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.015774,
+         "id": "858004",
+         "field_search": "question",
+         "question": " Em xài samsung note 5 không hiểu sao icon zalo báo 18 tin nhắn nhưng em vào xem chỉ có 5 tin nhắn là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.87164,
+         "id": "1012900",
+         "field_search": "question",
+         "question": "Muốn tắt tin nhắn thông báo gửi đến sim khi mình vào tra cứu chi tiết cước của sim mobifone trên cổng thông tin của mobifone như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.864433,
+         "id": "914968",
+         "field_search": "question",
+         "question": "E dùng facebook ios bản mới nhất 67.0 khi cập nhật lên thì thanh phí dưới mất đi phần kết bạn chỉ còn lại 4 mục là bản tin, nhắn tin, thông báo và tuỳ chọn khi tìm hiểu thì phần kết bạn đã gộp chung với phần thông báo vậy là sao ạ có phải do bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.802647,
+         "id": "1137205",
+         "field_search": "question",
+         "question": "E k nhận đc thông báo từ zalo. Chỉ khi e mở zalo lên mới thấy đc tất cả tin nhắn. E đang sử dụng oppo f3. Nhờ ac hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.665276,
+         "id": "1167021",
+         "field_search": "question",
+         "question": "Ad ơi, cho mình hỏi?Dòng nokia 5 android 9 có cách nào khôi phục được messenges bị chặn không ad?Tình hình như vietcombank của mình. mình hay nhận thông báo mà giờ up lên bản 9 là tự dưng không đọc được tin nhắn cũng như hiển thị thông báo tới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.498123,
+         "id": "1161516",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình xài note 8. Đã cài đặt mở tất cả âm thanh thông báo nhưng tin nhắn đến thì không có âm, không rung, không hiển thị tin nhắn mới. Cái này khắc phục như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.49558,
+         "id": "997256",
+         "field_search": "question",
+         "question": "Mình xài Samsung Galaxy S5, mỗi khi tải Minecraft trên appvn máy lại thông báo như vầy và không cho tải xuống, có cách nào để sửa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.456135,
+         "id": "789782",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s. Hum qa e bị tắt màn hình, gọi vẫn đổ chuông mà màn hình vẫn đen thui, e thử gọi mấy lần vẫn như z? Lúc đó e vẫn bật wifi, đang onl fb và zalo, màn hình đen ko lên nhưng vẫn có chuông nhận thông báo. Sáng nay e ms biết cách mở sáng màn hình lại. Vậy tối hqa đến giờ đt e vẫn bật mạng đến lúc mở lên, z đt e có thể bị sao ko ạ??? QTV tư vấn giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.416344,
+         "id": "998166",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại samsung j7 của em báo có tin nhắn chưa đọc nhưng khi mở lại ko có tin nhắn nào chưa đọc cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.373005,
+         "id": "1163845",
+         "field_search": "question",
+         "question": "Cho em hỏi nokia 106 sao không có chế độ rung khi có cuộc gọi hay tin nhắn đến vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.275837,
+         "id": "881948",
+         "field_search": "question",
+         "question": "Hello.Mình đang sd máy nokia lumia 925. Công việc của mình thương sd đến ứng dụng viber. Nhưng mấy hnay các tin nhắn thông báo đến lại k hiển thị ở màn hình nền. Mà phải vào ứng dụng mới đọc được. Có cách nào hiển thị thông báo không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.244225,
+         "id": "911573",
+         "field_search": "question",
+         "question": " Ad cho e hỏi sao Zenphone có tin nhắn từ face zalo nó kh hiện trên thanh thông báo v ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.213806,
+         "id": "876366",
+         "field_search": "question",
+         "question": "  Add ơi tại sao tin nhắn hiện số lên mà fb có thông báo nó kh hiện ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.19596,
+         "id": "1014084",
+         "field_search": "question",
+         "question": "Mình đang sử sụng chiếc Galaxy A5 2016, dạo gần đây hệ thông hay thông báo để nâng cấp lên Android 7.0, thấy phiền quá nên mình chọn cập nhật luôn. Nhưng khi cập nhật xong lên Adr 7.0 thì thấy máy chạy chậm hơn hẳn lúc trước khi cập nhật. truy xuất dữ liệu hình ảnh, tin nhắn, danh bạ rất chậm. Đặc biệt mỗi lần kết nối wiffi máy bị đơ 1 hồi lâu rùi tự tắt màn hình bật lại. Admin tư vấn giúp mình khắc phục với. có thể cài lại pm trc đc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

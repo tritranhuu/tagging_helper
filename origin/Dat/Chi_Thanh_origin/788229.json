@@ -1,0 +1,801 @@
+{
+   "id_query": "788229",
+   "total": 32744,
+   "total_current": 100,
+   "max_score": 75.96895,
+   "origin_question": " cho em hỏi laptop của e lâu ko sử dụng nên quên mất password mở máy. giờ em phải làm sao để reset lại password ",
+   "hits": [
+      {
+         "score": 33.650467,
+         "id": "963892",
+         "field_search": "question",
+         "question": " Em quên password . Em có phải cài lại win máy tính không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.643387,
+         "id": "986292",
+         "field_search": "question",
+         "question": "cho em hỏi ip6 của e quên mất mật khảu mở máy giờ e phải làm sao và phí mở hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.972887,
+         "id": "786805",
+         "field_search": "question",
+         "question": " Mật khẩu của win với mac có giống nhau không? Và nếu quên password macbook thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.6344,
+         "id": "801738",
+         "field_search": "question",
+         "question": "Cho mình hỏi là: Máy laptop của mình đặt password nhưng login lại thì không được, phím máy tính bị liệt nút delete nên không thể đổi được. Vậy làm cách nào để bẻ khóa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.374464,
+         "id": "1138199",
+         "field_search": "question",
+         "question": "Làm thế nào để xóa password Oppo A7 khi quên mất vây, nếu có clip hướng dẫn thì cho mình xin. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.945354,
+         "id": "779038",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em mới cài đặc gốc máy iPhone 4 ios7.1.2 lại giờ mở lên máy đòi phải nhập id apple mà em lại quên id rồi vậy giờ phải làm sao để mở máy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.752619,
+         "id": "1142933",
+         "field_search": "question",
+         "question": "cửa hàng có nhận mở khoá mật khẩu iphone khi quên iCloud and password không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.205416,
+         "id": "790364",
+         "field_search": "question",
+         "question": "Em đang sử dụng iphone 6 plus nhưng vì lâu quá không sử dụng đến tài khoản icloud nên bay giờ e đã quên mật khẩu... Vậy làm cách nào tìm lại mật khẩu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.832336,
+         "id": "749273",
+         "field_search": "question",
+         "question": " QTV cho mình hỏi mình quên mật khẩu Microsoft để mở laptop giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.382988,
+         "id": "753035",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em cập nhật lại phần mềm và quên mất tài khoản và mật khẩu icloud giờ làm sao để có thể mở máy ra đc. Anh chị có thể mở hộ em qua số iccid và imei của e được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.313444,
+         "id": "865231",
+         "field_search": "question",
+         "question": "Em đăng kí tài khoản app store nhưng nhập sai mã thư tín nên không thành công. Khi tải phần mềm, gõ mật khẩu và password thì máy báo ID không đúng. Cho em hỏi, em phải làm sao để sửa lại thông tin nhập sai khi đăng kí tài khoản. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.98553,
+         "id": "842120",
+         "field_search": "question",
+         "question": " nếu em quên password tài khoản icloud thì có cách nào đăng xuất ra k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.723448,
+         "id": "1013641",
+         "field_search": "question",
+         "question": "Em đang sử dụng oppo f1s lúc em cài vân tay+ mẫu hình để mở khóa bây giờ em quên mẫu hình mở khóa.. vậy làm như thế nào để thay ạ ( vào cài đặt cũng phải mở lại mẫu hình cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.661858,
+         "id": "1009075",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop e win10 không hiểu sao hôm nay đăng nhập qua phần nhập password thì nó xanh thế này luôn. Mình dùng phím tắt vẫn mở được task maneger.Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.652857,
+         "id": "989249",
+         "field_search": "question",
+         "question": "em sử dụng messenger cho pc, nhưng hôm trước em xóa history của google chorme, trong đó có password. Xong em vô lại messenger mà nó không hiển thị khung đăng nhập mà thay vào đó là cái vòng hiển thị là nó đang load cứ load mãi không ngừng, lâu thiệt lâu cũng không hiện khung đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.55445,
+         "id": "1148475",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu Facebook phải làm sao để vào lại được.em có bấm quên mật khẩu nó gữi mã số qua email em đã bỏ lâu giờ phải làm sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.510462,
+         "id": "859456",
+         "field_search": "question",
+         "question": " Tôi sử dụng zalo đã lâu nhưng vô tình làm mất ứng dụng này trên màn hình, giờ phải làm sao để khôi phục được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.11073,
+         "id": "889733",
+         "field_search": "question",
+         "question": "iPad của tôi khi mua ở cửa hàng cài đặt tất cả, bây giờ sau 2 năm sử dụng muốn cài thêm trò chơi thì bị hỏi password của Icloud. Cửa hàng bán ngày trước đã dẹp bây giờ phải làm sao đây? Xin chỉ giúp cách xóa tài khoản cũ để thiết lập tài khoản Icloud mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.091763,
+         "id": "779061",
+         "field_search": "question",
+         "question": "Mình sử dụng iPhone 4, hôm rồi mình có reset lại máy, nhưng máy mình chưa sao lưu dữ liệu lên iCloud, giờ mình phải làm sao để sử dụng máy? giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.078367,
+         "id": "1140123",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao laptop asus của em chỉ sử dụng 2 tiếng là nhanh hết pin, và làm sao để lâu hết pin vậy ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.042461,
+         "id": "944538",
+         "field_search": "question",
+         "question": "Em bị mất mk zalo. Sđt e dùng để đăng kí zalo bây giờ e ko còn sử dụng nữa . e muốn hỏi làm thế nào để e lấy lại zalo cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.012573,
+         "id": "1155360",
+         "field_search": "question",
+         "question": "Em quên mật khẩu mở khóa màn hình laptop giờ phải làm sao ạ? Em đang dùng máy Asus VivoBook X507UF i5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.986698,
+         "id": "928115",
+         "field_search": "question",
+         "question": " e tải cydia về máy rồi sao e nhập email và password không được vậy ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.978565,
+         "id": "951664",
+         "field_search": "question",
+         "question": " Cho em hỏi em mua iphone ở cửa hàng sau khi reset lại máy em quên mk và tk iclould thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.8112,
+         "id": "835766",
+         "field_search": "question",
+         "question": " Cho em hỏi lap mình có camera mà sử dụng không được giờ phải làm sao để sử dụng ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.810783,
+         "id": "1150758",
+         "field_search": "question",
+         "question": "Em vừa bị trộm chiếc iphone 6s hàng xách tay từ Úc.Máy em có cài icloud và password 6 số.Khi mất em đã nhanh chóng báo bị mất trên icloud.Như vậy kẻ trộm có sử dụng hay bán đi được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.762367,
+         "id": "1005133",
+         "field_search": "question",
+         "question": "Trong Google Play, khi nhập vào mục \"Đổi\" thì hiện ra \"Đổi mã của bạn\". Cho hỏi phần \"Nhập mã\" này là password của địa chỉ mail or password của máy?TKS!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.684721,
+         "id": "837987",
+         "field_search": "question",
+         "question": "Ipad của mình do cháu mình lúc cài game đăng nhập password sai nhiều lần quá nên tài khoản appstore( là gmail của mình) bị thông báo là vô hiệu, giờ khi cập nhật ứng dụng gì mới là nó hiện ra tài khoản là thegioididongduchoa714@gmail.com mà mình không có password nên cập nhật không được, admin có cách nào cho mình xin password hay cách nào bỏ tài khoản này được không? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.674543,
+         "id": "1135477",
+         "field_search": "question",
+         "question": "Cho em hỏi reset máy xong nó yêu cầu nhập tài khoản google mà phải nhập một trong các tài khoản của chủ sở hữu mà giờ em quên mất tài khoản thì phải làm sao ạ (điện thoại j2 pro nha ad)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.672247,
+         "id": "1143720",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop để lâu không sử dụng bây giờ em bật không lên có cách nào để xử lý không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.649199,
+         "id": "988540",
+         "field_search": "question",
+         "question": "Chào AD!Cho tôi hỏi làm sao để reset password trên PC win10? Khi tôi nhập mật khẩu báo lỗi là mật khẩu không đúng! Vậy có cách nào để cài đặc lại. Mong thế giới di động giúp đỡ tôi! Chân thành cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.541441,
+         "id": "1014457",
+         "field_search": "question",
+         "question": "ad máy em bị lỗi type password to decrypt storage thì sửa sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.537966,
+         "id": "1014655",
+         "field_search": "question",
+         "question": "Em quên mẫu hình nên vào khôi phục cài đặt gốc vẫn phải mở mẫu hình ạ . Phải làm như thế nào ạ.  Em đang sử dụng oppo f1s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.407948,
+         "id": "810433",
+         "field_search": "question",
+         "question": "có một anh bên kĩ thuật chỉ em reset máy iphone 5s nhưng máy em đã jailbreak bay giờ ko reset đc em tắt nguồn mở lại thì bị như thế này giờ phải làm sạo ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.360023,
+         "id": "1141045",
+         "field_search": "question",
+         "question": "Em quên mẫu hình mở khóa đt thì phải làm sao máy của e là máy j5 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.33186,
+         "id": "924595",
+         "field_search": "question",
+         "question": "Em xin hỏi cô em mới cho em một cái điện thoại iphone cũ, ID Apple cũ của cô chuyển sang máy mới rồi nên máy cũ bị vô hiệu hoá. Mà mail cô đặt lâu quá rồi nên không nhớ nó thế nào nữa để đặt lại ID Apple khác, trường hợp này em phải làm sao để sử dụng máy bình thường đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.328997,
+         "id": "992629",
+         "field_search": "question",
+         "question": "Em quên pass laptop thinkpad thì phải làm sao ạ? Có cách nào để mở khoá không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.230127,
+         "id": "804426",
+         "field_search": "question",
+         "question": " Em nên sử dụng tế nào để pin laptop không bị chai ạ?Nếu pin bị chai thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.131372,
+         "id": "1013680",
+         "field_search": "question",
+         "question": "Em quên mật khẩu máy samsung nên đã mo recovery ra em lỡ tay bấm vào dòng đầu của recovery ( em ko nho la dong gi nua vi luc day ban viec )  nên lúc sau đã ko vào được nữa vậy cho em hỏi gio phải làm sao để mo lại recovery bây gio để khôi phục lại máy hay là phải đem ra cửa hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.037827,
+         "id": "1166147",
+         "field_search": "question",
+         "question": "AD cho e hỏi iphone 6 của mẹ e bị quên mật khẩu mà mở bằng máy tính bảo nhập icloud mà mẹ e lại ko nhớ. Giờ làm sao có thể mở đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.919094,
+         "id": "763008",
+         "field_search": "question",
+         "question": "Laptop của em mua ở tgdđ, lâu rồi em không sử dụng, mà trước đây em có cái pass, nay em quên mất, không biết tgdđ có giúp em gỡ pass được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.848341,
+         "id": "957870",
+         "field_search": "question",
+         "question": "cho em hỏi laptop của em khi tải ứng dụng như game về thị khi tắt máy bật lên lại  thì ko thấy nửa,phải tải lại,mổi lần sử dụng phỉa tải lại..... QTV cho em hỏi em phỉa sửa sao ạ !!!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.817535,
+         "id": "1016236",
+         "field_search": "question",
+         "question": "Laptop e đặt mật khẩu nhưng e quên mất. Bên mình có thể mở máy giúp e đc ko ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.792673,
+         "id": "763634",
+         "field_search": "question",
+         "question": "QTV cho em hỏi: em đang dùng con Lenovo A7000. vừa reset lại máy và thấy máy không thể bật Dolby Atmos được nữa. bây giờ em phải làm sao ạ.nếu chỉ em reset lại máy thì cũng ko cần thiết đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.78286,
+         "id": "1005993",
+         "field_search": "question",
+         "question": "Em đang sử dụng điện thoại samsung galaxy note4 cách đây ko lâu đt bị vào nước sau khi sấy khô sử dụng đc vài bữa thì nó bị đơ hay đứng máy và tự khởi động lại cho e hỏi giờ phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.76509,
+         "id": "957657",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi máy e iPhone 6s ios 10.2 . Máy vẫn sử dụng bình thường. đủ chức năng. nhưng lâu lâu reset máy lại bị lổi này là sao vậy ad?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.759102,
+         "id": "1021644",
+         "field_search": "question",
+         "question": "ad cho mình hỏi với, mình xài Q LUNA Pro, mình quên mất hình khóa rồi, còn mở được bằng vân tay. giờ mình muốn reset máy lại để đổi hình khóa thì làm sao ạ, làm theo mấy bước bên tgdđ chỉ không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.702885,
+         "id": "949562",
+         "field_search": "question",
+         "question": " Ad cho e hỏi, máy em đang sử dụng win 10 bản quyền 1 năm, giờ em muốn cài lại win có phải mất phí không ad. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.698193,
+         "id": "807384",
+         "field_search": "question",
+         "question": "iPhone của em vừa cập nhật lên 9.3, nhưng em quên pass iCloud, giờ không vào được nên máy bị khoá rồi. E cũng quên cả pass của email nhận thông tin nên không reset được. Hiện tại Ipad của e cũng đang dùng iCloud này, vậy có cách nào tìm lại được pass đe mở đuoc iPhone k ad? Em cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.680767,
+         "id": "844999",
+         "field_search": "question",
+         "question": "Máy tính em reset lại thì bị mất MS Microsoft Office, em đã thử down trên mạng nhưng vẫn không được, giờ em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.643496,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.621677,
+         "id": "1161978",
+         "field_search": "question",
+         "question": "Em vừa reset lại samsung a6+ nhưng mà quên mất tài khoản gg để đăng nhập lại rồi ạ, em cũng kh sài sđt lúc đầu đăng kí tài khoản nữa em phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.590897,
+         "id": "1144425",
+         "field_search": "question",
+         "question": "Em có câu hỏi muốn được TGDĐ tư vấn ạ. Về xiaomi ạ. Em reset lại xiaomi nhưng em quên mất tài khoản xiaomi giờ em không biết làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.522552,
+         "id": "1134100",
+         "field_search": "question",
+         "question": "Em sử dụng sam sung j3 pro. Hồi trước khi em đang sử dụng thì mày tắt hoài. Em có hỏi bên mình thì được bảo là reset lại máy. Em đã làm theo. Nhưng sau khi reset xong thì máy em ngốn pin rất nhiều. Em không biết làm sao để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.521563,
+         "id": "809336",
+         "field_search": "question",
+         "question": " Em sử dụng laptop asus F454L nhưng bị mất mật khẩu đăng nhập vào máy thi phải làm sao ák ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.50117,
+         "id": "756547",
+         "field_search": "question",
+         "question": " Cho em hỏi máy tính của em bị mất mật khẩu thì giờ em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.43683,
+         "id": "1024052",
+         "field_search": "question",
+         "question": "cho em hỏi là em khôi phục icloud nhưng email tạo cùng vs icloud em quên mất giờ phải làm sao ạ   id của em đang bị khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.417042,
+         "id": "1009074",
+         "field_search": "question",
+         "question": "Laptop của em đang sử dụng card màn hình Intel HD Graphics . Bây giờ em muốn nâng cấp lên thì phải làm sao ạ ?? Gợi ý dùm e 1 số card màn hình cho laptop để chơi game với ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.41561,
+         "id": "1141710",
+         "field_search": "question",
+         "question": "cho mình hỏi là nếu ko sử dụng laptop trong bao lâu thì nên tắt máy vậy. Nếu tầm ngưng sử dụng 1 hoặc 2 tiếng thì có nên tắt ko hay là chỉ để chế độ sleep thôi ạ. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.24863,
+         "id": "1167383",
+         "field_search": "question",
+         "question": "Em quên mất mật khẩu riêng tư và câu trả lời ở phần câu hỏi để khôi phục thì em phải làm sao?  , hiện tại em đang sử dụng oppo F9 ạ,  mong Anh chị giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.22949,
+         "id": "996189",
+         "field_search": "question",
+         "question": "Iphone 5 \"của e bị reset lại nhưng lúc cài máy nó bắt phải nhập mật khấu icould nhưng e lại vô tìbnh quên mấT.  Thế có cách nào để máy vào đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.228523,
+         "id": "799303",
+         "field_search": "question",
+         "question": "laptop cua em win10. sau khi đăng nhập tài khoản microsoft vào nó bảo nhập Old Paswort. mà từ khi mau máy tới giờ em có cài password gì đâu. cho hỏi pass đó là gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.221676,
+         "id": "762833",
+         "field_search": "question",
+         "question": "  Điện thoại em mua lại của người ta mà quên mã mở khóa không có icloud giờ làm sao mở? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.19043,
+         "id": "1139821",
+         "field_search": "question",
+         "question": "facebook của e e quên mật khẩu mà số điện thoại xác minh thì số đó e bị mất, gmail thì em dùng yahoo mà k nhớ mật khẩu nên k lấy lại được. bây giờ làm sao để lấy lại mk ạ??? giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.158264,
+         "id": "1157256",
+         "field_search": "question",
+         "question": "Chào ac , em đang sử dụng đt oppo A3S .Cho em hỏi sao abum ảnh của em chụp vào đt lâu ngày lại bị mất ảnh tự động ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.119078,
+         "id": "849590",
+         "field_search": "question",
+         "question": " Cho em hỏi sau khi reset lại máy tính các ứng dụng bị xoá hết lại trở về như mới em phải làm gì để cài đặt máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.039246,
+         "id": "914400",
+         "field_search": "question",
+         "question": " Laptop của em bị mất cd key window thì giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.957483,
+         "id": "1144727",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ em muốn đem laptop của em ra tiệm cài đặt lại như lúc mới mua nhưng em đã hết bảo hành, vậy thì e tôn bn tiền để cài lại ạ. Sđt lúc e mua laptop là 0909261508 mà e bị mất số lâu rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.948744,
+         "id": "1153763",
+         "field_search": "question",
+         "question": "Mình mua Sony xa1 trả góp đc 3th mình làm mất giờ làm sao để khóa máy ko sử dụng đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.883999,
+         "id": "1020748",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?hm, ý e là, khi mở lại máy thì e ko gọi đc, mí bn gọi cho e cx ko nghe đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.883083,
+         "id": "890097",
+         "field_search": "question",
+         "question": " qtv cho em xin cách xóa yêu cầu nhập password khi mở pc với ạ......pc chạy win 10 nha thanks qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.851133,
+         "id": "988883",
+         "field_search": "question",
+         "question": "chào shop, em mua máy laptop cũng được một năm roi62, mà bây giờ máy mở lên rất là lâu đã vậy nó còn tải cái gì gì nữa, bây giờ em đem máy ra sửa được hk nhưng e quên mất số điện thoại khimua rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.840595,
+         "id": "780660",
+         "field_search": "question",
+         "question": " Laptop của em hiện đang bị virus nên em muốn chạy chương trình lại cho máy thi phải làm sao ạ máy hp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.768076,
+         "id": "1023663",
+         "field_search": "question",
+         "question": "anh em vừa mới mua laptop cho em. em sử dụng được tối nay là 3 tuần và em mới reset máy tính lại. nhưng mà bây giờ em cài đặt lại word, excel, powerpoint các ứng dụng cần thiết thì yêu cầu phải có 25 ký tự gì đó. mà em không biết mà 25 ký tự này ở đâu giờ em pphai làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.68717,
+         "id": "1010792",
+         "field_search": "question",
+         "question": "Mình quên mẫu hình của a9pro phải làm sao để cài lại vậy máy mình vẫn mở dc bằng vân tay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.64534,
+         "id": "897763",
+         "field_search": "question",
+         "question": " ad ơi cho em hỏi.e quên mật khẩu khóa máy.máy em chưa cài icloud giờ làm sao để mở ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.630537,
+         "id": "855834",
+         "field_search": "question",
+         "question": "Chào ad, em có 1 chiếc ipad nhưng vì nhà có e nhỏ nên hay nghịch máy làm cho máy bị vô hiệu hóa đến 24 triệu giờ. Ad cho em hỏi, nếu máy đã bị vậy thì e có thể làm cách nào để mở máy đc không? Mở máy mà ko mất hình ảnh và video không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.539122,
+         "id": "765148",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua máy iphone 4s ở tgdd hơn 1 tuần. Giá máy là 4590k .Bây giờ em không có nhu cầu sử dụng nữa em muốn trả lại sản phẩm thì mất phí 10%. Cho em hỏi 10% của 4590 là 459 phải không ạ? Và em có làm mất cái nắp của hộp iphone bây giờ nếu trả thì em mất phí là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.497633,
+         "id": "947704",
+         "field_search": "question",
+         "question": "Cho em hỏi là Laptop em mới mua tại TGDD cũng hơn nữa tháng rồi. Giờ em muốn vào dùng Word, Excel hay PowerPoit thì nó đều để phải mua hoặc kích hoạt để sử dụng. Vậy giờ làm sao để kích hoạt hay bắt buộc phải mua ạ.????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.361486,
+         "id": "1160357",
+         "field_search": "question",
+         "question": "E có 1 chiếc oppo a71 trong khi sử dụng sim của e bị khóa puk lâu rồi và e muốn rắn sim mới cùng mạng vào để sử dụng thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.319908,
+         "id": "1008398",
+         "field_search": "question",
+         "question": "Ad cho em hỏi làm sao để biết giá trị của máy đang sử dụng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.264475,
+         "id": "994222",
+         "field_search": "question",
+         "question": "cho em hỏi laptop của em sử dụng từ 15-20p thì nó tự động tắt máy rồi khởi động lại thì làm cách nào để khắc phục vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.262728,
+         "id": "1022098",
+         "field_search": "question",
+         "question": "Em có sđt 0129... Vì lâu quá ko nạp tiền nên bik khóa làm sao để lấy lại đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.214905,
+         "id": "853101",
+         "field_search": "question",
+         "question": " Em dùng điện thoại Lenovo a2010a bị quên mật khẩu giờ e reset lại trên máy được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.211273,
+         "id": "1022702",
+         "field_search": "question",
+         "question": "xin chào, cho em hỏi là laptop Asus của em lâu rồi không sử dụng, giờ phần mềm diệt virus hết hạn, khởi động thì chậm, tải phần mềm về cài đặt không được, có thể tư vấn cho em nên làm gì không ạ. Em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.112066,
+         "id": "1005961",
+         "field_search": "question",
+         "question": "Game nói em nhắn tin để lấy lại mật khẩu nhưng phải tốn tiền máy em lát nên em đã lỡ bấm vào không bao giờ nên em không gửi tin nhắn được nữa giờ em phải làm sao để nhắn lại được ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.085388,
+         "id": "1151031",
+         "field_search": "question",
+         "question": "các anh ơi , điện thoại của enm là samsung glaxy note5 , đag sử dụng bth , vì có công việ nên e cắm usb từ đt sang laptop để làm việc thì nó cứ nhấp nháy đã sạc , e reset lại đt thì nó không mở được ứng dụng đc nx , kể cả setting hay giao diện gì cx k mở đc , e ấn nút nguồn đè nút nguồn cx ko hoạt động .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.070095,
+         "id": "937925",
+         "field_search": "question",
+         "question": "Em chào tgdd, trước e có mua ở tgdd một laptop acer sử dụng nay đã hơn 2 năm trong thời gian sử dụng máy có lỗi nên e có đến tgdd và dc cài lại win... sau đó e không nhớ được tài khoảng win ban đầu nên đã sử dụng tài khoảng mới.. sử dụng được một thời gian thì chương trình office của lap top bị lỗi .. các ứng dụng word, powerpoint, excel.. bị mất chức năng ... có phải do đổi tài khoảng win không... và làm sao để sử dụng các ứng dụng bản quyền này, không bị giới hạn thời gian...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.065073,
+         "id": "899007",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 5s của mình trượt qua bên phải để mở khóa giờ mất cái đó rồi làm cách nao để lấy lại cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.058678,
+         "id": "1141564",
+         "field_search": "question",
+         "question": "em có cái máy tính acer mà để lâu không dùng tới nên quên mật khẩu. Có cách nào mở mật khẩu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.000431,
+         "id": "813610",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi sim mobi của em lâu rồi không dùng chỉ để sử dụng zalo thôi, nhưng tại bữa nay em bấm nhầm gì đó thoát khỏi zalo, giờ em đăng nhập lại không được, tại không nhớ mật khẩu, lấy sim đăng ký tài khoản nhắn tin thì báo là không khả dụng, vậy em phải làm sao để lấy lại được mật khẩu zalo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.997385,
+         "id": "1014415",
+         "field_search": "question",
+         "question": "Mn chomình hỏi là tại sao tài khoản google play của mình bị reset mất phải làm sao bây giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.993383,
+         "id": "994568",
+         "field_search": "question",
+         "question": "ad cho em hỏi. e vừa resore iphone 4 của em. nhưng e mất icloud rồi. giờ nó bắt kích hoạt. em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.98424,
+         "id": "1147864",
+         "field_search": "question",
+         "question": "Cho e hỏi là do e quên mất sdt xac minh của tài khoản icloud thế giờ em không đăng nhập vào tk  được nên ko biêt ad có cách nào đăng nhập vào icloud lại được không ạ hay xác minh cái khác để vào tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.979961,
+         "id": "1011416",
+         "field_search": "question",
+         "question": "e co mua dt sony m5 đã qua sử dụng giá 2tr850 . hiện tại giờ e đang kẹt nên e muốn bán lại dc ko ad và e phải chịu mất bao nhiêu % vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.936478,
+         "id": "993677",
+         "field_search": "question",
+         "question": "Ip của em bị quên mật khẩu giới hạn giờ làm sao để lấy lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.9027,
+         "id": "768747",
+         "field_search": "question",
+         "question": "Chào anh chị ! en có 1 iPad air 2 . trong quá trình sử dụng em lỡ làm mất mật khẩu màn hình khóa.- iCoud của em cũng quên mất .- có cách nào mở giùm em không ạ ? - em xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.875193,
+         "id": "948505",
+         "field_search": "question",
+         "question": " ad ơi.. giờ ituns của e quên mk.. quên cả email giờ k tải fb.,, zalo hoặc cái khác k đc.. giờ em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.848577,
+         "id": "1020742",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

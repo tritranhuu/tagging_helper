@@ -1,0 +1,801 @@
+{
+   "id_query": "870235",
+   "total": 23448,
+   "total_current": 100,
+   "max_score": 65.087234,
+   "origin_question": " Màn hình laptop đang dùng tự nhiên bị đen nhưng vẫn hiện con trỏ chuột khắc phục sao ",
+   "hits": [
+      {
+         "score": 31.89151,
+         "id": "767519",
+         "field_search": "question",
+         "question": "Em xài lap Asus tp500la core i3 đã nâng cấp lên win 10. Lúc trước xài vẫn bình thường nhưng đột nhiên hôm nay khởi động máy đến phần đăng nhập thì màn hình đen chả thấy gì cả, chỉ thấy con trỏ chuột thôi. Làm sao để khắc phục ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.384007,
+         "id": "781427",
+         "field_search": "question",
+         "question": "Em đang dùng Asus máy em khi mở lên thì thấy màn hình đen và con trỏ chuột 🐭.. Không biết máy em bị gì ạ.. Adm giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.7482,
+         "id": "781421",
+         "field_search": "question",
+         "question": "Chào quản trị viên... Cho e hỏi laptop của e khi mở lên có màn hình đen.. Nhưng thấy con trỏ chuột 🐭.. Máy của em bị gì v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.568893,
+         "id": "804998",
+         "field_search": "question",
+         "question": " cho mình hỏi làm thế nào để khắc phục việc con trỏ laptop tự động di chuyển xuống phía dưới màn hình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.195627,
+         "id": "869740",
+         "field_search": "question",
+         "question": "mình mới đi sửa ở thế giới di độnng về được cỡ 1 tháng nay lại bị lỗi này nữa. laptop asus win 8mình bật máy khởi động thì chỉ lên được hình cửa sổ windows 8 ban đầu rồi không thấy lên gi nữa, màn hình đen. Máy vẫn nhận chuột, vẫn có hình con trỏ chuột trên máy. Minh thử khởi động lại nhưng không thể vào được safemode, cũng không dùng tổ hợp phím Ctrl + Atl + Del được. Màn hình vẫn đen xì. Cho mình hỏi là máy mình bị làm sao và khắc phục thế nào? Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.767082,
+         "id": "918044",
+         "field_search": "question",
+         "question": "laptop em đang sử dụng laptop dell, dạo gần đây máy thường hay bị nhảy chuột lung tung, màn hình không kéo xuống được, soạn văn bản thì trỏ chuột bị nhảy ra đầu dòng. Cho hỏi máy em bị gì và có thể tự thao tác khắc phục được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.00595,
+         "id": "782411",
+         "field_search": "question",
+         "question": " Làm sao khi màn hình win10 đen thui với con trỏ chuột cho dù chờ đợi bao lâu hoặc khởi động lại hoặc gọi Task Manager? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.61173,
+         "id": "910340",
+         "field_search": "question",
+         "question": " Em sử dụng laptop Dell, con trỏ chuột cứ bị nhấp nháy rồi kéo màn hình tụt xuống cuối trang là bị sao vậy a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.413847,
+         "id": "1162478",
+         "field_search": "question",
+         "question": "Laptop tự nhiên đang sử dụng ( ví dụ như đang xem video hay nghe nhạc ) thì bỗng màn hình tối đen tuy vẫn nghe đc âm thanh vẫn thao tác đc nhưng màn hình vẫn đen thui. Chỉ có cách tắt màn hình r mở lại thì laptop sẽ bthuong, thỉnh thoảng e hay bị lắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.441748,
+         "id": "988768",
+         "field_search": "question",
+         "question": "cho mình hỏi máy mình là asus x441u , tại sao máy tự nhiên đang sử dụng tự khởi động lại , mà hiện màn hình lên lại mất con chuột , khi cắm dây chuột ngoài vào mới sử dụng được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.941622,
+         "id": "761492",
+         "field_search": "question",
+         "question": "Mình đang dùng laptop dell inspiron n4050. Mình mới cài phần mềm magic deskop, khi vào thì bị đơ máy,mình tắt và khởi động lại máy thì lại hiện lên hình màu đen và chỉ xuất hiện con trỏ chuột còn lại không thấy gì cả, mình muốn hết hiên tượng này thì phải làm sao ạ.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.82414,
+         "id": "1145917",
+         "field_search": "question",
+         "question": "ac cho em hỏi, trên màn hình laptop của e có tự nhiên xuất hiện chấm tròn di chuyển liên tục, bàn chạm lai không chạm đc ạ, như chuột cấm vào thì sd đc nhưng di chuyển vẫn bị lỗi ạ, hiện tượng này thế nào ạ, cách khắc phục thế nào, laptop e có touchpad đc luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.528852,
+         "id": "1166516",
+         "field_search": "question",
+         "question": "Hiện tại thì có đang dùng M20. nhưng tự nhiên loa thoại Loa trong nó bị rè, giờ khắc phục tại nhà như thế nào ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.074665,
+         "id": "1007431",
+         "field_search": "question",
+         "question": "e dùng máy HTC dersire 820g+ tự nhiên đang dùng màn hình tự nhiên đen và không khởi động được nữa ..máy e vẫn còn thời hạn bảo hành ..cho e hỏi là máy em có được bảo hành không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.717161,
+         "id": "1020262",
+         "field_search": "question",
+         "question": "dt mình là oppo f1, k hiểu tại sao đang dùng bt lại tự nhiên đứng máy, màn hình đen 1 lúc rồi hiện màn hình chính lại bình thường. chỉ cần lướt lướt vài giây lại tiếp tục như v. Bị sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.649632,
+         "id": "786471",
+         "field_search": "question",
+         "question": " Laptop hiệu Dell không khởi động được, nó hiện ra màn hình đen. Cho hỏi bị gì và cách khắc phục. Thanks! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.557579,
+         "id": "1144164",
+         "field_search": "question",
+         "question": "Laptop lenovo ideapad 320 bị màn hình đen và chỉ hiển thị chuột thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.292202,
+         "id": "1007651",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 đang dùng tự nhiên bị tắt tối đen màn hình và không khởi động lại được. Em đã thử xạc pin lại hơn nửa tiếng nhưng vẫn không khởi động được. Cho em hỏi nên làm sao bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.257143,
+         "id": "859384",
+         "field_search": "question",
+         "question": "điện thoại em đang xem phim thì tự nhiên bị sọc dọc nửa màn hình , mọi người làm ơn chỉ dùm em cách khắc phục ạ.Em dùng iphone 5 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.185545,
+         "id": "1162826",
+         "field_search": "question",
+         "question": "mình đang xài con dell e7240. đang dùng bình thường tự dưng touchpad bị đơ, khi di chuyển thì màn hình kéo lên kéo xuống được, nhưng vị trí con chuột bị đơ không thay đổi. mong các anh/ chị giúp đỡ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.043333,
+         "id": "1005373",
+         "field_search": "question",
+         "question": "Điện thoại Phillips s358 của em đang dùng , khoá màn hình lại sau đó bật thì không lên thì bị lỗi gì và khắc phục như thế nào ạ ?( Màn hình tối đen không hiện logo )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.012768,
+         "id": "918587",
+         "field_search": "question",
+         "question": "Máy tính Asus của em khi bật máy lên thì luôn ở màn hình chờ, con trỏ chuột thì vẫn di chuyển được, nhưng bấm thì không vào được. Mong Anh chị giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.98184,
+         "id": "876514",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là: em dùng iphone 5 ý. Tự nhiên hôm qua màn hình bị tối. Kiểu bị cháy màn hình ý ạ. Nhưng người khác gọi thì mình vẫn có thể gạt nghe máy được. Vậy cho em hỏi là giờ phải làm sao để khắc phục đuoejc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.435972,
+         "id": "1003322",
+         "field_search": "question",
+         "question": "e xài oppo mà e k làm rớt hay hư gì tự nhiên bị sọc màn hình cỡ 2 tuần sau thì màn hình của e bị đen luôn, e vẫn nhận dc thông báo khi ai gọi nhưng e k coi được vì màn hình chỉ màu đen thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.345486,
+         "id": "1004145",
+         "field_search": "question",
+         "question": "Cho e hỏi mây tính e mới mở liền thì màn hình thì bị tắt đen máy vẫn sáng vẫn thấy con chuột nhưng lại không thể nào sử dụng được. Không thực hiện thao tác tắt máy được luôn ạ Cho e hỏi như thế này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.264116,
+         "id": "1009691",
+         "field_search": "question",
+         "question": "E đang dùng con Mastel N6 tự nhiên giờ ko tắt được bluetooth cứ vào bấm vào tắt là máy bị sập đi ad có cách nào khắc phục ko ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.217789,
+         "id": "900447",
+         "field_search": "question",
+         "question": "E đang dùng iPhone 4s iOS 9.3.3 tự nhiên ngay cột sóng của điện thoại xuất hiện 1 dấu gạch đen rất nhỏ cỡ dấu này : _ nó ko ảnh hưởng j nhưng nhìn rất khó chịu tắt nguồn bật lên vẫn vậy ko biết có bị lỗi hay hư màn hình ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.137901,
+         "id": "1156107",
+         "field_search": "question",
+         "question": "em dùng oppo mirror 5 nhưng tự nhiên bị thế thì làm thế nào để khắc phục được ạ... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05287,
+         "id": "753777",
+         "field_search": "question",
+         "question": " Iphone 5S  đang xài bình thường màn hình tự nhiên đen thui . Cắm sạc trái táo cứ nhái nhái là sao vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.726482,
+         "id": "1164076",
+         "field_search": "question",
+         "question": "ad ơi hôm qua em có mua con Galaxy A50 về xài được 1 ngày thì e đang chuyển ứng dụng tự nhiên đứng rồi màn hình tối đen ( em cố tắt nguồn nhưng không được )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.567837,
+         "id": "843771",
+         "field_search": "question",
+         "question": "e đang dùng iP5 vừa nẫy đang dùng tự nhiên màn hình nó bị đơ e thao táo không đc có tin nhắn hay người gọi đt đều biết như không thể nghe nút home của máy vẫn sử dụng bình thường có cách nào khắc phục không ạ mong đc tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.493427,
+         "id": "1147392",
+         "field_search": "question",
+         "question": "Tôi đang dù điện thoại samsung j7 prime bị vỡ màn hình đã lâu Đến bây giờ thì có hiện tượng sọc màn hình tôi nghĩ không sau Nhưng hôm nay tôi đang coi một video trên youtube thì màn hình điện thoại chớp đen 2 ,3 cái rồi đột nhiên đen luôn  tiếng thì vẫn nghe mà màn hình thì đen thuiCho tôi hỏi là điện thoại tôi bị vấn đề gì ạ?Tôi cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.230257,
+         "id": "912068",
+         "field_search": "question",
+         "question": "màn hình máy tính pc của mình bình thường dùng ko sao nhưng khi khởi động game lên thì bị mất 1/3 màn hình bên phải , đen ko có j hết ? cho mình xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.201344,
+         "id": "870824",
+         "field_search": "question",
+         "question": "E xài lumia 730 tự nhiên zalo bị lỗi này.đang nt vs bạn bè nhấn trở về màn hình trống trơn.báo có tin nhắn đến nhưng mở ra màn hình trống rỗng.cho e hỏi bị lỗi gì và khắc phục sao ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.946394,
+         "id": "1009394",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí , mình đang sử dụng con S7 edge , mình đang để chế độ màn hình luôn sáng nhưng khi sạc thì màn hình cứ tự mở màn hình liên tục , cách khắc phục như thế nào vậy AD , thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.93305,
+         "id": "1023711",
+         "field_search": "question",
+         "question": "Màn hình laptop em tự nhiên khi đang sử dụng úp màn hình lại đột nhiên nó bị trắng em không biết nguyên nhân do đâu cho em xin giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.848959,
+         "id": "811701",
+         "field_search": "question",
+         "question": "Mn ơi cho e hỏi iPhone 6 của e hôm qua vẫn dùng bình thường nhưng hôm nay xem phim màn hình cứ tự nhiên tối dần đi và tự động tắt màn hình là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.650835,
+         "id": "1014966",
+         "field_search": "question",
+         "question": "Em sài j5 prime ạ. Máy mua dc hơn 1 tháng. Nhưng máy hay bị hiện tượng em bấm tát màn hình r nhưng lại bật lên. Để cho đt tự động tắt màn hình cũng tự bật lên. Em khắc phục làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.555553,
+         "id": "1165093",
+         "field_search": "question",
+         "question": "Điện thoại huawei nova 3i em mua ở tgdd được 3 tháng. Tối nay e đang  sử dụng thì đột nhiên bị treo đen xì màn hình. bấm nút nguồn + tăng giảm âm để tắt nguồn rồi bật lại thì chỉ thấy màn hơi sáng 1 chút nhưng vẫn bị treo xì đen màn hình. e cắm sạc 30p nhưng vẫn ko có gì thay đổi. cho e hỏi nguyên nhân là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.51881,
+         "id": "997553",
+         "field_search": "question",
+         "question": "Ad cho em hỏi. Điện thoại là Samsung J3 2016, hôm qua em chơi tự nhiên màn hình xanh xanh rồi giật, hôm nay màn hình đen luôn nhưng người ta gọi thì máy vẫn rung. Bây giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.50977,
+         "id": "928728",
+         "field_search": "question",
+         "question": "Chào ad. Mình mua lap ở Điện máy xanh được 1 năm. Lúc mua được cài win 8.1. Giờ máy cứ hiện lỗi explorer.exe và bị màn hình đen khi khởi động, chỉ thấy trỏ chuột. Giờ mình đến ĐMX cài lại win có bị mất phí ko? Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.481201,
+         "id": "1002346",
+         "field_search": "question",
+         "question": "Cho mình hỏi là hiện tại mình đang dùng htc e9 dual sim nhưng thỉnh thoảng mình vào zing mp3 nghe nhạc thì máy lại bị đơ lại vào đen xì màn hình xog phải reset lại máy, liệu có thể khắc phục đc k vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.405188,
+         "id": "937588",
+         "field_search": "question",
+         "question": "Tại sao laptop của e đag sd thì màn hình tắt tối đen. Nhưng đèn vẫn sáng. Bật phím caps clock thì k hiện lên ạ. E xài laptop asus tp550l",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.241165,
+         "id": "988850",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt của m (5s) tự nhiên màn hình bị nhoè nhưng vẫn sài bt. Là bị sao ạ. Cảm ứng vẫn bt ạM có thể chỉ thay màn hình mà ko thay cảm ứng đc ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.231247,
+         "id": "1145706",
+         "field_search": "question",
+         "question": "Xin hướng dẫn giúp tôi khắc phục lỗi này: gần đây tôi mới mua điện thoại huawei nova 3e từ TGDĐ, đt thường tự bật sáng màn hình khi đang khóa máy để nằm yên, và cả khi đang sạc pin đều bị hiện tượng giống nhau; màn hình khóa tối tự nhiên bật lên hình nền màn hình chính (chỉ hình nền, và thanh thông tin trên cùng thôi, trên màn hình chỉ hiện hình nền không kèm thông tin gì khác), sau đó nó lại tự chuyển sang màn hình khóa (có đồng hồ, ngày, ...) rồi tắt tối lại. Cứ khoảng 10' lại bị vậy. Xin hướng dẫn tôi khắc phục lỗi này. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.197983,
+         "id": "867162",
+         "field_search": "question",
+         "question": "Chào bạn. Mình đang dùng điện thoại iphone. Nhưng không hiểu sao đang dùng thì màn hình bị tối đen, k sáng lên được nữa, nhưng bin thù vẫn còn đầy. Sau đó mình có bật nút nguồn nhưng nó vẫn không lên được. Mình lấy máy khác gọi tới thử thì máy vẫn run, nhưng màn hình thì không sáng. Không biết máy mình bị gì ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.137192,
+         "id": "943267",
+         "field_search": "question",
+         "question": " laptop của e đang dùng thì tự nhiên tắt nguồn, như vậy thì có bị làm sao k ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.124018,
+         "id": "1005970",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng máy samsung j5 prime nhưng tự dưng máy xuất hiện vết đỏ ở 4 góc màn hình, để một thời gian thì lại không thấy nữa hiện tượng này là máy bị làm sao và cách khắc phục như thế nào ạ. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.95095,
+         "id": "1155021",
+         "field_search": "question",
+         "question": "Thưa QTV, mình đang dùng điện thoại SS J4, máy vẫn đang bình thường nhưng tự dưng mình không mở khóa màn hình được, mỗi lần mở khóa máy báo sai mật khẩu. Vậy cho mình hỏi máy mình đang bị lỗi gì ạ? và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.94479,
+         "id": "876900",
+         "field_search": "question",
+         "question": "cho e hỏi là khi e bật voiceover của iphone 5 lên mà màn hình bị tối đen không hiện lên thì phải làm sao ạ. chụp ảnh màn hình vẫn kêu. người gọi đến nhạc chuông vẫn có nhưng tại sao màn hình lại không sáng. mà từ khi e bật voiceover lên thì màn hình mới thế ạ. xin cho e  biết là tại sao lại như vậy và cách khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.860495,
+         "id": "905862",
+         "field_search": "question",
+         "question": "tại sao bấm phím f2 f3 ... để giảm tăng âm lượng hay chỉnh sáng tối màn hình không được máy em loại dell ạ và sao chuột không dây của em đang sử dụng bình thường rồi tự nhiên không dùng được nữa!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.826157,
+         "id": "995636",
+         "field_search": "question",
+         "question": "hiện tại e đang dùng laptop dell inspiron15 máy tính của e khi khởi động nó thường bị như thế này hoặc nếu để tối màn hình thì cũng bị,nhưng khi giữ nút nguồn một lúc thì lại lên và dùng bt.Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.80053,
+         "id": "1138942",
+         "field_search": "question",
+         "question": "Cho e hỏi e xài dt A5 2017 đt e hay bị tắt đen màn hình nhưng khi có ai gọi thì vẫn nghe đổ chuông nhưng k bấm nghe đc vì màn hình bị tắt đen e có bấm đồng thời phim giảm âm lương +phim nguồn để mở lên nhưng 1 lát vẫn bị tiếp có cách nào để khắc phục cho nó k bị nữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.753849,
+         "id": "1008800",
+         "field_search": "question",
+         "question": "cho em hoi khi khóa màn hình wifi tự động tắt ạ,làm sao khắc phục được lỗi đó ạ,e đang dùng dt meizu m5 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.687086,
+         "id": "1160802",
+         "field_search": "question",
+         "question": "macbook e dùng vẫn lên màn bt chuột vẫn di chuyển dc nhưng sao không vào đc ứng dụng nào cả là bị làm sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.622442,
+         "id": "988586",
+         "field_search": "question",
+         "question": "wifi trên iphone 6 đang vào bình thường, tự nhiên lại bị mờ không xem được và cũng không vào được mục cài đặt, sau đó máy bị sập nguồn, có lúc hiện màu xanh, có lúc hiện màn hình màu trắng có hình ảnh táo khuyết, lại phải khởi động lại máy. Như thế máy bị làm sao và có cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.591686,
+         "id": "909876",
+         "field_search": "question",
+         "question": "Cho e hỏi: e mua laptop hiệu sony vaio cách đây 3 năm của shop ! Dùng rất okNhưng bỗng sao đang dùng thì xuất hiện 1 đường như chỉ đỏ nằm ngang màn hình , lúc mờ lúc sáng ! máy vẫn dùng rất ok k bị vấn đề gì hết nhưng hơi ức chế cái đường đó ! vậy cho e bik cách khắc phục ....xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.534618,
+         "id": "1010733",
+         "field_search": "question",
+         "question": "Laptop của e tự nhiên bị mất driver wifi, e cài lại rồi mà vẫn không hiển thị driver wifi đó, có cách nào khắc phục vấn đề này không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.521746,
+         "id": "825592",
+         "field_search": "question",
+         "question": " Add ơi cho em hỏi với ạ , em dùng ip5 nó tụ nhiên có viền đen ở quang màn hình thì bị làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.52076,
+         "id": "1140686",
+         "field_search": "question",
+         "question": "Mình đang sài samsung j5 2016. Đt mình hay bị sập màn hình lắm. Có lúc đang chơi tự nhiên màn hình bị sập, mình lấy đt khác mình gọi vẫn đổ chuông và có thể bắt máy, nói chuyện bình thường dù màn hình vẫn là 1 màu đen. Rồi khi tắt máy khởi động lại thì cực kì khó lên nguồn nó cứ kêu tut tut....rồi 1 đến 2 tiếng sau mới chịu lên. Mình đã thay màn hình 1 lần rồi nhưng vẫn ko hiệu quả. AD giúp mình với ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.507677,
+         "id": "1021285",
+         "field_search": "question",
+         "question": "mọi người giúp em vớiem đnag dùng lap lenovob460 máy em tự nhiên mấy cổng usb cắm chuột vào nhận nhưng không dùng đc chuột cả điện thoại cũng không nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.471598,
+         "id": "1009680",
+         "field_search": "question",
+         "question": "cho em hỏi tý. Em đang dùng máy sony m4, nhưng tự nhiên nó cứ bị tắt nguồn khởi động lại liên tục. Khi thì nó lên khi thì nó ra màn hình trắng xong lại tắt khởi động lại. Ad giúp em xem nó lỗi gì và cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.44635,
+         "id": "1159410",
+         "field_search": "question",
+         "question": "chào ad cho em hỏi tí . samsung j7 + đang sử dụng bỗng đen màn hình nhưng vẫn còn hoạt động và cuộc gọi tới đt vẫn không sáng lên  không đổ chuông nhưng người gọi vẫn gọi cho em được ad có cách khắc phục chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.440804,
+         "id": "878462",
+         "field_search": "question",
+         "question": "Em mới mua 6s ở tgdđ lạc long quân dùng đc hơn 2 tuần thôi .Vừa xong đang dùng máy tự nhiên bị đơ .ko thoát ra đc màn hình chính nữa .1 lát sau chuyển sang màu đen luôn .thế là bị như nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.351295,
+         "id": "1167692",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng con oppo A57, kh biết sao ứng dụng messenger của em phần story nó lại hiển thị dọc (bình thường thì nằm ngang). Em đã xóa và tải lại nhưng vẫn như vậy. Em cũng đã thử khôi phục cài đặt gốc của điện thoại nhưng vẫn bị. Anh giúp em khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.268822,
+         "id": "866446",
+         "field_search": "question",
+         "question": "Em có 1 cái iPhone 4s tự nhiên nó bị liệt mất phần trên + phần dưới của màn hình tầm 0.5cm có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.268375,
+         "id": "908976",
+         "field_search": "question",
+         "question": "Chào anh/chị,Em dùng laptop Acer Espire E14, mấy ngày trước lap vẫn dùng để trình chiếu được nhưng tự nhiên giờ lại không được, em bấm Win + P thì nó bảo là Try installing drive.... em phải khắc phục thế nào đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.26313,
+         "id": "1024557",
+         "field_search": "question",
+         "question": "laptop của em là hp elitebook 840. em cứ dùng khoảng 30 phút là máy tự nhiên bị tắt. anh chị tư vấn cho em cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.1021,
+         "id": "903515",
+         "field_search": "question",
+         "question": "Cho hỏi mh dg dùng win xp SP3 tự nhiên hnay bên góc phải màn hình xuất hiện khung màu đen Brightness ko tài nào tắt nó đi được. Mh xài máy bàn. Màn hình Samsung. Xin giúp mh tắt nó đi. Thanks nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.954885,
+         "id": "1020469",
+         "field_search": "question",
+         "question": "Mình đang xài SS J7 Prime đã mua ở cừa hàng từ ngày 20/2/2017. Chiều hôm nay, ngày 10/9/2017, dt của mình tự nhiên đứng máy, sau đó mình bấm tắt màn hình rồi lại k mở lên dk, bấm giữ phím nguồn cũng k thấy màn hình dt hiển thị j, vẫn 1 màn đen thui. Mình có thử cắm sạc nhưng dt vẫn đen thui, chừng 30p mình loay hoay chờ, tính ra TGDĐ thì dt lại tự nhiên khởi động. Bên TGDĐ hãy cho mình câu trả lời thỏa đáng trước tình hình trên. Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.916037,
+         "id": "814263",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em vào Photoshop thì nó hiện như vậy! Khi em Open 1 ảnh thì nó cứ quay quay con trỏ chuột rồi đứng vậy hoài là sao ạ! em vừa delete và Tải lại vẫn hiện như vậy! Giúp em với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.902462,
+         "id": "1134791",
+         "field_search": "question",
+         "question": "Mình có chiếc đt OPPO NEO 5 bị sọc dọc màn hình 1 thời gian bây giờ đã đen luôn nửa màn hình, làm sao để khắc phục ạ, Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.885187,
+         "id": "813665",
+         "field_search": "question",
+         "question": "Mình đang dùng ip5s, máy tự nhiên bị không có chuông, không xem được video và không nghe dc nhạc. Add tư vấn giúp mình các khắc phục dùm. Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.847538,
+         "id": "912958",
+         "field_search": "question",
+         "question": "Tgdđ ơi cho mình hỏi laptop minh hiện ở chỗ mấy cột sóng wf là dầu x đỏ và ô vuông như cái màn hình laptop đang kết nối sạc là bị làm sao và hướng dẫn mình cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.734026,
+         "id": "1142803",
+         "field_search": "question",
+         "question": "Cho mình hỏi, lúc mình bật lap r nó hiện lên màn hình màu xanh sau đó hk hiện lên khung đăng nhập vào laptop, cứ bị đơ v hoài di chuyển đc mỗi con chuột",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.684984,
+         "id": "1146588",
+         "field_search": "question",
+         "question": "Laptop của mình hiện đang dùng win 10 thì bỗng nhiên xuất hiện tình trạng đuôi các file của mình bị đổi thanh tfudet rồi lai đổi thành gefest. Cho mình hỏi máy mình bị lỗi gì và cách khắc phục ạ! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.679092,
+         "id": "1153013",
+         "field_search": "question",
+         "question": "Cho mình hỏi samsum a5 2017 tự nhiên xuất hiện quảng cáo khi đang ở màn hình chính. Hiện tượng đó là bị gì vậy ạ. Mình cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.633692,
+         "id": "839697",
+         "field_search": "question",
+         "question": "mình đang dùng 1 chiếc dell nhưng khởi động lên không click được chuột nên không thể đăng nhập được. cách khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.577358,
+         "id": "1162595",
+         "field_search": "question",
+         "question": "e đang dùng J7 prime mà sao nó cứ tự động tắt nguồn khởi động lại e đã khôi phục cài đặt gốc mà vẫn không khắc phục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.53106,
+         "id": "1134028",
+         "field_search": "question",
+         "question": "Add cho em hỏi em xài samsung j7 prime em đang xài bình thường tự nhiên mấy hôm nay màn hình em tự nhiên hiện mấy cái app tào lao gì hk à đàm như bị virus hay s á add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.528833,
+         "id": "1148003",
+         "field_search": "question",
+         "question": "Em mua laptop ve khởi động lên nhưng màn hình đen vậy làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.349287,
+         "id": "994034",
+         "field_search": "question",
+         "question": " Laptop em đang xài. nó hay bị tự động Reset hiện màn hình màu xanh như trên ảnh. giúp em với ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.34582,
+         "id": "916968",
+         "field_search": "question",
+         "question": " Màn hình iphone 5s của tôi đang dùng đột nhiên bị mờ đi, xuất hiện sọc ngang sọc dọc, phải xử lý thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.307549,
+         "id": "785574",
+         "field_search": "question",
+         "question": "Nâng cấp lên ios 9.0.2 máy iphone 5 thành công được một lúc thì bị xanh màn hình rồi tự động khởi động lại vẫn bị xanh màn hình có thể chỉ mình cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.287039,
+         "id": "1138179",
+         "field_search": "question",
+         "question": "Màn hình đt samsung j3 pro tự nhiên bị mờ như này là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.218166,
+         "id": "898248",
+         "field_search": "question",
+         "question": "laptop của em đang hoạt động bình thường thì bị đen thui màn hình, trong khi đó ứng dụng và game đang mở vẫn chạy , ai biết chỉ giúp e với !!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.167452,
+         "id": "775009",
+         "field_search": "question",
+         "question": "Zalo sau khi cập nhập bị đen màn hình ở phần danh sách nhắn tin, gỡ đi cài lại thì không ấn đăng nhập được, tối đen màn hình ở phần đó? xử lý sao? trước dùng vẫn ngon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.12406,
+         "id": "1162257",
+         "field_search": "question",
+         "question": " em bị lỗi này sao khắc phục ạ em windows 10 em reset máy lại tự nhiên bị vậy mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.102472,
+         "id": "1006973",
+         "field_search": "question",
+         "question": "dạ ad co e hỏi  e đang sài con sam sung on7 sao cứ tự nhiên tự resert rồi khôi phục cài đặt mất hêt ứng dụng dữ liệu vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.098381,
+         "id": "786791",
+         "field_search": "question",
+         "question": " Ad cho mem hỏi, laptop asus của mem bị chạy chậm, chuột rất hay bị nhảyBây giờ khắc phục ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.091228,
+         "id": "1135527",
+         "field_search": "question",
+         "question": "Laptop lenovo g40 gặp tình trạng tự động tắt màn hình, khoảng 1p chuyển về SLEEP , trong khi game mình đang chơi vẫn còn nguyên âm thanh và mình cảm nhận vẫn còn điều khiển đc bằng chuột. Các anh chị giúp e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.057028,
+         "id": "1144563",
+         "field_search": "question",
+         "question": "e hiện đang dùng máy ss j2 và có bị 1 sô chỗ tự cảm ứng cho e hỏi là do j và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.914867,
+         "id": "908223",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.e dùng đt ip 6. Nhìu khi có cuộc gọi đến đt vẫn đổ chuông nhưng màm hình tối đen. K hiện người gọi .cuộc gọi zalo cũng tương tự",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.910858,
+         "id": "1160256",
+         "field_search": "question",
+         "question": "Sao con mi8 lite của mình thỉnh thoảng bị kiểu lấy đt từ trong túi quần ra là nó tự sáng màn hình ( đã tắt tính năng nhấc lên )...cho hỏi là bị lỗi hay sao ạ ( thỉnh thoảng nó vẫn tự sáng màn hình )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.855701,
+         "id": "883187",
+         "field_search": "question",
+         "question": "Mình mới mua laptop vostro 15 3000 series ở tgdd, bây giờ máy của mình đang dùng tự nhiên tắt, với khi sạc pin thì đèn báo hiệu nhấp nháy đỏ trắng, cho mình hỏi như vậy là bị gì và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.831526,
+         "id": "834460",
+         "field_search": "question",
+         "question": " mình dùng iphone5 tự nhiên bị sọc màn hình lát sau cảm ứng lúc dc lúc ko là bị gì vậy bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.83059,
+         "id": "1022371",
+         "field_search": "question",
+         "question": "Mình đang sài samsung j5 prime được 2 tháng những lần trước mình tắt màn hình thì vẫn bình thường nhưng sao tự nhiên mấy ngày trở lại đây sau khi mình cài camera 360 thì thỉnh thoảng mình tắt màn hình màn hình lại bị nháy nháy mấy xọc màu trắng. Có phải màn hình máy mình hị hư hay vì nguyên ngân khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.825216,
+         "id": "789782",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s. Hum qa e bị tắt màn hình, gọi vẫn đổ chuông mà màn hình vẫn đen thui, e thử gọi mấy lần vẫn như z? Lúc đó e vẫn bật wifi, đang onl fb và zalo, màn hình đen ko lên nhưng vẫn có chuông nhận thông báo. Sáng nay e ms biết cách mở sáng màn hình lại. Vậy tối hqa đến giờ đt e vẫn bật mạng đến lúc mở lên, z đt e có thể bị sao ko ạ??? QTV tư vấn giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.811995,
+         "id": "1152233",
+         "field_search": "question",
+         "question": "em dùng xiaomi mi8 lite và đang dùng có hiện tượng nổi quảng cáo ở bất cứ lúc nào, mở màn hình hiện QC , lướt fb hiện QC và đang nhắn tin cũng hiện QC, cho em cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

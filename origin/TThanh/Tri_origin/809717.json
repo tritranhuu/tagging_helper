@@ -1,0 +1,801 @@
+{
+   "id_query": "809717",
+   "total": 32653,
+   "total_current": 100,
+   "max_score": 50.25103,
+   "origin_question": " ad cho e hỏi, iPhone khi đặt lại tất cả cai đặt có bị mất ảnh không ",
+   "hits": [
+      {
+         "score": 27.42648,
+         "id": "828150",
+         "field_search": "question",
+         "question": "Máy của mình đã jailbreak. Khi bấm vào Đặt lại Tất cả Cài đặt có bị treo táo không? Không phải bấm vào Xóa Tất cả Nội dung và Cài đặt nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.700857,
+         "id": "779335",
+         "field_search": "question",
+         "question": " Cho em hỏi là khi mình xoá tất cả nội dung và cài đặt lại trên iPhone 5 thì có xoá luôn tài khoản iCloud không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.354551,
+         "id": "956915",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone 6 lock của mình đang ở ios 9.3Mình muốn đặt lại tất cả cài đặt dòng 2 thì có bị nâng lên ios 10.2.1 không ạ?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.081806,
+         "id": "740015",
+         "field_search": "question",
+         "question": "EM dùng iphone 5 ,đã jaibreck sau khi em xóa tất cả và đặt lại thì máy bị treo táo Ad có thể hướng dẫn em cách khắc phục được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.549658,
+         "id": "780539",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em xài iPhone 5 đã jailbreak, do em không biết khi muốn gỡ phần mềm jailbreak ra khỏi máy đã bấm Cài Đặt Chung > Đặt Lại > Xóa Tất Cả Nội Dung Và Cài Đặt , bây giờ máy em bị treo táo phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.523516,
+         "id": "1159465",
+         "field_search": "question",
+         "question": "Cho em hỏi cách xóa id apple và đặt lại tất cả kể cả id luôn làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.318407,
+         "id": "803974",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi vào cài đặt xoá tất cả nội dung và cài đặc thì iphone của mình có bị treo táo không...? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.99257,
+         "id": "851732",
+         "field_search": "question",
+         "question": "Ad cho em hỏi ip của em quên mật khẩu icloud bây giơ em đặt lại tất cài đặt thì có bị sao ko ,không phải là xoá mọi nội dung và cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.584688,
+         "id": "765263",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 4S, mình muốn cài đặt tất cả cài đặt cho điện thoại nhưng khi cài đặt máy yêu cầu nhập mã khóa của bạn. Cho hỏi mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.456976,
+         "id": "777171",
+         "field_search": "question",
+         "question": "tgdd cho mình hỏi, iPhone của mình bị chậm, mình vào phần cài đặt lại tất cả, thế là giờ ko vào dc mạng 3G nữa là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.76679,
+         "id": "922694",
+         "field_search": "question",
+         "question": "Cho em hỏi . E xài ip6s plus sau khi cập nhật IOS 10.1.1 xong . Thì máy em bị mất hết tất cả danh bạ . Khi em lưu lại danh bạ mới thì tiếp tục lại bị mất . E không biết làm sao ? Xin tl sớm giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.139732,
+         "id": "846950",
+         "field_search": "question",
+         "question": "Máy mình iPhone 5s lock nhật softbank . Hiện tại đang dùng sim ghép . Mới up ios 10 nhưng thấy đơ quá , giờ muốn cài đặt lại cho bớt ngơ nhưng sợ cài đặt lại xong mất sim ghép . Cho hỏi sau khi cài đặt lại có ảnh hưởng gì đến sim ghép k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.084982,
+         "id": "1140777",
+         "field_search": "question",
+         "question": "cho em hỏi. điện thoại của e thuộc hãng samsung galaxy j7 prime. bây giờ e muốn xóa tất cả dữ liệu và ứng dụng cài đặt cả tất cả tài khoản google( trở về máy mới và chưa có thông tin gì) thì e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.069187,
+         "id": "855004",
+         "field_search": "question",
+         "question": "Ad ơi. Cho mình hỏi. Iphone 5s của mình sau khi mình đặt lại cài đặt gốc thì máy sử dụng bị nóng. Trước khi đặt lại cài đặt thì dùng wifi vs 3g tẹt ga, ko bao giờ bị nóng. Nhưng sau khi đặt lại cài đặt thì mình sử dụng 3g mới được 5 phút máy đã nóng ran lên rùi. Cho mình các khắc phục với. Thanks ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.970804,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.844818,
+         "id": "1015498",
+         "field_search": "question",
+         "question": "Hiện e đag dùng J7 prime, e bị mất mật khẩu samsung account nên phải đặt lại mật khẩu, cho e hỏi nếu đặt lại mật khẩu thì mk có bị mất dữ liệu thiết bị ko ạ? Nếu mất thì làm sao để lấy lại ạ? E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.708456,
+         "id": "756730",
+         "field_search": "question",
+         "question": " Khi xóa cài đặt lại tất cả các ứng dụng của hệ điều hành iOS chúng ta cần phải làm gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.677748,
+         "id": "915409",
+         "field_search": "question",
+         "question": "Ad cho e hỏi tại sao em đặt màn hình nền cho ip 6s ios10 thì ảnh lại bị tối hơn so với ảnh gốc nhỉ? Có cáhc gì khắc phục không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.67753,
+         "id": "753403",
+         "field_search": "question",
+         "question": "QTV ơi. Cho em hỏi bao giờ mới có iPhone 4s 16Gb hoặc 32gb ạ?Và nếu như e mua iphone 4s 8Gb thì sau khi cửa hàng đã cài đặt tất cả thì còn khoảng bao nhiêu dung lượng trống nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.470215,
+         "id": "1002633",
+         "field_search": "question",
+         "question": " Ad cho e hỏiE đã sao lưu trc khi khôi phục cài đặt thế nào lấy lại đc hình ảnh, ứng dụng..... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.430014,
+         "id": "1022295",
+         "field_search": "question",
+         "question": "máy mình samsung j1, mình vào bộ sưu tập đc nhưng tất cả album đề không hiện ảnh. Mình có khởi động lại thì mất tất cả album luôn. Giờ làm sao để khôi phục lại thế à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.34587,
+         "id": "835119",
+         "field_search": "question",
+         "question": "Máy iPhone của em bị mất hết các phần mềm như cài đặt, ảnh,cuộc gọi, tin nhắn và nhiều nữa là bị làm sao.làm thế nào cài đặt lại được.giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.269772,
+         "id": "1165772",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua máy iphone x. Nhưng chưa cài đặt gì thì bị mất. Chỉ còn số imei . vậy có cách gì tìm lại điện thoại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.236435,
+         "id": "1138799",
+         "field_search": "question",
+         "question": "Cho em hỏi sao bây giờ máy e không cài được APK vậy ạ. Tất cả các apk đều ko cài đượcNó chỉ hiện ứng dụng không được cài đặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.056368,
+         "id": "1010463",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 6S 64 gb bị lỗi không có dịch vụ của sim thì phải khắc phục như thế nào? Mình đã thử tất cả các cách trên mạng nhưng chưa dùng cách đặt lại điện thoại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.964956,
+         "id": "833650",
+         "field_search": "question",
+         "question": "cho em hỏi sao iphone 4 của em tại tất cả ứng dụng camera em vào đều bị lag giật khi quay.em cung co khôi phục cài đặt gốc van bi tgdd co sua thi cho em bt gia nhe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.829042,
+         "id": "825579",
+         "field_search": "question",
+         "question": " cho e hỏi, khi reset lại iphone thì tin nhắn có bị mất không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.781897,
+         "id": "994128",
+         "field_search": "question",
+         "question": "ad cho em hỏi là máy laptop em là máy Dell chạy win8.1pro 64bit mà dạo này chơi lmht lag quá em muốn đặt lại tất cả về ban đầu như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.633368,
+         "id": "1007091",
+         "field_search": "question",
+         "question": "Cho e hỏi đặt gạch là ntn. Như bphone, e đọc thông tin hoài mà k hiểu đặt gạch là ntn và đc hưởng ưu đãi gì. Nếu e đặt gạch rồi mà k thích mua sản phẩm thì có mất gì không, có ảnh hưởng gì k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.601002,
+         "id": "796956",
+         "field_search": "question",
+         "question": " Em đang sử dụng iPhone 4 nếu cài đặt lại bản gốc có bị mất Jailbreak không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.514814,
+         "id": "938193",
+         "field_search": "question",
+         "question": "cho em hỏi đt ip của e khi vào facebook, zalo,...hiện kết nối với Itunes để sử dụng thông báo đẩy. em đã vào cài đặt mở tất cả nhưng vẫn ko hiện thông báo khi có tn tới. nhờ chỉ giúp e ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.501698,
+         "id": "807182",
+         "field_search": "question",
+         "question": "Chào admin mmình vừa bị mất iphone 4 cho hỏi admin là mình tìm = cách lên find mà nó hiện ra như này :Tất cả các thiết bị ngoại tuyếnKhông thể hiện thị vị trí vì tất cả của bạn đều đang ngoại tuyếnad coi dùm nó sao bị thế này. định gửi ảnh mà bảo 1MB nên không gửi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.442692,
+         "id": "1137884",
+         "field_search": "question",
+         "question": "ad ơi cho mik khi nhấn sao lưu iphone thì tất cả dữ liệu sẽ đc lưu lại phải ko ạr ồi đăt lại iphone xong chỉ cần nhập icloud vào thì tất cả dữ liệu trở lại như ban đầu phải ko ạMong phản hồi sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.400038,
+         "id": "872979",
+         "field_search": "question",
+         "question": " em khôi phục laptop của em. tất cả app mặc định mất hết cả camera,store....đều mất hết. có cách nào lấy lại không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.243736,
+         "id": "882548",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, trong thời gian sử dụng laptop e có tải một số ứng dụng về nhưng làm máy không chaỵ được, sau đó em vào phần thiết lập lại PC mà không làm mất tài liệu lưu trong máy, sau khi hoàn tất em lỡ tay xoá mất ứng dụng 365 office đã được cài đặt sẵn trong máy. Vậy anh chị có thể cài đặt lại cho em được không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.125103,
+         "id": "1153747",
+         "field_search": "question",
+         "question": "Album All phôt trong iphone mình tự động nhân đôi tất cả hình ảnh, nhưng dung lượng trong máy không thay đổi. Khi mình tât cả bản nhân đôi, chie giữ lại 1 bản. Iphone Storage đề nghị xoá ảnh trong thùng rác để làm trống bộ nhớ.Nếu mình xoá thì sẽ trống gần 10GB. Nhưng hình ảnh vẫn nguyên lúc đầu. Vậy là sao ạ?Và nếu mình xoá thì sau này hình trong iphone mình có bị mất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.002163,
+         "id": "781174",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi, em đang sài iPhone 5S em muốn xóa tất cả nội dung và cài đặt máy bắt nhập mã giới hạn là sao zạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.95193,
+         "id": "748687",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là khôi phục cài đặt gốc cho laptop Asus TP550L có bị mất dữ liệu phần mềm không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.94388,
+         "id": "986559",
+         "field_search": "question",
+         "question": "AD giải thích dùm em : Iphone 5s của em mới mua về dùng mà sao nó hao pin nhanh chóng! không dùng nó cx hao phần trăm pin. em đã tắt tất cả các kết nối và thoát tất cả các ứng dụng chạy ngầm , tắt các tất cả cài đặt có thể làm hao pin như PUSH Email, định vị . nhưng vẫn thấy hao pin nhanh . em nghĩ sạc và pin không bị gì vì mỗi lần sạc thì trung bình cứ 2h15-2h30 là pin đầy! ad cho em cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.903822,
+         "id": "1166172",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao chiếc iphone xr của khi e đặ lại cài đặt vào phần hình nền lại ko có live photo ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.872166,
+         "id": "1143423",
+         "field_search": "question",
+         "question": "Cho e hỏi là đt e đã có icloud rồi mà giờ e muốn sài chung với chị e vậy khi e đăng xuất icloud của e thì có bị mất tất cả dữ liệu trong đt e k ạ hay vẫn bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.852123,
+         "id": "1008426",
+         "field_search": "question",
+         "question": "TGDD cho mình hỏiHTC  Butterfly D920 sau khi khôi phục cài đặt gốc bị mất chức năng Beats audio. Có chạy lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.818096,
+         "id": "793985",
+         "field_search": "question",
+         "question": "Cho mình hỏi là dt oppo neo 7 muốn tắt nguồn và khởi động lại mà không dùng nút nguồn mình có thể cai đặt bằng cách khác được không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.804676,
+         "id": "864083",
+         "field_search": "question",
+         "question": "Máy em mới reset lại win. Nó mất các phần mềm được cài đặt trong ổ C không nói rồi, nó còn mất cả Intel(R) Processor Graphics. Giờ làm sao cài lại vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.748453,
+         "id": "1161527",
+         "field_search": "question",
+         "question": "Hi ad, cho mình hỏi két an toàn trên máy vivo là gì? Nếu mình cài đặt lại máy về trạng thái ban đầu thì dữ liệu (ảnh, tài liệu pdf...) trong két an toàn có bị mất k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.689816,
+         "id": "777257",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi mình đang xài iPhone iOS 9.2.1 thì sạc vô pin nhưng phần trăm pin không lên mình đã vào cài đặt ( đặt lại tất cả ) rồi khi tải ứng dụng yêu cầu đăng nhập mình đăng nhập mà lỗi xác minh ... bạn chỉ mình cách khắc phục với ( đã coi chỉnh ngày tháng bao nhiêu cách mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55083,
+         "id": "765996",
+         "field_search": "question",
+         "question": " Không có  tài khoản icloud tìm lại được iphone khi bị mất không vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.548296,
+         "id": "1134268",
+         "field_search": "question",
+         "question": "cho em hỏi iphone 5s ios11 đã đặt lại bị dính icloud tgdd có hỗ trợ không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.53267,
+         "id": "885653",
+         "field_search": "question",
+         "question": "chào ad, hiện tại em đang sd ip5s, không hiểu sao em có cài đặt thông báo âm lượng, và để chuông mà em không nhận được thông báo âm thanh tất cả các ứng dụng, kể cả tin nhắn và đt nữa ạ. Ad hướng dẫn cho em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.475792,
+         "id": "975995",
+         "field_search": "question",
+         "question": "cho mình hỏi. hôm nay mình có khôi phục lại cài đặt gốc. trước khi khôi phục lại cài đặt gốc mình đã sao lưu lại mọi thứ trên máy lại. giờ mình khôi phục lại dữ liệu mấy lần trong samsung cloud thì thấy bị mất 1 số hình ảnh, số điện thoại trong danh bạ, với theme mình tải về. không biết giờ mình có lấy lại được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.437777,
+         "id": "1016992",
+         "field_search": "question",
+         "question": "HTV cho e hỏi. E dùng máy glx j5. Trc vẫn cài đặt hình nền bằng ảnh trong bộ sưu tập bình thường. Nhưng sau khi cập nhật nâng cấp máy thì cài đặt hình nền bằng ảnh trong bộ sưu tập thì có bị như ảnh. Em vào cài đặt bật tắt thử mãi mà k được. Mong được giải đáp sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.42666,
+         "id": "1134266",
+         "field_search": "question",
+         "question": "cho em hỏi iphone 5s ios11 đã đặt lại bị dính icloud tgdd có hỗ trợ không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.347149,
+         "id": "1018259",
+         "field_search": "question",
+         "question": "Ad ooi em hoi cai ạ sdt 01636566485 e đang đặt giu 1 máy ở dong nai tới 10h26 hom nay ma e chua về kiẹp e có dùng sdt đó đặt 1lan nua duoc khong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.290613,
+         "id": "1009809",
+         "field_search": "question",
+         "question": "Ad cho em hỏi tự nhiên sao siri trong iphone của em lại ko có trong phần cài đặt ạ. em chụp ảnh màn hình đt khi up lên nó ra thế này. ad cần xem thì rep em gửi qua mail ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.256735,
+         "id": "1143204",
+         "field_search": "question",
+         "question": "Oppo khôi phục cài đặt gốc có bị mất dữ liệu hình ảnh âm nhạc hay những app đã tải không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.104927,
+         "id": "759880",
+         "field_search": "question",
+         "question": "Khi tạo xong iCloud, ở cuối cùng có chữ \"đăng xuất\". Vậy có nên đăng xuất không khi máy trả lời Nếu bạn đăng xuất khỏi tài khoản, tất cả  ảnh trong kho ảnh và icloud Drive được lưu trữ trong icloud sẽ bị xóa khỏi iphone này\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.087776,
+         "id": "1013913",
+         "field_search": "question",
+         "question": "cho mình hỏi: Mình đang dùng Messenger trên Iphone (ứng dụng Messenger do cửa hàng bán điện thoại cài đặt) Mình muốn update Messenger thì mình phải gỡ bỏ Messenger này đi rồi download Messenger mới từ Apple store của mình. Làm như vậy thì các dòng thoại trước đây có bị mất đi không? (mình muốn giữ lại tất cả các trao đổi trên Messenger từ trước đến giờ, không muốn bị mất) Mình phải làm gì?  xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.085316,
+         "id": "818544",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao ip6 của e cài đặt ảnh người gọi mà nó k hiển lên màng hình khi có cuộc gọi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.046282,
+         "id": "862340",
+         "field_search": "question",
+         "question": " Chào ad iPhone 4s của e tại sao không thấy cho mục quản lí thiết bị trong cài đặt chung ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.036764,
+         "id": "744655",
+         "field_search": "question",
+         "question": "Lúc đầu mình mua máy sử dụng thỳ vẫn bình thường cho đến khi mình cài lại tất cả các cài đặt thỳ lại k vào đc 3g là sao hả mn ai biết bảo dùng vs​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.009012,
+         "id": "1148221",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao sau khi khôi phục lại cài đặt gốc thì máy không hiện ứng dụng đặt chuông báo thức ạ? E dùng ss j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.95015,
+         "id": "827161",
+         "field_search": "question",
+         "question": " cho e hỏi sau khi em đặt lại đt iphone4 mà e không có tài khoản ID Apple phải làm sao a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.935377,
+         "id": "1149936",
+         "field_search": "question",
+         "question": "Em có cái video post trên zalo, mà em xóa ko được, trên tường e xóa tất rồi. mà người khác vẫn thấy. xong e lại xóa tất cả hình ảnh, video rồi, mà người khác vẫn thấy 3 đoạn Video đó. em đăng xuất ra đăng nhập lại. kể cả tắt nguồn mở lại vẫn bị vậy. Admin giúp em với ạ. e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.918472,
+         "id": "1000097",
+         "field_search": "question",
+         "question": "tôi dùng oppo a37. tôi bị mất biểu tượng điện thoại và tin nhắn. tôi vào cài đặt- cài đặt bổ sung- quản lý ứng dụng- phần tất cả vẫn còn 2 biểu tượng này nhưng khi nhấp vào thì ko có chữ bật lại mà có chữ buộc dừng và tắt( tắt chử ẩn mờ) làm sao để tôi lấy lai 2 bieu tượng này ra màn hình để sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.901882,
+         "id": "843663",
+         "field_search": "question",
+         "question": "Cho em hỏi là e bị mất iphone 5s. E có cài mật khẩu màn hình, có icloud, bật cả find my iphone nữa nhg ko kết nối wiffi hay 3g thì có tìm lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.898827,
+         "id": "993766",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tại sao điện thoại của e lại không có Siri trong phần cài đặt vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.896318,
+         "id": "781591",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi mình có mua con iPhone 4 mà khi mình vô mục cài đặt -> cài đặt chung -> bàn phím thì không có gì với lại mình vô phần sử dụng thì nó bị văng ra màn hình chính?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.883839,
+         "id": "796267",
+         "field_search": "question",
+         "question": " Khi mình reset lại con iphone thì làm mất hết phần trong cài đặt giờ làm thế nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.856564,
+         "id": "814218",
+         "field_search": "question",
+         "question": "Mình sử dụng iPad mini và iPhone 6, sáng mình có sạc cả hai máy cùng một lúc, khoảng đến trưa mình kiểm tra thì cả hai máy đều khong lên phần trăm nào, mình có lên mạng tìm thì họ nói phải đặt lại cài đặt. Mình đặt thử lại cài đặt ở IPhone 6 thì một lúc sau phần trăm pin đã lên bình thường nên mình cũng đặt lại cài đặt của IPad nhưng phần trăm pin lại không tăng được. Mình phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.81594,
+         "id": "935148",
+         "field_search": "question",
+         "question": "Cho em hỏi sao cái ipad 3 của em tất cả các wifi đều kết nói được chỉ riêng môt cái wifi kết nói kh được mặc dù e đã khôi phuc cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.720001,
+         "id": "1135034",
+         "field_search": "question",
+         "question": "ad ơi nếu điện thoại mà đặt lại cài đặt gốc thì các dữ liệu sẽ mất đi.. như vậy những phần update androi có mất theo không hay vẫn bình thường giống như lúc mới cập nhật androi vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.675241,
+         "id": "788650",
+         "field_search": "question",
+         "question": " Em muốn tìm lại ảnh đã bị mất khi reset lại iphone thì như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.653069,
+         "id": "815240",
+         "field_search": "question",
+         "question": "Cho em hỏi, em đăng nhập icloud và tải những bức hình lên đám mây nhưng sau đó đứa em gái vào xóa tất cả ảnh trên ipad và vào xóa tất cả bức ảnh gần đây trong album đã xóa gần đây. em vào icloud kiểm tra tất cả bức hình trên đó, em không thấy ảnh. xin giúp em giải đáp thắc mắc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.637648,
+         "id": "832467",
+         "field_search": "question",
+         "question": " cho em hỏi sao iphone 4 của em tại tất cả ứng dụng camera em vào đều bị lag giật khi quay. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.636784,
+         "id": "999650",
+         "field_search": "question",
+         "question": "Chào ad em mới mua samsung galaxy j5 prime lúc đầu vào camera thì giao diện có đầy đủ các cài đặt nằm phía trên nhưng khi mở lại camera thì mất hết cài đặt hay các chế độ chụp. E đã khôi phục cài đặt gốc sau đó vào lần nữa thì bình thường và vào những lần sau thì lại bị lỗi như thế ac nào giúp e với ạ, có cách nào khắc phục khác không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.589254,
+         "id": "794434",
+         "field_search": "question",
+         "question": "Tgdd cho e hỏi, e vừa bán cái iphone 5, trước khi bán e chỉ khôi phục lại cài đặt gốc của máy mà chưa xoá tin nhắn, danh ba, hình ảnh, đăng xuất icloud,... Như vậy thông tin các thứ trong đt có bị rò rỉ vào tay người mua k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.53718,
+         "id": "1023856",
+         "field_search": "question",
+         "question": "mình đang xài iphone 6 , tạo id qa sdt id mình đã đăng xuất nhung icloud minh dang xuat không được vì có xác thực hai yếu tố trong khi sdt mình mất lâu rồi . giờ tới bước xác thực nó gửi mã xác minh vô sdt nhưng sdt mình ko xài nữa nên giờ mình phải làm sao ạ? mình xóa tất cả cài đặt lại được không ạ? thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.477962,
+         "id": "1001692",
+         "field_search": "question",
+         "question": "Ad cho e hỏi..điện thoại e bảo hành có bị mất hình ảnh hay các file nhạc trong bộ nhớ k ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.438894,
+         "id": "922132",
+         "field_search": "question",
+         "question": "Cho em hỏi sau khi chạy lại chương trình thì máy em mất cydia,có ai biết vì sao không ạ?làm thế nào cài đặt lại?(em dùng ip4s)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.423168,
+         "id": "779746",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại HKphone Revolead. Tất cả ảnh gửi qua viber đều được lưu vào thẻ nhớ. Nhưng lúc mình tháo thẻ nhớ ra đến khi lắp vào thì mất toàn bộ ảnh đã lưu của viber. Làm thế nào để lấy lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.422577,
+         "id": "941378",
+         "field_search": "question",
+         "question": "E có laptop dell inspiron 14 7000 chẳng may bị trẻ con nghịch reset mất hết những phần mềm mà trung tâm cài đặt cho .mà nhỡ không mang giấy bảo hành trên hà nội về thì e có thể lên trung tâm cài đặt lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.38699,
+         "id": "999785",
+         "field_search": "question",
+         "question": "Điện thoại của em tự nhiên không thể mở camera được, bấm vào máy ảnh thì nó kêu vui lòng tắt hết các ứng dụng đang sử dụng camera hoặc đèn flash. Em đã thử reset máy, khôi phục cài đặt gốc nhưng vẫn không có tác dụng, vào mục Cài đặt->Ứng dụng->Tất cả ứng dụng thì không thấy camera/máy ảnh. Em đang sài điện thoại philips s358",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.381453,
+         "id": "868327",
+         "field_search": "question",
+         "question": " Cách lưu tất cả ảnh đã nhận từ Facebook Messenger? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.329746,
+         "id": "948753",
+         "field_search": "question",
+         "question": " dell 3468 có 1 ổ đĩa C thôi gần 1000G cho em hỏi nếu cài lại win thì tất cả dữ liệu sẽ mất hết hay sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30425,
+         "id": "828744",
+         "field_search": "question",
+         "question": "ad ơi nếu em nâng cấp win7 lên win10 máy có bị mất dữ liệu hay các ứng dụng j ko, rồi sau khi nâng cấp xong mình có cần pải cài đặt lại mạng của máy hay cái j khác không Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.292038,
+         "id": "943788",
+         "field_search": "question",
+         "question": "Hi, cho hỏi cách đồng bộ ảnh trong gmail sang iPhone như thé nào? do tất cả ảnh trong điện thoại cũ được lưu trong gmail (dt cũ sử dụng androi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.27871,
+         "id": "771820",
+         "field_search": "question",
+         "question": "Thời gian đầu mình vẫn sài được cốc cốc. Nhưng sau khi gỡ đi cài lại thì cứ bị như này. Mình thử cài đặt lại nhiều lần mà ko được. Vào cococ không làm được gì cả. Không cài đặt hay plugin luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.261541,
+         "id": "828429",
+         "field_search": "question",
+         "question": "cho e hỏi e mới cài đặt 3G trên iphone! Nhưng khi cài đặt xog thì vô facebook không được, vô bất kì trình duyệt web nào cũng k được! E thử mượn máy nhỏ em thì lại vô được! Cho e hỏi nguyên nhân vì s máy e k vào đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.199137,
+         "id": "1153003",
+         "field_search": "question",
+         "question": "Cho e hỏi em xài iphone 5s sau khi đặt lại máy thì không thể khởi động lại máy được. Đăng nhập id apple toàn hiện không thể đăng nhập.giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.194912,
+         "id": "1162456",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, e đang dùng 6s 16gb , ảnh của em chỉ có 155 cái nhưng dung lượng lại chiếm hết hơn 600mb, e đã xoá tất cả ảnh ở mục “Đã xoá gần đây” nhưng vẫn ko giảm mb ạ. Và tại sao em thấy chị em dùng ip7plus có hơn 1000 ảnh nhưng lại chỉ chiếm có hơn 400mb ạ :(((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.167156,
+         "id": "868582",
+         "field_search": "question",
+         "question": " cho mình hỏi khj cài đặt lai line có bị mất tin nhắn k vậy b? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.148127,
+         "id": "1150553",
+         "field_search": "question",
+         "question": "Ios 12 khi được cập nhật lên tất cả  iPhone thì dùng có hao pin hơn các ios trc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.087341,
+         "id": "752968",
+         "field_search": "question",
+         "question": "Tôi hiện tại đang dùng iPhone 6+ hiện trạng bây giờ điện thoại của tôi rơi vào tình trạng nhận được cuộc gọi và gửi tin nhắn, tra cước ok, nhưng muốn gọi đi đến 1 thuê bao bình thường hoặc tổng đài là không gọi được. Tôi đã cài đặt là mạng, xoá tất cả nội dung đã cài đặt, nhưng mấy hôm sau lại bị. Mong ad có cách nào giải quyết hộ tôi. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.07884,
+         "id": "1136307",
+         "field_search": "question",
+         "question": "cho e hỏi  e bị mất nick facebook ad có tìm lại dùm e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.069448,
+         "id": "1150370",
+         "field_search": "question",
+         "question": "Máy galaxy s8 của e sao k có phần bảo mật vân tay,mống mắt,khuôn mặt vậy.e tìm hết tất cả trong phần cài đặt rồi nhưng vẫn k có những tính năng đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.06889,
+         "id": "773907",
+         "field_search": "question",
+         "question": "a chị cho em hỏi là khi em đăng xuất tài khoản iCloud thỳ trên máy báo bạn mướn xóa tất cả dữ liệu trên ip hay là vẫn còn luwu trên ip... em muốn xóa tất cả trên ip này nhưng em qua đt khác em đăng nhập tài khoản icoul này có mất tất cả dữ liệu ko ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.067736,
+         "id": "1161516",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình xài note 8. Đã cài đặt mở tất cả âm thanh thông báo nhưng tin nhắn đến thì không có âm, không rung, không hiển thị tin nhắn mới. Cái này khắc phục như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.969688,
+         "id": "1009286",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với ạ.. tại sao bộ nhớ máy 32Gb và e có thẻ nhớ 32Gb mà máy cứ báo bộ nhớ đầy khi e tải phim  hoặc trò chơi về ạ..e chuyển các ưnga dụng qua thẻ nhớ thì bảo k đủ dung lượng trong khi e tháo thẻ nhớ ra thì tất cả hình ảnh video và ứng dụng đều nằm trên bộ nhớ thiêta bị. Ad cho e hỏi e phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9056425,
+         "id": "768552",
+         "field_search": "question",
+         "question": "Cái iPhone của em nó bị hư màn hình, vậy mình sửa màn hình rồi nó có bị mất hình ảnh hay số điện thoại không vậy ad.. Với lại cho em hỏi giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

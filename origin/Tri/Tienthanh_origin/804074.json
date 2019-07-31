@@ -1,0 +1,801 @@
+{
+   "id_query": "804074",
+   "total": 31970,
+   "total_current": 100,
+   "max_score": 178.50714,
+   "origin_question": "Mình đang xài iPhone 5s mới jeaback để cài ảnh đại diện video trên facebook, mấy tài khoản facebook khác đăng nhập trên điện thoại mình đều thay ảnh đại diện bằng video rồi, mà chỉ mỗi nick facebook mình là không thấy để up video đại diện thôi. Mình không hiểu sao luôn.",
+   "hits": [
+      {
+         "score": 113.34309,
+         "id": "804734",
+         "field_search": "question",
+         "question": "Mình vừa jeablack ios 9.1.2 xong. Để cài ảnh đại diện video facebook, mà lấy mấy nick của người khác đăng nhập trên đt mình thì đổi dc video đại diện, còn mỗi nick fb mình thì không hiện, nó chỉ hiện sắp có video đại diện như là chưa jeablack đó. Mình mò miết mà k hiểu sao mặc dù xóa cookies trên điện thoại rồi mà vẫn k dc. giờ lập nick fb mới thì tiếc quá, tại nick cũ xài mấy năm rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.88798,
+         "id": "868224",
+         "field_search": "question",
+         "question": "Cho hỏi là sao facebook của e khi bấm vo phần ảnh đại diện thì khong có hiện phần lấy video làm đại diện mà chỉ có ảnh thôi, máy e là ipad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.260666,
+         "id": "815906",
+         "field_search": "question",
+         "question": " Cho e hỏi sao facebook của em chưa có video ảnh đại diện vậy ạ qtv?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.50615,
+         "id": "852379",
+         "field_search": "question",
+         "question": "ad ơi mình hỏi nhé.Tại sao ảnh đại diện của bạn mình đã đổi trên facebook rồi mà sao trong messenger lại chưa cập nhật ảnh đại diện vậy ? cho mình cách khắc phục với mình dùng ip 4s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.372925,
+         "id": "920837",
+         "field_search": "question",
+         "question": "Facebook hiện tại thì giao diện trang cá nhân thì ảnh đại diện được đặt ở giữa mà sao em cập nhật hoài thì không làm đc như vậy trong khi đó thì tài khoản khác đăng nhập vào điện thoại của em thì ảnh đại diện đc đặt ở ngay giữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.22376,
+         "id": "834610",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Trước đây mình đăng xuất tài khoản facebook xong thường hiển thị hình đại diện của mình. Nếu muốn đăng nhập lại chỉ cần nhấn vào hình đó mà ko cần đánh mật khẩu thì bây giờ mình không làm được vậy là sao? Mình đang dùng iPhone 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.08199,
+         "id": "823808",
+         "field_search": "question",
+         "question": " Có cách nào dang ảnh đại diện zalo không cần phải cắt ko vậy ad ơi. Mình muốn để nguyên ảnh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.37466,
+         "id": "781763",
+         "field_search": "question",
+         "question": " Mình thấy trên hình ảnh đại diện thì iphone có 2 gạch ở trên không biết ở ngoài đời thật thì có như vậy không zậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.3173,
+         "id": "897105",
+         "field_search": "question",
+         "question": "em đang dùng ip6s sao facebook messenger của em không tự cập nhật avatar mới nhất của người khác vậy ? trên fb thì người đó đổi ảnh đại diện nhưng trên mess vẫn là ảnh cũ ? đây là lỗi chung hay sao ạ làm cách nào để khắc phục ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.675526,
+         "id": "754918",
+         "field_search": "question",
+         "question": "Chào bạn, mình cần sự trợ giúp. mình được ông anh cho cái iPhone 5, mà hình đại diện danh bạ và số là của ảnh. Mình muốn thay đổi hình đại diện trên danh bạ thì làm sao? mong bạn giúp nhé, có gì mail lại mình: thaibinh291xxx@gmail.com. thanks bạn nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.346992,
+         "id": "908553",
+         "field_search": "question",
+         "question": " Tại sao mà facebook của e ko hiển thị tất cả ảnh avata đại diện .... ai đã từng gặp phải r thì cho e lời khuyên vs ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.671375,
+         "id": "1161550",
+         "field_search": "question",
+         "question": "Khi đã chặn bạn bè xem nhật kí trên zalo, thì khi mình đổi ảnh đại diện thì người bị chặn có biết không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.09366,
+         "id": "931658",
+         "field_search": "question",
+         "question": " Tại sao tôi định đăng video lên Facebook nhưng chỉ có ảnh còn video lại ở chỗ khác? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.330463,
+         "id": "839574",
+         "field_search": "question",
+         "question": "Cho em hỏi: facebook nâng cấp bản giao diện có hình đại diện ở chính giữa, thế tại sao một tk của em có, một tk lại không? Có ai bt cách khắc phục chỉ giúp em với ạ. Máy em là OppoR7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.192295,
+         "id": "1013986",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình mới mua chiếc xiaomi note 4x. Mình đã dùng tài khoản google để đăng nhập và đồng bộ hóa tự động, nhưng những ảnh và video mình đã có trước đây không thấy có trong máy sau khi đồng bộ là sao vậy. (Trước đây mình cũng đã sử dụng đồng bộ trên máy điện thoại khác và ảnh + video vẫn về đầy đủ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.973812,
+         "id": "960411",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình?, mình muốn tạm thời khóa tài khoản facebook trong 14 ngày, sau 14 ngày mình mở khóa tài khoản facebook lại vậy những hình ảnh và video mình đăng lên tài khoản facebook của mình có bị mất hết không ?, cảm ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.856956,
+         "id": "1010998",
+         "field_search": "question",
+         "question": "Em là ngọc anh em muốn hỏi là có cách nào để em thay hình ảnh của em trong cuộc gọi video trên messenger khi em không muốn cho người gọi cho em thấy em đang làm gì mà chỉ thấy hình dại diện hoặc hình em cài sẵn được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.07574,
+         "id": "1159888",
+         "field_search": "question",
+         "question": "Chào Thegioididong! Điện thoại mình là Sony M5, hiện nay đang gặp lỗi xem video ko được. Khi mở video trên facebook, youtube, hay các video khác trên máy đều bị màng hình xanh lá, vẫn nghe được tiếng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.979004,
+         "id": "1145588",
+         "field_search": "question",
+         "question": "Em xài ip6+, em không hiểu sao máy em đã cập nhật mess phiên bản mới nhất rồi mà khi đăng nhập tài khoản của em thì nó vẫn ở giao diện cũ nhưng đến khi đăng nhập bằng tài khoản khác thì nó lại ở giao diện mới. Ai có thể giải đáp thắc mắc của em không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.010643,
+         "id": "1009939",
+         "field_search": "question",
+         "question": "Sao điện thoại em ss a3 không xem được các video liên tiếp nhau trên facebook.. mọi hôm em vẩn có 1 list video, bây giờ chỉ xem đk mỗi video khi mình click vô.. e đã gở và cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.879204,
+         "id": "806579",
+         "field_search": "question",
+         "question": " Cho em hỏi em gọi video trên facebook bằng máy tính thấy hình ảnh nhưng không nghe thấy tiếng của đối phương? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.709835,
+         "id": "766820",
+         "field_search": "question",
+         "question": "Giúp mình với iPhone của mình thoát iCloud cũ và đăng nhập tài khoản mới vào Album rõ ràng không còn ảnh và video của iCloud cũ nữa, chỉ có mấy chục cái ảnh mình mới chụp, sao vào xem giới thiệu lại thấy số lượng ảnh và video trong máy rất nhiều (như trước khi mình thoát iCloud cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.030216,
+         "id": "844614",
+         "field_search": "question",
+         "question": " Cho em hỏi là lý do tại sao nick facebook của em không làm được video live mà nick khác đăng nhập vào thì làm được?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.833496,
+         "id": "830379",
+         "field_search": "question",
+         "question": "Mình lập nick facebook bằng số điện thoại, xài một thời gian thì facebook vô hiệu hóa tài khoản vì mình lập 3 nick facebook bằng 01 chứng minh nhân dân. Có cách nào lấy lại tài khoản bị vô hiệu hóa không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.814663,
+         "id": "1024358",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình đang xài iPhone 6splus, làm cách nào để mình có thể xem video liên tục trên Facebook dc? Có nghĩ là hết clip này nó sẽ tự chuyển sang clip khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.051697,
+         "id": "1018447",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo F3 mỗi lần mình tra lời bình luận hoặc ai bình luận bằng nhãn dang trên Facebook là mình không thấy là sao vậy  Ad, mà dùng điện thoại khác thì thấy bình thường không bị Sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.93432,
+         "id": "757051",
+         "field_search": "question",
+         "question": "Chào qtv cho mình hỏi là tại sao may mình xài iPhone 4 luôn báo là dung lượng đã đầy chụp ảnh, quay phim đều không được, mình chỉ tải facebook, zalo, messenger, youtube, tango thôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.28271,
+         "id": "841197",
+         "field_search": "question",
+         "question": " đăng nhập 1 nick zalo trên máy tính và cả diện thoại được không???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.125454,
+         "id": "945249",
+         "field_search": "question",
+         "question": "Làm thế nào để đăng nhập nhanh trên facebook ạ. Em thấy là phải đăng nhập tài khoản ấy lần đầu tiên mới lưu đc nhưng mà em đã đăng nhập nhiều lần rồi thì có cách nào khác không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.96806,
+         "id": "756250",
+         "field_search": "question",
+         "question": "Mình chơi game Hay Day trên máy iPhone 4S nhưng chưa đăng nhập facebook. Mọi người có thể giúp mình đăng nhập bằng facebook để chơi được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.422592,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.32833,
+         "id": "1145575",
+         "field_search": "question",
+         "question": "Ngày trước mình bị hackk facebook vì insta mình liên kết vs face luôn nên cx mất. Sau khi mình đăng nhập lại đc facebook đó thì lại k vào đc ins, mà mình đã tạo tài khoản khác mà vẫn k đăng nhập đc bằng app trên đt mình. Nhưng khi vào app trên đt khác lại vào đc !! Làm thế nào để khôi phục lại app bh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.169514,
+         "id": "806718",
+         "field_search": "question",
+         "question": "AD ơi.em có 2 tài khoản Facebook làm sao để có thể đăng xuất tài khoản này rồi xuất hiện ảnh để đăng nhập vào tài khoản kia vậy AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.81121,
+         "id": "839130",
+         "field_search": "question",
+         "question": "hôm trước thế giới di động có giới thiệu ứng dụng tải video trên facebook mà hôm nay mình không tìm thấy bạn nào chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.7948,
+         "id": "758895",
+         "field_search": "question",
+         "question": "Ad hướng dẫn mình cách đăng ký tài khoản fifa 2016 trên điện thoại Note 4 bằng tài khoản Facebook với. Lần trước mình đăng nhập được nhưng giờ làm tương tự không vào được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.605583,
+         "id": "797752",
+         "field_search": "question",
+         "question": " Ad chỉ e cách làm thế nào để tải video trên facebook về điện thoại iphone 5s thì làm thế nào ạ xin cảm ơn àd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.559906,
+         "id": "1158651",
+         "field_search": "question",
+         "question": "Tại sao facebook của tôi lại không có mục xem video( facebook watch) ma tài khoản khác đăng nhập vào lại có mục đấy. Cho tôi xin cách giải quyết ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.512672,
+         "id": "817335",
+         "field_search": "question",
+         "question": "E xem video trên ứng dụng facebook của đt samsung s4 docôm thì bị mờ, k cho hình ảnh sắc nét. E xem trên đt khác thì nó vẫn nét ạ. Bây giờ thì e phải cài đặt như thế nào để xem video trên facebook được nét ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.331783,
+         "id": "1139202",
+         "field_search": "question",
+         "question": "xin hỏi ad là IOS.12 trong hộp ảnh chọn video để up youtube, vào menu share không thấy có youtube mà chỉ có Gmail hay zalo hay facebook gì đó, có cách nào để nó hiện ra không ad? vì nếu vào thẳng ứng dụng youtube chọn up cũng được nhưng không có phần chọn nhiều video mà chỉ chọn up 1 lần một",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.752678,
+         "id": "891823",
+         "field_search": "question",
+         "question": " tren zalo mình co ba hinh đại diện cua ba ban tạo thanh ba hinh tron, mih muốn xoa ba hinh đo đi lam cách nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.536346,
+         "id": "939194",
+         "field_search": "question",
+         "question": "Mình chơi hayday trên ipad, có đăng nhập gamecenter, icloud, Facebook đầy đủ, sau này bị mất facebook, và không còn đc chơi trên ipad nữa, giờ mình đang chơi trên ANDROID, muốn lấy lại tài khoản đó thì phải làm thế nào? Làm sao để lấy lại tài khoản HAYDAY ĐÓ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.384014,
+         "id": "1157859",
+         "field_search": "question",
+         "question": "A7(2018)Facebook mình phải bấm vào video mới xem được, điện thoại khác chỗ nào có video thì sẽ tự phát. Khắc phục thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.9582,
+         "id": "1148412",
+         "field_search": "question",
+         "question": "Xin chào cho em hỏi em và bạn em đăng nhập facebook bằng Firefox trên máy tính, bình thường trên thanh màu xanh có nút chuyển đổi nhanh tài khoản cạnh nút dấu hỏi chấm, đến hôm nay lỡ đăng xuất hết nick facebook xong em đã đăng nhập lại hết rồi nhưng nút chuyển đổi nhanh tài khoản không hiện ra nữa là sao vậy ạ ? máy em có 4 nick facebook ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.597675,
+         "id": "1168289",
+         "field_search": "question",
+         "question": "Mình muốn kết bạn với người khác trên Facebook bằng số điện thoại. Chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.393654,
+         "id": "1016843",
+         "field_search": "question",
+         "question": "Mình không nhớ ID và pass đang nhập account samsung. Giờ mình muốn lấy lại thông qua đại chỉ email đã đăng ký.Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.34569,
+         "id": "1157526",
+         "field_search": "question",
+         "question": "Mình gặp một lỗi khi dùng facebook trên trình duyệt web google chrome- Hình ảnh có âm thanh hay video , đoạn ghi âm, mọi người gửi qua cho mình bằng messenger đều không nghe được.. Lúc trước thì được , bây giờ thì không- Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.27145,
+         "id": "870181",
+         "field_search": "question",
+         "question": "em đăng nhập vào Zalo bằng tài khoản facebook,nhưng khi tìm bạn từ nick facebook thì Zalo thông báo là không tìm thấy(liên kết và uỷ quyền cho Zalo rồi ạ) . Có lỗi gì xảy ra à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.04894,
+         "id": "1165725",
+         "field_search": "question",
+         "question": "Ad ơi làm cách nào để khắc phục chất lượng các video trên đt vivo v15 v. Các video clip trên facebook youtube hiển thị hình ảnh k được nét lắm ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.786407,
+         "id": "855064",
+         "field_search": "question",
+         "question": "Tại sao ảnh facebook lại để avt của mình ở góc chứ lại không để ở giữa. Trước kia của mình ở giữa. Nhưng sau khi cập nhật lại ở góc trái. Đăng nhập nick khác thì nick đó lại avt ở giữa. Còn của mình thì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.709515,
+         "id": "824282",
+         "field_search": "question",
+         "question": "Vì sao máy tôi mỗi khi muốn xem video thì đều ko xem được và đều hiện ra chữ như trên ảnh, giờ phải làm thế nào để xem được video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.68641,
+         "id": "867735",
+         "field_search": "question",
+         "question": "Mình đang dùng Lumia 730, khi vào Instagram thì không xem được video, cứ gặp video là thoát ra ngoài. Có khi mới vào, gặp bài viết đầu tiên trên tường là video thì bị thoát ra ngoài, dù chưa thấy được hình ảnh của video đó. Rất bực mình. Có ai biết cách khắc phục không, chỉ dùm mình đi. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.47881,
+         "id": "1015671",
+         "field_search": "question",
+         "question": "Chào ad. Mình đang dùng điện thoại oppo F3. Mình lên fb tải hình từ máy lên để làm ảnh bìa thì không được. Tick vào hình một cái là máy nhảy ra giao diện fb luôn chứ không tải lên được. Nhưng khi mình thử tải hình ngoài trang cá nhân và thử thay ảnh bìa bằng hình có sẵn trên fb thì lại được. Mong ad giải đáp giúp mình. Cám ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.41811,
+         "id": "1149936",
+         "field_search": "question",
+         "question": "Em có cái video post trên zalo, mà em xóa ko được, trên tường e xóa tất rồi. mà người khác vẫn thấy. xong e lại xóa tất cả hình ảnh, video rồi, mà người khác vẫn thấy 3 đoạn Video đó. em đăng xuất ra đăng nhập lại. kể cả tắt nguồn mở lại vẫn bị vậy. Admin giúp em với ạ. e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.402893,
+         "id": "885962",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình đăng nhập 1 tài khoản zalo vào điện thoại 1.sau đó không thoát tài khoản mà chỉ tắt wifi trên điện thoại.sau đó mình đăng nhập tài khoản đó trên 1 điện thoại khác gọi là điện thoại 2.cho hỏi là khi mình bật wifi ở chiếc điện thoại 1 lên thì tài khoản zalo đó sẽ được đăng nhập ở chiếc điện thoại số mấy.thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.31021,
+         "id": "1003623",
+         "field_search": "question",
+         "question": "QtV cho mình hỏi facebook mình tại sao lại không có mục đang theo dõi mà chỉ có mục người theo dõi như trong ảnh. Nick khác thì có bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.275417,
+         "id": "1162247",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Hiện tại facebook của mình chỉ đăng nhập được trên ipad mà không đăng nhập được trên các thiết bị khác. Khi đăng nhập vào các thiết bị khác facebook yêu cầu mã xác nhận 2 yếu tố nhưng mình không nhận được mã đó. Cho mình xin hướng giải quyết với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.16674,
+         "id": "1140036",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách đăng nhập 2 tài khoản facebook trên oppo f1s được ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.06433,
+         "id": "1169866",
+         "field_search": "question",
+         "question": "Co cach nao để lấy lại tài khoản facebook khi bị mất email không ạ.  Mình có đăng kí bằng số điện thoại nhưng nhập số điện thoại thì nó hiện ra email ma mình lại không nhớ email đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.854553,
+         "id": "996319",
+         "field_search": "question",
+         "question": "Laptop của em khi gọi video thì nó ko có hình ảnh... nhấn vào biểu tượng video thì nó hiện lên không tìm thấy máy ảnh của bạn.. kết nối với máy ảnh của bạn.. là sao vậy ạ mà e dùng những cái khác như chụp ảnh thì vẫn sử dụng webcam bình thường còn gọi video trên facebook thì ko dùng đc.. mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.711018,
+         "id": "841897",
+         "field_search": "question",
+         "question": " facebook của mình nó để ngoài menu là đang chờ hoài ! mình xài iphone 5s  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.57686,
+         "id": "1159058",
+         "field_search": "question",
+         "question": "Facebook của em bị xác minh danh tính nhận diện 5 bạn bè.  Bị 7 lần rồi.  Nếu lần sau bị nữa mà em k nhớ dẫn đến vô hiệu hóa. Em lập nick mới thì em lập trên điện thoại mà bị xác minh danh tính 7 lần đó đc k.  Hay em phải lập trên điện thoại khác rồi lại đăng nhập trên đt bị 7 lần kia để dùng? Mục đích để k bị xác minh danh tính nữa.  Xin ad tư vấn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.515682,
+         "id": "1164586",
+         "field_search": "question",
+         "question": "Hôm trước điện thoại có thông báo cập nhật phần mềm. Thế là mình cũng cập nhật. Nhưng mình thấy đồ họa vs giao diện mới này k đẹp bằng cái cũ. Vậy cho mình hỏi làm thế nào để trở về giao diện cũ vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.465992,
+         "id": "762743",
+         "field_search": "question",
+         "question": "Giúp mình vs.mình đăng xuất và xoá hết ảnh, video của tk icloud cũ rồi đăng kí tk icloud mới.vào album ảnh thì có mấy cái mà sao vào giới thiệu thì vẫn còn nguyên số ảnh và video đó. Dung lượng ảnh và video đó thì vẫn còn. thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.40305,
+         "id": "919841",
+         "field_search": "question",
+         "question": "   Sao trên mess ip tài khoản của tui hiện lên giao diện này còn vào tài khoản khác nó lại bth chỉ mìh với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.280994,
+         "id": "829328",
+         "field_search": "question",
+         "question": "Ad cho em hỏi tại sao em xài một điện thoại mà facebook một nick bên tay phải đã cập nhật chương trình mới mà sao giao diện vẫn không giống như nick bên trái vậy Ad?? AD hướng dẫn giúp em với. THANKS AD NHIỀU Ạ 😚",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.213585,
+         "id": "997518",
+         "field_search": "question",
+         "question": "iphone của e không phát được video ở tất cả ứng dụng, nhưng lại phát được video trên facebook vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.942276,
+         "id": "1007868",
+         "field_search": "question",
+         "question": "Cho e hỏi thư viện ảnh của e có tận mấy trăm cái ảnh nhưng khi vào facebook để đăng ảnh bấm thêm ảnh thì nó hiện lên k có ảnh và video. Messenger cũng bị như vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.84381,
+         "id": "753873",
+         "field_search": "question",
+         "question": "Xin chào. Cho mình hỏi. Mình đang dùng iPhone 6S Plus, iOS 9. Mình bật airdrop gửi ảnh, video cho iPhone khác thì được. Nhưng iPhone khác lại không tìm thấy airdrop của mình. Là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.828552,
+         "id": "1138831",
+         "field_search": "question",
+         "question": "Tại sao coi video trên facebook bị ngắt quãng mà coi không liên tục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.640892,
+         "id": "799186",
+         "field_search": "question",
+         "question": " Em đang sử dụng iPhone 4 sao em không thể gửi video cho bạn bằng Facebook vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.57388,
+         "id": "806206",
+         "field_search": "question",
+         "question": " Lỗi không gọi được video call trên facebook messenger trên laptop ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.26293,
+         "id": "1159153",
+         "field_search": "question",
+         "question": "mình mới mua nokia 6,1 plus nhưng khi dùng video cal trên zalo hay facebook camera rất tối, có cách nào khác phục ko a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.205704,
+         "id": "913631",
+         "field_search": "question",
+         "question": "ảnh trên icloud của mình 3,9 GBmình đăng nhập tài khoản icluod vào máy mới để tải ảnh trên icluod về.khi xem quản lí dung lượng máy ảnh chiếm có 1,8 gb.trong khi trên icluod là 3,9 gbmà trong ảnh vẫn đủ ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.12814,
+         "id": "887573",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao mình gọi zalo cho một và người bn thì không được mà họ gọi mình cũng không báo là đang gọi luôn, chỉ thấy toàn là cuộc gọi nhỡ không hà...còn đại đa số những người khác thì mình gọi được...các bạn có cách nào chỉ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.07866,
+         "id": "1010704",
+         "field_search": "question",
+         "question": "Tại sao facebook trên J7 Prime của em nó không có mục Video khác như các J7 Prime khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.07527,
+         "id": "830527",
+         "field_search": "question",
+         "question": "admin cho mình hỏi, đt iphone của mình báo tài khoản icloud đã đầy, mình có đăng nhập và trang web icloud, mình muốn xem hiện tại icloud của mình đang sao lưu những gì mà bị đày, vì máy mình chỉ cài vài chương trình cơ bản, hình ảnh và video thì mình tải hết lên phần mềm drop rồiThanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.84881,
+         "id": "817239",
+         "field_search": "question",
+         "question": "Iphone 6s của mình lúc trước mình cho bạn mượn đăng nhập icloud, và facebook, mình đã thoát icloud của người đó và đăng nhập icloud của mình rồi, facebook cũng là facebook của mình, nhưng khi mình tải các ứng dụng mang tính quốc tế như viber, intagram thì khi mình chọn kết nối facebook thì máy lại kết nối với facebook của bạn mình chứ không phải facebook của mình. Giờ mình làm thế nào để xoá cái facebook kia đi để khi kết nối với các ứng dụng khác thì liên kết với facebook của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.831184,
+         "id": "767600",
+         "field_search": "question",
+         "question": "Trên Laptop có phần mềm iTools rồi mà khi cắm jack vô để tải dữ liệu như hình ảnh, video hay xóa dữ liệu mà sao không truy cập vô File được, cũng không coi được hình ảnh luôn, nhờ add chỉ dùm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.780495,
+         "id": "842024",
+         "field_search": "question",
+         "question": "cho mình hỏi: tại sao 2 máy sử dụng 1 tài khoản trên Zalo. Nếu 1 trong 2 máy đăng nhập, thì máy kia y/c đăng nhập lại. 2 máy đăng nhập cùng 1 tài khoản không được sao?. Mình thấy trên Messenger của Facebook thì 2 máy đăng nhập được 1 tài khoản cùng lúc, không hề gì và không y/c 1 trong 2 máy phải đăng nhập lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.77861,
+         "id": "825149",
+         "field_search": "question",
+         "question": "Cho mình hỏi không hiểu vì sao mà cái mic trên laptop của mình hôm trước thì vẫn nói chuyện được trên facebook 1 cách bình thường nhưng hôm nay sao bỗng dưng mình vào facebook để ns chuyện vs bạn bè thấy tiếng ns rất nhỏ, hầu như là bên kia không nghe rõ là mình đang ns gì luôn. Phải chăng cái mic của laptop của mình gặp vấn đề gì chăng?.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.65464,
+         "id": "1162043",
+         "field_search": "question",
+         "question": "Em đăng ký 2 Facebook bằng một số điện thoại và một Gmail và cùng một mật khẩu . Giờ em chỉ đăng nhập được vào Facebook mới tạo còn Facebook cũ thì không thấy đâu nữa. Vậy làm sao em có thể đăng nhập vào Facebook cũ được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.619633,
+         "id": "1006320",
+         "field_search": "question",
+         "question": "Mình bị chặn khi post video lên facebook vì lỗi vi phạm bản quyền gì đó. Làm thế nào để biết được video đó có vi phạm bản quyền hay không? Mình có tham khảo trên web bấm Hữu Ích gì đó sẽ bỏ chân khi post video. Nhưng mình làm rồi vẫn không ăn thua. Có cách nào giúp mình được không? Mình dùng IP6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.57184,
+         "id": "1136824",
+         "field_search": "question",
+         "question": "Thegioididong cho tôi hỏi: Face của tôi đăng ký bằng sdt và đã bị hack. Tôi lấy sđt đó đăng ký 1 tài khoản facebook mới. Giờ tôi xóa tài khoản facebook mới thì có lấy lại được nick facebook cũ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.47638,
+         "id": "807476",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.450104,
+         "id": "830589",
+         "field_search": "question",
+         "question": " Điện thoại samsung galaxy j2 sao coi video trên facebook coi 1 chúc nó đứng là bị gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.29913,
+         "id": "1146398",
+         "field_search": "question",
+         "question": " Số điện thoại của mình nhưng khi đăng nhập lại vào Facebook khác ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.24054,
+         "id": "811915",
+         "field_search": "question",
+         "question": "Mình muốn xóa dữ liệu Hayday hiện tại (chơi lại từ đầu) trên điện thoại 5s để đăng nhập lại tài khoản Hayday cũ của mình. Chỉ giúp mình nhé. Tks ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.229347,
+         "id": "807456",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.19925,
+         "id": "814557",
+         "field_search": "question",
+         "question": "Làm sao cài đặt gọi video trên laptop được vậy, mình muốn gọi điện cho người thân qua video call mà không thấy hình được, nhờ giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.046738,
+         "id": "778004",
+         "field_search": "question",
+         "question": " Mọi người ơi, làm thế nào để tải video trên facebook về iPhone 5 được ạ, em cám ơn ️️️ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.974426,
+         "id": "1164297",
+         "field_search": "question",
+         "question": "Cứ đăng nhập nick Facebook khác vào máy là bị đòi xác minh danh tính bằng ảnh( nick mới thì 30p, nick cũ thì 1-2 ngày), sau 2-3 ngày sau nick bị khóa. Bác nào biết nguyên nhân và cách khắc phục chỉ e với, ức chế lắm rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.804405,
+         "id": "1156403",
+         "field_search": "question",
+         "question": "mình không đăng nhập vào được facebook, vì mình lỡ tay đăng xuất ra nhưng mà nhập lại mật khẩu thì không vào được , thử trên laptop thì vào rất bình thường chỉ trên điện thoại là vào không được nó cứ bị lỗi đăng nhập như trong hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.723583,
+         "id": "893701",
+         "field_search": "question",
+         "question": "Cho mình hỏi đang xài facebook bình thường. Tự nhiên không đăng nhập được nữa.Tài khoản facebook của mình dạng xxx@outlook.com tự nhiên chuyển sang dang xxx@mailfree.host .Giờ mình có nhập mật khẩu thế nào cũng ko được. Có cách nào lấy tài khoản như cũ ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.708935,
+         "id": "1019321",
+         "field_search": "question",
+         "question": "e mới mua một chiếc ss galaxy tab E về với mục đích để xem video học tập, website e xem là hocmai. tuy nhiên e không thể nào đăng nhập với tài khoản google trên app hocmai lecture, đăng nhập trên website hocmai thì chỉ xem được 1 đoạn video đầu ngắn, về sau là hiện dấu X lỗi không tải được video. Mong admin xử lí và đưa ra giải pháp giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.672234,
+         "id": "825668",
+         "field_search": "question",
+         "question": "Hình ảnh trên Zalo của em bị người khác lấy và tạo tài khoản mới rồi lấy đăng hình em và đăng bậy bạ e phải làm sao để khoá nick Zalo người đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.524487,
+         "id": "1135521",
+         "field_search": "question",
+         "question": "Em đang đăng nhập facebook bằng app facebook. Vị trí đăng nhập no báo đăng bằng iphone8 plus. Nhưng khi e dăng nhập facebook bằng safari băg dien thoại khác và thoat ra sau đó. Vậy chỗ bảo mật dang nhập tren iphone 8 có báo ko. Nếu đa thoát ra trên safari ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.487362,
+         "id": "1155404",
+         "field_search": "question",
+         "question": "Mình dùng ss M20. Bị lỗi như này: khi xem video(chỉ những video trên face và trong kho ảnh mới bị, video trên youtube thì lại bình thường) đc khoảng 30s thì bị giật hình 1 phát xing video lại tiếp tục chạy bt. 1 video 3phút bị 2 hay 3 lần). Chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.477856,
+         "id": "1019127",
+         "field_search": "question",
+         "question": "mình muốn xóa những hình ảnh và vidio khi đã lưu vao diện thoại thi cách làm thế nào để xóa được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.380726,
+         "id": "1147959",
+         "field_search": "question",
+         "question": "Sao sử dụng điện thoại Oppo f9 xem video trên Facebook, Youtube hay chrome bị mờ v bật 720 mà vẫn bị mờ.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

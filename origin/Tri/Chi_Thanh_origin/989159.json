@@ -1,0 +1,801 @@
+{
+   "id_query": "989159",
+   "total": 26783,
+   "total_current": 100,
+   "max_score": 44.895153,
+   "origin_question": "đăng nhập icloud lỗi như này thì phải làm sao ạ khắc phục ra sao ",
+   "hits": [
+      {
+         "score": 31.540749,
+         "id": "948257",
+         "field_search": "question",
+         "question": " Add cho mình hỏi mình bị lỗi đăng nhập iCloud như thế này thì phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.667557,
+         "id": "989277",
+         "field_search": "question",
+         "question": "Máy em hiện giờ không đăng nhập được vào icloud, vào thì nó hiện ra như thế này ạ, em mong mọi người giải đáp hộ em lỗi này phải khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.182838,
+         "id": "1149034",
+         "field_search": "question",
+         "question": " Làm sao để khắc phục lỗi này Mình lo đăng nhập được vào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.279758,
+         "id": "989079",
+         "field_search": "question",
+         "question": "icloud của em không thể đăng nhập được mà nếu đăng nhập được thì cũng hiện như này em phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.390064,
+         "id": "1147389",
+         "field_search": "question",
+         "question": "Dạ em hỏi iCloud đăng nhập hết miễn phí giờ khắc phục như sao ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.651014,
+         "id": "1142931",
+         "field_search": "question",
+         "question": "Máy j2 prime đăng nhập ig lỗi thế này ạ, phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.011541,
+         "id": "823271",
+         "field_search": "question",
+         "question": " Khi đăng nhập facebook bị ra đừơng link này thì phải làm như nào ạ httpswww.facebook.comcheckpoint?next ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.96241,
+         "id": "1022132",
+         "field_search": "question",
+         "question": "Minh muốn thoát icloud ra mà nhập mật khẩu nó bị như thế này phải làm sao ad oi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.7694,
+         "id": "770157",
+         "field_search": "question",
+         "question": "   Em vào icloud thì bị lỗi như này..   Em muốn tắt iphone thì phải làm sao ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.990892,
+         "id": "969487",
+         "field_search": "question",
+         "question": " Chào Ad, mình bị như thế này là sao ạ và làm sao để khắc phục được lỗi này ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.944937,
+         "id": "1135050",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đăng nhập fb thì nó ghi :” đăng nhập không thành công rất tiếc , đã xảy ra lỗi không mong muốn vui lòng thử lại sau mã lỗi :1 “ vậy làm thế nào để khắc phục ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.781715,
+         "id": "1163373",
+         "field_search": "question",
+         "question": "Cho em hỏi icloud em bị như này là sao ạ. Em đăng nhập là bị thoát. Vào facetime hay imess đều bị lỗi ạ. E c.ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.538849,
+         "id": "1008471",
+         "field_search": "question",
+         "question": "Em đăng nhập id Apple mới và bị như thế này thì khắc phục thế nào ăn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.849043,
+         "id": "1157868",
+         "field_search": "question",
+         "question": "Email em bị lỗi như thế này thì làm cách nào khắc phục được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.811205,
+         "id": "1168800",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để khắc phục lỗi này ạ bên instagram  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.744915,
+         "id": "918280",
+         "field_search": "question",
+         "question": " Làm sao khắc phục lỗi này trên instagram ạ  mong mn giúp e ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.720684,
+         "id": "884265",
+         "field_search": "question",
+         "question": "Mình muốn tải Cydia.vn nhưng lại bị lỗi như thế này thì phải làm như thế nào để khắc phục được ạ. Mình dùng iphone 5s..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.564089,
+         "id": "808430",
+         "field_search": "question",
+         "question": "  lỗi này là lỗi gì ạ? em phải làm gì để khắc phục nó ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.439976,
+         "id": "1138477",
+         "field_search": "question",
+         "question": " e bị mất đt thì phải làm sao ạ. đăng nhập icloud k đc vì e để xác thực 2 yếu tố. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.207186,
+         "id": "1166362",
+         "field_search": "question",
+         "question": "Instagram của mình bị như thế này, làm sao để khắc phục ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.992603,
+         "id": "1150986",
+         "field_search": "question",
+         "question": "Cách khắc phục lỗi tài khoản icloud đăng kí miễn phí",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.957428,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.882277,
+         "id": "823215",
+         "field_search": "question",
+         "question": "Mình nhập mật khẩu đúng nhưng không đăng nhập vào wifi dx xin cho hỏi phải làm như thế nào để khắc phục trên iphone 4s.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.869286,
+         "id": "951050",
+         "field_search": "question",
+         "question": "  Khi em reset win 10 nó bị lỗi như vậy phải làm sao để khắc phục vậy QTV? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.721561,
+         "id": "1153833",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đăng nhập vào icloud nhưng icloud bắt nhập mã để xác thực 2 yếu tố mà em chờ mãi k thấy gửi mã đến thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.70282,
+         "id": "815385",
+         "field_search": "question",
+         "question": " Đăng suất iCloud ra khỏi máy thì có làm sao k ak?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.68972,
+         "id": "1164655",
+         "field_search": "question",
+         "question": "laptop e vừa mở lên bị màng hình xanh rồi ra như  này khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.652443,
+         "id": "1163355",
+         "field_search": "question",
+         "question": "Cho mình hỏi vs, wechat mình nó báo không thể đăng nhập bị chặn đăng nhập, giờ phải làm sao, có cách nào mở không, giờ nó như thế này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.652004,
+         "id": "949805",
+         "field_search": "question",
+         "question": " như này là bị sao ạ đăng nhập lại nó hiện lên như này ạ huhu nhập đúng mật khẩu rồi    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.609032,
+         "id": "892736",
+         "field_search": "question",
+         "question": " instagram mình bị như vậy k đăng nhập đc, phải làm sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.583658,
+         "id": "933916",
+         "field_search": "question",
+         "question": " Làm sao để khắc phục lỗi này của youtube ạem cần gấp lắm  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.482565,
+         "id": "1136687",
+         "field_search": "question",
+         "question": "lỗi này làm sao để khắc phục ạ. lúc trước cài dặt binh thường xin chi cach khac phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.438423,
+         "id": "781769",
+         "field_search": "question",
+         "question": "Ad cho em hỏi.khi em tạo tài khoản icloud của em và em đăng nhập vào máy rồi mà khi vào appstore lại hiện 1 tài khoản icloud khác là sao vậy.cách khắc phục như nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.381485,
+         "id": "1004562",
+         "field_search": "question",
+         "question": "Google store của em bị lỗi tải liên quân về máy thì thông báo không thể tải. Làm sao để khắc phục lỗi này ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.374168,
+         "id": "832221",
+         "field_search": "question",
+         "question": "Icloud em nó bị như thế này .. pass e vẫn đăng nhập được trên trình duyệt mà trong máy đăng nhập thì nó bị như thế này ai cứu em với...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.368597,
+         "id": "993748",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em đăng nhập vào icloud mấy lần đều ko đc và máy báo thế này là sao ạ, sao em ko thể đăng nhập đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.283588,
+         "id": "944769",
+         "field_search": "question",
+         "question": " Lap lenovo của e bị lỗi font chữ như vậy thì khắc phục làm sao v shop???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.110168,
+         "id": "827152",
+         "field_search": "question",
+         "question": " Máy của em bị lỗi ngày tháng trên điện thoại khi đăng nhập vào zalo thì ko đc cho em hỏi khắc phục sao vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.082392,
+         "id": "1144326",
+         "field_search": "question",
+         "question": "Cho em hỏi xiaomi redmi 5pzlus em bị thế này là sao ạ ko đăng nhập mi dc xin cho em biết cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.968784,
+         "id": "938959",
+         "field_search": "question",
+         "question": "Tài khoản zalo của mình khi đăng nhập bị lỗi số lượng yêu cầu vượt quá mức cho phép là sao? Cách khắc phục như thế nào? Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.954119,
+         "id": "1144663",
+         "field_search": "question",
+         "question": "Trước đây mình đăng nhập được. Sau khi reset lại máy mấy lần đều đăng nhập được. Chỉ có lần reset gần nhất là sau đó k đăng nhập được. Dù thử tài khoản nào cũng bị như vậy. Làm sao để khắc phục ạ ? Máy mình là oppo neo7 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.952385,
+         "id": "770790",
+         "field_search": "question",
+         "question": " Máy ảnh trên Samsung J5 khi em vào thì bị lỗi như thế này phải làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.885866,
+         "id": "793192",
+         "field_search": "question",
+         "question": " Điện thoại sạc pin mà báo như này thì khắc phục làm sao vậy ad Giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.864513,
+         "id": "798408",
+         "field_search": "question",
+         "question": " mình đang xài iphone nhưng khi đăng nhập vào facebook thì bị lỗi 1202 và không kết nối được giờ phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.802776,
+         "id": "1156976",
+         "field_search": "question",
+         "question": "E không đăng nhập được vào app fb của IP X, đã xóa đi tài lại ứng dụng vẫn không được. Facebook báo \" lỗi đăng nhập, đã xảy ra lỗi không mong muốn. Vui lòng đăng nhập lại sau\". Em đăng nhập nik vào máy khác thì vẫn được. Mong add chỉ e cách khắc phục ak, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.695158,
+         "id": "1005034",
+         "field_search": "question",
+         "question": "cách khắc phục ổ đĩa tự động bung ra thì phải làm sao các bác giúp em với ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.471184,
+         "id": "999064",
+         "field_search": "question",
+         "question": "Làm phiền ad cho m hỏi zalo máy của m báo lỗi như thế này phải làm sao?Sdt m đã bỏ lâu rồi, nay muốn đổi sdt mới đăng nhập tránh tình trạng mất tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.430761,
+         "id": "940107",
+         "field_search": "question",
+         "question": "  IP 6 kết nối wifi nhập MK đúng mà bị thế này là làm sao ạ? có cách khắc phục ko ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.383455,
+         "id": "1024100",
+         "field_search": "question",
+         "question": "tôi bị lỗi phím số bên phải.bị lỗi số 4 với lại nhiều khi tôi viết trên bàn phím,thì hiện ra phần như nut f12.đây có phải lỗi driver không và cách khắc phục lỗi này như thế nào, tôi xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.323849,
+         "id": "1019278",
+         "field_search": "question",
+         "question": " Em muốn xóa cái khóa này để có từ xóa ghi nhớ ảnh đăng nhập trên fb phải làm sao ạ ??   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.288818,
+         "id": "1022978",
+         "field_search": "question",
+         "question": "Mình bị lỗi khi đăng nhập youtube bằng tài khoản gmail trên cùng 1 điện thoại.khi vào gmail và cửa hàng của google thì bình thương nhưng vào youtube thì bị chặn như thế này. Mong mọi người giúp đỡ để khắc phục lỗi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.185337,
+         "id": "1016166",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao khắc phục lỗi này. Máy em đang dùng là samsung j7 prime .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.119883,
+         "id": "1162974",
+         "field_search": "question",
+         "question": "Vì sao em không thể đăng nhập vào FB và bị báo lỗi thế này vậy ạ ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.1183,
+         "id": "778849",
+         "field_search": "question",
+         "question": " Máy em bị khóa iCloud phải làm sao đây ạ? Nó bắt nhập iCloud của máy nhưng em không nhớ nữa phải làm sao đây? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.10959,
+         "id": "819218",
+         "field_search": "question",
+         "question": " Em tạo được ID apple rồi đăng nhập app store nó hiện ra vậy thì làm sao ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.084114,
+         "id": "761063",
+         "field_search": "question",
+         "question": "  Cho em hỏi ID Apple không đăng nhập được thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.055481,
+         "id": "908452",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi em show available networks thì chỉ có 1 mạng wifi có dấu nhân. em vẫn nhập pass và được báo can't connect to this network. cách khắc phục lỗi này như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.055347,
+         "id": "868826",
+         "field_search": "question",
+         "question": "Sao hôm nay không thể vào được Facebook, đăng nhập vào thì nói là không thể kết nối. Làm sau để khắc phục được vậy ạ? Em đang dùng samsung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.055084,
+         "id": "1008470",
+         "field_search": "question",
+         "question": "Cho em hỏi cách khắc phục tình huống này ạ , em đăng nhập vào id Apple không được ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.045559,
+         "id": "987480",
+         "field_search": "question",
+         "question": "Chiếc Iphone 5s em quên hết thông tin về Icould vài id apple thì phải làm sao ạ ? Điện thoại em lúc này đang yêu cầu em phải đăng nhập ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.026407,
+         "id": "1156137",
+         "field_search": "question",
+         "question": "Mình đăng video lên youtube không được làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.994133,
+         "id": "879279",
+         "field_search": "question",
+         "question": " Em bị chăn đăng nhập messenger do đăng nhập nhìu lần h phải làm sao để hết bị chặn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.928484,
+         "id": "1154495",
+         "field_search": "question",
+         "question": "E muốn đăng kí thẻ ghi nợ cho icloud . Mà mã bảo mật e 6 số nhưng chỉ nhập dc 4 số phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.797413,
+         "id": "884011",
+         "field_search": "question",
+         "question": " Lỗi 2027 đăng nhập vào Zalo ko dk thì làm sao,mọi ng giúp mình voi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.7957,
+         "id": "1024282",
+         "field_search": "question",
+         "question": "Mình vừa mua mới điện thoại. Nhưng tại sao đăng nhập vào tk gmail để tải ứng dụng trên CH Play thì báo không thể đăng nhập, xảy ra sự cố kết nối  với account.google.com , vậy là thế nào và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.736168,
+         "id": "875245",
+         "field_search": "question",
+         "question": "Zalo của mình bị lỗi là hầu như bài đăng đều không hiển thị được số cmt, bình luận của bạn bè. Mình vẫn đọc được cmt nhưng trên bài đăng thì chỉ hiện thị 0. Vậy cách khắc phục lỗi này là như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.729301,
+         "id": "1022072",
+         "field_search": "question",
+         "question": "Em muốn đăng nhập id apple mới nhưng bị như vậy thì phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.66413,
+         "id": "804506",
+         "field_search": "question",
+         "question": " Tại sao điện thoai em Zalo đăng nhập được vài tiếng lại bị kích ra và phải đăng nhập lại? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.615139,
+         "id": "1137342",
+         "field_search": "question",
+         "question": "Hi ad, em đăng nhập zalo online: https://chat.zalo.me/ mà giờ hiện ra thông tin này, đã thử đổi trình duyệt nhưng không được. Ad biết là lỗi gì không và làm sao để fix lỗi này chỉ em với. Thanks ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.586285,
+         "id": "828488",
+         "field_search": "question",
+         "question": " Ad cho hỏi như này là bị sao vậy cứ đăng nhập vô là nó hiện ra như vậy ad giải đáp hộ em nhanh nha  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.585646,
+         "id": "855187",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5s nhưng do lâu không sử dụng đến. Giờ mình lấy dùng mở máy ra yêu cầu mình đăng nhập lại tk icloud.cho mình hỏi mình đăng nhập tk icloud rồi phải làm như thế nào nữa để đt mình lại dùng đc như trước đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.520786,
+         "id": "787511",
+         "field_search": "question",
+         "question": " Máy iphone 6 cập nhập phần mềm bị dính iCloud thì phải làm sao ? help me ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.500937,
+         "id": "795000",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em đăng xuất tài khoản iCloud ra thì bị xoá hết ảnh và dữ liệu trg máy.vậy lúc đăng nhập lại tài khoản iCloud đó thì có khôi phục được ảnh và dữ liệu trong máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.48618,
+         "id": "815253",
+         "field_search": "question",
+         "question": " Add cho em hỏi khi đăng nhập id apple bị như hình thì phải làm sao ạ. Em thử mọi cách ùi mà k được.Em cảm ơn ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.480438,
+         "id": "812587",
+         "field_search": "question",
+         "question": " iCloud, Facetime bị ẩn trên iphone 4s, làm sao khắc phục? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.43872,
+         "id": "1159214",
+         "field_search": "question",
+         "question": "làm thế nào để đăng nhập icloud mới vào máy khi quên mật khẩu icloud cũ , không thoát được icloud cũ ra ạ. ip6 plus ạ. e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.40282,
+         "id": "998491",
+         "field_search": "question",
+         "question": "Cho em hỏi như này là bị sao ạ? Và em có thể tự khắc phục không hay phải mang đi sửa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.40068,
+         "id": "1000981",
+         "field_search": "question",
+         "question": " Instgram của mình bị như thế này thì phải làm sao ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.356873,
+         "id": "771084",
+         "field_search": "question",
+         "question": " Khi Reset iPhone nó báo đang nhập iCloud, em nhớ rõ iCloud là vậy mà sao đăng nhập không được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.324505,
+         "id": "833362",
+         "field_search": "question",
+         "question": "Ad ơi cho Em hỏi: Iphone 6 e đang dùng bình thường và có đăng nhập tài khoản icloud của e thành công nhưng khi e đăng xuất ra thì e check icloud trên web Icluod.com thì nó vẫn hiện là On, sau đó e đăng nhập tài khoản icloud của e vào lại ip6 thì lại vẫn bình thường. Ad cho e hỏi có phải máy e đã bị dính icloud ẩn hay không?, e rất thắc mắc vì nếu bị icloud ẩn thì tại sao e lại đăng nhập tài khoản icloud của e đc...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.321442,
+         "id": "847435",
+         "field_search": "question",
+         "question": " Em múôn xóa tin nhắn trên zalo nhưng không đăng xuất ra thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.305878,
+         "id": "988011",
+         "field_search": "question",
+         "question": "Tại sao ko thể nhận thư mới khi đăng nhập vào gmail trên iphone 6? Máy thông báo lỗi \"máy chủ thư \"imap.gmail.com\" không phản hồi. Xác minh rằng bạn đã nhập thông tin tài khoản chính xác trong cài đặt Mail\" là sao và cách khắc phục nó như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.270357,
+         "id": "1148292",
+         "field_search": "question",
+         "question": "Cho mình hỏi với , hôm nay mình đăng nhập Instagram mà nó cứ báo như thế này , mình đã khởi động lại máy , thậm chí xóa ứng dụng rồi cài lại vẫn bị như vậy , mình có thử đăng nhập bằng máy khác thì vẫn vào bình thường , vậy mình phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.24938,
+         "id": "1022199",
+         "field_search": "question",
+         "question": " máy mình như thế này là bị làm sao vậy?? cho mình cách khắc phục với. cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.227602,
+         "id": "828832",
+         "field_search": "question",
+         "question": " Anh chị, e không thể đăng nhập vào facebook được. mặc dù đã thử tất cả các cách khắc phục.. phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.201359,
+         "id": "1020579",
+         "field_search": "question",
+         "question": " Tài khoản icloud bắt nhập mk liên tục sau đó e iforgot lập mk khẩu mới thì lại bị như này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.170025,
+         "id": "1021670",
+         "field_search": "question",
+         "question": "Ad cho em hỏi . Hồi chiều em có xoá app fb với mess xong có vô appstore tải lại nhưng vô nó k load đc cứ \" đang tải \" miết. Em nghĩ mạng có vấn đề nhưng check thì wifi vs 4G ok hết. Em ms reset máy và đăng xuất icloud thì máy cứ xoay miết k đăng xuất đc. Đến tối thì tự nhiên máy e đăng xuất itunes từ bao giờ em mới đăng nhập lại thì máy cứ báo k thể xác minh. K thể kết nối đến máy chủ id apple. Vậy lỗi này là lỗi gì và cách khắc phục ra sao ạ. Ad giúp e với, bây giờ k vô đc cả appstore lẫn icloud ấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.158121,
+         "id": "928766",
+         "field_search": "question",
+         "question": "Cho mình hỏi tai sao mình kích hoạt imessage va factime thi báo chờ kích hoạt mà mình đả làm các bước đăng nhập đầy đủ như đăng nhập icloud mà vẩn báo chờ kích hoạt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.137093,
+         "id": "1148189",
+         "field_search": "question",
+         "question": "E đang sử dụng iphone 6 ios12.1.2Khi e đăng nhập bằng ID Apple để vào Appstore thì nó vẫn đăng nhập được thông thường trên các máy khác, nhưng máy của e thì bị lỗi không đăng nhập được ạ, hoặc nó chỉ hiện dòng “Đang đăng nhập...” và đợi mãi thì nó vẫn không được ạ.Ad cho e hỏi là nếu điện thoại của bị như vậy là do lỗi gì ạ? Có cách gì để khắc phục ạ? E cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.116007,
+         "id": "930827",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Lỗi Tunes ID này trên ip5s phải khắc phục như thế nào ạ. Muốn cài mở khoá bằng vân tay nhưng nó cứ báo lỗi như vậy đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.113466,
+         "id": "901715",
+         "field_search": "question",
+         "question": "Tại sao tài khoản zalo của em tự nhiên bị khóa mà em đăng nhập vào thì nó để là mật khẩu không đúng,,,,,,em đăng ký thì cũng không được,,,,để là sđt đã được đăng ký cần nhập mật khẩu,,,,,,,,như vậy em phải làm sao,,,,,,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.088083,
+         "id": "1149861",
+         "field_search": "question",
+         "question": " sao đt e ko thể chụp ở chế độ này đc ạ làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.080355,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.07356,
+         "id": "892721",
+         "field_search": "question",
+         "question": "Để nhập iCloud vào iphone này bạn phải chấp nhận điều khoản sau ? Là như nào ạ ? Đt em cứ bị vậy và xong thì đơ máy ? Em không biết bị lỗi gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.048866,
+         "id": "810293",
+         "field_search": "question",
+         "question": " anh ơi em tạo hết icloud miễn phí rồi em tạo trên máy tính nhưng vẫn không đăng nhập được thì làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.029423,
+         "id": "1135049",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình đăng nhập fb thì bị như kia vậy có cách nào khắc phục được không ak ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.027899,
+         "id": "1135057",
+         "field_search": "question",
+         "question": "mình vừa mua máy mới .và đăng nhập icloud lại trên máy mới thì k có hình ảnh . và trên iphone báo dung lượng icloud đầy .mong ad chỉ mình cách khắc phục !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.986103,
+         "id": "744406",
+         "field_search": "question",
+         "question": "Minh dang xài 5s không hiểu sao cập nhật úng dụng trong App store lại kêu đăng nhập tài khoản (không phải tk mình thiết lập) có cách nào khắc phục để đăng nhập và cập nhật ứng dụng đúng như ID trong App store mình đã thiết lập ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.896753,
+         "id": "1158923",
+         "field_search": "question",
+         "question": "E đang sài Oppo a3s mà sao ko hiểu lỗi j mà phía trên thanh trạng thái ngày phần pin không hiện lên những phần thông báo như báo thức mà hãy ở chỗ khi xem phim xoay nằm thì nó lại hiện lên những phần như báo thức này nọ mà thoát về màn chính thì lại không có thì e phải lm sao để khắc phục lỗi này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

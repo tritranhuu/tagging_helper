@@ -1,0 +1,801 @@
+{
+   "id_query": "1154116",
+   "total": 32832,
+   "total_current": 100,
+   "max_score": 100.63822,
+   "origin_question": "Máy mình mua tại shop . Máy ip xr cũ đang dùng thì bị sập nguồn rồi mình khởi động lại máy lại bình thường cho mình hỏi là lỗi gì ạ . Mình đang nghi máy bị lỗi nguồn",
+   "hits": [
+      {
+         "score": 54.58942,
+         "id": "1024431",
+         "field_search": "question",
+         "question": "màn hình Máy Samsung j3 của mình tự nhiên bị tách đôi, đổi màu... rồi sập nguồn. Nó khởi động lại nhưng lại tiếp tục lỗi nên sập nguồn. Cứ liên tục như vậy...Cho mình hỏi đây là lỗi gì, khách quan hay chủ quan? Mình phải làm sao để máy bình thường trở lại?Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.524597,
+         "id": "774448",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi FPT có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.441723,
+         "id": "774452",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.716026,
+         "id": "1150328",
+         "field_search": "question",
+         "question": "IP X của mình đang sử dung face bị sập nguồn đột ngột, không thể khởi động lại được, cắm sạc ko máy khởi động lại??? Đây là lỗi gì? Có cách nào khắc phục không?Máy mình mua tại TGDĐ khoảng 1 năm, chưa chai pin, chưa sửa chữa, va đập gì.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.579456,
+         "id": "1150231",
+         "field_search": "question",
+         "question": "máy mình sony z1 dùng 70 thì sập nguồn bật lại 1 cho hỏi lỗi do chai pin hay gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.580357,
+         "id": "1023991",
+         "field_search": "question",
+         "question": "Máy ip của mình lâu lâu màn hình xanh lên rồi sập nguồn rồi lại khởi động lại. Nguyên nhân tại sao và cách khắc phục, cảm ơn ......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.495586,
+         "id": "830861",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao mình sạc pin báo đã sạc nhưng không thấy tăng % pin nào, mặc dù mình đã tắt nguồn khởi động lại nhưng k đc. hiện tại máy mình đã sập nguồn. mình đang dùng ip4s.mong m.n giúp đỡ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.416306,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.2223,
+         "id": "1166325",
+         "field_search": "question",
+         "question": "Mình đang dùng galaxy a5, sau khi cập nhật phần mềm thì máy khởi động lại liên tục. Cho mình hỏi máy bị lỗi gì và cách khắc phục như thế nào ạ?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.198586,
+         "id": "814192",
+         "field_search": "question",
+         "question": "Em đang xài iphone 6 đang lướt wed thì bị đứng máy e có nhấn nút tắt nguồn nhưng không được rồi nó hiện xanh màn hình rồi khởi động máy lại khởi động xong vẫn xài bình thường máy bị vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.972687,
+         "id": "1157651",
+         "field_search": "question",
+         "question": "máy mh htc one m8 dùng được một lúc nó sập nguồn khởi động lại. Liên tục như thế. xong máy báo lỗi là máy khôi phục lại một lượt reset không bình thường. làm thế nào khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.013985,
+         "id": "1161548",
+         "field_search": "question",
+         "question": "E đang dùng máy Nokia 3.1 máy e có hiện tượng pin đang ở 60% mà bị sập nguồn khởi động lại thì còn 1%. Bây h phải lm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.93231,
+         "id": "1023291",
+         "field_search": "question",
+         "question": "Mk dùng s6 edge plus đk 1 năm rồi. Dạo này máy sạc pin nhanh đầy. Dùng thì hao pin nhanh. Báo pin ảo. Tệ nhất là từ hôm qua đến giờ máy bị sập nguồn khởi động k lên hay lên xong lại sập. Cắm sạc vào thì lên và dùng bình thường.rút sạc ra là sập nguồn. Cho mình hỏi hiện tượng này là sao ạ? Cách khắc phục là gì ạ? Cảm ơn tgdd.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.904507,
+         "id": "1164835",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi: mình có mua Macbook Air bên TGDĐ, hiện tại máy đang bị sọc màn hình, và thỉnh thoảng sập nguồn khi khởi đông. Mình có thể bảo hành máy ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.639973,
+         "id": "833019",
+         "field_search": "question",
+         "question": " Mình bị mất ip 5s nhưng máy đã bị sập nguồn thì liệu có tìm lại đc ko?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.422802,
+         "id": "862830",
+         "field_search": "question",
+         "question": "Chào bạn hiện tại mình đang dung iphone 6 lock ios 9.3.3 và mình đã jailbreak được. Trong quá trình fix lỗi mình đã khởi động lại máy và bị treo màn hình táo. Mình đã restore nhưng sau đó itunes vẫn yêu cầu nhập mật khẩu trên ip nhưng ip vẫn bị treo. Vậy mình phải làm như thế nào để có thể khởi động lại máy như bình thường. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.337833,
+         "id": "1148449",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: Mình có con máy sony z3 nhưng hôm nay mình đang dùng thì nó bị sập nguồn. Xong nó lại tự động hiện lên chữ Sony trong khoảng 1s rồi nó lại tắt. xong nó lại hiện với quy trình lặp đi lặp lại như trên. cho mình hỏi lỗi và cách khắc phục. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.237236,
+         "id": "986481",
+         "field_search": "question",
+         "question": "máy tính của mình sạc đến 95% là dừng và k lên nữa.. rút sạc ra là tự sập nguồn cắm sạc vào mới bật được máy trong khi hôm trc 1 ngày vẫn dùng bình thường? cho hỏi máy mình gặp lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.92334,
+         "id": "934501",
+         "field_search": "question",
+         "question": "Iphone 7 của mình đang dùng bình thường thì bị mất 3g, mình đã tắt và bật lại,cài đặt lại mạng, khởi động lại máy đều không được,phai làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.846687,
+         "id": "1140686",
+         "field_search": "question",
+         "question": "Mình đang sài samsung j5 2016. Đt mình hay bị sập màn hình lắm. Có lúc đang chơi tự nhiên màn hình bị sập, mình lấy đt khác mình gọi vẫn đổ chuông và có thể bắt máy, nói chuyện bình thường dù màn hình vẫn là 1 màu đen. Rồi khi tắt máy khởi động lại thì cực kì khó lên nguồn nó cứ kêu tut tut....rồi 1 đến 2 tiếng sau mới chịu lên. Mình đã thay màn hình 1 lần rồi nhưng vẫn ko hiệu quả. AD giúp mình với ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.6872,
+         "id": "1151000",
+         "field_search": "question",
+         "question": "Lap của mình trước nay đang sài thì bị sập nguồn, muốn sài thì phải vừa sạc. Máy mình bị gì vậy ạ. Với nếu pin hư thì thay bao nhiêu. Máy mình là asus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.68211,
+         "id": "1020342",
+         "field_search": "question",
+         "question": "chào ad. mình đang quay clip mà máy mình hết ping. chưa cúp nguồn. mình thấy yếu mình tắt chứ không phải máy cúp nguồn luôn. sau đó mình mở lại thì nó báo lỗi. nhờ ad giúp...... mình đã thử khởi động lại nhưng vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.626427,
+         "id": "1023671",
+         "field_search": "question",
+         "question": "cho mình hỏi samsung j5prime dang dùng tự nhiên bị sập nguồn, mình không thể khởi động lại được, mình có cắp thử vào sạc cũng không thấy máy báo tín hiệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.618744,
+         "id": "1158984",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, e dùng laptop dell 3558, e đang dùng tự nhiên máy nó sập nguồn, ko khởi động lại được. Nó là lỗi j ạ? Dự kiến chi phí sửa khoảng bao nhiêu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.490078,
+         "id": "957778",
+         "field_search": "question",
+         "question": " Máy iPhone 5 cứ bị sập nguồn là sao đang chơi lại bị sập là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.470722,
+         "id": "923957",
+         "field_search": "question",
+         "question": "Hiện tại mình đang xài cây 5s mà sao nó cứ tắt nguồn hoài, lúc dùng thì không sao lúc mà mình không dùng thì máy tự tắt nguồn. mình đã thay pin rồi mà vẫn bị. vậy cho hỏi máy mình bị gì vậy? xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.378105,
+         "id": "938774",
+         "field_search": "question",
+         "question": "Máy a7 của mình đang dùng thì bị đơ màn hình, không tắt nguồn được, cũng không khởi động lại được thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.33067,
+         "id": "1024338",
+         "field_search": "question",
+         "question": "E đang dùng điện thoại oppo a57. Cứ mỗi lần e cắm xạc pin vào máy là máy tự khởi động lại. E nghĩ là tại nguồn điện nhưng e đổi chỗ cắm điện thì cứ cắm xạc vào máy là máy lại tuwj khởi động lại. Máy e bị gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.287815,
+         "id": "1141135",
+         "field_search": "question",
+         "question": "Cho mình hỏi là instagram của mình đang chơi bình thường sao lại tự động out ra ngoài rồi mình đăng nhập vô lại thì thấy bị mất hết hình :( ( dù mình đã out ra lần nữa để cho chắc ko bị lỗi gì nhưng ảnh thì vẫn bị mất ?? Tại sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.072956,
+         "id": "1004819",
+         "field_search": "question",
+         "question": "Mình đang dùng thì laptop tự sập nguồn. Sau đó có thử bật lại nhưng máy không lên và cắm sạc cũng k vào. Có ai biết đây là lỗi gì và cách khắc phục k ạ? :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.923508,
+         "id": "1001540",
+         "field_search": "question",
+         "question": "Cho mình hỏi? Laptop mình đang xài bt và tắt máy. Hôm sau mở nguồn không lên, Cắm Adapter cũng ko lên nguồn cho hỏi laptop mình bị lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.834545,
+         "id": "816275",
+         "field_search": "question",
+         "question": "Xin chào ! Mình đang dùng chiếc ip4s . Hôm qua mình có sử dụng ip hết pin và sập nguồn  Sau đó mình sạc pin , nhưng cứ khi mà rút sạc ra là máy bị tắt nguồn trong khi đó pin đầy và khi vẫn đang sạc mình bật máy lên chỉ hiện màn hình đc tầm 5s và sau đó lại bị tăt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.721066,
+         "id": "1147233",
+         "field_search": "question",
+         "question": "mình đang dùng asus zenfone go, mày mình bị tự động tắt nguồn, và hiện lên logo asus inseach of incredible, lần đầu mình tháo pin, lắp lại mở nguồn thì hiện lên adroid đang tối ưu hóa ứng dụng mình để tối ưu xong thì máy vào dc bình thường. minh đã cài đặt máy về khôi phục gốc, mày bị nhiều lần như vậy. Tuy nhiên mới đây nhất, máy tự tắt nguồn khi khởi động lại thì treo logo asus inseach of incredible không thể lên dc màn hình, ko biết máy mình bị làm sao ạ, mình cảm ơn ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.710133,
+         "id": "878199",
+         "field_search": "question",
+         "question": "máy iphone của mình bi sập nguồn khi bị rơi rồi khi khởi động lại thì không được. khi cắm sạc vào thì chỉ hiện lên vài giây rồi tắt lặp đi lặp lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.64412,
+         "id": "1138409",
+         "field_search": "question",
+         "question": "điện thoại mình đang dùng là J7 prime, tự dưng lại bị lỗi sạc ( máy mình dùng không rơi rớt hay bị dính nước, cáp sạc vẫn tốt và nguồn điện vẫn tốt). mình tắt nguồn để sạc thì pin báo sạc và tăng % pin nhưng đến khi bật nguồn thì pin không báo sạc nữa. không biết là bị lỗi gì? có ai đã bị như mình chưa ạ? mong ad phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.470818,
+         "id": "800349",
+         "field_search": "question",
+         "question": "Cho em hỏi là vì sao máy em đang dùng thì lại bị sập nguồn vậy a? mặc dù pinđang còn 90-98% vẫn bị thếcho em lời giải với ạ?Em đang dùng ip5 thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.3419,
+         "id": "1165576",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi mình dùng 6s, hiện tại máy mình cứ dùng được 1 chút là góc trái dưới bị đơ không bấm được (các điểm khác dùng vẫn bình thường). Tuy nhiên tắt màn hình đi rồi bật lại luôn thì mọi thứ lại bình thường. Một lúc sau lỗi lại xảy ra như cũ. Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.078304,
+         "id": "1149484",
+         "field_search": "question",
+         "question": "Tôi dùng Samsung A7 mà vài ngày  23 ngày  máy đang dùng thì bị sập nguồn,tự khởi động lại.Muốn hỏi TGDD cách sử lý?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.06089,
+         "id": "1137294",
+         "field_search": "question",
+         "question": "chào ad ad cho e hỏi 1 chút ạ máy của e sam sung j8 e đang dùng bình thường tự nhiên sập nguồn là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.991978,
+         "id": "1007829",
+         "field_search": "question",
+         "question": "xin chào các QTV cho em là máy em lenovo A6000 máy đang sài bình thường thì bị tắt nguồn và tự khởi động lại thì bị treo logo không thể vào màn  hình chính được.Vậy em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.902596,
+         "id": "898224",
+         "field_search": "question",
+         "question": " Mình đag dùng ip5s mua tại bên bạn . Máy còn 17 pin thì sập nguồn báo hết pin . Máy mình bị sao vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.887142,
+         "id": "786257",
+         "field_search": "question",
+         "question": "Chào, em đang xài iPhone 6 dạo gần đây máy của em đang xài bỗng dưng bị đứng màn hình sau đó hiện màn hình màu xanh rồi tự động tắt nguồn, em khởi động lại xài bình thường và sau đó lại bị lỗi như vậy? Không biết như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.879303,
+         "id": "1166083",
+         "field_search": "question",
+         "question": "Máy ss a7 của em tự nhiên dạo này lại hay bị sập nguồn, máy đang bật mà để chờ tầm 2-3p là lại sập nguồn, hiện chữ \" android đang khởi động, đang tối ưu hóa ứng dụng 1 trong tổng số 1\" xong cứ như thế tầm 20p mới lên, xong nếu mà k động đến nó lại sập xong nhuưa thế.... cho em hỏi như thế là bị sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.771477,
+         "id": "1017918",
+         "field_search": "question",
+         "question": "Mình dùng Huawei P9,vừa đi bảo hành vì lỗi không lên nguồn về,lúc mới về thì không sao nhưng được mấy hôm thì cứ cắm sạc là máy tự động khởi động lại mặc dù máy vẫn còn 50-60% pin là bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.769184,
+         "id": "824643",
+         "field_search": "question",
+         "question": "mình có mua 1 laptop dell inspiron 15 3543 được khoảng hơn 1 tháng nhưng tự dưng máy có hiện tượng đứng máy hoặc là treo máy. mình phải ấn nguồn hoặc tháo pin ra mới có thể khởi động lại được. cho mình hỏi là do lỗi gì ạ??? mà nếu mình đưa ra thế giơi di động thì có bị mất phí k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.75093,
+         "id": "761434",
+         "field_search": "question",
+         "question": "Laptop của em lâu lâu hay bị lỗi not responding, có khi bị khi mới khởi động máy, có khi đang xài bình thường thì bị, cho hỏi máy em bị lỗi gì, làm sao để khắc phục, xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.728474,
+         "id": "1138168",
+         "field_search": "question",
+         "question": "Cho mình hỏi j5 prime đang bt tự nhiên sập nguồn rồi bật không lên nữa thì bị làm sao ạ, mà máy mình mới mua bên TGDD cách đây 1 năm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.644623,
+         "id": "781789",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng con iPhone 5s mà trong lúc sạc máy báo không có sim cho đến khi mình khởi động lại thì vẫn xài bình thường. Mình bị 2 lần rồi. Cho xài sim cắt. Cho mình hỏi máy mình bị sau vậy ? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.638927,
+         "id": "1168413",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6s plus máy còn 99% thì sập nguồn bật lại ko lên, cắm sạc vào thì máy chạy bình thường. Nhưng rút sạc ra là máy lại sập dung lượng pin vẫn ghi 100% Máy em bị làm sao và cách khắc phục là gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.558334,
+         "id": "1134337",
+         "field_search": "question",
+         "question": "máy samsung J7 Plus đang dùng bình thường thì sập nguồn và đèn led xanh dương sáng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.51248,
+         "id": "1147662",
+         "field_search": "question",
+         "question": "Mình đang dùng Nokia 3.1 Ram 3gb, máy bị lỗi tự động Restart liên tục.  TGDD cho mình biết máy bị lỗi gì và khắc phục như thế nào nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.378304,
+         "id": "876911",
+         "field_search": "question",
+         "question": "máy mình mấy hôm gần đây xuất hiện hiện tượng góc trái màn hình bị đen lại. khoảng 4 lần. 3 làn đầu bị đen như thế, mình tắt nguồn khởi động lại thì lại sáng bình thường. tôi hôm qua mình vẫn dùng bình thường,sạc đủ 100% pin rút xạc để đến sáng hôm nay vẫn không bị tụt pin. tuy nhiên sáng nay mình phát hienj máy lại bị đen góc trái màn hình, mình lại tắt nguồn rồi khở động lại nhưng không mất phần đen màn hinh, đồng thời pin của máy hiamr nhanh, không dùng cũng tụt pin xuống còn 0% và sập nguồn, mình xạc vào thì lên pin rất lâu. màn hình vẫn bị đen và máy rất nong. điện thoại của mình iphone 6 plus nên bình thường pin dùng đc lâu và k bị nóng . Các bạn tư vấn giúp mình xem ntn ạ. Trời mưa bão nên chưa thể qua thế giwois di động trục tiếp được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.36948,
+         "id": "1155021",
+         "field_search": "question",
+         "question": "Thưa QTV, mình đang dùng điện thoại SS J4, máy vẫn đang bình thường nhưng tự dưng mình không mở khóa màn hình được, mỗi lần mở khóa máy báo sai mật khẩu. Vậy cho mình hỏi máy mình đang bị lỗi gì ạ? và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.257397,
+         "id": "835292",
+         "field_search": "question",
+         "question": "Mình xài máy tính bảng asus mua hơn 1 năm . Hiện máy bị sọc trắng rồi chuyển sang trang màn hình . Tắt nguồn khởi động lại xài được . Nhưng nay bị như vậy nhưng tắt nguồn khởi động lại hiện màn hình trắng . Vậy là bị làm sao . Cách sửa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.212025,
+         "id": "1009680",
+         "field_search": "question",
+         "question": "cho em hỏi tý. Em đang dùng máy sony m4, nhưng tự nhiên nó cứ bị tắt nguồn khởi động lại liên tục. Khi thì nó lên khi thì nó ra màn hình trắng xong lại tắt khởi động lại. Ad giúp em xem nó lỗi gì và cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.148983,
+         "id": "827639",
+         "field_search": "question",
+         "question": "Mình đang dùng Asus zenfone max nhưng máy bị đơ cảm ứng không vào được và cũng không tắt máy khởi động lại được?vậy cho mình hỏi cách nào để khởi động lại máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.064064,
+         "id": "1151568",
+         "field_search": "question",
+         "question": "Cho m hỏi. M đang dùng máy galaxy s9+. Hiện tại đang bị lỗi không gọi và nhận cuộc được. Nhẵn tin thì bình thường và lắp sim sang máy khác thì lại gọi và nhận cuộc gọi bình thường. Vậy cho hỏi máy M bị làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.98754,
+         "id": "916969",
+         "field_search": "question",
+         "question": "Mình mua iphone 5s tại tgdd đc 1 tháng bị lỗi sạc k vào đưa máy đi bảo hành thì hãng gọi nói máy bình thường, về dùng đc mấy ngày lại bị lỗi cũ, lại giui đi bảo hành rồi lại ns máy bình thường giui lại về cho mình, về vẫn đag bị lỗi cũ giui đi tiếp lần 3. Lần này hãng lại ns máy bị oxi hóa chỗ tiếp xúc pin và từ chối bảo hành cho tôi trog khi máy tôi ms mua 1 tháng k bị rơi nước, thời gian bảo hành còn nhiều hơn thời gian sử dụng máy. Bảo hành kiểu gì vậy, vậy 2 lần đầu máy tôi bình thường thế lỗi đó do đâu . Giờ k bảo hành cho tôi. Tgdd làm ăn kiểu gì vậy . số imel của máy 352083078281250.sđt liên lạc của tôi 01263038633",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.749023,
+         "id": "1135578",
+         "field_search": "question",
+         "question": "mình mua máy coolpad n3 cũ được 1 ngày nhưng máy rất nóng và liên tục bị sập nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.644882,
+         "id": "1011374",
+         "field_search": "question",
+         "question": "Cho mình hỏi giờ mình muốn đổi máy mấy mình ms mua đang bị lỗi thì cần những cái gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.571735,
+         "id": "1149746",
+         "field_search": "question",
+         "question": "Đt mình đang sử dụng tự nhiên đứng máy tắt nguồn. Lúc máy mở lại thì không nghe được âm (chuông báo, cuộc gọi, nhạc v.v..)  gì nữa. Cắm tai nghe vào thì nghe được. Cho mình hỏi máy bị gì ạ? Máy mình là ss A5 2017 ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.564625,
+         "id": "1010428",
+         "field_search": "question",
+         "question": "Tin nhắn điện thoại của mình cứ hiện đang gửi. Khởi động lại máy vẫn bị. Tin nhắn gửi đến vẫn nhận như bình thường,  còn gửi đi nó cứ hiện đã gửi.  Cả 2 sim viettel và vietnam mobile đều bị.  Anh chị cho e hỏi là lỗi gì ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.48938,
+         "id": "1008824",
+         "field_search": "question",
+         "question": " Máy bị tắt nguồn khởi động lại thì bị lên mạng hình android đang nâng cấp cụ chạy khởi động ứng dụng hoài. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.466557,
+         "id": "925289",
+         "field_search": "question",
+         "question": " Điện Thoại Iphone 6 của em dùng cứ đến 70  lại bị sập nguồn cho em hỏi là do lỗi gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.37991,
+         "id": "1137939",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi máy mình là vivo y55 bây đang bị lỗi thật đáng tiếc màn hình chờ đã dừng lại mình thử tắt nguồn r ko đc nên khắc phục như nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.207817,
+         "id": "1133840",
+         "field_search": "question",
+         "question": "Máy em là samsung J3 Pro đang sài bình thường tự nhiên bị liệt nút nguồn , có cách nào giúp mình không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.19425,
+         "id": "1144482",
+         "field_search": "question",
+         "question": "e đang sài sony xa.  Đang onl fb thì đt e báo fb đứng, rồi màn hình bị dừng nên e tắt nguồn khởi động lại máy. lúc đang khởi động lại đến chữ XPERIA thì n đứng luôn. Không tắt k lm gì được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.18771,
+         "id": "1010083",
+         "field_search": "question",
+         "question": "Máy mình bị chai pin, mình thay pin mới và sử dụng bình thường nhưng khi sạc lại báo lỗi, máy báo thiết bị không tương thích, kiểm tra lại. Mình thử bỏ pin cũ vào sạc thử thì vẫn sạc bình thường ( sam sung S5)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.091366,
+         "id": "1161794",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình mua chưa được 1 tháng sạc tới 80% là sạc pin vô rất lâu mới lên được 100% là máy mình bị lỗi gì và có đổi máy mới được không máy mình là  iphone xr",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.084335,
+         "id": "1149423",
+         "field_search": "question",
+         "question": "Máy mình sao khi tắt fastboot mode thì ko khởi động được nửa , nhấn giữ nút nguồn thì máy chỉ rung nhẹ chứ không khởi động lên , ai giúp mình với mình đang dùng lenovo tab4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.067284,
+         "id": "773928",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính của mình hiệu Dell Inpiron 3420. Dạo này sử dụng đuợc một lúc là bị treo, phải tắt nguồn, khởi động lại mới sử dụng đuợc. Tình trạng như thế máy của mình bị lỗi phần mềm hay phần cứng vậy. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.95221,
+         "id": "1138034",
+         "field_search": "question",
+         "question": "máy mình hôm nay khi khởi động lại thì bị đứng ở chỗ load luôn  . không biết là do lỗi gì . red mi note 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.892193,
+         "id": "795825",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Điện thoại Samsung Galaxy Note 2 của mình bị hết pin sập nguồn, sau khi sạc và bật nguồn thì máy ko lên nguồn nữa. Màn hình chỉ lên mỗi chữ Samsung thôi. Cho mình hỏi làm thế nào để khắc phục tình trạng này? Là do máy hay do pin bị lỗi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.863358,
+         "id": "1161031",
+         "field_search": "question",
+         "question": "điện thoại của mình chỉ bật nguồn lên tầm được 1p là nó lại từ từ tối màn hình lại rồi sậpnguồn, hiện máy e đang bị lỗi j ạ, các cao nhân chỉ e với ạ. Máy e là vivo, hđh android ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.82861,
+         "id": "1002642",
+         "field_search": "question",
+         "question": "Máy tính bảng galaxy tab e của mình bị tự động rồi mở nguồn rồi tắt mở nguồn lại( lặp đi lặp lại) là do gì ạ. Trong khi đó pin 0%  cLà bị gì ạ, khắc phục tại nhà được không vậy, hướng dẫn e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.808163,
+         "id": "1006202",
+         "field_search": "question",
+         "question": "cho em hỏi hiện tại em đang dùng đt sam sung A7(2017), sau khi bấm cập nhật phần mềm máy e tắt và bắt đầu khởi động lại, nhưng khi màn hình hiển thị chữ samsung là nó bị đứng máy luôn, em thử tắt bằng cách bấm đồng thời nút nguồn và nút giảm âm lượng thì máy có tắt nhưng lại khởi động lại ngay lập tức và trở về trạng thái chữ samsung tiếp, cho em hỏi máy em đang bị lỗi gì và cách khắc phục, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.63046,
+         "id": "1138088",
+         "field_search": "question",
+         "question": "Shop cho mình hỏi mình mua máy iphon 6s bên shop mà mình muốn đổi sang oppo f9 thì mình để lại máy mình thì bao nhiêu tiền ạ.máy đang mới k hề xước xát gì chưa qua sửa chữa hay lỗi gì ạ.hộp còn thiếu mỗi tai nghe ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.602455,
+         "id": "1135069",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính của mình gặp phải lỗi trong khi xem video thì bị lỗi review lại không như vậy là lỗi gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.565495,
+         "id": "826713",
+         "field_search": "question",
+         "question": "Chào các bạn! Mình đang dùng iphone4, khi sạc pin % báo đầy rồi máy tự tắt nguồn. Mình bấm nút khởi động thì màn hình hiển thị rắc cắm và pin đã hết. Cắm nạp vào lại hiển thị pin hết, rất lâu máy không lên là bị sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.30361,
+         "id": "1140630",
+         "field_search": "question",
+         "question": "Cho hỏi Em đang xài Oppo f9 mà cứ bị lỗi tín hiệu mạng yếu 4G khởi động lại thì hoạt động bình thường??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.28935,
+         "id": "877734",
+         "field_search": "question",
+         "question": "adim ơi cho mình hỏi là hiện tại mình đang dung iPhone 5 thường ,mua cách đây khoảng mấy tháng nhưng mấy hôm nay máy bị đơ và loan cảm ứng. cứ dùng khoảng 30s là đơ, sau đó tắt màn hình rồi bật nên thì nhập mk xong lại đơ. Như vậy là máy bị lỗi phần mềm hay phần cứng ạ? và cách khắc phục ntn ạ? mình xin cám ơn.( máy ko bị rơi hay dính nước gì, ios 9.3.4)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.21062,
+         "id": "781328",
+         "field_search": "question",
+         "question": "Mình mua máy iPhone 5s ở đây vào tháng 4/2014 giờ máy mình xuất hiện lỗi màn hình xanh rồi tự động tắt nguồn có thể cho mình biết lỗi gì và sửa hết bao nhiêu không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.180878,
+         "id": "934686",
+         "field_search": "question",
+         "question": "Mình mới mua iphon4 mà ko hỉu sao này mình cứ xài đk khoảng 30% pin là bị sập nguồn rồi khởi động ko lên.phải xạc pin nó mới lên nguồn là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.957256,
+         "id": "1022551",
+         "field_search": "question",
+         "question": "Mình đang dùng HTC 628 Desire, nó thường xuyên bị tắt nguồn khi đang sử dụng và bật lại thì máy báo: Đang tối ưu hóa .../58(số ứng dụng cài trên máy), xin hỏi cách khắc phục với ạ, cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.93782,
+         "id": "765031",
+         "field_search": "question",
+         "question": "Em đang dùng máy Dell Inspiron 14 3000 series mua tại tgdd gần đây gặp lỗi khi rút sạc hay chạm vào màn hinh, di chuyển máy là bị sập nguồn. ad có thể chỉ cho e cách khắc phục không ạ tks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.89296,
+         "id": "1009184",
+         "field_search": "question",
+         "question": "MÌnh hiện đang dùng máy asus zenphone 2 bản 5.5 bị hư phần nguồn bên trong máy và bể màn hình nên mình không khởi động lên được  cho hỏi bên TGDĐ có thay màn hình và sửa phần nguồn không vậy giá thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.720943,
+         "id": "1010086",
+         "field_search": "question",
+         "question": "cho e hỏi , máy e samsung galaxy note 3 mới mua (hàng xách tay ạ) e đang dùng thì máy sập nguồn rồi lại tự lên nguồn liên tục được lúc thì tắt hẳn , e bật lên lại thì lúc hiện 0% , lúc hiện 50%...mà e nhớ lúc sập nguồn là pin 37% cứ lên nguồn được lúc rồi lại tự tắt ạ . E sạc đầy lúc sau dùng lại vậy mà pin hết cực nhanh 1h mất cỡ 50% pin . Có phải tại pin hỏng rồi k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.690655,
+         "id": "1019500",
+         "field_search": "question",
+         "question": "Cho mình  hỏi  tại sao máy oppo a37  của mình nó hay bị xập nguồn khi đang sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.680927,
+         "id": "1153789",
+         "field_search": "question",
+         "question": "Laptop hiện ra màn hình xanh nhưng chạy hết 100 thì khởi động lại máy và chạy bình thường là lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.556957,
+         "id": "1016185",
+         "field_search": "question",
+         "question": "mình có dùng ip 7 máy nghe gọi hay bị gián đoạn lúc thì đang gọi thì không nghe thấy gì luôn tình trạnh này sảy ra liên tục mình nâng ios cao nhất rồi mà vẫn bị xin hỏi ad lỗi này là lỗi phần cứng hay phần mềm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.522476,
+         "id": "1146673",
+         "field_search": "question",
+         "question": "Tại sao sam sung a7 2018 đang dùng tự nhiên khởi động lại máy ạ?? E bị 45 lần rồi,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.51111,
+         "id": "1159325",
+         "field_search": "question",
+         "question": "Ad cho mình xin phép hỏi đc ko ạ Máy mình bắt wifi chơi game lâu lâu là nó tự ngắt wifi vài giây , rồi kết nối lại bình thường , là bị gì thế ạMình đang dùng Xiaomi redmi 5 plus ạ.Thanks gửi tới ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.480103,
+         "id": "765792",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi 1 chút nhé : Con iPhone của mình dùng cũng được 1 thời gian rồi.. Lâu lâu nó bị sập nguồn, báo cần phải sạc.  Mình sạc rồi bật máy lên luôn thì thấy còn 31%. Rút sạc ra lại dùng đc bình thường. Như vậy có phải do pin chai không ạ ?? có cần thay pin không Admin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.473392,
+         "id": "1020415",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình đang dùng máy iphone 6 plus chạy bản ios 8.4.1 vậy mình có nên cho lên bản 10.3.3 ko và lên thì máy có bị lỗi gì ko ạ mình thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.448093,
+         "id": "1156065",
+         "field_search": "question",
+         "question": "Máy ss j7 cập nhật phần mềm xong dùng tầm 10 hay 15p là tự sập nguồn khởi động lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.318295,
+         "id": "1140441",
+         "field_search": "question",
+         "question": "Help. Cho mình hỏi tắt nguồn và khởi động lại máy oppo f9 làm sao vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.232677,
+         "id": "773464",
+         "field_search": "question",
+         "question": "Ad giúp mình với. Minh vừa mua con iPhone 6s plus. Hiện tại mình cài cùng 1 chế độ nhưng khi có cuộc gọi đến thì có khi nó đổ chuông, có khi lại ko, mình gạt nút chỉnh chế độ xuống rồi gạt lên thì nó đổ chuông lại bình thường. Nghi ngờ do lỗi hệ điều hành, nhưng mình đã update từ ios 9.1 lên ios 9.2 nhưng ko khắc phục được. Như vậy là bị máy bị lỗi gì vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.199635,
+         "id": "1133971",
+         "field_search": "question",
+         "question": "Em muốn hỏi sao máy J3 pro khi chơi game nó cứ sập nguồn khởi động lại quài vậy ạ ! Game nào cũng bị !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.191048,
+         "id": "1008819",
+         "field_search": "question",
+         "question": "Máy e tắt nguồn mở lên thì bị android đang nâng cấp cho khởi động ứng dụng mà nó ko lên mạng hình cũ chạy khởi động hoài",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

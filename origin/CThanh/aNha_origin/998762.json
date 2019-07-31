@@ -1,0 +1,801 @@
+{
+   "id_query": "998762",
+   "total": 13486,
+   "total_current": 100,
+   "max_score": 58.6691,
+   "origin_question": "Android 6.0 tự động tắt khả năng truy cập của ứng dụng ?",
+   "hits": [
+      {
+         "score": 27.240229,
+         "id": "1144060",
+         "field_search": "question",
+         "question": " cho e hỏi e xài oppo f9 nhưng tự nhiên hiện khả năng truy cập thì làm sao để tắt nó đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.865753,
+         "id": "1160013",
+         "field_search": "question",
+         "question": "Em đang dùng Oppo f7 youth ,muốn tắt khả năng truy cập  thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.940786,
+         "id": "1009133",
+         "field_search": "question",
+         "question": "mình muồn tắt chế độ này nhưng khi đang ở trong chế độ này mình không thể vuốt được xuống để chọn Khả năng truy cập xin hãy giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.691336,
+         "id": "1166026",
+         "field_search": "question",
+         "question": "Điểm truy cập cá nhân của iphone 6s đang phát tự tắt? Để khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.410244,
+         "id": "795434",
+         "field_search": "question",
+         "question": "mình dùng android mà zalo lúc nào cũng trong tình trạng vừa mới truy cập lúc mình bật mạng. làm sao để tắt truy cập hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.327196,
+         "id": "818387",
+         "field_search": "question",
+         "question": "Em xài HTC 816 lên 6.0 rồi mà các ứng dụng như FB, Zalo, ZingMP3 bảo ko có quyền truy cập vào điện thoại vậy Ad bị lỗi gì hả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.799484,
+         "id": "1015239",
+         "field_search": "question",
+         "question": "Ss j7 prime cập nhật phần mềm máy tự khởi động lại có gắn thẻ nhớ sao không mở khóa được gở thẻ nhớ ra thì mở khóa được xong gắn thẻ nhớ lại. thì mất 1 ứng dụng messenger như vậy messger tự bị xóa sao Ứng dụng messger không khả dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.572115,
+         "id": "1020403",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là khi máy j5 2016 cập nhật phần mềm mới nhất android 6.0 thì máy có nặng và hay bị đơ không ạ.hay phải thoát các ứng dụng đang chạy ra bằng nút nguồn chứ k tắt được.Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.56821,
+         "id": "1014916",
+         "field_search": "question",
+         "question": "Anh chị ơi em đã tắt lớp phủ màn hình như trg hướng dẫn nhưng sao vẫn k mở được quyền truy cập của các ứng dụng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.245869,
+         "id": "1164660",
+         "field_search": "question",
+         "question": "Tại sao đt Realme C1 của e ko thể bật tính năng Truy cập bằng tính năng Voice Match vậy ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.193596,
+         "id": "1015251",
+         "field_search": "question",
+         "question": "Máy e đang dùng IPad mini 2Tất cả ứng dụng của e đều không được phép truy cập vào quyền riêng tưVí dụ: Ứng dụng Uber cần truy cập vị trí nhưng vào cài đawtj chỉ có quyền làm mới trong nền thôiMột vài ứng dụng sử dụng lâu hơn như fb thì có quyền thông báo, còn camera, mic, thư viện đều không có ứng dụng nào được phép truy cập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.93622,
+         "id": "817976",
+         "field_search": "question",
+         "question": "Mình mới tải facebook lại nhưng khi mở ứng dụng thì hiện thông báo \" rất tiếc, facebook không phản hồi\", làm sao để khắc phục vậy ad . Mình cũng mới cập nhật android 6.0.thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.895464,
+         "id": "1021979",
+         "field_search": "question",
+         "question": "Ad cho em hoi, zenfone 3 max 5.5 có năng cấp android từ 6.0 lên 7.1.1 không vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.883755,
+         "id": "775818",
+         "field_search": "question",
+         "question": " Làm sao cập nhật Android 6.0 cho Sony M4 Aqua vậy Ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.705448,
+         "id": "1008824",
+         "field_search": "question",
+         "question": " Máy bị tắt nguồn khởi động lại thì bị lên mạng hình android đang nâng cấp cụ chạy khởi động ứng dụng hoài. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.67752,
+         "id": "998746",
+         "field_search": "question",
+         "question": "Ứng dụng facebook trên điện thoại Oppo Neo7 không thể truy cập vào chức năng kết bạn được (như trong hình). Mọi người giúp em được không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.669432,
+         "id": "997139",
+         "field_search": "question",
+         "question": "E dùng a3 2016 android 6.0 cho e hỏi làm thế nào để chuyển ứng dụng vào thẻ nhớ đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.182346,
+         "id": "1153484",
+         "field_search": "question",
+         "question": "Làm cách nào để ngăn xiaomi mi a1 tự động cập nhật hệ thống android?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.999617,
+         "id": "988566",
+         "field_search": "question",
+         "question": " Cách khôi phục lại tài khoản iD Apple và tải ứng dụng Facebook về máy báo lỗi cập nhật tạm thời không khả dụng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.969297,
+         "id": "1154394",
+         "field_search": "question",
+         "question": "Một số ứng dụng, game cài thêm của laptop win 10 home tự mất khi truy cập vào mà không có thông báo thì phải làm như nào để không bị mất nữa vậy ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.93618,
+         "id": "1003564",
+         "field_search": "question",
+         "question": "Cho mik hỏi... galaxy tab a 7.0 T285 có pản cập nhật android 6.0 chưa zậy Ad...???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.917412,
+         "id": "810144",
+         "field_search": "question",
+         "question": " Làm thế nào để truy cập ứng dụng cửa hàng google play trên máy tính ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.749968,
+         "id": "843897",
+         "field_search": "question",
+         "question": "vì sao laptop của e. mỗi lần truy cập wifi là nó tự mở web và tự động truy cập 1 trang web nào đó. có cách nào khắc phục đc k ạ. hoặc có thể sửa trang web đó thành web khác k. mọng mọi người giúp đỡ e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.718489,
+         "id": "1019615",
+         "field_search": "question",
+         "question": "E dùng  máy ss j2 prime, máy e có cái ứng dụng tên là facebook app installer, nó cứ tự động cập nhật ứng dụng mặc dù e tắt ở CH play r thì p làm tnao để tắt cái app này bâyh ạ, nó là app hệ thống có tắt đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.561491,
+         "id": "1001529",
+         "field_search": "question",
+         "question": "  máy của em truy cập vào ứng dụng hay hiện lên bảng này nhưng em không biết cách làm . chỉ em với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.504656,
+         "id": "682618",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi có cái ứng dụng nào hiển thị đồng hồ khi màn hình tắt cho android ko ạ? (Để tiện dễ thấy hơn, tưa tựa như chức năng đồng hồ ban đêm của galaxy s6 edge)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.385763,
+         "id": "1008819",
+         "field_search": "question",
+         "question": "Máy e tắt nguồn mở lên thì bị android đang nâng cấp cho khởi động ứng dụng mà nó ko lên mạng hình cũ chạy khởi động hoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.350842,
+         "id": "1146528",
+         "field_search": "question",
+         "question": "Sửa lại cài đặt khi đang nghe nhạc tự động tắt ứng dụng đang chạy trên redmi 4a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.264416,
+         "id": "1165148",
+         "field_search": "question",
+         "question": "Cho e hỏi sao điện thoại e đang sử dụng ở những ứng dụng khác thì Youtube của đt cứ tự động xuất hiện và chạy. Đôi khi vào xem Youtube thì Youtube lại tự động tắt và thoát ra khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.098753,
+         "id": "1164897",
+         "field_search": "question",
+         "question": "Xin chàoCho mình hỏi có ứng dụng android  nào cho phép mình truy cập  vào mạng wifi rồi tạo một văn bản để thông báo với những thiết bị đang dùng mạng đó luôn không ạ.Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.996418,
+         "id": "827560",
+         "field_search": "question",
+         "question": " Làm sao để khắc phục việc đang truy cập ứng dụng mà bị thoát ra trên máy iPad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.993466,
+         "id": "1166532",
+         "field_search": "question",
+         "question": "Tắt thông báo tự động cập nhật phần mềm trên samsung A10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.97988,
+         "id": "1135023",
+         "field_search": "question",
+         "question": "cách tắt tính năng tự cập nhật zalo phiên bản mới trên PC như thế nào ạ?Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.85177,
+         "id": "823226",
+         "field_search": "question",
+         "question": " Cho mình hỏi sony z3 sau cập nhật lên android 6.0 thì mìh ko vào đc facebook thì là tại sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.765533,
+         "id": "826600",
+         "field_search": "question",
+         "question": " Cho mình hỏi có cách nào tắt hoàn toàn việc tự động tải bản cập nhật IOS mới của máy ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.76309,
+         "id": "1137274",
+         "field_search": "question",
+         "question": "Cách cập nhập Android mobiistar 5.1 mới nhấtĐiện thoại của em nó len 3G bị lỗi hk chạy đc ứng dụng?? Cách khác phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.535213,
+         "id": "1023640",
+         "field_search": "question",
+         "question": "Máy em là vivo v5s. Cái phần trợ năng của em nhiều lúc tự động tắt làm em phải bật lại nhiều lần. Em phải làm gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.409111,
+         "id": "1020479",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu đén hết chu kì mà vẫn còn data thì mình còn truy cập được không.Sau khi sử dụng hết chu kì của gói 4g 70 000d/ tháng thì tài khoản có tự động bị trừ để sử dụng tiếp dịch vụ khônghay phải đăng kí đẻ sử dụng tiếp?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.387372,
+         "id": "794156",
+         "field_search": "question",
+         "question": "Tại sao iphone lại khôg cho thay đổi trạng thái truy cập ảnh của các ứng dụng? Máy em bị thế này thì phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.383598,
+         "id": "1015257",
+         "field_search": "question",
+         "question": "E xài ss j3 16, sao điện thoại e nó cứ tự động tắt ứng dụng khi tắt màn hình vậy ạ ?  E đang mở mp3 nghe nhạc xong tắt màn hình đi là nghe đc tầm 10' là nó tự tắt lun, (đây là e ko có hẹn giờ tắt nhạc đâu nhé), mấy cái ứng dụng khác như mess cũng bị tương tự lun.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.32068,
+         "id": "827510",
+         "field_search": "question",
+         "question": "e dùng máy c2 00 khi vào ứng dụng fb thì máy báo là cài đặt không cho phép truy cập ứng dụng..giúp e khăc phục e cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.251996,
+         "id": "799266",
+         "field_search": "question",
+         "question": " sao dt XBO V5 Android 4.4.2 3G Phone của mình lại tự cài đặt ứng dụng lung tung không à!!! cần 1 sự thấu hiểu!?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.233155,
+         "id": "1162020",
+         "field_search": "question",
+         "question": "Cho em hỏi e có coi mấy bài test nước của samsung galaxy note 5 thì chống nước nhưng nhà sản xuất không đề cập tới khả năng chống nước vậy em có thể sử dụng thoải mái dưới mua không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.07365,
+         "id": "1013490",
+         "field_search": "question",
+         "question": "cho mình hỏi ứng dụng skype có khả dụng trên win 8 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.002343,
+         "id": "1140083",
+         "field_search": "question",
+         "question": "Tại sao máy em cập nhật lên android 8.1.0 trên nokia 3 . Vô chplay cập nhật ứng dụng trò chơi với YouTube không được vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.982345,
+         "id": "1163903",
+         "field_search": "question",
+         "question": "làm sao để bật được quyền truy cập ứng dụng khi hiện ra câu \"àm sao để tắt nếu hộp thoại yêu cầu quyền bị chặn bởi một ứng dụng nào đó, hãy di chuyển hoặc đóng ứng dụng đó\"? tôi đã cố gắng tìm cách giải quyết nhưng không thành, thậm chí rết cả điện thoại vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.947076,
+         "id": "995727",
+         "field_search": "question",
+         "question": "A5 2017 android 7.0 hạ xuống android 6.0 được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.873478,
+         "id": "1160566",
+         "field_search": "question",
+         "question": "Adm hay mn ơi ai cho em xin link android 6.0 của oppo neo 3 r831k đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.840052,
+         "id": "1016651",
+         "field_search": "question",
+         "question": "  Lỗi này là sao hả ad, đây là oppo a37 ạEm kích hoạt quyền truy cập cho ứng dụng này mà k được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.830315,
+         "id": "1140183",
+         "field_search": "question",
+         "question": "Máy của em đặt về dữ liệu gốc, rồi sao không cập nhật được google trò chơi và YouTube . Mấy ứng dụng khác vậy cập nhật bình thường ạ . Máy em Nokia 3 android 8.1.0",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.699049,
+         "id": "1167319",
+         "field_search": "question",
+         "question": "Glaxy A50 bị tình trạng khó cài đặt ứng dụng mới và cập nhật ứng dụng, phải khởi động lại máy thì cài đặt và cập nhật được ,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.5636835,
+         "id": "919035",
+         "field_search": "question",
+         "question": "Có ứng dụng nào trên iphone giống với call timer trên android không vậy ad? Em tìm thấy ứng dụng call monitor nhưng hoạt động không chạy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.533146,
+         "id": "1144270",
+         "field_search": "question",
+         "question": "Cách hạ bản Android 6.0 xuống bản cũ 3.0 Được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.532326,
+         "id": "1017717",
+         "field_search": "question",
+         "question": "   Tôi bị đẩy ra khi mua hàng trong trò chơi và 1 số ứng dụng ko truy cập được thỳ làm thế nào để khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.422472,
+         "id": "1150453",
+         "field_search": "question",
+         "question": "Cho mình hỏi chiếc Realme C1 có khả năng chuyển ứng dụng từ máy sang thẻ nhớ được không ạ. Nếu không được thì có cách nào để chuyển sang thẻ nhớ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.413448,
+         "id": "808369",
+         "field_search": "question",
+         "question": " E dùng sky a840s, sao zalo của em dưới tên zalo của bạn bè không thấy báo đang truy cập hay đẫ truy cập ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.379926,
+         "id": "1134481",
+         "field_search": "question",
+         "question": "XIN CHÀO! E XÀI DT OPPO F9, KHI E TẢI PHẦN MỀM ĐỊNH VỊ VỀ MÁY OPPO THÌ KHI XÀI 3G, NO K TỰ ĐỘNG CẬP NHẬT VỊ TRÍ , CHỈ KHI NÀO VÀO ỨNG DỤNG ĐỊNH VỊ ĐÓ THÌ MỚI HIỂN THI VỊ TRÍ , MÀ KHI XEM TRÊN THIẾT BỊ KHÁC THÌ NO ĐỂ KHÔNG CÓ TÍNH HIỆU 3G HOẶC LÀ ĐT OPPO ĐÓ K  TRUY CẬP.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.346748,
+         "id": "1009786",
+         "field_search": "question",
+         "question": "Ứng dụng thường bị out ra ngoài và fb không truy cập được vào các link trên samsung galaxy j7 thì phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3164835,
+         "id": "949442",
+         "field_search": "question",
+         "question": "cho em hỏi:tại sao em mới khởi động máy xong,chưa ấn nút gì, cũng chưa di chuyển chuột nhưng máy đã tự truy cập vào cốc cốc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.31391,
+         "id": "1003872",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao máy e nâng cấp từ android 6.0 lên 7.0 lại không sử dụng được dữ liệu mạng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2150955,
+         "id": "1163748",
+         "field_search": "question",
+         "question": "mình dùng oppo A39 muốn chuyển đổi android 6.0 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2098875,
+         "id": "996510",
+         "field_search": "question",
+         "question": "Sony XA đã cập nhật lên android 7.0 lỗi nhiều quá . giờ cần xuống lại 6.0 như trước thì bên TGDD mình làm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.171854,
+         "id": "1015626",
+         "field_search": "question",
+         "question": "Làm sao để tắt tính năng vuốt xuống hiển thị google trên màn hình chính đây ad chỉ mình với.  Và làm sao để tắt các ứng dụng của google  đây. Mong ad sớm trả lời  câu hỏi của  mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.08743,
+         "id": "1134858",
+         "field_search": "question",
+         "question": "Mình dùng samsung j5 prime. Lúc đầu chạy bản android 6.0, mình đã root lun. Xong rùi mình cài lại rom gốc bản android 6.0 rùi cập nhập lên 8.0 nhưng bị hiện cảnh báo : thiết bị của bạn đã được root. Bạn không thể sử dụng samsungpass vì chính sách bảo mật. Nhưng mình cố tải phần mềm kiểm tra root thì báo ko có root. Giờ mình phải làm thế nào để trở lại như ban đầu. Mong mn giúp với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.035265,
+         "id": "877631",
+         "field_search": "question",
+         "question": "Mình xài iphone4 hôm nay nó bị sao ấy:1. Khi vào ứng dụng nó cứ kêu mình nhập mật khẩu id apple và mình nhập xong thì thấy nó nói id apple... Reset xong nó đăng xuất cái ứng dụng ấy luôn không xài được.2. Và khi em tải ứng dụng thì nó bị tắt nguồn và tự động mở và không tải được ứng dụng đó mà lúc khi nó tắc nguồn thì nó từ từ tối sầm lại và tắt nguồn và tự động mởGiúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.034405,
+         "id": "999357",
+         "field_search": "question",
+         "question": "mình muốn hỏi cách nâng cấp lenovo a850 của mình từ android 4.2.2 lên 6.0 bằng recovery mode",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.024825,
+         "id": "905370",
+         "field_search": "question",
+         "question": "Laptop của e khi cập nhật lại Windows 10 thì wifi đang sử dụng thì tự động ngắt phải khởi động lại máy mới vào wifi lại được là sao a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.016366,
+         "id": "875028",
+         "field_search": "question",
+         "question": "em gặp lỗi này các anh chị admin tggd hỗ trợ em với? lỗi này khiến nhiều ứng dụng thiết yếu của em không truy cập vào mạng đc còn 1 số thì vẫn vào mạng đc!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.987925,
+         "id": "937404",
+         "field_search": "question",
+         "question": "Minh mua may tinh ở thế giới di động ,mấy hn máy mh ko vào đc internet edge, nó thông báo ko thể truy cập khi sử dụng của ng quản trị cài sẵn là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.954399,
+         "id": "815788",
+         "field_search": "question",
+         "question": " Máy lenovo a6010 đc nâng cấp lên android 6.0 hoặc 7.0 không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.925905,
+         "id": "998532",
+         "field_search": "question",
+         "question": "Cho e hoỉ laptop của em tự dưng chuột cảm ứng kéo xuống k được , với tắt máy hay khởi động lại cũng k tắt được luôn. vậy làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.776303,
+         "id": "994222",
+         "field_search": "question",
+         "question": "cho em hỏi laptop của em sử dụng từ 15-20p thì nó tự động tắt máy rồi khởi động lại thì làm cách nào để khắc phục vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.752949,
+         "id": "1001722",
+         "field_search": "question",
+         "question": "dạ cho e hỏi.dòng nào của sam sung có khả năng chống nước ạ với cả 2 sim nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.712632,
+         "id": "1163492",
+         "field_search": "question",
+         "question": "Xin hỏi có ứng dụng android  nào fake ip ko ạ? Mình đã tải về nhiều ứng dụng nhưng vẫn là ip của Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.6833,
+         "id": "1166751",
+         "field_search": "question",
+         "question": "Cho mình hỏi Ss Note 8 của mình lúc còn ở Android 8 thì có chức năng chụp 3D mà khi lên Android 9 thì mất chức năng đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.657888,
+         "id": "1135976",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi cách tắt tự động cập nhật win 10 được không ạ?.Khi cập nhật thì bị lỗi. Admin cho em xin cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.650529,
+         "id": "882322",
+         "field_search": "question",
+         "question": " cho em xin mật khẩu itunes của của hàng để cập nhập ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.649638,
+         "id": "775345",
+         "field_search": "question",
+         "question": "iPhone 6s bản quốc tế của mình thỉnh thoảng bị đơ khi vào ứng dụng, phải tắt hẳn ứng dụng rồi vào lại mới hoạt động được tiếp. Đây là lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.634466,
+         "id": "1020717",
+         "field_search": "question",
+         "question": "Mình mới mua máy bluboo,lúc đầu chụp ảnh bình thường,nhưng sau khi update 6.0 android thì không sử dụng được cam sau nữa,vào máy ảnh thì mất chức năng cam sau luôn,cam trước thì bị lộn ngược,có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.5746765,
+         "id": "1137076",
+         "field_search": "question",
+         "question": "Cập nhật lại phần ứng dụng của máy oppo f5 mới nhây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.564334,
+         "id": "1024327",
+         "field_search": "question",
+         "question": "Cho e hỏi thế giới di động có hỗ trợ lỗi không truy cập được facebook không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.475919,
+         "id": "1016330",
+         "field_search": "question",
+         "question": "điện thoại em đang sử dụng là sony xperia XA, bây giờ có hiện tượng đang sử dụng thì bị \"tự động quay lại\". Em vào cài đặt-->ứng dụng thì hiện ra trang \"ứng dụng\" xong tự động thoát ra lại trang \"cài đặt\".Lướt facebook thì kéo xuống rồi điện thoại tự động lên lại đầu trang.... và nhiều hiện tượng khác tương tự việc điện thoại tự động back lại,tự động trượt.Bây giờ thì màn hình không thể mở khóa do  không trượt hết được. Quét virus thì không thấy,màn hình vẫn còn mới không bị trầy xướt. Tắt nguồn,khởi động lại vẫn có hiện tượng đó.Không biết điện thoại đang có vấn đề gì ạ,em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.461671,
+         "id": "1136459",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại j7+ mà wifi vứ bị tắt liên tục khi cập nhật ứng dụng m thử khởi động lại luôn rồi mà vẫn không được ạ mong mọi người chỉ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.449451,
+         "id": "827757",
+         "field_search": "question",
+         "question": "Tôi sử dụng iphone, tại sao danh sách bạn bè của tôi bị mất hết, truy cập danh sách thì bị báo lỗi fbapierrordomain 200, tôi thử gở bỏ ứng dụng và cài đặt lại vẫn không được, nhờ ad hướng dẫn cách khắc phục giùm nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.444647,
+         "id": "938453",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.433932,
+         "id": "1146585",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là nokia 3 update lên android 8.1 nhưng sử dụng facebook xong không tắt đc ứng dụng đang chạy. Kiểm tra giống hình dưới đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.4318495,
+         "id": "829239",
+         "field_search": "question",
+         "question": "Máy obi sf1 của e sau khi cập nhật lên ver 3.0 bị lỗi \"google hiện hành không khả dụng ở quốc gia của bạn\" thì sửa ntn ạ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.391706,
+         "id": "1134799",
+         "field_search": "question",
+         "question": "điện thoại android cứ tắt nguồn mở lên lại hiện đang khỏi động android. làm sao để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.388446,
+         "id": "1157272",
+         "field_search": "question",
+         "question": "Điện thoại Samsung galaxy j7 pro. Khi sử dụng các ứng dụng khác camera điều sử dụng bình thường. Nhưng khi gọi trên skype thì camera trước và sau điều không sử dụng được cho e hỏi tại sao ạ. E đã bật quyền truy cập máy ảnh cho ứng dụng rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.373487,
+         "id": "1153237",
+         "field_search": "question",
+         "question": "Sao Mobell tab 7c của em nó cứ khởi động nguồn tối ưu hoá ứng dụng rồi tắt bật miết là sao ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.31156,
+         "id": "996421",
+         "field_search": "question",
+         "question": " cho e hỏi galaxy bên thegioididong có up android từ 4.4 lên 6.0 k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.299814,
+         "id": "1166762",
+         "field_search": "question",
+         "question": "tìm chức năng tự động xoay màn hình trên điện thoại samsung A",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.284779,
+         "id": "1146786",
+         "field_search": "question",
+         "question": "Ad ơi đt Xiaomi A2 lite của e đang ở android one giờ nó tự cập nhật system gì đó thành android 9. Mà nhìn giao diện 9 k quen có cách nào nó về lại k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.281964,
+         "id": "1134555",
+         "field_search": "question",
+         "question": "Mh đang dùng ip x 64gb, cho mh hỏi lm thế nào để tắt cái tính năng tự động sáng màn hình, cứ đụng vào là n lại tự sáng lên thấy tốn pin quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.281567,
+         "id": "768883",
+         "field_search": "question",
+         "question": "Em tải game trong google play mà nó báo như thế này là sao Bạn chưa truy cập ứng dụng Cửa hàng Google Play (biểu tượng giỏ hàng màu trắng) trên thiết bị của bạn bằng tài khoản email này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.22669,
+         "id": "781859",
+         "field_search": "question",
+         "question": " Em muốn nâng cấp Htc one m8 lên android 6.0 qua wifi được ko à? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.211983,
+         "id": "938461",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4s khi tải ứng dụng trong appstore thì máy tự động khởi động lại là sao vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.203372,
+         "id": "996188",
+         "field_search": "question",
+         "question": "Mh mới mua e ss tab a6 10,1 spen moi dk 1 thg vua đk cập nhật len android 7.0 mà sài thấy pin tụt nhanh hon so vs pban 6.0,giờ mh muốn cài lại về 6.0 thì mg ra tgdd co cài lại dk ko ak,cam ơn mn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.17461,
+         "id": "1149980",
+         "field_search": "question",
+         "question": "Tự nhiên trên mỗi ứng dụng của điện thoại mình xuất hiện 1 dấu cộng. Cho mình hỏi làm thế nào để tắt nó ạ. Mình đang sử dụng samsung j7 plus.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

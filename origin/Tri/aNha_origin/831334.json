@@ -1,0 +1,801 @@
+{
+   "id_query": "831334",
+   "total": 31765,
+   "total_current": 100,
+   "max_score": 55.821545,
+   "origin_question": " bạn ơi! cho mình hỏi, sao iphone se mình tải facebook, camera 360 về ko đc ạ!!! ",
+   "hits": [
+      {
+         "score": 25.111778,
+         "id": "766105",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải camera 360 về iPad nhưng trên màn hình iPad nó không hiện cái biểu tượng của app camera 360 phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.048868,
+         "id": "792032",
+         "field_search": "question",
+         "question": " Add ơi cho em hỏi tắt âm trong camera 360 của iPhone thì lm sao ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.49943,
+         "id": "857233",
+         "field_search": "question",
+         "question": " tại sao tải camera 360 trên IOS về không xài được cũng không xóa được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.070467,
+         "id": "781701",
+         "field_search": "question",
+         "question": " Tôi vừa mua iphone 6s tải ứng dụng camera 360 về sao lại có chữ trung quốc. giao diện chữ trung quốc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.114384,
+         "id": "1144324",
+         "field_search": "question",
+         "question": "Cho em hỏi là ip 6 camera thường bị quay ngược thì làm thế nào ạ? Em đã khởi động lại và không được, em cũng tải thử app camera 360 về làm theo hướng dẫn cũng kg đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.708534,
+         "id": "1143151",
+         "field_search": "question",
+         "question": "Em dùng máy zumbo s2017 sao ko vào được camera với tải camera về thì ko quay đc sáng camera sau và cảm trc nó bị ngược ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.530727,
+         "id": "970359",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone se giờ còn bao nhiêu ạ, như cỡ giá với iphone se thì về cấu hình cũng như về chơi game thì có máy nào tầm giá với se mà mạnh hơn hog",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.897945,
+         "id": "1016416",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua con iphone 6plus tải 360 về. vào ứng dụng đó mà màn hình cứ bị đen xì là thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.79883,
+         "id": "993514",
+         "field_search": "question",
+         "question": "ID ơi cho mình hỏi mình đang xài iphone6 nhưng tại sao mình vô appstore tải ứng dụng không được vậy ạ. Mình tải tất cả ứng dụng như: facebook, messenger, snow,... mình bấm vô tải cái nó xoay để tải về rồi sao đó ngưng trở lại như củ không xoay và cho tải nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.632969,
+         "id": "929881",
+         "field_search": "question",
+         "question": " Bạn ơi sao trên iphone mình gửi hình ảnh trên messenger, zalo qa cho bạn bè kh đc v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.429064,
+         "id": "835376",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi, bên cửa hàng mình dòng iphone SE đã về chua ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.335003,
+         "id": "1016419",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua con iphone 6s plus tải 360 về. vào ứng dụng đó mà màn hình cứ bị đen xì là thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.210274,
+         "id": "912653",
+         "field_search": "question",
+         "question": "cho hỏi sao mình xóa ảnh ở zalo tải về rồi xong rồi mình zô facebook đăng hình thì mấy tấm hình đó còn vậy .mà vô hình zalo tải về thì ko có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.968582,
+         "id": "837534",
+         "field_search": "question",
+         "question": "Bạn ơi ! Sao ipad minh khi chup camera 360 . No ko tu luu anh vao thu vien vay , trong khi do minh da vo cai dat de luu vo thu vien , nhung khi chup no van ko luu vo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.915167,
+         "id": "900108",
+         "field_search": "question",
+         "question": " Sao mình ko thể tải bản ios 9.3.2 về máy vậy ad ơi giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.509657,
+         "id": "830517",
+         "field_search": "question",
+         "question": " Tại sao iPhone 4 chụp camera 360 lại bị giật khong chụp được vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.221643,
+         "id": "1022151",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi ip7plus nút home k ấn đc là sao bạn có được đổi trả k bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.174877,
+         "id": "1019743",
+         "field_search": "question",
+         "question": " cho mình hỏi bên hàng còn bán iphone SE ko ạ? mà dòng máy này ram bao nhiêu ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.085373,
+         "id": "955222",
+         "field_search": "question",
+         "question": " Anhchị ơi cho em hỏi iPhone 4 có nên upload lên ios 8 không ạ , em đang dùng iOS 7 nén không thể tải facebook về ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.966316,
+         "id": "1002333",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi TGDĐ có mua lại máy iphone bản nhật quốc tế ko ạ ! Iphone 5s trắng 32g ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.911009,
+         "id": "1161375",
+         "field_search": "question",
+         "question": "Cho mình hỏi \"khi tải file về từ Facebook, gmail, tại sao mình k thể mở file đc ạ?\" Khi mình tải về thành công, ấn vào thông báo để lễ.mở file thì hiện \" không có sẵn ững dụng để mở file\" là như thế nào ạ? Rất mong nhận hồi đáp sớm. Xin cám ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.693819,
+         "id": "778004",
+         "field_search": "question",
+         "question": " Mọi người ơi, làm thế nào để tải video trên facebook về iPhone 5 được ạ, em cám ơn ️️️ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.693502,
+         "id": "830069",
+         "field_search": "question",
+         "question": " Cho mk hỏi NẾu muốn tải cả ALBUM bạn bè trên facebook về máy điện thoại 1 lượt thì phải làm sao??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.58286,
+         "id": "765731",
+         "field_search": "question",
+         "question": "  Mình dùng iPhone 5 mình tải về thì bảo không tải được là sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55833,
+         "id": "773223",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại iPhone 4 vô camera 360 bị out ra màn hình chính là bị gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.549215,
+         "id": "830873",
+         "field_search": "question",
+         "question": " ad cho e hỏi với.e tải facebook về đám mây nhưng tải xong k tìm đc ở đâu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.536074,
+         "id": "788271",
+         "field_search": "question",
+         "question": "Sao chị tải viber,zalo....về máy iphone ko đc em à........máy cứ trả lại về ban đầu hoặc trả lời ko thể tải về máy lúc này là sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.525084,
+         "id": "817649",
+         "field_search": "question",
+         "question": "Cho mình hỏi dt philip s388 khi tải Facebook từ ch play về. Mình ko mở lên được. Trên màn hình dt thì không thấy. Vào ứng dụng thì có. Giờ làm sao để sử dụng Facebook đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.426237,
+         "id": "851557",
+         "field_search": "question",
+         "question": " Tại sao iPhone 5s mình mới mua chụp ảnh bằng camera 360 rất sáng, xài khoản 2 tuần thì chụp k rõ nét và mờ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.415255,
+         "id": "833817",
+         "field_search": "question",
+         "question": " mình muốn tải phim trên wed về điện thoại iphone thì làm sao đc vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.412645,
+         "id": "806900",
+         "field_search": "question",
+         "question": " Lần trước mình có tải về đc nhưng đã xóa đi giờ muốn tải lại zalo mà không được? bạn xem giúp mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.268106,
+         "id": "743734",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ. Máy e ip4s khi chụp camera sau của camerA 360 thì cứ bị đảy ra ngoài mà camera trước thì k sao. Bây giờ e phải làm sao ạ 😢😢😢😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.251183,
+         "id": "939253",
+         "field_search": "question",
+         "question": " tại sao iphone 4 của em ios 7.1.2 không tải facebook về được mà máy ip4s cũng ios 7.1.2 tải về được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.238695,
+         "id": "1157869",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi  bên bạn còn kinh doanh dòng apple iphone 6, 6 không ạ? Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.11072,
+         "id": "831338",
+         "field_search": "question",
+         "question": "ChàoMình vừa mua iphone 5 sử dụng mấy tháng nay nhưng điện thoại mình có những dấu hiệu lạ sau đây. Không kết nối được với app store, không thể vào facebook bằng wed, lúc nảy mình vừa tải facebook về thì ngoài màn hình chính ngay chổ facebook đang tải thì facebook bị biến mất dù mình thử lại nhiều lần. Cho hỏi điện thoại mình bị sao vậy ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.095667,
+         "id": "944994",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi,mình đăng ảnh lên zalo có hình nhưng không like đc,cũng ko xóa đc là sao? Lại còn ghi ko đồng bộ vs máy chủ,mình đã cài đặt lại zalo+thử lại wifi nhưng từ qua đến giờ ko đc?? giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.093899,
+         "id": "914078",
+         "field_search": "question",
+         "question": " Iphone 5s của e sao không thể tải hay cập nhật đc facebook vậy ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.054283,
+         "id": "810227",
+         "field_search": "question",
+         "question": " bạn ơi mình muốn hỏi mình dùng iphone 4s nâng cấp lên 9.3 rồi có hạ được về ios 7 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.045479,
+         "id": "763898",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 3gs có thể tải 360 về sử dung được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.997404,
+         "id": "882698",
+         "field_search": "question",
+         "question": " Ad ơi, cho em hỏi, làm sao để tải video về thẳng phần video trong điện thoại máy iphone vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.942068,
+         "id": "959956",
+         "field_search": "question",
+         "question": "Mình dùng camera 360 nhưng khi chụp xong thì mình quên ấn nút lưu ảnh.Cho mình hỏi là ảnh còn tồn tại trong máy Ko. Nhưng tấm ảnh rất quan trọng đối với mình vì lần đầu dùng 360 nên mình nghĩ ảnh sẽ tự lưu chứ K nghĩ chụp tấm nào là phải save tấm đó. Mình dùng iPhone 7+ liệu có cách nào tìm lại ảnh Ko. Cám ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.93252,
+         "id": "1145966",
+         "field_search": "question",
+         "question": " Alo bạn ơi cho mình hỏi giá về galaxy s9 cũ 125g trở lên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.887291,
+         "id": "882818",
+         "field_search": "question",
+         "question": "điện thoại của mình quên mk nên bị vô hiệu hóa,và yeu câu kết nối vs itunes. mình tải itunes về roi nhưng vẫn không được. có phải do mình tải phần mềm về máy tính sau lúc máy bị lỗi nên ko đc ko hả bạn Phạm Khải Hoàn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.883005,
+         "id": "1145871",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao mà iphone của mình cập nhập rồi mã vẫn bị như vậy   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.861189,
+         "id": "992826",
+         "field_search": "question",
+         "question": "Em đang xài iphone 4 hệ điều hành ios7.1.2 ko tải đc app facebook vì yêu cầu hệ điều hành ios 8 trở lên mới có thể tải về . Vậy còn cách nào để tải app fb về ko ad? Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.79535,
+         "id": "767545",
+         "field_search": "question",
+         "question": " add hướng dẫn mình tải nhạc cho iPhone qua iTunes đc ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.782457,
+         "id": "774938",
+         "field_search": "question",
+         "question": " iPhone lên iOS 9 chụp camera 360 lưu hình bị nqang lam sao để máy như cũ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.739271,
+         "id": "946474",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone 7 của mình camera không có âm thanh, vậy cách điều chỉnh âm thanh cho camera như thế nào bạn hướng dẫn giúp mình với. thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.710087,
+         "id": "1168229",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình là samsung j6 mình vào CH PLAY tải mà tải ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.702675,
+         "id": "917867",
+         "field_search": "question",
+         "question": " Afd ơi mình tải mess về mình dùng androi nhưng kgoong được vì mắc lỗi 24 là sao ạ giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.613594,
+         "id": "1004223",
+         "field_search": "question",
+         "question": "Bạn ơi màn hình máy tính của mình có ổ cắm màu xanh, kí hiệu tai nghe, nhưng sao mình cắm vào đó ko nghe đc, phải cắm xuống key, bạn xem giúp mình đc ko. Màn hình máy mình là màn hình EPSON.skype của mình: thuynguyenXX.kt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.597633,
+         "id": "814003",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình đang chơi game hay day nhưng mình ko đăng nhập facebook được để kết bạn với bạn bè trong facebook. cứ vào là thế này đây.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.498854,
+         "id": "1169852",
+         "field_search": "question",
+         "question": "Cho em hỏi em có con iPhone 6s plus tải ứng dụng về ko được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.46462,
+         "id": "838670",
+         "field_search": "question",
+         "question": " Bạn ơi cho mình hỏi iphone 3 cập Nhật phần mềm 6.1.6 rồi có cài lên 7.0 được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.44702,
+         "id": "862619",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi, mình xài iphone 4 , appstore của mình có game khi tải về nó để là \" không thể cài đặt vào lúc này\" chỉ e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.419271,
+         "id": "915222",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi mình dùng iPhone 6 bản quốc tế nhưng sao mình vào AppStore k thể nào tải đc Nhaccuatui mình đã tìm nhưng k thấy trong khi đó ơn máy e mình cũng iPhone 6 lại có , như vậy là sao ai",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.327047,
+         "id": "816436",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi mình mua máy tính Acer aspire E5 571 5099 tại TGDĐ giờ mình tìm lại cấu hình máy đó ko thấy. Máy tính mình hơn 1 tháng nay ko dùng được camera vào cứ sáng đèn rồi tắt luôn cho mình hỏi như vậy lỗ gì sửa như thế nào với. Cám ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.306152,
+         "id": "1164168",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, làm sao để cài đặt đc phần mềm đã tải về trên máy Huawei p30 live",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.216223,
+         "id": "1139937",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi tại sao điện thoại của mình ko thể cài hình ảnh người gọi đến full screen đc ạ? Mình dùng sp ip xr ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.207869,
+         "id": "761591",
+         "field_search": "question",
+         "question": " Sao em chụp hình bằng gậy selfie không được vậy, em đang dùng iPhone 6 và camera 360 v7.1.1? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.192228,
+         "id": "1154294",
+         "field_search": "question",
+         "question": "cho mình hỏi IP 7Plus của mình sao tải phần mềm đọc file cad DWG FastView ,nhưng tải trên zalo về nó ko cho đọc,trong khi các máy khác vẫn tải về đọc bình thường.chỗ này là máy bị lỗi IP đúng ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.171286,
+         "id": "764343",
+         "field_search": "question",
+         "question": "  Cho mình hỏi iPhone 5s lỗi camera thì làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.096937,
+         "id": "1142516",
+         "field_search": "question",
+         "question": "A chị ơi cho e hỏi . Em sài nokia2 có nên tải ứng dụg dọn rác về k . Nếu có mình tải úng dụng nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.090042,
+         "id": "766170",
+         "field_search": "question",
+         "question": " Làm sao để tải facebook về ios 6.1 vậy giúp tôi tải về cái ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.089014,
+         "id": "937755",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi sao em ko tải ứng dụng trên appstore dk,cứ load dk 1 tí lại có thông báo ko thể tải về ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.064919,
+         "id": "839973",
+         "field_search": "question",
+         "question": " Bạn ơi cho mình hỏi khóa ứng dụng như facebook hoặc Messenger bằng hình vẽ để mở ứng dụng thì làm như thế bao bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.047209,
+         "id": "1136222",
+         "field_search": "question",
+         "question": "tại sao A7 2018 k đổi đc font chữ mình tải về vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.041672,
+         "id": "967243",
+         "field_search": "question",
+         "question": "Các bạn ai biết giúp mình với -((Ko hiểu làm sao ipad 2 mini nhà mình có đặt id apple mà vẫn ko tải đc ứng dụngMình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.010538,
+         "id": "751066",
+         "field_search": "question",
+         "question": " Bạn ơi cho mình hỏi là sao mình vô nick appstore sao nó nói là bị vô hiệu hoá là sao bạn ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.997359,
+         "id": "1159904",
+         "field_search": "question",
+         "question": "Bạn ơi mình muốn mua máy vivo bu mình có máy dt iphone 6s để đổi máy vivo dk ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.989784,
+         "id": "960411",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình?, mình muốn tạm thời khóa tài khoản facebook trong 14 ngày, sau 14 ngày mình mở khóa tài khoản facebook lại vậy những hình ảnh và video mình đăng lên tài khoản facebook của mình có bị mất hết không ?, cảm ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.951481,
+         "id": "808372",
+         "field_search": "question",
+         "question": " Làm sao có thể tải Facebook về máy trong khi máy bắt xác thực tài khoản giúp mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.949986,
+         "id": "1006311",
+         "field_search": "question",
+         "question": " Mình không tải Facebook về má được ... hệ điều hành ios 10.0.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.949939,
+         "id": "986572",
+         "field_search": "question",
+         "question": "bạn ơi  acer aspire e 14   E547339fn chỉ xài được ram ddr3 l thôi à hay sao mình gắn ddr3 ko chạy đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.940802,
+         "id": "852379",
+         "field_search": "question",
+         "question": "ad ơi mình hỏi nhé.Tại sao ảnh đại diện của bạn mình đã đổi trên facebook rồi mà sao trong messenger lại chưa cập nhật ảnh đại diện vậy ? cho mình cách khắc phục với mình dùng ip 4s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.929612,
+         "id": "1148137",
+         "field_search": "question",
+         "question": "Cách xoá 360 root trên điện thoại samsum  do vô ý tải về mà xoá không được vui lòng giúp dùm mình nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.911038,
+         "id": "761323",
+         "field_search": "question",
+         "question": "Mình mới mua con Xiaomi Redmi Note 3, tải Messenger Facebook về thì không có phần bong bóng chat, mình vào ứng dụng Facebook thì nó không có hiện biểu tượng tin nhắn, chỉ có kết bạn và thông báo thôi, cho mình hỏi để chỉnh lại thì phải làm như thế nào ạ?? Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.895541,
+         "id": "823094",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao máy mình hồi sáng dùng rất ok. Nhưng từ khi chiều đến giờ lại ko vào được facebook còn những ứng dụng kia lại vào bình thường, messanger cũng bị lỗi ko vào được, mình đã tắt nguồn và cài lại cài đặt gốc nhưng ko hề được. Nó hiện lên như này khi mình đăng nhập vào facebook này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.830322,
+         "id": "751104",
+         "field_search": "question",
+         "question": " Lưu ảnh chụp bằng camera 360 vào Ảnh máy iphone 5 như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.823569,
+         "id": "771844",
+         "field_search": "question",
+         "question": " Ban ơi iphone 5s cua mình bị  khóa tai khoản icloud bên bạn có mở đk ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.776503,
+         "id": "823226",
+         "field_search": "question",
+         "question": " Cho mình hỏi sony z3 sau cập nhật lên android 6.0 thì mìh ko vào đc facebook thì là tại sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7735615,
+         "id": "1138765",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone tải chplay đc ko z hay có phần mềm thứ 3 nào để tải ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.772477,
+         "id": "1007156",
+         "field_search": "question",
+         "question": " làm ơn cho xin rom f1s để mình hard reset máy cái,bạn trên web hư link rồi ko tải đc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7057495,
+         "id": "799979",
+         "field_search": "question",
+         "question": "Mình muốn hỏi rằng máy của mình là iphone 3gs nhưng mà khi jaibreak nó cho link tải thì không đc nếu thế giới di đong của mình mà cài jb thì lấy bao nhiêu tiền ạ hoặc là gửi mình link để mình tải về mình tự jailbreak cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6752205,
+         "id": "809272",
+         "field_search": "question",
+         "question": " Bạn ơi tại sao mình ko đọc được bình luận trên zalo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.632212,
+         "id": "1141548",
+         "field_search": "question",
+         "question": "Cho tôi hỏi nếu tôi muốn mua một chiếc điện thoại mà bên bạn ko có thì bên bạn có thể đặt về cho tôi đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.5405035,
+         "id": "824777",
+         "field_search": "question",
+         "question": "Cho e hỏi IP 5s của e khi mở camera 360 lên chụp chưa tới 5p thì máy bị nóng rang lên là sao ạ? Còn khi sử dụng các chức năng khác thì ko bị sao hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.502786,
+         "id": "995703",
+         "field_search": "question",
+         "question": "iPhone 4s của e live treams trên Facebook không quay được camera trc mà chỉ quay đc camera sau.ấn vào nút chuyển đổi camera trc thì nó cứng đơ lại.em đã thử tắt nguồn,xoá app tải lại nhưng vẫn k đc đến khi e xoá iPhone trong cài đặt thì bỗng nhiên tải lại em quay đa camera trc nhưng lúc sau mở lên thì vẫn lại như cũ cứng đơ k chịu đổi camera",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.492916,
+         "id": "928866",
+         "field_search": "question",
+         "question": " choi hỏi iphone 4 có tải video lên facebook đc k và gửi trong messen đc k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.488323,
+         "id": "1158096",
+         "field_search": "question",
+         "question": "Cho mình  hỏi  bạn  mình  ở mỹ  có gửi về việt nam cho mình một cái máy đt j7prime mà  giờ  lắp vào  ko dùng  dc , cho mình hỏi  giờ mình phải làm sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.459513,
+         "id": "765177",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng iPhone 5 khi chụp hình camera trước nó hiện hình của camera sau và đứng im luôn ko chụp được lá bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.391718,
+         "id": "802838",
+         "field_search": "question",
+         "question": "Anh ơi em tải Facebook về rồi nhưng không đăng hình lên Facebook bằng điện thoại nó không có ạ có Facebook mà điện thoại vô hình tải lên không có hiện Facebook anh giúp em với làm cách nào nha?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.379776,
+         "id": "1163297",
+         "field_search": "question",
+         "question": "Ad ơi tại sao em ko tải đc ứng dụng này trên ftios vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.36647,
+         "id": "748546",
+         "field_search": "question",
+         "question": " Máy lumia 640xl có tài được tango về không bạn ơi cho mình biết với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.355795,
+         "id": "1024170",
+         "field_search": "question",
+         "question": " Mình đang sd đt j5 đã tải về chức năng diệt virus sao không mở đc ứng dụng đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.340448,
+         "id": "783839",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi cách tải nhạc về iphone ạ sao em không tải nhạc từ các trang mạng về máy được ạ? Có phải iphone không tải dược nhạc hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.323758,
+         "id": "787344",
+         "field_search": "question",
+         "question": " Các bạn ơi cho mình hỏi iPad minh dag iOS 8.4.1 minh úp lên 9.2.1 máy có ổn ko ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.314798,
+         "id": "1004617",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi sao s7 edge của mình mỗi khi tải ứng dụng về nó hiện ra 2 ứng dụng lận. Mà mình xóa 1 cái thì mất cả 2 luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.313506,
+         "id": "817239",
+         "field_search": "question",
+         "question": "Iphone 6s của mình lúc trước mình cho bạn mượn đăng nhập icloud, và facebook, mình đã thoát icloud của người đó và đăng nhập icloud của mình rồi, facebook cũng là facebook của mình, nhưng khi mình tải các ứng dụng mang tính quốc tế như viber, intagram thì khi mình chọn kết nối facebook thì máy lại kết nối với facebook của bạn mình chứ không phải facebook của mình. Giờ mình làm thế nào để xoá cái facebook kia đi để khi kết nối với các ứng dụng khác thì liên kết với facebook của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

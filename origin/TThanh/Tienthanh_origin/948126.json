@@ -1,0 +1,802 @@
+{
+   "id_query": "948126",
+   "total": 33027,
+   "total_current": 100,
+   "max_score": 68.29905,
+   "origin_question": " Cho mình hỏi mình mới mua Lenovo G4030. máy này có bao nhiêu khe cắm Ram vậy? có nâng cấp Ra được ko? ",
+   "short": "nâng ram máy lenovo",
+   "hits": [
+      {
+         "score": 33.867176,
+         "id": "1140006",
+         "field_search": "question",
+         "question": "Mình có 1 chiếc Lenovo Yoga 500! cho Mình hỏi với là chiếc máy laptop này có thể nâng cấp tối đa Ram là bao nhiêu ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.813873,
+         "id": "1151013",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop Asus X550cc bao nhiêu khe ram vậy? Trước đây thì nghe bảo  1 khe ram + 1 onboad, mà giờ check bằng CPU Z thì thấy 4 khe ram, mở máy ra thì có 1 khe ram đang có 1 thanh ram 4GB. Vậy nếu giờ muốn nâng cấp lên 8GB thì có những phương pháp nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.548717,
+         "id": "846291",
+         "field_search": "question",
+         "question": "Laptop của mình là Asus X454LA Ram 2GB(On board + 1 khe) bus 1600. Giờ mình mua thanh Ram 4GB bền ngoài vào nhờ TGDD nâng cấp lên được không vậy. Máy mình còn bảo hành và hình như loại máy này mình có thể tự nâng cấp không cần đến hãng phải không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.079975,
+         "id": "1159211",
+         "field_search": "question",
+         "question": "mình có mua con loptop dell  ram 4g ddr4 , hai khe cắm, muốn nâng cấp thêm một thanh ram 8g nữa không biết  có đc không ( vì mình không muốn phải mất công nâng cấp nhiều lần  rất tốn kiếm và tốn thời gian loptop của mình full là 16g ram )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.497425,
+         "id": "933905",
+         "field_search": "question",
+         "question": " Mình mua lenovo G40 ở TGDD ko biết ở đây có hỗ trợ nâng cấp ram ko ạ? Ram mình 2Gb muốn nâng lên 4 hoặc 8Gb, đc ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.428474,
+         "id": "1018334",
+         "field_search": "question",
+         "question": "cho mìh hỏi, sao điện thoại Lenovo A5000, mình sử dụng 2 sim ko dc, từ lúc có bản nâng cấp mới nhất. Mình bỏ 1 sim vào khe 1 thì xài được, bỏ vào khe 2 cũng xài được. Nhưng cùng lúc bỏ 2 sim vào 2 khe thì ko xài được sim ở khe 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.37351,
+         "id": "1022714",
+         "field_search": "question",
+         "question": "Tôi muốn mua Laptop model này :https://www.thegioididong.com/laptop/asus-a556ur-i5-7200u-dm398tNhưng do nhu cầu tôi muốn nâng cấp RAM lên 8GB (  có một khe RAM trống có thể dùng để nâng cấp )Vây xin hỏi TGDD có thể giúp gắn thêm 1 thanh RAM 4GB nữa không ? . Gắn xong hết thì tổng giá tiền là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.818663,
+         "id": "1005852",
+         "field_search": "question",
+         "question": "Laptop Lenovo Yoga 900 ram 8 GB có hỗ trợ nâng cấp thêm ram không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.818035,
+         "id": "1005799",
+         "field_search": "question",
+         "question": "Lenovo ThinkPad 13 i7 ram 8 Gb có hỗ trợ nâng cấp thêm ram không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.71506,
+         "id": "1009844",
+         "field_search": "question",
+         "question": "Xin Chào ! cho mình hỏi , mình đang sữ dụng máy ASUS_TOOF . RELEASE 4.4.2 như vậy máy mình có thể nâng cấp lên  Adroid 5.0 hoặc 6.0 được không ạ ?? TGDD có hỗ trợ việc này không ạ ?? và phí nâng cấp là bao nhiêu ạ ?? Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.628666,
+         "id": "801309",
+         "field_search": "question",
+         "question": " Em sử dụng máy ASUS em muốn nâng cấp Ram cho em hỏi Ram 4GB bên công ty là bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.611902,
+         "id": "1005785",
+         "field_search": "question",
+         "question": "Lenovo IdeaPad 710s ram 8Gb có thể nâng cấp thêm được không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.177422,
+         "id": "928855",
+         "field_search": "question",
+         "question": "Laptop Ram 4gb nâng cấp lên ram 8gb bao nhiêu tiền vậy lại TDDĐ nâng cấp được không với cấu hình máy Core i5 2.2ghz Ram 4gb nâng lên 8 Car đồ họa NVidia Geforce 820m ổ cứng 500gb chơi Gta v được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.62588,
+         "id": "961142",
+         "field_search": "question",
+         "question": " Máy tính mình hiện giờ là core2 cpu e6750 ram 1gb . mình muốn nâng cấp ram xin hỏi nên nâng cấp loại ram j ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.535603,
+         "id": "804630",
+         "field_search": "question",
+         "question": " Nâng ram laptop asus len 4gb mất bao nhiêu tiền vậy mà có thể mang đến nâng cấp ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.35029,
+         "id": "785497",
+         "field_search": "question",
+         "question": " Laptop có nâng cấp card đồ hoạ được không vậy , và có nâng cấp ram được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.307106,
+         "id": "1011915",
+         "field_search": "question",
+         "question": "hiện mình đang dùng laptop hp pavilion notebook 4gb ram. cho mình hỏi mình có thể nâng cấp thêm ram được hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.94816,
+         "id": "1154341",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy tính sony vaio SVF 15322SGB có thể nâng cấp ram từ 2 gb thành bao nhiêu gb ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.885592,
+         "id": "806586",
+         "field_search": "question",
+         "question": " Cho em hỏi tgdd có nâng cấp Ram máy tinh được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.788792,
+         "id": "1134790",
+         "field_search": "question",
+         "question": "cho mình hỏi tgdđ có nhận nâng ram cho laptop ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.654598,
+         "id": "1133391",
+         "field_search": "question",
+         "question": "Mình vừa mua con Note 9, mình cắm sạc 3 4 tiếng đồng hồ mà sạc ko đầy được đt, phải rút ra cắm lại mới sạc tiếp được, bỏ sạc qua đêm sáng ra chỉ được 27% pin, rất bực mình. Cho mình hỏi lỗi này mình được đổi máy mới hay ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.476624,
+         "id": "784557",
+         "field_search": "question",
+         "question": "Mình mới mua laptop Hp stream 13 ở thế giới di động ad cho em hỏi là máy này mình có thể nâng cấp ram lên 4gb được không và gắn card màn hình rời nữa cám ơn ad và mong ad reply mình sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.178337,
+         "id": "752576",
+         "field_search": "question",
+         "question": " Mình muốn nâng cấp máy lên Windows 10 TGDD cài bao nhiêu vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.132343,
+         "id": "827170",
+         "field_search": "question",
+         "question": " Ad cho em hỏi có nâng cấp win10 bản quyền cho máy tính ko mua tại thế giới di động không? bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.029705,
+         "id": "899689",
+         "field_search": "question",
+         "question": " Cho e hỏi máy e đang xài là Asus Ram 2g đang chạy win7 nếu nâng cấp lên win8.1 tại TGDĐ khoảng bao nhiêu tiền vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.81459,
+         "id": "1142952",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi, em có mua 1 laptop acer Nitro AN515-51 tại tgdd. Em muốn nâng cấp máy lắp thêm intel optane vào khe m2 thì mất phí bao nhiêu ạ, bên tgdd có hổ trợ nâng cấp không hay phải đến hãng acer ạ? cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.748817,
+         "id": "790983",
+         "field_search": "question",
+         "question": " Mình đang dùng asus X552L ram 2g, mình muốn nâng cấp lên 4g vậy có cần thay ram không? Cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.719143,
+         "id": "1142629",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung glx j5 ram 1.5gb có nâng cấp ram được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.700867,
+         "id": "750711",
+         "field_search": "question",
+         "question": "Máy mình là ASUS P550LD mua ở Thế giới di động, vẫn còn bảo hành. Bây giờ mình muốn nâng cấp Ram lên tại TGDD có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.692854,
+         "id": "1019743",
+         "field_search": "question",
+         "question": " cho mình hỏi bên hàng còn bán iphone SE ko ạ? mà dòng máy này ram bao nhiêu ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.658764,
+         "id": "779808",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop ASUS ram 2gb muốn nâng cấp lên 4gb thì khoảng bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.56071,
+         "id": "830737",
+         "field_search": "question",
+         "question": "ad cho mình hỏi laptop asus x555UJ core i5 6200U sau này muốn nâng cấp ram lên 8/12G dc ko? ổ cứng nâng cấp lên ssd 128G chạy song song cùng Hdd 500cơ của máy dc ko? 5400vongf lên 7200vong hdd? màn hình lên full hd được ko? thanks ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.48481,
+         "id": "892986",
+         "field_search": "question",
+         "question": "Laptop của tui la acer aspire 4749z đàn chạy ram 2gb. Cho tôi hỏi tui có thể nâng cấp lên ram 4gb dc ko? Sau khi nâng cấp lên máy có chạy mượt lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.373056,
+         "id": "1005729",
+         "field_search": "question",
+         "question": "Asus UX360UA ram 8 GB có thể nâng cấp thêm ram được không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.232445,
+         "id": "830216",
+         "field_search": "question",
+         "question": " Mình dùng laptop Hp compaq 435 chạy e350 vga 6310 ram 2 gb vậy mình muốn nâng cấp thì có nâng cấp đc cpu và vga k ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.183445,
+         "id": "989616",
+         "field_search": "question",
+         "question": "Dòng laptop nào có 2 khe RAM , VGA tháo rời được, VGA loại cắm rút như RAM?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.148445,
+         "id": "1151587",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính acer win 7 ultimate, mình muốn nâng cấp lên win 10 bên tgdd có nâng cấp không vậy? Mà máy của mình không mua tại cửa hàng tgdd thì có thể lại của hàng nâng cấp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.100372,
+         "id": "863842",
+         "field_search": "question",
+         "question": " Nâng ram máy tính asus lên được không nếu nâng lên được là tốn bao nhiêu tiền vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.097803,
+         "id": "1147910",
+         "field_search": "question",
+         "question": "Có thể nâng cấp chip cho máy Lenovo yoga 500 bằng cách thay mainboard không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.00651,
+         "id": "812198",
+         "field_search": "question",
+         "question": "Cho hỏi mình mua iPhone 4s mới tháng 1, mình nâng cấp lên iOS 9.3 cho hỏi trước khi nâng cấp máy mình là hệ điều hành iOS 8. mấy nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.802807,
+         "id": "910374",
+         "field_search": "question",
+         "question": "Cho em hỏi Lenovo g400 ram 2gb có thể nâng cấp lên thành 6gb được không hay là chỉ cầm thêm được thanh 2gb nữa vì không cùng dung lượng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.739107,
+         "id": "856180",
+         "field_search": "question",
+         "question": "Chào Mod. Mod cho mình hỏi mình đang dùng IP5 đã jb ios 6.1. Vậy mình có thể nâng cấp lên IOS 8.1 được không, hay phải nâng cấp lên bản IOS mới nhất ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.732943,
+         "id": "807854",
+         "field_search": "question",
+         "question": " Cho em hỏi Acer Z1401C7EK Có nâng cấp ram được không ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.581263,
+         "id": "1154112",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi ạMáy em mới nâng cấp Ram và phải cài lại win 10Khi trước thì em mua ở THDĐ, vậy giờ có được cài lại miễn phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.303495,
+         "id": "1137001",
+         "field_search": "question",
+         "question": "Em có máy Dell Vostro 5470 dòng i7, em muốn nâng cấp ram lên 8Gb hoặc 16Gb. Cho em hỏi là thegioididong có dịch vụ nâng cấp ram không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.289001,
+         "id": "1004785",
+         "field_search": "question",
+         "question": "Laptop Dell XPS 9360 i7 7500U ram 16 GB có thể nâng cấp thêm ram được không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.268751,
+         "id": "1005932",
+         "field_search": "question",
+         "question": "Acer Aspire VX5 591G ram 8 GB có thể nâng cấp thêm ram được không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.262194,
+         "id": "1160760",
+         "field_search": "question",
+         "question": "Laptop dell 5570 ổ dvd máy này có nhận đĩa bluray ko ạNếu ko mình có thể nâng cấp dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.256182,
+         "id": "868354",
+         "field_search": "question",
+         "question": " bạn cho hỏi Intel celeron CPU N 2840 2.16GHz. ram 2G có nâng cấp được lên Ram 4G không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.167812,
+         "id": "794045",
+         "field_search": "question",
+         "question": " Mới mua iphone 5s 16g về thì có bản nâng cấp ios 9.2.1 thì có nên cho nâng cấp lên k vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.082045,
+         "id": "1166093",
+         "field_search": "question",
+         "question": "Mình sử dụng LAPTOP DELL Inspiron 15-3567 được 3 năm muốn nâng cấp máy, từ lúc mua đến giờ chưa sửa chữa, thay mới gì hết. Cho mình hỏi là nếu mình muốn nâng cấp cho máy chạy nhanh hơn thì có thể làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.024433,
+         "id": "865594",
+         "field_search": "question",
+         "question": " em nâng ram bao nhiêu tiền vậy ạ máy tính loại asus ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.023252,
+         "id": "751561",
+         "field_search": "question",
+         "question": " QTV cho em hỏi máy Asus X553MA có bao nhiêu khe ram vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.963615,
+         "id": "844040",
+         "field_search": "question",
+         "question": "lap acer aspire 4739 core i3 380m, mình muốn nâng ram thì mua ram bus tối đa bao nhiêu và dung lượng ram tối đa mà máy hỗ trợ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.908285,
+         "id": "995693",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu mình mua Laptop mới và mún gắn thêm ram thì TGDD có hổ trợ không ạ??Và giá Ram 4GB khoảng bao nhiêu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.850826,
+         "id": "754760",
+         "field_search": "question",
+         "question": "Máy iPhone 4 iOS 6.1.2 thì có thể nâng cấp iOS cao nhất là bao nhiêu? Đưa đến siêu thị thế giới di dộng nâng cấp được không, phí dịch vụ tầm bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.824688,
+         "id": "752519",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là dell 3520 ram ddr3 2G chạy chậm quá.. giờ em muốn gắn thêm thanh 2G hoặc 4G nữa dc ko ạ? máy này có bn khe ram ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.74713,
+         "id": "750982",
+         "field_search": "question",
+         "question": " Máy tính em sao không có khe đút đĩa vào vậy. Em tính kéo RAM bằng đĩa mà không có khe đút nên không kéo được. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.700851,
+         "id": "1005917",
+         "field_search": "question",
+         "question": "Asus G752VS ram 16 GB có hỗ trợ nâng cấp ram thêm không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.689154,
+         "id": "870421",
+         "field_search": "question",
+         "question": " cho em hỏi máy laptop của em thế này có nâng cấp được không?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.623266,
+         "id": "1005746",
+         "field_search": "question",
+         "question": "Laptop Acer Aspire SF514 ram 8 GB có thể nâng cấp thêm ram không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.610764,
+         "id": "1163043",
+         "field_search": "question",
+         "question": "Cho em hỏi dòng laptop asus ram 4gb có nâng cấp lên ram 8fb đc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.582575,
+         "id": "1005780",
+         "field_search": "question",
+         "question": "Laptop HP Envy 13 ram 8 GB có thể nâng cấp ram được không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.48213,
+         "id": "821172",
+         "field_search": "question",
+         "question": "Mình mua laptop Lenovo G470 tại Thế-giới di động, bây giờ máy bị vỡ vỏ, bên mình có hỗ trợ thay vỏ mới k ạ? Giá là bao nhiêu vậy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.475237,
+         "id": "777971",
+         "field_search": "question",
+         "question": " Tự nâng cấp Ram Laptop TP 500lb của mình có bị mất nảo hành không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.434547,
+         "id": "811550",
+         "field_search": "question",
+         "question": "Cho em hỏi là Thế Giới Di Động có hỗ trợ việc nâng cấp ram cho Laptop không ạ.Em đang dùng máy Dell Inspiron 14 3421RAM có sẵn là 2GB em muốn nâng cấp lên, vậy Thế Giới Di Động có hỗ trợ nâng cấp không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.422867,
+         "id": "1005943",
+         "field_search": "question",
+         "question": "Acer Aspire VX5591G70XM ram 8 GB  có hỗ trợ nâng cấp thêm ram không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.393595,
+         "id": "817610",
+         "field_search": "question",
+         "question": "Xin chào.Hiện tại mình có máy dell inspiron 3421.Mình muốn nâng cấp ổ cứng lên ổ SSD và Ram từ 4g -> 8g thì có được không và chi phí sẽ thế nào ạMình cảm ơn những bạn đọc bài này !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.38319,
+         "id": "1005702",
+         "field_search": "question",
+         "question": "Laptop Dell Inspiron 7460 ram 8 GB có thể nâng cấp thêm ram không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.378551,
+         "id": "794053",
+         "field_search": "question",
+         "question": " Mới mua iphone 5s 16g về thì có bản nâng cấp ios 9.2.1 thì có nên cho nâng cấp lên k vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.18855,
+         "id": "806936",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop toshiba l50A có nâng cấp ram hay card đồ hoạ được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.153818,
+         "id": "1005792",
+         "field_search": "question",
+         "question": "Laptop HP Spectre x360 13ac028TU i7 7500U có thể nâng cấp thêm ram được không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.140112,
+         "id": "1157523",
+         "field_search": "question",
+         "question": "cho mình hỏi nâng win 10 mất bao nhiêu tiền vậy ? và mất bao nhiêu tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.063433,
+         "id": "1137333",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, e mới mua asus vivo book s510u, giờ muốn nâng cấp thêm ram thì có mất bảo hành ko ạ, nếu dc thì  đến đâu để thực hiện ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.054256,
+         "id": "913444",
+         "field_search": "question",
+         "question": " Mình muốn nâng cấp ram máy dell imsprison N4110 từ 2G lên 4G được không ạ! Cho mình địa chỉ ở Cao Lãnh dùm ạ!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.038733,
+         "id": "754514",
+         "field_search": "question",
+         "question": " Phiên bản ios cao nhất ipad 2 nâng cấp được là bao nhiêu vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.002657,
+         "id": "782699",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên này có bán sạc Laptop ko?? giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.916422,
+         "id": "757361",
+         "field_search": "question",
+         "question": " Asus Zenfone 6 có thể nâng cấp Ram 2GB lên 4GB không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.907528,
+         "id": "1004776",
+         "field_search": "question",
+         "question": "Dell XPS 9360 512GB có thể nâng cấp thêm ram không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.817928,
+         "id": "995059",
+         "field_search": "question",
+         "question": "Cho em hỏi cửa hàng của mình có thu máy lenovo a2020 lại không.... và nếu thu lại thì giá được bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.807741,
+         "id": "767359",
+         "field_search": "question",
+         "question": "Có thể nâng cấp iPhone 4s (8G) từ 8.3 lên ios 9.2 không? cần dung lượng máy trống là bao nhiêu để cài nâng cấp lên 9.2 ? khi nâng cấp lên máy có nặng hơn không và sau khi nâng cấp lên thì có thế quay về phiên bản cũ được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.768816,
+         "id": "1138594",
+         "field_search": "question",
+         "question": "Bên mình có điện thoại Lenovo z5 không nếu có thì giá bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.73903,
+         "id": "1157387",
+         "field_search": "question",
+         "question": "Mình dùng oppo A37, máy báo nâng cấp lên phiên bản mới. Theo mọi người có nên nâng cấp không ạ?  Phiên bản mới có bị lag không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70957,
+         "id": "1000459",
+         "field_search": "question",
+         "question": "Máy s7 edge black pearl ko có bản nâng cấp androi 7. Thế có cách nào giúp mình nâng lên ko qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.609087,
+         "id": "1151542",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính acer win 7 ultimate, mình muốn nâng cấp lên win 10 bên tgdd có nâng cấp không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.586496,
+         "id": "1015124",
+         "field_search": "question",
+         "question": "e muốn nâng Ram lap từ 2gb lên 4 gb có đc k ạ. e xài lap dell ins N3542, lap có một khe Ram",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.522219,
+         "id": "1005905",
+         "field_search": "question",
+         "question": "Asus GL553VE i7 ram 16 GB có hỗ trợ nâng cấp thêm không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.513252,
+         "id": "834685",
+         "field_search": "question",
+         "question": " Mình mua laptop asus x555U ram 4gb, giờ muốn nâng thêm 4gb nữa là 8gb không biết được không, nếu đc thì giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.459291,
+         "id": "1005661",
+         "field_search": "question",
+         "question": "Dell Inspiron 5767 i5 7200U ram 8 GB có thể nâng cấp lên thêm được không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.447617,
+         "id": "1133385",
+         "field_search": "question",
+         "question": " chào add mình muốn hỏi về nâng cấp ssd và ram của laptop msi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.427153,
+         "id": "796960",
+         "field_search": "question",
+         "question": " Cho em hỏi  laptop Dell inspiron 3421 có nâng Ram được ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.425934,
+         "id": "870909",
+         "field_search": "question",
+         "question": " nâng cấp laptop lên window 10 tốn bao nhiêu tiền ?khi nâng cấp lên window 10 có mất dữ liệu không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.388102,
+         "id": "999357",
+         "field_search": "question",
+         "question": "mình muốn hỏi cách nâng cấp lenovo a850 của mình từ android 4.2.2 lên 6.0 bằng recovery mode",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.374783,
+         "id": "845562",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình mua hp stream 13 ở siêu thị giờ có nhu cầu cần nâng cấp lên window 10 nhưng mình thử nhiều cách và không thành, ổ cứng không đủ để nâng . mình có thể gửi đi bảo hành nhờ họ nâng cấp giúp mình được không, máy vẩn còn bảo hành. sđt 01203836211",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.368631,
+         "id": "996315",
+         "field_search": "question",
+         "question": "cho mình hỏi samsung j5 prime có nâng cấp lên androi 7.0 dc không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.348639,
+         "id": "787231",
+         "field_search": "question",
+         "question": " Cho em hỏi máy tính bản Mobell Tab 8 có nâng cấp hệ điều hành mới được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.297926,
+         "id": "750830",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi máy mình không mua tại Thegioididong.com có dược nâng cấp miễn phí lên Windows 10 hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.282776,
+         "id": "1141332",
+         "field_search": "question",
+         "question": "cho mình hổi máy này pin liền, vậy có vừa sử dụng vừa cắm sạc được không vậy bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.272774,
+         "id": "1014777",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi. Mình mới mua huawei gr5 2017 được 1 tháng. Mình muốn bán lại cho của hàng thì được hoàn tiền bao nhiêu ℅ vậy. Máy mình để lại phụ kiện dùng cho con mate 8 nên chỉ có máy trần",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

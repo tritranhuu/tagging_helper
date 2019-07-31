@@ -1,0 +1,801 @@
+{
+   "id_query": "807815",
+   "total": 33345,
+   "total_current": 100,
+   "max_score": 76.70022,
+   "origin_question": "Cho em hỏi sao em không tải nhạc vào itunes được ạ, em không lồng nhạc ở Vivavideo được em đang sử dụng điện thoại iPhone 6?",
+   "hits": [
+      {
+         "score": 41.93624,
+         "id": "756651",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4 sao không lồng nhạc ở Zingmp3 vào vivavideo hả bạn ? Bạn giúp mình với ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.993843,
+         "id": "783839",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi cách tải nhạc về iphone ạ sao em không tải nhạc từ các trang mạng về máy được ạ? Có phải iphone không tải dược nhạc hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.37127,
+         "id": "831727",
+         "field_search": "question",
+         "question": " Sao iPhone 5c của em Vào zingmp3 tải nhạc không được ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.110176,
+         "id": "777353",
+         "field_search": "question",
+         "question": "Em hỏi máy tính của em đã cài itunes cho iphone của chị em rồi, khi em cắm cáp của điện thoại của em vào thì không nhận được tín hiệu, em muốn chép hình ảnh, nhạc từ máy tính vào điện thoại của em thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.823887,
+         "id": "766326",
+         "field_search": "question",
+         "question": " Em muốn tải nhạc vào iPhone mà sao không tải được vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.432125,
+         "id": "1010225",
+         "field_search": "question",
+         "question": " Tại sao nhạc việt em vẫn tải được còn nhạc nước ngoài em không tải được. Nó báo lỗi như vậy là sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.84198,
+         "id": "996545",
+         "field_search": "question",
+         "question": "Cho em hỏi.. Em đang dùng ĐT Sony Xa khi tải nhạc từ MP3 về máy e đã chuyển nhạc vào file màu sắc những trong nhạc vẫn không có bài hát nào.. Làm sao để chỉnh được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.755547,
+         "id": "784032",
+         "field_search": "question",
+         "question": " Cho em hỏi làm thế nào để chèn nhạc từ zing mp3 vào vivavideo ạ e dùng iPhone 4? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.501484,
+         "id": "825206",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại của em là IPhone 6s. Khi nghe nhạc em quay sang chụp ảnh thì lập tức nhạc tắt. Như vậy em phải vào đâu để chỉnh lại vừa nghe nhạc vừa chụp ảnh được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.2757,
+         "id": "828356",
+         "field_search": "question",
+         "question": " Cho em hỏi em đang sử dụng là iPhone 6 em không truy cập vào Facebook Messenger Youtube được dù Wifi 5 vạch v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.273855,
+         "id": "755142",
+         "field_search": "question",
+         "question": " Cho em hỏi sao iPhone 4 tải nhạc từ zingmp3 thì chỉ được lưu ở zingmp3 thôi không được lưu ở phần Nhạc của máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.927574,
+         "id": "1004591",
+         "field_search": "question",
+         "question": "Cho em hỏi có cách nào để tải nhạc trên itunes store mà không cần máy tính không ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.983942,
+         "id": "781393",
+         "field_search": "question",
+         "question": " Cho em hỏi là em đang dùng iPhone 6 khi vào phần cài đặt   quyền riêng tư lại không thấy có phần nhạc là thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.856747,
+         "id": "1152745",
+         "field_search": "question",
+         "question": "Chào anh/ chị. Em muốn hỏi là điện thoại em đang sử dụng là Samsung A8 Star mà muốn tải Instagram thì bị hiển thị \" điện thoại bạn không sử dụng được phiên bản này\". Em muốn sửa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.777512,
+         "id": "1009824",
+         "field_search": "question",
+         "question": "cho em hỏi cách sử dụng loa robot vivo  em gắn vào dt hay laptop nó đều không phát nhạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.654142,
+         "id": "744970",
+         "field_search": "question",
+         "question": "Acc cho em hỏi. Có cách nào lưu trữ nhạc và nghe nhạc trên iPhone 5s mà k phải trả phí gì không? Hiện tại em đang phải tải ứng dụng zing.mp3 để nghe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.352106,
+         "id": "1164719",
+         "field_search": "question",
+         "question": "Chào adAd Cho em hỏi em đang dùng Con oppo f1s không hiểu sao sáng nay em dậy vào YouTube xem video không có nhạc,em vào zing mp3 cũng không có, vào gọi điện thoại cũng không có Ad cho em hỏi nó bị làm sao vậy ạ Cho em xin cách khắc phục lỗi ạ ° thanh âm lượng vẫn bật lên bật xuống được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.317724,
+         "id": "790352",
+         "field_search": "question",
+         "question": " Cho em hỏi dowload nhạc trên iPhone 4 làm sao vậy em tải mãi mà không đuợc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.17165,
+         "id": "1009727",
+         "field_search": "question",
+         "question": "Ad ơi em đang dùng j7 2016 và khoảng 2 tháng nay zing mp3 lại không tải được nhạc US-UK ạ nhạc Việt thì vẫn tải bình thường được ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.17079,
+         "id": "796527",
+         "field_search": "question",
+         "question": "Em tải nhạc từ zingmp3 vào điện thoại samsung J7 mà không biết vào chô nào để mở file vừa tải. Mà cũng không biết nó tải vào đâu nữa giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.16663,
+         "id": "815816",
+         "field_search": "question",
+         "question": "Máy của em là Iphone 5 mà sao tải phần mềm cài nhạc chuông lại không được khi tải xong vào cài thì hiện lên như kiểu là Win ở máy tính không chạy được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.918177,
+         "id": "767249",
+         "field_search": "question",
+         "question": "  Tại sao em không nghe phát âm thanh được loa ngoài khi vào nghe nhạc cho điện thoại Oppo Neo 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.453966,
+         "id": "1017798",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: điện thoại của em oppo a37f vào CH play tải ứng dụng thì không tải được. Nó toàn nhấp nháy \"Đang tải xuống \" Đang chờ mạng\" nhưng không tải được. Em ra thử tải trên chrome cũng không được. Mong ad giúp em cách khác phục. Em cảm ơn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.43167,
+         "id": "986166",
+         "field_search": "question",
+         "question": "Em mua đt cách đây hơn 1 tuần nhưng sao em không tải nhạc từ zing được ạ y",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.276989,
+         "id": "1163093",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sao em không bật được nhạc nó lại hiên thế này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.144876,
+         "id": "808358",
+         "field_search": "question",
+         "question": " Tại sao em không thể xóa được nhạc trên Mp3 của điện thoại oppo joy r1001 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.92492,
+         "id": "769123",
+         "field_search": "question",
+         "question": " cho em hỏi là sao máy tính em mở nhạc loa lại không nghe được vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.876377,
+         "id": "1008606",
+         "field_search": "question",
+         "question": "Add cho em hỏi phát nhạc của điện thoại asus zenfone Go ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.874794,
+         "id": "998233",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung galaxy j2 prime của em tải nhạc trên mp3 về sau đó di chuyển hết vào thẻ nhớ mà sao khi vào phần nhạc chuông để cài nhạc từ bpoj nhớ trong lại ko có bài hát nào hết v :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.71756,
+         "id": "1154826",
+         "field_search": "question",
+         "question": "xin cho em hỏi em đang xài điện thoại redmi6 đang sử dụng wifi hôm qua được, sao tự nhiên hôm nay lại không bắt được sóng wifi luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.462652,
+         "id": "999862",
+         "field_search": "question",
+         "question": "Em không xoá được nhạc trong mp3!! Tải về là xoá không đư...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.331501,
+         "id": "992195",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi iPHONE 5s khi tải zing.mp3 về không nge và tải được nhạc và báo lỗi -102? anh chị cho e cách khắc phục ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.293407,
+         "id": "1134607",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.293407,
+         "id": "1134606",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.213459,
+         "id": "761136",
+         "field_search": "question",
+         "question": "Em đang sài iphone 3G mà sao em không tải được ứng dụng trên Apple Store thế ạ, lúc em nhập gmail vào thì nó ghi là không chính xác mà sao em vẫn vào google được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.13938,
+         "id": "1021599",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại mở nhạc không lên tiếng, gọi không nghe được gì hết. Như vậy thi bị gì thế ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.083435,
+         "id": "903379",
+         "field_search": "question",
+         "question": "em cài nhạc chuông cho 6s. tại sao khi đồng bộ hóa itunes đã báo thành công nhưng trong iphone lại không tìm thấy bản nhạc chuông ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.060432,
+         "id": "1021199",
+         "field_search": "question",
+         "question": "tôi sử dụng điện thoại oppo f3, lúc trước tải nhạc mp3 về vẫn lưu trên máy bình thường, nhưng bây giờ không lưu được, vậy làm sao khắc phục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.037308,
+         "id": "999998",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi e đang sử dụng điện thoại samsung j5 prime. Khi tải ứng dụng ở CH play thì tải về máy nay em mún tải về thẻ nhớ thì cài đặc sao ạ mong ad giúp đở em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.965057,
+         "id": "779892",
+         "field_search": "question",
+         "question": " Em mua iphone 6s plus  ở TGDD em muốn tải nhạc chuông vậy bên mình có hỗ trợ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.76768,
+         "id": "1159300",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi, em mới vừa mua con Huawei Y9 ở TGDD, em sử dụng wifi nhà để tải ứng dụng trên CH Play thì nó cứ báo \"chờ tải xuống\" còn nếu sử dụng wifi phát từ điện thoại khác thì lại tải được, vậy mình khắc phục sao ạ, em cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.732702,
+         "id": "1167632",
+         "field_search": "question",
+         "question": "Em đang ở nhật đang sử dụng ssa7 nhưng không phải được ứng dụng của nhật .lúc nào cũng giới hạn quốc gia ..làm sao em tải được mong ad giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.693815,
+         "id": "1006135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sao em không nhận được mail trên điện thoại ạ,em đang xài iphone 5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.573742,
+         "id": "850808",
+         "field_search": "question",
+         "question": " Em muốn chuyển các bài hát tải về từ ứng dụng Zing MP3 vào thư mục nhạc của máy iphone 4, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.570894,
+         "id": "1013451",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại em sao kết nối được với wifi mà không sử dụng được ạ ? Em đã rest lại wifi mà vẫn vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.558146,
+         "id": "1164860",
+         "field_search": "question",
+         "question": "Dạ điện thoại của em khi đang nghe nhạc thì hay bị dừng. Cho em hỏi cách khắc phục ạ. Điện thoại của em là samsung a50",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.546135,
+         "id": "1020244",
+         "field_search": "question",
+         "question": "anh ơi , sau điện thoại của em 1-2 tuần lại không vào được youtube hay google ạ, em xóa ứng dụng rồi tải về vẫn không vào dc. em cài đặt lai thì dùng được 1 hay tuần lại bị lại .. em đang dùng iphone 6s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.508602,
+         "id": "1155600",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của tôi không tải được youtube official, lúc đầu điện thoại đã có sẵn youtube go, em sử dụng SSJ4C",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.383772,
+         "id": "763753",
+         "field_search": "question",
+         "question": "Em tạo id apple bằng máy tinh khi đăng nhập vào điện thoại thì nó hiệnid apple này chưa được sử dụng trước đây ở itunes store cần xem xét...Giờ em làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.298178,
+         "id": "738169",
+         "field_search": "question",
+         "question": " Ứng dụng play âm nhạc khi mở lên thì không phát nhạc cho em hỏi máy bị làm sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.281713,
+         "id": "783634",
+         "field_search": "question",
+         "question": "Cho em hỏi là muốn đồng bộ iphone với itunes trên nhiều máy tính có được không. Kiểu cắm iphone vào máy tính khác để copy thêm nhạc hoặc phim mà khi đồng bộ không bị xóa những cái cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.239008,
+         "id": "931511",
+         "field_search": "question",
+         "question": "ad cho em hỏi, em mới đổi qua điện thoại khác và em lấu icloud cũ của em đăng nhập vào máy. Nhưng sao em ko tải ứng dụng được trên app store vậy ạ ? nó cư để là đang chờ mà không tải xong, chỉ giúp em, tk ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.22471,
+         "id": "819863",
+         "field_search": "question",
+         "question": " Em đang dùng iphone 5s 16g. Hôm nọ máy em bị đứng, còn giờ thì không sử dụng được chức năng điện thoại nữa ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.18664,
+         "id": "1157737",
+         "field_search": "question",
+         "question": "Làm sao để chuyển nhạc ở bộ nhớ trong của điện thoại qua thẻ nhớ được ạMấy của em là máy oppo f1a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.17626,
+         "id": "1159027",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6 plus mà tải mess không được, người ta bảo em phải đăng nhập vào iTunes store (mật khẩu id Apple) nhưng tài khoản Apple này bị khoá và em không nhớ lần đăng nhập, có thể giúp em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.14456,
+         "id": "787228",
+         "field_search": "question",
+         "question": " Em đang dùng Mobiistar Lai Zumbo sao không cài được nhạc chuông sim 2 vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.041803,
+         "id": "1137212",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em iphone 6 plus cứ dô zalo, youtube không được, bị văng ra miết là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.008574,
+         "id": "1139261",
+         "field_search": "question",
+         "question": " cho em hỏi..em muốn mua điện thoại trả góp và đang dùng thẻ agribank vậy có thể sử dụng dịch vụ này được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.962214,
+         "id": "1153632",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang sử dụng samsung j7 pro. em tải hình ảnh từ google về máy nhưng khi em vào file mở thư mục tải về ra thì không xem được ảnh. Em đã thử tải lại và khởi động lại máy vẫn không mở được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.93196,
+         "id": "821671",
+         "field_search": "question",
+         "question": "Ad có thể cho mình xin đường link tải Itunes mà để cài nhạc chuông cho máy được không ? Cái Itunes trên http://www.apple.com/itunes/download/ này mình dow về nhưng không thể kéo bài hát vào album nhạc được . Thử trên 3 laptop vẫn k đc trong khi ông a làm trên PC thì lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.905806,
+         "id": "782541",
+         "field_search": "question",
+         "question": " AnhChị cho em hỏi bên mình còn điện thoại iphone 6 64GB đã qua màu xám đã qua sử dụng còn hàng không ạ. em cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.861378,
+         "id": "991627",
+         "field_search": "question",
+         "question": "máy tính acer của em tự nhiên không nghe được được nhạc. em phải làm sao ạ. máy wim 10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.817884,
+         "id": "1163931",
+         "field_search": "question",
+         "question": "Cho em hỏi con xiaomi note 6 pro mỗi khi nghe nhạc, xem phim thì nó phát nhạc  bằng 2 loa ở bên dưới máy đúng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.785173,
+         "id": "816469",
+         "field_search": "question",
+         "question": "Mình mới mua Iphone 6, nhưng thời gian gấp nên chưa kịp yêu cầu thegioididong hỗ trợ cài nhạc chuông. Admin cho mình hỏi mình muốn cài nhạc chuông bằng itunes nhưng ko thể truy cập itunes được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.72538,
+         "id": "747554",
+         "field_search": "question",
+         "question": "Tình hình là em mới mua dt iphone 6s plus được 7 ngày và tải combat 5 về chơi vào chiếc được chút là bị yêu cầu kết nối lại. Còn loa điện thoại em nge nhạc nge bị rè rè?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.70523,
+         "id": "746122",
+         "field_search": "question",
+         "question": " Mình đang sử dụng iPad 4 Mình muốn hỏi làm Sao chèn nhạc vào viva video ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.685612,
+         "id": "883733",
+         "field_search": "question",
+         "question": "Cho em hỏi là, em mua laptop đăng kí số điện thoại bảo hành, giờ số đó bị khóa em không sử dụng dụng được nữa giờ em có thể đổi số điện thoại bảo hành lại số khác được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.662798,
+         "id": "1165264",
+         "field_search": "question",
+         "question": "Em sử dụng điện thoại oppo , mà không hiểu sao youtube không sử dụng được nữa , bấm vào thì để cập nhật nhưng khi cập nhật thì k được , hiện tại youtube trong máy không sử dụng được ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.58494,
+         "id": "1002992",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải nhạccuatui về nhg khi mở nhạc thì nó k hiện ở trên nên mỗi lần muốn chuyển bài thì em phải vào lại ứng dụng vậy có cách nào cho nó hiển thị lên k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.506739,
+         "id": "788562",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 5 của em khi tải ứng dụng từ AppVn về thì hiện lên cầu \"Không thể tải ứng dụng về vào lúc này\" phải làm sao mới tải về được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.429943,
+         "id": "1141561",
+         "field_search": "question",
+         "question": "Sao em không đăng nhập vào iTunes  App store được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.382687,
+         "id": "1019926",
+         "field_search": "question",
+         "question": "E đang dùng điện thoại ASUS tải nhạc trên zing mp3 về nhưng lại không có trong album nhạc . bh e phải làm ntn để có nhạc trong album ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.260296,
+         "id": "825395",
+         "field_search": "question",
+         "question": "em muốn chuyển nhạc đã tải trên app zing mp3 vào phần nhạc của iphone thì phải làm thế nào ạ ?máy của e là iphone 5s ios 9.3.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.233965,
+         "id": "783890",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi làm sao để tải nhạc trên iPad Air 2 ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.185469,
+         "id": "765196",
+         "field_search": "question",
+         "question": "Em mua  trả góp máy iphone 6 plus 64GB 21.590k, em sử dụng được 2 ngày bây giờ em không muốn sử dụng em bán lại thì em lỗ như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.0695,
+         "id": "814381",
+         "field_search": "question",
+         "question": "Cho em hỏi là mua điện thoại đã qua sử dụng thì có được mua trả góp không ạ??? Em muốn mua 1 cái iphone 4s tại Trà Vinh ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.056532,
+         "id": "1006452",
+         "field_search": "question",
+         "question": "Cho em hỏi, em đang dùng máy sony XA, hai ngày nay tự dưng máy không phát được nhạc hay video ở trên tất cả các ứng dụng, mặc dù mạng wifi ổn định. lỗi này sửa kiểu gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.98181,
+         "id": "876211",
+         "field_search": "question",
+         "question": " Có cách nào chuyển nhạc từ zing vào iPhone để xài Vivavideo k ạ , cách đơn giản nhất ấy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.935396,
+         "id": "745560",
+         "field_search": "question",
+         "question": "em dùng itools để cắt nhạc xong, save vs import vào ip roi nhưng tại sao khi mở phần system sounds ở device ra vẫn không thấy nhạc em đã cắt a?​​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.826864,
+         "id": "923227",
+         "field_search": "question",
+         "question": "Em bật 3g để lên zing tải nhạc, khi tìm được nhạc ấn tải thì được báo là máy chưa cài đặt phần bật 3g để tải nhạc trong khi đó e đã bật rồi, mn cho e ý kiến với( zing bản cập nhập mới nhất trên iphone )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.822699,
+         "id": "774239",
+         "field_search": "question",
+         "question": " Ad ơi tải nhạc làm nhạc chuông ở iPhone 5s thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.794664,
+         "id": "767545",
+         "field_search": "question",
+         "question": " add hướng dẫn mình tải nhạc cho iPhone qua iTunes đc ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.71872,
+         "id": "1022608",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi điện thoại cảm ứng mà mình tải ứng dụng quét rát trên CH play mà mình sử dụng lâu ngày có làm hai điện thoại mình hay không,em đang dùng galaxy j7 pro ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.664404,
+         "id": "1146386",
+         "field_search": "question",
+         "question": "cho em hỏi là sao IG của em không thấy chỗ chèn nhạc vào story ạ, em lấy tài khoản khác vẫn chèn được , nhưng tài khoản chính của em không được mặc dù là em có xóa rồi tait lại IG , đăng xuất ra rồi vào lại vẫn k thấy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.657618,
+         "id": "800578",
+         "field_search": "question",
+         "question": " Chào ad, cho em hỏi cách tải nhạc về samsung j5 để cài nhạc chuông như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.637762,
+         "id": "1162086",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng Nokia 6, em có làm rơi điện thoại và bây giờ cái lỗ cắm tai nghe  trên điện thoại nó bị hỏng ( không cắm được tai nghe vào nữa ). Vậy em muốn hỏi cái lỗ cắm đó có thể sửa chữa hoặc thay thế được không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.619747,
+         "id": "1139274",
+         "field_search": "question",
+         "question": "cho em hỏi..em muốn mua trả góp điện thoại oppo f7 youth và đang dùng thẻ agribank ( success) vậy có thể sử dụng dịch vụ này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.596716,
+         "id": "1142220",
+         "field_search": "question",
+         "question": "chào anh/chị ạEm đang sử dụng laptop dell mà không biết sao mà em không thể lên store của máy để tải ứng dụng về được ạ. Khi mở ứng dụng thì nó lại mở link vào internet explorer và không thể nào tải được ứng dụng . Mong anh/chị giúp em sửa lỗi máy vs ạ. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.585983,
+         "id": "735954",
+         "field_search": "question",
+         "question": " Cho e hỏi lm sao để tải ứng dùg tải nhạc cho ios6 có ứng dụng gì không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.57776,
+         "id": "1008176",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang sử dụng máy J7 2016 . Gần đây khi đang nghe nhạc hay xem video tren youtube thì tự nhiên máy mở các ứng dụng trên chplay tại sao lại có tình trạng như vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.55063,
+         "id": "801605",
+         "field_search": "question",
+         "question": "Làm phiền anh chị ! cho em hỏi cách di chuyển nhạc từ ''Nhạc của tui '' sang ứng dụng ''Nhạc'' cua iPhone 4? để đặt báo thức.CẢM ƠN",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.534142,
+         "id": "1169243",
+         "field_search": "question",
+         "question": "cho e hỏi iphone X em mới mua tầm được 2 ngày mà em để điện thoại qua đêm không xài mà pin tuột tới 6% vậy có sao không ạ.!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.528376,
+         "id": "1144349",
+         "field_search": "question",
+         "question": "em lỡ xoá nhạc mà không biết ở đó lưu cả phần ghi âm nên nhiều thứ quan trọng bị mất em phải làm sao để khôi phục ạ (điện thoại oppo ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.528303,
+         "id": "782378",
+         "field_search": "question",
+         "question": "Hiện em đang muốn sử dụng phần mềm Shou dành quay màn hình điện thoại nhưng khi vào thì nó bắt con LG G2 của em phải root điện thoại. Như vậy có còn cách nào khác để sử dụng Shou không hay em phải root điện thoại. Ở thế giới di động có hỗ trợ root máy không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.516333,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.45669,
+         "id": "768657",
+         "field_search": "question",
+         "question": "Ad cho em hỏi hiện em đang dùng điện thoại iPhone 5 em muốn đổi điện thoại nhưng em lại sao chép số danh bạ không được, ana chị giúp giùm em với, em cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.39635,
+         "id": "1152771",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 6, pin vẫn còn đầy nhưng máy tự khởi động lại và sạc không vào, mở lên dùng được khoảng 1p thì lại tiếp tục tự khởi động lại máy. Cho em hỏi là như thế là điện thoại em bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.392096,
+         "id": "813625",
+         "field_search": "question",
+         "question": "Cách cài nhạc chuông trên iphone 6 như thế nào ah. khi em tải itune về thì giao diện không có phần tones như hướng dẫn là sao ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.377544,
+         "id": "991387",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone 4 không nghe được nhạc hay vào youtobe xem không nghe được tiếng nhưng chuông gọi đến vẫn đổ và kêu bình thường thì bị lỗi gì và cách khác phục em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

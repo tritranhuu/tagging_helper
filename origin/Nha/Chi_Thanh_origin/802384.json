@@ -1,0 +1,801 @@
+{
+   "id_query": "802384",
+   "total": 33150,
+   "total_current": 100,
+   "max_score": 92.4919,
+   "origin_question": "Anh (chị) cho em hỏi. Em muốn mua laptop để học và lưu tài liệu, có hổ trợ ổ đĩa DVD. Thế em nên chọn loại mấy như thế nào ạ",
+   "hits": [
+      {
+         "score": 51.38402,
+         "id": "894081",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng Laptop Hp 15 core i3/5005u/4Gb có hổ trợ ổ DVD Super Multi Double, với ổ đĩa như thế em có thể dùng được những loại đĩa nào, cho hỏi thêm laptop của em có hổ trợ ghi đĩa không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.305065,
+         "id": "1017063",
+         "field_search": "question",
+         "question": "cho em hỏi cách mở ổ đĩa dvd của máy ES1533P7AP như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.15732,
+         "id": "1017076",
+         "field_search": "question",
+         "question": "Cho em hỏi, có nên mua lap top không có ổ đĩa quang DVD không? em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.54024,
+         "id": "797553",
+         "field_search": "question",
+         "question": " tại sao laptop em mua hãng dell lại không có ổ đĩa DVD ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.812634,
+         "id": "922780",
+         "field_search": "question",
+         "question": " Mình cần mua laptop tầm 8 tr phục vụ cho việc học tiếng anh của em gái. Không biết mình nên chọn loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.620434,
+         "id": "753449",
+         "field_search": "question",
+         "question": " Em là sinh viên và học ngành quản trị kinh doanh . anh chị có thể cho em biết mình nên mua máy tính loại nào không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.54501,
+         "id": "768091",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua nhưng tại sao ổ đĩa DVD  ..lúc mình bỏ đĩa vào nó lên hình nhưng không có tiếng là sao ạ..giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.739895,
+         "id": "1015574",
+         "field_search": "question",
+         "question": "Mấy anh , mấy chị cho e hỏi . Em muốn tìm một chiếc điện thoại tầm giá 5tr′↓  đễ chơi liên quân mobile và ứng dụng mạnq xã hội thì em nên chọn mua điện thoại nào ạ ! 😘😘",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.417025,
+         "id": "1141525",
+         "field_search": "question",
+         "question": "Dạ anh cho em hỏi. em có mua một máy laptop ở thế giới di động, giờ em muốn nâng cấp ổ ssd m2 sata thì các anh có thể hỗ trợ em việc lắp ổ ssd được ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.353586,
+         "id": "830433",
+         "field_search": "question",
+         "question": " cho em hỏi laptop asus k43e vx113 cần chọn ổ cứng 500gb như thế nào phù hợp buss ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.8388,
+         "id": "923365",
+         "field_search": "question",
+         "question": "Xin chào. Tôi đang sử dụng macbook pro 2008. Tôi bị hư ổ đĩa dvd và tôi muốn sử dụng ổ đĩa rời để đưa đĩa vào cài win cho macbook có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.433224,
+         "id": "1018425",
+         "field_search": "question",
+         "question": "Chào Anh/Chị!Dạ điện thoại của em bị rớt và viền kim loại bị trầy và móp. Em muốn thay viền kim loại thì phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.331032,
+         "id": "1131686",
+         "field_search": "question",
+         "question": "Anh/chị ơi em muốn thay ổ đĩa sản phẩm nàyhttps://www.thegioididong.com/laptop/acer-aspire-e5-575g-53ec-i5-7200uBằng ổ cứng ssd thì nên sử dụng caddy bay 9.5mm hay 12.5mm ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.19329,
+         "id": "773127",
+         "field_search": "question",
+         "question": "Qtv ơi làm như thế nào để mở đĩa dvd trên laptop vậy,tôi bỏ đĩa vô rồi mà không có hiện cái gì hết, xin hướng dẫnCảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.039581,
+         "id": "798270",
+         "field_search": "question",
+         "question": " Anh tư vấn giùm em , em có 5tr muốn mua laptop để chơi lm nên dùng máy loại nào vậy a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.651184,
+         "id": "1001626",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi tý ạ.Em có nhu cầu mua https://www.thegioididong.com/laptop/dell-vostro-3568-i7-7500uNhưng muốn gắn thêm ổ SSD 240 GB và Nâng cấp Ram 4GB lên Ram 16 GB thì giá sẽ thay đổi thế nào ạ. Anh/chị báo lại giá đã có VAT giúp em nhé.Em cảm ơn anh/chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.457535,
+         "id": "768514",
+         "field_search": "question",
+         "question": "Qtv ơi cho em hỏi. Em dùng IPhone em muốn lưu ảnh, video vào tài khoản Google được không ạ. Và làm cách nào mong anh chị trả lời dùm em. Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.233202,
+         "id": "750863",
+         "field_search": "question",
+         "question": "Anh cho em hỏi cài windows 10 mất dữ liệu trên ổ đĩa nào vậy anh và có mất ứng dụng trên máy không. hiện tại em đang dùng laptop asus hệ điều hành windows 7 ultimate không bản quyền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.166655,
+         "id": "994536",
+         "field_search": "question",
+         "question": "Chào anh chị em muốn mua cái ASUs zenphone 3 loại 5tr mấy mà mua trả góp anh chị có thể hướng dẫn cho em ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.04084,
+         "id": "1023062",
+         "field_search": "question",
+         "question": "Mình là sinh viên đang học xây dựng? Muốn mua laptop để học thì nên mua loại nào tầm giá từ 1015,5 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.842255,
+         "id": "1016394",
+         "field_search": "question",
+         "question": "QTV cho em hỏi hiện tại em đang muốn mua 1 thiết bị hỗ trợ cho việc học ( chủ yếu về học phát âm tiếng anh tại trung tâm ) , em đang phân vân giữa 3 thiết bị : điện thoại , ipad hay laptop , thì theo QTV em nên xài loại nào là phù hợp nhất hiện tại em đang học lớp 10 . giá khoảng 10tr trở xuống ạ . thanks !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.734535,
+         "id": "1134675",
+         "field_search": "question",
+         "question": "Chào Anh/chị..hiện tại em muốn mua điện thoại giá từ 6 triệu đến 8 triệu,mà em không biết nên mua loại nào xài cho tốt em mong anh/chị tư vấn giúp em với ạ..em cám ơn anh/chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.719326,
+         "id": "898732",
+         "field_search": "question",
+         "question": " em cần mua 1 laptop dùng bền trong 4 năm học thì em có nên chọn laptop acer hay không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.691406,
+         "id": "1156572",
+         "field_search": "question",
+         "question": "dạ em chào anh chị ạ, em đang dùng loại lap dell vostro i5 3568, em muốn nâng cấp ram thì nên dùng loại ram nào ạ? và giá thành của từng loại am ntn để em tham khảo ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.50673,
+         "id": "848940",
+         "field_search": "question",
+         "question": "acer E5-473-30VS có chỗ nhét đĩa DVD không ạ?Laptop của em là dòng máy như vậy nhưng không hề có chỗ nhét DVD , liệu có phải lỗi do nhà sản xuất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.422943,
+         "id": "1002669",
+         "field_search": "question",
+         "question": "Em cần mua một laptop dưới 8 triệu vừa có thể học tập vừa chơi game cầu hình cao như Liên Minh.. thì em nên chọn máy nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.422699,
+         "id": "970122",
+         "field_search": "question",
+         "question": "Laptop em mới mua trước tết em thấy máy chỉ có 1 ổ đĩa nên em đã xem có một ổ bị khóa nên không mở được.giờ em đi mở có được bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.144503,
+         "id": "1001734",
+         "field_search": "question",
+         "question": "Mình muốn tư vấn mua 1 laptop học lập trìnhTầm giá: 10-->15trRam: có thể nâng cấpỔ cứng: nếu có cổng m2 càng tốt ko có thì phải có ổ đĩa quang.Mong anh chị tư vấn cho :D",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.01349,
+         "id": "827127",
+         "field_search": "question",
+         "question": " Cho em hỏi thay ổ đĩa cứng cho laptop thì hết bao nhiêu tiền ạ? Và khi thay thì có bị mất hết dữ liệu không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.949383,
+         "id": "849688",
+         "field_search": "question",
+         "question": "Em muốn học lập trình và em định mua 1 chiếc laptop rẻ thôi vì nhà nghèoanh/chị có thể tư vấn cho em laptop nào hỗ trợ tốt việc lập trình không ạvà cấu hình tối thiểu cho việc lập trình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.935892,
+         "id": "1143337",
+         "field_search": "question",
+         "question": "tgdd ơi cho em hỏi tình hình ổ đĩa của em như thế này không phân vùng đc em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.881582,
+         "id": "791087",
+         "field_search": "question",
+         "question": " Anh hay chị cho em hỏi làm thế nào để tải ứng dụng gọi video trên laptop ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.869837,
+         "id": "916690",
+         "field_search": "question",
+         "question": " em cần mua laptop có thể lướt web đọc báo ,học online,xem video thì nên mua loại nào dưới 10tr ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.835348,
+         "id": "749220",
+         "field_search": "question",
+         "question": "Chào anh chị...em hiện đang dùng iphone 5s nhưng không biết phải copy nhạc, video từ laptop sang iphone như thế nào. Lúc trước tìm hiểu trên mạng thấy người ta dùng phần mềm itunes, em đã thử nhưng không được. Mong anh chị hổ trợ giúp em vấn đề này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.727024,
+         "id": "924251",
+         "field_search": "question",
+         "question": " Chị ơi máy tính em là loại acer trên máy tính có ổ đĩa nhưng e không mở được,phải làm sao ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.69679,
+         "id": "1139320",
+         "field_search": "question",
+         "question": " Em có nhu cầu mua laptop từ 15 triệu trở xuống mà cân bằng vừa học vừa chơi thì nên chọn mua máy nào ạ?Em cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.674072,
+         "id": "1143098",
+         "field_search": "question",
+         "question": "e muốn mua laptop macbook có đồ họa cao tiện cho học ngành công nghệ oto thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.607033,
+         "id": "886978",
+         "field_search": "question",
+         "question": " Em cần mua 1 con laptop vừa học vừa chơi game tầm 20tr không biết nên mua loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.583767,
+         "id": "788282",
+         "field_search": "question",
+         "question": " Cho mình hỏi làm cách nào để cho ổ DVD trog laptop chạy được, mình đã bỏ đĩa vào nhưg nó k đọc đc tập tin trog đó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.521566,
+         "id": "1013442",
+         "field_search": "question",
+         "question": "Máy em là w mobile e10 ko có sao lưu dữ liệu ứng dụng nên em tải easy backup để sao lưu. Dùng như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.493128,
+         "id": "1012752",
+         "field_search": "question",
+         "question": "Máy em là w mobile e10 ko có sao lưu dữ liệu ứng dụng nên em tải easy backup để sao lưu. Dùng như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.309982,
+         "id": "1141160",
+         "field_search": "question",
+         "question": "xin chào anh/chị! cho em hỏi cách khôi phục touchpad trên laptop dell inspiron 3576 như thế nào ạ? vì em lỡ tay Uninstall ứng dụng đó nên không biết làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.165087,
+         "id": "573535",
+         "field_search": "question",
+         "question": " Cách chia ổ đĩa phân vùng trên Win không làm mất dữ liệu bằng Acronis Disk Director Suite 10 như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.143513,
+         "id": "764485",
+         "field_search": "question",
+         "question": " Cho em hỏi Em muốn laptop dưới 10 triệu, có thể sử dụng phần mềm photoshop cs4 và corel x5, vậy em nên mua loại nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.089022,
+         "id": "1139437",
+         "field_search": "question",
+         "question": " cho em hỏi giữa máy vsmart joy 1 và realmi c1 thì loại nào tốt hơn để tải các ứng dụng hỗ trợ học tập và chụp hình ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.996126,
+         "id": "1141284",
+         "field_search": "question",
+         "question": "em là học sinh muốn mua điện thoại mới xài tết tầm giá 23tr có tai thỏ và chơi game mượt thì nên chọn máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.913988,
+         "id": "993365",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi: Ổ cứng HDD máy tính em có dung lượng 500GB, thì chia ra ba phân vùng thế nào cho hợp lý ạ? Em cám ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.910538,
+         "id": "752923",
+         "field_search": "question",
+         "question": "Em muốn tìm một laptop dùng cho việc học và đồ họa, thương hiệu Dell hoặc Asus (hoặc dòng máy nào ít nóng), cấu hình khá, pin 4 cell (hoặc hơn thì tốt), màn hình cỡ vừa phải hiển thị tốt (ưu tiên 14 inch cho nhỏ gọn), có ổ đĩa quang, RAM 4gb trở lên, tốc độ xử lý nhanh, loại RAM DDR3, chip Intel core i5 trở lên. Mong anh chị tư vấn giúp em ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.785944,
+         "id": "750721",
+         "field_search": "question",
+         "question": "Anh (chị) cho em hỏi! Em là sinh viên và em đang cần mua gấp laptop để phục vụ cho việc học tập ( bản vẽ chi tiết, thiết kế) và giải trí (chơi game online, lướt web, game nặng). em nhớ anh(chỉ) tư vấn giùm em laptop phù hợp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.759594,
+         "id": "797243",
+         "field_search": "question",
+         "question": " Làm sao để mở ổ đĩa laptop dell đây khi nó chẳng có nút, phải làm thế nào?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.600716,
+         "id": "929861",
+         "field_search": "question",
+         "question": "Nình muốn mua 1 laptop để học tập cũng như chơi các game vừa mình nên chọn máy nào trong khoảng 10tr có cảm ứng trên 14inch chip i3/i5càng tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.502096,
+         "id": "894417",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi. Máy laptop asus mới mua khi tắt máy để cập nhật và tắt máy, em chọn cập nhật và tắt máy sao lâu quá vậy. Em xảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.434744,
+         "id": "770971",
+         "field_search": "question",
+         "question": " Em là 1 học sinh lớp 12, em muốn mua iPhone 5S 8tr4 trả góp thì cần có những giấy tờ gì và trả góp như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.379805,
+         "id": "761787",
+         "field_search": "question",
+         "question": "Laptop asus của em bị hư ( chắc là lỗi hệ thống) không khởi động được, qtv cho em hỏi dữ liệu trong hai ổ đĩa D và E có bị mất không và nếu em mua máy mới thì có cách nào chuyển dữ liệu từ máy bị hư này sang máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.373806,
+         "id": "808405",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop acer aspire E 14 ES1411P43Q mở ổ đĩa bằng cách nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.307322,
+         "id": "1004456",
+         "field_search": "question",
+         "question": "Cho em hỏi có laptop 1214 inch, có ổ đĩa giá rẻ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.262331,
+         "id": "1139422",
+         "field_search": "question",
+         "question": "Em sử dụng oppo f7, em mở lưu trữ đám mây (ảnh). Khi em tắt lưu trữ đám mây đó thì sẽ như thế nào ạ ? Và khi em xoá dữ liệu ảnh mà không xoá ảnh trong máy thì sao ạ ?? Có bị mất ảnh trong mấy  hiện có không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.218502,
+         "id": "986579",
+         "field_search": "question",
+         "question": " Hôm trước em có mua laptop hp bên anh chị, anh chị có thể hỗ trợ cài đặt artcam cho em được không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.202433,
+         "id": "918931",
+         "field_search": "question",
+         "question": " Cho em hỏi để mở khóa tài khoản ID APPLE làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.172287,
+         "id": "1149268",
+         "field_search": "question",
+         "question": "Cho mình hỏi LAPTOP HPda0058TU có hổ trợ cài ổ SSD không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.165518,
+         "id": "1017478",
+         "field_search": "question",
+         "question": "Em muốn mua 1 cái laptop tầm 10tr để chơi game Liên minh . fo3, mấy game nhẹ nhẹ khác. Lâu lâu sử dụng Word.Excel.Pascal. Thì nên mua loại nào ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.16218,
+         "id": "897639",
+         "field_search": "question",
+         "question": "Em đang muốn mua laptop tầm 15 triệu đổ lại để học trong 3 năm cấp 3 và đại học. Em tính học sư phạm hoặc ngoại ngữ nên mọi người tư vấn giúp em. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.105698,
+         "id": "1014953",
+         "field_search": "question",
+         "question": "anh(chị) ơi cho em hỏi dưới 2 triệu nên mua máy nào để chiến game vậy !!!nếu máy Philips S337 và Mobell Nova F3 đâu sẽ là lựa chọn tốt để chiến game vậy !!!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.031652,
+         "id": "876958",
+         "field_search": "question",
+         "question": "ad ơi tại sao máy tính asus win 8 của em hay bị CPU 99% và ổ đĩa từ 90-100% là như thế nào ạ.. mong ad khắc phục lỗi hộ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.01066,
+         "id": "1023560",
+         "field_search": "question",
+         "question": "Mấy anh chị cho em hỏi kích hoạt Win 8.1 như nào vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.952763,
+         "id": "807789",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi cách fix lỗi iPhone 5 lock của mỹ như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.952763,
+         "id": "1024343",
+         "field_search": "question",
+         "question": " anh chị kỹ thuật viên cho em hỏi khắc phục lỗi update này như thế nào ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.880178,
+         "id": "1142829",
+         "field_search": "question",
+         "question": "Em muốn mua dây sạc và củ sạc cho iphone7. Thì nên mua loại nào ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.715174,
+         "id": "828108",
+         "field_search": "question",
+         "question": "Hỗ trợ kỹ thuật hỗ trợ em xíu ạ.Máy tính Vaio bản quyền Win 8 kèm theo máy em chưa chia lại ổ đĩa bao giờ? Sao nó có nhiều phân vùng thế? Nhất là phân vùng Recovery khá nhiều và trống??? Hiện tại em muốn gộp lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.705557,
+         "id": "926223",
+         "field_search": "question",
+         "question": "Em vào link 192.168.1.1 xong nó hiện như vậy thì giờ em muốn đổi tên id và pass wifi thì làm như thế nào ạ? Cảm ơn anh/ chị ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.618975,
+         "id": "996074",
+         "field_search": "question",
+         "question": "Cho em hỏi có dòng Dell nào mà không có ổ đĩa CD không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.573885,
+         "id": "1165711",
+         "field_search": "question",
+         "question": "Cho em hỏi hỏi em mới mua mấy Oppo f11 trả góp chưa được một tháng em muốn đổi mấy lên đời mấy Oppo f11 pro thì phải làm như thế nào ạ và phải đóng thêm bao nhiêu tiền nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.487415,
+         "id": "1163397",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi em muốn mua điện thoại samsung tầm 3 triệu trở lại thì em nên mua điện thoại nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.483414,
+         "id": "1022111",
+         "field_search": "question",
+         "question": "anh ơi cho em hỏi em vừa mới mua lap và cài bộ office 365 rồi ạ cửa hàng mình cung cấp cho em tài khoản microsoft nhưng chẳng may em lạc mất thì làm thế nào để lấy lại tài khoản đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.430016,
+         "id": "1163596",
+         "field_search": "question",
+         "question": "chào anh chị. em có cái máy laptop asus win 10 có hỗ trợ Window Hello nhưng có vẻ do em xóa tài khoản cũ đi nên mất tính năng này đúng ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.359459,
+         "id": "768612",
+         "field_search": "question",
+         "question": "  Làm thế nào tạo tài khoản AppStore em làm mà không được anh chị lập giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.306276,
+         "id": "1160760",
+         "field_search": "question",
+         "question": "Laptop dell 5570 ổ dvd máy này có nhận đĩa bluray ko ạNếu ko mình có thể nâng cấp dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.295635,
+         "id": "753875",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em cần mua máy tính để học. Em học ngành quản trị kinh doanh thì nên cần mua máy gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.137989,
+         "id": "1151219",
+         "field_search": "question",
+         "question": "Ad cho em hỏi bên mình có hổ trợ chạy lại phần mềm Iphone5s không ạEm lên ios12 mà nên gio muốn như cỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.01574,
+         "id": "1022689",
+         "field_search": "question",
+         "question": "Chào anh chị ạ , em mới mua máy oppo f3 nhưng em lại không thể nhập được tài khoản gmail, mong anh chị hỗ trợ em với ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.009827,
+         "id": "807573",
+         "field_search": "question",
+         "question": "QTV cho em hỏi em có iPhone 5C lock mỹ nhưng không nhớ nhà mạng nào em dùng sim ghép để unlock rồi chọn thử tất cả các nhà mạng rồi nhưng không được. Mấy ông thợ bảo phải mua sim ghép mới unlock được, thể cho em hỏi anh chị có bản sim ghép mỹ không anh và unlock được máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.006008,
+         "id": "773477",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại wiko kết nối cáp usb với máy tính như thế nào ạ? em gắn vào rồi mà vẫn không kết nối được. Xin mấy anh chị giúp em với, e cảm ơn ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.99928,
+         "id": "769574",
+         "field_search": "question",
+         "question": " Cho em hỏi là  ổ đĩa của laptop Asus E402MA N2840 ở đâu ạ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.992193,
+         "id": "906628",
+         "field_search": "question",
+         "question": " Cho e hỏi e muốn học đồ hoạ thì e nên mua laptop nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.977194,
+         "id": "997749",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi xíu. Em muốn mua galaxy book loại 12icnh bên mình có hàng không ạ? Nếu có hàng báo giúp em với ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.80908,
+         "id": "780410",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi cửa hàng còn bán iphone 5 hoac iphone 5s trả góp nữa không.nếu có thì mua như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.764936,
+         "id": "1023783",
+         "field_search": "question",
+         "question": "Em không biết lenovoideapad 110-15ISK i3 6006U/4GB/1TB/6\"F/Win10/(80UD019BVN) mà không biết mở ổ đĩa như thế nào vì không có nút nhấn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.75117,
+         "id": "993691",
+         "field_search": "question",
+         "question": "Hiện tại em chuẩn bị lên 12, em cần mua máy nhằm mục đích hỗ trợ chủ yếu cho việc học, ngoài ra còn hỗ trợ thêm viết lách ạ. Em đang lưỡng lự không biết nên mua loại nào. Mong các Tư Vấn Viên tư vấn giúp em ạ! Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.723782,
+         "id": "841404",
+         "field_search": "question",
+         "question": "cho em hỏi chút ạ. e đang sử dụng máy Laptop Lenovo IdeaPad 100S 11IBY Z3735/2GB/32GB/Win10 mua bên hàn quốc , em muốn cài word, excel, unikey để em dùng thì có cài được không ạ, hay máy tính này có thể cài hẳn về tiếng việt với các chức năng trên không ạ. nếu được thì em mang tới địa điểm nào ạ. thế giới di động có được không ạ. em đã mang ra quán sửa máy tính nhưng họ bảo máy tính của em không có ổ cứng nên không cài được ạ. nếu em biết không cài được như thế thì em cũng không mua. mong các anh chị giải đáp giúp em với ạ. Chân thành em cảm ơn các nh chị nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.656742,
+         "id": "927271",
+         "field_search": "question",
+         "question": "cho e hỏi là e vừa mua cái ip5s từ bạn e. e muốn reset máy như mới cho dễ xài. Nên e hỏi các anh là có nên hay ko và nên làm như thế nào. tks ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.655384,
+         "id": "1144557",
+         "field_search": "question",
+         "question": "Hiện tại em đang học sinh em muốn sử dụng điện thoại với giá 5tr mà camera xóa phông đẹp . Vậy em nên lựa chọn sản phẩm nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.550884,
+         "id": "780320",
+         "field_search": "question",
+         "question": "QTV em làm nghề sửa chữa điện thoại em muốn mua 1 cái laptop vừa dùng để làm việc và giải trí em nên mua máy loại nào vậy giá khoản 10 triệu trở xuống?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.548601,
+         "id": "880392",
+         "field_search": "question",
+         "question": "Qtv giúp em nhé làm thế nào để phân biệt đuợc đâu là chiết laptop tốt cách để ss chọn lựa ạ em định mua cho em gái mình nhưng khổ nổi là em không biết gì về laptop tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.524853,
+         "id": "1165016",
+         "field_search": "question",
+         "question": "Em theo học ngành CNTT ứng dụng phần mềm thì em chọn laptop nào cho thích hợp ạ giá dưới 20tr",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.512024,
+         "id": "779734",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em vừa mua 1 chiếc iphone 5s 16GB mới xài được 1 ngày . giờ e không muốn xài nữa,còn nguyên zin,em muốn bán lại cho thegioididong thì giá bị chênh lệch như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.493809,
+         "id": "786877",
+         "field_search": "question",
+         "question": "Cho e hỏi máy laptop cứ chạy updates làm sao để tắt ạ? Còn backup nữa, nó chiếm rất nhiều dung lượng của máy(1/2 ổ D:) hầu như máy e chẳng có nhìu dữ liệu để sao lưu đến như thế. Phải làm sao để tắt hai thứ đó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.477844,
+         "id": "995693",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu mình mua Laptop mới và mún gắn thêm ram thì TGDD có hổ trợ không ạ??Và giá Ram 4GB khoảng bao nhiêu ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.440062,
+         "id": "848029",
+         "field_search": "question",
+         "question": "Chào anh chi .Anh chị cho em hỏi .điện thoại em giờ có tài khoản icloud rồi nhưng em muốn đăng ký tài khoản khác có được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.39738,
+         "id": "805672",
+         "field_search": "question",
+         "question": "Anh ơi cho hỏi May laptop của em loại dell ở nhà không vào được wifi nhưng đến công ty vẫn vào wifi bình thường. Vậy em cần cài đặt thế nào để kết nối wifi ở nhà ạ ?. Thanks Anh",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

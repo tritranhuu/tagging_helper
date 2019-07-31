@@ -1,0 +1,801 @@
+{
+   "id_query": "773636",
+   "total": 33665,
+   "total_current": 100,
+   "max_score": 155.97173,
+   "origin_question": "Chào anh/chị em xin hỏi 1 vấn đề là sao em vào cửa hàng của Windows để tải trò chơi về nó hiển thị lên dòng chữ: The app couldn't be installed because the Windows Firewall service and try again. Vậy làm cách nào em mới tải được ạ?",
+   "hits": [
+      {
+         "score": 50.141216,
+         "id": "796839",
+         "field_search": "question",
+         "question": "Anh chị ơi làm sao để vào CH play khi cứ vào là bị đuổi ra rồi xuất hiện dòng chữ: \"The application Cửa Hàng Google Play(process com.android.vending) has stopped unexpectedly.please try again\"Rồi bắt buộc đóng. em xóa cache và data vẫn ko được. đóng cũng ko được . anh chị nào giúp em với ạ, em đang rất cần ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.497787,
+         "id": "1140672",
+         "field_search": "question",
+         "question": "em có tải app nox về laptop nhưng không xóa được ạ . mỗi lần uninstall thì nó lại hiện thông báo \"close nox player before uninstallted\" và không thể xóa app ở ổ recovery và trên system được ạ. Mỗi lần vào recovery để delete nó đều hiện ra lỗi \"the action can't be complete because the folder or a file it is open in another program\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.143738,
+         "id": "802848",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa tạo id apple iphone 4s mà sao cứ tải trò chơi về là nó báo xem xét lại, em làm rồi mà vẫn tải trò chơi về không được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.515854,
+         "id": "915044",
+         "field_search": "question",
+         "question": "Khi em vào store, máy tính báo \"Store can't be opened using the Built - in adminstrator account. Sign in with a different account and try\". Trước đó em có cài lại win! Mong anh chị giúp đỡ em với ạ!!Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.140167,
+         "id": "1137892",
+         "field_search": "question",
+         "question": "Em sài Oppo A3s khi tải về thì không hiển thị lên màng hình chính nhưng vào tìm kiếm ứng dụng em vợ ra tên trò chơi đó thì nó ra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.93032,
+         "id": "881678",
+         "field_search": "question",
+         "question": "TGDĐ cho e hỏi.. máy tính em lúc lên mạng tải đồ về là nó hiển thị lên bảng internet downloand manager registration... em không thể tải vè được,, cái này là bị sao ak,, anh chị giup em cài đạt lại được không ak,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.452286,
+         "id": "777448",
+         "field_search": "question",
+         "question": "chào hệ thống, mình đang xài laptop Dell Inspiron 15 (7537) và hình như pin có vấn đề, sạt không vô và nó hiện lên dòng (your battery has experienced a permanent failure and needs to be replaced. The system will power down when the AC adapter is unplugged.) Mong hệ thống phản hồi sớm nhất. xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.153267,
+         "id": "1140633",
+         "field_search": "question",
+         "question": "Cho em hỏi làm cách nào để tải được tin nhắn MMS ạ? em tải về mấy lần rồi, chờ rất lâu nhưng cũng không nhận được ạ. Dòng máy của em là Samsung galaxy J2 ạ. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.7189,
+         "id": "772809",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em dùng iPhone 5 vào App Store tải game và các ứng dụng thi nó cứ báo la khổng the kết nối với App Store.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.000763,
+         "id": "1142220",
+         "field_search": "question",
+         "question": "chào anh/chị ạEm đang sử dụng laptop dell mà không biết sao mà em không thể lên store của máy để tải ứng dụng về được ạ. Khi mở ứng dụng thì nó lại mở link vào internet explorer và không thể nào tải được ứng dụng . Mong anh/chị giúp em sửa lỗi máy vs ạ. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.902405,
+         "id": "938039",
+         "field_search": "question",
+         "question": "máy iphone của em mới reset lại mà bây giờ em tải zalo về mà nó để là không thể tải vào lúc này là bị sao vậy xin ad cho em biết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.875893,
+         "id": "810344",
+         "field_search": "question",
+         "question": "iphone 3 có thể tải trò chơi hay không? đã có tài khoản id apple nhưng khi tải nó đề là cần phải nâng cấp lên ios mới nhất, vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.72911,
+         "id": "1003240",
+         "field_search": "question",
+         "question": "Chào Ad, mình đang dùng điện thoại sam sung SM-G355H. Mình muốn xóa hình ảnh trong thẻ nhớ nhưng báo lỗi ko xóa được file \" cannot delete hình. jpg : the storage is write- protected. Remove the write-protection and try again. Xin Ad hướng dẫn giúp cách sữa lỗi. Thank you  Ad. Đây là hình ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.69597,
+         "id": "1002992",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải nhạccuatui về nhg khi mở nhạc thì nó k hiện ở trên nên mỗi lần muốn chuyển bài thì em phải vào lại ứng dụng vậy có cách nào cho nó hiển thị lên k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.579144,
+         "id": "915071",
+         "field_search": "question",
+         "question": "Laptop của em hiện dòng chữ: \"The AC power adapter wattage and type cannot be determinedthe battery may not charge.the system will adjust the performance to match the power available.\"QTV cho e biết nên xử lý thế nào? máy e còn b.hành có cần mang đi bảo hành không?E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.52611,
+         "id": "885271",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi a, máy em đang dùng iphone 4 , em lỡ xoá mất ưng dung youtube , em tải lai nhưng máy bắt buộc máy phải phiên bản 8.0 mới tải được , phiên bản của em hiện đang 7.1.2 , hay em co the sao luu ung dung duoc ko a? mong anh chị tư vấn cho em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.188957,
+         "id": "800367",
+         "field_search": "question",
+         "question": " Cho em hỏi khi tải trò chơi nó hiện lên như thế này mà nhập hoài không được là sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.120182,
+         "id": "1012761",
+         "field_search": "question",
+         "question": "Tại sao mình không tải được theme, khi tải nó hiển thị là: \" không thể tải hình về trong hiển thị hình dạng bàn phím\" giúp mình với. Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.058838,
+         "id": "760465",
+         "field_search": "question",
+         "question": "Mấy anh chị cho em hỏi là em có 1 máy tính bàn chạy hệ điều hành Windows 8 em nâng cấp lên WIndows 10 thành công rồi em xóa phiên bản cũ bây giờ em khôi phục cài đặt gốc ( Xóa toàn bộ tệp tin) như vậy có vấn đề gì không qtv?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.027637,
+         "id": "795010",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5s . Em muốn tải AppStorevn cho máy chưa jaibreak mà sao kích vào tải nó hiện lên dòng chữ này thì phải làm sao mới tải được ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.023693,
+         "id": "1154475",
+         "field_search": "question",
+         "question": "Máy em bật lên thì hiển thị dòng chữ  Scanning and repairing drive (e) : 100% complete .cách xử lý sao a .mong sớm phản hồi ,cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.930523,
+         "id": "760634",
+         "field_search": "question",
+         "question": "Em đang dùng OPPO NEO 7 ạ. Khi em tải 1 tệp trên google về thì nó có hiện ra cửa sổ có biểu tượng của chrome và trình duyệt rồi chọn một trong 2 để tải tệp về nhưng em lỡ ấn vào biểu tượng của trình duyệt và chọn ghi nhớ sự lựa chọn này nên các tệp sau em tải về thì nó mặc đinh là tải bằng trình duyệt và không hiện thị cửa sổ ấy nữa. Em muốn hỏi là làm sao để hủy ghi nhớ lựa chọn đó và nó vẫn hiện cửa sổ giống như cũ mỗi khi em tải một tệp nào đó về ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.833015,
+         "id": "931630",
+         "field_search": "question",
+         "question": "Cho em hỏi sao em mở coccoc lên thì nó tự tải về một file vào lâu lâu thì nó tự mở lên cửa sổ mới chỉ em cách tắt nó với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.768456,
+         "id": "944067",
+         "field_search": "question",
+         "question": "mình mở máy lên thì thấy dòng chữ: checking file system on C:the type of the file system is NTFS.volume label is windows 7one of your disks needs to be checked for consistency.... gíup mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.14581,
+         "id": "1150956",
+         "field_search": "question",
+         "question": "làm thế nào để tải ảnh trên mạng về máy oppo f7. mình tải về mà nó không hiển thị trong thư mục ảnh? phải làm sao để mở ảnh vừa tải về đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.131157,
+         "id": "898308",
+         "field_search": "question",
+         "question": "xin chào em đang dùng máy tính win 7 và em mới tải giả lập ios ipadian về để chơi pokemon go nhưng không biết làm thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.07653,
+         "id": "788562",
+         "field_search": "question",
+         "question": "Cho em hỏi sao iPhone 5 của em khi tải ứng dụng từ AppVn về thì hiện lên cầu \"Không thể tải ứng dụng về vào lúc này\" phải làm sao mới tải về được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.061142,
+         "id": "992826",
+         "field_search": "question",
+         "question": "Em đang xài iphone 4 hệ điều hành ios7.1.2 ko tải đc app facebook vì yêu cầu hệ điều hành ios 8 trở lên mới có thể tải về . Vậy còn cách nào để tải app fb về ko ad? Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.05277,
+         "id": "868331",
+         "field_search": "question",
+         "question": " Ad cho hỏi em tải game trên Windows 7 lấy usb copy qua Windows 10 chơi đc không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.010548,
+         "id": "911919",
+         "field_search": "question",
+         "question": "Facebook em bị lỗi nên em xoá và tải lại , vào appstore thì facebook hiện chữ ''mở'' và không tải lại được , em đã tắt nguồn ,đặt lại, tắt hay bật giới hạn , vào dung lượng để xoá app nhưng vẫn không được , anh chị giúp em :( , giờ cứ như nó còn kẹt đâu đấy nên hiện chữ ''mở'' không tải lại được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.980341,
+         "id": "779567",
+         "field_search": "question",
+         "question": " Các anh chị cho em hỏi tại sao windows 8 pro của em không thể upgrade lên 8.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.861992,
+         "id": "832045",
+         "field_search": "question",
+         "question": " Sau em bấm vào app store nó không hiển thị lên vậy qtv  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.794863,
+         "id": "771552",
+         "field_search": "question",
+         "question": "Mấy anh ơi máy em chạy iOS 6.1.6. khi tải Facebook thì nó yêu cầu iOS 7.0 trở lên. anh chị có cách nào tải về không chỉ em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.786928,
+         "id": "850940",
+         "field_search": "question",
+         "question": "À, máy VAio Win8 em mua đc 1 năm, hồi trc anh của em có chạy lại chương trình của máy, sau khi chạy lại xong, em tải game hay trình duyệt cốc cốc đều không đc, ý em là tải về được nhưng sau khi Turn off máy thì dữ liệu App hay Game em đã tải bị mất sạch. Có khi em xài xong, tắt máy, thì nó Hiện lên cái dòng chữ gì mà Confiring Feature Window được 15% rồi có dòng chữ don't turn off your computer. Rồi sau khi em mở máy lên thì game em tải mất sạch",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.678583,
+         "id": "876991",
+         "field_search": "question",
+         "question": " Cho em hỏi cách khắc phục lỗi 0x87AF0813 khi em tải facebook bản chính thức trên windows phone ạ? Tải không được! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.531223,
+         "id": "847597",
+         "field_search": "question",
+         "question": "Iphone 4s của em mấy hôm trước còn tải ứng dụng từ wifi bình thường mà sao mấy ngày gần đây em tải ứng dụng từ app mà nó chỉ load chứ không tải về được. Anh chị giúp em với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.295752,
+         "id": "1152745",
+         "field_search": "question",
+         "question": "Chào anh/ chị. Em muốn hỏi là điện thoại em đang sử dụng là Samsung A8 Star mà muốn tải Instagram thì bị hiển thị \" điện thoại bạn không sử dụng được phiên bản này\". Em muốn sửa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.289474,
+         "id": "777587",
+         "field_search": "question",
+         "question": "Cho mẹ hỏi tại Sao em tải trò chơi Minecraft về máy IPAD E của em nó ghi là \" Không thể tại Minecraft lúc này \" em biết chỉ giúp em?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.227808,
+         "id": "835376",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi, bên cửa hàng mình dòng iphone SE đã về chua ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.068224,
+         "id": "811298",
+         "field_search": "question",
+         "question": " Sao tải game trên windows không được ad,chỉ em cách cài game trên máy tính có hệ điều hành windows 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.946035,
+         "id": "751765",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi? điện thoại iPhone 4s em mua được mấy tháng, bây giờ em truy cập vào Google Play để tải trò chơi và nhiều ứng dụng khác, nhưng khi mua điện thoại về e không biết mật khẩu ID Apple.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.70345,
+         "id": "761829",
+         "field_search": "question",
+         "question": "Cho e hỏi: khi tải cốc cốc về thì nó bảo: windows smartscreen prevented an unrecognized app from starting. Running this app  might put your PC at risk. Là sao vậy ạ. Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.623653,
+         "id": "1168996",
+         "field_search": "question",
+         "question": "Tại sao không cập nhật được youtube ? Tải thì máy hiển thị không thể tải app về trong lúc này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.58352,
+         "id": "771545",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi với ạ. Laptop em mua được gần 1 năm rùi (mua tại Thegioididong.com), cài Windows 8. Nhưng hôm nay lúc em đang khởi động máy tính thì nó chỉ hiện ra cửa sổ Windows lúc đầu, rồi đen thùi lùi. không có chuột. em tắt đi bật lại thì vẫn thế.......bây giời thì phải làm thế nào ạ.......Mong anh chị giải đáp lỗi với cách khắc phục sớm hộ em với ạ. hiuhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.521957,
+         "id": "908011",
+         "field_search": "question",
+         "question": "Chào Thế Giới Đi Động em có thắc mắc là tại sao em không thể tải được ứng dụng trên app store,nó cứ yêu cầu xác nhận mua hàng mặc dù ứng dụng free,cái nào cũng như vậy,không nói cái ứng dụng thu phí,hiện tại e không thể cài bất cứ 1 app nào trên app store.Mong anh,chị giúp đỡ em,em cảm ơn rất nhiều !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.363504,
+         "id": "762438",
+         "field_search": "question",
+         "question": "Xin Chào Nhân Viên Tư Vấn của thegioididong.comEm muốn tư vấn về Laptop  Asus ROG GL552JXEm có ít kinh nghiệm về laptop mong anh chị tư vấn chi tiết về thiết bị điểm mạnh, yếu của Laptop  Asus ROG GL552JXEm muốn mua Laptop để chơi những tựa game như Fifaonline3, Liên minh huyền thoại, Võ Lâm1, Võ Lâm 2 và xem phim thì mua Laptop  Asus ROG GL552JX có đc không ạ.Mong anh, chị trả lời sớm để em tới cửa hàng gần nhất mua 1 em về sử dụng.Em xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.308317,
+         "id": "931511",
+         "field_search": "question",
+         "question": "ad cho em hỏi, em mới đổi qua điện thoại khác và em lấu icloud cũ của em đăng nhập vào máy. Nhưng sao em ko tải ứng dụng được trên app store vậy ạ ? nó cư để là đang chờ mà không tải xong, chỉ giúp em, tk ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.308226,
+         "id": "815917",
+         "field_search": "question",
+         "question": "Em có iphone 4s lúc đầu em mới mua máy tại cửa hàng em nhớ bên cửa hàng tải cho em 1 số ứng dụng bằng tải khoản của họ, em dùng 1 tuần sau a thấy appstore hiện cập nhập bản mới mới lại em dùng tài khoản của mình rồi nên lúc cập nhập a vô tình ấn sai nên cái ứng dụng đó hiển thị đang chờ mãi không xoá đi được liệu em chạy lại phần mềm có mất đi được không ạ, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.287252,
+         "id": "824853",
+         "field_search": "question",
+         "question": "Chào anh/chị!Em đang xài laptop Dell Vostro 3559 i5 .Em có thể cài hệ điều hành Windows 7 64 bit được không ạ?Em xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.263027,
+         "id": "783174",
+         "field_search": "question",
+         "question": " máy tính em liên tục hiện lên dòng chữ your windows license will expire soon ..lỗi này là gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.25502,
+         "id": "1137971",
+         "field_search": "question",
+         "question": "Cho em hỏi làm thế nào để máy em nó hiển thị Mạng 4G thế ạ ... sim em đã cài 4G nhưng nó vẫn ko hiển thị ạ .. HĐH em là IOS ko bk có cách nào sửa ko ạ ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.223137,
+         "id": "814427",
+         "field_search": "question",
+         "question": "Mấy anh chị ơi.sao laptop asus của em khi em khởi động lên thì hiện vào cài đặt bios.khi em nhấn save and exit là nó tự tắt luôn .khởi động lại thì không lên màn hình.anh chị có cách nào giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.187593,
+         "id": "1010177",
+         "field_search": "question",
+         "question": "Chào ad. Máy tính của em bị đứa em em nó nghịch, dẫn đến bây giờ không tải được ứng dụng về máy. Em có thể mang qua cửa hàng mình sửa được không ạ.? Cho em hỏi thêm là chi phí khoảng bao nhiêu ạ.? Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.18674,
+         "id": "1018470",
+         "field_search": "question",
+         "question": "chà anh chị. hôm trước em có hỏi vấn đề về laptop đã được các anh chị giải đáp. em muốn hỏi thêm là em đã mua bản quyềnoffice luôn rồi nhưng lúc cài đặt các anh chị đó không nói những vấn đề này cũng như mật khẩu .... bây giờ làm sao em có thể lấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.108068,
+         "id": "1010982",
+         "field_search": "question",
+         "question": "Anh chị giúp em vs em vao apstore tải ứng dụng nma ko tải dc e thấy có hàng chữ \" mua in-app\" o bên dưới ứng dụng nếu nó xuất hien là e ko tải dc ứng dung đó. E tải youtube cũng ko dc nua ah chi giúp e ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.973188,
+         "id": "755990",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em đang dùng laptop Asus X553M chạy Windows 8.1 giờ em muốn hạ xuống Windows 7 được không ạ và hết bao nhiêu tiền ạ? Em cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.79232,
+         "id": "1021981",
+         "field_search": "question",
+         "question": "chào Em chào cả nhà ạ Mọi người giúp em với ạ: em có 2 vân đề thắc mắc, xin mọi người chỉ giáo ạ: + Em gửi Tệp excel qua gmail cho sếp em mà sếp em đang đi ngoài đường nên chỉ mở bằng điện thoại, nhưng không mở được, -> em bị rầy 1 trận. + Tệp xcel của em đuôi xls hiển thị icon , khi mở phải nhấn thêm nút yes nó mới mở cho mình,( em có kè m hình ảnh, anh chị nào biết giúp em với ạ.) còn đuôi xlssx thì không hiển thị incon ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.770775,
+         "id": "1006125",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi là đt em nó hiện lên dòng chữ ch play đã dừng là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.769836,
+         "id": "779824",
+         "field_search": "question",
+         "question": "Em đang dùng 4s bản ios 6.0 . hiện tại em toàn phải xin nick app của người bán cho để tải app . mà em không muốn nâng FW . liệu có cách khắc phục nào để tải app không ạ . Chứ suốt ngày xin nick tải app người ta cũng chẳng muốn cho :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.677782,
+         "id": "1152814",
+         "field_search": "question",
+         "question": "Em mới tải 1 số app trên CH Play về máy nhưng khi mở app để sử dụng thì máy báo là ứng dụng không phản hồi. Vậy thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.64836,
+         "id": "800167",
+         "field_search": "question",
+         "question": "Cho em hỏi từ lúc em qua bên TGDĐ tải windows 10 mới về sao không còn nghe âm thanh nữa QTV giúp PC có lại được âm thanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.604668,
+         "id": "846705",
+         "field_search": "question",
+         "question": "cho em hỏi các anh chị câu hỏi là. laptop hp của em nó tại cái gae gì đấy về máy thì được nhưng mà cài đặt thì gặp vấn đề.cho em hỏi có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.599146,
+         "id": "1140332",
+         "field_search": "question",
+         "question": "Máy báo lổi: htkk has stopped working a problem caused the program to stop working corectly. windows will close the program and notify you if a solution is avilable, vậy cho e hỏi khắc phục thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.57884,
+         "id": "1133599",
+         "field_search": "question",
+         "question": "Chào anh chị anh chị cho em hỏi em mới mua sam sung a6+  bên mình em thấy máy dùng hiện tại ổn nhưng mỗi tội sạc vào rất lâu khỏa 2p mới được 1% ạ cho em hỏi là do lỗi hay là máy nó vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.576267,
+         "id": "1010752",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em dùng oppo R8001 e tải game liên quân mobile bằng 3g máy báo không đủ dung lượng e ra xóa bớt ứng dụng rồi bắt wifi vào cửa hàng play tải được game rồi nhưng giờ máy vẫn báo không đủ dung lượng tải về thất bại mà e tải đk rồi sao máy vẫn báo, làm sao để hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.536617,
+         "id": "992195",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi iPHONE 5s khi tải zing.mp3 về không nge và tải được nhạc và báo lỗi -102? anh chị cho e cách khắc phục ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.345354,
+         "id": "808287",
+         "field_search": "question",
+         "question": " Ad cho em hỏi cách tải ứng dụng và trò chơi cho laptop đi. Em mới mua nên chưa biết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.343481,
+         "id": "822666",
+         "field_search": "question",
+         "question": "cho em hỏi sao máy tính em không vào youtube được vào thì nó hiện \" this site can't be reached\" các anh chị giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.17675,
+         "id": "1155921",
+         "field_search": "question",
+         "question": "Chào anh / Chị. Cho em hỏi lap của em không thể tải được ứng dụng trong microsoft store. Khi search ứng dụng cần tải là không hiện ra ứng dụng cần tìm và không cho phép tải. Anh/ chị có thể trả lời thắc mắc của em được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.112442,
+         "id": "997208",
+         "field_search": "question",
+         "question": "Anh, chị cho em hỏi máy Sony cua em ko tải dc ngoại tuyến ko có ngoại tuyến làm cách nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.051384,
+         "id": "783890",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi làm sao để tải nhạc trên iPad Air 2 ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.030876,
+         "id": "1015520",
+         "field_search": "question",
+         "question": "Chào anh chị. Em có mua tai nghe ở một cửa hàng của Thế Giới Di Động. Nhưng giờ tai nghe của em có lỗi. Vậy em phải đem ra cửa hàng em đã mua hay một cửa hàng khác của hệ thống để được bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.023975,
+         "id": "941697",
+         "field_search": "question",
+         "question": "E muốn bật loa của laptop nhưng hk được. Nó hiện lên playing auto ( troubleshooting couldn't identify the problem) v phải làm s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.996668,
+         "id": "1153690",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua laptop dell inspiron 3567 i3 win 10. nhưng sài được tầm 2 tháng thì nó báo là '' Your windows license will be expired ạ. vậy lúc mua thì em phải được cài win 10 bản quyền chớ ạ. sao giờ nó lại báo hết hạn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.91561,
+         "id": "904575",
+         "field_search": "question",
+         "question": " ad cho hỏi sao tải game về laptop mà bị lỗi ko hiển thị được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.90317,
+         "id": "744710",
+         "field_search": "question",
+         "question": "laptop em sao tắt và khởi động lâu..khi khởi động nó để we couldn't complete the updates.undoing changes.don't turn off your compurter và chạy phần trăm hoài mà không lên thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.902859,
+         "id": "780306",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động :)Hiện tại, em đang muốn tải game Pizza Frenzy về laptop nhưng em chưa tìm được một đường link an toàn cho máy. Em mong anh chị có thể tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.871508,
+         "id": "778569",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua con iPhone 5 em đã quên kiểm tra icloud về thì em lở tay out ra khi nhập icloud mới của em vào để cập nhật tải ứng dụng nó báo bảo em phải nhập icloud của chủ trước mới cho phép cập nhật hay tải ứng dụng. Bây giờ em phải làm thế nào để cập nhật với tải ứng dụng được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.843884,
+         "id": "940163",
+         "field_search": "question",
+         "question": "iPhone 4s của em lúc trước em xóa hết tất cả ứng dụng trò chơi và mạng xã hội.bây giờ em muốn tải lại thì yêu cầu tạo ID Apple em gõ vào thì hiện lên .Bạn cần cập nhật ios mới tải game được. làm ơn giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.839409,
+         "id": "907366",
+         "field_search": "question",
+         "question": "Xin chào cho em hỏi em có con lap Vaio i5 tại sao em tải game không được cứ bấm vào phần download là cụ bị trạng thái chờ nhận dạng file mà không hiện lên phần tải về cho máy' a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.83833,
+         "id": "1157972",
+         "field_search": "question",
+         "question": "Điện thoại của em là Xiaomi a2lite và em có vấn đề là khi em cài trò chơi mới rồi chơi được một thời gian thì khi vào lại trò chơi kia để chơi thì bị lỗi treo khi khởi động game (tức game treo chứ máy vẫn hoạt động ổn định ) em cần giải pháp cho tình trạng này vì con game đó là thứ để chơi với bạn thân. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.816061,
+         "id": "802838",
+         "field_search": "question",
+         "question": "Anh ơi em tải Facebook về rồi nhưng không đăng hình lên Facebook bằng điện thoại nó không có ạ có Facebook mà điện thoại vô hình tải lên không có hiện Facebook anh giúp em với làm cách nào nha?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.741522,
+         "id": "1140248",
+         "field_search": "question",
+         "question": "Chào QTV, laptop asus em mua ở cửa hàng mình được 1 năm nhưng giờ chạy rất chậm thì em mang ra cửa hàng xem máy giúp em gặp vấn đề gì được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.726473,
+         "id": "797840",
+         "field_search": "question",
+         "question": "Cho em hỏi là em đang dùng iphone 5 lock nhật, em tải 1 ứng dụng về máy nhưng khi mở ứng dụng thì toàn bị văng ra ngoài. Anh chị tư vấn cho em cách khắc phục với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.725096,
+         "id": "987609",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi em định đặt hàng nhưng trên hệ thống không hiển thị tên huyện Văn Quan -tỉnh Lạng Sơn thì em đặt theo cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.698479,
+         "id": "1023738",
+         "field_search": "question",
+         "question": "ad cho e hỏi :'sao khi cập nhật ios 11 thì tải ứng dụng nó sao sao ý??Bấm tải rồi, nó hiển thị là đang chờ, để mãi cũng đang chờ dù có một cái, bấm vào icon của ứng dụng đó thì chuyển thành đang tải chạy qua được xíu. Mà để cả buổi cũng như vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.669703,
+         "id": "760487",
+         "field_search": "question",
+         "question": "  Làm cách nào để xóa hệ điều hành Android và tải hệ điều hành Windows Phone về sử dụng trên điện thoại Mobiistar 4.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.647127,
+         "id": "825928",
+         "field_search": "question",
+         "question": "Cho hỏi Loptop Em mới bảo hành về xài được 1 ngày mà màng hình đen vs lỗi windows detected a hard disk problem là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.642256,
+         "id": "765952",
+         "field_search": "question",
+         "question": "Em mua laptop HP được 4 tháng và mấy hôm gần đây nó có hiện dòng thông báo \"your windows license will expire soon \" như vậy là bị sao ạ , và có cách khắc phục không . Em xin cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.596943,
+         "id": "1142103",
+         "field_search": "question",
+         "question": "Sao em nhập id rồi mà nó không gửi mã tới email ạ...tải các trò chơi về nhập mật khẩu xong nó nói không đúng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.557625,
+         "id": "867545",
+         "field_search": "question",
+         "question": "iPad của em bị gì mà nó cứ tự hiển thị mấy cái thông báo quảng cáo\"Andoird của bạn bị nhiễm virus\", \" Quay số trúng iPhone\" hoặc nó tự vào ch play. Em chơi chưa được 1p là quảng cáo cứ hiện lên. Em đã tải phần mềm quét virus với cả tắt nguồn iPad mà nó vẫn vậy. Giúp em với!!!!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.49961,
+         "id": "1164176",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính của em hiện có hiện chữ activate windows bên phải màn hình thì là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.492281,
+         "id": "931568",
+         "field_search": "question",
+         "question": "QTV ơi cho em hỏi sao chiếc iPhone 5s của em cập nhật ios qua OTA toàn bị lỗi không vậy?? Vào Appstore tải ứng dụng thì nó chỉ có 1 vòng tròn màu xanh xoay mãi mà k tải đc app luôn.. Vậy là sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.464832,
+         "id": "995127",
+         "field_search": "question",
+         "question": " Anh ơi em mới mua máy tính Windows 10 home có chơi được game lmht không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.384933,
+         "id": "1007070",
+         "field_search": "question",
+         "question": "Chào anh chị ! Cho em hỏi laptop của em mở lên hiện chữ \" hibernating\" rồi quay mãi không hiện lên màn hình thì giờ phải làm sao ạ ? Cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.332918,
+         "id": "756577",
+         "field_search": "question",
+         "question": " Em mới reset lại máy laptop thì tải game về nó không cần nhận ra tệp game nữa anh chị nào giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.316887,
+         "id": "1147881",
+         "field_search": "question",
+         "question": "cho em hỏi là em mới mang 1 con máy samsugns8 từ bên hàn về nhưng bh em k tải đc các game ở việt nam em đã làm nhiều cách mà vẫn k dc vui lòng các anh chị giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.30667,
+         "id": "825942",
+         "field_search": "question",
+         "question": "Cho hỏi Loptop Em mới bảo hành về xài được 1 ngày mà màng hình đen vs lỗi windows detected a hard disk problem là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.306057,
+         "id": "849046",
+         "field_search": "question",
+         "question": "AD ơi cho em hỏi em có tải 1 file txt về nhưng ko đọc được. Em có tải thử ứng dụng WSP Office nhưng khi mở thì nó hiện chữ của nước nào ấy ạ. Em đang xài J1 mong Ad giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

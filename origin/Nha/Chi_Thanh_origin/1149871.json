@@ -1,0 +1,801 @@
+{
+   "id_query": "1149871",
+   "total": 31499,
+   "total_current": 100,
+   "max_score": 72.318634,
+   "origin_question": "Cho em hỏi máy em làm sao k về đc màn hình chính giữ nút nguồn vẫn hiện lên bình thường xiaomi redmi 4x",
+   "hits": [
+      {
+         "score": 32.058964,
+         "id": "877953",
+         "field_search": "question",
+         "question": "Mình dùng xiaomi redmi note 3 pro, tải meeseger về nhưng khi chat lại k có bóng chat hiện lên. Cho hình hỏi làm sao để bóng chat hiện lên màn hình chính vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.964922,
+         "id": "986331",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone của em là iPhone 6, chạy Ios 10.3.1, máy lúc trưa xài bình thường nhưng bây giờ mở không lên, em dùng thử cách ấn đồng thời nút nguồn và nút home, ấn giữ nút nguồn vẫn không được, đụng vào thì nút home rất nóng, thế em phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.091476,
+         "id": "784554",
+         "field_search": "question",
+         "question": "Em có 1 chiếc iphone 4s , em em nghịch đang bình thường thì tự nhiên máy bị lag và đen màn hình em tưởng máy sập nguồn và bật nút nguồn máy không lên em cắm sạc vào máy vẫn rung . cho hỏi máy em bị làm sao và có thể sửa không ạ . em không bỏ được vì có nhiều giữ liệu trong máy . em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.734556,
+         "id": "1148676",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang xài Xiaomi s2 lite. Lúc trước mình giữ nguyên nút menu(nút tròn) thì nó hiện thông tin về những thứ trên màn hình mà bây giờ nhấn giữ nó hiện cái tap google lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.360971,
+         "id": "1013985",
+         "field_search": "question",
+         "question": "cho mình hỏi về cái vụ tắt nguồn iphone, nếu như bình thường thì mình bấm nút nguồn đợi tới khi thanh \"slide to power off\", hiện ra sau đó trượt thì máy tắt nguồn, nhưng nếu khi thanh\"slide to power off\" hiện ra mà mình vẫn ấn giữ nút nguồn sau đó ấn giữ tiếp phím home thì vài giây sau vẫn tắt nguồn được, thì vậy là sao ad giải thích giùm mình cái. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.21169,
+         "id": "1000793",
+         "field_search": "question",
+         "question": "Cho em hỏi Thế giới di động chi nhánh huyện Thường Tín Hà Nội còn máy Xiaomi Redmi 4X k ạVà giá cả ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.201408,
+         "id": "1010468",
+         "field_search": "question",
+         "question": "tắt chế độ xoay màn hình của xiaomi redmi 4x 3gb vào cài đặt rồi chọn nút gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.912088,
+         "id": "1011688",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có ốp đẹp cho xiaomi redmi 4x k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.78774,
+         "id": "1163392",
+         "field_search": "question",
+         "question": "máy samsung galaxy note 10.1 của mình ấn khởi động lại ko lên nguồn nữa ,mà ấn giữ nút nguồn nó kêu như lên nguồn mà màn hình vẫn đen và án màn hình nó kêu thì ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.757223,
+         "id": "1154733",
+         "field_search": "question",
+         "question": "Cho em hỏi còn pin xiaomi redmi 4x k ạk. Giá bao nhiu vay ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.608978,
+         "id": "780011",
+         "field_search": "question",
+         "question": "Cho em hỏi..em dùng iphone 4s, lúc em tắt nguồn và mở lên lại thì màn hình của em không lướt để mở khóa được vậy là sao, những nút home vẫn hoạt động bình thường nhờ tgdd trả lời dùm em.em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.089361,
+         "id": "1148968",
+         "field_search": "question",
+         "question": "Cái máy lenovo yoga tablet 2 của mình k cắm sạc mà nút nguồn vẫn sáng , khi mình ấn nút nguồn thì k lên màn hình , mình đè nút nguồn khoảng 1' mà vẫn k lên . Mình thử sạc khoảng 15-30' r thử đề nút nguồn mà mấy vẫn k lên . Mong ad giúp đỡ ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.721909,
+         "id": "1150263",
+         "field_search": "question",
+         "question": "Cho tôi hỏi bên mình có cuc xạc chính hãng cho xiaomi redmi 4x không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.557938,
+         "id": "1150649",
+         "field_search": "question",
+         "question": "Xiaomi Redmi Note 4X hiện còn hàng cũ không ạ ? ở bình chiểu thủ đức ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.2811,
+         "id": "1007829",
+         "field_search": "question",
+         "question": "xin chào các QTV cho em là máy em lenovo A6000 máy đang sài bình thường thì bị tắt nguồn và tự khởi động lại thì bị treo logo không thể vào màn  hình chính được.Vậy em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.253227,
+         "id": "767176",
+         "field_search": "question",
+         "question": " cho em hỏi bật nguồn laptop nhưng màn hình không sáng mà máy vẫn hoạt động là sao ạ? làm sao để bật màn hình lên ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.10131,
+         "id": "814192",
+         "field_search": "question",
+         "question": "Em đang xài iphone 6 đang lướt wed thì bị đứng máy e có nhấn nút tắt nguồn nhưng không được rồi nó hiện xanh màn hình rồi khởi động máy lại khởi động xong vẫn xài bình thường máy bị vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.036774,
+         "id": "1150310",
+         "field_search": "question",
+         "question": "Cho mk hỏi dòng máy xiaomi redmi 4x 3 phim  đó có sáng đèn đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.975595,
+         "id": "954957",
+         "field_search": "question",
+         "question": "E muốn chụp màn hình máy samsung j2 prime giữ nút nguồn 2-3s mà k thấy hịen dòng chụp màn hình cũng như k thấy ảnh trong thư viện thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.79592,
+         "id": "1014441",
+         "field_search": "question",
+         "question": "Máy em là máy samsung J7 2016 ạ. Em đi mưa xong bị nước mưa ngấm vào điện thoại từ 12h trưa. Em vẫn dùng bình thường đến 4h chiều máy tự nhiên tắt nguồn rồi k bật lên được ạ. Vẫn nhận được thông báo mess cadc thứ cả tăng giảm âm lượng vẫn bình thường nhưng màn hình đen sì. Máy em bây giờ phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.498384,
+         "id": "996849",
+         "field_search": "question",
+         "question": "oppo neo 5 của em dạo này nó cứ hay bị tình trạng đứng máy bấm nút nguồn mà k sáng màn hình lên khi màn hình lên r thì lại k ăn cảm ứng bây giờ em phải làm s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.188978,
+         "id": "818142",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí nhé, mình đang sài con iphone 5S, mấy bữa nay tự nhiên mình vuốt màn hình nó không đc nên k làm gì đc, mình phải tắt nguồn bằng nút home và nút nguồn mới tắt đc, nhưng bật lên lại vẫn vậy, k biết là bị gì nữa, ngta goi đén chuông vẫn đỗ nhưng k vuốt để nghe dc, vậy ad cho mình hỏi là máy mình bị gi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.152569,
+         "id": "1142198",
+         "field_search": "question",
+         "question": "mình mới mua một chiếc điện thoại IPHONE 4s bên bản quốc tế mấy hôm trước mình vẫn sài bình thường.lúc tối hôm qua mình cũng đem ra bấm vẫn còn 84% pin mình lại đem cất vào tủ sáng nay mình lại đem ra bấm thì màn hình không lên bấm nút nguồn cũng không được mình coi trên mạng có hướng dẫn là bấm giữ cả hai nút mở và nút nguồn cho tới khi hiện lên hình logo mà mình bấm giữ mấy phút cũng không thấy lên vậy cho mình hỏi máy mình bị lỗi gì có khắc phục được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.139673,
+         "id": "1136076",
+         "field_search": "question",
+         "question": "Pin xiaomi redmi note 4 để bình thường sụt pin nhanh vs lại hiển thị trên màn hình còn hơn 30% mà sập nguồn là hỏng pin ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.070854,
+         "id": "1023570",
+         "field_search": "question",
+         "question": "ad cho e hỏi.e đùng s3. nó bị hỏng màn hình. Bật nguồn thì vẫn có chuông bình thường. có người gọi điến vẫn có chuông.nhưng màn hình nó k lên.chắc là bị cháy màn hình. giờ e muốn lấy danh bạ trong điện thoại có được k? Điện thoại vẫn kết nối với máy tính bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.982794,
+         "id": "796341",
+         "field_search": "question",
+         "question": " Màn hình SamSung Galaxy Tab S của mình bị đơ. Dù có giữ lâu nút nguồn máy vẫn không tắt và khởi động lại được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.968208,
+         "id": "1142412",
+         "field_search": "question",
+         "question": "Tại sao oppo neo 7 của em đang xài thì bị tối đen màn hình,bấm nút nguồn thì không lên, hiện màn hình tím,nút home thì nóng lên dù không sử dụng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.933443,
+         "id": "1008774",
+         "field_search": "question",
+         "question": "Cho em hỏi em đag xài samsung galaxy gt-i9000 máy em bị hỏng nút nguồn. Nhìu lúc máy tắt nguồn em cắm sạc vào máy hiển thị đang sạc pin, đc 100% em rút ra cắm lại nhưng máy không lên nguồn mà vẫn hiện logo đang sạc pin là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.79924,
+         "id": "901385",
+         "field_search": "question",
+         "question": "Đt em là iphone 4s , sao em k nghe đc âm thanh điện thoại trong khi chuông thì vẫn nghe bình thường ạ ? Em điều chỉnh âm lượng ở màng hình chính thì đc , còn vào các apps điều chỉnh k đc ạ , nghe nhạc cũng k nghe đc luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.676325,
+         "id": "896015",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là em mua con ip5s đc 5 tháng rồi mà ko hiểu vì sao máy em k tắt nguồn đc . Ấn nút tắt ngồn độc bị tắt màn hình thôi . Các a các chị chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.63945,
+         "id": "864869",
+         "field_search": "question",
+         "question": "cho em hỏi sao máy tính của em chạy windows xp bình thường nhưng tự nhiên bây giờ em nhấn giữ 1 số phím nhưng nó chỉ ra có 1 chữ.vd em nhấn giữ nút A nhưng nó lại ra có 1 chữ à.giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.514374,
+         "id": "782344",
+         "field_search": "question",
+         "question": "Iphone 4S của em em mới cài đặt Asphalt vào, ( trước vẫn chạy như trâu và chắc chắn vẫn chạy được) rồi bị đơ một lúc do em bật nhiều chương trình quá, sau đó em tắt màn hình rồi bật lại nhập mật khẩu bình thường thì thấy máy treo, như bình thường vẫn làm em lại tắ màn hình để nhập lại tuy nhiên máy không hiện lên gì nữa, cắm vào máy tính vẫn hiện bình thường như thế này là xung đột phần mềm đúng không ạ, em cần phải làm gì để thoát khỏi tình trạng này, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.451902,
+         "id": "1020037",
+         "field_search": "question",
+         "question": "xiaomi redmi 4X còn hàng ở chi nhánh Hoà Bình ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.448828,
+         "id": "1018288",
+         "field_search": "question",
+         "question": "em đang dùng xiaomi redmi note 4 đang ở mọi 8 vậy em tải file của mọi 9 trên trang chủ xiaomi và cập nhật qua OTA như bình thường thì còn đc bảo hành k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.42158,
+         "id": "1022187",
+         "field_search": "question",
+         "question": "E đang dùng xiaomi redmi not4 đã lên android 7 có cách nào chia đôi màn hình ra đc k ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.328247,
+         "id": "1144367",
+         "field_search": "question",
+         "question": "ipad của mình vừa bị đổ nước vào nút bật máy và máy bị chập chờn, đang chơi game mà cứ bị out ra màn hình khóa hoặc tự bật nút tắt nguồn, bây giờ thì màn hình cứ sáng lên và có hình quả táo, làm cách nào để máy trở lại bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.276861,
+         "id": "872993",
+         "field_search": "question",
+         "question": "Chào anh chị, em có điều lo sợ về iphone 5 của em, em muốn nhờ anh chị giúp em ạ. Iphone em hay dùng 3G, lúc đầu mua về thì khi em cài 3G bật lên thì vẫn dùng bình thường, nhưng dạo 2 tháng nay. Mỗi khi em cài 3G, bật dữ liệu di động lên thì không hiện thấy, thế rồi cứ tắt nguồn bật lên thì hiện. Mà dạo này em tắt nguồn rồi bật nguồn, phần nút mở máy trên đầu càng ngày bị lờn đi, có khi bật máy lên không được, phải ấn mạnh mới lên. Thậm chí giờ tắt nguồn bật lên cũng khó khăn lắm. Em lo lắm anh chị ạ, xin hãy giúp em làm sao khôi phục lại lỗi 3G bất thường này ạ. Em cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.257103,
+         "id": "994337",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.257103,
+         "id": "994324",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.23648,
+         "id": "1154272",
+         "field_search": "question",
+         "question": "Em xài oppo neo 7, đt bị tắt nguồn nhưng nút mở nguồn bị hư (thụt vô trong,  k nhấn đc,  k gỡ ra đc) ,  cho e hỏi làm sao để mở nguồn đt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.22015,
+         "id": "1004586",
+         "field_search": "question",
+         "question": "điện thoại mở lên nguồn nhưng k vào màn hình chính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.182575,
+         "id": "824922",
+         "field_search": "question",
+         "question": "Mn cho e hỏi .máy tính của e khi ấn nút nguồn thì đèn vẫn sáng nhưng màn hình không lên , quạt không chạy .tại sao lại có hiện tượng này và cách sửa chữa ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.149668,
+         "id": "1148158",
+         "field_search": "question",
+         "question": "Mình mới mua con hưawei y9 2019, đt mình ko có chế độ ghi màn hình, vào chỉnh sửa bản điều khiển cũng ko đc, nhấn và giữ nút nguồn và nút tăng âm lượnh cũng ko đc. Giờ mình fai làm Sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.137089,
+         "id": "1165813",
+         "field_search": "question",
+         "question": "Anh Ơi Em hỏi !!em Phân vân quá !Giữa Xiaomi redmi 4x và xiaomi redmi note 3!!Cái Nào Pin trâu hơn ạ ? Chip Máy Nào mạnh hơn ạ?Em chủ yếu chơi game PUBG MOBILE ( 4X chạy snap 435 , Note 3 chạy Helio x10 )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.120857,
+         "id": "1015127",
+         "field_search": "question",
+         "question": "Cho mình hỏi Xiaomi Redmi Note 4x và Redmi 4x là 2 điienj thoại khác nhau phải không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.998013,
+         "id": "1144381",
+         "field_search": "question",
+         "question": "Làm sao để khắc phục máy xiaomi redmi note 5 pro của em khi up rom lỗi nó không lên nguồn và chế độ fastboot.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.957588,
+         "id": "1148401",
+         "field_search": "question",
+         "question": "mình đang dùng máy oppo R7S khi tắt nguồn để sạc pin rồi bật nguồn trở lại thì ko hiện lên được màn hình chính, mà chỉ hiện chữ oppo để 30 phút vẫn như vậy. hỏi máy của tôi bị làm sao, có cách nào để xử lý hiện tượng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.955435,
+         "id": "1005236",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại LG G2 Docomo cắm sạc vào điện thoại để sạc pin thì màn hình điện thoại hiện lên pin chứ ko hiện lên màn hình chính thì phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.919989,
+         "id": "926164",
+         "field_search": "question",
+         "question": "cho em hỏi. zalo của em vẫn dùng được bình thường như ở trang cá nhân hiện lên dòng chữ : tài khoản bị khóa . bây giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.823044,
+         "id": "951406",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, em mua có mua laptop acer aspire e5 575g được tháng rưỡi rồi, thời gian sử dụng ít, hôm nay xem youtube thì đột nhiên đen màn hình, tiếng thì vẫn còn, rồi sao đó tắt tiếng luôn, đèn xanh ở dưới thì vẫn còn, nghe tiếng laptop vẫn chạy. Sau đó em đè nút nguồn thì để reset lại thì máy lên bình thường trở lại. Không biết máy bị hiện tượng gì vậy ? có hư hỏng gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.770588,
+         "id": "1018755",
+         "field_search": "question",
+         "question": "Cho e hỏi asus zenphone 2 bị lỗi android thì phải làm sao ạ?đt thì vẫn sự dụng bình thường nhưng k khôi phục cài đặt lại máy đc,bấm vô thì nó hiện ứng dụng cài đặt đã ngưng hoạt động,tắt nguồn nhấn giữ phím nguồn và âm lượng khi chuẩn bị cài đặt lại thì thiết bị báo lỗi cũng k cài lại đc,ngoài cách mang ra tiệm chạy lại chương trình mình còn cách nào khách phục đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.728706,
+         "id": "1023689",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi là có dòng máy nào có cấu hình và giá tương đương xiaomi redmi note 4x không ạdùng chip x20 hoặc snapdrágon 625 nhé qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.697876,
+         "id": "1160330",
+         "field_search": "question",
+         "question": "Anh Ơi em phân vân quá! Em muốn mua 1 chiếc máy mà khó quá! Anh giúp em với!        1, Xiaomi Redmi Note 4x           2, Xiaomi Redmi 5      3,Xiaomi Redmi note 4     4,Xiaomi Mi 5           5,Xiaomi Redmi 5A              6,Xiaomi Redmi 3 Pro          Nhu cầu của em là Pin trâu Và chơi Pubg Mobile ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.693012,
+         "id": "1160381",
+         "field_search": "question",
+         "question": "Anh Ơi em phân vân quá! Em muốn mua 1 chiếc máy mà khó quá! Anh giúp em với!                1, Xiaomi Redmi Note 4x                     2, Xiaomi Redmi 5                     3,Xiaomi Redmi note 4                      4,Xiaomi Mi 5                              5,Xiaomi Redmi 5A                               6,Xiaomi Redmi Note 3 Pro                                     Nhu cầu của em là Pin trâu Và chơi Pubg Mobile ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.632092,
+         "id": "748356",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 4 của em khi em xem tin nhắn rồi bỏ đó không tắt máy. Lúc mở máy lên thì không quay lại được màn hình chính chỉ có thể nhắn tin. Mà nhấn nút nguồn mãi mới mở. Điện thoại em đang làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.629124,
+         "id": "997563",
+         "field_search": "question",
+         "question": "laptop asus bị lỗi bên google chrome, cốc cốc được 1 tuần rồi. hôm nay em bật lên thì sụp nguồn luôn (màn hình tối đen, nhưng nút nguồn vẫn sáng). Cho em hỏi nếu đem tới TGDD sữa trong 1 hôm được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.559223,
+         "id": "1165700",
+         "field_search": "question",
+         "question": "Anh Ơi Em hỏi !!em Phân vân quá !Giữa Xiaomi redmi 4x và xiaomi redmi note 3!!Cái Nào Pin trâu hơn ạ ? Chip Máy Nào mạnh hơn ạ?Em chủ yếu chơi game PUBG MOBILE",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.554052,
+         "id": "782625",
+         "field_search": "question",
+         "question": "Mình đang dùng IPhone 5. Khi khóa màn hình. bật nút nguồn lên thì màn hình chỉ sáng mờ mờ đen, ko hiển thị ra giao diện chính của máy là sao. Mặc dù gọi đến hay nhắn tin đều nghe được chuông, Và lưu chụp màn hình thì vẫn đc. Lâu lâu những lúc khóa màn hình thì bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.410074,
+         "id": "994335",
+         "field_search": "question",
+         "question": "giup em vs may iphone đang dung thì bi đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.407585,
+         "id": "896878",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy của em bình thường vẫn hiện lên hình ảnh được chụp trong máy mà giờ lại xuất hiện lên hình của bạn em , em và bạn đó không hề xài chung iCloud hay là gì hết mà tại sao lại xảy ra như vậy! Mong mọi người giải thích sớm nhất có thể cho em!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.402771,
+         "id": "758542",
+         "field_search": "question",
+         "question": "QTV cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn lên cũng không lên, nút Home thì bị hư rồi, giờ làm cách nào cho máy mở lên được ạ? Ở TGDD có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.402323,
+         "id": "758541",
+         "field_search": "question",
+         "question": "QTV cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn cũng không lên, nút Home bị hư rồi, giờ làm cách nào cho máy mở lên được ạ? Ở TGDD có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.390165,
+         "id": "1010110",
+         "field_search": "question",
+         "question": "Cho e hỏiE sử dụng iphone4Máy e đang bình thường còn đầy pin nhưng tự nhiên sập nguồn và màn hình đen. E cắm sạc vào thì máy liên tục hiện hình pin yếu và sau đó là logo apple. Máy cứ hiện liên tục như thế cho tới khi rung lên thì màn hình trở về bình thường. Nhưng khi rút sạc thì máy lại trở về màn hình tối như ban đầu. E phải xử lí như nào ạ? Mong mọi người giúp đỡ e!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.371479,
+         "id": "928827",
+         "field_search": "question",
+         "question": "  Cho em hỏi iphone 4 hiện giao diện tớ làm cách nào để cho về bình thường ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.368042,
+         "id": "1003323",
+         "field_search": "question",
+         "question": "cho em hỏi sao em chụp hình dưới nước cái SONY F5122 của em khi lên bờ khoảng 15 phút thì cúp nguồn bây giờ e cắp sạt vào thấy đèn đỏ nháy liên tục mà nhấn nút nguồn máy k lên ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.362766,
+         "id": "1003683",
+         "field_search": "question",
+         "question": "Đt e Lenovo bị rơi xuống nhưng k bể hay nứt màn hình, vẫn mở nguồn đc , sang hôm sau thì mở nguồn chỉ hiện logo ,màn hình lúc đen lúc trắng , có vài đường trắng sọc sọc rồi tắt tối đen k vào đc màn hình chính , vài bữa sau nữa thì mở k lên ạ màn hình tối thuiE đã thử đủ cách, sạc pin , tháo pin ra lắp vào lại cũng k đc Như vậy thì bị hư ở đâu ạ có cần thay màn hình k 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.349012,
+         "id": "1154247",
+         "field_search": "question",
+         "question": "Máy xiaomi redmi 4x báo nhiệt độ pin quá thấp và bị tự động sập nguồn liên tục. Cho mình hỏi cách sửa và nguyên nhân ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.288952,
+         "id": "994036",
+         "field_search": "question",
+         "question": " dạ cho em hỏi màn hình của em như bị như này thì làm sao để quay trở lại màn hình desktop như bình thường được ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.256668,
+         "id": "790430",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy iphone 5 của em mở khoá màn hình xong bị đơ cảm ứng rồi em khoá lại mở lên vẫn bình thường tại sao lại như vậy ạ có phải mang đi sửa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.24405,
+         "id": "1167775",
+         "field_search": "question",
+         "question": "Cho em hỏi là hiện tại pin của em đã bị chai rồi nên em muốn thay pin khác ở TGDĐ có pin của dòng Xiaomi hông ạ máy của em là Xiaomi Redmi Note 4x và thay mất khoảng bao nhiêu ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.222267,
+         "id": "995636",
+         "field_search": "question",
+         "question": "hiện tại e đang dùng laptop dell inspiron15 máy tính của e khi khởi động nó thường bị như thế này hoặc nếu để tối màn hình thì cũng bị,nhưng khi giữ nút nguồn một lúc thì lại lên và dùng bt.Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.216825,
+         "id": "751920",
+         "field_search": "question",
+         "question": "Lỗi máy ASUS không thể khởi động: Tình hình máy ASUS X555LD của em giờ bật nút nguồn khởi động thì chỉ hiện cái logo của hãng rồi màn hình ko hiện gì lên nữa( chỉ sáng sáng) nguồn và quạt vẫn chạy. Xin các anh/chị các bạn chỉ cách khắc phục lỗi này. em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.206892,
+         "id": "809902",
+         "field_search": "question",
+         "question": "Em dùng máy Iphone5s, tại sao khi tải ứng dụng về máy hay xem quảng cáo trên mạng khi trở về màn hình chính là máy tự báo tắt nguồn là sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.174978,
+         "id": "1006145",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy j7 pro nhấn nút home để bật màn hình thì màn hình lên từ từ chứ không hiện lên một phát là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14808,
+         "id": "902271",
+         "field_search": "question",
+         "question": "file word gửi trên messenger bình thường vẫn tải về điện thoại được giờ sao nó ko cho tải hiện lên thế này giờ phải làm sao? Mình dùng J5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.123428,
+         "id": "1157017",
+         "field_search": "question",
+         "question": "Máy em xiaomi a2 Lite do em nghịch ROM nên giờ không lên nguồn , không hiện cái gì cả , fastboot cũng không vào được , cho m hỏi là máy em bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.087378,
+         "id": "1011000",
+         "field_search": "question",
+         "question": "Tại sao khi gọi video điện thoại lại tự tắt màn hình và bấm nút nguồn lại ko lên hình máy của em là asus max",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.064457,
+         "id": "1162487",
+         "field_search": "question",
+         "question": "Xin chào cho tôi hỏi còn có miếng dán màn hình cho máy xiaomi remi 4x không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.033443,
+         "id": "1002903",
+         "field_search": "question",
+         "question": "Em mới mua 1 em xiaomi redmi 4x bên tgdđ, trên đầu máy ở phía trên viền cụm camera khi búng tay vào có tiếng kêu zig zig,  cho em hỏi máy em có bị sao không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.02954,
+         "id": "1010040",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cách để tải thẳng úng dụng vào thẻ nhớ ạ, e dùng xiaomi redmi note 4x",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.907969,
+         "id": "758513",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 4 của em bị treo máy, màn hình tắt tối thui, mở nguồn cũng không lên, nút home thì bị hư rồi, giờ làm cách nào cho máy mở lên được à? Ở tgdd có sửa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.898108,
+         "id": "1133644",
+         "field_search": "question",
+         "question": "Bên mình có thay màn hình điện thoại Xiaomi Redmi 4X ko ạ? Nếu có thì giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.862774,
+         "id": "999007",
+         "field_search": "question",
+         "question": "Máy Redmi 4A hiện lên thông báo đã phát hiện lớp phủ màn hình. Như vậy thì làm sao để tắt được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.84543,
+         "id": "1158536",
+         "field_search": "question",
+         "question": "samsung galaxy của em hết pin bị tắt nguồn nhiều lần sau đó bật nguồn không lên nữa khi cắm sạc chỉ hiện thông báo đang sạc chứ k vào màn hình chính nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.768492,
+         "id": "1138977",
+         "field_search": "question",
+         "question": "Em dùng điện thoại Lenovo Fhab. Hôm nay em vẫn dùng bình thường, đến lúc cắm cổng OTG để dùng chuột thì bật không lên nguồn nữa, pin vẫn còn 50%. Em thử reset máy mà vẫn không được. Pin liền nên em không tháo pin ra được. Cho em hỏi máy em bị gì và em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.760202,
+         "id": "1023798",
+         "field_search": "question",
+         "question": "Em đang dùng chiếc xiaomi redmi 4x, giờ nó bị liệt cảm ứng thì làm sao để chữa ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.759523,
+         "id": "1147407",
+         "field_search": "question",
+         "question": "Cho mk hỏi máy tablet của mình bị đơ màn hình cảm ứng. Mk thử ấn nút nguồn + nút giảm âm lượng nhưng ko đc. Mk phải làm thế nào bh??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.757511,
+         "id": "1135571",
+         "field_search": "question",
+         "question": "Cho mình hỏi Xiaomi Redmi Note 4x bên cửa hàng còn kinh doanh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.755596,
+         "id": "1024488",
+         "field_search": "question",
+         "question": "Mình dùng Redmi 4X, mà lỡ tay vô chế độ fastboot của máy. giờ làm sao để quay lại dùng như bình thường được vậy? Mod nào giúp mình với!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.745012,
+         "id": "1017086",
+         "field_search": "question",
+         "question": "Em dùng xiaomi redmi 4x Hôm trước hình như em có bấm nhầm vào đồng bộ gì đó nên bị mất 1 vài cái ảnh Em muốn lấy lại thì làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.679256,
+         "id": "1162286",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi. Em đang xài Asus zenfone max. Mấy tháng nay em chỉ dùng điện thoại để lên mạng này nọ thôi chứ ko gọi điện. Hôm nay em có gọi thử cho 1 người bạn, đang gọi thì điện thoại tắt màn hình đen thui, sau khi gọi xong màn hình vẫn đen, em mở tất cả mọi cách vẫn ko lên nguồn :( Em nhờ bạn e gọi qua số điện thoại em thì nó lại lên nguồn bấm vẫn bình thường. Nhưng khi mình bấm nghe nói chuyện thì màn hình lại tắt đen. Cho em hỏi là nó bị bệnh gì vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.64881,
+         "id": "1018377",
+         "field_search": "question",
+         "question": " Em mới lấy 1em xiaomi redmi 4x em muốn hỏi là làm thế nào cài đặt được khi mình nhận cuộc gọi thì có cả Flash ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.637384,
+         "id": "998717",
+         "field_search": "question",
+         "question": "Em lỡ tháo máy ra nghịch và làm đứt cáp màn hình cảm ứng máy vẫn lên và chỉ ko chạm và thao tác đc cho em hỏi là thay cáp ko đc ko hay là phải thay cả màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.620213,
+         "id": "993548",
+         "field_search": "question",
+         "question": "cho e hỏi  Xiaomi Redmi Note 4X 3GB32GB còn hàng ko ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.596155,
+         "id": "1141789",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy xiaomi redmi 4x em khôi phục cài đặt gốc nhưng bị vướng ở khâu nhập tài khoản gmail đã đc đồng bộ hoá từ trc v em làm cách nào để qua khâu này v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.595295,
+         "id": "1020262",
+         "field_search": "question",
+         "question": "dt mình là oppo f1, k hiểu tại sao đang dùng bt lại tự nhiên đứng máy, màn hình đen 1 lúc rồi hiện màn hình chính lại bình thường. chỉ cần lướt lướt vài giây lại tiếp tục như v. Bị sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.42193,
+         "id": "1135870",
+         "field_search": "question",
+         "question": "màn hình j7 prime bị hỏng. k lên hình (đen thui) các chức năng vẫn bình thường...bên mình thay màn hình giá cả ntn và trong bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.420336,
+         "id": "1142678",
+         "field_search": "question",
+         "question": "máy em là samsung j7, máy xài pin rất thất thường khi đang xài máy còn khoảng 35-40% thì tự động tắt nguồn và sạc gắn sạc thì nó hiện 1%. cho em hỏi máy bị sao ạ khắc phục đc ko ạ? (em có đem máy lên hãng kiểm tra và ngta bảo thông số kỹ thuật bình thường)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.331678,
+         "id": "1014936",
+         "field_search": "question",
+         "question": "Đt của em là asus zenfon 2. Bị nứt màn hình em đax ra ngoài thay nhưng thay xong thì bị lỗi treo lôgo khó lắm mới lên đựơc. Nút nguồn bên trong vỏ bị trầy khiến nút nguồn cũng ấn k ăn như trước. Cho em hỏi TGDD có thể sửa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

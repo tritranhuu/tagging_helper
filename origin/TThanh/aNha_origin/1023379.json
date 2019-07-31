@@ -1,0 +1,801 @@
+{
+   "id_query": "1023379",
+   "total": 33458,
+   "total_current": 100,
+   "max_score": 97.9911,
+   "origin_question": "Chiếc samsung galaxy s8+ của e bị bể 1 miếng nhỏ ở góc màn hình, cho e hỏi là có phải thay hết màn hình không hay là chỉ cần thay mặt kính v",
+   "hits": [
+      {
+         "score": 47.287415,
+         "id": "820475",
+         "field_search": "question",
+         "question": "e đang có iphone 5s và bị rơi vỡ màn hình nứt hết kính. Vậy e phải thay cả màn hình hay chỉ kính thôi ạ. Nếu mà thay màn hình thì giá của màn hình là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.503304,
+         "id": "1154243",
+         "field_search": "question",
+         "question": "Cho e hỏi ip 7 plus bị bể kính màn hình là thay hết bn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.11214,
+         "id": "1020990",
+         "field_search": "question",
+         "question": "Ad! e có 1 chiếc đt nokia3 bị rớt bể màn hình. Giờ  cho e hỏi giá để thay màn hình là bao nhiêu ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.83863,
+         "id": "1003571",
+         "field_search": "question",
+         "question": "máy mình bị vỡ mặt kính góc trái màn hình cho mình hỏi ở thế giới di động có hỗ trợ thay mặt kính ip6 ko và giá thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.5477,
+         "id": "1167257",
+         "field_search": "question",
+         "question": "cho em hỏi đt J7 của e bị bể mặt kính và hư màn hình thì e thay chỗ nào của hãng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.650097,
+         "id": "1162073",
+         "field_search": "question",
+         "question": "cho e hỏi điện thoại của e bị bể mặt kính ở lưng, bên mình có thay không ạ? điện thoại của e là samsung a5 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.323395,
+         "id": "1158295",
+         "field_search": "question",
+         "question": "Shop cho hỏi? Mình có cái samsung galaxy s7 edge bị bể hư màn hình! Mình muốn thay màn hình lẫn mặt kính trước sau của máy thì mất bao nhiêu vậy shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.898144,
+         "id": "1011917",
+         "field_search": "question",
+         "question": "Đt e bị bể màn hình 1 góc không bị liệt cảm ứng hay gì hết vẫn sử dụng hình thường còn thời hạn bảo hành vậy thay hết bao nhiêu ạ e sử dụng iphone6plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.872593,
+         "id": "1008638",
+         "field_search": "question",
+         "question": "Đt j7 pro bị cấn nứt mặt kính góc trên tôi muốn sửa thì phải thay mặt kính hay thay cả màn hình và giá ntn.mong tgdd tư vấn giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.472416,
+         "id": "766122",
+         "field_search": "question",
+         "question": "Màn hình iPad Air 1 của em bị vỡ. Cho em hỏi là thay màn hình thì mất khoảng bao nhiêu tiền, mặt kính có chất lượng không? Em có nghe nói về ép màn hình, cho em hỏi là của hàng mình có hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.33041,
+         "id": "802745",
+         "field_search": "question",
+         "question": " Màn hình bể Iphone 6s thay bao nhiêu TGdđ, bể góc kính, cảm ứng tốt. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.198532,
+         "id": "820150",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là đt ip5s của e sao khi e nhấn vào 4 góc của đt thì có 1 góc kêu nhỏ mà e nhge nói ip là k bị như z không lẻ đt e bị thay màn hình à mong ad sớm tl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.727047,
+         "id": "999219",
+         "field_search": "question",
+         "question": "E đang dùng samsung a5 2017, không may đi du lịch bị bể màn hình. Giờ e muốn thay màn hình thì hết bao nhiêu tiền ạ? Thay có lâu k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.51421,
+         "id": "1136020",
+         "field_search": "question",
+         "question": "cho hỏi mặt kính của màn hình vivo v5 bị trầy xước có thay được không và giá bao nhiêu 1 lần thay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.422024,
+         "id": "1009707",
+         "field_search": "question",
+         "question": "điện thoại htc 826 của e bị bể màn hình không biết e thay hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.949894,
+         "id": "1133920",
+         "field_search": "question",
+         "question": "Cho mình hỏi thay màn hình của galaxy s8 plus là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.65578,
+         "id": "805280",
+         "field_search": "question",
+         "question": "Cho em hỏi em có mua 1 ipad air 2 tại TGDĐ nhưng đã hết bảo hành. Hiện tại máy em bị bể màn hình vậy TGDĐ có thay màn hình và ép kính không và giá là bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.647842,
+         "id": "1148170",
+         "field_search": "question",
+         "question": "Thay mặt kính màn hình ngoài của huawei nova 3i hết bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.484337,
+         "id": "1000710",
+         "field_search": "question",
+         "question": "cho e hỏi .. điện thoại e samsung galaxy j7 prime bị rớt bể màn hình ... nhưng còn cảm ứng được ... cho e hỏi . thới giới di động có thay màn hình không .. nếu có thì bao nhiêu vậy ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.659325,
+         "id": "1016363",
+         "field_search": "question",
+         "question": "thegioididong có thay màn hình Ipad 3 TH hay mặt kính?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.543816,
+         "id": "991669",
+         "field_search": "question",
+         "question": "ad ơi e có con dell i5 bị bể màn hình 1 bên góc thì giờ thay thì mất khoảng bao nhiêu tiền ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.482834,
+         "id": "1024014",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu thay mặt kính sam sung j7 pro là bn ạ . Đt e bị bể mặt kính còn cảm ứng vẫn tốt ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.86302,
+         "id": "1168158",
+         "field_search": "question",
+         "question": "Em bị bể mặt kính điện thoại Xperia Xa.  Em muốn thay màn hình.  Thegioididong báo giá cho em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.637478,
+         "id": "1136713",
+         "field_search": "question",
+         "question": "cho mình hỏi cái mặt kính sau camera samsung galaxy s6 plus bị bể thay dc k vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.534634,
+         "id": "806366",
+         "field_search": "question",
+         "question": " Báo giá thay màn hình mặt kính màn hình iPhone 4? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.462475,
+         "id": "860573",
+         "field_search": "question",
+         "question": " Cho mình hỏi Ip5s thay màn hình với mặt kính trước luôn là bao nhiêu tiền vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.301785,
+         "id": "998235",
+         "field_search": "question",
+         "question": "dạ cho e hỏi zenphone 2 bị bể màn hình ngoài thì thây bn tiền vậy ạ. ở tgdđ có thay màn hình đó k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.279465,
+         "id": "1161608",
+         "field_search": "question",
+         "question": "E máy Huawei 3i ở cửa hàng. Bị rơi nứt kính màn hình. Cửa hàng có thay kính màn hình đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.17073,
+         "id": "759722",
+         "field_search": "question",
+         "question": "Cho em hỏi là thay kính màn hình iPhone 3GS là bao nhiêu không tính màn hình LCD nhé  và thay home nguồn pin vỏ hết bao nhiêu vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.111656,
+         "id": "835917",
+         "field_search": "question",
+         "question": "TGDĐ có hổ trợ thay màn hình cho iphone 4s không . Điện thoại e bị rơi bể màn hình mà không dám đem thay màn hình sợ bị đổi linh kiện",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.97134,
+         "id": "997064",
+         "field_search": "question",
+         "question": "Mình cần hỏi ở thế giới di động có thay màn hình ngoài k ạĐiên thoại one e8 bị bể màn hình ạThay màn hình giá khoảng bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.775555,
+         "id": "1160123",
+         "field_search": "question",
+         "question": "Màn hình oppo A37 của em bị bể nát màn hình có thay Được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.686035,
+         "id": "1133591",
+         "field_search": "question",
+         "question": "Chiếc oppo a3s của e bị lỗi màn hình thì bảo hành có được thay màn hình mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.675076,
+         "id": "996214",
+         "field_search": "question",
+         "question": "Tôi xài điện thoại Samsung Galaxy J5 prime, hiện tại bị bể màn hình nhưng vẫn cảm ứng bình thường, vậy giá tôi thay màn hình là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.47729,
+         "id": "1020144",
+         "field_search": "question",
+         "question": "Cho e hỏi màn hình j7 pro bể thì thay màn hình mất bao nhiêu tiền ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.37253,
+         "id": "1139971",
+         "field_search": "question",
+         "question": "Thay màn hình samsung galaxy s8 plus bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.076828,
+         "id": "999430",
+         "field_search": "question",
+         "question": "Em có dùng Samsung Core Prime! Bị bể màn hình trong và camera trước. Em muốn thay màn hình trong thì mất bn ạ? Không cần camera!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.069897,
+         "id": "1163441",
+         "field_search": "question",
+         "question": "điện thoại j7 pro của e nó bị chảy mực và bể kính màn hình. nếu đem thay và sửa giá khoảng nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.002193,
+         "id": "1161253",
+         "field_search": "question",
+         "question": "em đang xài sam sung a7 2018 còn bh 7 tháng mà bị bể mặt sau với miếng kính camera cho em hỏi thay ở chổ mình hết bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.70879,
+         "id": "1159563",
+         "field_search": "question",
+         "question": " Máy e bị màn hình như thế này thì phải thay màn hình hay có cách nào khác không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.632698,
+         "id": "1167764",
+         "field_search": "question",
+         "question": "Màn hình samsung j6 của e bị vỡ. Giá thay lại là bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.50204,
+         "id": "1138486",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, trước đây mình có mua 1 con oppo a83 mình đã dán màn hình và mặt lưng hết 100k và nhân viên có tư vấn sau này mình có thay lại miếng dán màn hình hay miếng dán lưng chỉ tốn 15k thôi, mình cũng đã đăng kí sđt tùe trước tại tgdd. Và mới đây mình có mua thêm 1 chiếc đt khác cũng tại tgdd vậy khi mình dán màn hình hay dán lưng thì mỗi miếng dán có được tính giá 15k hay ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.494682,
+         "id": "754596",
+         "field_search": "question",
+         "question": " Em muốn thay mặt kính sau iphone 4 với màn hình bị nhiễu thì sữa hết bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.45633,
+         "id": "1010946",
+         "field_search": "question",
+         "question": "Cho hỏi. Samsung J5 prime bị bể kính màn hình, hình ảnh và cảm ứng bình thường, bên thegioididong có nhận thay và sửa chữa k ? Máy mua ở thegioididong được 3 tháng rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.397213,
+         "id": "1023303",
+         "field_search": "question",
+         "question": "Điện thoại samsung s8 của mình bị rơi và vỡ màn hình. Vậy cho mình hỏi giá thay màn hình là bao nhiêu và thời gian gửi bảo hành là bao lâu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.169178,
+         "id": "1166827",
+         "field_search": "question",
+         "question": "Điện thoại samsung j6  thay kính màn hình hết bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.143635,
+         "id": "999671",
+         "field_search": "question",
+         "question": "Lenovo vipe p1 bị bể màn hình, cảm ứng vẫn dùng bình thường. Cho hỏi thay màn hình thay bao nhiêu tiền? Và màn hình có như gôca của điện thoại không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.096413,
+         "id": "1010341",
+         "field_search": "question",
+         "question": "Anh/Chị cho em hỏi điện thoại samsung galaxy E5 bị cấn bể ở góc đt (gần nút trở về) hiện bị tắt màn hình. cảm ứng vẫn cón tác dụng...Em muốn sửa thì giá khoảng bao nhiêu, thay cả màn hình hay sao?Rất mong được giải đáp, cám ơn An h/Chị nhiếu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.00588,
+         "id": "1006107",
+         "field_search": "question",
+         "question": "cho em hỏi thay màn hình samsung j3 nhiu ạ? có sửa được không hay phải thay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.963646,
+         "id": "769011",
+         "field_search": "question",
+         "question": " Cho e hỏi xíu nha. E có con 4s e lỡ tay làm rớt bể kính màn hình ngoài e muốn thay giá cả thế nào tư vấn e với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.911205,
+         "id": "1152309",
+         "field_search": "question",
+         "question": "cho em hỏi đt oppo a71 nếu bị bể màn hình thay lại là bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.901917,
+         "id": "1161159",
+         "field_search": "question",
+         "question": " cho em hỏi h đt e còn bảo hành  mà làm bể màng hình thì chi phí thay màn hình là bn ạ  máy e là ss 8sphus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.8507,
+         "id": "1015573",
+         "field_search": "question",
+         "question": "E bị bể màn hình Mà còn bảo hành thế thay màn hình co tốn phí kg ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.749355,
+         "id": "1136593",
+         "field_search": "question",
+         "question": "Thay màn hình a7 2017 giá bao nhiu ạ, em bị nứt ở góc màn hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.618347,
+         "id": "1021984",
+         "field_search": "question",
+         "question": "Cho e hs thay màn hình samsung galaxy a8 bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.47047,
+         "id": "791491",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có chiếc Laptop Dell Vostro 3460 màn hình bị mành mành ở phía trên. Bây giờ mình muốn mang máy qua thegioiđiong thay được không vậy & giá thay màn hình là bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.416584,
+         "id": "1161454",
+         "field_search": "question",
+         "question": "Em đang xài nokia 6.1 plus mua ở thegioididong ạ. Em làm máy rớt và bị bể màn hình góc trên. Đang trong thời gian bảo hành thì thay màn hình hết bao nhiêu tiền ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.36947,
+         "id": "1018543",
+         "field_search": "question",
+         "question": "mình muốn thay mặt kinh điện thoại oppo f3 mình mới mua gan 1 tháng bị bể kinh minh muốn thay kinh màn hình giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.36914,
+         "id": "1151893",
+         "field_search": "question",
+         "question": "E có con máy xiaomi note 5 bị vỡ kính màn hình bay giờ thay hết bao nhiêu và thoi gian lấy đuoc là mấy ngay ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.350227,
+         "id": "1161865",
+         "field_search": "question",
+         "question": "alo cho mình hỏi: mình muốn thay mặt kính bị bể của samsung J7 pro? báo giá cho mình? và thay bao lâu có bạn? bên bạn còn ốp lưng của Samsung A8-2016 không? mình ở Bến Lức",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.160465,
+         "id": "1016293",
+         "field_search": "question",
+         "question": "Màn hình điện thoại sam sung galaxy j7pirme của em bị vỡ màn hình vậy thay màn hình là bao nhiều tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.15092,
+         "id": "1020741",
+         "field_search": "question",
+         "question": "Mình mới vừa thay kính iphone 5s ở một tiệm gần nhà. Về thì thấy màn hình bị sáng quá mức. Không biết liệu màn hình thay có tốt không? Họ tính tiền là 300k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.11854,
+         "id": "1007793",
+         "field_search": "question",
+         "question": "Cho hỏi Điện thoại bị bể mặt kính cường lực có thay dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.10068,
+         "id": "1020358",
+         "field_search": "question",
+         "question": "Cho em hỏi, e vừa mua laptop Dell https://www.thegioididong.com/laptop/dell-vostro-3568-p63f002 khoảng 1 tháng. e vừa bị TNGT bể màn hình laptop. zậy e được bảo hành gì không ạ, cho e xin giá thay màn hình luôn ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.053307,
+         "id": "1159678",
+         "field_search": "question",
+         "question": "Đt mình bị bể màn hình như này . Mở máy lên vãn bth , không bị vấn đề gì với chức năng đt chỉ bị bể màn hình ngoài thì giá thay bao nhiêu ạ Điện thoại mình là redmi6pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.964,
+         "id": "780169",
+         "field_search": "question",
+         "question": " Iphone 6 của tôi bị rớt bể mặt kính còn cảm ứng được xin hỏi thay hết bao nhiêu vậy và lâu không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.836407,
+         "id": "1013820",
+         "field_search": "question",
+         "question": "cho e hỏi cái huawei gr5 của e  nó bị bể màn hình, thế giới di động có nhận thay ko và e có đc chế độ bảo hành k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.805048,
+         "id": "997550",
+         "field_search": "question",
+         "question": "Cho em hỏi màn hình cemara trước j5 pri.. bể thay hết bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.660662,
+         "id": "778871",
+         "field_search": "question",
+         "question": " Thay mặt kính màn hình iPad Air à bao nhiêu? Tôi có được bảo hành không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.64779,
+         "id": "1162525",
+         "field_search": "question",
+         "question": "Cho e hỏi. Sao thế giới Di dộng không có miếng dán màn hình của Nokia 5.1 plus v ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.627003,
+         "id": "1002701",
+         "field_search": "question",
+         "question": "em điện thoại Mobiistar YAI yuna bị bể màn hình thay hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.593575,
+         "id": "996512",
+         "field_search": "question",
+         "question": "sumsung j7 prime bị bể màn hình giờ thay mới hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.585281,
+         "id": "1015286",
+         "field_search": "question",
+         "question": "Anh/chị   cho em hỏi...điện thoại samsung j7 pro của em...bị mẻ ở góc màn hình..em thay lại thì tốn bao nhiêu tiền..có được bảo hành không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.562786,
+         "id": "1154245",
+         "field_search": "question",
+         "question": "Máy e io 7 plus mới mua đc 2 tháng bể bể kính này thì ép hay thay kính. Hết bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.551615,
+         "id": "1150870",
+         "field_search": "question",
+         "question": "Cho e hỏi là e mua máy samsung j7 được hơn 10 tháng thì có thể thay mặt kính kg ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.533665,
+         "id": "1167690",
+         "field_search": "question",
+         "question": "Cho e hỏi tgdd có thay màn hình sony xperia xa1 ultra ko ạ. Máy của e bị sọc màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.51907,
+         "id": "995701",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi đt A5 2017 khi làm rơi vỡ lớp kính bên ngoài màn hình mà đt có bảo hành vàng từ hãng. Thì khi bảo hành là thay nguyên lớp kính hay là thay cả màn hình bên trong ạ? Và chi phí bảo hành là bao nhiêu ạ? E xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.493526,
+         "id": "1154340",
+         "field_search": "question",
+         "question": "em muốn thay màn hình samsung galaxy j4 thì bao nhiêu tiền v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.446768,
+         "id": "1148628",
+         "field_search": "question",
+         "question": "cho em hỏi con huawei y7 pro 2018 của em mặt trước sao lại kh chữ huawei ở góc dưới màn hình vậy nhỉ ? v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.414906,
+         "id": "1001659",
+         "field_search": "question",
+         "question": "Cho em hỏi Thay màn hình galaxy a3 giá bao nhiu v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.391903,
+         "id": "930536",
+         "field_search": "question",
+         "question": " Ở tgdd có thay kính iPad mini bị vỡ màn hình ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.347399,
+         "id": "1013386",
+         "field_search": "question",
+         "question": "Thay màn hình bị bể của Sony c4 bao nhiêu ạ?????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.336426,
+         "id": "1148448",
+         "field_search": "question",
+         "question": "Cho e hỏi,E mua ip cũ về thấy 4 viền màn hình có màu vàng nhẹTắt đèn nhìn kĩ thấy màu trắng ko khớp với màn hình rất nhỏ là do đã thay màn hay ép cường lực ko khít để bụi bám hả shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.329832,
+         "id": "1134834",
+         "field_search": "question",
+         "question": "Ad cho e hỏi chước e mua con sam sung  A5 bên ac. Giờ nó đen xè màn hình có phải chết màn hình không ạ . Và thay màn hình đó la hết bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.329716,
+         "id": "997793",
+         "field_search": "question",
+         "question": " Mình có cái ip6s bị bể màn hình. Ip còn trong time bảo hành. Cho hỏi giá thay và thời gian thay là bao lâu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.212944,
+         "id": "1001991",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là màn hình đt của em tự nhiên bị tối bên góc phải màn hình như vậy là bị lm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.160816,
+         "id": "1136553",
+         "field_search": "question",
+         "question": "J7 prime của mình bị bể màn hình , chảy mực.  vậy Cho mình hỏi thay màn hình j7 prime bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.152767,
+         "id": "1013584",
+         "field_search": "question",
+         "question": " Siêu thị mình còn miếng dán màn hình cho samsung grand và samsung galaxy v ko nhỉ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.049871,
+         "id": "876429",
+         "field_search": "question",
+         "question": "Em mua sản phẩm 5s khoảng 3-4 tháng mới đây đt e có rớt nhẹ làm hở màn hình 1 tí trên góc phải như hình nếu ấn nhẹ sẽ thấy nó lún vào. Vậy nếu e đưa đi sửa chữa thì có phải tháo máy để dán or thay màn hình ko ạ. Nếu dán or thay màn hình thì chi phí giao động là khoảng bao nhiêu ạ. Hoặc e muốn đổi mới thì phải chịu phí là bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.967735,
+         "id": "1023685",
+         "field_search": "question",
+         "question": "Màn hình samsung galaxy j700 gửi vào hãng thay hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.904085,
+         "id": "1133894",
+         "field_search": "question",
+         "question": "Cho em hỏi thay mặt kính lưng của s8 giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.870588,
+         "id": "1013094",
+         "field_search": "question",
+         "question": "Add ơi cho e hỏi điện thoại e là mobell Nova i7 mới mua còn bảo hành ạ bây giờ nó bị bể màn hình kiếng rồi mà cảm ứng vẫn còn nhạy ạ zậy thì cho e hỏi ik thay là bao nhiu màn hình là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.84512,
+         "id": "1159179",
+         "field_search": "question",
+         "question": "Mình vừa làm rơi điện thoại và bị vỡ hết màn hình trong nhưng không bị vỡ cường lực. Bị vỡ màn hình chính luôn ý ạ :((((. Cho mình hỏi là có thay được không nếu thay thì có mất nhiều tiền không ? Máy mình là máy samsung j4 Core ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.830753,
+         "id": "1005276",
+         "field_search": "question",
+         "question": "Em có con ip7  plus bị bể mặt kiến màn hình và nứt mặt camera sau, bên shop có thay không ạ, và giá lqf bao nhiu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.768751,
+         "id": "988158",
+         "field_search": "question",
+         "question": "Cho mình hỏi giá thay màn hình samsung gts 7392 là bao nhiêu? Màn hình của bình bị nứt, vẫn còn cảm ứng tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.702396,
+         "id": "1162981",
+         "field_search": "question",
+         "question": "Đt  samsung  j7primer  của   em  bị  bể   màn   hình  nếu   thay  lại  tầm   bao  nhiêu  tiền  vậy  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.682236,
+         "id": "1003866",
+         "field_search": "question",
+         "question": "Bên mình có thay mặt kính trước và mặt kính sau của sam sung galaxy S6 thường ko ạ? Nếu sửa chữa thì ở đâu ạ? E ở phú yên..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.633753,
+         "id": "1004300",
+         "field_search": "question",
+         "question": "Cho mình hỏi là ở TGDĐ còn bán miếng dán màn hình của samsung core prime k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.623653,
+         "id": "1010022",
+         "field_search": "question",
+         "question": "Xin chào hiện tại tôi đang sài samsung galaxy j7 prime và lớp kính màn hình của tôi bị vỡ. Tôi xin hỏi chi phí thay thế là bao nhiêu và mất bao lâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

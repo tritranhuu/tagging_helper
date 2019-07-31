@@ -1,0 +1,801 @@
+{
+   "id_query": "743622",
+   "total": 32036,
+   "total_current": 100,
+   "max_score": 84.60339,
+   "origin_question": " Chào bạn. Mình đàng iPhone 6 Plus mà quên mật khẩu và mail ko còn nhớ gì nữa. Giờ làm cách nào tạo lại ID được không? ",
+   "hits": [
+      {
+         "score": 41.29867,
+         "id": "1143395",
+         "field_search": "question",
+         "question": "Chào bạn, mình quên mật khẩu Icloud, mail đăng kí cũng là mail Icloud. Ngày sinh mình nhớ mà nó bảo ko đúng. Còn cách nào khác để mở khoá máy không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.437847,
+         "id": "912403",
+         "field_search": "question",
+         "question": "Chào bạn. Mình không nhớ rõ mật khẩu id apple nên đăng nhập nhiều lần dẫn đến bị khoá tài khoản. Các bạn có các nào để giúp mình lấy lại tài khoản và mật khẩu không ạ,mình dùng iphone 6 plus, ios 10.1.1. Thaks bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.538235,
+         "id": "758159",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 4 muốn hỏi mình quên Mail và mật khẩu, làm cách nào để tìm thấy được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.270527,
+         "id": "855645",
+         "field_search": "question",
+         "question": "Mình lập icloud bằng địa chỉ mail cũng đuôi icloud.com, bây giờ mình quên mất mật khẩu icloud, ko biết lấy lại mật khẩu bằng cách nào. các bạn giúp mình với!! :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.38249,
+         "id": "795602",
+         "field_search": "question",
+         "question": " Mật khẩu chạy chương trình iPhone 4 và khi mình quên mật khẩu của tài khoản ID mình phải làm gì mới lấy lại được. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.476028,
+         "id": "745255",
+         "field_search": "question",
+         "question": " em quên ID và email của icloud nhưng nhớ mật khẩu làm thế nào để lấy lại ID  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.26743,
+         "id": "745896",
+         "field_search": "question",
+         "question": " Mình quên câu hỏi bảo mật bây giờ muốn đổi mật khẩu ID mà không biết làm cách nào có ai biết giúp mình với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.614723,
+         "id": "790364",
+         "field_search": "question",
+         "question": "Em đang sử dụng iphone 6 plus nhưng vì lâu quá không sử dụng đến tài khoản icloud nên bay giờ e đã quên mật khẩu... Vậy làm cách nào tìm lại mật khẩu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.415016,
+         "id": "1165658",
+         "field_search": "question",
+         "question": "mình sd điện thoại moblistar thì mình resert lại máy. đến phần nhập gmail số 1 thì mình quên mật khẩu nên dùng một mail khác nhưng ko đc. Nó nói là dùng mail đã đồng bộ hóa mới đc.Nhưng mail đó đã quên mật khẩu. với lại số điện thoại của mail số 1 mình lại tạo 1 mail khác. Giờ làm sao đây! Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.391016,
+         "id": "1164997",
+         "field_search": "question",
+         "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.03872,
+         "id": "1007950",
+         "field_search": "question",
+         "question": "E bị quên mật khẩu id giờ muốn lấy lại mật khẩu id sam sung a3 thế nào được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.932161,
+         "id": "1159968",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 6 bị khóa kích hoạt mà e quên hết id apple và mật khẩu thì có sửa được ko z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.90194,
+         "id": "874719",
+         "field_search": "question",
+         "question": " tôi bị quên mật khẩu wechat cũng không có liên kêt chỉ nhớ mỗi id thì có cách nào để lấy lại mật khẩu không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.88092,
+         "id": "1168151",
+         "field_search": "question",
+         "question": "Mình quên mật khẩu ID Apple thì phải làm sao ạ Điện Iphone 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.551332,
+         "id": "778912",
+         "field_search": "question",
+         "question": " Chào Ad, mình đang xài iPhone 5S nhưng không nhớ tên tài khoản ID mà chỉ nhớ mật khẩu thì có lấy được lại không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.526726,
+         "id": "774459",
+         "field_search": "question",
+         "question": " Bi quên tài khoản và mật khẩu giờ làm cách nào để kích hoạt lại iPhone 5S? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.3484,
+         "id": "921090",
+         "field_search": "question",
+         "question": "Cách lấy lại tài khoản Line khi quên tên tài khoản và cả mật khẩu ( còn nhớ ID ) ( đã liên kết với fb nhưng đăng nhập vẫn ko vào )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.296236,
+         "id": "754204",
+         "field_search": "question",
+         "question": " quên mất Id Apple, đã chọn quên mật khẩu và gửi qua email, nhưng không thấy tin nhắn nào đến mail. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.220358,
+         "id": "802893",
+         "field_search": "question",
+         "question": " Mình bị quên mật khẩu giới hạn mà mình còn nhớ mật khẩu icloud thì mình có thể lấy lại mat khau gioi han được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.20172,
+         "id": "752044",
+         "field_search": "question",
+         "question": "Các bạn ơi mình tạo 1 id apple nhưng sau đó quên mật khẩu bây giờ e có vào trang idcloud.com bấm vào forgot password nhưng làm đầy đủ rồi nhưng đợi tới 30 phút hơn không có email về. mình nhớ id nhưng chỉ quên mật khẩu. Xin các bạn nào biết giúp mình nha. Mình hiện ở Winnipeg Manitoba Canada. Mình gửi yêu cầu cho Apple lúc 10h đêm chắc nó không làm việc hỉ ^_^. Thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.035597,
+         "id": "774462",
+         "field_search": "question",
+         "question": " Bị quên tài khoản và mật khẩu iCloud giờ làm cách nào để kích hoạt lại iPhone 5S? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.013441,
+         "id": "1148785",
+         "field_search": "question",
+         "question": "Mình cài đạt mật khẩu mà jo bị quên không nhớ mật khẩu để mở giờ làm như nào với mở đươc mật khẩu vậy  loại điện thoại oppo A37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.007067,
+         "id": "1113228",
+         "field_search": "question",
+         "question": "bây giờ em đang sài iphone mà quên mật khẩu id apple với lại quên câu hỏi bảo mật vậy bên anh có lập trình lại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.902372,
+         "id": "1005282",
+         "field_search": "question",
+         "question": "Chào các admin. Em đã lở quên mật khẩu  icloud vậy hỏi làm sao em tạo lại mật khẩu được ạ. (Hoặc là đăng xuất ra hẳn mà không cần mật khẩu ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.776644,
+         "id": "769389",
+         "field_search": "question",
+         "question": " Bạn cho hỏi trường hợp tớ bị quên mật khẩu mở máy cho iPhone 6 plus thì làm thế nào? giúp tớ với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.446733,
+         "id": "903770",
+         "field_search": "question",
+         "question": "Tài khoản id apple của mình bị khóa giờ mình chỉ biết mật khẩu thôi mà không nhớ id và câu hỏi bảo mật thì có thể lấy lại được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.155054,
+         "id": "904027",
+         "field_search": "question",
+         "question": "Bây giờ ID mình bị khóa vì lý do bảo mật. Sau đó mình chọn mở khóa tài khoản. Rồi nhập ID \"để lấy lại mật khẩu, mở khóa cho tài khoản, khôi phục lại ID apple\" nhưng nó lại thông báo là mail đó ko phải là ID apple. Vậy làm sao mình lấy lại được ID apple khi nó thông báo mail đó ko phải là ID apple. Mong các bạn giúp đỡ! hic hic",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.033112,
+         "id": "941878",
+         "field_search": "question",
+         "question": "mình có 1 máy iphone 6 plus xách tay mỹ, lúc trước có đến TGDD để nhân viên tạo gmail xong rồi cài dùm icloud bây giờ do quên mật khẩu icloud và gmail thì báo tài khoản không khả dụng, vậy có cách nào lấy lại mật khẩu không, có thể liên hệ với tôi qua số 0909.652.962 cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.634743,
+         "id": "1166113",
+         "field_search": "question",
+         "question": "Cho em hỏi cái iphone 6 á em mua sang tay mà cái appstore em quên mất cái mật khẩu rồi giờ em ra chạy chương trình lại tạo cái mới thì có được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.558128,
+         "id": "793380",
+         "field_search": "question",
+         "question": "Mình mua lại iPhone cũ của người khác, nhưng hiện đã đăng nhập iCloud và Apple ID của mình rồi. Giờ chủ cũ của máy không nhớ mật khẩu giới hạn thì mình có cách nào để gỡ bỏ cái mật khẩu đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.536455,
+         "id": "1159664",
+         "field_search": "question",
+         "question": "Chào  TTMình  quên  tài  khoản  và  mật  khẩu  icloud trên  ipad giờ  bị khóa  lai ko  mở  được. Vay xin hỏi  cô cách  nào  mở  được  ko àh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.5024,
+         "id": "1166147",
+         "field_search": "question",
+         "question": "AD cho e hỏi iphone 6 của mẹ e bị quên mật khẩu mà mở bằng máy tính bảo nhập icloud mà mẹ e lại ko nhớ. Giờ làm sao có thể mở đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.391018,
+         "id": "768357",
+         "field_search": "question",
+         "question": "Em có 1 iPhone 5 bị dính iCloud. Giờ em nhớ tên và mật khẩu những đánh vào nó nói tài  khoản bị vô hiệu hóa. Em vào đặt lại mật khẩu thì không nhớ được mail và cũng như câu hỏi bí mật. Giờ em phải làm sao Admin ơi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.349072,
+         "id": "809092",
+         "field_search": "question",
+         "question": " Mình dùng lại máy 5s giờ không có mật khẩu ID,mình có thể làm cách nào để lập ID mới để tải được các ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.190771,
+         "id": "760834",
+         "field_search": "question",
+         "question": "Xin lỗi làm ơn cho em hỏi một chút ạ. Em có dùng 1 máy iPhone 6 plus. Nhưng do bạn em nghịch nên giờ em mất mật khẩu khoá máy, em lại không cài chế độ mở vân tay. Mà hiện tại em lại không nhớ tên cũng như mật khẩu iCloud. Làm ơn cho em hỏi có cách nào khắc phục lỗi trên không ạ? Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.136526,
+         "id": "792372",
+         "field_search": "question",
+         "question": " Tôi mua máy cũ không biết tài khoản và mật khẩu ID apple bây giờ muốn tạo mới của mình thì làm như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.918383,
+         "id": "1146859",
+         "field_search": "question",
+         "question": "EM bị khóa tài khoản icloud, mà bây giờ đặt lại mật khẩu thì nó gửi về mail, mà mail tài khoản của em là mail apple luôn , có cách nào lấy lại không ạ cách xác thực câu hỏi bí mật của em bị khóa không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.809875,
+         "id": "909175",
+         "field_search": "question",
+         "question": " Cho mình hỏi nếu quên cả Icloud và mật khẩu thì có cách nào mở được Ipad Air ko bạn? Cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.775724,
+         "id": "742071",
+         "field_search": "question",
+         "question": "Chào anh chị!Mình có 1 ID Apple sử dụng khoảng 3 năm vẫn bình thường.Bây giờ mình mất mật khẩu, mình lấy lại mật khẩu từ Apple nhưng không nhận được mail xác minh từ Apple. Mình làm đúng yêu cầu và thấy email đã gửi, kiếm tất cả trong hộp thư trong email vẫn không thấy email xác nhận. Ai biết cách nào giúp mình với. Minh Tiến.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.726074,
+         "id": "966405",
+         "field_search": "question",
+         "question": "Mình bị mất zalo vì khóa sim và quên mật khẩu. Giờ mình muốn tìm lại danh sách bạn bè tren zalo cũ mà ko có lưu số diện thoại. Vậy mình có cách nào tìm dc ko. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.690163,
+         "id": "931099",
+         "field_search": "question",
+         "question": "iphone mình bị quên mật khẩu mở khoá, tài khoản icloud vaof được mà ko kết nối 3g và wifi nên ko restore được. bạn giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.61886,
+         "id": "775176",
+         "field_search": "question",
+         "question": " Quên mật khẩu iphone phải làm như thế vậy bạn diện thoại bây giờ ở trạng thái không tải gì về được hết? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.574915,
+         "id": "799271",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt iP5 của mình cài đặt lại nhưng mình lại quên mật khẩu để khởi động máy vì trước đó mình có đăng ký nhiều gmail giờ mình ko nhớ mật khẩu máy không khởi động được. Liệu có cách nào khởi động đc ko hat là vứt xó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.54747,
+         "id": "855130",
+         "field_search": "question",
+         "question": "Em bị mất 5s 16G ios bản gốc, em đã tạo icloud nhưng giờ ko nhớ ID, chưa xác nhận mail thì phải làm thế nào để lấy lại tài khoản ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.415396,
+         "id": "1154280",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình quên mật khẩu iphon 6 giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.282625,
+         "id": "995178",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình bị quên mật khẩu ID Apple cách đây khoảng 1 tháng. Sau đó mình có làm gửi xác minh đến Apple và có yêu cầu chờ tài khoản hiện đang khóa vì lý do bảo mật và chờ xác minh.Nhưng 1 tháng nay không có hướng dẫn gửi về cho mình.Có cách nào để mình lấy lại được mật khẩu và mở khóa ID ko. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.928799,
+         "id": "1021271",
+         "field_search": "question",
+         "question": "ad cho m hỏi, hôm trước m quên mật khẩu TK ID Apple và m đã vào địa chỉ iforgot.apple.com để lấy lại mật khẩu thì nhận được thông báo 14 ngày sau m mới khôi phục được tài khoản. nhưng giờ m đã nhớ ra Mk, m muốn hủy khôi phục tài khoản có được không ad? và hủy thì làm cách nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.882645,
+         "id": "779646",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ e đang dùng điện thoại iphone 5s mà jo e quên nick ID apple với cả mật khẩu giờ ko biết có sửa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.801891,
+         "id": "997938",
+         "field_search": "question",
+         "question": "Chào bạn.Mình đã quên mất mật khẩu samsung cloud. Và bây giờ mình không reset lại máy được. Mình dùng dt samsung j7 prime. Khi mình vào link trong gmail. Yêu cầu thay đổi mật khẩu mà không được. Nó luôn hiển thị như ảnh bên dưới. Nhờ bạn giúp mình. Cảm ơn.Không hiểu mình nhập mật khẩu như hướng dẫn vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.707172,
+         "id": "990518",
+         "field_search": "question",
+         "question": "cho hỏi, muốn xem lại mật khẩu wifi đã lưu trong điện thoại iphone mà bị quên phải làm cách nào???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.682665,
+         "id": "804763",
+         "field_search": "question",
+         "question": " Tôi bị khóa tài khoản ID của máy iPhone 6S Plus giờ phải làm thế nào và làm cách nào để mở khóa học tạo tài khoản mới? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.673359,
+         "id": "1160959",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ , bây giờ em có con iphone 6 plus nhưng bị dính icloud em muốn xoá tài khoản luôn phải làm cách nào ? Mail thì cũng không có nên em không lấy lại mật khẩu được Mà điện thoại lại phiên bản cũ ios 9.0.2 Nếu em lên tgdđ sữa chửa phải mất bao nhiêu tiền ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.603235,
+         "id": "829855",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng ip4s mà quyên mật khẩu h mình muốn cài lại máy nhưng ko nhớ mật khẩu liệu mònh cài lại bị trắng máy thì có thể sửa được không? Và muốn lấy lại mật khẩu thì làm thế nào? Không phải mật khẩu khoá màn hình đâu nhé!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.530474,
+         "id": "754813",
+         "field_search": "question",
+         "question": " iPhone 6 quên mật khẩu khóa màn hình thì làm sao mở được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.493383,
+         "id": "1162006",
+         "field_search": "question",
+         "question": "Xài win10 cài mật khẩu mở máy mà bây giờ quên mật khẩu thì có cách nào khắc phục được k ạ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.17228,
+         "id": "767905",
+         "field_search": "question",
+         "question": "Mình mới sử dụng iPhone 5s đã tạo id apple bây giờ facetime phải sử dụng mail mà không sử dụng số điện thoại phải chỉnh thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.11729,
+         "id": "1159634",
+         "field_search": "question",
+         "question": "Máy em ss a9 bị quên mật khẩu. Không hard resert được và cũng không nhớ ss account. Giờ em phải làm s ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.080307,
+         "id": "761244",
+         "field_search": "question",
+         "question": "Mình mua máy iphone5 ở TGDD được khoảng 2 năm rùi và mình nhờ tạo icloud ở đây nhưng bây giờ không mật khẩu mail khôi phục.add có thể gợi ý mật khẩu hay đặt được không ạ.mình không biết nhiều về cái này. Mail mình đuôi icloud.com ạ. Mong add giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.06139,
+         "id": "772847",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 6 em bị vô hiệu hóa em quên mật khẩu giờ làm thế nào nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.922024,
+         "id": "794768",
+         "field_search": "question",
+         "question": " Mình quên mật khẩu của iPhone 4S làm sau mình cài lại được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.859123,
+         "id": "1159027",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6 plus mà tải mess không được, người ta bảo em phải đăng nhập vào iTunes store (mật khẩu id Apple) nhưng tài khoản Apple này bị khoá và em không nhớ lần đăng nhập, có thể giúp em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.851168,
+         "id": "772902",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 6 bị vô hiệu hóa khi khởi đóng lại thì em quên mật khẩu giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.841469,
+         "id": "751946",
+         "field_search": "question",
+         "question": "Em xài iPhone 3GS,em có format 1 lần và bây giờ mỗi lần vào App Store tải ứng dụng thì nó cứ báo nhập mật khẩu ID Apple của người khác.vậy giờ em muốn tạo ID Apple của mình để tải ứng dụng được không các bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.831505,
+         "id": "769271",
+         "field_search": "question",
+         "question": " Cho mình hỏi tài khoản iCloud bị khóa gửi về mail thì ko nhân đc có cách nào mở khóa và đặt lại mật khẩu ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.824568,
+         "id": "779470",
+         "field_search": "question",
+         "question": "Điện thoại của em cứ mở ra là bắt đăng nhập vào iCloud và nhập mật khẩu cho id \"thaopham114@yahoo.com.vn' em lại không nhớ mật khẩu làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.799223,
+         "id": "927133",
+         "field_search": "question",
+         "question": " mình quên Pass ID của iphone rồi sao đây ad, nhưng mail liên kết mình vẫn nhớ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.75361,
+         "id": "777071",
+         "field_search": "question",
+         "question": " Quên mật khẩu gmail tạo ở thế giới di động làm sao lấy lại được vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.67699,
+         "id": "754814",
+         "field_search": "question",
+         "question": " iPhone 6 quên mật khẩu khóa màn hình thì làm sao để mở được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.653448,
+         "id": "803082",
+         "field_search": "question",
+         "question": " Mình xài ip5s mà minh quên mã giới hạn rồi thì có cach nào tìm lại đươc không, mình vẫn nhớ mật khẩu icloud ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.593117,
+         "id": "1020905",
+         "field_search": "question",
+         "question": "Iphone mà bị quên mật khẩu làm thế nào mở ạ. Iphone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.564533,
+         "id": "987584",
+         "field_search": "question",
+         "question": " Toi quen ID iphone 4s làm thế nào để lấy lai ID vả lại tôi quên ko nhớ email tôi phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.466604,
+         "id": "845469",
+         "field_search": "question",
+         "question": " cho tôi hỏi tôi phải làm gì khi tải lại zalo mà quên tài khoản ID máy iphone vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.443039,
+         "id": "887676",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphon 6 plus của mình đã tắt chức năng Find my iPhone nhưng không có tài khoản icloud cũ. Giờ lại quên mất mật khẩu màn hình có restore iphone được không? điện thoại mình chưa đồng bộ máy tính bao giờ. Help me!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.413937,
+         "id": "796148",
+         "field_search": "question",
+         "question": "Tôi quên mật khẩu Apple id của mình. Tôi tìm lại thì họ bắt nhập mã khôi phục nhưng tôi không lưu lại. Bay giờ phải làm thế nào xin hãy giúp tôi :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.39644,
+         "id": "1000117",
+         "field_search": "question",
+         "question": "Lenovo A7000 plus bị khoá do quên mật khẩu. Cách mở khoá và chạy lại tool thế nào. Thay nút volume có linh kiện không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.372292,
+         "id": "1159051",
+         "field_search": "question",
+         "question": "Tôi quên mật khẩu mở khóa và mật khẩu andrao của iPhone có chạy lại được phần mềm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.338137,
+         "id": "774474",
+         "field_search": "question",
+         "question": "Chào anh chị. Em bị quên tài khoản va mật khẩu iCloud để kính hoạt lại iPhone 5s. Giờ làm cách nào để kính hoạt lại điện thoại iPhone của em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.316942,
+         "id": "779923",
+         "field_search": "question",
+         "question": " Mình có em Galaxy note 5 sơ tâm bị quên mật khẩu và email giờ có cách nào reset không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.242048,
+         "id": "776762",
+         "field_search": "question",
+         "question": " Mình không nhớ ID Apple và mật khẩu để khích hoạt iphone. mong mọi người giúp đỡ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.130545,
+         "id": "794627",
+         "field_search": "question",
+         "question": "Qtv cho tôi hỏi. Tôi có mua 1 ipad mini 2 và nhờ nhân viên tạo dùm 1 tài khoản icloud. Giờ tôi đã quên mật khẩu và câu hỏi bảo mật. Tôi muốn lấy lại mật khẩu thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.115494,
+         "id": "813546",
+         "field_search": "question",
+         "question": " tạo mật khẩu khóa màn hình iPhone 6 thì phải thao tác thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.10926,
+         "id": "858081",
+         "field_search": "question",
+         "question": "Cho hỏi cái tài khoản id apple do tgdd lập giờ ko nhớ mật khẩu thì lấy lại làm sao. Tài khoản là htkt.tdt9084@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.091724,
+         "id": "839994",
+         "field_search": "question",
+         "question": " Tôi có iphone 6s plus tui quên mật khẩu màn hình quên luôn mật khẩu icloud z phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.040335,
+         "id": "968567",
+         "field_search": "question",
+         "question": "em quên mật khẩu zalo và yêu cầu mã xác nhận để tạo mật khẩu mới nhưng không nhận được tin nhắn. phải làm sao ạ, help me!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.981155,
+         "id": "1147619",
+         "field_search": "question",
+         "question": "Máy Samsung galaxy j7 plus,cài đặt khóa ứng dụng mà quên mật khẩu thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.850557,
+         "id": "1169318",
+         "field_search": "question",
+         "question": "Zalo em bị đăng xuất ra. Mà em không nhớ mật khẩu, sdt zalo cũng bị mất. Vậy em làm cách nào lấy lại mật khẩu hay làm sao để biết được sdt trên để đăng ký lại sdt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.839008,
+         "id": "1141564",
+         "field_search": "question",
+         "question": "em có cái máy tính acer mà để lâu không dùng tới nên quên mật khẩu. Có cách nào mở mật khẩu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.828075,
+         "id": "1138139",
+         "field_search": "question",
+         "question": "Điện thoại của e là sam sung a6 plus e mới cài mật khẩu mẫu hình vẽ mà giờ quên e không biết làm thế nào để mở",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.757004,
+         "id": "1148451",
+         "field_search": "question",
+         "question": "Cho em hỏi  giá iphone 6 plus mất icloud quên mật khẩu đt mất bao nhiêu tiền ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.73824,
+         "id": "807151",
+         "field_search": "question",
+         "question": "Mình có máy điện thoiaj iphone 4S sau khi tải cài đặt phần mềm trên máy sau đó khởi động lại máy báo phải nhập mật mật khẩu ID Apple nhưng mình không nhớ, giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.72931,
+         "id": "825348",
+         "field_search": "question",
+         "question": " Cách lấy lại mật khẩu ID APPLE của iPhone 4S khi không đăng nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.705475,
+         "id": "995684",
+         "field_search": "question",
+         "question": "cho mình hỏi có cách nào khôi phục lại đt ip7 khi ko nhớ mật khẩu và lúc mua trong máy có tài khỏan icloud nhưng ko để ý tới làm cách nào có thể khôi phục lại đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.686523,
+         "id": "1021693",
+         "field_search": "question",
+         "question": "Ad cho hỏi:Sao trong gmail của mình đã có tin nhắn xác nhận đặt gmail làm id apple rồi. nhưng giờ quên mật khẩu, làm theo ad hướng dẫn lấy lại mật khẩu nhưng bên apple bảo là id không tồn tại.giờ làm sao ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.685219,
+         "id": "1009560",
+         "field_search": "question",
+         "question": "Chào AD. Mình hiện đang quên tài khoản apple trên máy iphone 5s của mình.HIện tài khoản mình đã bảo mật 2 lớp, và đang mất mật khẩu, bị khóa do nhập sai mk nhiều lầnMình vẫn còn nhớ: Email, sđt đăng kí bảo mật (vẫn nhận tin nhắn về bt), chỉ mỗi mỗi pass.Giờ mình vào khôi phục nó cứ bắt nhập pass cũ để mở khóa mà ko nhớ pass cũ. AD có cách nào giúp mình với ạ. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.634584,
+         "id": "1147681",
+         "field_search": "question",
+         "question": "C hị bị mất mật khẩu ID apple và cũng muốn tạo ID mới nhưng không được. Dù chị đã làm theo hướng dẫn trên mạng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.622866,
+         "id": "822712",
+         "field_search": "question",
+         "question": "Cho e hỏi em quên tên tài khoảng app store nhưng em còn nhớ mật khẩu!vậy giờ em phải làm thế nào để lấy lại tài khoảng app store vậy tgdd???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.613005,
+         "id": "792942",
+         "field_search": "question",
+         "question": "hi bạn,cho mình hỏi mình mua điện thoại IPhone 5s cũ, mình không có mật khẩu ID Apple nên lúc tải một số ứng dụng mình không tải được do bị yêu cầu mật khẩu. mình đã lập tk Icloud. Vậy giờ làm sao được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.605688,
+         "id": "874757",
+         "field_search": "question",
+         "question": " Máy ipad mình báo mất giờ không nhớ mật khẩu giờ mong ad chỉ giúp mình khôi phục lại, icloud mình còn nhớ. Tks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.601503,
+         "id": "830285",
+         "field_search": "question",
+         "question": "Mật khâu iphone không nhớ làm sao để có lạiChẳng qa là em mới đổi mật khẩu mà có thằng bạn nó biết nên vào phá và nó bấm bậy nên cũng chả nhớNên em phải nhờ giúp ạicloud em vẫn còn nhớ tài khoản với mật khẩu ạMod giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1016519",
+   "total": 30374,
+   "total_current": 100,
+   "max_score": 63.5323,
+   "origin_question": " Mua thì sony có dễ làm thủ tục không và làm hồ sơ khoản bao lâu ",
+   "hits": [
+      {
+         "score": 27.777645,
+         "id": "1018601",
+         "field_search": "question",
+         "question": "cho em hỏi muốn mua trả trước 0 thì phải làm ntn ạ ? đi đến cửa hàng chờ xét hồ sơ bao lâu ạ . liệu hồ sơ có dc xét k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.818571,
+         "id": "1000666",
+         "field_search": "question",
+         "question": "cho e hỏi hồi trước e có làm hồ sơ trả góp và đã hoàn thành xong.h e muốn mua máy mới trả góp thì làm lại hồ sơ hay sao ak.hồ sơ em bên FEcredit",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.413168,
+         "id": "1140532",
+         "field_search": "question",
+         "question": "Cho mình hỏi mua trả góp online bao lâu mới làm xong thủ tục.mình gửi thông tin qua nhưng mới gọi điện xác nhận thông tin chứ chưa được thẩm định hồ sơ mua trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.196129,
+         "id": "1002097",
+         "field_search": "question",
+         "question": "Mua trả góp làm thủ tục có lâu không?samsum j7 prime trả góp 0",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.962963,
+         "id": "1012071",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua sony xa1 ultrar trả góp thì làm hồ sơ như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.954802,
+         "id": "1154391",
+         "field_search": "question",
+         "question": "nếu làm xong thủ tục cọc điện thoại samsung a50 thì được ưu đãi tặng quà + trả góp 0% vậy muốn làm hồ sơ trả góp 0% có cần đóng thêm cho đủ 30% để đủ điều kiện làm hồ sơ trả góp 0% bên Home không vậy? hay là chỉ cần cọc 500 là được trả góp 0% mà không cần trả trước nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.19443,
+         "id": "1135427",
+         "field_search": "question",
+         "question": "Thay pin  7plus thủ tục và giá bao nhiêuThời gian bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.288599,
+         "id": "1004369",
+         "field_search": "question",
+         "question": "cho e hỏi e làm hồ sơ ứng tuyển online đến phần đính kèm hồ sơ cá nhân thì phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.23192,
+         "id": "1013265",
+         "field_search": "question",
+         "question": "Chào shop, cho mình hỏi, nếu mình mua trả góp thì dùng nằng lái và cmnd bản gốc để làm hồ sơ rồi bên shop có giữ bản gốc đến hết hạn hợp đồng hay trả lại khách sau khi làm hồ sơ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.80552,
+         "id": "1165853",
+         "field_search": "question",
+         "question": "mình đã đăng ký mua trả góp Fe Credit, trong bao lâu thì hồ sơ được xét duyệt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.34919,
+         "id": "1022479",
+         "field_search": "question",
+         "question": "Em ở thái nguyên vừa nhận được tin nhắn trúng tuyển từ TGDD check mail để làm hồ sơ nhưng em kiểm tra mail thì không thấy thông báo gì cả. A/c cho e hỏi giờ e phải làm gì và làm như thế nào ạ nộp hồ sơ ở đâu, e sợ không nộp hồ sơ kịp thì mất cơ hội 😥",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.745602,
+         "id": "1013603",
+         "field_search": "question",
+         "question": "Mình có làm hồ sơ mua điện thoại trả góp không biết có nhận được chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.411097,
+         "id": "1159676",
+         "field_search": "question",
+         "question": "Cho hỏi nếu giờ mình muốn mua trả góp thì thủ tục làm nhanh không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.88692,
+         "id": "993378",
+         "field_search": "question",
+         "question": "Cho mình hỏi trước mình đã mua trả góp 1 điện thoại rồi, giờ mình mua trả góp 1 cái nữa nhưng có cần phải làm lại thử tục hồ sơ mới không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.54314,
+         "id": "788211",
+         "field_search": "question",
+         "question": "cho em hỏi trước em có tham gia gói trả góp với gói trả 0d với cty tài chính fedcdit về hồ sơ bị hủy ,bây giờ em muốn mua trả góp iPhone 6 và em trả trc 30% có được làm hồ sơ nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.541328,
+         "id": "1163007",
+         "field_search": "question",
+         "question": "Xin chào, e muốn mua trả góp điện thoại, và muốn cách thức làm thủ tục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.53429,
+         "id": "994734",
+         "field_search": "question",
+         "question": "Em chưa đủ tuổi để mua trả góp. Phụ huynh đứng ra làm thủ tục trả góp thì có phải đến tận nơi để làm thủ tục không ạ hay chỉ cần em mang giấy tờ đi thôi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.459217,
+         "id": "760074",
+         "field_search": "question",
+         "question": " Em muốn mua iPad mini trả góp thì thủ tục thế nào và trả trước bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.877897,
+         "id": "1147534",
+         "field_search": "question",
+         "question": " Mua trả góp 2 sản phẩm được không vậy thế giới di động có hồ sơ góp r có cần làm nữa ko vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.862455,
+         "id": "1013550",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới đi làm bài test 15p phỏng vấn về, làm sao e biết kết quả ạ ? Vào xem thì dòng hồ sơ ghi không phù hợp là sao ạ ? E tốt nghiệp đại học, hồ sơ chưa nộp sao ghi không phù hợp ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.711044,
+         "id": "979474",
+         "field_search": "question",
+         "question": "Em muốn xin việc vào bách hoá xanh. Em làm hồ sơ nộp online mà tới phần  Đính kèm Hồ sơ cá nhân (.doc hoặc .pdf)  em phải làm thế nào hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.668058,
+         "id": "996552",
+         "field_search": "question",
+         "question": "Cho e hỏi người sn 97 có đủ tuổ làm hồ sơ trả gop 0đ k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.49608,
+         "id": "1007194",
+         "field_search": "question",
+         "question": "mình muốn mua tv trả góp bên điện máy xanh nhưng ở sapa không có. mình muốn hỏi mình có thể làm thủ tục mua trả góp ở thế giới di động sapa được không hay phải ra điện máy xanh lào cai làm thủ tục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.282259,
+         "id": "990754",
+         "field_search": "question",
+         "question": "cho em hỏi là e mún mua trả góp dth oppo thì thủ tục làm sao vyậ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.181398,
+         "id": "990900",
+         "field_search": "question",
+         "question": "Mua trả gop oppo neo9 cân thủ tục gì và trả trươc bao nhiêu vậy ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.993689,
+         "id": "1014127",
+         "field_search": "question",
+         "question": "em có mua trả góp điện thoại hết 1 lần và trả xong rồi. vậy cho em muốn mua thêm cái điện thoại nữa có cần chụp hình, và làm thủ tục vay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.969057,
+         "id": "760728",
+         "field_search": "question",
+         "question": " Nếu em mua iPhone 6 bản 16gb thì phải trả trước bao nhiêu và thủ tục cần những gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.954407,
+         "id": "1006551",
+         "field_search": "question",
+         "question": "Chào các anh chị admin. Hôm bữa em có nộp hồ sơ ứng tuyển và nhận được lịch đi phỏng vấb. Nhưng có trục trặc về vấn đề xe cộ giữa đường nên  em không tiếp tục đi phỏng vấn được. Em đã nộp lại hồ sơ ứng tuyển nhưng không nhận được tin nhắn đi phỏng vấn nữa và trên em tra cứu kết quả cũng không hiện đang chờ duyệt. Vậy em phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.862026,
+         "id": "1137052",
+         "field_search": "question",
+         "question": " xin hỏi xiaomi redmi s2 còn k a c ? Tôi muốn mua trả góp được k,và làm thủ tục thì tới thegioididong địa chỉ nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.80216,
+         "id": "1001407",
+         "field_search": "question",
+         "question": "Xin chào. cách đây vài ngày tôi có làm hồ sơ trả góp nhưng bị từ chối sau này tôi mới biết nguyên nhân bị từ chối là do thời điểm đó anh trai tôi để cháu nghịch đt và chặn mất cuộc gọi nên bên kia ko họi được vậy giờ tôimuốn làm lại hồ sơ trả góp thì có đc không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.729742,
+         "id": "1014627",
+         "field_search": "question",
+         "question": "Cho em hõi làm hồ sơ online sao ạ Em muốn mua điện thoại mà trã trc 0d",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.702885,
+         "id": "1000340",
+         "field_search": "question",
+         "question": "cho hỏi mình có đặt mua trả góp Samsung J7 Pro bên TGDD. Mình muốn nhận máy vào ngày mai thì ngày mai làm hồ sơ vay trả góp có kịp không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.694643,
+         "id": "999132",
+         "field_search": "question",
+         "question": "Em chỉ có hộ khẩu 4 trang thôi, đã công chứng rồi, có làm hồ sơ trả góp đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.674652,
+         "id": "1159660",
+         "field_search": "question",
+         "question": "nếu chỉ có chứng minh nhân dân photo công chứng và sổ hộ khẩu gốc có thể làm hồ sơ trả góp điện thoại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.537962,
+         "id": "1023812",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn mua trả góp, có CMND, nhưng chỉ có sổ hộ khẩu photo công chứng thôi thì có được làm thủ tục không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.496859,
+         "id": "1010708",
+         "field_search": "question",
+         "question": "adm ơi e có tạm trú thành phố hồ chí minh cần mua trả góp thủ tục như thế nào cho nhanh gọn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.494867,
+         "id": "759191",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua trả góp ipad mini 2 nhưng lại không đủ tuổi. mình làm hồ sơ trên mạng thì yêu cầu sinh năm 95 mình 96 thì phải làm sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.396286,
+         "id": "999604",
+         "field_search": "question",
+         "question": "cho hỏi nếu tôi muốn nhờ 1 người ở tỉnh khác làm hồ sơ trả góp thi có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.38112,
+         "id": "774987",
+         "field_search": "question",
+         "question": " Cho mình hỏi mua iPhone 5S trả trước 2 triệu thì mỗi tháng phải góp bao nhiêu và thủ tục cần gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.282377,
+         "id": "1021885",
+         "field_search": "question",
+         "question": "khi hồ sơ duyệt thì đến tgdd có thẳm định hỏi lại không hay khi hồ sơ duyệt thì chỉ cần màng giấy tờ đến đối chiếu chụp ảnh xòng về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.209217,
+         "id": "1143605",
+         "field_search": "question",
+         "question": "em muốn mua một máy trả góp qua thẻ thì e đến cửa hàng và làm thủ tục hay phải đặt trước qua website của cửa hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.102877,
+         "id": "1021881",
+         "field_search": "question",
+         "question": "tôi muốn hỏi là khi làm hồ sơ trả góp online khi tôi đen ửa handgf thf làm những gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.04799,
+         "id": "1138555",
+         "field_search": "question",
+         "question": "đặc cọc rồi làm hồ sơ trả góp luôn hả ad..mình thêm tiền cọc được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.004251,
+         "id": "1152708",
+         "field_search": "question",
+         "question": "mình muốn mua điện thoại ip7 trả góp thì thủ tục như thế nào và mức trả ban đầu thấp nhất là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.834042,
+         "id": "1014528",
+         "field_search": "question",
+         "question": "Cho mình hỏi, không có bằng lái xe nhưng có hồ sơ gốc thi sát hạch lái xe và cmnd có đc duyệt hồ sơ không ạ. Hồi trước mình có đứng tên mua trả góp 1 lần rồi, bây giờ có cần thiết giấy tờ trên nữa không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.635475,
+         "id": "799972",
+         "field_search": "question",
+         "question": " Trả góp iPhone 4S thủ tục ra sao và trả góp online được không bạn phải trả bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.607977,
+         "id": "989924",
+         "field_search": "question",
+         "question": "Mình mua điện thoại trả góp dưới 5rtr, mình có cần đưa trước bao nhiêu ? Thủ tục nhanh không và cần có những loại giấy tờ nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.575743,
+         "id": "1014566",
+         "field_search": "question",
+         "question": "19 tuổi có mua được trả góp không ạ . nếu mua được thì thủ tục như nào và nếu em lấy ip6 thường bản 32gb thì trả trước bao nhiêu % , theo phương thức nào thì trả trước thấp nhất có thể ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.526571,
+         "id": "1020939",
+         "field_search": "question",
+         "question": " em đang làm hồ sơ, nhưng ở phần 2 sổ hộ khẩu chỉ được up 4 hình mà e lại up nhầm hình thì giờ phải làm sao để sửa ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.35779,
+         "id": "1020012",
+         "field_search": "question",
+         "question": "e muốn mua đt oppo trả góp thì thủ tục  như thế nào ạ, trả trước bao nhiêu tiền, và lãi xuất như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.31148,
+         "id": "876777",
+         "field_search": "question",
+         "question": " 5s sử dụng liên tục thì được bao lâu vậy. sạc bao lâu thì đầy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.284376,
+         "id": "765969",
+         "field_search": "question",
+         "question": " Sao mình có đặt mua iphone 5s trả góp sao đợi xét duyệt hồ sơ không thấy trả lời? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.283247,
+         "id": "1158003",
+         "field_search": "question",
+         "question": "Mình muốn mua trả gop xs max thì cần những gì và thủ tục nhanh gọn k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.267733,
+         "id": "759197",
+         "field_search": "question",
+         "question": "Tôi là sinh viên muốn mua máy laptop đùng vẽ đồ họa có được ưu đãi nhiều không ? Khi mua trả góp tôi phải làm những thủ tục gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.250937,
+         "id": "1004956",
+         "field_search": "question",
+         "question": "cho em hỏi vì sao hồ sơ của em đã được xét duyệt lân 1 khi mang hồ sơ gốc ra đối chiếu lại không được duyệt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.176086,
+         "id": "761372",
+         "field_search": "question",
+         "question": "Cho em hỏi mua trả góp iPhone 5s thời điểm giá 8.490.000đ có được không ạ và thủ tục trả góp cần những gì ạ? lãi suất bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.056784,
+         "id": "1152868",
+         "field_search": "question",
+         "question": "Chào anh /chị.mình đang tính mua trả góp 1 laptop .mình chỉ cần mang cmnd+bằng lái xe và trả trước ví dụ 30% tiền.là có thể làm thủ tục nhận máy ngay đúng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.999146,
+         "id": "1009090",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi là ví dụ em xét duyệt hồ sơ trả góp qua điện thoại vào buổi sáng ngân hàng đã duyệt thì tối em ghé cửa hàng tgdd làm hồ sơ trả góp luôn đc ko..hay xét duyệt xong rồi phải đến liền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.951674,
+         "id": "1158808",
+         "field_search": "question",
+         "question": "Cho em hỏi em sinh  ngày 11.6.1999 thì  e có thể mua đt trr góp được k. Và mua thì cần những thủ tục gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.904951,
+         "id": "1019034",
+         "field_search": "question",
+         "question": "EM HIỆN ĐANG THAM GIA TRẢ GÓP CỦA NGÂN HÀNG FE.CÒN 2 THÁNG NỮA LÀ E HẾT KỲ THANH TOÁN, NHƯNG GIỜ EM MUỐN THANH LÝ NHANH HỢP ĐỒNG ĐỂ TIẾP TỤC THAM GIA MUA,NHƯNG VẤN ĐỀ LÀ MỌI GIẤY TỜ CỦA EM ĐANG TRONG THỜI GIAN LÀM LẠI,VẬY CHO EM HỎI SẴN HỒ SƠ ĐÓ E CÓ THỂ TIẾP TỤC MUA DC KHÔNG Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.832924,
+         "id": "1001908",
+         "field_search": "question",
+         "question": "cho em hỏi về thủ tục và hợp đồng mua trả góp điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.76337,
+         "id": "1144773",
+         "field_search": "question",
+         "question": " Cho mik hỏi mik có góp 1 cái điện thoại đã góp xong bây h mún góp thêm 1 cái nữa thì có cần làm hồ sơ lại ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.683765,
+         "id": "777446",
+         "field_search": "question",
+         "question": " Mình muốn mua điện thoại iPhone 6 của PPF thì hồ sơ cần những gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.592953,
+         "id": "1002948",
+         "field_search": "question",
+         "question": "cho em hỏi là em mua trả góp bên viettel store làm hồ sơ bị trả về thế em muốn mua trả góp bên thế giới di động được nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.543137,
+         "id": "995687",
+         "field_search": "question",
+         "question": "Em đang góp samsung j7prem ak.nay em muốn làm thủ tục góp thêm nữa được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.5119,
+         "id": "1158669",
+         "field_search": "question",
+         "question": "Realme 3 pro nếu đầy pin và chơi game liên tục thì được bao lâu vâyk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.482658,
+         "id": "1142974",
+         "field_search": "question",
+         "question": "Cho em hỏi là hồ sơ của em có thể mua trả gop điện thoại mới hk 0372900834",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.47572,
+         "id": "1020946",
+         "field_search": "question",
+         "question": "e đang làm hồ sơ nhưng ở phần sổ hộ khẩu chỉ được up 4 hình mà e up nhầm hình thì giờ muốn xóa đi để up hình khác thì phải làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.45486,
+         "id": "1139728",
+         "field_search": "question",
+         "question": " E làm hồ sơ trả góp ngân hàng HD saigon mà kh duyệt . Vậy khi nào e mới được trả góp lại vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.443056,
+         "id": "1145405",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua trả góp IpX 64GB bằng thẻ tín dụng VPBank, trong vòng 6 tới 12 tháng thì mỗi tháng phải trả bao nhiêu, hồ sơ thế nào? Và cách thức thanh toán trả góp ra làm sao, charge hết tiền một lần, hay mỗi tháng sẽ quẹt thẻ 1 lần?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.43436,
+         "id": "814948",
+         "field_search": "question",
+         "question": " Chào add mình muốn mua ip 6s pl thì có cần thủ tục gì k? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.331953,
+         "id": "1018152",
+         "field_search": "question",
+         "question": "minh  mới mua trả góp cua FE r xong rồi .mình cũng trả hết rồi .h minh muốn mua trả gop nokia3 có cần làm thủ tục lại ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.323488,
+         "id": "831060",
+         "field_search": "question",
+         "question": " Cho em hỏi là minh mua góp điện thoại iphone5s cần những hồ sơ gi... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.299608,
+         "id": "794919",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp hai chiếc iPhone 5s có được không và thủ tục như thế nào tư vấn giúp mình được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.282993,
+         "id": "1140802",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp thì cần những thủ tục gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.282993,
+         "id": "988467",
+         "field_search": "question",
+         "question": "Mình muốn mua ipad trả góp thì cần những thủ tục gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.161423,
+         "id": "1164823",
+         "field_search": "question",
+         "question": "Chào ad. Cho mình hỏi bên mình có chương trình làm thẻ trả góp 0% cho khách hàng đã trả góp lần trước đó. Có thẻ đó khj mua lần sau không cần phải làm thủ tục lại không vậy? Thks ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.107737,
+         "id": "1005368",
+         "field_search": "question",
+         "question": "Mình mới được người quen tặng dt j7 pro. mới mua 2 ngày trước. Giờ mình muốn đổi lại để mua iphone 6 32G thì có được ko? Nếu được thì thủ tục ntn? và mình phải bù bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.078983,
+         "id": "1004647",
+         "field_search": "question",
+         "question": "chào anh chị cho em hỏi em muốn mua điện thoại tra góp 0đ thì có được ko và thủ tục cần những gì ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.05999,
+         "id": "1012212",
+         "field_search": "question",
+         "question": "Hồ sơ của e trên hệ thống việc làm thế giới di động để tình trạng là lưu hồ sơ chứ ko còn để chờ duyệt nữa, nghĩa là e ko đk ứng tuyển tiếp tục vào thời gian ngắn nhất sắp tới hay sao ạ, mog a chị có thể giải đáp thắc mắc, vì có đưa số điện thoại bên phòg nhân sự e cũg ko liên lạc đk đâu ạ! Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.053911,
+         "id": "1016262",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi !!!Em có tất cả hồ sơ nhưng đều là bản photo có công chứng thì có được mua trả ghóp k? Vì em mất chứng minh thư và đang trong thời gian làm lại chứng minh thư, em có ảnh thẻ của chứng minh thư gốc!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.01811,
+         "id": "1141740",
+         "field_search": "question",
+         "question": "cho em hỏi nếu mua góp điện thoại realme không trả trước cần hồ sơ những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.989751,
+         "id": "1136689",
+         "field_search": "question",
+         "question": "mình cần hỗ trợ mua máy trả góp thì thủ tục ntn hả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.989751,
+         "id": "1022309",
+         "field_search": "question",
+         "question": "e muốn mua samsung s8 trả gop thì thủ tục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.975551,
+         "id": "824705",
+         "field_search": "question",
+         "question": " Tôi muonmua trả góp iphone 6s plus thì thủ tục gồm những gì ? Trả trước bao nhiêu ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.948171,
+         "id": "1146751",
+         "field_search": "question",
+         "question": "khi nào có máy ACer A71 tại nghệ an vậy ạ để em biết để làm thủ tục trả góp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.938519,
+         "id": "994712",
+         "field_search": "question",
+         "question": "E muốn mua iphone 6 plus trả góp thì thủ tục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.8822,
+         "id": "810687",
+         "field_search": "question",
+         "question": " Mình muốn mua một chiếc điện thoại Iphone 5 trả góp thì có những thủ tục gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.872356,
+         "id": "1022406",
+         "field_search": "question",
+         "question": "cho em hỏi em làm mất sim 3g mua ở TGDD vậy em có thể làm lại ko ạ? và mất bao lâu và phí như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.831465,
+         "id": "1147300",
+         "field_search": "question",
+         "question": "Ngày hôm nay còn làm thủ tục trả góp nữa ko ạ và nếu hôm nay chưa có hàng thì vẫn giữ hợp đồng đó để khi hàng về e đến lấy đúng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.751056,
+         "id": "1156311",
+         "field_search": "question",
+         "question": "Mình muốn có chiếc nova 3i và muốn nâng cấp lên vivo v15 thì thủ tục như thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.722517,
+         "id": "1009983",
+         "field_search": "question",
+         "question": "E muốn mua đt trả góp mà 1 bộ hồ sơ mua đk 2 máy k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.718651,
+         "id": "1158722",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại trả góp tại của hàng thì mình cần thủ tục gì .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.698681,
+         "id": "1000831",
+         "field_search": "question",
+         "question": "Giờ e đăng kí mua thành công qua đt rồi lúc nào e có thể ra trực tiếp tgdd để làm thủ tục xét duyệt nhận máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6981,
+         "id": "1115337",
+         "field_search": "question",
+         "question": " Máy em sony xaKhi mở máy lên thì nó bấm liên tục mà em không có chạm vào màn hìnhAnh chỉ cho em phải làm sao di...???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.679681,
+         "id": "1164728",
+         "field_search": "question",
+         "question": "Mình 19 tuổi muốn mua tra gop có được không shop, cần những thủ tục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.627711,
+         "id": "794613",
+         "field_search": "question",
+         "question": " Chào ad em muốn mua 1 con Acer Aspire Z1402 30BA i3 trả trước 0 đồng cho em hỏi thủ tục làm như thế nào ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6001215,
+         "id": "999590",
+         "field_search": "question",
+         "question": "em muốn mua điện thoại galaxy a5 2017 trả góp, cho em hỏi là phải trả trước bao nhiêu tiền ạ, em là sinh viên thì thủ tục gồm những gì ạ? và có áp dụng trả trước 0 đồng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.492506,
+         "id": "1013418",
+         "field_search": "question",
+         "question": "cho em hỏi về thủ tục mua trả góp điện thoai và mỗi tháng phải trả nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

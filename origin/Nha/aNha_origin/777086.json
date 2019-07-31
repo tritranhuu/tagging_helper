@@ -1,0 +1,801 @@
+{
+   "id_query": "777086",
+   "total": 32206,
+   "total_current": 100,
+   "max_score": 78.81944,
+   "origin_question": " cho em hỏi sao em đăng kí tài khoản id apple, kích hoạt rồi nhưng tải game không được, bị bắt cập nhật ios mới nhất ",
+   "hits": [
+      {
+         "score": 39.819077,
+         "id": "991634",
+         "field_search": "question",
+         "question": " Cho em hỏi là em đã đăng nhập tài khoản ID Apple mới rồi khi cập nhật ứng dụng lại còn tài khoản cũ á? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.4295,
+         "id": "766115",
+         "field_search": "question",
+         "question": "Mọi người cho hỏi em tải bản cập nhật 9.2 về mà khi đăng nhập tài khoản ID Apple để hoàn thành mà không đăng nhập được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.016777,
+         "id": "843507",
+         "field_search": "question",
+         "question": " Tại sao em tạo được tài khoản id apple mà khi đăng nhập vào để tải game thì không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.156803,
+         "id": "1159800",
+         "field_search": "question",
+         "question": "tại sao sau khi đăng kí được tài khoản ID Apple rồi mà lúc đăng nhập vào AppStore lại không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.00451,
+         "id": "858313",
+         "field_search": "question",
+         "question": "Cho em hỏi đăng xuất tài khoản id Apple cũ và đăng nhập tài khoản id apple mới mà không gỡ cài đặt các ứng dụng lúc trước tải bằng tài khoản của thì có thể tải ứng dụng bằng tài khoản mới được không ad, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.369205,
+         "id": "750635",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 4 không mua được game trong app store vậy máy bắt đăng nhập mật khẩu id apple nhưng em không nhớ tài khoản, cho e xin ý kiến?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.247658,
+         "id": "812145",
+         "field_search": "question",
+         "question": "iPhone 5C lock nhật của em bị dính tài khoản iCloud để kích hoạt, em quên gmail có thể nào kích hoạt lại được không ạ, còn ID Apple của em vẫn sử dung được bình thường có cách nào không vậy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.00742,
+         "id": "783567",
+         "field_search": "question",
+         "question": " Tai sao em đăng xuất id apple khỏi máy rồi. Nhưng khi cập nhật ứng dụng nó vẫn bắt nhập mật khẩu của cái id đấy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.375736,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.03858,
+         "id": "995058",
+         "field_search": "question",
+         "question": " Khi đăng kí tài khoản id Apple thì bị như thế thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.016407,
+         "id": "786754",
+         "field_search": "question",
+         "question": " iPad của em bị bắt kích hoạt lại, nhưng tài khoản iCloud đó không phải của em thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.53762,
+         "id": "924407",
+         "field_search": "question",
+         "question": " sao em xó id apple của nhật rồi nhưng em lại không tải được game này về ạ  nó lại hỏi cái này là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.380295,
+         "id": "751548",
+         "field_search": "question",
+         "question": " iPhone 3S đưa vào itunes cập nhật bị bắt kích hoạt lại mà kích hoạc không được giờ em phải làm sao giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.248436,
+         "id": "1167911",
+         "field_search": "question",
+         "question": "Tại sao tài khoản fb của tôi không được cập nhật bản mới nhất mà các tài khoản khác đã được cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.701426,
+         "id": "780314",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là tạo ID apple mà họ bắt trả phí nhưng còn cách nào để không mất phí mà tạo đăng kí 1 ID mới không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.682112,
+         "id": "810344",
+         "field_search": "question",
+         "question": "iphone 3 có thể tải trò chơi hay không? đã có tài khoản id apple nhưng khi tải nó đề là cần phải nâng cấp lên ios mới nhất, vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.570717,
+         "id": "918981",
+         "field_search": "question",
+         "question": " Em cài đặt Facebook trên IOS 10 bị báo cập nhật IOS mới nhất nhưng không cập nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.47781,
+         "id": "754777",
+         "field_search": "question",
+         "question": "Em đăng kí tài khoản iD Apple, iTunes, mà đến bước này nó không có chữ ''none'' bắt buộc em phải nhập số thẻ. Em phải làm như thế nào ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.475403,
+         "id": "789549",
+         "field_search": "question",
+         "question": " Tại sao em đăng ký apple id rồi xác minh rồi luôn mà sao em tải game không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.845299,
+         "id": "1005956",
+         "field_search": "question",
+         "question": "Mình đăng suất id apple rồi đăng nhập lại iphone mình báo số lượng tài khoản miễn phí tối đa đã đuợc kích hoạt trên iphone này. Liên hệ 01666860927",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.81705,
+         "id": "869260",
+         "field_search": "question",
+         "question": "cho em hỏi là khi cập nhật xong ios 9.3.3 thì nó bắt nhập tài khoản icloud nhưng em quên pass nên đã bỏ qua có làm sao không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.726315,
+         "id": "820468",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 3G của e cập nhật đến bản 4.2.1 rồi mà sao đăng nhập vào apple store thì nó bảo cập nhật đến ios mới nhất :(( ai biết chỉ e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.651619,
+         "id": "782177",
+         "field_search": "question",
+         "question": " Ad ơi em không đăng kí được tài khoản apple ad có thể giúp em không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.619854,
+         "id": "792819",
+         "field_search": "question",
+         "question": " Co tài khoản ID Apple mà vẫn không tải được game ứng dụng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.610998,
+         "id": "865231",
+         "field_search": "question",
+         "question": "Em đăng kí tài khoản app store nhưng nhập sai mã thư tín nên không thành công. Khi tải phần mềm, gõ mật khẩu và password thì máy báo ID không đúng. Cho em hỏi, em phải làm sao để sửa lại thông tin nhập sai khi đăng kí tài khoản. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.360498,
+         "id": "955962",
+         "field_search": "question",
+         "question": "Cho em hỏi cập nhật từ ios 7.1.2 lên 8 được không ạ .... Máy em không yêu cầu cập nhật nhưng vào tải game thì yêu cầu cập nhật cho em hỏi phải làm sao để cập nhật... Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.2982,
+         "id": "838513",
+         "field_search": "question",
+         "question": "Ad cho em hỏi? tài khoản id apple của e mấy hôm trước vẫn dùng bình thường, tự nhiên hnay e cập nhập thấy báo tải khoản id apple đã bị khóa. e chọn đặt lại thì thấy báo tải khoản gmail của e không phải là id apple nữa là sao ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.14769,
+         "id": "917565",
+         "field_search": "question",
+         "question": " Qtv cho mk hỏi s lại k tải dk facebook trên appstore và n bắt cập nhật ios mới nhất để tải ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.761242,
+         "id": "898375",
+         "field_search": "question",
+         "question": "Hi. Cho em hỏi tại sao em tạo tài khoản ID apple đăng nhập được vào app store và itunes mà lại không đăng nhập được icloud?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.738356,
+         "id": "1145588",
+         "field_search": "question",
+         "question": "Em xài ip6+, em không hiểu sao máy em đã cập nhật mess phiên bản mới nhất rồi mà khi đăng nhập tài khoản của em thì nó vẫn ở giao diện cũ nhưng đến khi đăng nhập bằng tài khoản khác thì nó lại ở giao diện mới. Ai có thể giải đáp thắc mắc của em không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.60793,
+         "id": "1159027",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6 plus mà tải mess không được, người ta bảo em phải đăng nhập vào iTunes store (mật khẩu id Apple) nhưng tài khoản Apple này bị khoá và em không nhớ lần đăng nhập, có thể giúp em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.394709,
+         "id": "961147",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình đã tạo được id apple và đã đăng nhập ok,nhưng khi mình tải đồ thì lại bắt mình nhập mật khẩu của tài khoản khác,như hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.220032,
+         "id": "780364",
+         "field_search": "question",
+         "question": " QTV ơi tài khoản apple của em hết hạn rồi ra TGDD đăng kí lại rồi cóa tốn tiền không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.930698,
+         "id": "806272",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại em dùng tối qua em cập nhật iOS 9.3 giờ máy cứ bắt nhập ID Apple mà em không nhớ có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.924715,
+         "id": "923207",
+         "field_search": "question",
+         "question": "tài khoản gmail mình đăng kí trên ID apple mình lỡ tay xoá không khôi phục lại gmail được thì tài khoản icould có ảnh hưởng gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.517036,
+         "id": "795710",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em mua cũ và em đã đăng kí ních itunes mới và đăng xuất ních cũ và tải game thì dùng bằng ních mới bình thường nhưng đến khi cập nhật ứng dụng thì lại bằng ních cũ là sao ạ.GIÚP Em VỚI",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.478205,
+         "id": "811166",
+         "field_search": "question",
+         "question": "Em mới chạy lại máy, không được sao lưu mà có tài khoản id rồi đăng nhập vào nó bắt xác thực bằng 3 câu hỏi mà em lại quên , giờ làm sao để xác thực được ID đó ạ ? Gmail nó gửi máy cái điều khoản không thôi :( Iphone.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.202105,
+         "id": "766473",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ? Em đang dùng iPhone 5s trước đây em có mượn nick app của bạn để tải game và ứng dụng giờ em thay tài khoản app khi cập nhật ứng dụng thì nó lại hiện tài khoản cũ lúc ban đau tải game chứ không hiện tài khoản hiện tại em không thể cập nhật lên phiên bản cho các ứng dụng được mong anh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.167353,
+         "id": "988566",
+         "field_search": "question",
+         "question": " Cách khôi phục lại tài khoản iD Apple và tải ứng dụng Facebook về máy báo lỗi cập nhật tạm thời không khả dụng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.08839,
+         "id": "804389",
+         "field_search": "question",
+         "question": "CHo em hỏi là sao em thoát tài khoản itunes store của người trước ra rồi và đăng nhập tài khoản của em vào rồi mà bây giờ e cập nhật ứng dụng hay tải gì nó vẫn yêu cầu mật khẩu ních của người cũ kia.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.061428,
+         "id": "780309",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao máy của em muốn tạo một ID Apple mới mà máy bắt trả phí. . . có còn cách nào để thay tài khoản mà không mât phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.03923,
+         "id": "807541",
+         "field_search": "question",
+         "question": " Điện thoại em cập nhật iOS 9.3 máy không có sim không kích hoạt được phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.03766,
+         "id": "761057",
+         "field_search": "question",
+         "question": "Mật khẩu ID Apple của em có người khác sử dụng hay sao mà giờ em không đăng nhập vào đuợc anh chị có thể chi cho em đăng xuất tài khoản và cho em 1 ID Apple khác được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.935246,
+         "id": "816258",
+         "field_search": "question",
+         "question": "Mình muốn cài đặt iD apple miễn phí để đăng ký iTunes và Appstore. Vì đăng ký tài khoản mới trên máy đòi thanh toán qua Visa, còn nếu tải app miễn phí thì không có tài khoản sao tải về được bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.820436,
+         "id": "827140",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi tai sao khi tao được apple id xong, nhưng khi em đăng nhập bằng tài khoản đó lại bảo không xác dịnh được. Tại sao vây anh có thể giúp em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.784359,
+         "id": "917319",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại e là ip 5s nhưng tài khoản icloud của e bị khoá và k nhận đc thư để kích hoạt lại . Vậy e có thể nâng lên ios 10 không ? E sợ đến lúc đăng nhập nỏ hỏi tài khoản icloud và bị khoá lun",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.78036,
+         "id": "802089",
+         "field_search": "question",
+         "question": "Em mua điện thoại iPhone cũ mà khi kích hoạt nó báo như vậy : \" iphone này đang được liên kết với id apple (b*******yahoo.com) đăng nhập id apple đã được sử dụng để thiết lập iphone này \" e phải làm sao để kích hoạt đây ạ? Em không biết pass :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.768541,
+         "id": "827916",
+         "field_search": "question",
+         "question": " Sao tôi đăng ký tài khoản id apple sao không nhận được mật khẩu xác minh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.559162,
+         "id": "1006029",
+         "field_search": "question",
+         "question": "   Em đăng kí tài khoản id để đăng nhập appstore nhưng cứ đến bước xác minh email thì lại bị ntnVậy phải làm ntn bh ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.28014,
+         "id": "763455",
+         "field_search": "question",
+         "question": " Tại sao tôi không đăng nhập được tài khoản ID Apple của máy iPhone 4s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.244429,
+         "id": "844941",
+         "field_search": "question",
+         "question": "  Khi kích hoạt lại id apple nó yêu cầu đăng nhập vào mail có đuôi me.com . cho em hỏi phải đăng nhập thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.197235,
+         "id": "1023705",
+         "field_search": "question",
+         "question": "Các bác giúp em vs chuyện là em mới mua con iphone 5 mà tài khoản người ta em đã thoát vs xoá hết em nhập của em vô đầy đủ hết nhưng sao lúc em vào aap store em cập nhật ứng dụng lại bị bắt đăng nhập ID của ngươi bán cho em ạ các bác biết giúp hộ em cái",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.169033,
+         "id": "737862",
+         "field_search": "question",
+         "question": " Đăng kí tài khoản Apple có cần tiền trong tài khoảng Visa không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.913134,
+         "id": "776276",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao đăng xuất tài khoản icloud cũ rồi nhập tài khoản mới luôn khi mình cập nhật lại ứng dụng nó cứ kiu nhập mk cũ là s zị pn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.888294,
+         "id": "750742",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình khôi phuc lại iPhone khi máy bảo kích hoạt iPhone, mình đã nhâp đúng ID rồi mật khẩu sao máy báo là không được nhi? Mình đã dùng tài khoản đăng nhập vào https://appleid.apple.com/ thì vẫn được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.871416,
+         "id": "765620",
+         "field_search": "question",
+         "question": "Mình đang xài cái iphone 4s mình mới cập nhật phần mềm lên ios 9.2 cập nhật xong thì đang nhập ID Apple không được giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.851572,
+         "id": "769552",
+         "field_search": "question",
+         "question": " Em đag xài mấy Ipad 1 iOS 5.1.1  mấy anh cho em xin tài khoản Apple ID trước tháng 092013 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.839857,
+         "id": "812142",
+         "field_search": "question",
+         "question": "Máy của em bị dính iCloud quên mật khẩu nhưng máy xài ID Apple là btcuc2702@gmail.com có cách nào kích hoạt icloud được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.819069,
+         "id": "760197",
+         "field_search": "question",
+         "question": " Em có apple rồi nhưng xác minh kiểu gì ạ em tìm cách xác minh tài khoản id apple mãi mà không tìm ra ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.765049,
+         "id": "940163",
+         "field_search": "question",
+         "question": "iPhone 4s của em lúc trước em xóa hết tất cả ứng dụng trò chơi và mạng xã hội.bây giờ em muốn tải lại thì yêu cầu tạo ID Apple em gõ vào thì hiện lên .Bạn cần cập nhật ios mới tải game được. làm ơn giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.708239,
+         "id": "945829",
+         "field_search": "question",
+         "question": "Ad cho e hỏi... tại sao e vào app tải game hay ứng dụng thì k sao nhưng vào cập nhật ứng dụng thì lại hiện lên chữ \" id apple bị vô hiệu hoá\" ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.625721,
+         "id": "1161978",
+         "field_search": "question",
+         "question": "Em vừa reset lại samsung a6+ nhưng mà quên mất tài khoản gg để đăng nhập lại rồi ạ, em cũng kh sài sđt lúc đầu đăng kí tài khoản nữa em phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.55701,
+         "id": "805945",
+         "field_search": "question",
+         "question": "mình dùng máy iphone 5, vừa rồi có cập nhật bản ios mới. Khi kích hoạt lại máy đã nhập đúng mật khẩu icloud nhưng ko kích hoạt đc máy. Nhờ bạn cho hướng dẫn xử lý với.Mật khẩu icloud mình vẫn truy cập itunes bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.549564,
+         "id": "1148409",
+         "field_search": "question",
+         "question": "Em mới bị mất máy. Em muốn lấy lại dữ liệu thông qua icloud nhưng khi đăng nhập ID Apple thì không được. gmail em vẫn dùng không được công nhận là một tài khoản ID. Hay là kẻ gian đã đổi tài khoản của mình ạ?Làm thế nào để e lấy lại được ạ? Có những thứ rất quan trọng trong máy ạ.Em mong nhận được câu trả lời sớm nhất ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.49785,
+         "id": "760868",
+         "field_search": "question",
+         "question": "Mình sài iPhone Mình tại găm kí được Mình đăng kí tài khoản rồi có mấyy khâu rồi Nhưng lại đòi xác minh tài khoản ai biết chỉ Mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.49761,
+         "id": "761740",
+         "field_search": "question",
+         "question": "Em mua lại 1 con iPhone 5s nhưng đăng nhập iCloud  nó báo không thể đăng nhập số lượng tài khoản miễn phí tối đa được kích hoạt trên iPhone này là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.474438,
+         "id": "853566",
+         "field_search": "question",
+         "question": "Quản trị viên ơi cho e hỏi: e đã tạo xong tài khoản ID APPLE rồi,đã xác nhận đồ xog rồi và có thể sử dụng nhưng khi em nhập vào để tải app thì nó cứ hiện là :\" ID Apple này chưa được sử dụng trước đây ở iTunes Store.Chạm vào xem xét để đăng nhập, sau đó xem xét thông tin tài khoản của bạn.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.440372,
+         "id": "1158201",
+         "field_search": "question",
+         "question": "Em muốn hỏi là:  khi máy của em bị rơi xuống nước , em vớt ra nhưng lại để tầm gần 1 năm mà không động chạm gì tới , bay giờ em đã mở máy len được nhưng nó bắt kích hoạt bằng ID Apple , nhưng em k nhớ ID Apple và mật khẩu thì lam sao bây giờ ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.3592,
+         "id": "823063",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em đăng nhập tài khoản id này đến đậy lại không đăng nhập được nữa là sao ad?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.333717,
+         "id": "786747",
+         "field_search": "question",
+         "question": " Em vừa thay màn hình iPad, sau đó nó bắt phải kích hoạt iPad nhưng em lại không có ID đó thì phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.332201,
+         "id": "757732",
+         "field_search": "question",
+         "question": "Cài đặt mở khóa bằng vẽ mẫu hình và vẽ sai quá 15 lần ,nó yêu cầu đăng nhập bằng tài khoản google để mở khóa nhưng vì em đăng kí tài khoản lâu rồi nên không nhớ mật khẩu mà lúc đăng kí em không đăng kí email phụ nên ko lấy mật khẩu lại được .Còn điện thoại thì vẫn cứ yêu cầu tài khoản google,em phải làm sao để mở khóa đây ? Mày Sony z3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.300894,
+         "id": "1023509",
+         "field_search": "question",
+         "question": "Anh ơi. Ipad em vào cập nhật ứng dụng nó bắt nhập mật khẩu tài khoản cũ mà cái tài khoản ấy lâu rồi và nó cũng không phẢi cái trong cài đặt luôn. Nhập linh tinh nó bảo là tài khoản này bị khoá rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.210014,
+         "id": "994568",
+         "field_search": "question",
+         "question": "ad cho em hỏi. e vừa resore iphone 4 của em. nhưng e mất icloud rồi. giờ nó bắt kích hoạt. em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.165054,
+         "id": "843683",
+         "field_search": "question",
+         "question": " Tài khoản ID Apple bị vô hiệu hoá rồi giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.117525,
+         "id": "761113",
+         "field_search": "question",
+         "question": "Em nhặt được 1 máy iPhone 5s. Nhưng tài khoản icloud đã bị khóa. Mà lắp sim khác vào thì nó cần tài khoản icloud để kích hoạt nhưng mà không có. Bây giờ mà phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.93377,
+         "id": "801708",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em có 1 máy iphone 5s bị thế này. giờ em ko có tài khoản id apple thìcó sửa được không.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.92674,
+         "id": "1164004",
+         "field_search": "question",
+         "question": "bạn ơi cho tớ hỏi máy iphone5s nó bị khóa kích hoạt em lại quên tài khoản anh có thể mở cho em đc ko,ko nhưng có thằng nào đăng nhập vào máy em ,em ko nhớ tên nó thì làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.924707,
+         "id": "896890",
+         "field_search": "question",
+         "question": " Chi Em hỏi e lập tai khoản ID Apple k đk cứ bắt truy cập vào www.apple.com để đi hỗ trợ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.916874,
+         "id": "940189",
+         "field_search": "question",
+         "question": "em đã chọn tạo ID Apple mới nhưng hiện lên Bần cần cập nhật ios.em không biết làm sao cả .em cũg không biết tạo ID Apple luôn.làm ơn giúp em iphone 4s của em chưa chạy chương trình luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.906273,
+         "id": "917381",
+         "field_search": "question",
+         "question": "Lỗi không tải ip4 ios7.c hia sẻ không tải ip4 cho ios7.bạn có máy ip4s ip5 ios9 đăng nhập tài khoản appstore vào.khi bạn chọn 1 game ứng dụng vào tải lúc ít xoá đi không cần chờ tải xong chọn cập nhật chọn đã mua thấy game ứng dụng hình mũi tên.ip4s ip5 ios9 thoát ra tài khoản cho ip4 ios7 vào đăng nhập tài khoản chọn cập nhật chọn đã mua bấm hình mũi tên tải game ứng dụng xong.bạn phải tai nhiều game ứng dụng nhiều để dành cho ip4 ip4s ip5 ios7.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.878345,
+         "id": "761527",
+         "field_search": "question",
+         "question": "Em đặt lại máy là iPhone. Nó kêu nhập tài khoản icoud rồi. Nhưng nó đòi thêm ID Apple nữa. Nhưng em không nhớ thì em phải làm sao a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.826082,
+         "id": "775723",
+         "field_search": "question",
+         "question": " Cho em biết cách tạo tài khoản iTunes Store với ạ. Em đăng kí hoài không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.74789,
+         "id": "891098",
+         "field_search": "question",
+         "question": "K may bấm nhầm vô hiệu hoá Tìm Iphone thì làm sao để kích hoạt lại ạ? với đăng kí Id Iphone, e đăng kí hoài mà k được.. Mong ac tư vấn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.685112,
+         "id": "994115",
+         "field_search": "question",
+         "question": " Thế giới tạo tài khoản id apple dùm em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.645134,
+         "id": "939974",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao em tải các app như game trên appstore về dowload rất là lâu tuy máy em đả cập nhật phần mềm mới nhất luôn rồi?? Xin chỉ dẩn e!Chân Thành Cám Ơn Ạ!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.61144,
+         "id": "1169176",
+         "field_search": "question",
+         "question": "Điện thoại em Samsung galaxy note 3 không cập nhật được phiên bản mới nhất của messages em gỡ cài đặt sau đó tải lại thì không tải lại được em đã thử tất cả mọi cách trên mạng như gỡ dữ liệu cache gỡ cài đặt cập nhật ch play rồi mà không tải được ạ máy em bị làm sao thế giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.479101,
+         "id": "1156888",
+         "field_search": "question",
+         "question": "mình sử dụng ipad đời cũ thôi (ipad1) khi mình đang xác minh id apple (để tải ứng dụng trên appstore) thì nó nói là \"id apple này chưa được sử dụng trước đó\" rồi mình bấm xem xét thì nó có bảo là cần cập nhật ios, mà mình kiểm tra máy lại bảo đây là bản mới nhất?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.4668,
+         "id": "1145615",
+         "field_search": "question",
+         "question": "Mình có 2 tài khoản facebook xài song song, đã cập nhật messenger bản mới nhất nhưng mình log in thì chỉ có 1 tài khoản đã cập nhật còn 1 tài khoản ở phiên bản cũ. Ai biết cho mình xin cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.404165,
+         "id": "1164001",
+         "field_search": "question",
+         "question": "bạn ơi cho tớ hỏi máy iphone5s nó bị khóa kích hoạt em lại quên tài khoản anh có thể mở cho em đc ko,ko nhưng có thằng nào đăng nhập vào máy em ,em ko nhớ tên nó thì làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.340128,
+         "id": "825717",
+         "field_search": "question",
+         "question": "Mình đang dùng 1 tài khoản apple id được khá lâu .Thời gian gần đây khi download ứng dụng thì apple đã yêu cầu cập nhật thẻ visa .Mình đã đi mở 1 thẻ visa VND nhưng khi cập nhật vào apple id thì nó từ chối mình đoán chắc là do apple id mình chọn ở US nên cập nhật sử dụng visa VND nó từ chối .Vì thế mình đã chuyển khu vực nhưng cũng không được vì nguyên nhân tài khoản vẫn còn hơn 3$ .Có cách nào giúp mình trong trường hợp này không ?Nếu mà không cần cập nhật thẻ visa vẫn download được ứng dụng thì tốt quá .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.10904,
+         "id": "758671",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng iPhone 5 em đã đăng nhập tài khoản appstore mới rồi mà khi em tải ứng dụng về máy toàn yêu cầu nhập mật khẩu của tài khoản cũ là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.107592,
+         "id": "751344",
+         "field_search": "question",
+         "question": " Apple của em mới cập nhật chương trình.máy đòi id apple và mk. Em xin các anh chị giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.042019,
+         "id": "781344",
+         "field_search": "question",
+         "question": "Ad giúp em với. Em biết cách tạo tài khoản ID apple rồi nhưng mà cứ đến phần chọn tên thẻ visa hay gì đó do em không có thẻ và chưa đủ 18 tuổi nên chưa làm được mà cứ để không có thẻ thì nó không chịu đi tiếp em sài iphone 3 Ad có cách nào giúp em không cần thẻ visa mà vẫn đăng kí được ID apple không hay tạo giúp em 1 cái củng được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.021564,
+         "id": "1165017",
+         "field_search": "question",
+         "question": "Cho em hỏi là samsung j4 thường làm sao để gỡ cái bản cập nhật phần mềm mới nhất ạ. Cập nhập xong em chơi game bị giật quá hông chơi được ạ...em muốn gỡ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.96827,
+         "id": "758584",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi em muốn cập nhật ứng dụng nó lại ra cái id apple khác (điện thoại của em là hàng second hand) mà trong khi đó tải ứng dụng về thì nó lại ra id apple của em ạ?? Em muốn hỏi làm sao để out cái id apple thuyhang996cmt8@gmail.com ạ?? ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.937588,
+         "id": "1024080",
+         "field_search": "question",
+         "question": "cho e hỏi chút ạ. e đã có tk id apple rồi, e muốn tải phần mềm xuống máy tính, chọn tải xong đăng nhập nick thì nó lại hiện lên là : id apple này chưa được sử dụng trong app store. vui lòng xem xét lại tài lại tài khoản. em ấn vào nút xem xét thì nó không hiện lên gì cả! làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.91107,
+         "id": "761063",
+         "field_search": "question",
+         "question": "  Cho em hỏi ID Apple không đăng nhập được thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.907265,
+         "id": "805997",
+         "field_search": "question",
+         "question": "Em vừa cập nhật phần mềm cho con ipad 2 của em mà cập nhật xong thì nó bị lỗi ghi là:\"không thể kích hoạt ipad của bạn vì máy chủ kích hoạt tạm thời không khả dụng.Thử kết nối ipad của bạn với itunes để kích hoạt hoặc thử lại sau một vài phút.\" thế là sao ạ ?? có bị hỏng gì không ạ em sợ quá các bác giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.82454,
+         "id": "759088",
+         "field_search": "question",
+         "question": "Chào anh (chị)! Cho em hỏi làm thế nào để lấy lại tài khoản line. Mọi ngày em gọi vẫn bình thường nhưng hôm nay mình cũng gọi được nhưng lại không thấy tiếng gì cả. Em liền gỡ và tải lại phần mềm line (tài khoản của mình chưa đăng kí email)?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

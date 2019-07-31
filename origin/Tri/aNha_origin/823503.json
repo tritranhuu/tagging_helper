@@ -1,0 +1,801 @@
+{
+   "id_query": "823503",
+   "total": 28461,
+   "total_current": 100,
+   "max_score": 85.64901,
+   "origin_question": " AD ơi mấy hôm nay máy tính nhà em tắt đi rồi nó lại tụ bật lên là thế nào? Mong AD giải thích giùm ",
+   "hits": [
+      {
+         "score": 31.029036,
+         "id": "1010488",
+         "field_search": "question",
+         "question": "Ad ơi, điện thoại oppo neo 7 sao sạc nó hiện thị đang sạc vài giây sau thì vui lòng cắm sạc, lặp đi lặp lại mấy ngày, hôm nay em sạc thì nó không lên % nào hết, mong ad trả lời giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.594973,
+         "id": "873963",
+         "field_search": "question",
+         "question": "Máy em là iPhone6 Plus có Jailbreak cho em hỏi mấy hôm nay máy đang dùng 1 lúc thì tự dưng kêu mấy tiếng lạ rồi đơ máy luôn em có tắt nguồn máy rồi bật lại nhưng nó vẫn thế .Em phải làm j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.206879,
+         "id": "997936",
+         "field_search": "question",
+         "question": "AD ơi cho em hỏi tại sao mấy ngày hôm nay máy tính của e sạc 1015p là đầy pin mà nó xái khoảng 30p là hết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.222853,
+         "id": "1008506",
+         "field_search": "question",
+         "question": "Ad ơi chữa hộ em với, chẳng biết sao mà nó cứ báo như vậy miếc. Em vào bật lại rồi tắt nhưng vào ứng dụng nó củng báo như vậy nữa !? Tắt đi bật lại nhiều lần mà củng không được ạ ? Mong ad sớm phản hồi. Em cảm ơn ạ ! Em dùng J7 Prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.669289,
+         "id": "825799",
+         "field_search": "question",
+         "question": "ad cho e hỏi tại sao latop của em mấy hôm nay cứ bật máy lên là quạt nó quay mạnh kêu thành tiếng rât to mặc dù chỉ mới mở máy lên thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.395819,
+         "id": "813012",
+         "field_search": "question",
+         "question": "Em đang dùng máy tính bàn ASUS , hôm nay khi em đang dùng thì mấy hơi đơ nên em tắt máy đi nhưng khi bật nên thì màn hìn tối không nên được , em bật lại mấy lầ nhưng đều không lên .Cho em hỏi máy em gặp vấn đề gì và khắc phục ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.317554,
+         "id": "932844",
+         "field_search": "question",
+         "question": " cho em giải pháp tải trên googleplay trên máy tính đi ạ nó cứ thế ad à  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.263374,
+         "id": "993031",
+         "field_search": "question",
+         "question": "Tối qua sau khi dùng máy tính xong, e bấm tắt máy( máy em là windows 10 pro đã active) nó nó\" Cập nhật và tắt máy\" sau đó e bấm vào và đi ngủ, hôm nay bật máy lên, em nhập mật khẩu là 299299 ( 6 số ) và đó là mật khẩu đúng, nhưng không hiểu sao hôm nay nó chỉ cho nhập 4 số, và e đã nhập hoài không được. Mong nhận được sự trợ giúp. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.873077,
+         "id": "833755",
+         "field_search": "question",
+         "question": " Ad giải thích dùm e mấy cái Core  i3,i5,i7  nó là như thế nào...có ảnh hưởng gì tới tốc độ chạy của lap không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.679165,
+         "id": "771545",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi với ạ. Laptop em mua được gần 1 năm rùi (mua tại Thegioididong.com), cài Windows 8. Nhưng hôm nay lúc em đang khởi động máy tính thì nó chỉ hiện ra cửa sổ Windows lúc đầu, rồi đen thùi lùi. không có chuột. em tắt đi bật lại thì vẫn thế.......bây giời thì phải làm thế nào ạ.......Mong anh chị giải đáp lỗi với cách khắc phục sớm hộ em với ạ. hiuhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.32531,
+         "id": "1009716",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi Sao máy mình đang dùng wifi nhà bt giờ lại k tìm thấy đc wifi đó, trong khi mấy máy khác dùng ok mạng rất manh.Các wifi khác thì máy vẫn bắt bình thường Em đã reset máy và tắt modum wifi bật lại mà k tìm đc wifi nhà Mong ad giúp e máy lumia 525 ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.244625,
+         "id": "1144410",
+         "field_search": "question",
+         "question": "Ad ơi face của mình mấy nay cứ bị hết phiên đăng nhập hoài, chưa đầy 1 ngày là lại bị xong rồi mấy cái page bị mất like . Mong ad giúp mình ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.005825,
+         "id": "923465",
+         "field_search": "question",
+         "question": "Lịch sử Website như vậy dã xóa bớt + có mấy trang Word và Excel Youtube Web thời trang đầy trước khi đi máy đã tắt chỉ Ghim sạc. Tại sao khi về máy hết pin.mà cái này Ứng dụng mở đầy Clip Youtube coi được 43p12 nữa Thứ 1: Út tui mở sạc ra thì cũng đầy 100% Pin cũng đâu hết dc tới mức 0% đến nổi tắt nguồn. Nắp Laptop có bật chút xíu. Thứ 2: Nhà xác định \"KHÔNG\" ai xài sao lại hết PIN Thứ 3: Máy bỏ sác khi đầy PIN cũng có Hết PIN khi nào đâu. Ai piết rành CNTT + Máy tính Giải thích giúp em với. EM khẳng định trước khi đi tắt nguồn Laptop rồi. Mà nhà ai cũng cải em là không có người xài. Ai giải thích Share dùm em. Cho cái Nhà em nó HIỂU.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.582064,
+         "id": "1016482",
+         "field_search": "question",
+         "question": " Ad ơi. Fb của e nó bị như v là s vậy ad. Cứ đag tải mãi thôi,  e thử xóa đi tải lại mà vẫn k đc,  tắt nguồn tại lại mà vẫn như v. Wifi nhà thì vẫn ổn định.  Nó chỉ mới bị đây thôi.  Mong ad giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.519989,
+         "id": "784238",
+         "field_search": "question",
+         "question": "Ad ơi máy iphone 4 của em đang xài bình thường rồi e tắt máy mà em mở lại nó không lên lại luôn,em dùng mọi cách cũng không lên được .ad cho em hỏi là bị sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.206856,
+         "id": "1146296",
+         "field_search": "question",
+         "question": "Chào Ad em mới dùng oppo f1s Em thấy ngày đầu mới dùng lúc tắt màn hình nó lên cái đèn gì nháy Nhưng mấy hôm nay em để ý không thấy nữa Ad cho em biết là tại sao với ạ Thank Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.139523,
+         "id": "1165072",
+         "field_search": "question",
+         "question": "E mới mua laptop dell vostro core i3 chiều nay(5/5/2019) nhưng tối về bật máy gần 1 tiếng rồi vẫn chưa lên, rất bực mình, mong anh chị giải thích giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.852505,
+         "id": "835558",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi mấy hôm nay vào appstore mấy tab cập nhật, tìm kiếm va tab nổi bật vẫn chạy bình thường nhưng ở tab bảng xếp hạng không hiện lên gì cả.Vậy máy bị lỗi gì vậy add ơi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.310436,
+         "id": "819407",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi chiếc iphone của em chả biết tại sao 2 hôm nay em cứ bật 3G lên là tự sập nguồn mà vừa cắm sạc vừa bật 3G thì không bị sao nếu tắt 3G mà không sạc thì vẫn dùng bình thường ad cho em hỏi máy em bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.306484,
+         "id": "856103",
+         "field_search": "question",
+         "question": "Ad ơi cho mk hỏi máy của thằng em mình nó quên mất mật khẩu khi mình cắm vô mấy tính thì nó như này mình phải giải quyết sao đây ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.078133,
+         "id": "1014639",
+         "field_search": "question",
+         "question": "cho em hỏi là lap em hãng hp, wifi lúc bật được khi tắt rồi bật lại thì không được nữa. Restart lại thì bật được 1 lần xong rồi tắt rồi bật lại nữa thì cũng không được, cho em hỏi cách sửa với ạ. hôm bữa em có đem đến TGDD 1 lần rồi, xong hôm nay lại bị nữa. Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.07019,
+         "id": "1004133",
+         "field_search": "question",
+         "question": "ad ơi ..ông em dùng con điện thoại này và bị hỏng pin ko biết là máy gì và mua pin ở đâu mong ad tư vấn. đến mấy quán gần nhà ko có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.817408,
+         "id": "1156513",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung J7. Dùng cũng được hơn 1 năm rồi bây giờ thì khi em đang xem Youtube hay Facebook thì điện thoại tự dưng tắt. Bấm mấy lần vào màn hình thì nó mới lên. Lúc thì mới sáng lên thì đã tắt còn lúc thì khoảng 1 - 5 phút là đã tắt đi rồi mong ad giúp em. Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.750898,
+         "id": "876958",
+         "field_search": "question",
+         "question": "ad ơi tại sao máy tính asus win 8 của em hay bị CPU 99% và ổ đĩa từ 90-100% là như thế nào ạ.. mong ad khắc phục lỗi hộ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.730267,
+         "id": "1004207",
+         "field_search": "question",
+         "question": " Sao mấy ngày nay em tải game vào thẻ SD ko đc vậy ad, nó cứ kêu là lỗi xem chi tiết, mong ad chỉ em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.676039,
+         "id": "1014055",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với ạ. E đang dùng samsung s4. Không hiểu sao cứ bật 3G dùng đến 30% là máy sập nguồn. Cắm sạc vào thì máy hiển thị 0%. E đã thay pin mới nhưng chỉ đc mấy hôm là máy lại bị như cũ. Trường hợp này thì phải làm thế nào ạ? Mong ad trả lời.Cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.635271,
+         "id": "878059",
+         "field_search": "question",
+         "question": "Em mới mua máy 6plus ở cửa hàng về nhà dùng thỉnh thoảng máy đơ. tắt nút nguồn thì nó nháy màn hình cái rồi mấy tắt thế là máy bị lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.612303,
+         "id": "1001001",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi em đang sử dụng asus memo pad 8 mua đc khoảng 1 năm hôm nay em đang sử dụng 2 ứng dụng là messenger và chơi game xong nó tự động chay màn hình sạc không lên tắt nguồn không dc rồi em để nos hết pin cũng không dc nó vẫn chay màn hình ad ơi giúp em với :(((((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.55909,
+         "id": "1017375",
+         "field_search": "question",
+         "question": "ad ơi, tình trạng đt em là khi tắt nguồn bật lên thấy chữ custom binary blocked by frp,bật qua bật lại không lên nên làm sao đây,cuarem là j2 prime sm-g532g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.246063,
+         "id": "1016152",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy j5 prime của em dùng đc hơn 4 tháng hôm nay tự nhiên nó đơ màn hình tầm 5 phút rồi sau đó tự khởi động lại máy là sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.229399,
+         "id": "1009712",
+         "field_search": "question",
+         "question": "ad cho e hỏi vs ạ... e dùng máy sony xperia xa ultra lên androi 7.0 thì nó xuất hiện vạch đỏ phía bên phải màn hình... tắt máy khởi động lại thì nó mất đi... xog rồi một thời gian hiện lại.... vậy làm thế nào để tắt cái vạch màu đỏ đó đi ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.185537,
+         "id": "1011041",
+         "field_search": "question",
+         "question": "Máy em đang xài là Oppo A39 mà mấy hôm nay điện thoại em nó cứ có  thông báo trên  mạng về miết nó hiển thị cả mang hình bực lắm em không biết làm sao để tắt nó Đi cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.157873,
+         "id": "1024058",
+         "field_search": "question",
+         "question": "Ad ơi samsung j5 2016 sau khi root nó cứ lỗi lên lỗi xuống. Đôi lúc nó tắt màn hình rồi lại mở, cứ lặp đi lặp lại... rồi khi mở còn hiện lên \"TouchWiz đã dừng\". Trường hợp này phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.927368,
+         "id": "1139635",
+         "field_search": "question",
+         "question": "Chào admin. Mình dùng ip6s đã nâng cấp ios12. Máy mình có hiện tượng đơ máy, vào các ứng dụng hay bị đơ hoặc sau đó bị đẩy ra ngoài thường xuyên mình phải reset lại. Và mình cũng đang bị lỗi wifi, nó hay bị tắT ở TT kiểm soát, bật nên nó lại tắt, vào setting thì bị đơ xong lại bị đẩy ra. Mong admin giải thích giùm, xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.877033,
+         "id": "914168",
+         "field_search": "question",
+         "question": "dạ em có dung chung tk icloud e có cập nhật phần mêm iphone 4s sau đó khi tắt máy bật lên thì máy có mật khẩu màn hinh mà trc đó e k đặt mật khẩu e k bit tại sao mong ad và mọi người giúp đỡ giải thích cho e và cho e cách giải quyết ạ em xin cảm ơn ad và mọi người :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.790339,
+         "id": "763578",
+         "field_search": "question",
+         "question": "Thấy con iPhone của em hơi chậm chậm, nên ấn tắt nguồn, sau đó bật lại thì nó chỉ hiện quả táo được 5 giây, rồi quả táo lại mất, rồi lại hiện lên, rồi lại mất... nó cứ nhấp nháy thế suốt 2 tuần nay rồi. Làm sao để nó lên đây bây giờ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.769787,
+         "id": "1152005",
+         "field_search": "question",
+         "question": "dạ mong anh/chị chỉ em cách tắt bàn phím trên màn hình vì mỗi lần em mở máy nó đều hiện lên, mỗi lần vậy em đều tắt đi nhưng cứ mở máy lên là nó lại lên ạ. Mong anh /chị giúp em, em xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.602951,
+         "id": "1001926",
+         "field_search": "question",
+         "question": "ad ơi em dùng Samsung Mini  GT S5360 . Máy em rút sạc ra rồi mà nó vẫn tự sạc. Sau đó em lên mạng tìm cách khắc phục ấn vào RIÊNG TƯ->ĐẶT LẠI DỮ LIỆU CỦA NHÀ SX-> kHỞI ĐỘNG LẠI ĐIỆN THOẠI. Nhưng mà sau đó khởi động lại nó không tải đc các ứng dụng facebook, mess,... nữa và máy vẫn tự sạc. Sau đó sdung wifi đc vài ngày hôm nay nó lại k kết nối đc. Ad có thể chỉ em cách phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.478401,
+         "id": "1017597",
+         "field_search": "question",
+         "question": "Ad cho e hỏi...e xài đt SAMSUNG J5(2016) ko hiểu sao e sạc đầy pin r sử đến 76% pin tự nhiên tắt nguồn r em mở nguồn lên thì nó còn 0% pin. Điện thoại e bị mấy ngày liền luôn ạ...ad giải thích giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.440634,
+         "id": "807839",
+         "field_search": "question",
+         "question": "Chuyện là thế này, hôm qua mình định nâng ipad mini lên ios 9.3 nhưng mình thấy nó cứ bảo là chưa kết nối internet nên mình xoá đi và cài lại nhưng đến hôm nay thì nó hiện lên là bản ios 9.2.1. Mọi người giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.356659,
+         "id": "837244",
+         "field_search": "question",
+         "question": " 4s ios 8.3 mà mấy hôm nay vào kog dc ad ơi kog biết bị làm sao nữa ad chỉ mình với   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.249645,
+         "id": "1016502",
+         "field_search": "question",
+         "question": "Ad ơi hôm nay e vừa mua mt chiếc điện thoại mobell nhưng e cảm thấy k thích thì mai em mang trả được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.21686,
+         "id": "818142",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi tí nhé, mình đang sài con iphone 5S, mấy bữa nay tự nhiên mình vuốt màn hình nó không đc nên k làm gì đc, mình phải tắt nguồn bằng nút home và nút nguồn mới tắt đc, nhưng bật lên lại vẫn vậy, k biết là bị gì nữa, ngta goi đén chuông vẫn đỗ nhưng k vuốt để nghe dc, vậy ad cho mình hỏi là máy mình bị gi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.17006,
+         "id": "841489",
+         "field_search": "question",
+         "question": " Mình dùng galaxy note 5 bản nhà mạng Sprint mới lên 6.0.1 nhưng mình bật 3g thì lại không có . Mong ad giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.141088,
+         "id": "791695",
+         "field_search": "question",
+         "question": " MẤY PRO CHO EM HỎI IPHONE 3S CỦA EM TẮT ĐỊNH VỊ XOng rồi tự nhiên nó bật lại. Có cách nào khắc phục ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.096437,
+         "id": "831949",
+         "field_search": "question",
+         "question": "Anh/chị ơi, cái ipad em bị mất ý hôm nay bên nó mở máy lên em xem đc định vị thì thấy đc chỗ đó mà đc 1 lúc thì lại ngoại tuyến rồi. Lúc mất thì em đã cài Tìm Iphone và bật Báo mất ipad và cài mật khẩu máy, có phải nó ko vào đc nên nó tắt nguồn rồi ko? và có cách nào nó hủy được cái chế độ mà em định vị ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.052706,
+         "id": "1004580",
+         "field_search": "question",
+         "question": "anh chị ơi cho em hỏi là em dùng j5 prime. mua cách đây đc 6 tháng rồi. cách đây 1 tháng thì máy em nó cứ kiểu chập chờn. đang nhắn tin thì tự dưng nó nhảy loạn lên, có lúc tắt màn hình đi nó cứ tự bật lên, thi thoảng lại kiểu đơ đơ.. em hỏi là em có được mang đổi lại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.035845,
+         "id": "889225",
+         "field_search": "question",
+         "question": "em muốn hỏi làm cách nào bật tường lửa với chống virus của bitdefender 2016 ạ, bản quyền vẫn còn 300 mấy ngày, nhưng hôm qua em lại cho phần mềm tự sửa lỗi, thế là nó hiện lên mấy cái đó đã hết hạn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.982697,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.874205,
+         "id": "1143465",
+         "field_search": "question",
+         "question": "Chào anh chị.Anh chị cho em hỏi là: Chị em có máy sam sung j7. Hôm qua  nhà em bị mất điện, khi bật đèn pin trên điện thoại lên, nhưng được mấy giây rồi tự tắt.Anh chị xem giúp em là bị lỗi đèn hay do cài đặt điện thoại.Em cảm ơn. Em mong nhận được trả lời sớm từ anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.649467,
+         "id": "747518",
+         "field_search": "question",
+         "question": "Em xài iPhone 4s đc 2 năm rồi nhưng gần đây nó ngốn nhiều pin quá ... Để qua đem ngốn trên 50%pin .. E đã retore lại máy nhưng k khắc phục đc . Em tắt máy thì máy tự động khởi động lại nửa . Mong ad giải quyết dùm em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.599361,
+         "id": "1152977",
+         "field_search": "question",
+         "question": "Galaxy A7 mình mua chưa đc 1 tháng. Mà sao lúc mua về bật 4g 1 lúc tắt đi bật lại cứ lên E. Tắt nguồn bật lại thỳ lên 4g. Cứ như vậy hoài. Nên cứ muốn dùng 4g là phải tắt nguồn bật lên lại. Rẩt bất tiện. Cập nhật phiên bản mới nhất vẫn bị là s ạ. Giải thych giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.44605,
+         "id": "753872",
+         "field_search": "question",
+         "question": "Ad giải thích dùm mình.mình có xem một trang mạng viết điện thoại iphone 6s plus bản unknown là quốc tế. một số viết là bản lock khóa mạng. bản unknown là bản nào vậy ad. giải thích rõ dùm mình được rõ hơn nha ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.438257,
+         "id": "1016559",
+         "field_search": "question",
+         "question": "cho em hỏi hôm bữa em có mua 1 chiếc sony xperia X 99% tại thegioididong nhưng về nhà em thấy cảm ứng vân tay lúc được lúc không ?mong anh chị giải thích giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.432537,
+         "id": "1162286",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi. Em đang xài Asus zenfone max. Mấy tháng nay em chỉ dùng điện thoại để lên mạng này nọ thôi chứ ko gọi điện. Hôm nay em có gọi thử cho 1 người bạn, đang gọi thì điện thoại tắt màn hình đen thui, sau khi gọi xong màn hình vẫn đen, em mở tất cả mọi cách vẫn ko lên nguồn :( Em nhờ bạn e gọi qua số điện thoại em thì nó lại lên nguồn bấm vẫn bình thường. Nhưng khi mình bấm nghe nói chuyện thì màn hình lại tắt đen. Cho em hỏi là nó bị bệnh gì vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.417896,
+         "id": "635973",
+         "field_search": "question",
+         "question": " Nếu tắt wifi trên máy tính để bàn thì phải làm thế nào?cho em hỏi bật lại kiểu gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.404978,
+         "id": "838941",
+         "field_search": "question",
+         "question": "Ad ơi, em đang sử dụng iPhone 4s. Em nâng cấp lên iOS 9 rồi xong nó tắt nguồn luôn. Em mở nguồn thì nó lên hình cái cắm sạc rồi mũi tên ITunes nữa. Em không biết làm sao cả. Em coi mấy bài khác nói ra ngoài tiệm sửa, mà tốn tiền sợ ba mẹ em la lắm!!! Ad giúp em với!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.384508,
+         "id": "1001050",
+         "field_search": "question",
+         "question": "Hôm nay được gọi thứ 2 lên phỏng vấn xin việc ở Vị trí nhân viên tư vấn bán hàng ở Điện Máy Xanh. Đang lo không biết đủ chuẩn không. Em cao 1m72 nặng 80kg :( AD tư vấn hộ là rớt hay thế nào để em khỏi hi vọng :(Mong phản hồi từ AD :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.358852,
+         "id": "892616",
+         "field_search": "question",
+         "question": " Máy tính bị thế này phải làm thế nào đây hả ad anh chị ơi???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.304974,
+         "id": "1140709",
+         "field_search": "question",
+         "question": "Cây sony xa1plus của em khi gắn xim nó lại tắt nguồn rồi ko thấy lên lại em bật ngồn vẩn ko lên thì máy bị gì a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.288094,
+         "id": "1000755",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi máy mình ip6s plus. Mình để máy nơi bàn chẳng dùng đến nhìn lại thấy màn hình sáng,lúc đó phải bấm nút nguồn mới tắt. Mà mình cũng k bật chế độ đưa iphone lên là sáng. Thế mà bị từ lúc mua đến giờ bị vài lần rồi đấy. K biết máy mình có bị làm sao ko nữa. Đang lo lắng. Mong ad phản hồi. Thank's!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.255745,
+         "id": "1024591",
+         "field_search": "question",
+         "question": "Cho em hỏi s dung lượng máy của e đâu hết j a máy em iPhone 5  ko có mấy ứng dụng thằng b em máy như e mà nó dư tới 4G giải thích dùm e ạ thanhs Ad trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.24141,
+         "id": "987702",
+         "field_search": "question",
+         "question": "QTV . máy dell win 10 pro tự nhiên bị mất wifi.(bật lên chỉ thấy chế độ máy ko thấy wifi ở đâu) mong QTV giải thích dùm vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.227343,
+         "id": "931924",
+         "field_search": "question",
+         "question": "em đang xài laptop lenovo g50, máy mới mua hồi tháng 6,em xài cũng cẩn thận lắm,tự nhiên hôm nay thanh touchpad không hoạt động nữa quẹt qua quẹt lại mà k ăn đành phải xài chuột. Ad hướng dẫn cách sử lại giùm em đi vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.222282,
+         "id": "1157919",
+         "field_search": "question",
+         "question": "Ad kt giùm mình máy dell inspiron 3567 độ phân giải là hd hay fhd vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.183453,
+         "id": "1152339",
+         "field_search": "question",
+         "question": " hôm nay em khôi phục cài đặt gốc máy thì nó như này cả buổi, không biết như nào ad cứu nó với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.164223,
+         "id": "1163081",
+         "field_search": "question",
+         "question": "anh ơi con lumia 630 khi bật nguồn hiện lên chữ nokia lặp đi lặp lại nhiều lần không lên nguồn sửa thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.118525,
+         "id": "767462",
+         "field_search": "question",
+         "question": " Máy em LG G3 d850 tắt đi bật lên, chỉ lên logo rồi sập nguồn xin cho biết lỗi và cách khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.103622,
+         "id": "894555",
+         "field_search": "question",
+         "question": " Ad cho e hỏi máy em là bản qte sao lại bị như thế này hôm qua 1102016 e mới restrose xong mấy không cho active.    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.094137,
+         "id": "815848",
+         "field_search": "question",
+         "question": "Ad giups mình lỗi này với.Khong biết mấy hôm nay sao mà mình vào messinger nó cứ hiện là đang kết nối và k chát dc.cũng k xem ai đang ol được.giờ mình đăng bài len đây mong các ad giúp mình với.máy mình là iPhone nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.053764,
+         "id": "1153237",
+         "field_search": "question",
+         "question": "Sao Mobell tab 7c của em nó cứ khởi động nguồn tối ưu hoá ứng dụng rồi tắt bật miết là sao ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.040592,
+         "id": "1142834",
+         "field_search": "question",
+         "question": "bên thế giới di động có nhận sửa điện thoại Sony Xperia Z4 không ạ/điện thoại mình bật nguồn lên hiện logo Sony xong rồi lại tự tắt đi bật lại cứ như thế mãi . đấy  là bị hỏng gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.021082,
+         "id": "997182",
+         "field_search": "question",
+         "question": "ad cho em hỏi khi e bật mail trong phần icloud lên xong nó bảo tạo thì khi tạo xong nó lại bảo là có vấn đề khi bật thư tín là sao hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.979324,
+         "id": "820881",
+         "field_search": "question",
+         "question": " Ad cho em hỏi con iphone 4s của em sạc pin nó không vào nhưng tắt nguồn đi sạc nó lại vào là sao ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.957727,
+         "id": "807709",
+         "field_search": "question",
+         "question": "cho em hỏi máy dell em bị tắt đột ngột sau đó khởi động lại thì bị tắt ngay lập tức. mấy ngày hôm nay thì không bị thế nữa nhưng lại xuất hiện một vấn đề là khi cắm sạc dùng trực tiếp thì mà hình hay bị nhấp và nhanh chuyển vào chế độ ngủ. có 1 lần máy chuyển vào chế độ ngủ em bật lại thì màn hình vẫn lên nhưng bị tối lại( không tối hẳn) thế là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.931189,
+         "id": "1022512",
+         "field_search": "question",
+         "question": "Admin ơi em có chiếc máy asus zenfone2 thì hôm qua em đã khôi phục cài đặt gốc thì đã lên và bị sao âý. Nó bị cứ chạm vào màn hình là nó hiện đồng hồ lên ko biết sao chỉ em khắc phục như thế nào đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.895855,
+         "id": "993112",
+         "field_search": "question",
+         "question": "AD ơi, tại sao mỗi khi em tắt máy nó lại hiện lên \" Getting windows ready don\"t turn off your computer\" tầm 10p sau mới tắt máy hẳn vậy có sao không ạ, làm thế nào để khắc phục điều này vậy, e cám ơn nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.884275,
+         "id": "1159268",
+         "field_search": "question",
+         "question": "cho em hỏi như thế này là như thế nào ạ?giải thích giúp em cái ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.847584,
+         "id": "808553",
+         "field_search": "question",
+         "question": "ad ơi máy mình là samsung galaxy note 3 SM-N900L và em xài android 5.0 em lỡ lên rồi ad có cách nào hạ xuống 4.4.2 cho mình dc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.795246,
+         "id": "1165576",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi mình dùng 6s, hiện tại máy mình cứ dùng được 1 chút là góc trái dưới bị đơ không bấm được (các điểm khác dùng vẫn bình thường). Tuy nhiên tắt màn hình đi rồi bật lại luôn thì mọi thứ lại bình thường. Một lúc sau lỗi lại xảy ra như cũ. Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.787169,
+         "id": "1136654",
+         "field_search": "question",
+         "question": "ad cho e hỏi máy e bị tắt nguồn nhưng khi bật lại thì bị treo ở logo xperia rồi treo đến lúc hết pin lại bật lên vẫn treo thế nhưng dùng các cách để reset lại máy nhưng không hiện lên bảng  Recovery. để tiến hành cài lại. máy e là sony xa1. giờ e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.74171,
+         "id": "1137690",
+         "field_search": "question",
+         "question": "Ad ơi hỗ trợ em ah máy tính em bị full disk khắc phục hoài không được mong ad hỗ trợ trực tiếp cho em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.724876,
+         "id": "1007490",
+         "field_search": "question",
+         "question": "máy tính mình đang dùng tự nhiên máy hôm nay bị chậm, giờ mình muốn cài lại win thì được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.677847,
+         "id": "998106",
+         "field_search": "question",
+         "question": "Sao tôi mua galaxy s8 ở thế giới di động trong tháng 6 này . mua hình thức trả góp . sao k thấy có quà của samsung nhỉ . tôi k nhận đc kính thực tế ảo hay bất kỳ quà gì khác. Mong ad giải thích giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.660944,
+         "id": "809307",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao máy ip4 của em bị rớt sau đó em đã restore và nâng cấp lên ios 7.dùng cỡ mấy tiếng thì điện thoại tắt nguồn mà không bật lên đc,cắm sạc thì chỉ có lên hình trái táo rồi nó tắt rồi nó hiện hình trái tạo lại, mà rút sạc ra thì tắt nguồn mà không lên được cho em cách khắc phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.624878,
+         "id": "791957",
+         "field_search": "question",
+         "question": " Như vậy nghĩa là sao vậy anh chị giải thích giùm em với? Bản quốc tế hay bản khóa mạng? Em cám ơn!  N  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.602568,
+         "id": "767235",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi là máy em hôm trước báo là tìm iPhone của bạn đã được vô hiệu hóa trên iPhone, xong rồi nick giờ đăng nhập iCloud vô không được nữa ạ, có cách nào lấy lại iCloud không ạ? Mà em vào chỗ quên mật khẩu ý, đăng nhập nó bảo là không phải ID Apple, rất mong Ad giúp đỡ ạ. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.528084,
+         "id": "779706",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iphone tự dưng tắt nguồn bật chi hiện màn hình táo, máy nóng và chạy trương trình rất chậm, vậy máy em bị gì và khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.522907,
+         "id": "997147",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi mình đang dùng s7 mà quên mk màn hình chỉ sử dụng được vân tay, xong mình khởi động lại nó bắt nhập mk giờ tắt nguồn không đượcmà vào máy không được có cách nào giải quyết không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.459494,
+         "id": "1148449",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: Mình có con máy sony z3 nhưng hôm nay mình đang dùng thì nó bị sập nguồn. Xong nó lại tự động hiện lên chữ Sony trong khoảng 1s rồi nó lại tắt. xong nó lại hiện với quy trình lặp đi lặp lại như trên. cho mình hỏi lỗi và cách khắc phục. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.444506,
+         "id": "987714",
+         "field_search": "question",
+         "question": "e mới mua laptop bên điện máy xanh hôm nay.đem về nhà rất thất vọng. mới mua về mở lên chạy chậm rì....đang đợi chạy site lên thì máy đen thui mấy giây rồi vào lại. bị mấy lần...máy mới sao kì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.437632,
+         "id": "1133513",
+         "field_search": "question",
+         "question": "Xin ad giúp điện thoại em sài samsung j7pro mấy hôm nay nó bị lỗi rung khi không có thông báo mấy a/c chỉ em cám khắc phục ạ em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.38829,
+         "id": "884680",
+         "field_search": "question",
+         "question": "Máy e bị rơi đập xong bị vào nước nhưng e có kính cường lực lúc bật lên thì bị vệt xanh là cay xong sau đó tắt máy đi bật lên thì bình thường vòng 5s lại bị e đã tắt nguồn đi bây giờ sửa ở thế giới di động phí sửa là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.360313,
+         "id": "1153195",
+         "field_search": "question",
+         "question": "AD cho e hỏi , đt mi note 4x của e bị trộm , nó đã tắt nguồn  máy e rồi, nhưng e dùng micloud khóa từ xa thì nhỡ nó đem đi sửa thì thợ có phá được không, cảm ơn , mong ad sớm rep ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.26865,
+         "id": "1157054",
+         "field_search": "question",
+         "question": "Em xài máy ip 6s lắp sim viettel, máy samsung lắp sim vina. Hôm trước em tắt máy samsung và gọi vào số vina thì thấy máy ip đổ chuông trong khi máy ip lắp sim vina. Khi bật nguồn lên thì máy samsung vẫn đổ chuông bình thường. Ai giải thích vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.18916,
+         "id": "1133859",
+         "field_search": "question",
+         "question": "Điện thoại của em là samsung j3 đang chơi liên quân thì nó bị khởi động lại rồi sau đó em vào cài đặt resert lại điện thoại nhưng chơi được mấy ngày thì nó trở lại như cũ mong anh chị giúp em tìm giải pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.157238,
+         "id": "776866",
+         "field_search": "question",
+         "question": "Hôm nay gió lạnh lên cao, cho hỏi vì sao con acer nhà em ko bắt được wi-fi ạ? ^^Tình hình: Từ mấy hôm trước điện thoại của e ko bắt đk wi-fi.Có 3 nơi để bật wf:1 là kéo sang ô bên cạnh, nó có biểu tượng wifi cùng với bluetooth với GPS và ánh sáng, nhấn vào, wf thì nó hiện lên màu xanh, tỏ vẻ được rồi, nhưng kéo cái bảng đen xuống, nơi có các thông báo í, thì wf nó vẫn tối màu, nhấn vào wf ở đây thì nó hiện lên các vạch, tụt lên tụt xuống rồi ngóm.Ở cài đặt, vào Quản lí không dây và mạng thì wf có 3 chữ: \" Đang bật\", kèm theo \"...\" sau một lúc thì nó tắt, thông báo: \"LỖI \"P/s: chắc chắn nhà bên cạnh bật wf và wf ko có vấn đề gì ạ..Cảm ơn nhiều ^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.131073,
+         "id": "773140",
+         "field_search": "question",
+         "question": " máy em mua dc 2 3 tháng j đó mà nay e mới sài camera h nó bị z là thế nào z ad.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.118614,
+         "id": "867462",
+         "field_search": "question",
+         "question": "Mỗi lần mình kết nối là máy lại hiện ra thế này, mấy hôm trước mình vừa lắp USB wifi vào máy vẫn dùng đc, đến hôm nay thì thế này là sao nhỉ? Với lại khi mình kiểm tra , máy còn thiếu 802.11n USB Wireless LAN Card, xin hỏi làm sao để có loại card này. Cảm ơn ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "652991",
+   "total": 25900,
+   "total_current": 100,
+   "max_score": 30.504375,
+   "origin_question": " tại sao tôi không vào được youtube trên điện thoại? ",
+   "hits": [
+      {
+         "score": 22.409384,
+         "id": "1155600",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của tôi không tải được youtube official, lúc đầu điện thoại đã có sẵn youtube go, em sử dụng SSJ4C",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.95247,
+         "id": "992240",
+         "field_search": "question",
+         "question": " Tại sao tôi bỏ sim vào điện thoại thì không điện được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.975924,
+         "id": "916471",
+         "field_search": "question",
+         "question": " Tại sao lưu ngoại tuyến trên YouTube lại không xem được tôi đang đung iPhone5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.830742,
+         "id": "779395",
+         "field_search": "question",
+         "question": " Chào bàn tại sao trên điện thoại iphone 5 của tôi không cài đặt được cydia ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.670988,
+         "id": "828701",
+         "field_search": "question",
+         "question": " Tại sao lumia 540 không vào được facebook !? Tôi xài Wifi cáp quang nhé . lướt web youtube rất mạnh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.448042,
+         "id": "1018817",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của mình không xem được phim trên các web như phim Bất Hủ phimmoi.net, kzone.tv trong khi vẫn xem được các clip trên YouTube ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.743238,
+         "id": "916272",
+         "field_search": "question",
+         "question": " tại sao facebook tôi đăng nhập trên các điện thoại được mà trên máy tính, laptop lại ko đc? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.70966,
+         "id": "1013672",
+         "field_search": "question",
+         "question": "Tôi đã 11 không đăng xuất, nhưng tại sao tôi vẫn không thể nào đổi được số điện thoại. Hiện tại tôi đang dùng điện thoại oppo f3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.626484,
+         "id": "1165264",
+         "field_search": "question",
+         "question": "Em sử dụng điện thoại oppo , mà không hiểu sao youtube không sử dụng được nữa , bấm vào thì để cập nhật nhưng khi cập nhật thì k được , hiện tại youtube trong máy không sử dụng được ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.586962,
+         "id": "833691",
+         "field_search": "question",
+         "question": "tại sao trên thông báo zalo trên điện thoại của tôi là : có tin nhắn mới, nhung vào zalo lại không co tin nhắn mới nào cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.365215,
+         "id": "1117031",
+         "field_search": "question",
+         "question": "Tại sao tivi vào xem youtube không được nên tôi đã vào cài đặt nhà máy để cài lại và giờ tivi bị rè mà vẫn xem không được? Khắc phục sớm giúp tôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.97293,
+         "id": "819770",
+         "field_search": "question",
+         "question": "Tại sao khi tôi cài viber vào điện thoại thì danh bạ chỉ dùng được một số người còn lại ko dùng đc. Trong khi đó tại điện thoại trước tôi vẫn sử dựng bình thường? hiện tại tôi đan dùng iPhone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.776695,
+         "id": "938492",
+         "field_search": "question",
+         "question": " Tại sao điện thoại bắt được wifi vào được facebook nhưng không vào được mạng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.54158,
+         "id": "1158454",
+         "field_search": "question",
+         "question": "Tại sao YouTube của tôi nó không còn tương thích với thiết bị Android của tôi nữa và tôi muốn có một YouTube mới  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.474113,
+         "id": "743648",
+         "field_search": "question",
+         "question": "Tại sao youtube trên máy tính bảng mobell tab 8i cũng như điện thoại vậy ? Còn máy tính bảng khác thì không giống với cái mobell ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.46591,
+         "id": "876221",
+         "field_search": "question",
+         "question": " Tại sao điên thoại lumia 730 của tôi lại không coppy được đoạn văn trên Facebook được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.011686,
+         "id": "1165678",
+         "field_search": "question",
+         "question": "tại sao iphone 7 của mình không nghe được trong game mà chỉ nghe được trên youtube",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.823895,
+         "id": "1158453",
+         "field_search": "question",
+         "question": "Tại sao YouTube của tôi nó không còn tương thích với thiết bị Android của tôi nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.813091,
+         "id": "1164672",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại j1 2016 không vuốt được phần trên vậy. Phần ở dưới thì bth, cảmare bị vào nước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.778864,
+         "id": "1165217",
+         "field_search": "question",
+         "question": "Tại sao điện thoại s12 không chuyển được ứng dụng vào thẻ nhớ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.56282,
+         "id": "1154936",
+         "field_search": "question",
+         "question": "Sao khi reset điện thoại thì em không tải được YouTube oppo f1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.510294,
+         "id": "1017682",
+         "field_search": "question",
+         "question": "tại sao khi tôi nhấn vào mua điện thoại online thì có quảng cáo che toàn bộ trang và không làm làm thế nào để tắt nó được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.5064125,
+         "id": "1152542",
+         "field_search": "question",
+         "question": "Tại sao không chuyển được app qua thẻ nhớ trên điện thoại vivo 1724 vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.334559,
+         "id": "1141608",
+         "field_search": "question",
+         "question": "tại sao touid của tôi không kích hoạt được,mỗi lần tôi bấm vào touid không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.329687,
+         "id": "1017987",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại mobiistar zumbo j2 vừa gần 2 tháng. Tôi có sạc điện thoại và thấy điện thoại tự nhiên bốc khói tôi liền rút sạc ra thì điện thoại bóc lửa và cháy.hiện tại tôi có được bảo hành điện thoại hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.323226,
+         "id": "837771",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng điện thoại Lumia 525. Tại sao lúc thì fb vào được còn có lúc thì lại không vào được , trong khi đó zalo và google t vẫn truy cập bình thường...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.199836,
+         "id": "808358",
+         "field_search": "question",
+         "question": " Tại sao em không thể xóa được nhạc trên Mp3 của điện thoại oppo joy r1001 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.170457,
+         "id": "794996",
+         "field_search": "question",
+         "question": " Tại sao tôi sạc pin điện thoại oppo neo 7 mà khi sạc tôi cầm điện thoại mà pin không vô lại còn bị giật điện ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.15341,
+         "id": "960475",
+         "field_search": "question",
+         "question": " Chỉ mình cách tải video trên youtube trong điện thoại iphone 6s được kô vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.001602,
+         "id": "1149896",
+         "field_search": "question",
+         "question": "Sao điện thoại tôi mới mua tại shop tại sao bị giật Samsung GaLaXy J6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9583,
+         "id": "1008767",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao youtube của em không có biểu tượng card board em đã cập nhật youtube ms nhất rồi ạ điện thoại em là Samsung galaxy S3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.923478,
+         "id": "836564",
+         "field_search": "question",
+         "question": "Khi nhập số điện thoại vào để đăng nhập zalo tôi nhập các số nhưng không thấy hiển thị (không nhập được) vậy thì phải làm sao?Trước khi có trường hợp trên zalo của tôi vẫn đang hoạt động bình thường nhưng khi nhập kí tự viết tin nhắn thì không nhập được, sau đó tôi gỡ zalo và cài lại thì không nhập được số điện thoại vào để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.89964,
+         "id": "781047",
+         "field_search": "question",
+         "question": " Tại sao ID Appstore của tôi tạo được rồi mà vẫn không vào được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.892054,
+         "id": "873645",
+         "field_search": "question",
+         "question": " Vì sao khi chuyển vùng zalo của tôi trên điện thoại sam sung A5 không cập nhật được vị trí ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.804039,
+         "id": "1165250",
+         "field_search": "question",
+         "question": "Tại sao iphone 6splus của tôi mở chơi được 5 phút là điện thoại nóng lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.791844,
+         "id": "1167822",
+         "field_search": "question",
+         "question": "Cho tôi xin hỏi tôi có lưu trữ danh bạ trên máy vi tính, tôi muốn copy danh bạ vào điện thoại Samsung A50 thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.78119,
+         "id": "839300",
+         "field_search": "question",
+         "question": "Tại sao điện thoại iPhone 5 chỉ có mỗi fb là có mạng trong khi đó wifi vẫn bình thường mà khi vào youtube hay mp3 , app store .. đều không kết nối đc mạng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.720948,
+         "id": "878035",
+         "field_search": "question",
+         "question": " Tại sao tôi dùng facebook để vào hội quán 52 không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.5860195,
+         "id": "797578",
+         "field_search": "question",
+         "question": " Tại sao khi đăng nhập zalo vào điện thoại khác lại không đọc được tn, có cách nào đọc được không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.576901,
+         "id": "1144343",
+         "field_search": "question",
+         "question": "Tại sao điện thoại samsung galaxy J6 có scrreen mirroing trên điện thoại vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.5330925,
+         "id": "926487",
+         "field_search": "question",
+         "question": " Tôi tải youtube mai không được tôi tải nó hiện lên đang chờ mà cả ngày không được vậy là sao dúp tôi với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.481151,
+         "id": "1002352",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại OPPO A37 tại cửa hàng Thế giới di động chi nhánh Thị trấn Đông Hưng- Thái Bình vào tháng 8/2016, hiện tại tôi phát hiện điện thoại bị lỗi màn hình. Vậy tôi còn được kiểm tra và bảo hành k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.445926,
+         "id": "826987",
+         "field_search": "question",
+         "question": "Tại sao zalo của tôi không tìm được vị trí để gắn kèm. Trong khi đó facebook thì gắn kèm được. Hãy giúp tôi. Cảm ơn! dòng điện thoại oppo neo3 r831k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.405351,
+         "id": "1143308",
+         "field_search": "question",
+         "question": "Cho em hởi điện thoại sam sung s8+ , vào phần mềm facebook có sẵn trên điện thoại mà không loát được các bài đăng cũ trên trang chủ . Mà Vào facebook bằng trình duyệt google trên điện thoại thì loát được vậy  ak ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.349873,
+         "id": "828345",
+         "field_search": "question",
+         "question": "Tại sao không vào được facebook vậy ạ? Đường truyền 3g của mình vẫn bình thường, có thể twitter, google, youtube,... nhưng duy chỉ facebook và instagram là không vào được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.29133,
+         "id": "1015134",
+         "field_search": "question",
+         "question": "Tôi bị mất điện thoại lẫn số điện thoại. Khi tôi đăng nhập gmail trên điện thoại mới thì nó yêu cầu làm như hình bên dưới. Tôi phải làm gì để có thể đăng nhập vào gmail của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2705555,
+         "id": "1013120",
+         "field_search": "question",
+         "question": "Điện thoại epic x9 plus của em sao mới mua mà vào youtube cái vòng tròn tải không liền mạch có cách nào khắc phục không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.264621,
+         "id": "1147392",
+         "field_search": "question",
+         "question": "Tôi đang dù điện thoại samsung j7 prime bị vỡ màn hình đã lâu Đến bây giờ thì có hiện tượng sọc màn hình tôi nghĩ không sau Nhưng hôm nay tôi đang coi một video trên youtube thì màn hình điện thoại chớp đen 2 ,3 cái rồi đột nhiên đen luôn  tiếng thì vẫn nghe mà màn hình thì đen thuiCho tôi hỏi là điện thoại tôi bị vấn đề gì ạ?Tôi cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.251696,
+         "id": "828536",
+         "field_search": "question",
+         "question": "sao facebook với mess trên điện thoại đăng nhập vào thì lại bảo là kiểm tra dường truyền vậy ad :( xem youtube nghe nhạc cg ok mà :( h qua insta luôn r :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.238728,
+         "id": "881924",
+         "field_search": "question",
+         "question": " Sao tôi không lưu ảnh từ messenger về điện thoại được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.199381,
+         "id": "687704",
+         "field_search": "question",
+         "question": "Tôi dùng 1 số điện thoại để đăng kí 2 facebook. Giờ facebook củ không mở được mà vẫn nhận được tin nhắn. Tôi đã đổi số điện thoại ở facebook mới rồi mà vẫn không vào được facebook củ.gio tôi phải làm sao?xin hãy giúp đỡ. Xin cam on.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.1783495,
+         "id": "919555",
+         "field_search": "question",
+         "question": " Tại sao mình lại không vào được cốc cốc trên lap vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.113034,
+         "id": "1165055",
+         "field_search": "question",
+         "question": "tôi đang sài điện thoại oppo f9 pro, bị 1 lỗi là khi tôi đang lướt fb hoặc không làm gì cả thì máy tui tự động vô 1 link youtube nào đó cứ phát suốt mặc dù thoát ra cài đặt gốc lại mà máy vẫn bị lỗi cứ lướt fb 1 tý thì nó tự động vô youtube mặc dù không bấm vào youtube",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.076171,
+         "id": "988228",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể vào được mục iCloud của tôi tôi mua máy cũ và có một tài khoản iCloud của người khác? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.063129,
+         "id": "862413",
+         "field_search": "question",
+         "question": "Cho mình hỏi với: tại sao mình vào fb trên máy tính mà không like và bình luận được nhưng vào bằng điện thoại lại bình thường ạ? ai biết chỉ mình với, mình cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.0352955,
+         "id": "1015123",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của tôi goi đi không được. Phải khởi động lại mới gọi đi được, điện thoại đang dùng là  galaxy s7 edge. Nhờ Quý công ty hỗ trợ. Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.03311,
+         "id": "834875",
+         "field_search": "question",
+         "question": " Tại sao zalo của minh hiển thị giờ sai?. Ban có thê giúp mình được không?. Minh dung trên điện thoại ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.033076,
+         "id": "854831",
+         "field_search": "question",
+         "question": " tại sao xem video trên youtube bằng laptop lại bị mờ ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.995961,
+         "id": "820370",
+         "field_search": "question",
+         "question": " Tại sao máy điện thoại Mobiistar sạc pin không lên sạc vào nhung không lên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.985652,
+         "id": "991633",
+         "field_search": "question",
+         "question": " Tôi cần mua điện thoại trả góp, lên trên Thế Giới Di Động mua được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.961123,
+         "id": "1161631",
+         "field_search": "question",
+         "question": "Tôi đã Tải Facebook like lại máy tại sao không quay trực tiếp trên Facebook được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.957691,
+         "id": "1166255",
+         "field_search": "question",
+         "question": "Tôi không thể tải về bất cứ video ngoại tuyến nào trên youtube ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.944632,
+         "id": "1019390",
+         "field_search": "question",
+         "question": "Cho tôi hỏi màn hình điện thoại tự động cảm ứng tại 1 điểm mình không nhấn: Tôi không chạm vào màn hình mà nó cũng tự cảm ứng, tôi chạm chỗ khác nó cũng cảm ứng chố đó. Vậy tôi có thể khắc phục nó được không hoặc vô hiệu hóa điểm tại đó, còn nếu phải đem sửa thì giá bao nhiêu vậy!  Điện thoại LENOVO P1ma40",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.937287,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.881138,
+         "id": "767249",
+         "field_search": "question",
+         "question": "  Tại sao em không nghe phát âm thanh được loa ngoài khi vào nghe nhạc cho điện thoại Oppo Neo 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.824528,
+         "id": "796950",
+         "field_search": "question",
+         "question": " Cho hỏi điện thoại iPhone của mình sao Youtube mà không có tiếng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.821841,
+         "id": "811300",
+         "field_search": "question",
+         "question": " Tại sao điện thoại iphone 4S của em bỏ sim vào không hiển thị mạng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.791269,
+         "id": "1011069",
+         "field_search": "question",
+         "question": "tôi không thể gởi tin nhắn trên zalo PC . tất cả đều được đồng bộ với điện thoại. (điện thoại sử dụng bình thường) . khi gõ tin nhắn trên zalo không có tác dụng gì không xóa được không gởi được.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.756207,
+         "id": "865498",
+         "field_search": "question",
+         "question": "Tôi đang sống bên Mỹ,muốn cài đặt Zalo trên điên thoại samsung có được không ?Nếu được tôi phải vào website nào để downloadXin cám ơnNguyên Ngoc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.754648,
+         "id": "1164075",
+         "field_search": "question",
+         "question": "Tại sao tôi không thấy app eagle rock global trên ip 6 của tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.726055,
+         "id": "1165510",
+         "field_search": "question",
+         "question": "Làm sao sử dụng chức năng ECG trên Apple Watch Series 4 tại Việt Nam? Hiện tại tôi đã nâng cấp lên IOS 12.2 cho điện thoại và 5.2 cho watch??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.715503,
+         "id": "1016688",
+         "field_search": "question",
+         "question": "Tại sao e k vào đc youtube vào nó k lên ý bị đen hết màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.7003975,
+         "id": "1145448",
+         "field_search": "question",
+         "question": "tôi không thể đăng nhập vào điện thoại dù tôi đăng nhập vào vi tính bình thường.máy nói email hoặc mật khẩu không đúng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.700081,
+         "id": "1016760",
+         "field_search": "question",
+         "question": "Coi livestream trên youtube trên dth A5 không được ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.639649,
+         "id": "1147959",
+         "field_search": "question",
+         "question": "Sao sử dụng điện thoại Oppo f9 xem video trên Facebook, Youtube hay chrome bị mờ v bật 720 mà vẫn bị mờ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.517471,
+         "id": "1008213",
+         "field_search": "question",
+         "question": "Hôm nay, tôi có đặt hàng tại 246 Đỗ Xuân Hợp, phường Phước Long A, Quận 9, Tp. Hồ Chí Minh, 1 điện thoại hiệu Epic X9 plus. Giờ tôi hủy đơn hàng để mua máy khác được không? số điện thoại của tôi là 0868892141. Nếu được tôi xin hủy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.510851,
+         "id": "1021731",
+         "field_search": "question",
+         "question": "làm sao để sao chép all danh bạ trên máy vào sim trên điện thoại samsung j5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.503946,
+         "id": "882102",
+         "field_search": "question",
+         "question": " Hiện tại tôi đang ở nước ngoài nhưng khi về nước facetime sẽ gọi vào sô cũ của tôi hay là số điện thoại mới ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.503334,
+         "id": "1016194",
+         "field_search": "question",
+         "question": " Tại sao youtube ko có nút truyền màn hình trên samsung j2 prime zay QTV  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.47906,
+         "id": "1140083",
+         "field_search": "question",
+         "question": "Tại sao máy em cập nhật lên android 8.1.0 trên nokia 3 . Vô chplay cập nhật ứng dụng trò chơi với YouTube không được vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.412881,
+         "id": "1138404",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại oppo a3s 16gb tại thế giới di động giờ tôi muốn đổi oppo a3s 32gb cáp thêm tiền được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.331553,
+         "id": "1017380",
+         "field_search": "question",
+         "question": "tại sao e phát trực tiếp trên youtube nó cứ bị Hệ thống UI đã dừng và k phát được v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.307549,
+         "id": "1022974",
+         "field_search": "question",
+         "question": "Tại sao điện thoại obi mv1 tải facebook về không được điện thoại android đang khởi động và mở máy lên không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.294286,
+         "id": "1151621",
+         "field_search": "question",
+         "question": "Tại sao điện thoại oppo a7 tôi mới mua cùng th bạn nhưng dt tôi lại hết pin nhanh hơn nó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.255576,
+         "id": "1165148",
+         "field_search": "question",
+         "question": "Cho e hỏi sao điện thoại e đang sử dụng ở những ứng dụng khác thì Youtube của đt cứ tự động xuất hiện và chạy. Đôi khi vào xem Youtube thì Youtube lại tự động tắt và thoát ra khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.252714,
+         "id": "1142684",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại sam sung s8+. Vào phần mềm có sẵn facebook trên máy không loát được các bài đăng cũ trên trang chủ, hội nhóm vậy ak. Mà vào google trên điện thoại thì loding đc ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.211592,
+         "id": "1157119",
+         "field_search": "question",
+         "question": "Tôi mới mua SamSung A50 ngày 23/3/2019. Tại sao tôi set mật khẩu máy là vân tay, trước đó tôi cũng set mật mã thêm Nhưng tại sao sang nay tôi mở máy k mở được bang vân tay mà máy yêu cầu mở bang mật mã. Nhưng tôi không nhớ mật mã. Làm cách nào tôi có thể unclock mà các dữ lieu đã cài không bị mất. có thể gọi điện hay hướng dẫn online giúp tôi được không vì tôi không thể trực tiếp đến cửa hàng được. Xin cám ơn ( Số điện thoại tôi: 0985249447)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.196309,
+         "id": "1013017",
+         "field_search": "question",
+         "question": "tôi không cài được nhạc chuông cho điện thoại philips S337. Bạn hướng dẫn cho tôi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.194764,
+         "id": "761383",
+         "field_search": "question",
+         "question": " Máy điện thoại iPhone của tôi không trượt để mở máy được là sao nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.165929,
+         "id": "1137212",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em iphone 6 plus cứ dô zalo, youtube không được, bị văng ra miết là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.151952,
+         "id": "747686",
+         "field_search": "question",
+         "question": " Tại sao điện thoại iphone 4 của tôi đang gọi lại tối hết màn hình vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.071231,
+         "id": "1021199",
+         "field_search": "question",
+         "question": "tôi sử dụng điện thoại oppo f3, lúc trước tải nhạc mp3 về vẫn lưu trên máy bình thường, nhưng bây giờ không lưu được, vậy làm sao khắc phục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.043028,
+         "id": "887958",
+         "field_search": "question",
+         "question": "tôi mới mua iphone se tại TGDĐ, nhưng về nhà kiểm tra trên khay sim không có imei và không kiểm tra được imei. Tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.017038,
+         "id": "1167040",
+         "field_search": "question",
+         "question": "Tôi muốn chuyển tất cả số điện thoại trong danh bạ trên galaxy j4 thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.98046,
+         "id": "1158864",
+         "field_search": "question",
+         "question": "Cho tôi hỏi. Hiện nay tôi dùng điện thoại redmi 5a khi gọi điện thoại cứ báo mạng đi động không khả dụng. Vậy bây giờ phải làm sao được ăn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.941398,
+         "id": "766952",
+         "field_search": "question",
+         "question": "Cho tôi hỏi iPhone 3 của tôi không gạt mở khóa màn hình được, dù tôi đã khởi động lại điện thoại, nguyên nhân làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.919762,
+         "id": "1010017",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo F3 Khi tôi muốn tai video trên các trang mạng hoặc tai ảnh thì trên màn hình hiện ra chữ lưu nhưng bấm vào chữ lưu thì điện thoại vẫn không lưu đã Sao lưu và cài đặt lại thì nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.896845,
+         "id": "762287",
+         "field_search": "question",
+         "question": " Tại sao khi mình cài viber trên laptop thì nó lại không đồng bộ tin nhắn và cuộc gọi trên điện thoại của mình nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.879681,
+         "id": "1147635",
+         "field_search": "question",
+         "question": "Ad ơi tại sao máy điện thoại em lúc vào ứng dụng thì sáng lúc trở về màn hình chính thì tối ạ. YouTube cũng vậy ạ , lúc sáng sáng lúc tối. Em mới mua ays zenfone max pro M2 ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

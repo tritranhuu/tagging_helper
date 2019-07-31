@@ -1,0 +1,801 @@
+{
+   "id_query": "748200",
+   "total": 19372,
+   "total_current": 100,
+   "max_score": 308.36877,
+   "origin_question": "Máy mình nâng cấp lên win 10, bây giờ restar lại không được. toàn phải tắt đi rồi mở lại, có cách nào khắc phục được không QTV? mình nghĩ chắc win 10 xung đột phần mềm nào đó mà mình cài, vì lúc mới cài thì vẫn restar được, máy tự động cập nhật phầm mềm rồi bị luôn, lap mình là acer win 8.1 cài sẵn lên 10?",
+   "hits": [
+      {
+         "score": 116.24556,
+         "id": "1137119",
+         "field_search": "question",
+         "question": "Mình mua laptop và có cài win 10 bản quyền của tggd. Sau lần bị hư phần mềm thì mình có cài lại win 10 crack. Nay mình muốn khôi phục và đóng phí để mở khóa tiếp tục xài bản quyền. Bên tggd có hỗ trợ không ạ? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 114.080315,
+         "id": "996455",
+         "field_search": "question",
+         "question": "BẠN ƠI MÁY MÌNH HỎNG KHÔNG KHỞI ĐỘNG ĐƯỢC CÓ CÁCH NÀO SỬA KO MÀ MUỐN ĐI CHẠY PHẦN MỀM ĐIỆN THOẠI THÌ PHẢI ĐEM ĐI ĐÂU ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.784134,
+         "id": "1139890",
+         "field_search": "question",
+         "question": "Cho mình hỏi là Laptop Asus mình mới dùng được 1 năm, nhưng máy hay bị treo và máy rất nóng nóng dù quạt tản nhiệt vẫn hoạt động và không dùng lâu thì có cách khắc phục nào không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.81636,
+         "id": "895487",
+         "field_search": "question",
+         "question": "Mình dùng máy Laptop lenovo ideapad 310 14isk core i3 2.3ghz, ram 4G, máy mình mới dùng và bị lỗi win, sáng mình mới cài lại win 8.1 single languae nhưng trưa về dùng thì máy bị chậm, lag và bị lỗi full disk. Chơi game nhẹ cũng bị lag giật (Không hề xuất hiện trong bản win 10 pro trước của mình). Vậy mình xin hỏi ad xem có cách gì khác phục tình trạng này không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.0233,
+         "id": "822155",
+         "field_search": "question",
+         "question": "mình nâng cấp máy tính lên win 10 nhưng lỡ xóa mất thư mục window.old giờ phải làm sao để trở về win cũ được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.715385,
+         "id": "1004637",
+         "field_search": "question",
+         "question": "Nếu mình muốn lên 6.0 thì phải làm thế nào đây. Mình mang máy ra tgdđ 2 lần rồi mà ko được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.73152,
+         "id": "1013738",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi chút.Mình sử dụng A5 được hơn 4 tháng.Hôm trước máy tự dưng có hiện tượng cảm ứng kém nhạy,khởi động lại vẫn không khắc phục được.Nhưng khi cắm sạc vào máy lại trở lại bình thường và giờ không bị sao cả.QTV cho mình hỏi máy mình bị hiện tượng gì thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.592224,
+         "id": "783260",
+         "field_search": "question",
+         "question": "Hiện tain mình đang sử dụng dòng máy Lap Top Asus được mua từ thế giới di động Bạc Liêu,nhưng hôm nay khi mình mở lap top lên mới phát hiện máy không hoạt động ổn định như bình thường, các phần mềm mình cài đặt (cs6, cốc cốc, proshow producer,mp3 free cut...) đều không hoạt động kể cả các phần mềm chạy sẵn trong máy như Firefox,google chorme ..cũng không thể nào chạy được. Hiện giờ mình đang cần gấp máy tính để đánh phần văn bản nộp cho đoàn nhưng không thể nào sử dụng được kingsoft writer cũng như không thể dùng trình duyệt để tìm thông tin cho bài viết. Mong thắc mắc của mình sẽ mau chóng được giải đáp,cảm ơn các bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.28411,
+         "id": "746234",
+         "field_search": "question",
+         "question": "Máy của mình đang xài cái OPPO R7. Mình bị tắt nguồn mà mình sạc nó vô pin và giờ lại mở nguồn không được là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.231026,
+         "id": "995942",
+         "field_search": "question",
+         "question": "Mình đang SD Zenfone 3 max, cứ sau 1ngày là mình phải bật chế độ máy bay mới bật được 3G, cho mình hỏi có cách nào khắc phục không. Mong được sự hỗ trợ từ KTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.87672,
+         "id": "1164369",
+         "field_search": "question",
+         "question": "galaxy j4+ mình vừa cập nhật phần mềm. lúc chưa cập nhật thì game chơi vẫn tốt. lúc cập nhật xong thì vào game toàn bị diss ra ngoài. khắc phục sao đây ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.57538,
+         "id": "1021069",
+         "field_search": "question",
+         "question": "cho em hỏi máy iphone 5s của em giờ không nghe gọi được. gọi cho máy khác thì loa trong không nghe tiếng gì bật loa ngoài lên lại nghe thấy bên kia nói , mình nói lại nhưng đầu dây bên kia không nghe thấy mình nói. em phải tắt nguồn đi mấy lần thì máy mới nghe gọi lại được bình thường nhưng chỉ được 1 lúc là máy lại bị thế kia . Cho hỏi máy của em bị làm sao vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.34765,
+         "id": "994980",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là hôm nay em dùng máy xong thì sutdown được một chặp thì em mở lên lại tự nhiên ngôn ngữ chuyển sang tiếng việt còn giao diện thì tự nhiên đổi thành giao diện cổ lỗ sĩ nào mà không giống win 7 nữa thanh taskbar tự nhiên chuyển thành màu trắng, mấy phần mềm tự nhiên mất hết, mạng wif của nhà bật điện thoại vẫn bắt được mà máy không bắt được mạng nào cả khi vô một phầm mềm hay vô control panel đổi ngôn ngữ thì nó báo là bảo mật internet gì đó ạ ? Không biết máy em bị sao đây ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.98002,
+         "id": "1142271",
+         "field_search": "question",
+         "question": "Win 10 home sl là gì.  Cài lại win 10 có lấy lại win bản quyên như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.78781,
+         "id": "996896",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung galaxy verizon s6 mà bật nguồn lên là máy báo dữ liệu di động đã tắt rồi tự động tắt nguồn,vậy cho mình hỏi cách xử lý như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.58097,
+         "id": "770003",
+         "field_search": "question",
+         "question": "Ad và Các bạn cho mình hỏi  Mình sài Windows 7, máy dell. Mình sài khoảng 1 tháng máy chạy vẫn ngon. Nhưng sau khi sài được đến tháng thứ 2 thì máy bị lỗi khởi động.lúc đó, mình khởi động lên đến cái windows thì máy bị lỗi màn hình xanh»ngúm rồi tự khởi động lại. Mình không chuyên về máy tính cho lắm, mong các bạn và ad giải quyết dùm mình...thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.678856,
+         "id": "754035",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 5 lúc đổi mk khóa màn hình rồi thì xài được mà sao từ lúc sạc tới giờ mình vẫn bấm mk đó mà vào không được? nó Cứ báo sai mk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.34314,
+         "id": "1156344",
+         "field_search": "question",
+         "question": "chiều nay 22/03/2019 tôi có cập nhật phần mềm cho j7+ ..nhưng máy bị lỗi \"tự động bật tắt nguồn, và máy sử dụng nóng lên\" xin cho biết cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.14547,
+         "id": "763581",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình đã thoát ra khỏi nhóm trên phần mềm viber, giờ mình muốn quay lại phải làm thế nào bây giờ? Giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.06508,
+         "id": "1159643",
+         "field_search": "question",
+         "question": "Em vừa mua một chiết Galaxy a50 về sử được 5 ngày thì không thể nhận được cuộc gọi em phải khởi động máy lại mới có thể nhận cuộc gọi, máy em bị thế 2 ngày rồi khi em đem đến thegioididong thì nhân viên không cho em đổi máy mới và nói là bị lỗi phần mềm không đổi được cho em biết vì sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.54248,
+         "id": "1134327",
+         "field_search": "question",
+         "question": "Mình xài huawei mediapad T1.70 mình mua nó lúc năm 2015 lần đầu có một bản cập nhật sau khi cập nhật xong.Đến bây giờ mình vẫn chưa nhận được bản cập nhật.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.29963,
+         "id": "1140471",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách cài đặt trung tâm tin nhắn và luôn cho phép gửi tin là ở mục nào? Phần nào của máy asus zenfone max m1 plus vậy? Từ khi mình mua máy mới tgdd về lúc gửi tin nhắn dc lúc không. Gửi đi số nào cũng k gửi dc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.10307,
+         "id": "1155850",
+         "field_search": "question",
+         "question": "mình đang dùng samsung note9 mà không biết sao giờ khỏi động lên nó báo lỗi giao diên người dùng. không thao tác được gì luôn. Bạn nào giúp mình cách khắc phục với nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.54926,
+         "id": "586864",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo r101 rất hay bị đơ. Nhất là khi vừa thoát mạng phải cần 1 lúc mới trở về màn hình chính. Vậy có cách nào khắc phục được không...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.438576,
+         "id": "1139834",
+         "field_search": "question",
+         "question": "qtv, cho mình hỏi máy của mình (mobell nova f7 pro) lúc trước bị kẹt khe sim, mình tự tháo mặt lưng của máy ra (máy nguyên khối) để lấy khay sim (không hề động chạm đến các bộ phận khác của máy). Bây giờ bị loạn cảm ứng thì có còn được bảo hành không hay là sửa chữa có tính phí. Mong sớm nhận được câu trả lời.Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.3165,
+         "id": "888631",
+         "field_search": "question",
+         "question": "Đây là lỗi gì vậy ad. Nó thay đổi toàn bộ giao diên của máy mình và lúc tắt máy bật lại thì dữ liệu cũ mất hết. Bày cách khắc phục cho mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.46009,
+         "id": "814577",
+         "field_search": "question",
+         "question": " Mình kết nối vs wifi được rồi mà vào fb nó lại hiện như thế này. Giờ mình phải làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.06417,
+         "id": "1155613",
+         "field_search": "question",
+         "question": "em đang dùng dòng samsung j7plus, hôm nay em có cập nhật phần mềm thì lúc cập nhật xong điện thoại tự tắt nguồn và em không mở nguồn lên được nữa. Vậy là điện thoại em gặp vấn đề gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.48022,
+         "id": "798756",
+         "field_search": "question",
+         "question": "Sau khi mua lap tại tgdd.Em lỡ down phần mềm reimage repair. Lên google hỏi thì biết đây là phần mềm độc hại. Trong trường hợp này em có nên cài lại win không ạ hay gỡ phần mềm thôi? Bên tgdd có hỗ trợ em gỡ phần mềm không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.4063,
+         "id": "1155707",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình dùng ip5s, hiện tại đang bị treo táo,ko mở máy lên đc, có cách nào lấy lại đc hết dữ liệu trên máy trước khi restore không? máy mình đồng bộ chỉ đc một phần dữ liệu chứ ko đồng bộ hết, mình cũng ko hiểu tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.832924,
+         "id": "942971",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng 6plus ios 10.1.1 mà để qua đêm(9 tiếng) pin tự bị tụt khoảng 14% mà mình không hề dùng(đã tắt wifi).Mình muốn lên ios 10.2.1 thì có khắc phục được lỗi tự tụt pin không ạ và bản này dùng có ổn định không ạ.Mong QTV giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.75779,
+         "id": "1150127",
+         "field_search": "question",
+         "question": "cho em hỏi máy em đang dùng là dell i5. nó hay bị nhiện cái trang chữ e màu xanh dương ấy ạ mặc dù em k mở nó cũng tự mở quá trời trang làm đứng máy. với máy hay hiện kêu em mua phần mềm diệt virut. bên mình có bán phần mềm đó không và giá thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.6301,
+         "id": "830212",
+         "field_search": "question",
+         "question": "Iphong6 của mình không sạt pin được. Mỗi lần sat điều báo: \"Phụ kiện này có thể không được hỗ trợ\". Mình đã đổi cốt đổi sạt nhiều cái vẫn như vậy. Cũng đã thử reset máy cài đặt lại cũng như vậy. Hỗ trợ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.62133,
+         "id": "768503",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s, hiện tại đang là ios 7.1.1.1. Mình muốn chạy lại 7.1.1 hoặc 7.1.2 nhưng khi down firmware chạy bằng iTunes thì bị lỗi 3194. Vậy có cách nào không, mình không muốn lên 9. vì nhiều người kêu lag.2.Máy mình camera sau bị lỗi khi vào may ảnh thì đen xì, trong khi đó cam trước vẫn bình thường. Liệu có phải bị hỏng không hay do firmware?Thanks add.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.472244,
+         "id": "1161993",
+         "field_search": "question",
+         "question": "Mình xài Sam sung s8 Activer ,lúc trước thì cuộc gọi đến có hiển thị tên. giờ thì xong cuộc gọi mới thấy hiển thị tên. đã thử khởi động lại, cài đặt danh bạ như hướng dẫn mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.17104,
+         "id": "986552",
+         "field_search": "question",
+         "question": "cho mình hỏi mình đang dùng galaly S6 không hiểu sau tự nhiên mấy bữa nay máy ảnh bị lỗi. Khi chỉnh qua chế độ chụp chuyên nghiệp thì lập tức máy ảnh văng ra và có thông báo lỗi \" Máy ảnh đã dừng khởi động lại ứng dụng\"khi khởi động lại thì vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.9043,
+         "id": "779973",
+         "field_search": "question",
+         "question": " Mình không mua laptop ở thế giới di động nhưng có được cài Windows 10 và office 365 miễn phí hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.27186,
+         "id": "796673",
+         "field_search": "question",
+         "question": "Tớ xóa Facebook messenger sau đó tải lại. Khi tải xong thay vì nút \"mở\" thì lại là nút \"Cập nhật\". Tớ dùng 5 lock, có được chọn \"Cập nhật\" không các bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.03538,
+         "id": "815862",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi con iphone 5 của mình up len 9.3.1 thì lúc nhận được cuộc gọi lúc không gọi đi thì bt máy mình là máy J/A",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.45453,
+         "id": "907721",
+         "field_search": "question",
+         "question": "zalo của em không thể truy cập được bằng 3g không cập nhật được nhật ký hoặc không thể nhận tin nhắn từ người khác được zalo luôn để không kết nối được nhưng mở 3g thì fb vẫn lên bình thường có cách nào để zalo trở lại bình thường không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.414246,
+         "id": "999712",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới thay bàn phím laptop khoảng 2 tháng nay, nhưng giờ nó lại bị liệt bàn phím tiếp tục. Mình đem tới tgdd thì có được bảo hành bàn phím không (máy mình mua quá thời gian bảp hành)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.05057,
+         "id": "1163231",
+         "field_search": "question",
+         "question": "Sao máy em đang chơi game rồi tự động tắt nguồn khi mở lên thì hiện logo oppo thoi là bị gì ạ .hiện logo oppo từ sáng đến giờ không làm gì được hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.23537,
+         "id": "799863",
+         "field_search": "question",
+         "question": "Cho e hỏi là ở cửa hàng của mình có cài đặt microsoft office mới cho máy tính không ạ. Máy tính e không có mua ở cửa hàng của mình, nếu cài thì có tốn phí là bao nhiêu ạ. E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.19193,
+         "id": "1023700",
+         "field_search": "question",
+         "question": "mình đang sử dụng 1 chiếc oppo f1s khi xem video clip thì liên tục bị stop video ( bất kì xem video ở ứng dụng nào ) và khi đang nhắn tin thì thanh bàn phím liên tục tự động ẩn mất. vậy chạy lại phần mềm có hết ko hay cách khắc phục như nào ạ ? thks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.63318,
+         "id": "1141006",
+         "field_search": "question",
+         "question": "Giờ em muốn cài lại win 10 cho mấy laptop nữa ngoài thì bên tgdđ có hỗ trợ k ạ. Phí sẽ như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.33331,
+         "id": "1020407",
+         "field_search": "question",
+         "question": "Ip của mình mua tại tgdd nhưng đã quên tk icloud nên bây giời mình reset lại máy thì không có tk icloud để kích hoạt.TH này thì có cách nào để kích hoạt lại máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.032684,
+         "id": "898848",
+         "field_search": "question",
+         "question": "Laptop Acer E5-573G-557P của mình mới cài xuống win 8 mà cài xong cái biểu tượng internet góc dưới bên phải màn hình hiện dấu x , mà không thể bật wifi nên đc kể cả ấn tổ hợp fn+f3. Nhờ ai biết chỉ mình cách với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.66834,
+         "id": "844943",
+         "field_search": "question",
+         "question": "laptop asus của e sử dụng windows 8.1 nhưng e lỡ bấm vào cài đặt windows 10, vừa rồi e vừa hạ cấp xuống lại windows 8.1. Bây giờ máy tính của e k sử dụng được ứng dụng asus smart gesture, khi e bấm vào đó thì hiện ra hình ở bên dưới. BÂY giờ e phải làm sao xin hãy hướng dẫn cụ thể cho e , e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.50278,
+         "id": "935701",
+         "field_search": "question",
+         "question": "Iphone 5 đang xài tự nhiên tụt pin rất nhanh rồi mất nguồn luôn trong vòng khoảng 2g(dù đã sạc đầy 100%). Giờ mình mở nguồn không lên? Máy bị gì và sửa chữa ở đâu được ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.48708,
+         "id": "846518",
+         "field_search": "question",
+         "question": "Tình hình là em mới chạy lại win 7 ạ,, hôm qua thì máy hoạt động bình thường. tự nhiên hôm nay mở lên vào chorm thì con chuột nó cứ nhấp nháy và có hình tròn bên cạnh, lâu lâu lại tự hiện lên hình bên cạnh như kiểu bấm F12 và nó tắt luôn, tắt chorm xuống thanh tác vụ thì lại tự bật lên. vào internet explorer thì nó cứ hiện lên cái bảng gì đó rồi nhấp nháy liên tục không thể bấm hay làm gì được. vào paint hoặc là word thì chưa kịp bấm gì nó đã hiện lên cái bảng để save rồi. ad cho e biet tai sao khong a??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.34171,
+         "id": "1008330",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thê nào để sao chép và dán văn bản trên facebook của mình bằng điện thoại oppo neo 3. Mình đã làm moi cách, ấn giữ, rồi xóa và tải lại vẫn ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.52336,
+         "id": "943810",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi lap mình mua ở TGDD, giờ không vào đc word,pp... lúc khởi động thì hiện Unlicensed Product, vậy giờ phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.37056,
+         "id": "789804",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi nếu iphone em được reset lại bằng itunes rồi nhưng giờ em xóa itunes đó rồi em cài itunes lai cho may tính nữa thì có reset lại may nữa được không. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.26314,
+         "id": "771805",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 16gb ở tgdd đc 1 tháng. Mình xài sim mobi và đang kí gói mobi big. lúc mới mua mình bật 3g xài thì vẫn hiện chữ 3g bình thường. nhưng gần đây khi mình chuyển từ 2g sang 3g thì nó vẫn hiện chữ E(tức là 2g). chỉ khi mình chọn bật chế độ máy bay và tắt nó đi thì mới nhận lại 3g bình thường. Cho mình đây có phải lỗi hay gì không ? và có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.14374,
+         "id": "1009073",
+         "field_search": "question",
+         "question": "Laptop hiệu HP của em không nhận chuột USB. Lúc trước chuột còn dùng được . Từ khi cài lại win thì chuột cấm vào laptop không nhận. Đem chuột qua máy khác thì vẫn dùng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.11586,
+         "id": "825614",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi mình khôi phục cài đặt gốc của iphone nó báo kết nối itunes khi cấm vào máy tính kết nối itunes thì nó hiện như trên mình phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.024895,
+         "id": "798972",
+         "field_search": "question",
+         "question": " Laptop tôi mua ở tgdd. Không biết có được cài lại win không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.850494,
+         "id": "1006051",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao đt mình lúc này hay tự động nhỏ chuông cuộc gọi quài mặc dù mình thấy nhỏ âm khi kéo nó lên lớn vẫn tự động nhỏ lại. Đang dùng máy SAMSUNG J5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.42944,
+         "id": "1147657",
+         "field_search": "question",
+         "question": "Mình dùng oppo khi có cuộc gọi zalo máy không báo chỉ khi mình mở may mới thấy cuộc gọi nhỡ , chỉ mình cách khắc phục với R7S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.9819,
+         "id": "1014642",
+         "field_search": "question",
+         "question": "Ad ơi. Máy asus 3 bị camera sau bị mờ. Trước thì không sao. E có cài đặt gốc lại rồi nhưng vẫn mờ. E phải làm sao ạ. Máy e đã mua bên tgdd hơn 1 năm rồi ạ!? Tks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.49117,
+         "id": "837556",
+         "field_search": "question",
+         "question": " Máy tính mình không vào được quyền admin bây giờ làm sao ad?vào quyền admin là không lên yes được  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.47373,
+         "id": "1147659",
+         "field_search": "question",
+         "question": "Mình dùng oppo R7S khi có cuộc gọi zalo máy không báo chỉ khi mình mở ung dung  mới thấy cuộc gọi nhỡ , chỉ mình cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.92686,
+         "id": "837353",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi tại sao mà cài đặt messenger rồi mạ khi lên wed thì nó k cho vào tin nhắn, bảo là vào messenger hoặc không hiện lên trang wed ấy. Vậy có cách nào khắc phục k ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.5217,
+         "id": "1139042",
+         "field_search": "question",
+         "question": "Điện thoại em đang dùng là Huawei gr5, dạo gần đây thì điện thoại cứ nóng liên tục và pin tụt rất nhanh, em nghĩ rằng là do dịch vụ của GGplay, và tự dưng các app liên quan đến gg thì nó đều lỗi, CHPLAY nó cứ bắt đăng nhập rồi xoay tròn mãi, youtube hay zing mp3 vào là bị out, chomre cứ hiện lỗi \"Ôi, hỏng\" không thể lên web được, còn các app như Facebook , zalo, ig vẫn hoạt động bình thường. Em thấy vậy nên reset lại máy, và sau khi reset nó cứ hiện \" Câu hỏi, cập nhật hệ thống cần truy cập thông tin imei và imsi trên máy.......\" và nó hiện có hoặc không, em chọn có nhưng nó cứ khởi động lại rồi hiện tiếp cái bảng đó, bấm không cũng y vậy, giờ có cách nào cứu điện thoại em được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.45414,
+         "id": "780441",
+         "field_search": "question",
+         "question": "Ipad của mình cài đặt lại không biết sao lại không nhận icloud nữa.mà minh vẫn dùng tài khoản đó vào đến ac thì không nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.433205,
+         "id": "1022796",
+         "field_search": "question",
+         "question": "AD ơi, em lỡ tay nhấn gỡ cài đặt cập nhật dịch vụ của google và tắt CH play, bây giờ không có phiên bản cập nhật nữa rồi, em đang sử dụng điện thoại ASUS ZENPHONE 5 ạ. Mong mọi người chỉ cho em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.32971,
+         "id": "996356",
+         "field_search": "question",
+         "question": "Cho mình hỏi may asus zenphone 3max 5.5 mình mua duoc khoảng 2 thang khi cài khóa vân tay thì có thông báo là phần cứng vân tay không khả dụng. Vậy là lỗi gì ạ giúp mình khắc phục với. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.728546,
+         "id": "753652",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s nhưng dùng wifi không vào được appstore và 1 số ứng dụng nhưng lại vào được youtube và facebook cách khắc phục là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.674866,
+         "id": "786149",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình mua laptop ở FPT nhưng muốn mang lap top đến tgdd cài diệt virus được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.31364,
+         "id": "866955",
+         "field_search": "question",
+         "question": "Mình có download file SetupOneNote về và cài đặt thì nó hiển thị lỗi thế này. Cho mình hỏi là nó đang báo lỗi gì ạ -_- Hiện lap mình đang xài Office Plus 2013 hđh Win 7.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.24707,
+         "id": "1141389",
+         "field_search": "question",
+         "question": "Chào TGDD,Mình được người quen cho Ipad 3 và đã đăng nhập icould. Nhưng giờ mình quên mật khẩu và người tặng cũng quên.Ipad mình đang sài ios 8.0.2, xin hỏi TGDD có thể restore máy lại toàn bộ mà không cần icloud không ạ.Mình cám ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.12852,
+         "id": "1024269",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao những cuộc gọi đi hay đến mỗi lần nhắc máy tl thì máy lại tự động bật chế độ Không làm phiền khiến cả 2 đều không thể nghe được gì vậy ạ ,làm sao để tắt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.40386,
+         "id": "998469",
+         "field_search": "question",
+         "question": "Mình muốn cài cuộc gọi 9 phút 45 giây tắt. Mình làm thế nào bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.394264,
+         "id": "814689",
+         "field_search": "question",
+         "question": "khi gửi tin nhắn trên facebook mà bạn mình chưa đọc vậy nếu mình xóa facebook đi thì bạn mình có đọc được tin nhắn đó không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.158714,
+         "id": "999309",
+         "field_search": "question",
+         "question": "Mình mua con asus zenphone max 5.5 ở tgdd được 2 tháng rồi và mình muốn bán lại. Còn mới k trầy xước cũng như đầy đủ phụ kiện thì giá bán là nhiu vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.067635,
+         "id": "913626",
+         "field_search": "question",
+         "question": "Facebook bị như thế này là bị làm sao ạ?Nó cứ load mãi k được, e xóa đi tải lại vẫn bị, cập nhật rồi vẫn bị ạ? E xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.92218,
+         "id": "804418",
+         "field_search": "question",
+         "question": "Samsung A7 mới mua 20 ngày không nhận dạng được vân tay của chủ điện thoại. Không có cài mật mã dự phòng. Làm sao mở máy được. Tắt máy khởi động máy nhiều lần cũng vậy. Xin hỗ trợ gấp. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.907455,
+         "id": "997035",
+         "field_search": "question",
+         "question": "Mình dùng samsung galasy verizon s6 khi dùng thì máy nhanh nóng và cũng nhanh hết pin có cách nào khắc phục không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.86896,
+         "id": "1023488",
+         "field_search": "question",
+         "question": "Boss ơi máy sony z c6602 của em giờ khởi động hiện logo xong rồi tự khởi động lại rồi lại hiện logo rồi lại khởi động lại giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.674324,
+         "id": "1162267",
+         "field_search": "question",
+         "question": "chào bạn cho mình hỏi mình dùng máy samsung not9+ gọi đi hoặc nghe vs mọi người đều ổn nhưng cứ gọi tổng đài viettell 19006785 là chỉ đc 10s mình ko hiểu luôn mình đã khởi động lại máy vẫn ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.616066,
+         "id": "889194",
+         "field_search": "question",
+         "question": "E đang dùng laptop lenovo 100s mà giờ máy e mở lên chỉ thấy chữ lenovo chứ k vào được màn hình đăng nhập win 10. Cho e hỏi máy e bị sao vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.50476,
+         "id": "1153377",
+         "field_search": "question",
+         "question": "Chào ad. Em đang dùng đt J7. Hiện tại máy của em báo hệ thống nóng. Em đã tắt nguồn nhưng vẫn không được. Liệu có cách nào khắc phục được không ạ. Máy em mua 9 tháng thì còn bảo hành không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.058075,
+         "id": "870906",
+         "field_search": "question",
+         "question": "Khi đăng xuất icoud trên iphone rồi thì làm sau biết được tài khoản icoud đả tạo trứơc đó..( vì tk mình không nhớ rõ lắm).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.93117,
+         "id": "1140292",
+         "field_search": "question",
+         "question": "Mình dùng Note 8 . Thỉnh thoảng cảm ứng bị đơ.  hiện lên khung màu xanh biển chạy đóng khung khắp màn hình. các chức năng vẫn hoạt động bình thường nhưng không điều khiển được cảm ứng. để một thời gian thì máy lại  hoạt động bình thường . Xin hỏi máy như vậy là có vấn đề gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.70929,
+         "id": "1011616",
+         "field_search": "question",
+         "question": "Mình có chiếc Asus_Z00VD mà bị hư jack sạc, mình muốn sửa lại TGDD sửa được không và chi phí bao nhiêu ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.474625,
+         "id": "1010527",
+         "field_search": "question",
+         "question": "mình mua iphone 5se màu hường tại thế giới di động cáh đây 1 năm và máy vẫn mới còn nguyên bây giờ mình muốn đổi máy thì đc bn tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.38446,
+         "id": "992039",
+         "field_search": "question",
+         "question": "Cho mình hỏi là nếu 2 thiết bị của apple dùng chung tài khoản icloud và đồng bộ hình ảnh thì các hình ảnh của mình chụp sẽ tự động tải qua máy kia và khi mình xóa hình thì máy kia có bị xóa luôn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.300606,
+         "id": "996478",
+         "field_search": "question",
+         "question": "Mình dùng asus zenfonmax muốn cài hiển thị thời gian lên ảnh chụp thì lam thế nào nhỉ qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.2599,
+         "id": "1142241",
+         "field_search": "question",
+         "question": "Cho mình hỏi : điện thoại asus go tv mình đang dùng , cứ hay bị nóng máy , lúc bật dữ liệu mạng dùng cở 2p thì máy nóng  và tự tắt nguồn . Cho mình biết máy bị làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.22995,
+         "id": "857250",
+         "field_search": "question",
+         "question": " Thấy điện thoại bạn mình ai gọi đến chỉ cần đặt lên tai rồi nghe. Mình sài ip 5s có cài đc k nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.22197,
+         "id": "870709",
+         "field_search": "question",
+         "question": "Em vừa mua laptop tại thegioididong ở Nha Trang đường Thai Nguyên, em có mua phần mềm cài đặt virus loại 160.000vnđ.Add cho hỏi phần mềm đó nếu cài đặt sẽ nằm ở mục nào của máy.Loại máy: Laptop Dell Inspiron 3458Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.98562,
+         "id": "1142355",
+         "field_search": "question",
+         "question": "Lúc trước mình có dán mặt lưng điện thoại ở Thegioididong, bây giờ mình dán thêm mặt trước thì có được ưu đãi giá 15.000đ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.84612,
+         "id": "1143833",
+         "field_search": "question",
+         "question": "Cài đặt lại máy redmi note 5 frime. Mà nó bắt đăg nhập gmail cũ . Mà mk quên rồi phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.72639,
+         "id": "1018552",
+         "field_search": "question",
+         "question": "Mình được số điện thoại 02839719975 gọi đến báo là mình trúng pmh trị giá 3 triệu (tự nhận là nhân viên của trung tâm điện máy sài gòn) có liên kết với trung tâm thế giới   di động để tặng mình pmh mua điện thoại ss galaxy. Không biết thế giới i động có biết số đó không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.718605,
+         "id": "777043",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi, mình mới mua iPhone 4s, nhân viên có cài đặt sẵn iCloud, giờ mình muốn thay đổi mật khẩu iCloud nhưng máy hỏi 2 câu hỏi bảo mật: tên người bạn thân và công việc mơ ước. không biết câu trả lời mặc định là gì ạ. mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.608154,
+         "id": "760670",
+         "field_search": "question",
+         "question": "Tại sao iPhone của mình vào cài đặt ->> Bảo mật->> Ảnh rồi nhưng vẫn không hiện camera 360 để bật lên nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.49484,
+         "id": "1021968",
+         "field_search": "question",
+         "question": "Mình mới mua chiếc iphone 5 củ sài được vài hôm thì bị khóa icolud dậy mình phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.48263,
+         "id": "1168279",
+         "field_search": "question",
+         "question": "mình có mua máy samsung j7 pro chưa đc 1 năm nhưng giờ máy bị chảy mực phải thay màn hình thì phí như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.12604,
+         "id": "779037",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5 lock , mới mua nhưng máy báo có sóng và kiểm tra tài khoản được nhưng gọi và nhắn tin không được như vậy là máy bị gì vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1019321",
+   "total": 32873,
+   "total_current": 100,
+   "max_score": 227.51022,
+   "origin_question": "e mới mua một chiếc ss galaxy tab E về với mục đích để xem video học tập, website e xem là hocmai. tuy nhiên e không thể nào đăng nhập với tài khoản google trên app hocmai lecture, đăng nhập trên website hocmai thì chỉ xem được 1 đoạn video đầu ngắn, về sau là hiện dấu X lỗi không tải được video. Mong admin xử lí và đưa ra giải pháp giúp e",
+   "hits": [
+      {
+         "score": 65.58975,
+         "id": "1018768",
+         "field_search": "question",
+         "question": "e dùng ga A7 2016, cho hỏi sao e không xem được video trên google nhưng vẫn xem được trên youtube và các ứng dụng xem vid đã tải về ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.938984,
+         "id": "1163470",
+         "field_search": "question",
+         "question": "máy e là ss j2 e vào bộ sưu tập để xem video n ghi la chrome đã dừng rồi n thoát ra màn hình chính k xem đc video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.84323,
+         "id": "1012446",
+         "field_search": "question",
+         "question": "E dùng ss... Đt e lúc trước vẫn xem được nhiều video trong 1 list nhưng bây giờ e chỉ xem được mỗi một cái thôi...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.409206,
+         "id": "1149936",
+         "field_search": "question",
+         "question": "Em có cái video post trên zalo, mà em xóa ko được, trên tường e xóa tất rồi. mà người khác vẫn thấy. xong e lại xóa tất cả hình ảnh, video rồi, mà người khác vẫn thấy 3 đoạn Video đó. em đăng xuất ra đăng nhập lại. kể cả tắt nguồn mở lại vẫn bị vậy. Admin giúp em với ạ. e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.149963,
+         "id": "1156976",
+         "field_search": "question",
+         "question": "E không đăng nhập được vào app fb của IP X, đã xóa đi tài lại ứng dụng vẫn không được. Facebook báo \" lỗi đăng nhập, đã xảy ra lỗi không mong muốn. Vui lòng đăng nhập lại sau\". Em đăng nhập nik vào máy khác thì vẫn được. Mong add chỉ e cách khắc phục ak, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.69847,
+         "id": "909409",
+         "field_search": "question",
+         "question": " Mình bị lỗi không xem được video trên website ios 9Mình cần hỗ trợ từ nhân viên kỹ thuật ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.691948,
+         "id": "1010459",
+         "field_search": "question",
+         "question": "E đang dùng ss j3 2016,sao e xem video đã tải về trong máy không được ạ, nó vẫn chạy âm thanh của video đó nhưng hình ảnh thì nó không phát được cứ 0:00 giây đứng mãi. Admin xem thử có cách nào khắc phục được không ạ e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.640408,
+         "id": "1161092",
+         "field_search": "question",
+         "question": "Cho e hỏi.e xem trên youtobe về cách chạy lại đt như ban đầu,xong e làm theo như trên youtobe.và e chạy lại thành công nhưng hk hĩu sao đt e bị mất một nữa số ảnh và video trong máy.vậy mấy ac có thể nghỉ cách cứu mấy tấm ảnh với video của e về được hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.286472,
+         "id": "862506",
+         "field_search": "question",
+         "question": "Hoàng Long- cho e hỏi, bạn e nó có share cho e 1 cái video ngắn trong tin nhắn riêng trên zalo, nhưng nó ko có trang wep nào hết, ấn zô là xem thôi, vậy để làm sao mới có thể tải và gửi cái video tương tự và gửi vào tin nhắn trên zalo...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.24574,
+         "id": "1017105",
+         "field_search": "question",
+         "question": "Máy Samsung Galaxy j1 của e bị lỗi. Ko thể đăng nhập tài khăn Google và sảy ra sự cố giao tiếp với máy chụp Google. Giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.184933,
+         "id": "1144675",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao tải video trên youtube về nó cứ để 0%, hoặc 1vài video tải về được xem có khi bị rít, sao khi tắt mạng thì vào xem không được, có khi để lỗi hoặc để video thiếu tệp. Em đang dùng itel s11 plus. Mong giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.62075,
+         "id": "1013483",
+         "field_search": "question",
+         "question": "Em đăng nhập vào app store nó bảo vào xem xét tài khoản. Nhưng sau khi nhập thông tin nó cứ thông báo như trên hình đấy ạ. Mong ac giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.343315,
+         "id": "1021439",
+         "field_search": "question",
+         "question": "Cho e hỏi, e đang xài htc nhưng không phát video trên youtube được, video không chạy không phản ứng gì cả. Xem video trên fb cũng v. Nhạc trên zing cũng phát luôn. Giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.16332,
+         "id": "1146788",
+         "field_search": "question",
+         "question": "Máy Samsung j4 của e chỉ xem đc video 720p trên youtube có cách nào để xem video 1080p k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.645958,
+         "id": "1009939",
+         "field_search": "question",
+         "question": "Sao điện thoại em ss a3 không xem được các video liên tiếp nhau trên facebook.. mọi hôm em vẩn có 1 list video, bây giờ chỉ xem đk mỗi video khi mình click vô.. e đã gở và cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.330097,
+         "id": "800179",
+         "field_search": "question",
+         "question": "Cho e hỏi trên máy ipad mini 2 bị lỗi gì mà lúc e vào youtube thì cứ báo là lỗi tải dù có wifi đầy đủ,và e đăng nhập vào tài khoản google trên máy thì nó hiện lên 1 bảng trắng cứ chạy vòng vòng,sau một lúc thì nó tự động tắt,e đã thử rất nhiều lần nhưng không được.Mong tgdd giải đáp giúp! E xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.22754,
+         "id": "853566",
+         "field_search": "question",
+         "question": "Quản trị viên ơi cho e hỏi: e đã tạo xong tài khoản ID APPLE rồi,đã xác nhận đồ xog rồi và có thể sử dụng nhưng khi em nhập vào để tải app thì nó cứ hiện là :\" ID Apple này chưa được sử dụng trước đây ở iTunes Store.Chạm vào xem xét để đăng nhập, sau đó xem xét thông tin tài khoản của bạn.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.038044,
+         "id": "1000006",
+         "field_search": "question",
+         "question": "em dùng máy dell N7640 mà em xem video, nghe nhạc trên website cứ tầm 10 phút là không xem được. Nó cứ load như cái ảnh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.489014,
+         "id": "1158651",
+         "field_search": "question",
+         "question": "Tại sao facebook của tôi lại không có mục xem video( facebook watch) ma tài khoản khác đăng nhập vào lại có mục đấy. Cho tôi xin cách giải quyết ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.924156,
+         "id": "1157582",
+         "field_search": "question",
+         "question": "Máy e không thể vào được CH PLAY vì đã xảy ra sự cố khi giao tiếp với máy chủ google còn youtube cũng ko thể đăng nhập vào tài khoản Google được nhờ adm giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.494083,
+         "id": "1022634",
+         "field_search": "question",
+         "question": "shop ơi cho e hỏi sao máy tính e đăng nhập vào gmail để cahyj các bài giảng video của e trên drive mà  k chạy đuovự video là sao hả . giúp e dk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.481613,
+         "id": "842022",
+         "field_search": "question",
+         "question": "Máy e là oppo r7 không hiểu sao nó không xem được video trên fb, youtube và cả instagram nữa ạ 😡😡 máy e mới mua 2 tháng thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.472088,
+         "id": "817335",
+         "field_search": "question",
+         "question": "E xem video trên ứng dụng facebook của đt samsung s4 docôm thì bị mờ, k cho hình ảnh sắc nét. E xem trên đt khác thì nó vẫn nét ạ. Bây giờ thì e phải cài đặt như thế nào để xem video trên facebook được nét ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.03492,
+         "id": "1024080",
+         "field_search": "question",
+         "question": "cho e hỏi chút ạ. e đã có tk id apple rồi, e muốn tải phần mềm xuống máy tính, chọn tải xong đăng nhập nick thì nó lại hiện lên là : id apple này chưa được sử dụng trong app store. vui lòng xem xét lại tài lại tài khoản. em ấn vào nút xem xét thì nó không hiện lên gì cả! làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.575653,
+         "id": "824282",
+         "field_search": "question",
+         "question": "Vì sao máy tôi mỗi khi muốn xem video thì đều ko xem được và đều hiện ra chữ như trên ảnh, giờ phải làm thế nào để xem được video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.07001,
+         "id": "852583",
+         "field_search": "question",
+         "question": " Làm thế nào để tải video từ website về máy iphone 6s plus? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.906578,
+         "id": "1010246",
+         "field_search": "question",
+         "question": "Cho e hỏi dt samsung s8 plus, hiện tại ảnh và video nằm chung 1 thư mục. Làm sao để e tách được ra riêng ảnh với video ạ?. Tức là khi phát sinh 1 video mới thì máy mặc định sẽ vào thư mục video, chứ mình ko phải vô thư mục chung đó rồi di chuyển thủ công wa thư mục video vừa tạo ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.72854,
+         "id": "1141776",
+         "field_search": "question",
+         "question": "ad cho em hỏikhi em xem video trên máy tính, ví dụ như trên facebook hay trên một số khóa học online thì nó hay bị nhòe nhòe chớp chớp tầm 1s rồi nó lại về bình thường. khi e xem trên youtube thì thỉnh thoảng cũng bị vậy nhưng ít hơn. Xem vid như vậy e thấy rất đau mắt và bất tiện ạ. cho e hỏi lỗi này là do đâu ạ và khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.246845,
+         "id": "947150",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy samsung J5 , do máy có 1 vài lỗi không sửa được nên em đã reset lại máy. Nhưng đến lúc họ yêu cầu nhập tài khoản google để xác nhận thì nó lại hiện ra là \" vui lòng đăng nhập bằng một trong nhũng tài khoản của chủ sở hữu thiết bị này\" . em mong ad giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.139587,
+         "id": "1164863",
+         "field_search": "question",
+         "question": "sao em không thể đăng nhập tài khoản google trên thiêt bị nó cứ báo là bị \"không thể đăng nhập vào thiết bị do thay đổi mật khẩu gần đây. vui lòng thử đăng nhập lại 24 giờ sau khi thay đổi mật khẩu được thực hiện\" mà e để qua mấy ngày mà vẫn vậy không thể đăng nhập vào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.004513,
+         "id": "1001567",
+         "field_search": "question",
+         "question": "Cho em hỏi Em vào 1 trang wep để xem video trong trang wep đó bằng thư viện trình phát video mà nó báo là không thể mở videoLần trước thì em xem được video mà giờ k được Dien thoại của người khác thì xem được ...mong anh chị chỉ cho em cách cài đặt lại mục thư viện..trình phát video ạ.cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.770638,
+         "id": "805794",
+         "field_search": "question",
+         "question": "E gửi video nó để đag xử lí và gửi không được.cho e hỏi lí do và cách khắc phục đi ạk..e đã cập nhật lại zalo và video e gui chỉ có 15s à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.76141,
+         "id": "1017596",
+         "field_search": "question",
+         "question": "Cho e hỏi. E có máy j7pro khi đang xem video mà có người  gọi tới, khi nghe xong cuộc gọi ,e xem tiếp video mà không nghe được tiếng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.64332,
+         "id": "1155404",
+         "field_search": "question",
+         "question": "Mình dùng ss M20. Bị lỗi như này: khi xem video(chỉ những video trên face và trong kho ảnh mới bị, video trên youtube thì lại bình thường) đc khoảng 30s thì bị giật hình 1 phát xing video lại tiếp tục chạy bt. 1 video 3phút bị 2 hay 3 lần). Chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.563553,
+         "id": "1002246",
+         "field_search": "question",
+         "question": "Tại sao ứng dụng youtube được cài sẵn trong máy e mới mua về lại bị tự động dừng video khi đang xem ạ. Có thể cho e biết cách khắc phục không ạ. Zing mp3 e tải về cũng bị nt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.50074,
+         "id": "1135746",
+         "field_search": "question",
+         "question": "e mua đt cũ ip . đăng nhập icloud mà máy cứ báo số lượng tài khoản miễn phí đã cài đặt trên máy là sao ạ . mong TGDD xem giùm ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.043358,
+         "id": "950683",
+         "field_search": "question",
+         "question": " E tải ngoại tuyến trên youtobe về không xem được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.97071,
+         "id": "1152075",
+         "field_search": "question",
+         "question": "Cho e hỏi galaxy a7 e mới mua, khi quay video, không thể chuyển came từ came trk ra came sau và ngược lại, là do lỗi  máy hay do tính năng của quay video không thể chuyển được ạ.Em xin cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.95948,
+         "id": "1013986",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình mới mua chiếc xiaomi note 4x. Mình đã dùng tài khoản google để đăng nhập và đồng bộ hóa tự động, nhưng những ảnh và video mình đã có trước đây không thấy có trong máy sau khi đồng bộ là sao vậy. (Trước đây mình cũng đã sử dụng đồng bộ trên máy điện thoại khác và ảnh + video vẫn về đầy đủ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.65383,
+         "id": "1008505",
+         "field_search": "question",
+         "question": "Mình đang dùng đt Huawei gr5 mini được 1 tháng rồi.  Hiện dt mình 1 chút trục trặc là khi xem video trên bất kì app nào chỉ được 1 chút là sẽ tự động pause và lặp lại rất nhiều lần.  Với bàn phím đang soạn tin thì tự nhiên biến mất phải bấm lại rất khó chịu. Mong ad giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.56955,
+         "id": "833362",
+         "field_search": "question",
+         "question": "Ad ơi cho Em hỏi: Iphone 6 e đang dùng bình thường và có đăng nhập tài khoản icloud của e thành công nhưng khi e đăng xuất ra thì e check icloud trên web Icluod.com thì nó vẫn hiện là On, sau đó e đăng nhập tài khoản icloud của e vào lại ip6 thì lại vẫn bình thường. Ad cho e hỏi có phải máy e đã bị dính icloud ẩn hay không?, e rất thắc mắc vì nếu bị icloud ẩn thì tại sao e lại đăng nhập tài khoản icloud của e đc...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.280586,
+         "id": "1148189",
+         "field_search": "question",
+         "question": "E đang sử dụng iphone 6 ios12.1.2Khi e đăng nhập bằng ID Apple để vào Appstore thì nó vẫn đăng nhập được thông thường trên các máy khác, nhưng máy của e thì bị lỗi không đăng nhập được ạ, hoặc nó chỉ hiện dòng “Đang đăng nhập...” và đợi mãi thì nó vẫn không được ạ.Ad cho e hỏi là nếu điện thoại của bị như vậy là do lỗi gì ạ? Có cách gì để khắc phục ạ? E cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.04235,
+         "id": "998436",
+         "field_search": "question",
+         "question": "E mới mua j7 prime về có những ứng dụng k dùng đến muốn xóa nhưng k đc lâu lâu xem video trên youtube hay bị chạy chậm. Mong anh chị có thể chỉ e cách làm nhẹ máy tối đa nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.980526,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.952526,
+         "id": "923131",
+         "field_search": "question",
+         "question": "Máy e là ip 4s ios 9.3.5. Sau khi e đồng bộ ảnh và video ở máy với google photos thì máy e không thể xoá cũng như save ảnh được. E phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.779808,
+         "id": "1146865",
+         "field_search": "question",
+         "question": "Tại sao e nhấn vào nút chạy video để chơi confetti trên fb thì lại xuất hiện lỗi nội dung này ko hiển thị là sao ạ, e đang sử dụng 4g để xem ạ. Ai giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.740177,
+         "id": "1011419",
+         "field_search": "question",
+         "question": "Các anh chị ơi lm ơn giúp e vs....E dùng máy tính bảng Samsung Galaxy Tab A6 quay được video nhưng khi xem lại màn hình đen sì, nghe được mỗi tiếng thôi!E cầm đi đến thế giới di động bảo họ giúp thì xem được 2,3 lần rồi lại bị như thế....Giúp em với ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.683468,
+         "id": "847624",
+         "field_search": "question",
+         "question": "Ad ơi có thể đăng nhập một tài khoản zalo trên hai máy tính cùng một lúc không?. Tại sao trên zalo có mục quản lý danh sách các máy tính đăng nhập mà mìn thấy chỉ đăng nhập được một máy nhỉ.Mình đăng nhập zalo của người yêu bằng máy tính của mình để mình kiểm tra a ấy, nhưng khi người yêu mình cũng đăng nhập trên máy tính thì máy của mình toàn bị thoát ra. Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.674572,
+         "id": "902203",
+         "field_search": "question",
+         "question": "Ip của tôi ko thể tải ứng dụng trên app store về do ko thể đăng nhập vào tài khoản appstore đc.qua tìm hiểu tôi đã thử thay đổi thời gian cho khớp với thời điểm thực tế nhưng vẫn không đăng nhập được.trước đó tôi đã đăng ký xong tài khoản appstore and itunes rồi. Mong thegioididong giúp tôi sử lý lỗi trên. Tôi xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.632607,
+         "id": "885962",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình đăng nhập 1 tài khoản zalo vào điện thoại 1.sau đó không thoát tài khoản mà chỉ tắt wifi trên điện thoại.sau đó mình đăng nhập tài khoản đó trên 1 điện thoại khác gọi là điện thoại 2.cho hỏi là khi mình bật wifi ở chiếc điện thoại 1 lên thì tài khoản zalo đó sẽ được đăng nhập ở chiếc điện thoại số mấy.thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.483273,
+         "id": "1013485",
+         "field_search": "question",
+         "question": "a ơi fb e bị j mà nó để: Bạn hiện không thể đăng nhập Chúng tôi sẽ liên hệ với bạn sau khi xem xét ảnh của bạn. Vì lý do bảo mật, bạn hiện sẽ bị đăng xuất khỏi Facebook. xin add giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.435753,
+         "id": "899255",
+         "field_search": "question",
+         "question": "chào anh, chị. hiện tại e đang dùng asus X552LAV SX921D, lúc trước e mua máy cài win 8, khi e tải video về mở ra xem thì thấy cuối góc phải trên thanh taskbar có thấy 3 dòng chữ LAV, xem có thể stop thẳng trên màn hình (nó giống y như phần mềm media player classic), chỉ khác là khi mở ra có 3 chữ LAV dưới (em nhớ có nền màu xanh dương). Máy e bị hư phải chạy ctr lại rồi ngta cài cho em win 10, giờ em xem video k có cái LAV đó nữa, chỉ có movie&tv, photo, windows media thôi. Em rất thích cái LAV nhưng không biết làm sao để tìm được, mong add giúp em ạ. Chân thành cảm ơn add. :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.291393,
+         "id": "1020264",
+         "field_search": "question",
+         "question": "Máy của em là Ss galaxy J1 mini, tối hôm qua em có reset máy. Đến lúc mở lên thì phải qua bước xác minh tài khoản Google đã đồng bộ hóa trước đó, em đã nhập tài khoản vào rồi nhưng vẫn k đc (e đã nhập các tài khoản khác của e nhưng nó vẫn quay về bước xác minh). Máy này bố em mua về cho em và đến lúc đưa cho em thì máy đã sử dụng đc. Liệu có phải là nhập tài khoản của bố em mới được hay vì lí do nào khác ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.24053,
+         "id": "898177",
+         "field_search": "question",
+         "question": "AD cho em hỏi. e có 1 tk icloud đăng nhập trên ip5s. e mua 1 chiếc ip6 về. e reset ip6 và khôi phục ip6 bằng icloud. giờ 2 ip đã giống hệt nhau. em nhận được thông báo nhập mật khẩu icloud. e vào cài đặt và nhập xong thì cả 2 ip bị đẩy ra và yêu cầu nhập id passwuod. e nhập vào thì nó báo không đúng. trong khi e không thay đổi mật khẩu icloud, e bị 2 lần rồi, mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.18842,
+         "id": "805689",
+         "field_search": "question",
+         "question": "E vừa update win 10 cho đt. Ảnh trên google e có thể tải và lưu về đt của mình đc. Nhưng trên zalo thì không. Giúp e với ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.892845,
+         "id": "888182",
+         "field_search": "question",
+         "question": "admin cho e hỏi điện thoại iphone 5 của e bị hư màn hình . ngoài việc sử dụng icloud để tải ảnh thì còn cách nào khác để lấy ảnh trên cuộn camera về được không ạ . tại e đăng nhập icloud nhưng nó chỉ về có vài tấm à . help me !!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.641834,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.63702,
+         "id": "867735",
+         "field_search": "question",
+         "question": "Mình đang dùng Lumia 730, khi vào Instagram thì không xem được video, cứ gặp video là thoát ra ngoài. Có khi mới vào, gặp bài viết đầu tiên trên tường là video thì bị thoát ra ngoài, dù chưa thấy được hình ảnh của video đó. Rất bực mình. Có ai biết cách khắc phục không, chỉ dùm mình đi. Thank.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.477352,
+         "id": "997973",
+         "field_search": "question",
+         "question": "Thời gian gần đây thì con J7 prime của em hay xuất hiện lỗi khi lướt wed là hiện lên logo của loa kèm tiếng bíp rất khó chịu, nó làm đt đơ trong nữa giây làm hoạt động tải về trang wed hoặc xem video trên youtube bị đứng. Đặc biệt là khi xem video trên youtube nó xuất hiện liên tục làm video dừng rất nhiều lần. Mod giúp em với ạ. Loa trong và loa ngoài đt em bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.44417,
+         "id": "804074",
+         "field_search": "question",
+         "question": "Mình đang xài iPhone 5s mới jeaback để cài ảnh đại diện video trên facebook, mấy tài khoản facebook khác đăng nhập trên điện thoại mình đều thay ảnh đại diện bằng video rồi, mà chỉ mỗi nick facebook mình là không thấy để up video đại diện thôi. Mình không hiểu sao luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.42217,
+         "id": "1020015",
+         "field_search": "question",
+         "question": " E bị lỗi này ạ và không biết xử lí ra sao có thể giúp Em được không ạ. đt e là j7 prime  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.358654,
+         "id": "868108",
+         "field_search": "question",
+         "question": " Em không thể đăng nhập mp3 trên iphone được ạ..nó toàn bảo là đăng nhập hết hạn.máy e mới cập nhật lên ios 9.3.3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.307545,
+         "id": "913631",
+         "field_search": "question",
+         "question": "ảnh trên icloud của mình 3,9 GBmình đăng nhập tài khoản icluod vào máy mới để tải ảnh trên icluod về.khi xem quản lí dung lượng máy ảnh chiếm có 1,8 gb.trong khi trên icluod là 3,9 gbmà trong ảnh vẫn đủ ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.305458,
+         "id": "855138",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e dùng ip5s e xem video trên you tube thì k sao nhưng mà xem trên fbook thì nó cứ load quay tròn ... E dùng wefi cực ổn mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.299618,
+         "id": "806712",
+         "field_search": "question",
+         "question": " Hiện em đăng nhập tài khoản Facebook không được là sao anh có cách nào giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.271782,
+         "id": "1160055",
+         "field_search": "question",
+         "question": "Lúc trước e xem video trên intener thì có phím tua đc 15 giây và tua lại 15 giây . Mà giờ nó ko có chức năng đó , chỉ có phím >> và < vậy=\"\" thôi=\"\" ..thì=\"\" e=\"\" phải=\"\" cài=\"\" đặt=\"\" như=\"\" thế=\"\" nào=\"\" để=\"\" hiện=\"\" thị=\"\" lại=\"\" nút=\"\" tua=\"\" 15=\"\" giây=\"\" vậy=\"\" lại=\"\" ..=\"\" ad=\"\" chỉ=\"\" giúp=\"\" e=\"\" với=\"\" .=\"\" e=\"\" dùng=\"\" iphon5=\"\" vậy=\"\" thôi=\"\" ..thì=\"\" e=\"\" phải=\"\" cài=\"\" đặt=\"\" như=\"\" thế=\"\" nào=\"\" để=\"\" hiện=\"\" thị=\"\" lại=\"\" nút=\"\" tua=\"\" 15=\"\" giây=\"\" vậy=\"\" lại=\"\" ..=\"\" ad=\"\" chỉ=\"\" giúp=\"\" e=\"\" với=\"\" .=\"\" e=\"\" dùng=\"\">",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.22964,
+         "id": "1153162",
+         "field_search": "question",
+         "question": "mọi người cho em hỏi em sử dụng điện thoại xiaomi 5A prime được 9 tháng, e quên mật khẩu nên chạy lại chương trình sau đó nó bảo e đăng nhập tài khoản MI nhưng tài khoản MI e ko biết, vì tài khoản đó TGDĐ tạo giúp em, hiện tại e mang đi sửa tại cửa hàng đt nhưng ko đc, nên đưa vào TGDĐ sửa mọi người giúp e trả lời xem có thể sửa được không? vì em rất lo lắng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.157333,
+         "id": "1159765",
+         "field_search": "question",
+         "question": "A/c cho e hỏi với. E có 1 chiếc samsung galaxy S9 lỡ quên mật khẩu. Nhưng lại chưa đăng nhập samsung account trên máy đt. Nhưng e lại lỡ chữa lợn lành thành lợn què vì lỡ ấn bảo mật trên tìm đt nên gio cũng ko thể tắt nguồn để hard reset. Cho e hỏi gio có cách nào để mở máy không ạ? E vẫn giữ tài khoản google mà vừa khoá máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.06461,
+         "id": "996992",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung galaxy a5 2016. Khi đang xem video trên youtube và facebook thì tự nhiên bị dừng kiểu như pause phải bấm tiếp tục mới xem tiếp được. Cứ 20s lại bị 1 lần.  Giúp mình tìm cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.923107,
+         "id": "766820",
+         "field_search": "question",
+         "question": "Giúp mình với iPhone của mình thoát iCloud cũ và đăng nhập tài khoản mới vào Album rõ ràng không còn ảnh và video của iCloud cũ nữa, chỉ có mấy chục cái ảnh mình mới chụp, sao vào xem giới thiệu lại thấy số lượng ảnh và video trong máy rất nhiều (như trước khi mình thoát iCloud cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.80663,
+         "id": "803836",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi tại sao khi đăng nhập vào App Store, chọn xong hết phần thông tin cần thiết rồi mà vẫn ko đăng nhập được vậy ạ? Nó hiện lên là xem hỗ trợ tại www.apple.com/support/itunes/ww.Ad giúp e vs ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.71771,
+         "id": "935005",
+         "field_search": "question",
+         "question": "Tại sao em xem ảnh trên máy tính từ điện thoại gửi qua Messenger thì nó rất mờ nhỉ? E xem trên điện thoại rất nét, e cũng cài đặt tải ảnh lên HD cả rồi. Chỉ khi xem trên máy tính mới bị thôi, tức là máy tính xem ảnh từ messenger do điện thoại tải lên thì rất mờ ạ! Giúp e khắc phục với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.7104,
+         "id": "1141327",
+         "field_search": "question",
+         "question": "vấn đề của e ko biết mọi nguời giải đc ko. laptop của em e đang mở vào youtube vào xem phim tự nhiên nó tự tua video thật nhanh rồi hết video luôn chưa xem cái gì luôn , còn nửa là e đag vào google để gỏ chử gỏ xong thì nó lại tự kéo sang bên phải làm mất chử ở phía bên trái",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.594536,
+         "id": "992611",
+         "field_search": "question",
+         "question": "Máy e đang sài là ip6s. Sau một thời gian tìm hiểu về những tính năng mà ios11 đem lại thì e mới thử nâng cấp lên xem sao. K ngờ thì hậu quả để lại là máy bị đơ và khó sài quá,e muốn phát điên lên mất. E có nghe nói là mình có thể kết nối với máy tính và tải phần mềm gì đó về để có thể kéo lại xuống ios 10.3.2 được. Cho e hỏi TGDĐ có thể giúp e đc k ạ??Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.478176,
+         "id": "904830",
+         "field_search": "question",
+         "question": "Em muốn đăng nhập zalo pang sdt người yêu để theo dõi cô ấy chút xíu mak k có mật khẩu kung k thể hồi mật khẩu được.có cách nào đăng nhập bằng số điện thoại người ý xem tin nhắn được k z.mn pít chỉ giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.33836,
+         "id": "994293",
+         "field_search": "question",
+         "question": "Em quên mật khẩu icloud trên iphone 5S (đã cập nhật phần mềm mới - không có mục Cài đặt -> Icloud) và không đăng nhập được. Mật khẩu gmail cũng không sử dụng được. Admin chỉ giúp em cách xóa tài khoản icloud với. Rất mong nhận được câu trả lời sớm nhất. Cám ơn admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.244286,
+         "id": "909878",
+         "field_search": "question",
+         "question": "cá a/c cho em hỏi là làm sao để biết tk icloud của mình đang đăng nhập trên những máy nào ạ . e thấy máy của e báo về là tk của e đang bị dùng để đăng nhập cái gì ấy .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.20997,
+         "id": "1142005",
+         "field_search": "question",
+         "question": "Em samsung j6 mình mua được 3 tháng nhưng giờ xem video thì chỉ được 50s là bị đứng,muốn xem tiếp thì phải nhấn play. Còn quay video thì chỉ lưu được khoảng +-50s là bị thoát ra, ko thể quay quá 1phut",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.956554,
+         "id": "833199",
+         "field_search": "question",
+         "question": "e mới mua ipad mini. Về thì kết nối wifi lướt web xem video bình thuờng nhưng khi tải app từ appstore thì rất chậm có vài chục mb mà cả tiếng k xong. Kết nối wifi nhà khác thì tải bình thuờng. Con samsung e kết nối wifi nhà e thì tải bình thuờng. Vậy cho e hỏi đây là lỗi gì ạ và cách khắc phục đc k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.882217,
+         "id": "1008987",
+         "field_search": "question",
+         "question": "Mình xài ss a7.cho mình hỏi sao mình k xem được video ở giữa hoặc gần cuối trong bộ sưu tập mà nó bắt phải quay về hình đầu tiên r lướt theo thứ tự tới video đó mới mở coi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.84659,
+         "id": "917672",
+         "field_search": "question",
+         "question": " Máy iphone 5s của mình khi xem video trên máy không xem được toàn màn hình là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.80991,
+         "id": "1005450",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Đt samsung j7 của e. Mấy bữa xem phim trên bilutv.com và tải phim về bình thường. Nay vào xem thì không đc nữa. Tải về cũng k đc. Ad cho e hỏi đt e bị lỗi gì và cách khắc phục ạ. Cảm ơm ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.65153,
+         "id": "1007788",
+         "field_search": "question",
+         "question": "M.n cho e hỏi là máy của em là galaxy tab A , hồi trước dùng wifi ngon lành , cách đây 2 tháng tự dưng bị kiểu dùng wifi thì kết nối được có mạng, mà chậm như rùa ,khó load nổi một trang  . Youtube thì xem video luôn dừng ở giây thứ 6 , load 1 lúc ms xem tiếp được . Mà mạnh wifi thì e xem kĩ r , ko có vấn đề gì cả . 4g thì lúc có lúc không , ko hiểu nổi , toàn phải khởi động lại máy mạng mới ổn định 1 tí , xog đâu lại vào đó . Đến bâyh thì em đã quen với cái wifi chậm đấy thì tự nhiên nó lại không load được youtube , ch play , ... Mà vào fb vs xem video trên fb lại ngon ! Chơi game lúc được lúc không được , mà vào được thì 2 phút out luôn . Vậy cho e hỏi đấy là do máy hay do mạng hoặc là do 1 nguyên nhân khác ạk ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.64389,
+         "id": "786558",
+         "field_search": "question",
+         "question": "Quên tài khoản ID của Icloud....1 năm trước e có đến cửa hàng Thế giới di động địa chỉ 136 Nguyễn Thái Học nhờ anh nọ tải game và 1 số ứng dụng. Nhưng hôm qua e đang lên mạng bình thường thì Iphone 4 của e bị tắt máy. Giờ nó yêu cầu e nhập địa chỉ ID để đăng nhập nhưng e quên tài khoản đăng nhập rồi thì phải làm sao ạ? mật khẫu e vẫn còn nhớ. Help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.513645,
+         "id": "1141529",
+         "field_search": "question",
+         "question": "Cho e hỏi là khi xem phim trên google chorme máy vsmart acctive 1 nó không ẩn 3 phím điều hướng.Anh chị chỉ cách cho e tắt nó đi với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.421856,
+         "id": "945249",
+         "field_search": "question",
+         "question": "Làm thế nào để đăng nhập nhanh trên facebook ạ. Em thấy là phải đăng nhập tài khoản ấy lần đầu tiên mới lưu đc nhưng mà em đã đăng nhập nhiều lần rồi thì có cách nào khác không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.416763,
+         "id": "1020762",
+         "field_search": "question",
+         "question": "Điện thoại e mua được hơn 4 năm rồi, mua ở thế giới di động là galaxy note 3 SM- N9000. sau đó có bị hư main nên e thay main. Khi vào thông tin thiết bị thì lại hiển thị là SM - N9005. e nghĩ là lúc thay người ta bỏ cái main model N9005 vào. Sau đó cục sạc bị hư sạc ko vào nên e có dùng cục sạc của Samsung nhưng dòng đt khác để sạc, vẫn dùng pin nguyên thủy khi mới mua về lúc đầu ở TGDD. sử dụng được 1 thời gian thì pin hao nhanh dữ dội. Chơi game và coi video trên YouTube tầm 30 phút là muốn hết pin. E mới mua cục sạc và pin mới chính hãng luôn để thay vào. E cũng sạc 8 tiếng cho 3 lần đầu luôn nhưng vẫn hao dữ dội. E ko xem video, ko chơi game, chỉ mở wifi lướt Facebook 1 tí mà hao mười mấy phần trăm pin. Lúc đầu e cho là do xài sạc ko đúng dòng đt và pin bị chai nên e thay mới hết. Nhưng bây giờ thay rồi vẫn bị hao nhanh. Mong admin giải đáp giúp e là nó bị lỗi gì vậy ạ ? Cần thay những thứ gì nữa ? E cảm ơn nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.399124,
+         "id": "797752",
+         "field_search": "question",
+         "question": " Ad chỉ e cách làm thế nào để tải video trên facebook về điện thoại iphone 5s thì làm thế nào ạ xin cảm ơn àd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.325127,
+         "id": "1153841",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi là đt của e là j7 prime Đây là video tự quay ạCác lần trc e xem đc nhưng mới đây lại ko xem đc và nó hiện ntn là bị sao và có khắc phục đc ko ạE cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.30805,
+         "id": "1024282",
+         "field_search": "question",
+         "question": "Mình vừa mua mới điện thoại. Nhưng tại sao đăng nhập vào tk gmail để tải ứng dụng trên CH Play thì báo không thể đăng nhập, xảy ra sự cố kết nối  với account.google.com , vậy là thế nào và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.253593,
+         "id": "858313",
+         "field_search": "question",
+         "question": "Cho em hỏi đăng xuất tài khoản id Apple cũ và đăng nhập tài khoản id apple mới mà không gỡ cài đặt các ứng dụng lúc trước tải bằng tài khoản của thì có thể tải ứng dụng bằng tài khoản mới được không ad, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.197784,
+         "id": "897994",
+         "field_search": "question",
+         "question": "cho e hoi laptop cua em la asusa540 LA.lap moi ạ nhưng e tải tài lieu ở gmail về máy xong e vào this pc..mục tải xuống để xem mà nó cứ tự động thoát ra màn hình chính khi e chọn chế độ xem a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.13162,
+         "id": "910651",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy em hay bị xem video hoặc các clip ngắn ở trên youtube và tất cả các trang đều ko được vậy. Nó cứ đứng yên ở 0:0 giây. Trong album ảnh cũng xem không được. Ai biết lỗi gì chỉ em với :(. Ip6 ios10.1.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.091057,
+         "id": "1147864",
+         "field_search": "question",
+         "question": "Cho e hỏi là do e quên mất sdt xac minh của tài khoản icloud thế giờ em không đăng nhập vào tk  được nên ko biêt ad có cách nào đăng nhập vào icloud lại được không ạ hay xác minh cái khác để vào tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.076195,
+         "id": "1000013",
+         "field_search": "question",
+         "question": "Em có tải 1 video trên mạng dìa. E mún gữi qua tin nhắn zalo cho bạn xem. Điện thoại nokia này có hỗ trợ gữi video qua zalo kh vậy. Video cũng khá dài.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.053448,
+         "id": "991794",
+         "field_search": "question",
+         "question": " Ad giúp e với e đăng nhập vào app store mà cứ báo như vậy.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.904377,
+         "id": "1000983",
+         "field_search": "question",
+         "question": "Cho e hõi đt như thế nào mới xem được video 360 độ vậy ad ? Sony xa được ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.82735,
+         "id": "1167929",
+         "field_search": "question",
+         "question": "Dạ e ko thể dùng tài khoản Google  của mình đăng nhập vào ứng dụng của Google như ch play và youtube.tất cả đều báo là ko có kết nối mạng .e đã xóa cache và thử gỡ cài đặt ứng dụng nhưng đều ko đc ạ ..mong ad giúp e khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.708744,
+         "id": "1007190",
+         "field_search": "question",
+         "question": "Ad giúp e cái này với. E mở khóa nhiều lần không được nên bị khóa. Em k nhớ tên đăng nhập của google",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

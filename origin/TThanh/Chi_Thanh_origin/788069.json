@@ -1,0 +1,801 @@
+{
+   "id_query": "788069",
+   "total": 26585,
+   "total_current": 100,
+   "max_score": 98.896324,
+   "origin_question": " Chào admin,Em dùng ip 6 em muốn lấy file ghi âm từ điện thoại ra máy tính, admin hướng dẫn giúp em nhé.Cảm ơn admin ",
+   "hits": [
+      {
+         "score": 34.00177,
+         "id": "881026",
+         "field_search": "question",
+         "question": "Chào bạn!Làm ơn cho mình hỏi, mình muốn sao file ghi âm (từ 15'-45') từ iphone5 ra máy tính thì phải làm thế nào?Xin cảm ơn bạn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.65859,
+         "id": "737549",
+         "field_search": "question",
+         "question": " Admin cho hỏi làm sao copy file từ máy tính sang iphone được .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.33302,
+         "id": "1020771",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi hiện mình đang dùng 7plus, thường mình thấy Samsung có mục ghi âm cuộc gọi trên cuộc gọi thoại. Thì admin cho mình hỏi bên iphone có mục ghi âm cuộc gọi thoại như samsung ko, hay mình có cần down 1 app nào về ròi kết nối vào cuộc gọi thoại ko admin. Mình cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.556255,
+         "id": "1163229",
+         "field_search": "question",
+         "question": "Chào admin,Em mua điện thoại galaxy a50 khoảng 1 tuần, hiện tại em thấy sắp có galaxy a70, em hỏi muốn đổi sang galaxy a70 có được không và nếu được thì chịu phí như thế nào ạ?Cám ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.121544,
+         "id": "1012358",
+         "field_search": "question",
+         "question": "Admin ơi !Em đang xài Samsung Galaxy J2 Prime đã lắp thẻ nhớ 16G nhưng ứng dụng tải về đều sử dụng bộ nhớ máy. Em đã thử chuyển qua thẻ SD nhưng bộ nhớ máy vẫn còn ứng dụng và liên tục báo đầy.Mong admin hướng dẫn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.096771,
+         "id": "1003308",
+         "field_search": "question",
+         "question": " Thưa admin em đag dùng 6s và thời lượng pin của máy như thế có ổn không admin hay pin bị tuột. Em xin cám ơn   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.967358,
+         "id": "1149480",
+         "field_search": "question",
+         "question": "tầm giá dưới 5tr, những máy nào có ghi âm cuộc gọi vậy admin?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.90758,
+         "id": "823294",
+         "field_search": "question",
+         "question": "Chào admin,Facebook của em sau khi deactive bị lỗi báo phiên đã hết hạn, em đã xóa app cài lại nhưng ko được. Đồng thời cũng ko đăng nhập được trên máy tính, giúp em vs ạ :( Em đang dùng app trên ip ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.745213,
+         "id": "919483",
+         "field_search": "question",
+         "question": " Điện thoại masstel 1250 vào fb sao v admin ơi chỉ giúp dùm em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.631882,
+         "id": "1142061",
+         "field_search": "question",
+         "question": "Admin tư vấn cho em các dòng điện thoại chỉ để chơi game mượt mà giá của nó dưới 4tr được không ạCảm ơn admin ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.367119,
+         "id": "997236",
+         "field_search": "question",
+         "question": "Chào admin TGDĐ. Con HTC one M8 của e dạo này bị tình trạng chấm như hình. Không thể truy cập sử dụng bản đồ được và bị liệt không thóat ra ưng dụng được. Admin giúp đỡ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.14999,
+         "id": "1155943",
+         "field_search": "question",
+         "question": "Tạo Tài khoản ID Apple nhanh và hướng dẫn dùm với admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.81091,
+         "id": "1150990",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi điện thoại sony xperia x performance sao lúc em xem phim trên google lúc bật toàn màn hình thì vẫn còn phím điều hướng ảo và có thể tắt nó được không admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.731388,
+         "id": "1142508",
+         "field_search": "question",
+         "question": "Tôi hỏi cách tìm file ghi âm cuộc gọi trên máy tính bảng Lenovo phab2. Vì sau khi ghi âm xong tôi không thể tìm ra file vừa ghi. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.669857,
+         "id": "1020493",
+         "field_search": "question",
+         "question": "chào Admin, ad kiểm tra giúp em imei 359204075808118 còn bảo hành không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.648415,
+         "id": "1146787",
+         "field_search": "question",
+         "question": "Admin ơi. Em đang sử dụng J7prime. Trong bộ sưu tập của em. 1 tấm hình cứ bị sao ra 2 giống hệt. Khi xóa 1 tấm thì cả 2 đều mất. Làm sao để khắc phục admin. Em cảm ơn admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.623684,
+         "id": "1007727",
+         "field_search": "question",
+         "question": "Admin ơi....admin giới thiệu cho mình các dòng điện thoại chơi game mượt giá rẻ đi admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.180628,
+         "id": "1138056",
+         "field_search": "question",
+         "question": "Mình muốn chuyển ảnh từ điện thoại samsung A6 Plus sang máy tính thì làm ntn? hướng dẫn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.941303,
+         "id": "864915",
+         "field_search": "question",
+         "question": " Mình dùng Sony C3 gọi line, cuộc gọi video có hình ảnh nhưng không nghe âm thanh từ người bạn gọi. Admin giúp vs ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.755638,
+         "id": "1146703",
+         "field_search": "question",
+         "question": "Xin chào các Admin! Mình xin được hỏi : Khi đã đồng bộ Hình Ảnh từ Google Ảnh sang Google Drive sau khi Khôi phục lại Cài đặt Gốc có bị mất hay không. Máy của mình ứng dụng File của bạn thông báo đã Dừng! nên không thể di chuyển Ảnh vào thẻ nhớ được  và mình có thể tải lại một ứng dụng File mới để thay thế được không ? Mong các Admin chỉ giúp ! Chân thành cảm ơn Admin  ( Từ TP. S.Trăng 😍).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.615078,
+         "id": "734961",
+         "field_search": "question",
+         "question": "Admin cho em hỏi Samsung Galaxy J7 có thể lưu dữ liệu trực tiếp lên thẻ nhớ được không? Hay là phải chuyển từ bộ nhớ máy sang thẻ nhớ ??? Cảm ơn Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.569733,
+         "id": "771585",
+         "field_search": "question",
+         "question": " Admin ơi, cách tháo pin máy Dell n3552pen15.6hdwin10??Cám ơn Admin! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.521292,
+         "id": "744776",
+         "field_search": "question",
+         "question": "admin cho hỏi là khi em kết nối vs máy tính thì em copy vào thư mục nhạc trên máy tính thì có còn trong thư mục của điện thoại không vậy ?...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.481289,
+         "id": "867904",
+         "field_search": "question",
+         "question": " Admin cho hỏi. Mình muốn chuyển dữ liệu từ máy tính sang lumina 950, vậy cáp chuyển dữ liệu có chưa? Xin cám ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.398806,
+         "id": "1162885",
+         "field_search": "question",
+         "question": "Điện thoại em bị tình trạng là cứ hiện logo galaxy xong tắt rồi cứ mở lại như thế liên tục không vào hệ điều hành thì do đâu vậy admin em cảm ơn admin trước luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.371082,
+         "id": "1010947",
+         "field_search": "question",
+         "question": "Hướng dẫn giúp em cách chuyển ứng dụng từ máy sàng thẻ sd của Nokia 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.32608,
+         "id": "1019124",
+         "field_search": "question",
+         "question": "Chào ad, Em dùng Samsung C9 Pro. Từ trước giờ em dùng ghi âm bình thường nhưng hôm nay lại ghi âm lại báo lỗi ghi âm khi đang gọi. Trong khi em không có thực hiện cuộc gọi nào cả? Ad hỗ trợ giúp em nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.061462,
+         "id": "817121",
+         "field_search": "question",
+         "question": " Em muốn hạ IOS 9.3.1 xuống 9.2.1 được không ạ? Mong ADMIN rep nhanh ạ. Em cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.94457,
+         "id": "887313",
+         "field_search": "question",
+         "question": " Chào admin. TgddMình muốn mua laptop già dưói 6 triệu. Xin cho mình hỏi thì loại nào là tối ưu nhất. Cảm ơn ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.81241,
+         "id": "874524",
+         "field_search": "question",
+         "question": "mình muốn hỏi khi mình đăng nhập zalo ở máy tính.mình đã ghi nhớ mật khẩu rồi.khi khởi động lại máy tính zalo nó có gửi tin nhắn về điện thoại để xác minh hay yêu câu gì không ?XIN CẢM ƠN ADMIN!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.775389,
+         "id": "1138566",
+         "field_search": "question",
+         "question": "cho em hỏi là máy của em là ip6 bộ nhớ 16GB nhưng file ghi âm của em lại không mở đươc. File ghi âm của em gần 2 tiếng, bây giờ em có bấm play ra sao nó cũng không chạy. Làm sao để em có thể mở được file ghi âm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.711037,
+         "id": "760417",
+         "field_search": "question",
+         "question": "Admin hướng dẫn mình cài lại iPhone 4S sau khi iPhone 4S quên mật khẩu ( passcode ) mình đã xóa iPhone 4s trên tài khoản iCloud.com ( IP 4s mình đã jiailbreak và đang chạy iOS 8.4), hiện giờ mình khôi phục và cập nhật lại iOS 9.2 qua iTunes phiên bản mới nhất 12.3.2 không thành công, Admin hướng dẫn mình với, thanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.627422,
+         "id": "997824",
+         "field_search": "question",
+         "question": "Em có bảo hành sản phẩm ở tgdđ ạ ! Đã trễ hẹn lấy sản phẩm 6 ngày rồi ạ ! Mong admin kiểm tra trạng thái sản phẩm giúp em được không ạ !!! Số điện thoại bảo hành của em là 01648639542 - sản phẩm bảo hành là Sony XA Ultra ( Trắng ) Cảm ơn ad ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.595081,
+         "id": "1136294",
+         "field_search": "question",
+         "question": "admin cho em hỏi ? máy em samsung j7 pro sao máy e sạc máy k vào pin và k hiện kí tự sạc pin .  em đã thử rất nhiều loại chân sạc nhưng k vào  . em mang ra quán thì họ kêu lỗi hoặc bị ic trong máy. mong admin giải đáp giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.363974,
+         "id": "1158410",
+         "field_search": "question",
+         "question": "Admin cho em hỏi xiaomi redmi note 7 ra ở thành phố tuy hoà tầm giá nhiêu vậy ạ giá gốc nhé admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.247278,
+         "id": "1153314",
+         "field_search": "question",
+         "question": "Admin ơi. microsoft office 2016 của em cần activate, nhưng không có code, em xin code vs ạ.Hoặc cho em xin link tải bản 2003 ạ. em cám ơn admin nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.081562,
+         "id": "1160154",
+         "field_search": "question",
+         "question": "Chào admin! Bên bạn còn bán bộ sạc cho điện thoại Motorola g5 splus khồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.062656,
+         "id": "1021464",
+         "field_search": "question",
+         "question": "Hướng dẫn root điện thoại philips337 không cần dùng máy tính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.043863,
+         "id": "987536",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng máy tính acer win 7 và em muốn hỏi là khi em lên một số trang web và trong trang web có phần bình luận hay hỏi đáp thì em thấy một số tài khoản có ghi chữ đằng sau như admin, vip, mod, uploader,... màu vàng mà nick của em không có vậy không biết 2 chữ mod và uploader là chỉ gì vậy ạ ? vì chữ admin và vip thì em hiểu rồi mà thắc mắc không biết hai chữ còn lại là gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.92934,
+         "id": "891564",
+         "field_search": "question",
+         "question": "CHo hỏi cách tải ghi âm tự Ghi Âm pro vào máy tính a! Ghi âm rồi nhưng không biết tại vào máy tính từ Ghi âm Pro. Cảm ơn các bạn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.847115,
+         "id": "1001684",
+         "field_search": "question",
+         "question": "Admin cho em hỏi . Em Dag dùng cái iPhone 6s . Mà sao check imei trên trang của Apple nó cứ kiu là : xin lỗi hk thực hiện đc, vui lòng thử lại lúc khác là sao v admin ? Giải đáp giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.747143,
+         "id": "1140229",
+         "field_search": "question",
+         "question": " Nhờ các Admin kiểm tra dùm em đơn hàng mã 23071564, số điện thoại là 0939768847 ạ ?! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.268116,
+         "id": "1020897",
+         "field_search": "question",
+         "question": "Admin có thể hướng dẫn mình cách bật 3G và chọn chế độ mạng  trên HTC U11 được không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.004803,
+         "id": "1004892",
+         "field_search": "question",
+         "question": "Chào các admin. Em đang dùng iPhone 5s em muốn khoá một số ứng dụng như facebook, tin nhắn, ảnh,. ..... Vậy có ứng dụng nào để cài mã khoá không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.999014,
+         "id": "944001",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, laptop asus của em thường xuyên bị treo máy, lúc trước có ra tgdd thì anh hỗ trợ nói lâu lâu mới bị vậy chỉ cần tắt máy rồi mở lại. Mà giờ thì nó trèo máy thường hơn! Admin chỉ cách cho em khắc phục tình trạng đó ! Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.912247,
+         "id": "759196",
+         "field_search": "question",
+         "question": "Admin ơi con em nghịch máy điện thoại iPhone 4 của em giờ bị khóa, máy bắt nhập mật khẩu iTunes, vậy máy có iCloud không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.80268,
+         "id": "1010589",
+         "field_search": "question",
+         "question": "admin ơi cho em hỏi em là sinh viên  muốn mua máy trả góp thì em cần những gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.792114,
+         "id": "810136",
+         "field_search": "question",
+         "question": "Chào admin , máy tính win 7 của em xài gần 3 tháng , do em tải nhiều thứ quá rồi xoá đi nên máy có hơi lad , em có nên sử dụng phần mềm cclean để xoá toàn bộ dữ liệu trên ổ C không ạ ? Nếu làm vậy có gây ra lỗi gì không ??? em chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.589,
+         "id": "1023710",
+         "field_search": "question",
+         "question": "Chào admin... Bên shop có hổ trợ up ROM bảng Việt Nam cho máy A520F không ạ?Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.484915,
+         "id": "813515",
+         "field_search": "question",
+         "question": " Điện thoại iphone 4S bán bao nhiêu vậy admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.468735,
+         "id": "926415",
+         "field_search": "question",
+         "question": "Hi admin!Hiện là con iphone 6 của em không chụp màn hình đc. Bấm phím cũng ko đc mà dùng tròn trắng cũng không được. Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.437376,
+         "id": "999679",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi điện thoại mobiistar lai 504c khi chạy ứng dụng play trò chơi chỉ hiện nền trắng vậy admin!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.353466,
+         "id": "1143157",
+         "field_search": "question",
+         "question": "Điên thoại Vsmart Joy 1+ có ghi âm cuộc gọi được không? Tôi không thấy phần ghi âm như các máy khác? Rất mong tgdd HƯỚNG DẪN!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.324743,
+         "id": "1006607",
+         "field_search": "question",
+         "question": "admin cho em hoi muốn mua trả góp thì cần những gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.255238,
+         "id": "1117989",
+         "field_search": "question",
+         "question": "Chào cả nhà ! Cho em hỏi em gặp trường hợp điện thoại bị chạm nên đổi icon giao diện ứng dụng màn hình nền từ viền tròn sang viền vuông (như hình). Anh chị nào biết cách chuyển lại thì hướng dẫn giúp em với. Em cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.2457,
+         "id": "754080",
+         "field_search": "question",
+         "question": " Cho em hỏi em tài phần mềm genymotion sử dụng giả lập android trên máy tính nó báo thông bị lỗi là sao admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.212997,
+         "id": "1152990",
+         "field_search": "question",
+         "question": "admin ơi, em muốn cài Microsoft Access 2003 nhưng không biết link, ad chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.200512,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.999954,
+         "id": "996093",
+         "field_search": "question",
+         "question": "Chào adminMình đang dùng Ip6. Mama mình dùng Ip7. Bjo mình muốn đổi máy mà chuyển đổi dữ liệu 2 máy cho nhau thì làm thế nào. Thanks Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.920904,
+         "id": "869683",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, em đang dùng ĐT SS galaxy a5, em vào YouTube, CH-PLAY, Gmail, Nhaccuatui.. bình thường. Nhưng vào tango, Facebook, messenger thì không được, vào Web thì thì có trang vào được có trang không. Admin có thể cho em hỏi ĐT em bị như như vậy là bị lỗi gì ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.913815,
+         "id": "923946",
+         "field_search": "question",
+         "question": " Chính tiếng việt cho máy tính hp phải làm sao vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.900723,
+         "id": "1015259",
+         "field_search": "question",
+         "question": "Mình muốn nghe file ghi âm trên Google drive. bằng điện thoại phải làm cách nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.789715,
+         "id": "1021508",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính bảng Huawei mediapad T1 8.0....sao khi chơi game từ động thoát ra ngoài nhiều lần.... vậy là bị lôi gì vậy admin...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.55972,
+         "id": "1007715",
+         "field_search": "question",
+         "question": "Điện thoại bi sọc trắng ,để lâu có sao không admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.508213,
+         "id": "1013520",
+         "field_search": "question",
+         "question": "admin cho em hỏi tại sao điện thoại của em vào google nhập tìm kiếm một từ khóa bất kì nào đó và khi mở trang lên nó báo không tìm thấy ứng dụng nào để mở url làm sao để khắc phục ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.476286,
+         "id": "1135067",
+         "field_search": "question",
+         "question": "Điện thoại selfie đẹp nhất hiện nay.A7 selfie tốt ko admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.45745,
+         "id": "870676",
+         "field_search": "question",
+         "question": "admin ơi. Điện thoại mobiistar prime X plus của em bị gì rồi ý. em không thể truy cập được facebook hay messenger. Máy có tình trạng hay bị đơ khi truy cập 1 số ứng dụng như Clean Master or CM security. Thi thoảng thì lại gửi SMS lung tung làm tốn cả tiền. Em đã sao lưu và đặt lại đủ kiểu mà không được. Mong admin cho em xin hướng giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.450758,
+         "id": "768698",
+         "field_search": "question",
+         "question": " Em muốn vào chế độ  Recovery cho Sony m4 thì làm cach nào vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.446854,
+         "id": "752729",
+         "field_search": "question",
+         "question": "Admin giúp em , em mua lại  iphone 5 mà sao gắn sim viettell vào thì có sóng nhưng người khác không gọi được , em lấy máy khác gọi vào củng không được , gọi và nhận đều không được . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.418823,
+         "id": "926006",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là em có một máy tính win Xp và em muốn chuyển file game từ máy win Xp sang laptop của em nhưng khi em gắm usb vào máy win XP thì tại sao nó lại không hiện ra biểu tượng trong my computer ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.400385,
+         "id": "1134675",
+         "field_search": "question",
+         "question": "Chào Anh/chị..hiện tại em muốn mua điện thoại giá từ 6 triệu đến 8 triệu,mà em không biết nên mua loại nào xài cho tốt em mong anh/chị tư vấn giúp em với ạ..em cám ơn anh/chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.32042,
+         "id": "950107",
+         "field_search": "question",
+         "question": " Admin cho em hỏi ip6s  có chống nước không vậy.................. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.168158,
+         "id": "993835",
+         "field_search": "question",
+         "question": "Chào admin, cho hỏi ở đây có bán bao daốp lưngmiếng dán cường lực cho máy tính bảng Google Nexus 7 II 2013 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.121502,
+         "id": "998344",
+         "field_search": "question",
+         "question": "Admin ơi sao máy e để WCDMA và GSM mà k để là 2G3G4Gv admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.098625,
+         "id": "1152910",
+         "field_search": "question",
+         "question": "Máy a7 2018 có hỗ trợ sạc nhanh không ạCám ơn Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.050175,
+         "id": "1005282",
+         "field_search": "question",
+         "question": "Chào các admin. Em đã lở quên mật khẩu  icloud vậy hỏi làm sao em tạo lại mật khẩu được ạ. (Hoặc là đăng xuất ra hẳn mà không cần mật khẩu ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.985762,
+         "id": "943046",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng máy tính laptop win 7 và em muốn hỏi là trong file explore của máy tính khi kick chuột phải vào file thì thấy có chức năng send to để chuyển nhanh tập tin đến file nào đó nhưng em không biết là làm sao để thêm 1 thư mục mà em hay chuyển tệp đến thư mục đó vào trong danh sách của chức năng send to ạ , em đã làm theo nhiều cách hướng dẫn trên google nhưng đều không được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.861834,
+         "id": "789869",
+         "field_search": "question",
+         "question": "Admin cho hỏi máy iPhone 5s của mình các biểu tượng trên màng hình hay nhảy lung tung không kiểm sót được có khi mất biểu tượng ứng dụng cài đặt luôn. nhờ admin tư vấn giúp. cám ơn trước!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.821985,
+         "id": "1159726",
+         "field_search": "question",
+         "question": "* Xin hướng dẫn cách copy nhạc từ máy tính sang điện thoại và cách mở  đèn pin điện thoại Mobell S61. * Các ứng dụng cài mặc định theo điện thoại nhưng ít dùng thì có gỡ bỏ được ko ạ (Mobell S61)Xin cảm ơn!.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.709976,
+         "id": "1133772",
+         "field_search": "question",
+         "question": "tại sao oppo f9 khi vào cai đặt âm thanh để muốn có âm thanh khi ấn bàn phím thì không thấy ạ? em tìm mãi ko thấy . mong admin giải thích. em chỉ tìm thấy bàn phím rung khi ấn thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.688185,
+         "id": "767381",
+         "field_search": "question",
+         "question": "Chào Admin mình lập ID Apple iPhone nhưng nhập lầm gmail của một người khác. giờ Apple đòi xác minh trong gmail mới được dùng nhưng gmail đó không phải của mình nên giờ không xác minh được. ad có thể giúp mình để thay bằng gmail khác có được không. cảm ơn admin nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.66659,
+         "id": "1161894",
+         "field_search": "question",
+         "question": "Chào adminBạn vui lòng hướng dẫn giúp cách đồng bộ danh bạ từ oppo A83 lên gmail,  tại vì tôi làm mà chưa được,  bên gmail chỉ hiện có 3 liên lạc,  trong khi danh bạ trên điện thoại thì hơn 200 liên lạc(file đính kèm) Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.588036,
+         "id": "994488",
+         "field_search": "question",
+         "question": " Em quên mất số tà khoản trả góp rồi, admin vào đó giúp em với sdt đăng kí mua hàng 0905105404 Nguyen Thi Quy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.56046,
+         "id": "779109",
+         "field_search": "question",
+         "question": " Em muốn ghi âm trên máy tính Dell core i3 mà không biết làm thế nào ạ? Chỉ em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.549408,
+         "id": "882583",
+         "field_search": "question",
+         "question": "Admin kiểm tra giùm số imei 352086078996033 kích hoạt ngày nào, xuất xứ và còn bảo hàng tới ngày bao nhiêu. Cảm ơn admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.536415,
+         "id": "768570",
+         "field_search": "question",
+         "question": " Làm thế nào để tắt âm báo zalo trên iPhone 6s plus vậy admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.534264,
+         "id": "989781",
+         "field_search": "question",
+         "question": "Cho mình hỏi tài khoản Apple id của mình ko tải được ứng dụng Apple của nhà phát triển như ITunes U thì phải làm thế nào. Mong admin xem hình hướng dẫn giúp mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.531622,
+         "id": "789863",
+         "field_search": "question",
+         "question": "Máy iPhone 5s bỏ trong túi quần khi có cuộc gọi từ thuê bao khác gọi tới rút trong túi ra không trược nghe máy được. nhờ admin giúp dùm. mình tên Hùng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.523697,
+         "id": "1164705",
+         "field_search": "question",
+         "question": "Có ép kính iphone 6 hông admin và giá bao nhiêu ạ ......................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.507322,
+         "id": "888736",
+         "field_search": "question",
+         "question": " Admin cho em xin app download video về iphone với ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.507103,
+         "id": "1004969",
+         "field_search": "question",
+         "question": "Chào Admin !Mình muốn hỏi thủ tục mua trả góp. Ví dụ mình mua góp điện thoại. Bên ngân hàng cho vay cần các giấy tờ như là : CMND + Bằng lái xe/ Hộ khẩu + Hoá đơn điện. Vậy mình lấy những giấy tờ đó đi thay bố mình được không. Do bố mình không rành về mấy loại giấy tờ này. Với mình không phải là người đứng tên trong Hoá đơn điện nên không làm thủ tục mua góp được.Mong tư vấn từ Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.502071,
+         "id": "768881",
+         "field_search": "question",
+         "question": "Nếu em dùng 1 tài khoản icloud đăng nhập trên iphone thì sẽ bị gì điện thoại đăng nhập lần cuối thì bị gì,điện thoại đăng nhập lần đầu thì sẻ bị gì hả admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.4416,
+         "id": "869699",
+         "field_search": "question",
+         "question": " Sao dt em co wifi ma ko cho goi la sao admin giup em vs  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.432873,
+         "id": "740604",
+         "field_search": "question",
+         "question": " Admin ơi.  Em đang dùng iPhone 5s hệ điều hành ios 8.3. Bây giờ e muốn nâng cấp lên 8.4 thì có được nữa không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.408422,
+         "id": "917691",
+         "field_search": "question",
+         "question": " Mong hướng dẫn ghi âm cuộc gọi trên iphone 7 cho mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.405529,
+         "id": "1010647",
+         "field_search": "question",
+         "question": "Chào admin,Hiện tại em đang dùng Laptop Asus X541-uv. Hôm nay nó gặp tình trạng mất tất cả các dữ liệu cũng như tài khoản Google, Facebook mà em đã đăng nhập trên tất cả các trình duyệt (Coccoc, chrome, firefox) khi tắt máy hoặc khởi động lại.Admin vui lòng tư vấn giúp em cách khắc phục ạ!Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.393211,
+         "id": "1152118",
+         "field_search": "question",
+         "question": "xin chào admin, mình mới sử dụng máy dell mua của cửa hàng bên mình. mình đang có vấn đề muốn KT hãng giúp mình. mình dùng lap bắt wifi của công ty mình thì hiện lên như thế này. tên wifi là cái cuối cùng đấy. có vòng tròn và dấu x bên trong. mình không kết nối được .Wifi này thì mình dùng cho điện thoại ok. Vậy xin cho mình hỏi mình phải làm thế nào để khắc phục lỗi trên và kết nối mạng wifi như trên được. Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.356857,
+         "id": "877678",
+         "field_search": "question",
+         "question": "cho em hỏi trong ổ cứng windows 10 xuất hiện các file ẩn không xóa được tại vì có quyền admin. vậy các file này có cần thiết không? cách nào để xóa nó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.353836,
+         "id": "779672",
+         "field_search": "question",
+         "question": "Em lên mạng xem hướng dẫn sử dụng XMod Clash Of Clan thấy hướng dẫn cài đặt qua Cydia gì đó sao điện thoại em có vậy ạ? Cydia và Add Soure là ứng dụng gì sao điện thoại em không có vậy? Em cám ơn nhiêu!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

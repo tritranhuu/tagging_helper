@@ -1,0 +1,801 @@
+{
+   "id_query": "1153840",
+   "total": 33315,
+   "total_current": 100,
+   "max_score": 206.44908,
+   "origin_question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+   "hits": [
+      {
+         "score": 196.84627,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 117.53955,
+         "id": "1143288",
+         "field_search": "question",
+         "question": "cho hỏi khi mình gữi tin nhắn trên zalo  cho một người bạn nó báo là người này không nhận tin nhắn từ người lạ ,nhưng khoãng 30 phút sau mình thấy tin nhắn mình gửi đi hiện lên chữ đã xem vậy người đó có nhận được tin nhắn mình gửi không và có đọc được  tin nhắn mình gữi không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 116.904144,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 114.479004,
+         "id": "613951",
+         "field_search": "question",
+         "question": " Khi nhắn tin trên zalo mà người nhận đã nhận được mình muốn xóa tin nhắn mình gửi đó có được không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 110.263466,
+         "id": "1140926",
+         "field_search": "question",
+         "question": "Khi gửi nhầm tin nhắn qua zalo cho người khác mà họ chưa nhận được, tôi đăng xuất zalo thì người đó còn nhận được tin nhắn đó không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 109.47403,
+         "id": "848001",
+         "field_search": "question",
+         "question": "Có người gửi tin nhắn zalo cho mình nhưng mình chưa kịp đọc thì người đó đã thu hồi vậy có cách nào đọc được tin nhắn đã thu hồi không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 108.20281,
+         "id": "1161105",
+         "field_search": "question",
+         "question": "Mình xóa phần mềm Zalo trên điện thoại rồi cài đặt lại nhưng tin nhắn bị mất hết. Vậy cho mình hỏi những người nhận tin nhắn của mình có nhận đc tin nhắn mình gửi không ạ? (Kể cả trường hợp bạn đó chưa xem tin nhắn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.13299,
+         "id": "1139884",
+         "field_search": "question",
+         "question": "Điện thoại của mình là oppo1201 hông hiểu sao 2 hôm nay gửi tin nhắn sms cho người khác thì được nhưng người nhận không nhận được tin nhắn cho mình hỏi là đã bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.53808,
+         "id": "801175",
+         "field_search": "question",
+         "question": " Tại sao mình đăng xuất zalo roi nhưng người khác nhắn tin tới vẫn nhận được tin nhắn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.860085,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.64427,
+         "id": "896171",
+         "field_search": "question",
+         "question": "Zalo của mình không gửi hình ảnh được mà nhận được hình ảnh của bạn bè.gửi, trước đây vẫn gửi bình thường.mà sao mấy ngày gần đây gửi đi gửi lại nhiều lần máy vẫn báo là chia sẻ thành công mà người nhận vẫn không nhận được (c òn gửi tin nhắn vẫn bình thường) Cho hỏi zalo bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.35484,
+         "id": "804824",
+         "field_search": "question",
+         "question": " Em muốn hỏi là khi mình chặn zalo người khác nếu mình nhắn tin cho họ họ có nhận được tin nhắn không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.99582,
+         "id": "839619",
+         "field_search": "question",
+         "question": "tin nhắn viber của mình gửi đến một người nhwg hiển thị đã chuyển nhiều ngày, mình muốn hỏi: có phải người đó dùng chế độ ẩn đã xem hay là mình bị chặn viber. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.25265,
+         "id": "828027",
+         "field_search": "question",
+         "question": "Cả nhà ơi cho mình hỏi, mình gửi tin nhắn cho bạn mình trên zalo mà bạn ấy chưa đọc, chỉ mới có thông báo đã gửi thôi. Vì trước khi mình gửi tin nhắn đó, bạn ấy ít dùng zalo nên bạn ấy xoá zalo đi. Tận 3 tháng sau mới tải lại thì tin nhắn mình gửi liệu bạn ấy có nhận được không cả nhà?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.18514,
+         "id": "1149972",
+         "field_search": "question",
+         "question": "Tại sao trên máy tính PC khi nhắn tin zalo cho người lạ chưa kết bạn thì vẫn nhìn thấy họ truy cập, còn khi nhắn tin zalo trên điện thoại IP 8plus thì không thấy họ hiện truy cập hay không truy cập luôn, vậy có cách nào khắc phục trên đt để khi nhắn tin và hiển thị hiện trạng họ truy cập không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.85977,
+         "id": "1003964",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao zalo máy tính của mình không hiển thị tin nhắn mới, mỗi lần xem tin nhắn phải vào đt để xem ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.15219,
+         "id": "930638",
+         "field_search": "question",
+         "question": "Mọi người cho mình hỏi! Có trường hợp nào mà đt hết dung lượng hay bị gì gì đó...khiến cho tin nhắn người khác gởi tới cho mình ko được hiển thị ( mình ko chặn người lạ và họ vẫn chưa đồng ý kết bạn). Sau đó họ đồng ý kết bạn và tin nhắn của họ gởi cho mình lại được hiển thị. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.742966,
+         "id": "1157072",
+         "field_search": "question",
+         "question": "Cho em hỏi. Trong tin nhắn zalo với 1 người trong danh bạ. Hiện  bạn đã xem hoạt động của người đó là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.3858,
+         "id": "1007787",
+         "field_search": "question",
+         "question": "- điện thoại em không hiển thị tin nhắn gửi tới. k biết máy em bị sao ạ. - gửi đi vẫn được nhưng người khác gửi đến máy em thì không hiển thị. hiện em đang xài lenovo a6020a40.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.81255,
+         "id": "801034",
+         "field_search": "question",
+         "question": "Cho em hỏi tí ạ. trong danh bạ của em không còn tên của người đó nữa, nhưng gửi tin nhắn, thì nó thông báo là hiện tại người này chưa dùng zalo có nghĩa là sao ạ, nhưng lúc sau nó vẫn ghi là đã gửi, bạn này đã nửa tháng không dùng zalo rồi ạ, giúp em với ạ, em đang cần gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.59514,
+         "id": "1152223",
+         "field_search": "question",
+         "question": "Mình mua máy mới và máy cũ mình cho người khác khi có người gởi tin nhắn zalo cho mình thì máy cũ vẫn nhận đc tin nhắn người gởi bạn giúp mình phải làm sao để máy cũ ko nhận được tin nhắn nữa. Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.194534,
+         "id": "874996",
+         "field_search": "question",
+         "question": "Cho em hỏi. Messenger của em cứ hiển thị \"Không thể hiển thị các tin nhắn\". Em gửi tin nhắn cho bạn em thì thấy không gửi được nhưng bạn em lại xem được. Còn bạn em thì không thể gửi được cho em. Sau khi em xoá app đi và cài lại sau khi đọc được vài hướng dẫn trên mạng thì các tin nhắn của em mất sạch và vẫn có tình trạng \"Không thể hiển thị các tin nhắn\". Hãy giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.812706,
+         "id": "883605",
+         "field_search": "question",
+         "question": " Tin nhắn zalo đã nhận về máy, nhưng chưa xem mà đã báo là đã xem ở máy gửi. Có phải do lỗi zalo ko nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.562996,
+         "id": "1156477",
+         "field_search": "question",
+         "question": "cho mình hỏi là mĩnh lỡ xóa tin nhắn trong zalo của người khác gửi cho mình , thì bên gửi có biết ko vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.25447,
+         "id": "779976",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 5 của em khi bật 3G thì người khác nhắn tin nhận được thông báo,nhưng khi dùng WiFi thì người khác nhắn tin thông báo lại không hiển thị,như vậy là sao nhỉ,giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.38453,
+         "id": "760445",
+         "field_search": "question",
+         "question": "Tôi dùng iPhone. Cho tôi hỏi tôi dùng zalo nhắn tin với bạn bè lâu lâu thì bị mất tin nhắn nhưng chỉ với 1 người thì điện thoại của người đó thì tin nhắn vẫn còn đầy đủ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.314926,
+         "id": "906308",
+         "field_search": "question",
+         "question": " Cho em hỏi là nếu muốn xóa tin nhắn trên zalo mà người nhận đã nhận được thì phải làm cách nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.50457,
+         "id": "994153",
+         "field_search": "question",
+         "question": "Em muốn hỏi là e dùng IP4, tự dưng mấy hôm nay khi có tin nhắn đến nó không hiển thị trên màn hình cũng như biểu tượng tin nhắn không hiển thị có tin nhắn mà e phải vào đọc tin nhắn mới biết là có tin nhắn đến hay không? Vậy làm cách nào để khắc phục ạ. Em đã vào thông báo và bật hiển thị trên màn hình khóa cũng như hiện bản xem trước rồi!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.339096,
+         "id": "799861",
+         "field_search": "question",
+         "question": "Cho e hỏi, tại sao e đăng stt zalo nhưng những ảnh đó lại tự động gửi cho 1 người mà e vào phần tin nhắn zalo với người đó thì không thấy gửi. Có phải điện thoại em bị theo dõi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.303085,
+         "id": "1017990",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mình xóa tài khoản zalo thì những tin nhắn mà mình đã nhắn cho mọi người từ trước đó nó có còn lưu trong zalo trên thiết bị của họ hay k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.09025,
+         "id": "851312",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao có người lại dùng đươc nic zalo của mình đẻ nhắn tin cho bạn mình trong khi đó mình vẫn đang truy cập mà điện thoại của mình sử dụng mật khẩu và cũng không cho ai mượn may. Bạn có thể cho mình biết làm thế nào để biết chắc chắn níc zalo của mình có người khác truy cập vào hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.880356,
+         "id": "1010428",
+         "field_search": "question",
+         "question": "Tin nhắn điện thoại của mình cứ hiện đang gửi. Khởi động lại máy vẫn bị. Tin nhắn gửi đến vẫn nhận như bình thường,  còn gửi đi nó cứ hiện đã gửi.  Cả 2 sim viettel và vietnam mobile đều bị.  Anh chị cho e hỏi là lỗi gì ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.737274,
+         "id": "903849",
+         "field_search": "question",
+         "question": "Tháo sim đã đăng ký njck zalo và lắp sang máy mới. Trong trường hợp máy cũ vẫn còn ứng dụng zalo và có mật khẩu để mở. Vậy người sử dụng máy cũ có sử dụng được nick zalo của tôi hoặc đọc được tin nhắn trước đây của máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.49925,
+         "id": "1151074",
+         "field_search": "question",
+         "question": "Sao zalo của mình tin nhắn ko báo vào máy. Mà bên kia tin nhắn họ gửi báo đã xem. Trong khi mình ko biết tin nhắn tới. Và mình cũng chưa xem.mong ad giúp đỡ. Cảm ơn ad nhìu!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.39351,
+         "id": "789346",
+         "field_search": "question",
+         "question": " Cho e hỏi samsung a5 2016 gửi hình trong tin nhắn zalo đã nhận được rồi nhưng sau đó lại báo lỗi là bị gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.10224,
+         "id": "803651",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi em nhắn tin trên zalo cho người khac ma trong đó người đó không onl trong thời gian dài cở 2 3 tháng lúc sử dụng lại zalo ng đó co đọc được tin nhắn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.75551,
+         "id": "806689",
+         "field_search": "question",
+         "question": "Em bị người ta chặn zalo cũng hơn 1 tháng. 10 ngày em không lên lại zalo. Hôm nay em lại tự nhiên báo là người đó đag sử dụng zalo hãu gửi tin nhắn là sao ạ. Là người ta bỏ chặn em phải không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.69867,
+         "id": "841571",
+         "field_search": "question",
+         "question": " Khi mình chặn hay hủy kết bạn với một người trên zalo thì toàn bộ tin nhắn của mình bên người đó có bị xóa hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.66778,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.65848,
+         "id": "802067",
+         "field_search": "question",
+         "question": "Ad ơi, cho mình hỏi, Zalo mình đã chặn một người xem nhật kí rồiNhưng sao mỗi lần mình đăng stt thì nó báo vô phần tin nhắn chat với người đó.Nhưng khi người đó vô tường mình xem thì không thấy do mình đã chặn xem nhật kíGiờ mình muốn khi mình đăng stt gì thì đừng báo vô phần chat của người đó được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.48224,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.39561,
+         "id": "810890",
+         "field_search": "question",
+         "question": "Cho em hỏi sao facebook của em, em gửi tin nhắn cho người khác được mà người khác nhắn tin lại cho em em đọc không được vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.02696,
+         "id": "835005",
+         "field_search": "question",
+         "question": "Cho mình hỏi, nếu mình và người kia đã từng kết bạn zalo, nay mình đã hủy kết bạn. Sau đó mình vẫn xem được ảnh, không xem được nhật ký của người đó dù không phải bạn bè zalo nữa. Nhưng hôm nay phần ảnh cũng chỉ còn là (0). Mình dùng zalo của đồng nghiệp tìm nick và xem cũng như vậy. Liệu mình có bị người đó chặn zalo? Hay là người đó đã xóa bỏ hoàn toàn ảnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.78263,
+         "id": "772431",
+         "field_search": "question",
+         "question": "Mình bị iPhone 4s chặn số điện thoại nhưng khi mình gọi đến người đó vẫn biet mình gọi và bên máy mình thì hiện cuộc gọi bận. Vậy tin nhắn mình gửi đến người đó có đọc được hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.72999,
+         "id": "1150817",
+         "field_search": "question",
+         "question": "Cho mình hỏi tin nhắn trên zalo mình đã thu hồi rồi, nhưng khi thu hồi xong thì mình xóa. Cho mình hỏi là nếu như vậy thì bên được gửi còn thấy tin nhắn của mình ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.604675,
+         "id": "1020956",
+         "field_search": "question",
+         "question": "mình mới mua cái sim mới và cái sim đó đã được người khác đăng ki zalo, mình muốn đăng kí zalo của mình với số điện thoại đó có được ko, nếu được thông tin của mình có bị người cũ truy cập không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.47612,
+         "id": "914727",
+         "field_search": "question",
+         "question": "Tại sao viber của tôi ko gửi dc tin nhan cho người khác nữagữi tin nhắn xong chỉ báo là đã chuyển,nhưng người bên kia ko nhận đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.95556,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.42226,
+         "id": "967223",
+         "field_search": "question",
+         "question": "Mình có một người bạn bị mất mk zalo,bạn ấy nhờ mình lấy lại mk zalo cho bạn ấy nhưng mà bằng điện thoại của mình vì điện thoại bạn ấy bị hỏng,vậy cho mình hỏi khi có tin nhắn mã xác nhận zalo thì mã đó được gửi tới điện thoại của mình hay của bạn đó,mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.066,
+         "id": "1001437",
+         "field_search": "question",
+         "question": "Em không gửi được tin nhắn trên điện thoại zte blade v7 lite, bình thường vẫn gửi được, mong mọi người chỉ em cách gửi tin nhắn lại như bình thường ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.06493,
+         "id": "801391",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Sau khi đã cài zalo trên laptop và quét QR xong và cũng đã đăng nhập thành công, nhưng sao mình ko thấy hiển thị các tin nhắn zalo trên laptop vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.62141,
+         "id": "897473",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi sao điện thoại 5s của em lưu sđt người thân vào máy xong rồi e vào để nhắn tin thì nó hiện lên ô nhập tin nhắn là imassage . Mà e nhập tin nhắn vào rồi thì gửi không được. Làm sao để chuyển qua tin nhắn bình thường ạ. E thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.588394,
+         "id": "779791",
+         "field_search": "question",
+         "question": " iPhone 4 sao gửi tin nhắn mà người nhận không nhận được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.19747,
+         "id": "847001",
+         "field_search": "question",
+         "question": "Cần gấp :Mình xài iphone , nhưng gửi tin nhắn sms không được , mặc dù đã tắt imessager đi rồi nhưng vẫn không gửi được tin nhắn , nó báo là \" CHƯA GỬI ĐƯỢC \" . Gíup mình với , cảm ơn ạ ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.84958,
+         "id": "836564",
+         "field_search": "question",
+         "question": "Khi nhập số điện thoại vào để đăng nhập zalo tôi nhập các số nhưng không thấy hiển thị (không nhập được) vậy thì phải làm sao?Trước khi có trường hợp trên zalo của tôi vẫn đang hoạt động bình thường nhưng khi nhập kí tự viết tin nhắn thì không nhập được, sau đó tôi gỡ zalo và cài lại thì không nhập được số điện thoại vào để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.84445,
+         "id": "830206",
+         "field_search": "question",
+         "question": "Tôi có đăng nhập zalo trên pc. nhưng khi vào thì luôn hiện lên cửa sổ bắt buộc phải xóa tin nhắn mà tôi chưa đọc, và zalo pc không bao giờ lưu lại tin nhắn. khi vào thường không có tin nhắn. t nghĩ chỉ xóa tin nhắn trên điện thoại thi trên pc vẫn lưu lại chứ ạ. xin giải đáp giúp. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.48249,
+         "id": "1148595",
+         "field_search": "question",
+         "question": "CTV cho em hỏi, em đang xài Mi A2 Lite mà sao em gửi tin nhắn cho đầu số 999 hay 090 của mobifore thì lại báo là không gửi được ạ? Gửi tin nhắn cho người thân hay bạn bè thì bình thường, sim thì không có vấn đề gì hết ạ. Em đã khởi động lại máy nhưng vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.21505,
+         "id": "815939",
+         "field_search": "question",
+         "question": "Cho em hỏi mấy bữa nay điện thoại iphone 4s của em gửi tin nhắn cho mấy bạn được rồi nhưng bạn đó vẫn không nhận được tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.32743,
+         "id": "806977",
+         "field_search": "question",
+         "question": " Xóa tin nhắn zalo trên máy tính thì trên điện thoại các tin nhắn zalo đó còn không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.2642,
+         "id": "904170",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao khi đăng bài trên zalo. Sau đó mình xóa liền mà bài viết vẫn hiển thị ở bảng tin của người khác. Làm sao để xóa hẳn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.01247,
+         "id": "761756",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5 nhưng bạn bè gửi tin nhắn video đến qua zalo mình không xem được phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.63989,
+         "id": "1146679",
+         "field_search": "question",
+         "question": "Mình có cài Zalo trên PC và điện thoại, khi mình bị mất điện thoại và chuyển sang điện thoại mới thì những tin nhắn zalo trên điện thoai không còn, nhưng zalo trên PC thì vẫn còn tin nhắn. Vậy có cách nào đồng bộ tin nhắn Zalo trên điện thoại từ PC không? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.22613,
+         "id": "778982",
+         "field_search": "question",
+         "question": "Mình dùng máy 5s xách tay mỹ, nhà mạng vinaphone, Ios 9.2.1Mình đang bị lỗi tin nhắn như sauKhi gửi tin nhắn nếu là tin nhắn bình thường hoặc tin nhắn văn bản khoảng hơn 300 ký tự thì vẫn gửi được nhưng khi gửi tin nhắn là mẫu báo cáo hàng ngày cho các sếp của mình thì bị báo lỗi chấm than màu đỏ bên trái tn bên dưới ghi chưa gửi được, mặc dù phía người nhận đã nhận được nhưng chỉ 1/4 tin nhắn cụ thể như sauĐây là tin nhắn của mình:1.Giang(H.Nam):Sndh=8 Ds=5tr2.Hậu(N.Định):Sndh=5 Ds=2tr3.Khương(H.Yên):Sndh=5 Ds=3tr4.Khoa(H.Dương):Sndh=8 Ds=5tr5.Dũng(V.Phúc):Sndh=4 Ds=3tr6.Thảo(V.Phúc):Sndh=5 Ds=3tr7.An(S.La):Sndh=3 Ds=3tr8.Tuyến(N.Thuận):Sndh=4 Ds=1tr9.Lập(C.Mau):Sndh=18 Ds=3tr10.Tấn(C.Mau2):Sndh=3 Ds=0,7trTổng: Sndh=63 Ds=28,7trKarazild=275hCòn đây là người nhận (trên mọi mạng và máy đều hiện thị như vậy)1.Giang(H.Nam):Sndh=8 Ds=5tr2.Hậu(N.Định):Sndh=5 Ds=2tr3.Khương((......)(......)(......)Mình có thử lắp sim mạng khác vào máy thì gửi được nhưng lắp sim Vinaphone thì không được. Có nhờ trung tâm vina nhưng hộ hỗ trợ đổi trung tấm tin nhắn rồi chuẩn rồi nhưng vẫn không được. Và họ cũng bảo xin bó tay với trường hợp này.Mình cũng thử các lỗi liên quan tới imes tắt đi bật lại, lỗi sms và mms, reset cài đặt mạng nhưng cũng vẫn vậy.Mong mọi người giúp đỡ. Chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.18573,
+         "id": "920516",
+         "field_search": "question",
+         "question": "Mọi người giúp mình nhé.Mình đồng bộ tin nhắn zalo từ điện thoại qua máy tính, nhưng máy tính không đồng bộ hết tất cả tin nhắn đã chat, có đoạn nó đồng bộ, có đoạn thì không đồng bộ, mọi người có cách khắc phục không ạ.Mình cảm ơn nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.12166,
+         "id": "769400",
+         "field_search": "question",
+         "question": "Mình kg gửi lời kết bạn zalo với người khác, nhưng tại sao trên danh sách zalo của mình lại có nick zalo người đó ? Do người đó lưu số đt của mình rồi tự đồng bộ zalo hay là lý do gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.06088,
+         "id": "835994",
+         "field_search": "question",
+         "question": "Zalo của em bị người khác xâm nhập rồi đổi mật khẩu luôn, họ lên đó nhắn tin bậy bạ, em không thể quản lý tài khoản đó được nữa, giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.93374,
+         "id": "858004",
+         "field_search": "question",
+         "question": " Em xài samsung note 5 không hiểu sao icon zalo báo 18 tin nhắn nhưng em vào xem chỉ có 5 tin nhắn là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.931404,
+         "id": "801372",
+         "field_search": "question",
+         "question": "Zalo của em dạo gần đây hay bị hết phiên truy cập, phải đăng nhập lại. Có một lần đăng nhập lại xong là mất hết tin nhắn, chỉ chừa lại với vài người thôi. Hình ảnh đã chia sẻ cũng mất. Trang cá nhân vẫn còn đầy đủ. Cho em hỏi làm sao để khắc phục việc bị hết phiên truy cập ạ? Tin nhắn bị mất như có lấy lại được không? Em chỉ xài Zalo trên điện thọai thôi. Điện thọai em là HTC Desire 526g.Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.9025,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.92113,
+         "id": "809670",
+         "field_search": "question",
+         "question": "Mình đã gửi kết bạn trên zalo, ng đó không chấp nhận, vậy làm các nào để người đó không vào xem đc nhật kí, ảnh của mình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.881165,
+         "id": "831444",
+         "field_search": "question",
+         "question": "Minh muốn hỏi là một người bạn chặn tn zalo của mình, sau một thời gian khi mình kết bạn với ng đó thì nhận được thông báo là: ng đó ko muốn nhận lời mời kết bạn với bạn. sau đó mình nt thì vẫn gửi được, tn ở trạng thái đã gửi, nhưng tn vẫn ở tt đã gửi mãi mà ko chuyển qua đã nhân. M bực mình quá khoá zalo luôn nhưng khi đăng kí lại thì ng đó lại có sẵn trong danh bạ bạn bè là sao vậy ạ? Có phải bạn đó đã chủ động kết bạn lại với m hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.84723,
+         "id": "953320",
+         "field_search": "question",
+         "question": " Cho em hỏi là trên zalo mà người ta gửi tin nhất cho em em xem không được em gửi người ta xem được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.50473,
+         "id": "1000372",
+         "field_search": "question",
+         "question": "Em gửi tin nhắn SMS thì xuất hiện lỗi: Hiện tại không gửi được tin nhắn. Sẽ gửi khi có dịch vụ. Em vẫn có thể gọi được nhưng không nhắn tin được. Em xài Samsung A7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.504425,
+         "id": "805356",
+         "field_search": "question",
+         "question": "Em khóa Zalo bằng khóa ứng dụng 4 số của Zalo giờ quên không biết làm sao vô đọc tin nhắn em phải làm cách nào đây để đọc những tin nhắn đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.49133,
+         "id": "1134424",
+         "field_search": "question",
+         "question": "Em sử dụng mess để nhắn tin với bạn bè em lở ấn nhằm bỏ qua tin nhắn bây giờ làm sau để em có thể nhắn tin lại với người đó như bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.34046,
+         "id": "861030",
+         "field_search": "question",
+         "question": "Cho mình hoi máy của mình dang nhắn tin SMS cho bạn mình thì máy chuyển sang nhắn tin FaceTime nhưng tin nhắn không tới bạn mình mà lại tới số lạ khác và mình kiểm tra chi tiết tin nhăn gửi cho bạn trên may mình vân có còn bạn mình thì FaceTime khổng kích hoạt ma tin nhắn vẫn đến số lạ là bị làm sao vậy mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.2966,
+         "id": "800977",
+         "field_search": "question",
+         "question": " Cho em hỏi gửi video mà đã tải trên youtube qua tin nhắn zalo như thế nào vậy...giúp e mvới... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.17059,
+         "id": "847442",
+         "field_search": "question",
+         "question": " Không biết bị gì mà tin nhắn zalo của tôi xem không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.99337,
+         "id": "799757",
+         "field_search": "question",
+         "question": " Có phải khi bị chặn tin nhắn zalo thì có ghi dòng chữ  xin lỗi !hiện tại tôi không muốn nhận tin nhắn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.94282,
+         "id": "987599",
+         "field_search": "question",
+         "question": "ad cho e hỏi: e xài ip4s, mới đầu gửi tin nhắn cho ai cũng gửi đc, họ cũng nhận đc, về sau có duy nhất 1 số ko gửi đc tin nhắn, mặc dù tin nhắn của e gửi vẫn bị mất tiền, nhưng họ cx ko nhận đc, họ cx gửi lại tin nhắn cho e, nhưg e cx chả thấy j?? ad có thể giúp đỡ cho e đc ko ạh?2 đứa xài viettel...ko hiểu s ko gửi đc tin nhắn cho nhau ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.86352,
+         "id": "997307",
+         "field_search": "question",
+         "question": "Chào quản trị viênHiện mình đang sử dụng điện thoại sony XA, mình có gửi tin nhắn xong thì mình xóa tin nhắn đi, những một lúc sau thì nó báo tin nhắn không được gửi đi lúc đó mình lở xóa đi, cho mình hỏi là không biết khi tin nhắn hiện lên như vậy thì nội dung tin nhắn còn không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.779625,
+         "id": "886031",
+         "field_search": "question",
+         "question": "Cho mình hỏi dùng 1 điện thoại mà truy cập vào hai tài khoản Zalo sau khi nhắn tin bằng tk Zalo 1 đọc xong xóa đi luôn thì có khôi phục lại những tin nhắn đã xóa bằng tài khoản zalo thứ 2 ko?(trên cùng 1 điện thoại)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.714554,
+         "id": "1018028",
+         "field_search": "question",
+         "question": "Chào anh/chị! E đang dùng j7 pro.Khi e gửi ảnh cho bn bè bằng zalo, người nhận đã xem. Sau đó, e xóa ảnh trong máy của e. Khi đó, tin nhắn xảy ra lỗi. Nếu dùng messenger thì hk xảy ra tình trạng như vậy, trái lại, e vẫn có thể xem và tải ảnh về khi e đã xóa ảnh trong máy trước đó r.Thân anh/chị!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.696594,
+         "id": "995466",
+         "field_search": "question",
+         "question": "Ad ơi! Đây là Facebook người này ko phải chặn em, mà em ko nhắn tin được, khi nhắn thì nó hiện thế này. Em dùng nick khác nhắn lại được. em thử mess nó vẫn vậy. Cho hỏi người này đã làm gì em trên Facebook vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.64906,
+         "id": "957069",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi tí ạ . Sao máy mình nhắn tin cho 1 số khác mà số khác đấy k nhận đc tin nhắn mà tin nhắn đó nó lại nhắn về máy mình vậy . Ad giúp mình với . Lúc trước icloud của mình có dùng 2 máy nhưng bây giờ có 1 máy thôi mọi người giúp mình với mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.27924,
+         "id": "810054",
+         "field_search": "question",
+         "question": " Chi dùm e cách xem tin nhắn zalo của người khác khi dăng nhập đươc vào njk cua ho rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.03715,
+         "id": "838237",
+         "field_search": "question",
+         "question": "zalo trên điện thoại mình báo có một máy tính khác đang đăng nhập vào tk zalo này của mình mà mình k hiểu vì sao, trong khi đt chỉ mình mình sử dụng, mà cũng k nhận được tin nhắn báo mật khẩu để sử dụng trên máy tính. Thế là sao? Mình muốn hỏi thêm là chưa bao giờ mình đăng nhập zalo trên máy tính, vậy lần đăng nhập đầu tiên trên máy tính của người đó liệu có xem được toàn bộ các cuộc trò chuyện của mình trước đó không? Mình đang rất lo, vì toàn những thông tin quan trọng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.01856,
+         "id": "924487",
+         "field_search": "question",
+         "question": "có một số tin nhắn bạn tôi đã gửi trước đó 5 tiếng nhưng tôi mở viber không thấy tin nhắn nhưng tôi khởi động lại máy thì mới thấy tin nhắn đã gửi cách đó 5 giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.01106,
+         "id": "1168537",
+         "field_search": "question",
+         "question": "Cho em hỏi: xem được họ đăng hình nhưng vô mục ảnh của zalo đó lại không thấy hình ảnh. Như vậy có phải là em bị người ta chặn xem nhật kí không? Nếu như là vậy thì khi họ chặn nhật kí với lại chặn tin nhắn thì khi em đăng 1 stt hay hình ảnh gì đó lên trang zalo của mình thì người ta có nhận đc thông báo+ xem được nhật kí của em không ạ. E xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.983665,
+         "id": "911189",
+         "field_search": "question",
+         "question": "Zalo trên máy tính của em trước đó dùng bình thường, mấy hôm nay khi chỉ gửi tin nhắn thì ok, còn gửi ảnh cái nó cứ báo \"đang gửi\" như thế này và không cho gửi tin nhắn nữa luôn. e khởi động lại máy hay gỡ ra cài lại đều vẫn bị như thế!!!Giúp e với ạ !!! huhuhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.84021,
+         "id": "1009299",
+         "field_search": "question",
+         "question": "Ứng dụng Zalo trên samsung a5 2016 của t ko hiển thị nội dung thông báo có tin nhắn... ở thanh cuộn phía trên như hình dưới đây mặc dù có tin nhắn đến. T đã cài đặt hiển thị thông báo rồi nhưng ko được. Mong đc các KTV tư vấn.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.63101,
+         "id": "918614",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng iphone 5s. Mình nt cho nhiều người cùng lúc ko được. Mặc dù vẫn còn tiền trong tài khoản. Mình cũng đã bật 3g lên là gửi, hắn gửi đc. Nhưng có người nhận được tin có người không, hoặc nhận được tn rỗng. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.603325,
+         "id": "811548",
+         "field_search": "question",
+         "question": "Ad ơi mình muốn đăng xuất nick zalo tren mot chiếc điện thoại khác bằng máy tính có được không? Bởi vì mình nt băng may tinh mà tin nhắn cua ngưòi gửi đến máy kia vẫn nhận được liệu có dăng xuất zalo ở dt đấy bằng máy tính có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.39009,
+         "id": "813796",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi là trước kia zalo mình và ngđó là bạn bè vì lý do bạn ấy chặn mình.mỗi khi nt thì k đc.lâu lâu xuất hiện dòng tin chặn,kết bạn và báo cáo. Nhưng mh kb thì bgiờ nick ngđó thôg báo đang chờ chấp nhận và bgiờ báo là nick ngđó ko nhận tin từ người lạ.vậy mình đăng gì ng ấy thấy k.mặc dù trc kia ngdo chỉ chặn mình thôi và mình vao tin nhắn thì thấy ngđó vẫn online",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.241,
+         "id": "778271",
+         "field_search": "question",
+         "question": "E xài ip 4 e nt vs Sđt của ip 5 đang bình thường nhưng hồi sau e nhắn tin cho số đó thì dược gọi được còn số đó nhận dc tin nhắn trả lời lại báo đã gửi nhưng qua máy e lại k nhận đc gọi dô máy e vẫn dc. Cho e hỏi lý do tai sao. Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.20934,
+         "id": "1159095",
+         "field_search": "question",
+         "question": "Tại sao Zalo lại hiển thị đối phương đang vừa mới truy trập trong khi họ đang hoạt động mà cứ hiển thị hoạt động 3 hoặc 4 giờ trước trong khi họ đang hoạt động và nhắn tin với mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.1723,
+         "id": "837507",
+         "field_search": "question",
+         "question": "Cho em hỏi, nếu mình xoá tên một người nào đó trong danh bạ Zalo thì người đó k thể gọi hay nhắn tin cho mình nữa phải k ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.06416,
+         "id": "1014032",
+         "field_search": "question",
+         "question": "Icloud có quản lý được toàn bộ tin nhắn zalo,fb,line,....đã từng truy cập trên iphone không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.80425,
+         "id": "840999",
+         "field_search": "question",
+         "question": "MOD cho mình hỏi 1 chút:Mình muốn xem lại toàn bộ tin nhắn zalo trên PC khi tài khoản zalo đã bị xóa thì xem lại tin nhắn như thế nào?Trên máy tính mình thấy trong thư mục zalo có file zalo_messages.db thì có xem được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

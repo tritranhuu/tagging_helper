@@ -1,0 +1,801 @@
+{
+   "id_query": "1009642",
+   "total": 33500,
+   "total_current": 100,
+   "max_score": 127.10733,
+   "origin_question": "Xin chào,  cho em hỏi là có phần mềm điều chỉnh độ phân giải video từ 360p lên HD ngoại trừ CinemaHD không ạ, em sử dụng phần mềm ấy nhưng video vẫn như cũ, lại không được HD?",
+   "hits": [
+      {
+         "score": 41.16655,
+         "id": "765678",
+         "field_search": "question",
+         "question": " Cho em xin link download phần mềm intel hd graphics cho intel pentium g3240 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.909397,
+         "id": "1017998",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ, tôi đang dùng chiếc J3 Pro, trong phần mềm cài sẵn có phần mềm từ điển. Xin KTV hướng dẫn cho tôi sử dụng phần mềm này. Xin cảm ơn nhiều !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.29756,
+         "id": "1155992",
+         "field_search": "question",
+         "question": "tgdd ơi phần mềm nào hỗ trợ tải video từ youtube cho iphone dễ sử dụng nhất vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.24866,
+         "id": "791053",
+         "field_search": "question",
+         "question": " Xin hỏi mọi người phần mềm tải video từ yotube cho máy iphone ios 9.2.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.04281,
+         "id": "1009921",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại xa ultra của em tại sao lên youtube mở video có chất lượng là FULL HD 60FPS là chỉ cho coi HD 60FPS,mà video FULL HD ko có 60FPS thì xem dk vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.87874,
+         "id": "1022702",
+         "field_search": "question",
+         "question": "xin chào, cho em hỏi là laptop Asus của em lâu rồi không sử dụng, giờ phần mềm diệt virus hết hạn, khởi động thì chậm, tải phần mềm về cài đặt không được, có thể tư vấn cho em nên làm gì không ạ. Em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.257133,
+         "id": "798811",
+         "field_search": "question",
+         "question": " Phần mềm download video cho iphone là phần mềm gì vậy mọi người?. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.978737,
+         "id": "1152920",
+         "field_search": "question",
+         "question": "Xin chào quản trị viên.Mình sử dụng điện thoại Iphone 6s plus. Mình đã cài đặt phần mềm auto call recorder, yêu cầu trả phí 179.000/tháng. Mình đã thanh toán phí, nhưng mình vẫn không sử dụng được. Cho mình hỏi lý do vì sao mình không sự dụng được phần mềm đó và Iphone có hỗ trợ phần mềm ghi âm cuộc gọi không ạ. Mình chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.273182,
+         "id": "795018",
+         "field_search": "question",
+         "question": "QTV ơi cho em hỏi là khi copy video từ máy tính vào iphone thì cần phải đồng bộ, nhưng như vậy các video cũ sẽ mất, vậy có cách nào giữ lại nhưng video cũ mà vẫn copy vào iphone được không QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.207237,
+         "id": "766843",
+         "field_search": "question",
+         "question": " Quản trị viên cho em hỏi tải phần mềm gì về có thể download được video ios ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.704983,
+         "id": "1136645",
+         "field_search": "question",
+         "question": " sp xr dăng video lên fb sao chát luongj kém thê ạ . e chỉnh qua HD vẩn kém     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.631126,
+         "id": "798587",
+         "field_search": "question",
+         "question": " Ad có thể giới thiệu 1 số phần mềm chỉnh sửa video cho window mà free hoặc có bản crack mà dùng được vĩnh viễn không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.53389,
+         "id": "1136631",
+         "field_search": "question",
+         "question": "Tại sao đăng video lên fb thì video coi bị mờ k thấy mặt người . E chỉnh đăng video ảnh fb lên HD rồi vẩn bị mờ có phải là lỗi chương trình k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.07213,
+         "id": "912322",
+         "field_search": "question",
+         "question": " Cho hỏi có phần mềm quay video màn hình nào trên HDH ios 10.1.1 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.527897,
+         "id": "1157919",
+         "field_search": "question",
+         "question": "Ad kt giùm mình máy dell inspiron 3567 độ phân giải là hd hay fhd vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.277752,
+         "id": "1135379",
+         "field_search": "question",
+         "question": "cho mẹ hỏi là e đang sử dụng laptop E5-576-34ND, hiện phần mềm microsoft đã hết hạn sử dụng, em có thể cài lại từ TGDĐ được không ạ, chi phí là bao nhiêu ạ, là sinh viên nên em cần đến nó lắm. mong sớm phản hồi cho em ạ, xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.146458,
+         "id": "989243",
+         "field_search": "question",
+         "question": "Cho em hỏi , em đang dùng 5se , em đang dùng phần mềm phiên bản 8.3 . Vậy em có nên cập nhật phần mềm để dùng máy tốt hơn hay dùng phần mềm cũ ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.03011,
+         "id": "1007775",
+         "field_search": "question",
+         "question": "Điện thoại em là Samsung galaxy s2 HD LTE chạy android 2.3.6(không hỗ trợ gọi video) . Nay em muốn nâng cấp lên android 4.4 để được hỗ trợ gọi video được không ad ??? Và phí nâng cấp là bao nhiêu ?? Em xin cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.985508,
+         "id": "1148402",
+         "field_search": "question",
+         "question": "Phần mềm com.android.system.ui là virus phải không ạ em nhớ lúc mới mua đâu có nó ạ, chỉ có phần mềm com.android.systemui à mấy phần mềm quét virus (VirusTotal) cho nó là Trojan virus ạ, nhưng không nào xóa nó được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.735622,
+         "id": "806798",
+         "field_search": "question",
+         "question": "minh xài iPhone 6s plus giờ mình muốn tải video phim về máy mà phần mềm free video và một số phần mềm đã bị xóa trên appstore!giờ mình mún tải thì phải làm sao ạ?????????????? minh đã thử rất nhìu phần mềm nhưng không có chỗ để tải về???????mong phản hồi sớm ạ????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.706139,
+         "id": "847364",
+         "field_search": "question",
+         "question": " Cho mình hỏi Galaxy SII HD có gọi video qua tin nhắn FB được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.514791,
+         "id": "766882",
+         "field_search": "question",
+         "question": "Cho em hỏi khi sử dụng Windows 8.1 vì không biết đó là gì nên e đã phần mềm có tên viết tắt là RE nhưng trong thời gian sử dụng tiếp thì vẫn không sao.Đến khi e cài đặt lại Windows 10 thì e vào game Liên minh huyền thoại nhưng máy báo lỗi là chưa cập nhật card màn hình mà card màn hình là phần mà e đã xóa từ khi sử dụng win 8.1 mà phần mềm đó e download lại thì lại bắt buộc mua bản quyền trong khi em đã mua bản quyền rồi. Vậy bây giờ em lại trung tâm thì có khắc phục lỗi này được không????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.500208,
+         "id": "749220",
+         "field_search": "question",
+         "question": "Chào anh chị...em hiện đang dùng iphone 5s nhưng không biết phải copy nhạc, video từ laptop sang iphone như thế nào. Lúc trước tìm hiểu trên mạng thấy người ta dùng phần mềm itunes, em đã thử nhưng không được. Mong anh chị hổ trợ giúp em vấn đề này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.117302,
+         "id": "751761",
+         "field_search": "question",
+         "question": "  Em xài iPhone 3GS cho em hỏi máy cài được phần mềm phát wifi không và phần mềm nào là phù hợp phải mua hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.095139,
+         "id": "1153296",
+         "field_search": "question",
+         "question": "Em có máy xiaomi mi4 mới,  khi cài phần mềm trên 100mb trên chplay thì cứ chạy đến 100% là lỗi. Em đã thử qua vài phần mềm trên 100mb đều k được. Em cài qua file apk từ bên ngoài thì cài đặt xong cũng không chạy được phần mềm đó luôn.  Xin hoit vậy là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.978182,
+         "id": "1013598",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại em có độ phân giải là 1080p thì có xem youtube với độ phân giải 1080p60fps được không ad ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.70771,
+         "id": "920468",
+         "field_search": "question",
+         "question": "Chào ad? Mình có mua iphone 6s+ cũ và khi test imei thì nó bảo là đã bị thay thế, vậy thì cho mình hỏi nếu ko unlock imei lại thì mình có update đựoc các phần mềm ứng dụng cũng như hệ điều hành ios không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.424551,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.318295,
+         "id": "749012",
+         "field_search": "question",
+         "question": "Mình ms nâng cấp laptop lên win  10.phần mềm office 365 phải mua bản quyền. mình có thể sử dụng phần mềm office miễn phí khác thay thế không.nếu có thì là phần mềm gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.158865,
+         "id": "1013521",
+         "field_search": "question",
+         "question": "Xin cho hoi: Máy sam sum j3 của mình khi quay video xong thi mở không được, video không chạy cứ báo là video bị lỗi ( Tất cả các video quay trực tiếp) ngoại trừ video tải trên mạng về thì mở được. Mình đã đi chạy chương trình máy lại mà về mở cũng không được. Vậy lỗi là do đâu. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.030556,
+         "id": "853065",
+         "field_search": "question",
+         "question": "AD ơi???? cho e hỏi với ạ... với IP lên IOS9 rồi muốn tải phim trực tiếp video từ web về thỳ làm thế nào ak.. có phần mềm nào oke k ạ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.019058,
+         "id": "815937",
+         "field_search": "question",
+         "question": " Em đang dùng iphone4s nếu như em nâng cấp phần mềm lên 9.3.1 thì có sao không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.933792,
+         "id": "1161411",
+         "field_search": "question",
+         "question": "Cài lại phần mềm cũ của samsung a7 như nào vậy ạ.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.923393,
+         "id": "842785",
+         "field_search": "question",
+         "question": " Cho e hỏi phần mềm để tải video về máy cho iphone ngoài youtube nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.736809,
+         "id": "931609",
+         "field_search": "question",
+         "question": "ChàoAnh/ChịHiện tại em mới mua chiếc laptop Inp 3458 ở cửa hàng chạy Win 8.1 bản quyền. Hiện tại thì máy em có các phần mềm như WPS Writer, WPS Prensentation, WPS Spreadsheets tương tự như Word, Exell, Power Point. Khi mở file word hay exell thì nó lại mở phần mềm kia. Vậy cho em hỏi phần mềm kia có quan trọng không. Nếu xóa thì có ảnh hưởng gì tới phần mềm của máy không. Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.51788,
+         "id": "777401",
+         "field_search": "question",
+         "question": " Mình đang sử dụng iPhone, mình tải Files văn bản, hình ảnh và video về thì phải cài đặt phần mềm nào? Cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.515528,
+         "id": "1012472",
+         "field_search": "question",
+         "question": "Đã lưu video youTube vao phần ngoại tuyến rồi mà sao không xem offline được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.413132,
+         "id": "1009460",
+         "field_search": "question",
+         "question": "Cho em hỏi là em có con điện thoại sony M2 không hiểu sao không sử dụng được 3 phím cảm ứng điều hướng trên màn hình. E đã thay màn hình cảm ứng mới nhưng vẫn không được. Chạy lại phần mềm đến lúc chọn ngôn ngữ lại không nhấn hoàn tất được, nên đành nhìn màn hình chọn ngôn ngữ mà buồn :(( ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.254486,
+         "id": "1142304",
+         "field_search": "question",
+         "question": "mình sử dụng laptop Window 10 mà sử dụng các phim tắt từ F1 dên F12 vào các phần mềm khác không được? làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.248486,
+         "id": "1000342",
+         "field_search": "question",
+         "question": "cho em hỏi em đang sử dung điện thoại sam sung j2 prime em vừa mới cập nhật phần mềm từ androd 6.0 lên 6.0.1 như vậy có ảnh hưởng gì đến máy k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.217924,
+         "id": "1151219",
+         "field_search": "question",
+         "question": "Ad cho em hỏi bên mình có hổ trợ chạy lại phần mềm Iphone5s không ạEm lên ios12 mà nên gio muốn như cỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.146599,
+         "id": "999211",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone khi sử dụng camera trước không có chế độ lưu ảnh như trong phần hiển thị đang chụp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.027754,
+         "id": "1149782",
+         "field_search": "question",
+         "question": "có phần mềm nào có thể xem video trong thẻ nhớ trên samsung j7 pro ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.001547,
+         "id": "882718",
+         "field_search": "question",
+         "question": " Có phần mềm diệt virut free mà an toàn không ạ... cho em xin link tải T.T ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.980564,
+         "id": "1143296",
+         "field_search": "question",
+         "question": "Em đang sử dụng điện thoại Oppo A3s 32GB,Hiện tại thì mới mua được 3 ngày,em thấy camera trước của Oppo có màu sắc không bình thường (màu nâu hay vàng), khi em call video hay chụp selfieEm không biết chỗ điều chỉnh.Em muốn hỏi là do máy có màu như vậy hay người dùng mua về điều chỉnh ạ? và điều chỉnh thì ở đâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.964575,
+         "id": "751768",
+         "field_search": "question",
+         "question": "Em xài iPhone 3GS, cho em hỏi mình cài được phần mềm phát wifi cho máy được hay không, phần mềm nào phù hợp và bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.960663,
+         "id": "797824",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop của em không có bảo hành tại thế giới di động nhưng cần cài lại từ đầu phần mềm vì nó bị lỗi không thể decovery được, em có thể đem máy đến đó để cài lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.910032,
+         "id": "874790",
+         "field_search": "question",
+         "question": " tại sao em không tải được ứng dụng zalo vậy ạ. phần mềm 8.1 đó ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.897446,
+         "id": "763367",
+         "field_search": "question",
+         "question": " Cho em hỏi máy iPhone 5s chaỵ lại phần mềm có sao không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.84437,
+         "id": "1007134",
+         "field_search": "question",
+         "question": "Chào ad ! Em dùng itel 1508 plus đã cập nhật youtube nhưng không có chỗ lưu video ngoại tuyến. Ad giúp em với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.77578,
+         "id": "807821",
+         "field_search": "question",
+         "question": "Cho em hỏi là bằng cách nào để tải phần mềm có trong chplay về cho iPhone 6 không ak.Vì phần mềm đó nó chỉ có trong chplay thôi ak.Ad ơi xin vui lòng giúp em với.Em cần nó....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.703657,
+         "id": "823674",
+         "field_search": "question",
+         "question": "Mình có phần mềm, ứng dụng dùng được trên win 7 và 8. Giớ mình muốn cài cho người bạn nhưng không muốn người bạn đó share cho người khác. Vậy xin QTV chỉ mình phần mềm nào có thể khoá phần mềm mà mình muốn khoá. Mong QTV sớm tư vấn. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.5933,
+         "id": "843654",
+         "field_search": "question",
+         "question": "hiện tại e đang sử dụng oppo neo 3 nhưng mấy hôm nay thì truy cập chrome, chplay và những ứng dụng khác ( trừ facebook và bản đồ ) là bị thoát ra, hôm qua e có lên TGDD chạy lại phần mềm thì sáng nay lại bị lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.524569,
+         "id": "1164858",
+         "field_search": "question",
+         "question": "Cho e hỏi hiện tại e đang sử dụng A8 2018, vào hôm thứ 4 e có cập nhật phần mềm mới và hiện tại mỗi lần e đang sử dụng là màn hình cứ sáng tối loạn cả lên trong kgi e không chỉnh gì cả.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.519745,
+         "id": "1134852",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán phần mềm office 365 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.518034,
+         "id": "756683",
+         "field_search": "question",
+         "question": " Cho em hỏi là có phần mềm nào ghi âm cuộc gọi cho iPhone 4s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.394531,
+         "id": "1166284",
+         "field_search": "question",
+         "question": "Tại sao máy của em khi vào youtube lại ko có phần lưu video ngoại tuyến akMáy của em là samsung a5 năm 2017Mong td sớm tl",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.336033,
+         "id": "758249",
+         "field_search": "question",
+         "question": " Cho em hỏi cái iPhone 5 của em giờ em muốn tải phần mềm diệt virus về em tải phần mềm nào được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.331335,
+         "id": "792911",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4, phần mềm 7.1.2, khi gọi video bằng ứng dụng line thì bên người nghe không nghe thấy tiếng mà vẫn nhìn thấy hình. Xin quản trị viên hỗ trợ dùm mình. Thanks bạn nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.30595,
+         "id": "870928",
+         "field_search": "question",
+         "question": "cho em hỏi với ạ, máy của em là lap HP pavilion-14ab120TU, lúc mới mua về em có thể chỉnh đc độ sáng bằng phím f2 f3, nhưng sang ngày thứ hai lại không điều chỉnh được là sao ạ, với cả khi nhấn phím f4 lại ko hiện lên như hôm mới mua ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.28494,
+         "id": "999572",
+         "field_search": "question",
+         "question": "J2 prime G532G root nhưng bị fail file bị lỗi phần mềm như này thì mang ra chạy lại phần mềm đc k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.261503,
+         "id": "1023404",
+         "field_search": "question",
+         "question": "cho mình hỏi, máy của mình A5 2017, phần mềm Secure Folder của máy bị mất, làm sao mình có thể tải lại phần mềm Secure Folder? mình chưa sử dụng lần nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.24319,
+         "id": "1160161",
+         "field_search": "question",
+         "question": "Máy em cài đặt phần mềm Unikey bảng gõ tiếng việt nhưng phần mềm làm cho máy chậm và có nhiều lúc em gõ nó không theo chính tả mà nhảy chữ lum la. Em không gở cài đặt được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.222204,
+         "id": "1161581",
+         "field_search": "question",
+         "question": "Mình gọi video call qua mesenger thì điện thoại người nghe có tiếng vọng lại giọng nói của họ. Dt mình là ss note8 mới up lên androi 9, và mình thấy hiện tượng này bị từ khi cập nhật phần mềm. Cho hỏi là cách khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.221449,
+         "id": "774692",
+         "field_search": "question",
+         "question": " cho e hỏi có máy laptop nào có cấu hình i5 hoặc i7, ram4g, card rời 2gb, màn hình độ phân giải full hd 19201080 ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.166748,
+         "id": "1021257",
+         "field_search": "question",
+         "question": " Cho mk xin tên phần mềm này đc koÝ mk là cái phần mềm cái bánh răng đó  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.15851,
+         "id": "781862",
+         "field_search": "question",
+         "question": " Chào anh chị, em mới mua iPhone 5S có cần tải phần mềm diệt virus không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.054306,
+         "id": "1139969",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng tablet a6 phần mềm 8.0. Em co sử dụng es duyệt tập tin nhưng trong khoảng thời gian gần đây khi vào phầm mềm es duyệt tập tin ko lưu dc file excel. Nhưng nêu vào ex ở máy ( ổ làm việc thì lưu bình thường )Vậy cho em hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.016808,
+         "id": "1156941",
+         "field_search": "question",
+         "question": "Thegioididong cho em hỏi, laptop Dell của em không nhận tai phone cắm vào. Em đã từng đi sửa 1 lần ở thegioididong và anh kỹ thuật bảo là lỗi phần mềm, ảnh chỉnh lại được nhưng bây giờ bị tiếp, em không rõ là lỗi gì, thegioididong tư vấn giúp em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.980728,
+         "id": "1133704",
+         "field_search": "question",
+         "question": "Xin chào à. Em dùng ip6+ hêt thời hạn bão hành rồi ạ! Nhưng em không làm rớt gì mạnh nhưng khoảng thời gian gần đây nó bị dựt dựt: nghĩa là em k điều chỉnh nút    Âm lượng mà đt no vãn tự chỉnh từ chế độ rung sang có chuông và ngược lại nhiều lần! Đt em đang bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.916906,
+         "id": "1151921",
+         "field_search": "question",
+         "question": "Cho em hỏi ạVới tầm giá từ 15-20 triệu em muốn mua laptop: •14 inch • Mỏng nhẹ •Sử dụng tốt các phần mềm văn phòng, corel, photoshop, cad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.844723,
+         "id": "749446",
+         "field_search": "question",
+         "question": " QTV cho em hỏi có phần mềm diệt vius nào dành cho iphone không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.844723,
+         "id": "1155637",
+         "field_search": "question",
+         "question": "Cho em hỏi cài phần mềm etabs cho máy tính có tốn phí không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.84127,
+         "id": "811396",
+         "field_search": "question",
+         "question": " Cho em hỏimáy của em sao không tải ảnh lên được facebook a?với lại hiện tại muốn tải phần mềm gì cũg không được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.755274,
+         "id": "754080",
+         "field_search": "question",
+         "question": " Cho em hỏi em tài phần mềm genymotion sử dụng giả lập android trên máy tính nó báo thông bị lỗi là sao admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.743168,
+         "id": "773928",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính của mình hiệu Dell Inpiron 3420. Dạo này sử dụng đuợc một lúc là bị treo, phải tắt nguồn, khởi động lại mới sử dụng đuợc. Tình trạng như thế máy của mình bị lỗi phần mềm hay phần cứng vậy. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.715624,
+         "id": "771758",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iPhone 6s có phần mềm diệt virus không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.681368,
+         "id": "882715",
+         "field_search": "question",
+         "question": "cho tôi hỏi laptop dell n4050 có hỗ trợ Intel® HD Graphics 3000 nhưng cài ko được khi vào chỉ thấy Intel® HD Graphics như vậy khắc phục và chỉnh sửa sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.660238,
+         "id": "1017850",
+         "field_search": "question",
+         "question": "Tôi mới mua máy galaxy j3. Vì sao không sử dụng được phần mềm messenger?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.654556,
+         "id": "804551",
+         "field_search": "question",
+         "question": " Sao lumia tải zalo lại không có phần gọi video ạ.sao lại không cài được facebook lite ạ.em xin cảm ơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.619434,
+         "id": "1023808",
+         "field_search": "question",
+         "question": "Cho e hỏi sao e tải youtube rồi có video ngoại tuyến rồi mà khi tắt wifi là ko vào được video ngoại tuyến vậy nó cứ nói là không có kết nối trong khi máy cũ của e vào mà ko có wifi bình thường mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.609669,
+         "id": "1011913",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ, cho mình hỏi. Mình mới dùng chiếc sam sung j3 pro, có phải tải ứng dụng quét vi rút không ? Nếu dùng thì tải phần mềm nào là tốt nhất. Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.5552,
+         "id": "651264",
+         "field_search": "question",
+         "question": " em có tải phần mềm wechat về máy nhưng chỉ nhận được cuộc gọi đến còn e gọi đi không được là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.553648,
+         "id": "767973",
+         "field_search": "question",
+         "question": "Xin hỏi ios của tôi tải phần mềm ko đc phần mềm trên web là sao a có cách nào giải quyết ko ạ. nó tải về gần xong thì dừng và nói tại ko ko đc trong khi bộ nhớ vẫn còn trống, xin hỏi có cách nào giúp đỡ hay trung tâm nào hỗ trợ cho tôi đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.45435,
+         "id": "763587",
+         "field_search": "question",
+         "question": " Cho em hỏi là Laptop nào của các hãng mà chạy được phần mềm Etab với Autocad với giá từ 67 triệu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.408272,
+         "id": "1013720",
+         "field_search": "question",
+         "question": "Phần mềm corel x7 giá bao nhiêu và sử dụng được bao lâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.361506,
+         "id": "1023915",
+         "field_search": "question",
+         "question": "dạ cho em hỏi ạ máy của em là máy iphone 5 ạ em đang dùng phần mềm baterylife để kiểm tra độ chai pin lúc nó bảo pin hoàn hảo lúc thì nó bảo rất tốt là 3 phần trăm độ chai pin ạ các bác tư vẫn giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.36026,
+         "id": "812911",
+         "field_search": "question",
+         "question": " Anh cho em hỏi phần mềm Microsoft Powerpoint nó cứ nỗi lên bản này là sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.291668,
+         "id": "1156595",
+         "field_search": "question",
+         "question": "điện thoại em samsung galaxy j7 cập nhật phần mềm xong mở không lên , như vậy là bị gì ạ , sửa bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.217133,
+         "id": "1021255",
+         "field_search": "question",
+         "question": "Cho mk xin tên phần mềm này đc koÝ mk là cái phần mềm cái bánh răng đóMk sẽ gửi ảnh ở phần bình luận  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.155163,
+         "id": "1021249",
+         "field_search": "question",
+         "question": "Cho mk xin tên phần mềm này đc koÝ mk là cái phần mềm cái bánh răng đóMk sẽ gửi ảnh ở phần bình luận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.148964,
+         "id": "814786",
+         "field_search": "question",
+         "question": "iphone 5s của em bị lỗi cảm ứng không rõ nguyên nhân, mang ra quán điện thoại họ nói rằng máy bị hỏng cáp, thi thoảng vẫn sử dụng được, ad có thề cho em biết đó là do máy hay do phần mềm không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.120169,
+         "id": "903677",
+         "field_search": "question",
+         "question": " Xin chàoCho em hỏi máy Dell Inspiron 15 có cần mua phần mềm winrar kh ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.10899,
+         "id": "1151583",
+         "field_search": "question",
+         "question": "cho em laptop bị mất hết phần mềm office là bị lỗi win phải không ạ, sửa chữa như nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.104557,
+         "id": "1144065",
+         "field_search": "question",
+         "question": "Cho em hỏi máy samsang J5 của em mới cập nhật phần mềm hệ điều hành 8.0 có tính năng gì mới ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.101269,
+         "id": "815816",
+         "field_search": "question",
+         "question": "Máy của em là Iphone 5 mà sao tải phần mềm cài nhạc chuông lại không được khi tải xong vào cài thì hiện lên như kiểu là Win ở máy tính không chạy được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.074633,
+         "id": "1149883",
+         "field_search": "question",
+         "question": "em mới được người thân cho máy tính nhưng các phần mềm đều cũ chuă cập nhật ,em muốn cài đặt win 10  thì chi phí là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.069815,
+         "id": "1137009",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động mua giúp em được phần mềm photoshop cs6 không ạ.Nếu được phí mua là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.05766,
+         "id": "885594",
+         "field_search": "question",
+         "question": "xem phim trên FPT Play và Trình phát video thì bị như vậy, xem youtube thì bình thường, để chế độ Full HD lun, mạng cũng mạnh, xem máy khác thì không bị là sao ạ. em đang dùng Yoga 500 14IBD",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

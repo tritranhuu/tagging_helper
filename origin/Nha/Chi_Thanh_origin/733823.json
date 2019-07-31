@@ -1,0 +1,801 @@
+{
+   "id_query": "733823",
+   "total": 34273,
+   "total_current": 100,
+   "max_score": 281.92493,
+   "origin_question": "Cho tôi hỏi, khi tạo account cho ipad tôi chọn địa chỉ mail đang sử dụng là .....yahoo.com. Chọn địa chỉ gmail.com có tốt hơn không. Có đổi được account không?Khi tôi vào icloud của iphone và tạo new Apple ID (kiểm tra khóa kích hoạt trên mạng thấy đang tình trạng off), tôi nhập địa chỉ email yahoo mà tôi đã dùng cho ipad thì được thông báo địa chỉ mail đã được sử dụng phải chọn một địa chỉ khác. Tôi không thể sử dụng chung một địa chỉ email cho cả iphone và ipad?",
+   "hits": [
+      {
+         "score": 104.99597,
+         "id": "586995",
+         "field_search": "question",
+         "question": " Tôi đã quên mật khẩu địa chỉ Email làm thế nào tìm lại ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.406075,
+         "id": "1143712",
+         "field_search": "question",
+         "question": "Cho em hỏi khi nhân viên ở TGDĐ tạo tài khoản ID Apple cho mình là *****@gmail.com thì địa chỉ Gmail đó có tồn tại để sử dụng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.716866,
+         "id": "840973",
+         "field_search": "question",
+         "question": "mình sử dung Iphone4 đã lâu nhưng khi mình tạo ID thì nhầm địa chỉ email và từ đó đến giờ thì mình không tài nào để tạo tài khoản ID nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.71016,
+         "id": "781589",
+         "field_search": "question",
+         "question": " Trong iPhone 5s mình muốn thay đổi địa chỉ mail và pass trong tài khoản ID Apple và Icloud thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.47847,
+         "id": "792888",
+         "field_search": "question",
+         "question": " Cho tôi xin địa chỉ khôi phục dữ liệu iPhone tại Hải Phòng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.09185,
+         "id": "1009912",
+         "field_search": "question",
+         "question": "Tôi ở Bạc Liêu muốn mua iPhone se đổi trả mà trên địa bàn không có, có thể chuyển hàng xuống địa phương tôi được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.875046,
+         "id": "924314",
+         "field_search": "question",
+         "question": " Mình dùng GL31 không kết nối được với máy tính qua USB các bạn chỉ cho tôi với địa chỉ thangvan.pbgmail.com ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.431076,
+         "id": "1004237",
+         "field_search": "question",
+         "question": "win ivista có nâng cấp lên win 8.1 đc không cho tôi địa chỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.1353,
+         "id": "1144283",
+         "field_search": "question",
+         "question": "Tôi muốn mua đt nokia 3310 màu vàng, cho tôi địa chỉ cửa hàng có đt đó nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.963326,
+         "id": "761680",
+         "field_search": "question",
+         "question": "Cho thôi hỏi  có thể đặt bluetooth được khôngLàm ơn gửi câu trả lời về địa chỉ email drdungnimpe@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.77485,
+         "id": "895159",
+         "field_search": "question",
+         "question": "Tôi, Hà Thạch Thủy Thương đã từng mua 1 ipad air tại TGDD ở Tam Kỳ, h tôi cài đặt lại cho ipad của mình có hỏi khóa kích hoạt (nhập ID Apple và mậ khẩu) nhưng tôi nhập theo ID của tôi lại thông báo \"Không thể sử dụng tài khoản này để mở khóa ipad. Cho tôi hỏi: khi tôi mua máy, nhân viên ở đây đã cài đặt tài khoản nào cho máy tôi. Mong trả lời sớm để tôi có thể tiếp tục làm việc. Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.68377,
+         "id": "1152121",
+         "field_search": "question",
+         "question": "Cho mình hỏi với mình đăng ký ID Apple, đã xác minh địa chỉ mail, khi đăng nhập vào iTunes & App Store nó báo \"Không thể đăng nhập, Đã xảy ra sự cố khi kết nối với máy chủ\" là bị sao vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.09287,
+         "id": "733979",
+         "field_search": "question",
+         "question": "Tôi có tài khoản email xxx@icloud.com, trong quá trình đăng ký có email ID apple dự phòng, nhưng do quên pass mail icloud, khi lấy lại pass thông qua ID apple là: xxxnhcd@yahoo.com thì toàn chỉ thay đổi được ID app thôi vẫn không vào được xxx@icloud.com. Xin được giúp. TksNguyễn Văn Minh: xxxnhcd@yahoo.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.86964,
+         "id": "1005255",
+         "field_search": "question",
+         "question": "Tôi ở tai TP Nam Định có một màn hình Intenets hãng LG hiện nay ình trạng khởi động trên màn hình không có điện vậy cho tôi hỏi đem sửa tại địa chỉ nào của hãng ?Xin chân ành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.10272,
+         "id": "842661",
+         "field_search": "question",
+         "question": "Cho mình hỏi: khi khôi phục tài khoản icloud mà nó hiện đã gửi mail về địa chỉ n*****@icloud.com như vậy thì làm sao khôi phục được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.93779,
+         "id": "1000541",
+         "field_search": "question",
+         "question": "Tôi tạo tài khoản ID nó  hiện lên chữ đỏ\" để được hỗ trợ, hãy liên hệ hỗ trợ Intunes tại địa chỉ www.apple.com/support/intunes/ww/.\" Là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.2154,
+         "id": "1005133",
+         "field_search": "question",
+         "question": "Trong Google Play, khi nhập vào mục \"Đổi\" thì hiện ra \"Đổi mã của bạn\". Cho hỏi phần \"Nhập mã\" này là password của địa chỉ mail or password của máy?TKS!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.93771,
+         "id": "768382",
+         "field_search": "question",
+         "question": "Tại sao iPhone 5 ( có Jaibreak) của em không truy cập được địa chỉ Google, tất cả các ứng dụng sử dụng địa chỉ Google để tìm kiếm đều không vào được ( không load được tẹo nào ), cả Youtube cũng không vào được ạ. ...( Nếu vào Safari cài đặt Bing hoặc Yahoo làm công cụ tìm kiếm thì vẫn tra cứu được, nhưng các phần liên quan đến google và truy cập youtube qua safari đều không có kết nối )....Mong được thegioididong trợ giúp khắc phục , em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.73748,
+         "id": "801686",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tôi vừa mới mua iPad mini 2 được 20 ngày, Khi tôi vào một ứng dụng nào đó, xong tôi dùng 5 ngón tay vuốt lên để cho iPad về màn hình chính thì man fhình lại bị trắng toàn màn hình chỉ có mỗi trái táo khuyết ở giữa, như vậy iPad của tôi có hư sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.673935,
+         "id": "867958",
+         "field_search": "question",
+         "question": "Id apple của mình có cả địa chỉ @gmail và @icloud. Mình muốn thay đổi cái tên @icloud có được ko và làm như thế nào? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.569016,
+         "id": "829119",
+         "field_search": "question",
+         "question": " mình bị rơi mất iphone 5s, vậy tt có thể cho mình xin địa chỉ ID, mật khẩu được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.38985,
+         "id": "788629",
+         "field_search": "question",
+         "question": "mình đang tìm mua 1 máy đổi trả - máy đã qua sử dụng là iphone 6s 64G màu gold !hoặc ip6 64Gb thường hoặc 6plus mình đang sinh sống ở Lạc Long quân Hà Nội ! shop có thể báo cho mình địa chỉ nào khu vực hà nội có máy ,tình trạng máy,tình trạng bảo hành,phụ kiện ....để mình qua lấy !sdt 099 3333 xxx-- email: minhtuanaudio2012@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.271034,
+         "id": "1137052",
+         "field_search": "question",
+         "question": " xin hỏi xiaomi redmi s2 còn k a c ? Tôi muốn mua trả góp được k,và làm thủ tục thì tới thegioididong địa chỉ nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.07442,
+         "id": "927969",
+         "field_search": "question",
+         "question": " cho e hỏi e mới mua máy iphone 6 bên nhật. giờ e gửi tin nhắn k được, nó ycau địa chỉ email mms mà e nhập mãi k đk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.88079,
+         "id": "891649",
+         "field_search": "question",
+         "question": " Cách tạo ID apple chú tôi không biết tạo chỉ cho tôi mới bạn nhé  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.71256,
+         "id": "1159940",
+         "field_search": "question",
+         "question": "Tại sao gọi video trên fb hoạc zalo không bật được đèn pin. Khi bật thì màn hình hiện thông báo ứng dụng đèn pin đang được 1 ứng dụng khác sử dụng. Mà trong khi đó tôi đã thử rất nhiều lần và kiểm tra khi đó chỉ có 1 ứng dụng zalo hoạc fb đang gọi video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.50976,
+         "id": "998889",
+         "field_search": "question",
+         "question": "Ad cho mk hỏi là chỗ địa chỉ Mac wifi trên điện thoại LG G3 LG-LS980 của mk đột nhiên bị mất và nó ghi không có địa chỉ .Bây giờ mk ko dùng đc chức năng bắt wifi nữa bật lên thì không thể tắt. Ad cho mk một giải pháp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.16142,
+         "id": "759540",
+         "field_search": "question",
+         "question": "Chào Anh, em có ID Apple rồi nhưng vào appstore tải ứng dụng thì không được và tình trạng là nói em sai địa chỉ gì đó trong khi e đã hoàn thành đúng rồi, em đã nhấn Done nhiều lần nhưng vẫn không được, anh giúp dùm em nha.PNG\" alt=\"\"/>.PNG\" alt=\"\"/>",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.79175,
+         "id": "843131",
+         "field_search": "question",
+         "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.595024,
+         "id": "751089",
+         "field_search": "question",
+         "question": " iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.442024,
+         "id": "753085",
+         "field_search": "question",
+         "question": "Cho hỏi vì sao tôi không thể thay đổi phần âm thanh trong tin nhắn, email, thư đã gửi ... Trên iPhone 5s. Tôi chọn thay đổi thì bị thoát ra lại màn hình chính, tôi đã thoát icloud và reset lại máy nhưng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.39583,
+         "id": "883687",
+         "field_search": "question",
+         "question": "tình hình là e đang sử dụng máy iphone 5. E muốn thoát cái id iCloud nhưng lại quên mất mật khẩu, và địa chỉ gmail đăng ký đó e cũng quên mất. Vậy có cách nào để e thoát id iCloud đó hông ạ? Giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.76931,
+         "id": "1163222",
+         "field_search": "question",
+         "question": "cho mình hỏi mình dùng samsung J8, mình đã xóa lịch sử wifi bằng cách nhấn vào \"wifi đã lưu\" ấn \"quên\", nhưng không hiểu sao đi sửa máy về mở lịch sử ra lại thấy địa chỉ wifi mình đã xóa này. Sau đó mình thử xóa tương tự với một địa chỉ khác, nhưng nếu đăng nhập thì mình mới thấy lưu, còn không đăng nhập thì nó cũng ko lưu như trường hợp trên. Cho mình hỏi lý do với ạ, mình rất cần, Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.65059,
+         "id": "1003252",
+         "field_search": "question",
+         "question": "cho mình xin địa chỉ mail của phòng nhân sự TGDĐ mình có việc cần liên hệ. thân ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.45645,
+         "id": "915430",
+         "field_search": "question",
+         "question": "em lập tài khoản gmail 1 tháng trước làm id apple song rùi nhưng bây giờ mới xác nhận ko dk ad à . nó hiện lên Không Thể Xác Minh Địa Chỉ Chúng tôi rất tiếc là đã không thể xác minh liên kết bạn đang sử dụng để truy cập trang này. --> bây h em phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.05148,
+         "id": "835382",
+         "field_search": "question",
+         "question": "Bản đồ trên diện thoại 5s em không thể kiếm 1 số địa danh địa chỉ nhưng khi em dùng bản đồ trên hệ điều hành androi thì lại kiếm được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.89346,
+         "id": "760677",
+         "field_search": "question",
+         "question": "Có phải khay sim của iPhone 5 không có khắc chỉ số IMEI phải khôngThegioididong. Tôi sử dụng một vài trang web check số IMEI nhưng không thấy tình trạng Sim lock ghi unknown là sao ạ, mặc dù tôi vẫn sử dụng sim Vina nghe gọi bình thường. Sẵn đây nhờ Thegioidiong.com kiểm tra xem iPhone 5 (vỏ màu trắng 32GB) của tôi có phải là hàng chính hãng không nhé. IMEI: 013719003463882",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.67616,
+         "id": "786762",
+         "field_search": "question",
+         "question": "Cho mình hỏi là iphone của mình đã cài id apple nhưng trong itunes & appstore lại là địa chỉ khác và nó không hiện chữ màu xanh như bình thường để thay đổi thì phải làm thế nào để thay đổi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.34445,
+         "id": "1147459",
+         "field_search": "question",
+         "question": "Tôi dùng iPad 1 a1337 phiên bản 5.1.1 sau. Khi reset lại máy thì ko thể cập nhập id Apple. Safari cũng không thể tải game tôi vẫn hay chơi. Bạn có cách nào để tôi cài lại Facebook , zalo và game thời loạn lại máy được không . Chỉ giúp tôi . Tôi thao tác rết máy ngày 20/1/2019 . iPad tôi giờ thật sự cho vào thùng rác được rồi phải ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.990074,
+         "id": "892241",
+         "field_search": "question",
+         "question": " bây giờ em quên mk icloud với quên mất địa chỉ email thì em có lấy lại được mật khẩu icloud nữa không..mong giúp đỡ ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.97168,
+         "id": "757663",
+         "field_search": "question",
+         "question": " Ad cho e hỏi sao e tạo tài khoản Appstore đến bước xác minh lại nhập địa chỉ không chính xác ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.6483,
+         "id": "1157894",
+         "field_search": "question",
+         "question": "tôi đang sử dụng laptop HP, tên labtop là LAPTOP-70LPT1H9, processor là intel core i7-8550U. tuy nhiên trong quá trình sử dụng, lên internet máy rất chậm, không như câc máy khác chạy rất mượt dù chỉ là i5. máy tôi chạy HDD nhưng tôi chỉ dùng lên mạng và các ứng dụng office. tôi có thể hỏi nguyên nhân và cách khắc phục? tôi đã mang ra tgdd 2 lần để khắc phục nhưng chứng nào vẫn tật nấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.57766,
+         "id": "785838",
+         "field_search": "question",
+         "question": "Tôi bị mất iPhone 6 tình trạng máy có wifi và icloud nhưng mà máy không bật định vị và tôi cũng có vào iCloud khóa máy với xóa dữ liệu vậy thì kẻ trộm máy tôi restore iPhone lại có sử dụng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.42835,
+         "id": "766976",
+         "field_search": "question",
+         "question": "Chào anh/chị!Tôi đang xài iPhone 6s plus nhưng không thể tải được hình từ Facebook về máy. Tôi đã vào cài đặt -> quyền riêng tư -> ảnh ... Và tìm mọi cách khác nhưng không thể nào lưu được hình. Khi nhấp và giữ tay vào hình thì nó chỉ hiện ra mỗi chữ \" sao chép \" Vui lòng hướng dẫn giúp tôi!Trân trọng cảm ơn!Mail tôi: anhduong0903@yahoo.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.544075,
+         "id": "778577",
+         "field_search": "question",
+         "question": " Chỉ dùm tôi nút home trên iPad tôi vào trang mua bán trên iPad ko thoát ra được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.47696,
+         "id": "1160107",
+         "field_search": "question",
+         "question": "Cho hoi thay mặt kính a9pro giá bao nhiu?, và ở huế thì đến địa chỉ nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.245186,
+         "id": "751612",
+         "field_search": "question",
+         "question": "Các anh em cho mình hỏi có cây iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.245186,
+         "id": "751160",
+         "field_search": "question",
+         "question": "Các anh em cho mình hỏi có cây iPhone 5s bị người khác xóa mất vậy mình có thể biết được địa chỉ ở chỗ nào đã xóa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.243866,
+         "id": "753755",
+         "field_search": "question",
+         "question": "Mình dùng địa chỉ Gmail để lập id apple máy báo về  thành công nhưng sao mình ko nhận được địa chỉ xác minh, bạn có thể giúp mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.14363,
+         "id": "1006995",
+         "field_search": "question",
+         "question": "Tôi muốn mua 1 ốp lưng điện thoại Samsung A8 trong thế giới di đông, hỏi địa chỉ nào gần nhất ở quận 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.06814,
+         "id": "1003107",
+         "field_search": "question",
+         "question": "Tôi không hài lòng về chính sách bảo mật thông tin của khách hàng. Trong vài tuần rất có nhiều cuộc gọi từ miền nam đến và họ luôn làm phiền tôi khi từ bữa ăn đến giấc ngủ khi họ luôn nhắc đến cho tôi vay tiền nhưng tôi không muốn và họ vẫn làm phiền. Khi tôi hỏi sao họ biết thông tin và địa chỉ của tôi họ bảo bên thegioididong cung cấp cho họ. Tôi rất bức xúc với cách làm việc của thegioididong.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.757416,
+         "id": "876000",
+         "field_search": "question",
+         "question": "xin chào Anh Chị. Hiện tại giờ 17-08-2016 đả có thể jaibreak IP ios 9.3.2 thành công dc chưa ạ, và nếu thành công thì sử dụng ổn như những phiên bản trước ko ạ. xin hướng dẩn cho em với. thông tin xin gửi giúp em vào địa chỉ mail. hoaibao792@gmail.com: em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.66619,
+         "id": "993492",
+         "field_search": "question",
+         "question": "bạn tôi hỏi,  tôi sử dụng iphone 5. đó quên mật khẩu truy cập vào tài khoản icloud. tên tài khoản mail  của tôi có đuôi là . ( @icloud.com). Tôi không vào mail. nhờ bạn trợ giúp. cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.45896,
+         "id": "997308",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo neo7.. Cho hỏi tại sao chỉ mỗi điện thoại của tôi là không tìm thấy wifi đó. Hôm qua vẫn còn dò được và sử dụng wifi đó bình thường..nhưng hôm nay chẳng những không xài được mà còn không tìm thấy mạng wifi đó nữa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.24996,
+         "id": "771672",
+         "field_search": "question",
+         "question": "iPad tôi đang dùng có số IMEI là 354421068266394 sao tôi tra trên trang web của apple lại không có thời gian kích hoạt và thời hạn bảo hành nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.63743,
+         "id": "895039",
+         "field_search": "question",
+         "question": " Có cách nào không mở máy mà biết dc máy có địa chỉ icloud hay không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.50819,
+         "id": "1145495",
+         "field_search": "question",
+         "question": "Cho tôi hỏi ở mỹ tho địa điểm tgdd nào bán iphone 8 cũ vậy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.50287,
+         "id": "1016843",
+         "field_search": "question",
+         "question": "Mình không nhớ ID và pass đang nhập account samsung. Giờ mình muốn lấy lại thông qua đại chỉ email đã đăng ký.Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.3468,
+         "id": "825602",
+         "field_search": "question",
+         "question": "xin chào thegioididong!Tôi có sử dụng iphone 5 (IOS 9.3.1) cũ, đã có cài icloud của chủ cũ. Tôi vô tình bấm sao lưu icloud nữa chừng rồi bấm hủy. T thấy lần sao lưu cuối cùng là trước lúc tôi sử dụng máy này. Xin hỏi là thông tin của tôi có bị chuyển vào icloud nếu chưa hoàn tất quá trình sao lưu? Trong trường hợp iphone bị khóa kích hoạt không thể reset máy cũng không thể làm gì phải không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.01168,
+         "id": "1001546",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng Sony z5. Khi nhắn tin đăng ký gói 3g cả 2 nhà mạng Vinaphone và Mobile đều kg được. Báo lỗi \"Không thể gửi!\". Hỏi nhà mạng, họ nói do cài đặt \"bảo mật về tin nhắn...\" trên máy. Nhưng tôi kg tìm và kg khắc phục được. Xỉn Admin chỉ dẫn giúp! Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.99008,
+         "id": "775736",
+         "field_search": "question",
+         "question": "Cho tôi hỏi phần mềm windows defender trong win 7 có diệt virus được không? máy tính của tôi chỉ sử dụng mỗi phần mềm đó thì liệu có an toàn không? vừa qua kiểm tra má tính thì tôi phát hiện có một file tên wmiaprpl.h. File đó là an toàn hay virus?Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.969574,
+         "id": "1019135",
+         "field_search": "question",
+         "question": "Tôi cần biết cách transfer hình ảnh, video từ một Samsung S6 Edge sang Bphone 2017, xin chỉ dẫn cho tôi cách tốt nhất để thực hiện việc này.  Ngoài ra, khi tôi cắm Bphone 2017 vào PC, IE cho thấy Bphone 2017 nhưng khi bấm vào đó, không có gì khác hiện ra (tôi không thể thấy được bất cứ file nào, kể cả photos, trong Bphone trên PC. Tôi đang dùng IE11 trên PC.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.96468,
+         "id": "1011384",
+         "field_search": "question",
+         "question": "E đang xài SS j2 mà e hỏi là địa chỉ email trong tiện ích Ch play trên máy đt nhưng em lại không nhớ được mật khẩu, như vậy e có thể làm cách nào để biết được cái mật khẩu email đó không vậy ạ, a, chị chỉ giúp e với. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.865845,
+         "id": "753325",
+         "field_search": "question",
+         "question": "Tôi đang sưTôi đang sử dụng laptop Asus Windows 8.1 nhưng sau khi nâng lên Windows 10 thì tôi không thể sử dụng Ezcom 3g được nữa, tôi nghĩ là do bản win không phù hợp nên đã thử hạ xuống nhưng vẫn không được. Tôi có cắm 3g vào máy, 3g có hiện đèn xanh đã kết nối nhưng lại không thấy xuất hiện biểu tượng trên máy tính. Tôi không biết do Ezcom hay do máy của tôi. Xin ad cho tôi xin ý kiến về trường hợp của tôi. Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.76602,
+         "id": "839346",
+         "field_search": "question",
+         "question": "Ad ơi, e đang tạo tài khoản ID Apple nhưng gặp một số vấn đề, ad giúp e vs nhé, e xin cảm ơn !ad ơi, e đã tạo r mà nó ghi e thế này :\" Để được hỗ trợ, hãy liên hệ Hỗ trợ iTunes tại địa chỉ www.apple.com/support/itunes/ww/. \"Ad giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.631546,
+         "id": "891246",
+         "field_search": "question",
+         "question": " Lỗi HTTP  105  Không thể giải quyết địa chỉ IP của máy chủ.Cách khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.468575,
+         "id": "786558",
+         "field_search": "question",
+         "question": "Quên tài khoản ID của Icloud....1 năm trước e có đến cửa hàng Thế giới di động địa chỉ 136 Nguyễn Thái Học nhờ anh nọ tải game và 1 số ứng dụng. Nhưng hôm qua e đang lên mạng bình thường thì Iphone 4 của e bị tắt máy. Giờ nó yêu cầu e nhập địa chỉ ID để đăng nhập nhưng e quên tài khoản đăng nhập rồi thì phải làm sao ạ? mật khẫu e vẫn còn nhớ. Help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.393814,
+         "id": "860196",
+         "field_search": "question",
+         "question": "Tôi dùng điện thoại nokia lumia 525, do sử dụng facebook bị hack quá nhiều nên tôi cài đặt bảo mật 2 lớp bảo mật và cài đặt chỉ điện thoại của tôi mới dùng đc facebook. Bây giờ tôi đăng nhập facebook và các thiết bị khác không được . Các bạn có thể giúp tôi gỡ không ? có thì xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.37144,
+         "id": "822688",
+         "field_search": "question",
+         "question": "Tôi dùng iPhone 4 cũ, tôi đã lập được id app mới và đăng nhập tải được ứng dụng rồi. Nhưng khi tôi đăng nhập vào icloud bằng id app đó thì máy báo là đã hết tài khoản icloud miễn phí.Vậy tôi khắc phục thế nào đây addthank add nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.34835,
+         "id": "1012409",
+         "field_search": "question",
+         "question": "chào TGDD, cho mình hỏi là mình muốn mua trả góp   Apple Macbook Air MMGF2ZP/A i5 5250U/8GB/128GB/13.3\"/Bạc   cũ đã qua sử dụng. Giấy tờ mình sử dụng là CMND + Bằng lái xe (không có sổ hộ khẩu). Nhưng khi mình chọn Đặt mua trả góp thì trong phần điền thông tin lại kêu điền Địa chỉ hộ khẩu để phê duyệt hồ sơ, vậy là sao ạ? TGDD giải đáp thắc mắc dùm mình được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.17188,
+         "id": "873506",
+         "field_search": "question",
+         "question": "tôi không vào được icloud do không nhớ mật khẩu, sau khi không nhớ tôi ấn mấy lần mật khẩu nhưng không đúng, máy báo tài khoản của tôi bị khóa. sau đó tôi vào máy tính đặt lại mật khẩu gmail và vào lại. nhung máy chỉ xác nhận là tên ID Apple đúng mà không vào được icloud, máy chủ bảo đang xác lập lại, có cách gi bảo tôi với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.05547,
+         "id": "774830",
+         "field_search": "question",
+         "question": "Đt của e đang dùng là iPhone 4s. Làm thế nào để kết nối wifi khi ko hiện ô nhập mật khẩu ạ. Các địa chỉ khác e vẫn vào bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.02231,
+         "id": "767905",
+         "field_search": "question",
+         "question": "Mình mới sử dụng iPhone 5s đã tạo id apple bây giờ facetime phải sử dụng mail mà không sử dụng số điện thoại phải chỉnh thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.00966,
+         "id": "998103",
+         "field_search": "question",
+         "question": "Tối qua (thứ 5, 29/6/2017), tôi có ra TGDĐ mua 1 sim mobi giá 300k, tôi lựa số 0938791512, và cuối cùng nhân viên bán hàng đăng kí cho tôi 1 số mới 0938936561, do đã chỉ số cho nhân viên đăng kí nên tôi ko kiểm tra lại, đến sang nay gọi thử mới phát hiện sai sót trên. Vậy tôi có thể đổi lại số mà tôi đã chọn hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.97357,
+         "id": "885947",
+         "field_search": "question",
+         "question": " Tgdd có thể chỉ cho tôi cách xoá ảnh trên icloud iphone 6 được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.92034,
+         "id": "1017383",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình sử dụng 2 mail. Email 1 là mình đã đăng nhập được vào app gmail rồi, nhưng khi vào thì nó lại báo như thế này \" Gmail đã dừng \". Chỉ có mỗi email 1 đó thôi. Email 2 thì vào thì k bị văng ra. Lúc trc thì xài 2 email vẫn bình thường. Cho mình hỏi nguyên nhân được không ạ.  Mình cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.88162,
+         "id": "876713",
+         "field_search": "question",
+         "question": "Tôi đang sử dung Viber trên IPad. Tôi gọi đi thì bình thường nhưng cuộc gọi đến không có chuông báo mặc đu tôi đã cài đặt âm thanh đầy đủ. Tôi xài IPad Air 2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.625565,
+         "id": "1158067",
+         "field_search": "question",
+         "question": "Gần đây oppo a3s e đang xài bị vấn đề. Đặt đồ ăn trên loship hay xài busmap bấm địa chỉ nào nó cũng báo ko tìm thấy địa chỉ của bạn. Trc đây ko bị bây giờ lại như v. Cho e hỏi vấn đề gì. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.30044,
+         "id": "835212",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi:mình bị quên mật khẩu ID cũng làm trình tự các bước như bạn chỉ, nhưng Appe không có gửi tin nhắn về địa chỉ email của mình, mình làm đi làm lại nhiều lần bên email vẫn k thấy gửi tin nhắn về :( Help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.0961,
+         "id": "1166748",
+         "field_search": "question",
+         "question": "Hi TGDD,Tôi có đặt đơn hàng điện thoại Nokia 2.1 lúc 11.04 thông qua website để tặng cho người thân. Trong đơn hàng tôi đã chọn hình thức giao hàng thu tiền tại nhà trong vòng 1 giờ đồng hồ.Tôi đã liên lạc người thân, đã qua hơn 1 giờ mà hiện tại vẫn chưa nhận được hàng.Theo thông tin trên website thì hiện tại trong khu vực này tình trạng hàng vẫn còn và trong bán kính 2 km. TGDD Giúp tôi kiểm tra lại đơn hàng và dịch vụ.Thông tin đơn hàng:+ Tên: Nguyễn Nhựt Anh.+ Sđt: 0937448234+ Địa chỉ: Tổ 39, khu Cầu Xéo, thị trấn Long Thành, huyện Long Thành, tỉnh Đồng Nai.Cám ơn đã hỗ trợ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.82965,
+         "id": "765815",
+         "field_search": "question",
+         "question": "Tôi mua máy iPhone 6 64G, vừa đúng hết thời gian bảo hành 1 tuần là xảy ra hiện tượng màn hình cảm ứng bị đơ, không thể tắt máy hay sử dụng các thao tác trên máy được. Tôi gửi hãng để kiểm tra, nhưng hãng tra lời hết bảo hành, không có chính sách sủa chữa, mà chỉ có chính sách đổi điện thoại mới phải trả tiền 7,5 triêu đồng.  Tôi thấy rất không thuận tiện cho khách hành khi sử dụng . Tôi cảm thấy như bị lừa. Các bạn có lời khuyên nào cho trường hợp này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.73748,
+         "id": "819770",
+         "field_search": "question",
+         "question": "Tại sao khi tôi cài viber vào điện thoại thì danh bạ chỉ dùng được một số người còn lại ko dùng đc. Trong khi đó tại điện thoại trước tôi vẫn sử dựng bình thường? hiện tại tôi đan dùng iPhone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.67779,
+         "id": "1161885",
+         "field_search": "question",
+         "question": "Tôi không thể sử dụng Word,Excel,Power Point,Access có sẵn trên laptop của mình được.Microsoft bắt buộc tôi phải mua chúng. Tôi vừa mua laptop tại Thế giới di động vào ngày 13/4/2019. Và giờ tôi không thể sử dụng Office có sẵn là như thế nào? Một số laptop khác có thể sử dụng tích hợp Office có sẵn,còn tôi thì tại sao lại không có? Tôi cần một lời giải thích cho vấn đề này.Dòng máy của tôi :HP Pavilion X360 14-cd0082TU",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.01531,
+         "id": "804787",
+         "field_search": "question",
+         "question": "Gần 1 tháng nay mình không kích hoạt được imes vs face timeMáy báo kích hoạt không thành côngNhưng mình vấn nhắn tin và gọi face time bằng địa chí id icloud bình thường. Vấn đề muốn giái quyết là số điện thoại máy chủ không thế chọn làm địa chí nhận và gửi tin nhắn va facetime.Làm sao để khắc phục đâyKhi khôi phục cài đặt gốc và thay đối tài khoán icloud rồi mà vấn không kích hoạt được.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.97024,
+         "id": "877867",
+         "field_search": "question",
+         "question": "Tôi đã tải về ứng dụng typiora để thiết kế cho mình một bàn phím đẹp nhưng thiết kế xong thì không biết làm thế nào để sử dụng nó ad chỉ với máy toi dùng là iPhone 5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.83508,
+         "id": "930647",
+         "field_search": "question",
+         "question": " Đặt mã khi tạo ID trên apple là gì vậy? Anh chị chỉ em với. Nó không có mục lựa chọn không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.824066,
+         "id": "1016547",
+         "field_search": "question",
+         "question": " cho mình hỏi mình muốn mua đt xaomi mình nhập địa chỉ ko cần sdt đc ko  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.74876,
+         "id": "1014146",
+         "field_search": "question",
+         "question": "tôi mới mua laptop msi và đã sử dụng gần một tháng có thề đổi sang máy tính pc được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.72182,
+         "id": "883958",
+         "field_search": "question",
+         "question": "Tôi có 2 máy iphone đều cài đặt viber. Ko hiểu sao khi dùng máy 1 gọi đến một số điện thoại A thì chỉ có nhìn thấy \"trực tuyến\" và có thể gọi được. Còn máy 2 gọi đến số A đó thì ko thấy báo \"trực tuyến\" và ko gọi được. Trong khi đos máy 2 vẫn gọi viber cho các số khác được. Tôi đã thử cài đặt lại viber mấy lần mà vẫn như vậy. Nếu có thể xin chỉ giúp tôi với. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.52358,
+         "id": "923365",
+         "field_search": "question",
+         "question": "Xin chào. Tôi đang sử dụng macbook pro 2008. Tôi bị hư ổ đĩa dvd và tôi muốn sử dụng ổ đĩa rời để đưa đĩa vào cài win cho macbook có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.47402,
+         "id": "900544",
+         "field_search": "question",
+         "question": "Cho tôi hỏi iPhone 5s bị rơi vỡ màn hình nhưng cảm ứng thì vẫn sử dụng bình thường không xảy ra lỗi gì vậy tôi có phải chỉ thay mặt kính thôi phải không ,cho hỏi ô biên hoà đòng nai chỗ nào thay ép kinh ip đáng tin cậy xin chỉ giùm ,và giá thấy kính là bao nhiêu tiền rất mong đc sự giúp đỡ của QTV tgdd chỉ bảo nơi thấy và giá bao nhiêu tôi rất cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.17577,
+         "id": "1136150",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng điện thoại Galaxy note FE và ba tôi cũng thế. Vì sử dụng cùng 1 dòng điện thoại nên tôi nghĩ có thể lấy dây sạc của đt ba tôi để sạc cho đt của tôi. Nhưng khi cắm vào nó lại hiện thông báo là hãy sử dụng sạc đi theo máy do nhà cung cấp. Tôi ko hiểu có thể giải thích thêm cho tôi đc ko. Vì 2 chiếc đt đều giống nhau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.090256,
+         "id": "869894",
+         "field_search": "question",
+         "question": "Minh đang sử dụng ipad phiên bản 8.0.2 sử dụng viber, khi người khác gọi đến chỉ hiện thông báo không có tín hiệu âm thanh chuông reo, cài đặt của máy đều bình thường chế độ không làm phiền đã tắt....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.050064,
+         "id": "1163214",
+         "field_search": "question",
+         "question": "cho mình hỏi mình dùng samsung J8, mình đã xóa lịch sử wifi bằng cách nhấn vào \"wifi đã lưu\" ấn \"quên\", nhưng không hiểu sao đi sửa máy về mở lịch sử ra lại thấy địa chỉ wifi mình đã xóa này. Cho mình hỏi lý do là gì vậy, tHanks bạn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.65994,
+         "id": "787682",
+         "field_search": "question",
+         "question": "Tôi có mua lại một máy iPhone 5s đã qua sử dụng tại thegioididong ngày 12/2. Sau khi về sử dụng được 4 ngày thì camera trước của máy bị lệch vị trí so với ban đầu. Tôi sử dụng không làm rơi hay va đập vậy lỗi này có được đổi trả không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.65403,
+         "id": "1137716",
+         "field_search": "question",
+         "question": "Xin Chào,Tôi muốn mua sản phẩm nàyhttps://www.thegioididong.com/may-tinh-bang/ipad-wifi-cellular-128gb-2018Và tôi có voucherVậy tôi có thể sử dụng voucher được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.46316,
+         "id": "802089",
+         "field_search": "question",
+         "question": "Em mua điện thoại iPhone cũ mà khi kích hoạt nó báo như vậy : \" iphone này đang được liên kết với id apple (b*******yahoo.com) đăng nhập id apple đã được sử dụng để thiết lập iphone này \" e phải làm sao để kích hoạt đây ạ? Em không biết pass :'(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.17896,
+         "id": "891166",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao máy iphon 4 của mình cứ cập nhập phiên bản mới lại hiện dịa chỉ của cửa hàng mình mua,trong khi mình tải các ưngs dụng về từ app thì dùng địa chỉ google của mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.16142,
+         "id": "942047",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng dell v3568, không biết hiện tại laptop của tôi có tự động ngắt sạc khi pin đầy không? và lúc pin đầy tôi tiếp tục cắm sạc thì máy có dùn nguồn điện trực tiếp không? làm thế nào để tôi kiểm tra được",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "920631",
+   "total": 32059,
+   "total_current": 100,
+   "max_score": 81.15108,
+   "origin_question": " tại sao ip5 của em khi nâng cấp lên ios 10 thì vào phần giới thiệu nó lại báo là mạng không khả dụng là sao vay ad ",
+   "hits": [
+      {
+         "score": 36.809578,
+         "id": "988752",
+         "field_search": "question",
+         "question": "Em mới lên ios 10 . Trong phần giới thiệu hiện thêm seid và imed. Là sao hả ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.349606,
+         "id": "828882",
+         "field_search": "question",
+         "question": "Máy của e là ip5 lock nâng cấp lên 9.3.1 bây h vào facebook bằng 3g cứ báo không có mạng là sao ạ. Chỉ khi bắt wifi mới vào được thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.360481,
+         "id": "757870",
+         "field_search": "question",
+         "question": "Em nâng cấp iPhone 5 của em lên iOS 9.2. Sau khi đăng nhập ID và pass xong, vào đồng ý các điều khoản dịch vụ máy báo chờ ít phút, sau lại báo là đăng nhập không thành công là do lỗi của phần mềm hay do mạng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.593239,
+         "id": "770071",
+         "field_search": "question",
+         "question": " iPhone 4 16GB của em đã nâng cấp lên iOS 7.1.2 mà sao vào các App camera nó bị chậm là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.886412,
+         "id": "778949",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sao iPhone 4s của em khi nâng cấp lên phiên bản iOS 9.2.1 thì pin ảo hay tự động sập nguồn là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.290554,
+         "id": "746557",
+         "field_search": "question",
+         "question": "Laptop mình chạy win 10 không vào Store được là sao vậy m.n, win này là cài sẵn của máy rồi?Trong khi máy tự nâng cấp lên thì vẫn vào Store bình thường???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.053497,
+         "id": "779200",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi sao bấm vô cập nhật phần mềm của Iphone thì nó cứ tìm kiếm mãi mà không ra vậy ạ!? E muốn nâng cấp lên IOS 9.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.88926,
+         "id": "990250",
+         "field_search": "question",
+         "question": "Tại sao IP 6S của mình chưa nâng cấp lên ios 11 được vậy Ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.794798,
+         "id": "766907",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, sao em vào cài đặt > cập nhật phần mềm để nâng cấp iOS mà sao nó không hiển thị gói iOS nào hết vậy ad, nó cứ như vậy hoài à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.546482,
+         "id": "864293",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 5 bên nhật đem về bỏ sim vào có sóng nhưng lại báo mạng không khả dụng là sao ạ, có cách khắc phục không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.374048,
+         "id": "919381",
+         "field_search": "question",
+         "question": "Sao máy iPhone 5S của e no vừa có thông báo nâng cấp lên ios 10.1.1 mà kích vào xem thông báo nó vẩn k mất cái thông báo , nếu h nâng cấp lên có bị lổi j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.373398,
+         "id": "840478",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em đăng bài viết lên facebook mà chỉ được một lúc sau nó lại báo là bài viết không khả dụng là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.201252,
+         "id": "816756",
+         "field_search": "question",
+         "question": " Tại sao iPhone 3g ios 4.1 của mình không nâng cấp lên 4.2 được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.800423,
+         "id": "870717",
+         "field_search": "question",
+         "question": " Iphone 4 phần mềm ios 7.1.2 muốn nâng cấp lên ios 8.1 thì phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.749308,
+         "id": "809668",
+         "field_search": "question",
+         "question": " Cho em hỏi sau ipad của em khi nâng cấp lên ios 9.2.1 xong đột nhiên nó kêu kết nối vs i tunst là sao ạ cách khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.550745,
+         "id": "754754",
+         "field_search": "question",
+         "question": "Ad cho hỏi em đang dùng con iPhone 5s quốc tế a1533 . em đang bên china bên đó có 4g sao em lắp sim 4g vào mà chỉ hiện E không có 4g 3g cũng không thấy là sao em thắc mắc lâu rồi bực mình nữa của em nâng cấp lên ios 9.1 hay là nâng cấp lên bị như vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.482557,
+         "id": "748255",
+         "field_search": "question",
+         "question": "Anh ơi máy của em là iPhone 5 ios 9 máy em đã jailbreak, xong bây em muốn nâng cấp lên ios 9.1 thì em vào itunes dow bản cập nhập 9.1 về thì máy em hiện lên là '' phụ kiện có thể không đc hỗ trợ '' thì có làm sao ko anh, vẫn nâng cấp được phải không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.43693,
+         "id": "1160135",
+         "field_search": "question",
+         "question": "Ip5 ios 10.3.3 sao ko vào game Wormate.io được.game hổ trợ ios 8. Mình     vào là bị dăng ra. Bộ nhớ khả dụng tới 10G .ai biết cach khắc phục  chỉ giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.392197,
+         "id": "775153",
+         "field_search": "question",
+         "question": " Cho em hỏi Iphone của em ở phần nhà cung cấp không khả dụng có phải là hàng dụng không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.371311,
+         "id": "1003872",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao máy e nâng cấp từ android 6.0 lên 7.0 lại không sử dụng được dữ liệu mạng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.85724,
+         "id": "752674",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em xài iPhone5. Từ khi nâng cấp IOS mới nhất tới giờ, khi có cuộc gọi nhỡ em vào xem , thông thường thì cái thông báo nó sẽ mất nhưng giờ nó cứ hiện lên ấy ạ. Làm sao cho nó mất ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.808846,
+         "id": "1151587",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính acer win 7 ultimate, mình muốn nâng cấp lên win 10 bên tgdd có nâng cấp không vậy? Mà máy của mình không mua tại cửa hàng tgdd thì có thể lại của hàng nâng cấp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.744375,
+         "id": "846710",
+         "field_search": "question",
+         "question": "Máy em ipad 2 ios 6.1.3 lúc tải facebook nó bảo phải nâng cấp lên ios 7.0 mà vào Setting -> General -> Software Update thì có ios 9.1.3 thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.646252,
+         "id": "990759",
+         "field_search": "question",
+         "question": "Nâng cấp lên IOS 11 rồi có trở lại IOS 10 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.559002,
+         "id": "844287",
+         "field_search": "question",
+         "question": " Ad ơi sao ipad mini 2 của mình vào phần giới thiệu ko có imei vậy add  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.411549,
+         "id": "769209",
+         "field_search": "question",
+         "question": "Em sử dụng iPhone 3G mà em muốn nâng cấp lên được không nếu được thì lên được iOS 7 không làm sao bạn em chỉ vào CÀI ĐẶT-CĐCHUNG-CẬP NHẬT-PHẦN MỀN nhưng có lỗi chỉ cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.321705,
+         "id": "893735",
+         "field_search": "question",
+         "question": " Chào ad. Hiện tại mình dùng iphone 5s và đã nâng cấp lên ios 10 rồi bây giờ mình muốn xuống lại ios 9 được k ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.315634,
+         "id": "1160139",
+         "field_search": "question",
+         "question": "Ip5 ios10.3.3 bộ nhớ khả dụng 10G sao ko vào đã game vào là văng ra. Game Wormate.io hổ trợ ios 8. Làm thế nào để khắc phục lỗi. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.311207,
+         "id": "767211",
+         "field_search": "question",
+         "question": " Em dùng iphone 4s chót dại nâng cấp ios 9.2 rồi nhưng giờ máy của em sạc nó không vào pin thì phải làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.194061,
+         "id": "828744",
+         "field_search": "question",
+         "question": "ad ơi nếu em nâng cấp win7 lên win10 máy có bị mất dữ liệu hay các ứng dụng j ko, rồi sau khi nâng cấp xong mình có cần pải cài đặt lại mạng của máy hay cái j khác không Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.147879,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.127422,
+         "id": "805144",
+         "field_search": "question",
+         "question": "con ip5 của em không sạc được, lúc mở máy thì nó không thông báo là đang sạc, cũng không thông báo là vào pin, nhưng khi tắt nguồn thì lại sạc được, lúc nó còn 1% thì tắt nguồn, em nghĩ là hỏng rồi nên thử mở lại, lúc mở lên đã thấy nó sạc được 64%, làm cách nào khắc phục được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.931269,
+         "id": "823589",
+         "field_search": "question",
+         "question": "Iphone 3gs 16gb khi nâng cấp từ ios 4.1 lên 6.16 thì không thể kích hoạt được phải làm sao đây ad ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.90833,
+         "id": "1150521",
+         "field_search": "question",
+         "question": "Ad cho em hỏi tại sao điện thoại của em không thể nâng cấp hệ điều hành được ạ em sài ios",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.86761,
+         "id": "767320",
+         "field_search": "question",
+         "question": " Anh ơi, tại sao em nâng cấp 5S của em lên iOS 9.2 thì giờ chụp hình không được nữa ạ, mong anh trả lời giúp em? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.8258,
+         "id": "1147539",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao mà em điện thoại lên tổng đài thì nó nói là ở chỗ nó kiểm tra cho em mạng của em không có bị lỗi gì hết mà tại sao lúc em vô Facebook với mess với Zalo nói chung là tất cả ứng dụng trong điện thoại luôn mà nó không có đăng nhập được.bị như vậy là do đt hay là mạng v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.812914,
+         "id": "785642",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi sao iPhone 4 của mình trong giới thiệu ghi là 32GB mà sao vô iTunes thì nó báo là có 8GB thôi vậy? Hay là mình mua phải iPhone đểu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.552876,
+         "id": "742465",
+         "field_search": "question",
+         "question": "Em đang xài iphone 5 nhưng khi em nâng cấp ios 9 thì phần gọi điện thoại và coi danh bạ bị đứng là máy bị sao mấy anh giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.52445,
+         "id": "912789",
+         "field_search": "question",
+         "question": "Anh chị ad cho e hỏi là lúc e lên ios 10.1.1 thì có bị hỏi mật khẩu của icloud không ạ. E quên mất mật khẩu icloud mà lại định nâng lên ios 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.403193,
+         "id": "799223",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. e sài iphone 6plus. e đã nâng cấp ios máy e đang sài là 9.2.1 rồi mà khi e vào icloud kiểm tra thì báo là đang ở. ios 8 là như thế nào vậy Ad . mà kiểm tra trong phần cài đặt chung thì vẫn hiển thì 9.2..1Tư vấn giúp e. cảm ơn AD !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.38465,
+         "id": "780995",
+         "field_search": "question",
+         "question": " Cho em hỏi tại sao iPhone 5s 16gb mà trong giới thiệu lại ghi dung lượng là 12gb ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.304037,
+         "id": "869115",
+         "field_search": "question",
+         "question": "Tại sao điện thoại mình nâng từ ios9.3.2 lên 9.3.3 khi sạc pin nó báo đang sạc mà không vào pin m ong ad và ae chỉ giúp ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.279829,
+         "id": "856180",
+         "field_search": "question",
+         "question": "Chào Mod. Mod cho mình hỏi mình đang dùng IP5 đã jb ios 6.1. Vậy mình có thể nâng cấp lên IOS 8.1 được không, hay phải nâng cấp lên bản IOS mới nhất ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.278631,
+         "id": "1138665",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động...Hỏi: hiện tại em đang sài máy iphone6 J/A đã nâng cấp lên 12.1.1. Từ khi lên ios 12 thì face book em không còn nhận được thông báo của fb ngoài màn hình nữa... nhưng khi vào check fb thì có rất nhiều thông báo tới...Em đã cài đặt lại thông báo máy và cả trên fb mà vẫn không được... Mong các anh chị TGDD hộ trợ em với ạ. Em cảm ơn.!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.215157,
+         "id": "997182",
+         "field_search": "question",
+         "question": "ad cho em hỏi khi e bật mail trong phần icloud lên xong nó bảo tạo thì khi tạo xong nó lại bảo là có vấn đề khi bật thư tín là sao hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.174368,
+         "id": "1168971",
+         "field_search": "question",
+         "question": "Mình dùng  ip5 thì lúc tải b612 hoặc snow thì nó hiện lên ứng dụng không tương thích là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.113152,
+         "id": "767359",
+         "field_search": "question",
+         "question": "Có thể nâng cấp iPhone 4s (8G) từ 8.3 lên ios 9.2 không? cần dung lượng máy trống là bao nhiêu để cài nâng cấp lên 9.2 ? khi nâng cấp lên máy có nặng hơn không và sau khi nâng cấp lên thì có thế quay về phiên bản cũ được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.095465,
+         "id": "770117",
+         "field_search": "question",
+         "question": " Sao iPhone 4S của tôi đã nâng lên ios 9.2 tại sao lại không có mục news ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.964354,
+         "id": "814295",
+         "field_search": "question",
+         "question": "Tại sao tải ứng dụng cho ip5, nó cứ ghi như thế này thì làm sao anh.VD : \" không thể tải Zalo vào lúc này \" là sao anh , tải hoài mà vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.959934,
+         "id": "795431",
+         "field_search": "question",
+         "question": " ad cho e hỏi. lap e nâng cấp nên win 10 xong không vào được các ứng dụng, store phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.888666,
+         "id": "813455",
+         "field_search": "question",
+         "question": "    Cho em hỏi ki nâng cấp lên windows 10 mấy tính hiện như thế nỳ nghĩa là sao qtv ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.858856,
+         "id": "870909",
+         "field_search": "question",
+         "question": " nâng cấp laptop lên window 10 tốn bao nhiêu tiền ?khi nâng cấp lên window 10 có mất dữ liệu không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.856035,
+         "id": "919235",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao cái Iphone 5 của em mỗi lần vào camera trước chạm hơi mạnh vào màn hình là bị đứng máy, Có khi khởi động lại thì màu đen hoàn toàn dù để 2-3p vẫn không có hiện cammera lên, Em đã Reset, Khởi động lại mọi thứ vẫn không được, Thế máy em bị lỗi phần mềm à ?. Sửa khoảng bao nhiêu vậy ? Phiên bản hiện tại IP5 của em là 10.1.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.834745,
+         "id": "990090",
+         "field_search": "question",
+         "question": "Tại sao khi  mình nâng cấp lên ios 9.3.5 thì màn hình cứ hiện như này hoài ạ.  Kh lm gì được luôn    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.70245,
+         "id": "752805",
+         "field_search": "question",
+         "question": "Em dùng ip5s, từ lúc lên ios 9.1, phần mềm facetime khi em gọi sang ipad vẫn ok, nhưng một số số điện thoại em gọi nó đổ chuông nhưng bên kia không hiện thông báo và bên đó gọi lại bên em cũng không hiện thông báo (đổ chuông 1 lúc báo là \"KHÔNG KHẢ DỤNG\"). Vậy cho em hỏi lý do là vì sao và làm thế nào để khắc phục ạ? (2 số đều nhắn tin cho nhau bình thường, chỉ là gọi facetime âm thanh lẫn facetime là không được)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.605478,
+         "id": "802382",
+         "field_search": "question",
+         "question": "Giúp em với ad ơi . em mới mua 1 máy tính acer dùng window 10 nhưng từ khi lắp mạng , cú vào window store là nó out ngay . em phải làm sao , máy chưa có phần mềm gì hết :\"(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.503,
+         "id": "897176",
+         "field_search": "question",
+         "question": " Những tiện lợi và bất lợi khi nâng cấp lên win 10 là gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.502678,
+         "id": "821660",
+         "field_search": "question",
+         "question": "cho em hỏi, tại sao lại không tải ứng dụng từ store về máy laptop được vậy ad. nó cứ báo là đã hoàn thành nhưng lại vô thì lại không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.477846,
+         "id": "763622",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình lắp sim thỉnh thoảng mới nhận. Còn không cứ báo mạng không khả dụng. Về nhà mình thì lại có. Ra ngoài đường. Quanh xã cũng không có mạng khả dụng là sao ạ. Jup mình với iPhone 4S ạ. Mình mua cũ nên không hỏi lock hay quốc tế. Nhưng sim nào cũng nhận. Thanks Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.476751,
+         "id": "743615",
+         "field_search": "question",
+         "question": "AD ơi cho em hỏi sao em vào email thì báo là điện thoại này bị giới hạn tạo tài khoản là sao em không vào được iCloud luôn hix",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.45211,
+         "id": "766606",
+         "field_search": "question",
+         "question": " Mình nâng cấp lên iOS 9.2 và nó hiện ra là phân tích ứng dụng nhưng không thể ấn được, bây giờ phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.428396,
+         "id": "776663",
+         "field_search": "question",
+         "question": "Nâng cấp lên iOS 9.2 máy iPhone 5 khi đăng nhập vào itunes store để nâng cấp ứng phiên bản mới cho ứng dụng thì bị lỗi đang nhấp itune không thể đăng nhập được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.425154,
+         "id": "920006",
+         "field_search": "question",
+         "question": " Cho em hỏi muốn nâng cấp laptop lên win 10 sao ajk?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.422794,
+         "id": "863452",
+         "field_search": "question",
+         "question": "em đang xài máy tính để bàn , máy tính có hiện lên thông báo hỏi có nâng cấp lên windows 10 không ? cho em hỏi là windows 10 có gì ưu điểm gì so vs windows 7 ạ , và nâng cấp lên thì có cần lưu ý gì ko , có mất dự liệu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.404263,
+         "id": "1158388",
+         "field_search": "question",
+         "question": "Laptop khi vào this pc mà nó qua chỗ giống như giới thiệu phần mềm win10 thì bị lỗi j v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.366955,
+         "id": "815937",
+         "field_search": "question",
+         "question": " Em đang dùng iphone4s nếu như em nâng cấp phần mềm lên 9.3.1 thì có sao không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.329195,
+         "id": "897398",
+         "field_search": "question",
+         "question": "Mình dùng IPhone 5 và nâng cấp lên ios 10. Lúc máy còn 20% pin thì tự nhiên báo tiếng xè như đài FM vậy?! Kể cả lúc cắm sạc cũng báo tiếng xè như thế. Admin cho mình hỏi lỗi v là làm sao?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.303802,
+         "id": "760263",
+         "field_search": "question",
+         "question": "Ad cho em hỏi có key Windows 8 bản quyền theo máy nhưng khi nâng cấp Windows 10 thì không kích hoạt được là lỗi  0xc004f050 là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.282436,
+         "id": "822806",
+         "field_search": "question",
+         "question": " Ipad của e vào xem phim hoạc lên fb nó bảo trang web không khả dụng làm sao để khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.255165,
+         "id": "758218",
+         "field_search": "question",
+         "question": "Cho em hỏi là khi em thanh toán tiền mua ứng dụng trên ios nhưng lại báo là phương thức thanh toán của bạn không được chấp nhận là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.23424,
+         "id": "1009146",
+         "field_search": "question",
+         "question": "cho mình hỏi lenovo a8 5500 khi gắn sim vào thì không có song và khi tra cứu hay gọi thì báo là \"mạng di động không thiết lập\" vào là bị sao vậy Ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.216482,
+         "id": "897650",
+         "field_search": "question",
+         "question": "điện thoại mình là ip6 plus chạy ios 9.2.1, mình muốn update lên ios nhưng khi vào phần cập nhật phần mềm trong cài đặt chung thì không hiện lên bản ios để Tải về và Cài đặt mà lúc nào cũng báo là đang kiểm tra các bản cập nhật cả ngày. Vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.167444,
+         "id": "780794",
+         "field_search": "question",
+         "question": "Giờ em muốn nâng cấp iPhone 4 của em lên ios 7.1.2 nhưng cần tới 1,1gb và yêu cầu 3.8gb mới nâng cấp được , trong khi đó em đã xóa hết các app nặng nhưng vẫn không đủ , không hiểu phần gb còn lại được dùng để lưu cái gì , ad giúp em với ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.164972,
+         "id": "920011",
+         "field_search": "question",
+         "question": " Cho em hỏi nâng cấp laptop lên windows 10 sao ạ ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.129538,
+         "id": "743269",
+         "field_search": "question",
+         "question": "Có ai không giúp mình với . Mình đang sử dụng máy ip5 bản qt . Máy mình gặp lỗi 3G . Khi mình lắp sim viettel để vào mạng thì không được . Nhưng khi mình thay sim mobie vào lại vào đc mạng như bình thường là sao . A bik giúp mình với . Cảm ơn m.n",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.07601,
+         "id": "805797",
+         "field_search": "question",
+         "question": " Cho em hỏi là iphone 5s có nên nâng cấp lên ios 9.3 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.046362,
+         "id": "810344",
+         "field_search": "question",
+         "question": "iphone 3 có thể tải trò chơi hay không? đã có tài khoản id apple nhưng khi tải nó đề là cần phải nâng cấp lên ios mới nhất, vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.039991,
+         "id": "889216",
+         "field_search": "question",
+         "question": "Mình muốn nang cấp phần mềm iOS 10 nhưng chỉ sợ là lúc nâng cấp xong thì kêu phải đăng nhập bằng tài khoản , lúc trước mình cung có và làm do quên nên máy trở thành cục sắt luôn , h mình muốn nang cấp mà lại quen mk iCloud , nó cứ hiện lên là đăng nhập tài khoản iCloud , một máy mà mìn sử dụng tài khoản iCloud , và id Apple , ko biết có thể nang cấp phần mềm đc ko , nâng cấp thì mình chỉ cần tài khoản id hay iCloud vậy , mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.035507,
+         "id": "868835",
+         "field_search": "question",
+         "question": "E Sài Ip 5s ,e mới nang cấp len phần mềm IOS 9.3.3 .e nang cấp xong mạng 3G với ứng dụng ko chạy nổi.nhất là mạng 3G cứ hiện len chữ E? Gio e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.034576,
+         "id": "749012",
+         "field_search": "question",
+         "question": "Mình ms nâng cấp laptop lên win  10.phần mềm office 365 phải mua bản quyền. mình có thể sử dụng phần mềm office miễn phí khác thay thế không.nếu có thì là phần mềm gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.020557,
+         "id": "920663",
+         "field_search": "question",
+         "question": " tại sao lap top của e asus win 10 tải viên minh về giải nén ra exe mà vô nó báo chưa tải là sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.932941,
+         "id": "808399",
+         "field_search": "question",
+         "question": " Cho em hỏi. Bây giờ iphone4 của em cần nâng cấp lên ios 7.1 được không ạ ? Iphone4 của em là loại thường ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.880665,
+         "id": "888306",
+         "field_search": "question",
+         "question": "messenger có thay đổi được âm báo không a.hồi trước em chưa lên IOS 10 thì âm báo khác.giờ lên IOS 10 rồi thì nó tự đổi âm báo.em muốn cài lại âm báo như trước mà tìm hoài không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.870026,
+         "id": "826159",
+         "field_search": "question",
+         "question": " Mình đang sử dụng IOS 6.1.3. Giờ muốn nâng cấp hđh thì tối thiểu là ios mấy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.845087,
+         "id": "1140820",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone có thể nâng cấp lên ios mấy là cao nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.842287,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.833086,
+         "id": "1020908",
+         "field_search": "question",
+         "question": " đth của tôi iphone 4 tại sao tải các phần mềm như 365days mà sao nó kêu của bạn iOS 8 là sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.761044,
+         "id": "778040",
+         "field_search": "question",
+         "question": "Các anh ơi cho em hỏi máy iPhone của em vào phần cài đặt chúng ấn vào cập nhật phần mềm sao nó cứ ghi là đang kiểm tra cập nhật mãi chả ra bản cập nhật nào là sao các anh máy em iPhone 4 dùng iOS 6.1.3 muốn lên iOS 7?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.760092,
+         "id": "754760",
+         "field_search": "question",
+         "question": "Máy iPhone 4 iOS 6.1.2 thì có thể nâng cấp iOS cao nhất là bao nhiêu? Đưa đến siêu thị thế giới di dộng nâng cấp được không, phí dịch vụ tầm bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.759144,
+         "id": "806720",
+         "field_search": "question",
+         "question": "Em mới nâng cấp IOS 9.3, em muốn về lại IOS 9.2.1 mà không biết phải làm sao. Thế Giới Di Động có hỗ trợ xuống lại dùm em miễn phí được không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.713877,
+         "id": "813334",
+         "field_search": "question",
+         "question": " iPhone của em đang chạy ios 4.1 giờ em muốn nâng cấp lên iOS 6 phải làm sao vậy quản trị viên?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.67754,
+         "id": "1147585",
+         "field_search": "question",
+         "question": " tại sao tải app zing play lại báo app này không khả dụng ở quốc gia vùng bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.669401,
+         "id": "1135891",
+         "field_search": "question",
+         "question": "Máy của mình là máy Ip5s phiên bản 8.4.1 có nâng cấp được lên IOS 12 không shop. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.661444,
+         "id": "1151839",
+         "field_search": "question",
+         "question": "Tại sao chủ đề của realme c1 lại khác so với giới thiệu trên youtube của tgdd vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.650942,
+         "id": "875634",
+         "field_search": "question",
+         "question": "máy mình bị z là sao ạ zô appstore vào trang chủ vẫn hiện ứng dụng nhưng sao zô tìm kiếm cái j cũng k dc nó để là appstore hiện không khả dụng vui lòng quay lại sau là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.63287,
+         "id": "863467",
+         "field_search": "question",
+         "question": "Em muốn nâng cấp iphone 4s lên ios 9.3.3 nhưng em nghe nói iphone4s bị khai tử nên nếu nâng cấp ios thì sẽ bị hỏng máy.. Vậy em có lên được ios 9.3.3 cho máy iphone4s được không ạ? Máy e hiện đang là ios 9.2(13C75)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.628342,
+         "id": "755014",
+         "field_search": "question",
+         "question": "Cho em hỏi là, khoảng 1 năm trước em có mua laptop tại Thegioididong, khi mua thì đã đượcc cài win 8.1 bản quyền Home single language, sau rồi em nâng cấp lên win 10 bản quyền tương tự, nhưng sau thời gian sử dụng em thấy hình như win 10 của em bị lỗi thì phải, cho em hỏi là giờ em mà cài lại win 10 hay là quay về win 8.1 thì có mất bản quyền không ạ, em xin cảm ơn nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.620644,
+         "id": "843232",
+         "field_search": "question",
+         "question": "Ad cho e hỏiBình thường thì khi vuốt lên thanh setting từ dưới lên của i phone nó sẽ có màu sắcNhưng của em lại là một màu xám mặc dù em đã lên ios 9.3.2Giờ em muốn có màu sắc như vậy thì phải làm sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.590988,
+         "id": "1014439",
+         "field_search": "question",
+         "question": " Tại sao e lại không gọi được và nó cứ hiện lên  không đăng kí vào mạng   ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

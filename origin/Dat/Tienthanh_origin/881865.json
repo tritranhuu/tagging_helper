@@ -1,0 +1,801 @@
+{
+   "id_query": "881865",
+   "total": 22850,
+   "total_current": 100,
+   "max_score": 44.011288,
+   "origin_question": " Tại sao tôi không thể xác nhận tài khoản Id Apple ",
+   "hits": [
+      {
+         "score": 35.57864,
+         "id": "827916",
+         "field_search": "question",
+         "question": " Sao tôi đăng ký tài khoản id apple sao không nhận được mật khẩu xác minh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.234745,
+         "id": "758873",
+         "field_search": "question",
+         "question": "  Tại sao tôi không xác minh được tài khoản id apple của mình? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.52499,
+         "id": "808900",
+         "field_search": "question",
+         "question": " Làm sao xác nhận tài khoản id apple,và làm sao vào được đường liên kết trong email? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.078352,
+         "id": "763455",
+         "field_search": "question",
+         "question": " Tại sao tôi không đăng nhập được tài khoản ID Apple của máy iPhone 4s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.03078,
+         "id": "763720",
+         "field_search": "question",
+         "question": " Làm sao để xác minh tài khoản ID Apple khi không có gmail ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.548464,
+         "id": "990197",
+         "field_search": "question",
+         "question": "Cho m k hỏi iphone của mk khi lập id app mà mk không thể xác nhận tài khoản là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.289381,
+         "id": "812215",
+         "field_search": "question",
+         "question": "Mình xác minh tài khoản id apple trên 1 cái máy tính bị nhiễm virus có sao không? Virus có xâm nhập qua tài khoản id apple đó và xâm nhập qua iPhone không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.285706,
+         "id": "813385",
+         "field_search": "question",
+         "question": " Làm thế nào để xác minh tài khoản ID Apple vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.04381,
+         "id": "1143528",
+         "field_search": "question",
+         "question": "Mình không thể nhận được mã xác nhận tài khoản Facebook",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.90972,
+         "id": "743346",
+         "field_search": "question",
+         "question": " Tôi bị hack mất ID và mật khẩu Apple còn lại email cũ của tài khoản đó, tôi có thể lấy lại được tài khoản không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.794123,
+         "id": "813539",
+         "field_search": "question",
+         "question": " để xác minh tài khoản ID Apple thì mình phải làm gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.49769,
+         "id": "1023998",
+         "field_search": "question",
+         "question": "Sao id apple của mình cứ ghi k đúng mk nhỉ? Cứ bày mình mở khoá tài khoản. đến khi mở rồi cũng k xác nhận.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.213345,
+         "id": "760197",
+         "field_search": "question",
+         "question": " Em có apple rồi nhưng xác minh kiểu gì ạ em tìm cách xác minh tài khoản id apple mãi mà không tìm ra ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.128769,
+         "id": "915430",
+         "field_search": "question",
+         "question": "em lập tài khoản gmail 1 tháng trước làm id apple song rùi nhưng bây giờ mới xác nhận ko dk ad à . nó hiện lên Không Thể Xác Minh Địa Chỉ Chúng tôi rất tiếc là đã không thể xác minh liên kết bạn đang sử dụng để truy cập trang này. --> bây h em phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.830011,
+         "id": "882732",
+         "field_search": "question",
+         "question": " Cho toi hoi Vào đường xác minh tài khoản id apple như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.794617,
+         "id": "827140",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi tai sao khi tao được apple id xong, nhưng khi em đăng nhập bằng tài khoản đó lại bảo không xác dịnh được. Tại sao vây anh có thể giúp em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.779053,
+         "id": "790270",
+         "field_search": "question",
+         "question": " Sao Gmail của tôi trong máy không nhận được mã xác minh tài khoản App Store? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.709097,
+         "id": "748251",
+         "field_search": "question",
+         "question": " Đăng kí ID Apple không nhận đc email xác nhận thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.380995,
+         "id": "894074",
+         "field_search": "question",
+         "question": " Em làm thế nào để xác minh tài khoản ID APPLE ạ.Em dùng iPhone 3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.347216,
+         "id": "986793",
+         "field_search": "question",
+         "question": "Tại sao em tạo tài khoản ID Apple miễn phí đến bước đang tạo để là không thể tạo mới ID Apple.Kết nối yêu cầu thời gian.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.171202,
+         "id": "794546",
+         "field_search": "question",
+         "question": "Xin chào!Tôi có 1 câu hỏi rất mong được Thế Giới Di Động (TGDD) giải đáp giúp.Vợ tôi có mua 1 điện thoại IP6 plus tại TGDD,và cô ấy có nhờ nhân viên tao dùm tài khoản ID Apple,sau khi tạo thành công thì cô ấy lại không nhớ mật khẩu gmail đã đăng ký để xác minh tài khoản ID Apple.Tôi muốn đăng xuất tài khoản ID Apple hiện tại để tạo tài khoản mới nhưng không được.TGDD vui lòng hướng dẫn cho tôi cách xử lí trong tình huống này.Xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.882427,
+         "id": "764076",
+         "field_search": "question",
+         "question": "  Mình chưa có tài khoản Apple ID quản trị viên có thể cho mình xin tài khoản ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.876402,
+         "id": "919759",
+         "field_search": "question",
+         "question": " anh ơi, tại sao tài khoản itune store của e với tài khoản id apple lại khác nhau vậy anh.     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.730658,
+         "id": "751615",
+         "field_search": "question",
+         "question": " Em tạo được ID Apple rồi nhưng nó phải xác nhận ID apple? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.251268,
+         "id": "839864",
+         "field_search": "question",
+         "question": "cho mình hỏi sao mình xác minh tài khoản id apple trên laptop rồi, nó đã xác minh rồi sao lúc quay trở về app store nó lại nói chưa xác minh????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.19226,
+         "id": "918473",
+         "field_search": "question",
+         "question": "Chào bạnMình đã đăng ký tài khoản ID Apple.Cũng đã vào email đăng ký xác nhận tài khoản, đã báo thành công nhưng vẫn nhận được thông báo tài khoản chưa được xác minh.Nhờ ad hướng dẫn mình cách xử lý.Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.131643,
+         "id": "778181",
+         "field_search": "question",
+         "question": " Tôi muốn tạo tài khoản ID Apple nhưng khong biết làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.949318,
+         "id": "1135011",
+         "field_search": "question",
+         "question": "Tại sao xác minh id Apple không được gửi hoài mà chả xác minh được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.887562,
+         "id": "843507",
+         "field_search": "question",
+         "question": " Tại sao em tạo được tài khoản id apple mà khi đăng nhập vào để tải game thì không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.877617,
+         "id": "785468",
+         "field_search": "question",
+         "question": " Tại sao khi em lập tài khoản id apple nó lại ghi  máy không đủ điều kiện để lập ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.849472,
+         "id": "858313",
+         "field_search": "question",
+         "question": "Cho em hỏi đăng xuất tài khoản id Apple cũ và đăng nhập tài khoản id apple mới mà không gỡ cài đặt các ứng dụng lúc trước tải bằng tài khoản của thì có thể tải ứng dụng bằng tài khoản mới được không ad, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.65217,
+         "id": "799130",
+         "field_search": "question",
+         "question": " Sao tôi không nhận được mã xác nhận của ID Apple của tôi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.561401,
+         "id": "796196",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình muốn xác minh tài khoản id apple nhưng khi vào mail thì hiện lên như thế này.mình phải làm sao?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.145199,
+         "id": "1159800",
+         "field_search": "question",
+         "question": "tại sao sau khi đăng kí được tài khoản ID Apple rồi mà lúc đăng nhập vào AppStore lại không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.86156,
+         "id": "853566",
+         "field_search": "question",
+         "question": "Quản trị viên ơi cho e hỏi: e đã tạo xong tài khoản ID APPLE rồi,đã xác nhận đồ xog rồi và có thể sử dụng nhưng khi em nhập vào để tải app thì nó cứ hiện là :\" ID Apple này chưa được sử dụng trước đây ở iTunes Store.Chạm vào xem xét để đăng nhập, sau đó xem xét thông tin tài khoản của bạn.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.76083,
+         "id": "743934",
+         "field_search": "question",
+         "question": "Tôi bị treo táo iPhone 4 nhưng tôi đã quên tài khoản ID Apple. Khi chạy chương trình lại thì không mở được máy vì không nhớ tài khoản iCloud.Cho hỏi bây giờ tôi phải làm sao? Mong anh chị hướng dẫn giúp tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.538605,
+         "id": "950077",
+         "field_search": "question",
+         "question": " Làm cách nào để vào để vào đường liên kết email của tôi để xác minh tài khoản apple ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.464622,
+         "id": "919801",
+         "field_search": "question",
+         "question": "  làm sao biết sdt 0898800064 đã dùng để xác nhận tài khoản nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.378447,
+         "id": "873506",
+         "field_search": "question",
+         "question": "tôi không vào được icloud do không nhớ mật khẩu, sau khi không nhớ tôi ấn mấy lần mật khẩu nhưng không đúng, máy báo tài khoản của tôi bị khóa. sau đó tôi vào máy tính đặt lại mật khẩu gmail và vào lại. nhung máy chỉ xác nhận là tên ID Apple đúng mà không vào được icloud, máy chủ bảo đang xác lập lại, có cách gi bảo tôi với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.21891,
+         "id": "822655",
+         "field_search": "question",
+         "question": " Nếu phương thức thanh toán trên tài khoản id Apple không có chữ không thì làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.16964,
+         "id": "795068",
+         "field_search": "question",
+         "question": "Add ơi cho e hỏi sao e đang kí tai khoản id apple thành công mà e chưa xác minh tài khoản sau khi e vào gửi email xác minh nhưng nó khong gui link lai de e xac minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14262,
+         "id": "813856",
+         "field_search": "question",
+         "question": "Muốn xác minh tài khoản ID ntn hả anh vì em ko biết xác minh cái tài khoản ID ntn ho nên em muốn gửi lời để hỏi công ty mình mong các anh có thể giải mã hộ em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.951689,
+         "id": "994115",
+         "field_search": "question",
+         "question": " Thế giới tạo tài khoản id apple dùm em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.900513,
+         "id": "789549",
+         "field_search": "question",
+         "question": " Tại sao em đăng ký apple id rồi xác minh rồi luôn mà sao em tải game không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.727468,
+         "id": "843683",
+         "field_search": "question",
+         "question": " Tài khoản ID Apple bị vô hiệu hoá rồi giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.701204,
+         "id": "995058",
+         "field_search": "question",
+         "question": " Khi đăng kí tài khoản id Apple thì bị như thế thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.629257,
+         "id": "792819",
+         "field_search": "question",
+         "question": " Co tài khoản ID Apple mà vẫn không tải được game ứng dụng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.583105,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.569672,
+         "id": "898375",
+         "field_search": "question",
+         "question": "Hi. Cho em hỏi tại sao em tạo tài khoản ID apple đăng nhập được vào app store và itunes mà lại không đăng nhập được icloud?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.554888,
+         "id": "1007571",
+         "field_search": "question",
+         "question": "Mình tạo tài khoản ID Apple trên Iphon 6 nhưng mấy ngày nay mạng báo\" Chúng tôi đang gặp sự cố, vui lòng thử lại sau\" là sao vậy ah. có thể cho m biết được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.46415,
+         "id": "761057",
+         "field_search": "question",
+         "question": "Mật khẩu ID Apple của em có người khác sử dụng hay sao mà giờ em không đăng nhập vào đuợc anh chị có thể chi cho em đăng xuất tài khoản và cho em 1 ID Apple khác được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.40035,
+         "id": "792372",
+         "field_search": "question",
+         "question": " Tôi mua máy cũ không biết tài khoản và mật khẩu ID apple bây giờ muốn tạo mới của mình thì làm như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.35979,
+         "id": "988228",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể vào được mục iCloud của tôi tôi mua máy cũ và có một tài khoản iCloud của người khác? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.351849,
+         "id": "895159",
+         "field_search": "question",
+         "question": "Tôi, Hà Thạch Thủy Thương đã từng mua 1 ipad air tại TGDD ở Tam Kỳ, h tôi cài đặt lại cho ipad của mình có hỏi khóa kích hoạt (nhập ID Apple và mậ khẩu) nhưng tôi nhập theo ID của tôi lại thông báo \"Không thể sử dụng tài khoản này để mở khóa ipad. Cho tôi hỏi: khi tôi mua máy, nhân viên ở đây đã cài đặt tài khoản nào cho máy tôi. Mong trả lời sớm để tôi có thể tiếp tục làm việc. Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.25438,
+         "id": "997502",
+         "field_search": "question",
+         "question": " Em muốn xin lại mã xác thực iDApple để xác nhận tài khoản iCloud ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.167942,
+         "id": "958936",
+         "field_search": "question",
+         "question": " Mình đã đăng ký tài khoản Apple nhưng không thấy có tin nhắn xác minh tài khoản vào email vậy mình phải làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.150164,
+         "id": "753755",
+         "field_search": "question",
+         "question": "Mình dùng địa chỉ Gmail để lập id apple máy báo về  thành công nhưng sao mình ko nhận được địa chỉ xác minh, bạn có thể giúp mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.07729,
+         "id": "1005470",
+         "field_search": "question",
+         "question": "tại sao e nhập mã xác minh id apple xong lại bảo mà không đúng là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.059448,
+         "id": "811577",
+         "field_search": "question",
+         "question": " Mã quà tặng là gì trong lúc lập tài khoản ID Apple. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.048122,
+         "id": "756850",
+         "field_search": "question",
+         "question": " Làm thế nào để lập tài khoản ID Apple bằng iPhone? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.037663,
+         "id": "736174",
+         "field_search": "question",
+         "question": "Em muốn tạo ID Apple nhưng khi tạo được rồi thì không có mã để xác nhận, cho em hỏi làm thế nào để lấy được mã xác nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.875256,
+         "id": "838513",
+         "field_search": "question",
+         "question": "Ad cho em hỏi? tài khoản id apple của e mấy hôm trước vẫn dùng bình thường, tự nhiên hnay e cập nhập thấy báo tải khoản id apple đã bị khóa. e chọn đặt lại thì thấy báo tải khoản gmail của e không phải là id apple nữa là sao ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.837164,
+         "id": "1155943",
+         "field_search": "question",
+         "question": "Tạo Tài khoản ID Apple nhanh và hướng dẫn dùm với admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.801737,
+         "id": "858081",
+         "field_search": "question",
+         "question": "Cho hỏi cái tài khoản id apple do tgdd lập giờ ko nhớ mật khẩu thì lấy lại làm sao. Tài khoản là htkt.tdt9084@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.73337,
+         "id": "903770",
+         "field_search": "question",
+         "question": "Tài khoản id apple của mình bị khóa giờ mình chỉ biết mật khẩu thôi mà không nhớ id và câu hỏi bảo mật thì có thể lấy lại được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.71291,
+         "id": "750675",
+         "field_search": "question",
+         "question": " Máy em yêu cầu xác minh tài khoản iCloud. Nhưng tài khoản đó không tồn tại. Bây giờ em muốn thoát ra phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.690592,
+         "id": "1161737",
+         "field_search": "question",
+         "question": "Khi tôi đăng nhập tài khoản Facebook trên điện thoại ,( được đăng ký bằng số điện thoại, và tôi chưa sử dụng tài khoản này trên bất cứ điện thoại nào khác ) thì hệ thống thông báo rằng :\" Chưa xác thực danh tính . Chúng tôi không thể xác thực danh tính của bạn. Vui lòng thử lại sau.\" Sự việc xuất hiện bất ngờ sau 1 ngày oi bức. Tôi chẳng thể làm gì tiếp theo, để có thể sử dụng tài khoản. Trong khi đó, tài khoản đăng ký bằng số sim của tôi . Vậy tôi phải làm gì ở trường hợp nay? Hi vọng nhận được sự hỗ trợ của các bạn. Chân thành cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.640137,
+         "id": "858158",
+         "field_search": "question",
+         "question": "mình có con 4s, có tài tài khoản icloud, nhưng ko nhớ mk, và tài khoản giờ cũng bị out ra khỏi mail rùi, bây giờ thi thoảng máy yêu cầu xác nhận id icloud,làm sao để tắt được cái thông báo yêu cầu đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.54406,
+         "id": "946095",
+         "field_search": "question",
+         "question": " tại sao không thể đồng bộ được tài khoản microsoft. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.49352,
+         "id": "792416",
+         "field_search": "question",
+         "question": "e restore máy rồi nhưng quên tài khoản ID apple active máy, e chỉ có tài khoản icloud thôi, co cách nào xóa tài khoản active đó ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.47487,
+         "id": "790269",
+         "field_search": "question",
+         "question": " Sao gmail của tôi trong máy không nhận được mã xác minh tại toàn app stois ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.452864,
+         "id": "860277",
+         "field_search": "question",
+         "question": " tgdd có thễ tao giúp mình 1 tài khoản ID apple tai Australia được không ak???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.269459,
+         "id": "827161",
+         "field_search": "question",
+         "question": " cho e hỏi sau khi em đặt lại đt iphone4 mà e không có tài khoản ID Apple phải làm sao a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.203869,
+         "id": "1164932",
+         "field_search": "question",
+         "question": "bây giờ mình không nhận được mã xác thực 2 yếu tố thì phải làm sao đề vào tài khoản icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.159338,
+         "id": "923207",
+         "field_search": "question",
+         "question": "tài khoản gmail mình đăng kí trên ID apple mình lỡ tay xoá không khôi phục lại gmail được thì tài khoản icould có ảnh hưởng gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.154696,
+         "id": "811166",
+         "field_search": "question",
+         "question": "Em mới chạy lại máy, không được sao lưu mà có tài khoản id rồi đăng nhập vào nó bắt xác thực bằng 3 câu hỏi mà em lại quên , giờ làm sao để xác thực được ID đó ạ ? Gmail nó gửi máy cái điều khoản không thôi :( Iphone.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.141705,
+         "id": "828970",
+         "field_search": "question",
+         "question": "Hôm qua Em xác minh tài khoản của em roi email xác minh đã được dang ki rồi nhưng họ yêu cầu là vào đường liên kết trong Email xác minh để kết thúc việc tạo ID Apple của bạn em gửi lại email xác nhận rồi nhưng họ lại ghi là email xác minh của bạn sẽ được gửi lạinhưng không được co the giúp em duoc khong a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.133194,
+         "id": "988011",
+         "field_search": "question",
+         "question": "Tại sao ko thể nhận thư mới khi đăng nhập vào gmail trên iphone 6? Máy thông báo lỗi \"máy chủ thư \"imap.gmail.com\" không phản hồi. Xác minh rằng bạn đã nhập thông tin tài khoản chính xác trong cài đặt Mail\" là sao và cách khắc phục nó như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.127796,
+         "id": "747135",
+         "field_search": "question",
+         "question": " AD tạo dùm mình 1 cái  tài khoản Apple ID dùm !!! thank ad nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.065405,
+         "id": "821786",
+         "field_search": "question",
+         "question": " Tại sao tài khoản Zalo .01225964xxx1 của tôi không đăng nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.005909,
+         "id": "918931",
+         "field_search": "question",
+         "question": " Cho em hỏi để mở khóa tài khoản ID APPLE làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.932167,
+         "id": "904027",
+         "field_search": "question",
+         "question": "Bây giờ ID mình bị khóa vì lý do bảo mật. Sau đó mình chọn mở khóa tài khoản. Rồi nhập ID \"để lấy lại mật khẩu, mở khóa cho tài khoản, khôi phục lại ID apple\" nhưng nó lại thông báo là mail đó ko phải là ID apple. Vậy làm sao mình lấy lại được ID apple khi nó thông báo mail đó ko phải là ID apple. Mong các bạn giúp đỡ! hic hic",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.897795,
+         "id": "1000996",
+         "field_search": "question",
+         "question": " Tại sao tài khoản iCloud của mình chưa xác minh mà lại như thế này?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.88685,
+         "id": "1157124",
+         "field_search": "question",
+         "question": "Chào admin tài khoản webchat vừa mới tạo bị khóa yêu cầu xác minh , cần tài khoản xác minh sủ dụng trên 6 tháng bên mình có thể hỗ trợ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.877481,
+         "id": "1015721",
+         "field_search": "question",
+         "question": "Anh ơi em đung iPhone 5 mà em từ trước giờ em ko có tài khoản id nay em lập tài khoản mà phải xác minh nhưng em lo bít xác minh ở đau và vào đâu để xác minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.746288,
+         "id": "1167911",
+         "field_search": "question",
+         "question": "Tại sao tài khoản fb của tôi không được cập nhật bản mới nhất mà các tài khoản khác đã được cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.733414,
+         "id": "846108",
+         "field_search": "question",
+         "question": " A chỉ giúp e Tạo tài khoản ID Apple mới với e mua máy cũ nên k biết phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.684738,
+         "id": "779596",
+         "field_search": "question",
+         "question": " sao mk lập tài khoản ID mà cứ báo  vào đường dây xác minh email  vậy ạ . làm cách nào đây ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.674416,
+         "id": "810344",
+         "field_search": "question",
+         "question": "iphone 3 có thể tải trò chơi hay không? đã có tài khoản id apple nhưng khi tải nó đề là cần phải nâng cấp lên ios mới nhất, vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.674068,
+         "id": "837794",
+         "field_search": "question",
+         "question": "ID apple của mình bị vô hiệu hóa , vào iforgot để mở khóa thì báo là tài khoản không phải là Id Apple nhưng mình nhập đúng và mở gmail lên vẫn còn mấy mail của Apple từ lúc sử dụng. Có thể tư vấn giúp mình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.64492,
+         "id": "811325",
+         "field_search": "question",
+         "question": " Mình tạo tài khoản ID Apple để tải ứng dụng tốn bao nhiêu vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.629646,
+         "id": "1143712",
+         "field_search": "question",
+         "question": "Cho em hỏi khi nhân viên ở TGDĐ tạo tài khoản ID Apple cho mình là *****@gmail.com thì địa chỉ Gmail đó có tồn tại để sử dụng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.623348,
+         "id": "1007565",
+         "field_search": "question",
+         "question": "Tạo tài khoản ID Apple bị lỗi như vầy thì khắc phục ntn vậy ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.623348,
+         "id": "903283",
+         "field_search": "question",
+         "question": " Làm cách nào để biết iPhone đã đăng nhập bao nhiều tài khoản id apple ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.467411,
+         "id": "907929",
+         "field_search": "question",
+         "question": " Điện thoại iphone 4s của e quên tài khoản ID apple giúp e tạo lại đi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.452541,
+         "id": "746615",
+         "field_search": "question",
+         "question": " Tài khoản của tôi đã không nhớ rồi t phải làm gì để tạo tài khoản để tải game trong cửa hàng apple iphone 3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.414738,
+         "id": "991634",
+         "field_search": "question",
+         "question": " Cho em hỏi là em đã đăng nhập tài khoản ID Apple mới rồi khi cập nhật ứng dụng lại còn tài khoản cũ á? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.409071,
+         "id": "780944",
+         "field_search": "question",
+         "question": "Khi tôi cài đặt ios 9.2.1 trong khi trả lời câu hỏi xác minh id apple thì sai hai lần lúc đó tôi huỷ xác minh, làm thế có bị hư gì không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.398628,
+         "id": "854941",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi cái ipap của e để là xác nhận id apple cũ. Ad có thể bẽ khóa hay là chạy lại chương trình đc ko ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

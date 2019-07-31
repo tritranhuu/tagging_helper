@@ -1,0 +1,801 @@
+{
+   "id_query": "1139133",
+   "total": 29720,
+   "total_current": 100,
+   "max_score": 51.570377,
+   "origin_question": "Máy iphone 5s của mình bị dính nước xong nó thế này sửa thế nào ạ?",
+   "hits": [
+      {
+         "score": 26.294443,
+         "id": "796573",
+         "field_search": "question",
+         "question": " Sạc iphone 5s của mình bị vô nước thi phải sử thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.11416,
+         "id": "803727",
+         "field_search": "question",
+         "question": "admin cho em hỏi tí với. iPhone của em khi nào restore xong nó cũng không dính Activation Lock,cũng chả có màn hình bắt nhập tài khoản và mật khẩu iCloud, thế sao máy nhiều người bị dính thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.622393,
+         "id": "1166259",
+         "field_search": "question",
+         "question": "Cho mình hỏi macbook air bị đổ nước vào sửa được không ạ đồ sạc của mình cũng bị dính nước luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.500883,
+         "id": "1156393",
+         "field_search": "question",
+         "question": "Huawei nova 3e của em bị vô nước xong không lên được nữa, có cách nào sửa nó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.316296,
+         "id": "884680",
+         "field_search": "question",
+         "question": "Máy e bị rơi đập xong bị vào nước nhưng e có kính cường lực lúc bật lên thì bị vệt xanh là cay xong sau đó tắt máy đi bật lên thì bình thường vòng 5s lại bị e đã tắt nguồn đi bây giờ sửa ở thế giới di động phí sửa là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.301891,
+         "id": "772492",
+         "field_search": "question",
+         "question": " iPhone 5S bị dính lỗi iCloud có sửa được không QTV? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.167322,
+         "id": "1134957",
+         "field_search": "question",
+         "question": "  Cho hỏi máy htc one me của e cứ báo lỗi như thế này là bị gì và sửa như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.461666,
+         "id": "884265",
+         "field_search": "question",
+         "question": "Mình muốn tải Cydia.vn nhưng lại bị lỗi như thế này thì phải làm như thế nào để khắc phục được ạ. Mình dùng iphone 5s..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.19211,
+         "id": "942968",
+         "field_search": "question",
+         "question": "Máy e bị thế này vào facebook tự nhiên nó k chạy được bản tin sau đó tầm 30s thì nó hiện lên facebook không phản hồi sửa thế nào ạ BAVAPEN B505",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.096083,
+         "id": "797841",
+         "field_search": "question",
+         "question": " Bạn ơi mình có iPhone 5s , mình bh muốn restore lại thì làm thế nào và restore xong thì active như thế nào ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.901415,
+         "id": "759662",
+         "field_search": "question",
+         "question": " Laptop của em bị dính nước vào thì làm sao ạ ??  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.822292,
+         "id": "801708",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em có 1 máy iphone 5s bị thế này. giờ em ko có tài khoản id apple thìcó sửa được không.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.191004,
+         "id": "813984",
+         "field_search": "question",
+         "question": " QQTV cho em hỏi pin của iPhone 5s của e như thế này có bị hết nhanh không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.063112,
+         "id": "756518",
+         "field_search": "question",
+         "question": " Thế giới di động có nhận sửa điện thoại không? iPhone 5 của mình nó bị hở màn hình. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.039019,
+         "id": "871256",
+         "field_search": "question",
+         "question": "Xóa tài khoản icloud trên iphone 5s?Em được người chú tặng chiếc iphone 5s mà còn bị dính tài khoản icloud thì em phải làm thế nào để bỏ được tài khoản ạ? Ở thegioididong có hỗ trợ không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.872307,
+         "id": "852840",
+         "field_search": "question",
+         "question": "Cho mình hỏi,iphone 5s của mình bị vào nước, pin hỏng thay pin xong điện thoại vẫn nhận sạc nhưng không lên phần trăm pin có phải bị hỏng ic sạc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.711666,
+         "id": "995288",
+         "field_search": "question",
+         "question": "Mình mới mua lại iphone 6 cũ TGDĐ, nhưng khi về nhập Icloud thì lại hỏi như thế này, liệu có phải máy vẫn còn dính Icloud của chủ cũ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.38027,
+         "id": "777780",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình bị mất iphone 5s đã khóa máy bằng icloud nhưng khi lấy lại được nó lại yêu cầu mở khóa itunes trên máy tính là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.35238,
+         "id": "1020779",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình là ip7 dùng thỉnh thoảng loa trong bị zè khi nghe gọi, và mic chập chờn thì lỗi máy này sửa thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.24893,
+         "id": "755019",
+         "field_search": "question",
+         "question": "Cho em hỏi, e sửa dụng iphone 5s khi sửa dụng tự nhiên mở máy không được, tắt nguồn cũng không được, như vậy là máy bị gì, và khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.1866,
+         "id": "815439",
+         "field_search": "question",
+         "question": "  Ad cho em hỏi máy   iPhone 5s kieu may ME305LLA là của nước nào sản xuất vậy ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.14194,
+         "id": "843476",
+         "field_search": "question",
+         "question": "QTV cho em hỏi con iPhone 6s của em nó bị như thế này thì sửa hết bao nhiêu tiền ạ,cảm ứng bình thường chỉ bị đổ mực vs bung nắp như v thoi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.126625,
+         "id": "1141456",
+         "field_search": "question",
+         "question": "TGGĐ cho e hỏi Máy e mua lại bị thế này sửa đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.066797,
+         "id": "916562",
+         "field_search": "question",
+         "question": " iphone 5s còn 20 pin cắm sạc 1 tiếng không nên màn hình.các bác cho e hỏi nó hỏng cái gì vậy ạ và sửa như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.032251,
+         "id": "793014",
+         "field_search": "question",
+         "question": " Máy mình là 5 hay 5s độ lên ạh.và mình cài bảo mật vân tay nó lại như thế này là bị làm sao ạh   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.001606,
+         "id": "780626",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 5s global là gì? Ý nhĩa có nó là như thế nào ạ? cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.924002,
+         "id": "1020009",
+         "field_search": "question",
+         "question": " cho em hỏi word10 máy em bị lỗi sửa đổi này không được phép vì lựa chọn bị khóa khắc phục như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.922703,
+         "id": "865134",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 5S của mình mua ở TGDĐ, còn thời gian bảo hành. Hôm trước mình vô tình bị cấn góc điện thoại làm viền của Iphone bị móp vào một xíu. Trường hợp trên có được bảo hành không? Nếu không thì phí sửa chữa thay thế như thế nào? Mong TGDĐ trả lời giúp nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.914991,
+         "id": "746220",
+         "field_search": "question",
+         "question": "chào adminMình có một máy iphone 5s bi dính active icloud.Cho mình hỏi tgdđ, có sửa được không và chi phí là bao nhieu.Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.891537,
+         "id": "794156",
+         "field_search": "question",
+         "question": "Tại sao iphone lại khôg cho thay đổi trạng thái truy cập ảnh của các ứng dụng? Máy em bị thế này thì phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.887596,
+         "id": "782251",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5s có kiểu máy là MF353VNA là của nước nào vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.860485,
+         "id": "819277",
+         "field_search": "question",
+         "question": " QTV cho em hỏi pin iphone 5s của em như thế này có ổn không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.827978,
+         "id": "1005987",
+         "field_search": "question",
+         "question": "Ad ơi em dùng máy mobiitar zumbos2 lau máy lỡ bị nước nhỏ vào lo h nó bé tí lm thế nào bh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.748405,
+         "id": "936240",
+         "field_search": "question",
+         "question": "  máy e bị như thế này thì phải làm như thế nào ạ ..?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.738369,
+         "id": "835561",
+         "field_search": "question",
+         "question": " Mình bị thế này là như thế nào QTV. Mình không bật chế độ máy bay.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.72859,
+         "id": "766497",
+         "field_search": "question",
+         "question": " Camera máy em cả camera thường lần 360 khi chụp xong đều bị lưu ngang thế này, có các nào chỉnh lại không ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.717213,
+         "id": "937394",
+         "field_search": "question",
+         "question": " Mình đang bật kapersky thì nó tự tắt làm thế nàm để sửa lỗi này ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.715178,
+         "id": "819720",
+         "field_search": "question",
+         "question": "Laptop em bị dính nước một tí ở bàn phím, máy vẫn bật được nhưng bàn phím không đánh được, cổng USB và chỗ cắm dây mạng không hoạt động. Cho em hỏi như thế có sao không , nếu có phí sửa chữa là bao nhiêu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.703888,
+         "id": "975862",
+         "field_search": "question",
+         "question": " LÀM THỂ NÀO ĐỂ BIẾT KHI MANG MÁY IPHONE ĐI SỬA BỊ THAY THẾ LINH KIỆN ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55706,
+         "id": "1159552",
+         "field_search": "question",
+         "question": "Máy của mình bị như thế này phải làm sao ạ,mình sài 8 plus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.552572,
+         "id": "998999",
+         "field_search": "question",
+         "question": " admin cho lỗi này thì sữa như thế nào ạ, sau khi bị mình đã reset lại máy nhưng vẫn bị như thế này mong ad giúp   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.518755,
+         "id": "1152403",
+         "field_search": "question",
+         "question": "Máy tính của em bị như vậy ạ . Thế mình có thể sửa chữa được k ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.50447,
+         "id": "1142034",
+         "field_search": "question",
+         "question": " mình mua phải iphone cũ dính icl thì có sửa được k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.499746,
+         "id": "745556",
+         "field_search": "question",
+         "question": " E ko tìm thấy kiểu máy này của nước nào cả ad ak. Kiểu máy IPA    Của iphone ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.446178,
+         "id": "1020201",
+         "field_search": "question",
+         "question": "Màn hình của em bị vạch kẻ màu cuối màn hình như thế này  thì phải sửa tn ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.4398,
+         "id": "998943",
+         "field_search": "question",
+         "question": "Cho em hỏi, iPhone của em bị sọc, cách sửa lỗi thế nào? Xin trả lời cho em biết với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.397587,
+         "id": "1024456",
+         "field_search": "question",
+         "question": "ad ơi, làm thế nào để bỏ cái phần mờ mờ này đi ạ? e thấy hồi trước em để nền trắng vẫn đc, sau đấy e đổi nền khác xong đặt lại nền trắng nó bị thế này:(( ad giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.359142,
+         "id": "770487",
+         "field_search": "question",
+         "question": "  Ad cho mình hỏi mình muốn kiểm tra con iPhone 5S của mình bao nhiêu Gb phải làm thế nào ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.28766,
+         "id": "747144",
+         "field_search": "question",
+         "question": " Số imel của iPhone 5 chính hãng như thế nào và làm thế nào để biết máy của mình đã bị tháo ra hay chưa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.272266,
+         "id": "1166083",
+         "field_search": "question",
+         "question": "Máy ss a7 của em tự nhiên dạo này lại hay bị sập nguồn, máy đang bật mà để chờ tầm 2-3p là lại sập nguồn, hiện chữ \" android đang khởi động, đang tối ưu hóa ứng dụng 1 trong tổng số 1\" xong cứ như thế tầm 20p mới lên, xong nếu mà k động đến nó lại sập xong nhuưa thế.... cho em hỏi như thế là bị sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.260992,
+         "id": "997862",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi số seri iphone 5s là C39LQG10FF9R là của nước nào sản xuất vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.230799,
+         "id": "1007120",
+         "field_search": "question",
+         "question": "khi root thất bại màn hình bên máy mình hiện như thế này,bây giờ làm thế nào để khắc phục hay sửa chữa v ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.160547,
+         "id": "877867",
+         "field_search": "question",
+         "question": "Tôi đã tải về ứng dụng typiora để thiết kế cho mình một bàn phím đẹp nhưng thiết kế xong thì không biết làm thế nào để sử dụng nó ad chỉ với máy toi dùng là iPhone 5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.111439,
+         "id": "868921",
+         "field_search": "question",
+         "question": " cách kiểm tra máy iphone dính icloud ẩn như thế nào? và icloud ẩn có hại gì không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.10389,
+         "id": "1018688",
+         "field_search": "question",
+         "question": "Hiện giá thành của iphone 5s là thế nào vậy ban. ?????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.082062,
+         "id": "1013254",
+         "field_search": "question",
+         "question": " Sao máy e khi tải xong thì nó như z ạ có cách nào sửa ko ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.071463,
+         "id": "1147177",
+         "field_search": "question",
+         "question": " cho e hỏi ip của e tự nhiên bị loạn cảm ứng là bị sao vậy ạ, e k để dính nước ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.066189,
+         "id": "780420",
+         "field_search": "question",
+         "question": " Chi ơi cho em hỏi máy 5s của em kiểu máy ME432LPA là của nước nào vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.058228,
+         "id": "796256",
+         "field_search": "question",
+         "question": " Máy đổi trả của bên mình có khi nào bị dính icould k ak??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.037851,
+         "id": "774648",
+         "field_search": "question",
+         "question": " Mình mới mua iphone 5s ở thegioididong nhưng bây giớ máy bị loạn cảm ứng máy cứ nhảy loạn xạ thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.019825,
+         "id": "774933",
+         "field_search": "question",
+         "question": " Bên mình có nhận sửa iphone bị rơi vào nước không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.99088,
+         "id": "872000",
+         "field_search": "question",
+         "question": " Nick Zalo của em bị như thế này làm sao để sửa ad. Em cám ơn!   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.96265,
+         "id": "909206",
+         "field_search": "question",
+         "question": " máy em nó bị thế này là bị sao ạ. ai pk giúp e với.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.953728,
+         "id": "1151057",
+         "field_search": "question",
+         "question": "Ad cho e hỏi iphone model “MKU92KH/A “ là của nước nào vậy ạ? Và sao e chụp ảnh đã cài nút silent nó vẫn lên tiếng ạ. E mún tắt tiếng thì như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.935886,
+         "id": "993323",
+         "field_search": "question",
+         "question": "máy tính của em bị hư ổ đĩa vừa mới sửa xong, về để đĩa vào thì lại tiếp tục không nhận được, vậy thì rốt cuộc máy bị gì thế?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.926666,
+         "id": "769082",
+         "field_search": "question",
+         "question": " Màn hình của em dính một ít dầu mỡ nó có bị gì không anhiphone 5s nha anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.880116,
+         "id": "756010",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iPhone 5s mã MF354PAA là của nước nào vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.833166,
+         "id": "935891",
+         "field_search": "question",
+         "question": "Chào bạn! Cho mình hỏi: Minh có Iphone 5S giờ máy báo: Máy bị ẩn Icloud cũ của tôi! Tôi nâng cấp phần mềm! Máy bạn dùng icloud ẩn của tôi. Cho mình hỏi giờ mình phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.826424,
+         "id": "874016",
+         "field_search": "question",
+         "question": " Cho mình hỏi iphone kiểu máy MKQR2GHA là của nước nào vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.815947,
+         "id": "860822",
+         "field_search": "question",
+         "question": " Mesenger bữa h mình update mấy ngày liền chưa xong nó cứ kêu đang chờ là thế nào ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.805935,
+         "id": "779833",
+         "field_search": "question",
+         "question": "Điện thoại iphone 5 của mình đi mang ra quán chạy lại phầm mềm chạy xong giờ mình quên tài khoản ID giờ phải làm như thế nào? Nếu sửa có phải động vào phần cứng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.78721,
+         "id": "1013412",
+         "field_search": "question",
+         "question": "Máy mình dùng là samsung j7 prime. Bị rơi vào nước. Mình sấy xong. Mở lên vẫn hoạt động bt. Nhưng vệt nước đọng trong màn hình. Và mình điều chỉnh độ sáng k đc. Pin tiêu hao rất nhanh. Như thế thì bị làm sao v ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.734356,
+         "id": "871914",
+         "field_search": "question",
+         "question": " Cho em hỏi USB của em nó bị dính Virus vậy có cách nào để cứu nó không ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.724318,
+         "id": "1156162",
+         "field_search": "question",
+         "question": "Điện thoại Samsunggalaxy A7 của mình bị rơi xuống nước, vậy khi mang đến cửa hàng Thế Giới Di Động có được sửa chữa khôgn vậy? Khi mang đi sửa có cần mang giấy bảo hành không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.723686,
+         "id": "791819",
+         "field_search": "question",
+         "question": " iPhone 5s của em bị vô hiệu hoá kết nối itunes vì nhập sai mật khẩu nhiều lần, bây giờ làm thế nào để mở được máy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.689098,
+         "id": "995295",
+         "field_search": "question",
+         "question": "iPhone 6 của em quay chậm bị nhiễu và giật. Bây giờ làm thế nào để khắc phục nó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.662012,
+         "id": "764939",
+         "field_search": "question",
+         "question": "Máy mình là iPhone 5S màu vàng mà bị dính iCloud mình có hỏi cửa hàng này nọ họ nói là cứ dùng đến khi nó trục trặc thì tính sau. mà bây h nó cứ gửi liên tục yêu cầu đăng nhập thì mình phải làm sao để tắt thông báo đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.64889,
+         "id": "770669",
+         "field_search": "question",
+         "question": " Làm như thế nào để chuyển danh bạ dính iCloud trên iPhone 4 chạy iOS 6.1.3 tới iPhone 6S mới mua được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.648497,
+         "id": "949526",
+         "field_search": "question",
+         "question": "Em mua máy này ở siêu thị mình dc 1 tháng bây giờ mở máy lên bị treo như thế này là bị thế nào ạ Máy Laptop Asus A540LA i3 5005U/4GB/500GB/Win10​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.635967,
+         "id": "1140967",
+         "field_search": "question",
+         "question": "Bên mình có mua lại máy iPhone 5s ko ah . Giá mua lại thế nào ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.594368,
+         "id": "977032",
+         "field_search": "question",
+         "question": " iphone 5s bị vô hiệu hóa giờ phải làm như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.568014,
+         "id": "772668",
+         "field_search": "question",
+         "question": "Anh or chị cho em hỏi hiện tại em đang dùng iPhone 5S lock nhật em không dùng được sim điện thoại tại nước mình bây giờ em phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.534681,
+         "id": "1018227",
+         "field_search": "question",
+         "question": "Mình bị như thế này k biết cách khắc phục như thế nào. Tại chiều nay máy tự cập nhật HTC Input rồi thì vào như thế này. Vào setting coi thì đã tắt tiên đoán từ rồi mà vẫn như thế này là bị sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.491907,
+         "id": "999586",
+         "field_search": "question",
+         "question": "Em dùng 7plus trước bị nước vô nhiều phải mang ra tiệm tháo ra xong bây giờ hỏng tính năng 3d touch là bị làm sao ạ. Bật 3d touch xong nhueng không dùng được. Ad cho em hỏi là nó hỏng phần nào ở phần cứng ạ và sửa mấy bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.484838,
+         "id": "890293",
+         "field_search": "question",
+         "question": "Mình để rơi cục sạc iPhone 5s vào nước, khi cắm điện chỉ hiện thông báo sạc rồi ngắt điện. Vậy cục sạc của mình có thể sửa được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.469416,
+         "id": "1024299",
+         "field_search": "question",
+         "question": "Điện thoại của mình là HTC M7 bị lỗi  không thể thực hiện cuộc gọi sau khi cài đặt bản cập nhật Service Pack của HTC từ Google Play Store. Thì phải sửa lỗi này như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.432707,
+         "id": "806640",
+         "field_search": "question",
+         "question": " Ad ơi máy em iphone 5s mới mua trả góp , giờ nó bị lỗi phần cứng có được sửa hay đổi máy k ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.425514,
+         "id": "806479",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy iphone mình mới mua có ký hiệu la CNA. Là của nước nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.390799,
+         "id": "1000981",
+         "field_search": "question",
+         "question": " Instgram của mình bị như thế này thì phải làm sao ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.353788,
+         "id": "816845",
+         "field_search": "question",
+         "question": "Cho em hỏi, em có cái iphone 5s của dì bên úc gửi về. Sài rất tốt nhưng giờ nó bị hư màn hình, tối đen không mở lên được. Em có thể đem đến Thế giới di động sửa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.345985,
+         "id": "739750",
+         "field_search": "question",
+         "question": " Ad ơi.e bị mất trộm chiếc iphone 5s làm thế nào để tìm lai đk không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.327816,
+         "id": "825395",
+         "field_search": "question",
+         "question": "em muốn chuyển nhạc đã tải trên app zing mp3 vào phần nhạc của iphone thì phải làm thế nào ạ ?máy của e là iphone 5s ios 9.3.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30631,
+         "id": "834493",
+         "field_search": "question",
+         "question": " giúp với ạ. mỗi lần dùng messenger đều như này. làm thế nào để sửa ạ. mấy bạn nào biết giúp mình với được không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.299374,
+         "id": "1015547",
+         "field_search": "question",
+         "question": "Em có 1 con SONY M2 bị rớt nước. Cho e hoỉ là bên mình có sửa chửa mặt hàng này không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.28035,
+         "id": "814154",
+         "field_search": "question",
+         "question": " iPhone 4 của mình bị rơi mở lên thì nó chỉ lên đến phần có quả táo giờ phải làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.264095,
+         "id": "793226",
+         "field_search": "question",
+         "question": "Em mua iphone 5s lúc hè. Nhưng vừa mới đây nó lại bị kẻ sọc nửa phần màn hình dưới. Em không biết tại sao lại vậy. Thế giới di động lại xa nhà em. Em không đi sửa được. Tình trạng này em dùng hết tháng đến 26-3 nghỉ mới đi sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.264095,
+         "id": "793225",
+         "field_search": "question",
+         "question": "Em mua iphone 5s lúc hè. Nhưng vừa mới đây nó lại bị kẻ sọc nửa phần màn hình dưới. Em không biết tại sao lại vậy. Thế giới di động lại xa nhà em. Em không đi sửa được. Tình trạng này em dùng hết tháng đến 26-3 nghỉ mới đi sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.24952,
+         "id": "1137971",
+         "field_search": "question",
+         "question": "Cho em hỏi làm thế nào để máy em nó hiển thị Mạng 4G thế ạ ... sim em đã cài 4G nhưng nó vẫn ko hiển thị ạ .. HĐH em là IOS ko bk có cách nào sửa ko ạ ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.247858,
+         "id": "1166362",
+         "field_search": "question",
+         "question": "Instagram của mình bị như thế này, làm sao để khắc phục ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

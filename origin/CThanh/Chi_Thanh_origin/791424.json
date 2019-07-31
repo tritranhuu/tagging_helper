@@ -1,0 +1,801 @@
+{
+   "id_query": "791424",
+   "total": 27869,
+   "total_current": 100,
+   "max_score": 60.042107,
+   "origin_question": " 1 laptop có thể cài đặt được 2 zalo khác nhau được không,và sử dụng cùng lúc được không? ",
+   "hits": [
+      {
+         "score": 29.65634,
+         "id": "836265",
+         "field_search": "question",
+         "question": " Cho mình hỏi 1 zalo có thể đăng nhập cùng 1 lúc 2 máy tính được ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.527645,
+         "id": "972956",
+         "field_search": "question",
+         "question": " Cho mình hỏi sony xzs không thể lắp cùng lúc 2 sim và 1 thể nhớ được hả ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.092396,
+         "id": "935487",
+         "field_search": "question",
+         "question": "Tại sao 2 máy iphone 4 đều cài đặt mạng Wifi nhưng 1 cái nhà mạng Viettel còn cái kia là Mobi không thể gọi được Facetime.Trong khi 2 cái iphone 4 cùng mạng Viettel lại gọi đc Facetime cho nhau ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.98492,
+         "id": "842024",
+         "field_search": "question",
+         "question": "cho mình hỏi: tại sao 2 máy sử dụng 1 tài khoản trên Zalo. Nếu 1 trong 2 máy đăng nhập, thì máy kia y/c đăng nhập lại. 2 máy đăng nhập cùng 1 tài khoản không được sao?. Mình thấy trên Messenger của Facebook thì 2 máy đăng nhập được 1 tài khoản cùng lúc, không hề gì và không y/c 1 trong 2 máy phải đăng nhập lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.899595,
+         "id": "698471",
+         "field_search": "question",
+         "question": "Đăng nhập chỉ 1 tài khoản facebook trên 2 điện thoại cùng lúc được kg? Và sử dụng đt này có phát hiện đt kia cùng đăng nhập? Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.799604,
+         "id": "1150523",
+         "field_search": "question",
+         "question": " Làm thế nào để mk có thể cùng lúc sử dụng tính năng ghi âm ở cả 2 ứng dụng cùng 1 lúc trên Huawei y9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.728104,
+         "id": "1142236",
+         "field_search": "question",
+         "question": "Tôi thắt mắt không biết làm s để kết nối 2 giả lập nds trên 2 android khác nhau mà chơi được cùng 1 game?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.723555,
+         "id": "1143732",
+         "field_search": "question",
+         "question": "Điện thoại Nokia 8.1 có thể lắp 2 sim và thẻ nhớ cùng lúc được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.291489,
+         "id": "876303",
+         "field_search": "question",
+         "question": "  có thể dùng 2 nick zalo trên cùng 1 laptop mà ko cần đăng xuất không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.849104,
+         "id": "807452",
+         "field_search": "question",
+         "question": "cho mình hỏi, 1 tài khoản zalo có thể đăng nhập cùng lúc trên 2 máy tính không? Nếu có, làm sao để mình thoát ra khỏi máy tính kia được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.679226,
+         "id": "793884",
+         "field_search": "question",
+         "question": " Cho hỏi một nick zalo có thể cùng hoạt động trên 2 PC được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.657688,
+         "id": "1010316",
+         "field_search": "question",
+         "question": "tôi muốn mua cùng 1 lúc 2 sản phẩm trả góp có được không vậy, mong TGDD có thể hổ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.976149,
+         "id": "850565",
+         "field_search": "question",
+         "question": " Trên cùng 1 máy có được cài đặt nhiều tài khoản icloud không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.009203,
+         "id": "1154406",
+         "field_search": "question",
+         "question": "Tôi đã có đồng hồ apple watch , nhưng không có điện thoại iphone đồng bộ. Vậy đồng hồ có sử dụng riêng biệt được không và cài đặt sử dụng như thế nào? Tôi có thể nhờ giúp đỡ cài đặt sử dụng ở đâu? 0966224113",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.927425,
+         "id": "1018334",
+         "field_search": "question",
+         "question": "cho mìh hỏi, sao điện thoại Lenovo A5000, mình sử dụng 2 sim ko dc, từ lúc có bản nâng cấp mới nhất. Mình bỏ 1 sim vào khe 1 thì xài được, bỏ vào khe 2 cũng xài được. Nhưng cùng lúc bỏ 2 sim vào 2 khe thì ko xài được sim ở khe 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.627888,
+         "id": "1004817",
+         "field_search": "question",
+         "question": "Cho hỏi 1 người có thể đứng mua trả góp 2 máy cùng 1 lúc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.44748,
+         "id": "1165266",
+         "field_search": "question",
+         "question": "Nghe cuộc gọi zalo đến cùng lúc trên máy tính và điện thoại được không? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.104435,
+         "id": "1158616",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình lỡ cài đặt 2 phần mềm virus cùng 1 lúc là bkav không mua bản quyền và   KASPERSKY INTERNET SECURITY có mua bản quyền. Mình đã xoá phần mềm bkav mà không xoá được giờ 2 cái xung đột làm chậm máy, nhờ chỉ hướng giải quyết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.00216,
+         "id": "860196",
+         "field_search": "question",
+         "question": "Tôi dùng điện thoại nokia lumia 525, do sử dụng facebook bị hack quá nhiều nên tôi cài đặt bảo mật 2 lớp bảo mật và cài đặt chỉ điện thoại của tôi mới dùng đc facebook. Bây giờ tôi đăng nhập facebook và các thiết bị khác không được . Các bạn có thể giúp tôi gỡ không ? có thì xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.814234,
+         "id": "1158753",
+         "field_search": "question",
+         "question": "Tôi sau khi reset lại laptop lenovo yoga 520 thì không thể sử dụng được bàn phím, tôi không thể nhập được kí tự bằng số. Làm cách nào để có thể sử dụng bàn phím như lúc trước ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.732864,
+         "id": "1165765",
+         "field_search": "question",
+         "question": "Chào ad!Mình có thắc mắc cần được tư vấn. Mình mua laptop tại tgdd được 2 năm và lúc mua về mình có thể dùng được word, PowerPoint,... nhưng sau đó không thể dùng được nữa. Mình có xem trong cài đặt thì có thấy ghi là Windows is actived. Không biết có phải hết hạn không hay như thế nào. Trường hợp như vậy mình có thể mang laptop đến tgdd được không ạ? Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.501295,
+         "id": "1142108",
+         "field_search": "question",
+         "question": "cho mình hỏi.tại sao trên điện thoại nokia 5.1 của mình lại suất hiện 2 ứng dụng giống nhau vậy?có thể xóa bớt đi 1 ứng dụng được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.485365,
+         "id": "1160064",
+         "field_search": "question",
+         "question": "Mình lỡ reset laptop và hiện không cài lại được ứng dụng , thegioididong có thể giúp mình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.45223,
+         "id": "998099",
+         "field_search": "question",
+         "question": "tại sao có một số ứng dụng có trong cài đặt nhưng không thể sử dụng được, cũng không hiện icon trên màn hình galaxy s5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.20903,
+         "id": "1008475",
+         "field_search": "question",
+         "question": "Sao laptop của mình không thể vào word. powerpoin và 1 số khác. Nó bắt mua là sao. Máy mình mới mua được 2 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.144243,
+         "id": "745004",
+         "field_search": "question",
+         "question": " laptop acer aspire e 14 không bắt được wifi máy tính hoặc điện thoại đều có thể bắt được cùng 1 loại wifi  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.062979,
+         "id": "1152021",
+         "field_search": "question",
+         "question": "mình mới mua điện thoại realme 2 tại cửa hàng điện máy xanh.vẫn trong thời gian 1 đổi 1 trong vòng 1 tháng.vậy cho hỏi mình có thể đổi sang điện thoại khác được không hay chỉ đổi được máy mới cùng hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.028227,
+         "id": "1141518",
+         "field_search": "question",
+         "question": "Cùng trên zalo, nhưng không kết bạn thì người khác có đọc được nhật ký của mình không bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.613049,
+         "id": "1144485",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop có thể sử dụng chung hai ổ cứng SSD và HDD được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.580744,
+         "id": "1159940",
+         "field_search": "question",
+         "question": "Tại sao gọi video trên fb hoạc zalo không bật được đèn pin. Khi bật thì màn hình hiện thông báo ứng dụng đèn pin đang được 1 ứng dụng khác sử dụng. Mà trong khi đó tôi đã thử rất nhiều lần và kiểm tra khi đó chỉ có 1 ứng dụng zalo hoạc fb đang gọi video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.553898,
+         "id": "880818",
+         "field_search": "question",
+         "question": " Cho mình hỏi cài đặt zalo trên máy java như nokia xpressmusic 5310 có được không và cài đặt như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.424595,
+         "id": "1011069",
+         "field_search": "question",
+         "question": "tôi không thể gởi tin nhắn trên zalo PC . tất cả đều được đồng bộ với điện thoại. (điện thoại sử dụng bình thường) . khi gõ tin nhắn trên zalo không có tác dụng gì không xóa được không gởi được.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.39797,
+         "id": "1160159",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua máy laptop ở tgdd được hơn 1 năm rồi (hết bảo hành ) ,có đợt mình bị lỗi win và nhờ bạn cài win khác không bản quyền ,giờ mình còn cài lại được bản win lúc trước không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.39444,
+         "id": "837771",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng điện thoại Lumia 525. Tại sao lúc thì fb vào được còn có lúc thì lại không vào được , trong khi đó zalo và google t vẫn truy cập bình thường...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.154612,
+         "id": "763961",
+         "field_search": "question",
+         "question": " Laptop dell không có hệ điều hành bản quyền thì có thể cài đặt HĐH Windows 8 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.076145,
+         "id": "965738",
+         "field_search": "question",
+         "question": "Em có mua laptop dell tại thế giới đi dộng được một năm và mua bộ office bản quyền giá 1 triệu 2 nhưng được khuyến mãi còn 600 nghìn.Sử dụng được 1 năm và bây giờ không sử dụng được,bây giờ em phải làm sao để có thể tiếp tục xài nữa ạ và nếu phải mua lại thì với giá bao nhiêu ạ.Mong nhận được câu trả lờ sớm nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.97594,
+         "id": "1157536",
+         "field_search": "question",
+         "question": "Em đang sử dụng nokia lumia 625 nút nguồn đt e bị hư và sử dụg chạm hai lần ko được anh ( chị ) có thể hỗ trợ e được ko va sau khi e cài đặt e chạm 2 lần đt e k phản ứg j ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.97243,
+         "id": "1147087",
+         "field_search": "question",
+         "question": "Laptop mình bị chậm và đôi lúc bị đơ. Giờ mình muốn ra cài lại win thì có bị mất win10 mình đang sử dụng không? (Win10 này được cài khi mình mua máy ở TGDĐ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.895891,
+         "id": "1134209",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi sao máy mình không tải được app youtube lẫn youtube go, tải xong rồi mà cứ đang cài đặt hoài, cuối cùng không cài đượcNhững app khác mình vẫn cài bình thường. Máy vừa được khôi phục cài đặt góc và xóa dữ liệu ch play.Đã thử từ 3g tới wifi.Mình xài lenovo a5000.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.811646,
+         "id": "761057",
+         "field_search": "question",
+         "question": "Mật khẩu ID Apple của em có người khác sử dụng hay sao mà giờ em không đăng nhập vào đuợc anh chị có thể chi cho em đăng xuất tài khoản và cho em 1 ID Apple khác được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.744362,
+         "id": "796140",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi: cùng 1 icloud, dùng Zalo trên 2 máy (vd như ipad và iphone) thì có được không ạ? Ví dụ như đang dùng zalo trên iphone, lên ipad đăng nhập cũng tài khoản zalo đó, thì bên iphone có bị out không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.69316,
+         "id": "896774",
+         "field_search": "question",
+         "question": "Chào Admình có 1 tài khoản Zalo SD cho máy tính bang va đt cùng luc không được sẽ chỉ dùng đc 1 trong 2 thiết bị, có cách nào dùng song song Zalo trên 2 thiết bị đó cung lúc mà khong phải thoát Tk từ bên thiết bị kia khong Ad,Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.63954,
+         "id": "837577",
+         "field_search": "question",
+         "question": "giúp em với ạ, em có tải 1 số ứng dụng về máy tính nhưng lại có các ứng dụng khác tự tải vag cài vào máy tính của em, mấy ứng dụng đó không thấy hiển thị trong chương trình cài ở trong máy tính ạ nên em không thể xóa được, làm cách nào giúp em với ạ. đó là 2 ứng dụng mở ra trang mua bán và đặt phòng tên Booking và eliexpress",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.637161,
+         "id": "814218",
+         "field_search": "question",
+         "question": "Mình sử dụng iPad mini và iPhone 6, sáng mình có sạc cả hai máy cùng một lúc, khoảng đến trưa mình kiểm tra thì cả hai máy đều khong lên phần trăm nào, mình có lên mạng tìm thì họ nói phải đặt lại cài đặt. Mình đặt thử lại cài đặt ở IPhone 6 thì một lúc sau phần trăm pin đã lên bình thường nên mình cũng đặt lại cài đặt của IPad nhưng phần trăm pin lại không tăng được. Mình phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.569418,
+         "id": "750823",
+         "field_search": "question",
+         "question": "Mình có mua 1 Laptop Lenovo G500s của thegioididong vào tháng 04.2014. Lúc đó chưa có chương trình Win bản quyền cài sẵn theo máy. Vậy cho mình hỏi:1. Những trường hợp như Laptop mình mua trước đây chưa được cài Win bản quyền giờ muốn cài phải làm sao? Thegioididong có hỗ trợ cài Win bản quyền hay bán bản quyền Win 7 hoặc Win 8 không & giá là bao nhiêu?2. Ví dụ như Laptop đang được cài bảng quyền Win 7, nhưng sau đó nâng cấp lên Win 8, Win 10 ...vv thì có bị mất bản quyền Win hay không?3. Bản quyền Win chỉ được cài duy nhất cho 1 máy? Lỡ như Laptop A đang sử dụng, có cài Win bản quyền và Laptop A bị hư, chuyển sang xài Laptop B vậy có chuyển Win bản quyền từ Laptop A qua Laptop B được không?Mong các bạn ghi nhận và phản hồi.Email: hoangnhatminh107@gmail.comTrân Trọng.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.532701,
+         "id": "1140275",
+         "field_search": "question",
+         "question": "Hiện tại em đang sử dụng điện thoại oppo a3s .e có cài đặt các cử chỉ khi màn hình tắt như nhấn đúp để mở máy , vẽ chữ o để chụp ảnh ... Nhưng cảm ứng vô cùng chập chờm lúc được lúc lại không cho em hỏi tại sao lại như vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.477348,
+         "id": "802692",
+         "field_search": "question",
+         "question": "khi sử dụng camera laptop gọi video qua face thì mở được lúc đầu khoảng phút là bị tắt.cho em hỏi cách để mở lại hay cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.41293,
+         "id": "882548",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, trong thời gian sử dụng laptop e có tải một số ứng dụng về nhưng làm máy không chaỵ được, sau đó em vào phần thiết lập lại PC mà không làm mất tài liệu lưu trong máy, sau khi hoàn tất em lỡ tay xoá mất ứng dụng 365 office đã được cài đặt sẵn trong máy. Vậy anh chị có thể cài đặt lại cho em được không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.36833,
+         "id": "883958",
+         "field_search": "question",
+         "question": "Tôi có 2 máy iphone đều cài đặt viber. Ko hiểu sao khi dùng máy 1 gọi đến một số điện thoại A thì chỉ có nhìn thấy \"trực tuyến\" và có thể gọi được. Còn máy 2 gọi đến số A đó thì ko thấy báo \"trực tuyến\" và ko gọi được. Trong khi đos máy 2 vẫn gọi viber cho các số khác được. Tôi đã thử cài đặt lại viber mấy lần mà vẫn như vậy. Nếu có thể xin chỉ giúp tôi với. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.2631,
+         "id": "1018426",
+         "field_search": "question",
+         "question": "Tôi mới mua 1 laptop dell 5468.cửa hàng đã cài đặt xong nhưng tôi không sử dụng được các chức năng trên thanh menu của excel (các chức năng bị mờ không thao tác đươc)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.254353,
+         "id": "883733",
+         "field_search": "question",
+         "question": "Cho em hỏi là, em mua laptop đăng kí số điện thoại bảo hành, giờ số đó bị khóa em không sử dụng dụng được nữa giờ em có thể đổi số điện thoại bảo hành lại số khác được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.214605,
+         "id": "1144561",
+         "field_search": "question",
+         "question": "Cho mình hỏi là máy Acer Aspire E15 E5 576G 52YG có thể sử dụng chung 2 ổ cứng SSD và HDD được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.121313,
+         "id": "807456",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.105669,
+         "id": "1164225",
+         "field_search": "question",
+         "question": "Mình mua Laptop ở bên bạn, Lenovo sử dụng windows 10 hiện tại mình không thể sử dụng word, excel, pp và các office khác. Nó yêu cầu mình đăng nhập mặc dù mình đã lập 1 tài khoản nhưng vẫn không được. Phiền bạn tư vấn cho mình theo sđt 0974213924.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.011637,
+         "id": "903849",
+         "field_search": "question",
+         "question": "Tháo sim đã đăng ký njck zalo và lắp sang máy mới. Trong trường hợp máy cũ vẫn còn ứng dụng zalo và có mật khẩu để mở. Vậy người sử dụng máy cũ có sử dụng được nick zalo của tôi hoặc đọc được tin nhắn trước đây của máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.969095,
+         "id": "849231",
+         "field_search": "question",
+         "question": "HI Add,phiền add chỉ lại giúp mình ứng dụng trên android mà có thể đăng nhập nhiều nick viber, zalo cùng lúc trên 1 điện thoại.THanks add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.896069,
+         "id": "776754",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy tính ASUS K56C ram 4G và đang dùng Windows 7 . Em muốn nâng cấp lên 8G và cài đặt Windows 8 có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.869242,
+         "id": "807476",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.770512,
+         "id": "803651",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi em nhắn tin trên zalo cho người khac ma trong đó người đó không onl trong thời gian dài cở 2 3 tháng lúc sử dụng lại zalo ng đó co đọc được tin nhắn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.741768,
+         "id": "1003848",
+         "field_search": "question",
+         "question": "Oppo f1s ko có bàn phím tiếng nhật , cho mình hỏi có cách nào cài đặt vừa sử dụng đc tiếng nhật vừa sử dụng được tiếng việt ko , mình tải bàn phím trên app store về chỉ dùng được tiếng anh và tiếng nhật thôi , muốn sử dụng tiếng việt phải vô cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.74142,
+         "id": "835992",
+         "field_search": "question",
+         "question": " Sao em tải game gta trên HiP4U về được mà khi cài đặt thì nó hiện len là không thể cài đặt vào lúc này như hình  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.73781,
+         "id": "1145962",
+         "field_search": "question",
+         "question": " Chào anhchị. Cho em hỏi em có thể mua trả góp 2 đt cùng 1 lúc ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.710684,
+         "id": "744203",
+         "field_search": "question",
+         "question": "ad cho hỏi mình đang sử dụng Laptop Asus TP500l nhưng không thể phát âm thanh của máy và không thể kết nối với loa ngoài, mình có thể tự khắc phục được không nếu được mong add chỉ giúp. Thanks vr much",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.651358,
+         "id": "1008490",
+         "field_search": "question",
+         "question": "Galaxy J7 2015 báo lỗi không hỗ trợ zalo  lỗi 2028 đã gỡ và cài đặt lại vẫn không được. Đổi pass thì đăng nhập được chỉ 1 lần đó. Lần sau vẫn phải đổi pass tiếp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.643948,
+         "id": "1153553",
+         "field_search": "question",
+         "question": "Em sử dụng nokia 3.1 plus, sau khi cập nhập lên androi 9 em gặp tình trạng zalo không nhận được thông báo tin nhắn đến hay cuộc gọi đến. Khi nào em mở zalo mới nhận được thông báo. Em vào cài đặt kiểm tra thì zalo được mở thông báo.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.619532,
+         "id": "1155717",
+         "field_search": "question",
+         "question": "em muốn mua laptop có thể sử dụng được phần mềm corel drew và gerber giá tầm 910 triệu thì mua máy nào được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.602333,
+         "id": "1166837",
+         "field_search": "question",
+         "question": "Mình có mua headphone bên TGDD , hiện tại mình gặp tình trạng chỉ có một bên headphone còn sử dụng được , lúc mua mình được tư vấn là bảo hành 1 năm . Không biết với tình trạng như trên mình có thể đổi hoặc sử chữa gì không ? Cám ơn đã xem và tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.586746,
+         "id": "1160861",
+         "field_search": "question",
+         "question": "Samsung a8 star có thể sử dụng eSim được không? có thể chuyển esim sang sim vật lí lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.562479,
+         "id": "1166826",
+         "field_search": "question",
+         "question": "Camera a50 hay bị vệch màu chỉ khi reset lại thì đỡ 1 tí rất khó chịu? Vậy e có thể đổi máy khác cùng màu được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.554375,
+         "id": "780343",
+         "field_search": "question",
+         "question": "Em có sử dụng EasyBCD để cài Remix OS lỡ nghịch dại em bấm lộn chỗ Write MBR. Lúc mở lên thì máy báo lỗi file \\bcd (lúc đó máy đang chạy WIN 10), đem máy đi sửa thì người ta chỉ cài lại Win 8.1 thôi, không biết có liên quan đến WIN 10 hay không ạ em sử dụng 5 tháng rồi mà không có gì hết, vậy có thể cài lại được WIN 10 không ạ...(Em đang sử dụng Laptop Asus Tranformer Book Flip)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.544636,
+         "id": "753508",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có cái iPad moden A1432 không đăng nhập vào facetime được phải làm sao? Mình đã cài icloud và thử nhiều wifi khác nhau rồi mà vẫn không vào được facetime. Nhờ admin giúp dùm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.51656,
+         "id": "1024349",
+         "field_search": "question",
+         "question": "Cho e hỏi e mua 1 thẻ nhớ 16G sử dụng chưa được 3 tháng..vậy có thể bán lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.513859,
+         "id": "1168777",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao j4 core k cài  hình nền và  hình khóa khác nhau được ạ có cách nào k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.479733,
+         "id": "811286",
+         "field_search": "question",
+         "question": " cài hệ điều hành IOS lên android được không ạ? sao cho trong cài đặt với mấy ứng dụng khác cũng giống. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.468065,
+         "id": "1001546",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng Sony z5. Khi nhắn tin đăng ký gói 3g cả 2 nhà mạng Vinaphone và Mobile đều kg được. Báo lỗi \"Không thể gửi!\". Hỏi nhà mạng, họ nói do cài đặt \"bảo mật về tin nhắn...\" trên máy. Nhưng tôi kg tìm và kg khắc phục được. Xỉn Admin chỉ dẫn giúp! Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.428144,
+         "id": "1164923",
+         "field_search": "question",
+         "question": "cho e hỏi Lúc trước e vẫn cài đặt mess bình thường. Sau khi e xóa và không tải lại được nữa. Trong khi mọi ứng dụng khác vẫn tải được bình thường. E đã thử xóa dữ liệu và làm mọi hướng dẫn nhưng vẫn không được . Vậy giờ e phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.415888,
+         "id": "748967",
+         "field_search": "question",
+         "question": " Cho em hỏi em sử dụng cái iPhone 5s đài loan thì có sử dụng được zalo hay không anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.38441,
+         "id": "1134938",
+         "field_search": "question",
+         "question": "Thế giới di động hỗ trợ em vấn đề này với ạ. Em rất mong nhận được câu trả lời sớm.     Em đang sử dụng điện thoại Redmi 6A. Em đã cài đặt ứng dụng Zalo và FB Messenger phiên bản mới nhất trong CHPlay rồi.    Tuy nhiên, cả Zalo và Messenger đều không thể vừa Video call vừa chat được ạ.     Thế giới di động chỉ em cách xử lý với a.  Thanks all.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.352385,
+         "id": "1169402",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt lớp phủ màn hình trên máy Mobistar Lai ZumboS ạ? Khi em vào cài đặt -> ứng dụng -> icon cài đặt trên cùng -> vẽ lên trên ứng dụng khác -> chọn \"các ứng dụng có quyền\" thì có 1 số ứng dụng không hiện ở đây. Mong anh/chị trợ giúp em với ạEm cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.327188,
+         "id": "1137934",
+         "field_search": "question",
+         "question": "1: máy ip5s của mình báo pin ảo ad có cách nào khắc phục được không ạ và pin không bị chai!2: theo mình biết là dung luong pin ip5s là 1540Mah và 6s là 1715mah nhưng khi sử dụng thì chênh lệch lại quá nhiều. Ví dụ là Mình sạc đầy 100% và  dùng cả 2 máy chơi Liên Quân cùng thời gian với nhau 5 trận. nhưng Số pin còn lại của 5s lại kém 6s từ 35-43%.Pin 6s hơn cos 175mah mà lại chênh lệch khi sử dụng quá nhiều là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.327188,
+         "id": "1137935",
+         "field_search": "question",
+         "question": "1: máy ip5s của mình báo pin ảo ad có cách nào khắc phục được không ạ và pin không bị chai!2: theo mình biết là dung luong pin ip5s là 1540Mah và 6s là 1715mah nhưng khi sử dụng thì chênh lệch lại quá nhiều. Ví dụ là Mình sạc đầy 100% và  dùng cả 2 máy chơi Liên Quân cùng thời gian với nhau 5 trận. nhưng Số pin còn lại của 5s lại kém 6s từ 35-43%.Pin 6s hơn cos 175mah mà lại chênh lệch khi sử dụng quá nhiều là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.316692,
+         "id": "1142304",
+         "field_search": "question",
+         "question": "mình sử dụng laptop Window 10 mà sử dụng các phim tắt từ F1 dên F12 vào các phần mềm khác không được? làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.30377,
+         "id": "1015965",
+         "field_search": "question",
+         "question": "Em có thể trả góp 1 lần 2 điện thoại và số tiền dươi 10tr được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.277536,
+         "id": "744471",
+         "field_search": "question",
+         "question": "IP4s của mình bị lỗi không cài đặt được ứng dụng vào lúc này.Mình kết nối với máy tính qua itunes nhưng cũng không đồng bộ được ứng dụng vào.Các bạn giúp mình được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.27457,
+         "id": "1005248",
+         "field_search": "question",
+         "question": "Tại sao 1 điện thoại luôn có mạng và trong tình trạng ko tắt nguồn ( cũng ko sử dụng) nhưng dùng 1 dt khác nhắn tin zalo thì thấy máy này truy cập x phút trước và tn chỉ hiện đã gửi. Đến lúc dt kia sử dụng( mở màn hình) thì mới có thông báo tn và dt này mới hiện tn đã nhận. Trong lúc đó cả 2 dt đều có mạng và dt nhận tn đang ko dc sử dụng( chế độ nghỉ) nếu 1 dt mở nguồn và mở mạng thì phải nhận dc tn ngay lúc gửi chứ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.170757,
+         "id": "1136150",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng điện thoại Galaxy note FE và ba tôi cũng thế. Vì sử dụng cùng 1 dòng điện thoại nên tôi nghĩ có thể lấy dây sạc của đt ba tôi để sạc cho đt của tôi. Nhưng khi cắm vào nó lại hiện thông báo là hãy sử dụng sạc đi theo máy do nhà cung cấp. Tôi ko hiểu có thể giải thích thêm cho tôi đc ko. Vì 2 chiếc đt đều giống nhau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.12878,
+         "id": "1013241",
+         "field_search": "question",
+         "question": "Ad cho em hỏi em đang dùng Oppo F3 Plus, em muốn cài đèn flash cho tin nhắn và cuộc gọi nhưng không được. Em có tải 1 số phần mềm nhưng chỉ đk 1 ngày lại phải vào cài đặt lại, ad có thể hướng dẫn e được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.10513,
+         "id": "799050",
+         "field_search": "question",
+         "question": " iphone 6 sau khi chạy lại ứng dụng thì bị vấn đề ở cài đặt các ứng dụng không tồn tại có thể khắc phục được không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.100536,
+         "id": "1154900",
+         "field_search": "question",
+         "question": "Office 365 được cài sẵn ở laptop nhưng phải kích hoạt mới sử dụng được ạ? Nếu không kích hoạt thì thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.09171,
+         "id": "1001338",
+         "field_search": "question",
+         "question": "mình dùng zenfone 5 điện thoại mình dù tắt nguồn rồi nhưng nó vẫn báo là đang sạc. Mình đang không biết là do mấy hôm trước mình up rom lỗi hay dây sạc mình bị hỏng gây nên. Ngày mình sử dụng cái dây sạc  hỏng ấy cùng thời điểm với lúc mình up rom ( mình sử dụng dây sạc khác để up rom, up xong rồi mới sử dụng dây sạc hỏng). Mình đã khôi phục cài đặt gốc nhưng không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.063522,
+         "id": "1149296",
+         "field_search": "question",
+         "question": "Tôi muốn có điện thoại sử dụng được 2 sim, iPhone có không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.013266,
+         "id": "773988",
+         "field_search": "question",
+         "question": " laptop Acer sao không cài được mu origin vn nhi với các game khác, vd haflif cf hay cài đặt phần mềm lập trình cnc. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.001425,
+         "id": "1167849",
+         "field_search": "question",
+         "question": "Tháng 7/2016 tôi mua 1 laptop Dell INSPIRON 14 3458 tại TGDĐ Cống Quỳnh, Q.1. Do có trục trặc Win và Office, đầu 2018 tôi mang đến cửa hàng và được nhân viên cài lại. Nhưng vẫn có những trục trặc, Win, Office không update được... nay tôi muốn TGDĐ kiểm tra, cài đặt lại có được không?ĐT: 0916865778",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.001389,
+         "id": "1001020",
+         "field_search": "question",
+         "question": "Không thể ấn cài đặt ứng dụng tuy nhiên ấn hủy được trong khi bộ nhớ còn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.981098,
+         "id": "845189",
+         "field_search": "question",
+         "question": "Cho hỏi sau khi báo mất iPhone trên iCloud thì các trang mạng xã hội trên iPhone bị mất người lấy cắp có thể sử dụng được không ah? Và mình có thể đăng nhập iCloud trên thiết bị khác được nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.964308,
+         "id": "1143505",
+         "field_search": "question",
+         "question": "cho e hỏi là mình không sử dụng được office nữa thì muốn sử dụng lại được word hay excel thì có cần cài lại win không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.964163,
+         "id": "1161813",
+         "field_search": "question",
+         "question": "Dear anh(chị), em đang sử dụng điện thoại Vsmart joy có 2 SIM:Sim 1 mobiphoneSim 2 vietnammobileLàm thế nào để có thể xem được thông tin sim 2 ạ, em thử gõ *102# nhưng báo mã MMI không hợp lệ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.924753,
+         "id": "801102",
+         "field_search": "question",
+         "question": " Cho em hỏi em bảo trì laptop. Phải mất 2 ngày mới lấy được. Vậy em co thể muon 1 laptop khac để su dung được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.924627,
+         "id": "1135576",
+         "field_search": "question",
+         "question": "Cho em điện thoại vivo y55s có thể chuyển ứng dụng sang thẻ nhớ được không? Và muốn cài đặt nội dung tải về lưu trên thẻ nhớ thì cài như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

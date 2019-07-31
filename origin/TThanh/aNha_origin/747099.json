@@ -1,0 +1,809 @@
+{
+   "id_query": "747099",
+   "total": 33423,
+   "total_current": 100,
+   "max_score": 74.077835,
+   "origin_question": " Cho mình hỏi TGDD có mua lại máy Iphone 4S 8GB mình mua ở TGDD tháng 032015 còn bảo hành hơn 3 tháng không vậy? ",
+   "hits": [
+      {
+         "score": 74.077835,
+         "id": "747099",
+         "field_search": "question",
+         "question": " Cho mình hỏi TGDD có mua lại máy Iphone 4S 8GB mình mua ở TGDD tháng 032015 còn bảo hành hơn 3 tháng không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.99583,
+         "id": "823281",
+         "field_search": "question",
+         "question": " Iphone 4s 8gb mua ở TGDD mà mình bị mất hộp rồi. Mua trả góp đến tháng 6. Vậy TGĐ có thu lại không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.28709,
+         "id": "1158463",
+         "field_search": "question",
+         "question": "Ad cho hỏi samsung s3fr mình mua ở tgdd đc 4 thÁng còn bảo hành k vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.696987,
+         "id": "802153",
+         "field_search": "question",
+         "question": " iPhone 4S bảo hành 3 tháng tgdd có phải bảo hành chính hãng hay không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.466686,
+         "id": "1136955",
+         "field_search": "question",
+         "question": "Cho mình hỏi Điện thoại Samsung J7 Pro của mình còn 6 tháng bảo hành. Giờ muốn mua máy khác ở TGDD, các bạn có mua lại máy của mình không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.16491,
+         "id": "861144",
+         "field_search": "question",
+         "question": " mình mua iphone 4s cũ bên tgdd hôm tháng 3 vậy h bán lại đc k  mình mua máy qa sử dụng  tks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.099873,
+         "id": "1022857",
+         "field_search": "question",
+         "question": "Mình có mua máy mobell p2 của tgdd từ tháng 3/2017. Hôm trc máy đơ màn hình, đã bảo hành tại tgdd. Vậy giờ mình muốn bán lại cho tgdd đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.90444,
+         "id": "1022891",
+         "field_search": "question",
+         "question": "Mình có mua máy mobell p2 của tgdd từ tháng 3/2017. Hôm trc máy đơ màn hình, đã bảo hành tại tgdd. Vậy giờ mình muốn bán lại cho tgdd đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.18098,
+         "id": "1002758",
+         "field_search": "question",
+         "question": "Chào TGDD, cho mình hỏi mình mới mua máy iPhone 6 32 GB ở TGDD hơn 10 ngày nhưng sao mình kiểm tra pin thì nó chỉ còn có 1100 mah, vậy TGDD có nhận bảo hành pin và thay cho mình không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.876396,
+         "id": "833940",
+         "field_search": "question",
+         "question": "Tôi có mua điện thoại iPhone 6S Plus giờ bị trầ xước bên TGDD có làm cách nào cho mới không vậy, mới mua có 3 tháng còn bảo hành?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.751434,
+         "id": "991886",
+         "field_search": "question",
+         "question": "Mình muốn hỏi, mình đang dùng điện thoại sony xperia XA dual. Hiện tại máy mình còn 2,5 tháng bảo hành. Vậy mình muốn bán máy lại cho tgdd, thì sẽ được định giá là bao nhiêu? Máy mình mua ở tgdd động luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.296284,
+         "id": "1007995",
+         "field_search": "question",
+         "question": "Mình mua đt được 10 tháng tại TGDD, nay bị hư mà không còn biên lai mua hàng. Mình có thể đưa lại TGDD để bảo hành không? Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.147167,
+         "id": "783296",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5s mua ở tgdd hết bảo hành 3 tháng. Gần đây xuất hiện lỗi không có dịch vụ, khi mình set lại mạng thì lại có mạng được khoảng 1h lại bị mất mạng máy chạy 9.2. Xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.960255,
+         "id": "1008418",
+         "field_search": "question",
+         "question": "cho mình hỏi dt aus zenfone 3 max của mình mua của tgdd dc 3 tháng. Mình lỡ làm máy bị vô nước nếu đem ra tgdd bảo hành thì máy sửa hoàn toàn miễn phí hay sao. mà bảo hành thì lâu quá, còn nếu mình đem ra ngoài sửa ko dc rồi tgdd có còn bảo hành ko. Nếu tgdd ko bảo hành cho mình thì mình gửi máy cho tgdd sửa mình phải chịu phí như thế nào. Xin cho mình câu trả lời cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.172527,
+         "id": "845071",
+         "field_search": "question",
+         "question": " tgdd có mua lại máy ipad mini 2 ko mình mua ở tgdd mới 1 tháng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.299255,
+         "id": "1009186",
+         "field_search": "question",
+         "question": "Cho mình hỏi thế này. Mình mới mua lại con máy J7 prime của ông kia. Còn bảo hành 12 tháng, ổng mới mua mấy bữa xong kẹt tiền nên cầm đồ rồi k lấy lại luôn. Nên k có phụ kiện gì hết. Vậy khi mấy này có vấn đề , mình có thể mang đến TGdd bảo hành khi không phải chủ sở hữu theo tên đăng ký mua hàng ở TGDd không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.276224,
+         "id": "1012078",
+         "field_search": "question",
+         "question": "em mua j7 prime tháng 12017 đến giờ máy em hay bị đứng vậy tgdd có bảo hành cho em k em mua ở tgdd lê văn lương ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.066502,
+         "id": "799971",
+         "field_search": "question",
+         "question": " Mình mua laptop ở tgdd còn bảo hành,muốn chạy lại win được không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.058672,
+         "id": "1023755",
+         "field_search": "question",
+         "question": "TGDD có bảo hành màn hình cho máy tính bảng Acer ko, mình mới mua được mấy tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.934097,
+         "id": "995705",
+         "field_search": "question",
+         "question": "Tgdd cho minh hỏi mình mua cây zenfone 3 max 5.2 in ở tgdd từ tháng 11 năm 2016 giờ bên minh có thu lại cho mình ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.923952,
+         "id": "1156815",
+         "field_search": "question",
+         "question": "hi shop, em có mua lại 1 chiếc laptop cũ  Acer spin 3 còn bảo hành 6 tháng cho em hỏi bên mình mua laptop bảo hành bằng sdt hay seri máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.691317,
+         "id": "1017342",
+         "field_search": "question",
+         "question": "Chào tgdd mình mua iphone 6s plus bản 64g tại tgdd mới được khoảng 9 tháng mà giờ máy bị tróc sơn thì bên tgdd có bảo hành thay vỏ máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.634375,
+         "id": "1006214",
+         "field_search": "question",
+         "question": "Mình đang sử dụng J7 Prime được 1 tháng, mua tại TGDD và còn thời hạn bảo hành. Pin ở máy mình hiện đang bị hỏng. Vậy nếu mình mang máy đến thay pin mới thì có mất tiền không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.61872,
+         "id": "1155588",
+         "field_search": "question",
+         "question": "Mình mua máy mobell s60 ở thế giới di động, bảo hành còn hơn 10 tháng không có bất kì lỗi nào thì giờ thế giới di động có hỗ trợ mua lại ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.502947,
+         "id": "1010934",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên TGDĐ có mua lại máy cũ ko ạ. Máy mình mua của tgdd luôn ạ, còn bảo hành.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.375603,
+         "id": "1023302",
+         "field_search": "question",
+         "question": "AD cho em hỏi là em có mua 1 máy Iphone 5s 16g ở tgdd khoảng chừng 5-6 tháng em muốn bán lại tgdd mình có thu lại không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.817661,
+         "id": "999320",
+         "field_search": "question",
+         "question": "Mình mua samsung j7prime được hơn 7  tháng mà màn hình bi nứt có còn bảo hành không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.790531,
+         "id": "1140801",
+         "field_search": "question",
+         "question": "Cho mình hỏi 2 tháng trước mình mua máy ở tgdd bây giờ mình mua sim bùm có được giảm giá không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.783602,
+         "id": "1016459",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua máy oppoA37 ơ TGDĐ tháng 11,vẫn còn bảo hành  giờ mình muốn bán lại cho tgdđ có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.631992,
+         "id": "995984",
+         "field_search": "question",
+         "question": "mình mua mới đt lumia 635 vào tháng 82016 tại tgdd đan phượng.cho mình hỏi hiện tại đt của mình còn hạn bảo hành k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.472876,
+         "id": "973311",
+         "field_search": "question",
+         "question": "mình có mua 5s ở TGDD đươc 5 tháng rồi. mua dùng được hơn tháng là thấy hiện tượng xanh màn hình và khởi động lại. mấy ngày hôm nay máy có hiện tượng như vậy rất nhiều và bị rung màn hình. vậy mình khác phục hiện tượng đó thế nào? Và mang ra siêu thị TGDD bảo hành được ko ạ? Nếu có thể liên hệ giúp m vào số 0165354xxxx . cảm ơn nhóm hỗ trợ TGDD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.256788,
+         "id": "1013656",
+         "field_search": "question",
+         "question": "Xin chào.Mình mua laptop ở tgdd được 3 tháng rồi giờ mình muốn trả lại vậy mình được  hoàng lại bao nhiêu tiền.Máy mình khoảng 14tr mấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.230215,
+         "id": "783348",
+         "field_search": "question",
+         "question": "Chào BQT TGDD :)Mình mua iPhone 6s ở cửa hàng cách đây 3 tháng. Nút volume giảm của mình muốn bị lờn (bấm vẫn được) thì chế độ bảo hành ra sao ? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.19065,
+         "id": "777940",
+         "field_search": "question",
+         "question": "Mình mua lại em 4s của một người trên Hà Nội, người đó mua tại TGDĐ. Máy còn bảo hành đến tháng 9/2016. Giờ nghe gọi tậm tịt lắm, cho hỏi bảo hành thế nào..? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.16671,
+         "id": "1137851",
+         "field_search": "question",
+         "question": "Cho e hỏi về cách khắc phục ở máy Sony xa1 plus mua ở TGDD. E mua ở TGDD được hơn 1 tháng cần sự hỗ trợ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.160263,
+         "id": "1018347",
+         "field_search": "question",
+         "question": "Chào ad, cho hỏi mình dán keo điện thoại ở Điện Máy Xanh, nhưng mà bảo hành 3 tháng, nhưng chưa đầy 3 tháng, lớp keo nó bong tróc, vậy mình có được hỗ trợ dán lại ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.040218,
+         "id": "1019982",
+         "field_search": "question",
+         "question": "ALO Cho mình hỏi mình muốn bán samsung j7 pro mình mua không phải ở TGDD còn nguyên hộp, mua 2 tháng đã dán màn hình và kích hoat máy thì TGDD có mua không và nếu mua thì giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.989645,
+         "id": "1134917",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có mua oppo f9 ở bên tgdd dc gần 3 tháng mà bh máy có hiện tượng đơ mh mà mình dùng k hề làm rơi hay tác động nào tới máy vậy bên tgdd có xử lí được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.97433,
+         "id": "999871",
+         "field_search": "question",
+         "question": "Cho mình hỏi thế giới di động có thâu mua lại máy k vậy. Máy mình mua tháng 11/2016 mà h mình mua máy khác rồi k có nhu cầu dùng nữa. Máy còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.967266,
+         "id": "1160159",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua máy laptop ở tgdd được hơn 1 năm rồi (hết bảo hành ) ,có đợt mình bị lỗi win và nhờ bạn cài win khác không bản quyền ,giờ mình còn cài lại được bản win lúc trước không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.902475,
+         "id": "995174",
+         "field_search": "question",
+         "question": "Chi mình hỏi mình mua trả góp đt ở tgdd thì hàng tháng mình qua điện máy xanh trả có dc ko vì mình gần đmx hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.831825,
+         "id": "916969",
+         "field_search": "question",
+         "question": "Mình mua iphone 5s tại tgdd đc 1 tháng bị lỗi sạc k vào đưa máy đi bảo hành thì hãng gọi nói máy bình thường, về dùng đc mấy ngày lại bị lỗi cũ, lại giui đi bảo hành rồi lại ns máy bình thường giui lại về cho mình, về vẫn đag bị lỗi cũ giui đi tiếp lần 3. Lần này hãng lại ns máy bị oxi hóa chỗ tiếp xúc pin và từ chối bảo hành cho tôi trog khi máy tôi ms mua 1 tháng k bị rơi nước, thời gian bảo hành còn nhiều hơn thời gian sử dụng máy. Bảo hành kiểu gì vậy, vậy 2 lần đầu máy tôi bình thường thế lỗi đó do đâu . Giờ k bảo hành cho tôi. Tgdd làm ăn kiểu gì vậy . số imel của máy 352083078281250.sđt liên lạc của tôi 01263038633",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.814543,
+         "id": "791222",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDD mình còn iPhone 4S không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.67128,
+         "id": "1022848",
+         "field_search": "question",
+         "question": "Mình đag dùng máy samsung a5 2017.. máy full box mua tại tgdd. Bây giờ mìng muốn bán lại thì giá cả như thế nào ạ.. máy còn bảo hành 11 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.667027,
+         "id": "1156379",
+         "field_search": "question",
+         "question": "Tôi có điện thoại Nokia 3 vẫn còn 4 tháng bảo hành chính hãng.cửa hàng có mua lại không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.536022,
+         "id": "1010580",
+         "field_search": "question",
+         "question": "máy mua tại tgdd chưa được 1 năm còn bảo hành !! tgdd có thu mua lại k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.517605,
+         "id": "998370",
+         "field_search": "question",
+         "question": "Chào tgdd, mình hỏi tí. Mình mua ĐT Sony xa1 ở tgdd dc hai tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.493023,
+         "id": "1024098",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ. E mua j7 pro ở tgdd mùng 6/10 tới đây là được 2 tháng. Bên mình có bảo hành màn hình ko ạ. Vs lại máy e cảm ứng không nhạy cho lắm???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.383055,
+         "id": "783427",
+         "field_search": "question",
+         "question": " Iphone 6s plus tôi mua ở thế giới di động hơn 1 tháng mặt sau tự tróc sơn có được bảo hành không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.329458,
+         "id": "830693",
+         "field_search": "question",
+         "question": "Mình mua Iphone 6 ở TGDD được 1 tháng sau đó mình thấy màn hình bị đen mờ góc trên bên trái ( gần cột sóng) có mang bao hanh được không ? Và bảo hành ở đâu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.115643,
+         "id": "1023429",
+         "field_search": "question",
+         "question": "Nếu mình mua lại máy của một người khác đang còn thời gian bảo hành của tgdd thì mình có được hưởng quyền lợi bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.854767,
+         "id": "750711",
+         "field_search": "question",
+         "question": "Máy mình là ASUS P550LD mua ở Thế giới di động, vẫn còn bảo hành. Bây giờ mình muốn nâng cấp Ram lên tại TGDD có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.838873,
+         "id": "1144082",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy tính dell minh mua khoảng 3,5 tháng nhưng đã bảo hành 3 lần nay mình muốn đổi trả máy thì  có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.81233,
+         "id": "1003566",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại của em mới mua được gần 3 tháng và bị bể màn hình cho em hỏi chính sách bảo hành của TGDD có bảo hành và thay màn hình miễn phí không vậy ạ ? Em cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.771223,
+         "id": "1014992",
+         "field_search": "question",
+         "question": "Mình muốn mua sim vina Bum50 của TGDD co máy điện thoại của mình mua 12 tháng rồi tại TGDD có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.705002,
+         "id": "999553",
+         "field_search": "question",
+         "question": "Bạn ơi cho hỏi, mình mua dt tgdd ở chỗ này mà bảo hành bị lỗi ở chỗ khác được ko. ĐT mình còn bảo hành tới 31/7/2017. mà dt mình mua cũ nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.46784,
+         "id": "991012",
+         "field_search": "question",
+         "question": "Mình mua máy mới j7 prime lúc cuối tháng 9 còn đầy đủ phụ kiện ở tgdd, giờ mình muốn bán lại được tầm bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.456059,
+         "id": "1135556",
+         "field_search": "question",
+         "question": "Chào TGDD, mình có mua Galaxy A6 2018 tại TGDD tháng 10 vừa rồi. Do không để ý, bây giờ mình mới check bảo hành điện tử của Samsung thì hạn bảo hành là từ 25/09/2017 - 24/09/2018. Tức là đã hết hạn bảo hành từ khi mình chưa mua. TGDD bán máy cũ cho mình à? Rõ ràng là mình mua hàng fullbox chính hãng cơ mà? Đề nghị TGDD giải đáp cho mình qua sdt 0898486897",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.44855,
+         "id": "1134775",
+         "field_search": "question",
+         "question": "Cho em hỏi. Iphone X em mới mua ở tgdd dc hơn 3 tháng. Tự nhiên bị đen màn hình. Restore k đc. Máy k bị rơi hay va đập gì cả. Cắm vô máy tính cũng k nhận là bị gì ạ. Em hiện tại đang ở nhật. Có thể đến app bảo hành dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.416481,
+         "id": "1136064",
+         "field_search": "question",
+         "question": "Mình mới mua máy Huawei 3i black tại tgdd được hơn 2 tháng, hiện tại m phá hiện máy bị lỗi bóng rất khó chịu. Vậy tôi muốn hỏi tôi sẽ được bảo hành như thế nào ? Thủ tục làm ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.322731,
+         "id": "1021502",
+         "field_search": "question",
+         "question": "cho mình hỏi root máy thì có còn đựoc bảo hành ko vậy?mình xài nokia 3 mua hôm 119 và còn bao hành 10tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.294481,
+         "id": "1151895",
+         "field_search": "question",
+         "question": "mình có mua lại 01 máy của 1 bạn mua ở tgdd, máy còn bảo ành điện tử đến 09/02/2020. Máy mình mới bị rơi và bị xe cán qua,nên chắc là không được bảo hanh. :(. tgdd cho mình hỏi máy mình có được mua bảo hiểm tai nạn bên mình ko ạ, mình gọi cho người bán nới có mua. Số imei máy: 352141103320863. Cảm ơn TGDD nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.14389,
+         "id": "1167738",
+         "field_search": "question",
+         "question": "Cho mình hỏi là màn hình nokia 8.1 bây giờ thay hết bo nhiu, thay trong bao lâu, điện thoại mình mới mua đc hơn 3 tháng có đc bảo hành không, cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.132977,
+         "id": "1156159",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại Huwei trả góp trong vòng 4 tháng , mình trả đc 1 tháng rồi . còn 3 tháng mình thanh lý hợp đồng 3 tháng còn lại đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.12615,
+         "id": "1008791",
+         "field_search": "question",
+         "question": "mình có mua dt đập đá cũ ở tgdd , bây h nó bị hư làm sao biết còn bảo hành không ,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.11079,
+         "id": "1017600",
+         "field_search": "question",
+         "question": "ad cho mình hỏi..mình mua máy ở tgdđ dc khoảng 3 tháng. v còn ưu đãi mua sim vina bùm ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.090534,
+         "id": "1168117",
+         "field_search": "question",
+         "question": "Mình mua ip 7 plus 32g tại tgdd ngày 19/5/2019 theo trả góp 8 tháng. Đến nay 3 ngày rồi chưa kích hoạt bảo hành theo apple. Lý do vì sao tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.090443,
+         "id": "868811",
+         "field_search": "question",
+         "question": " Cho mình hỏi Imei 355793070605374 là IP SE đã mua ở thế giới di động vào tháng mấy và còn bảo hành không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.01772,
+         "id": "996730",
+         "field_search": "question",
+         "question": "Điện thoại mới mua hồi tháng 4. Vậy còn bảo hành dán lại điện thoại không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.83495,
+         "id": "1015683",
+         "field_search": "question",
+         "question": "Mình mua máy ở tgdd được nửa tháng dùng đơ và chậm có được đổi máy khác không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.829138,
+         "id": "810377",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình mua 5s ở tgdd tháng 2 mình dùng bị rơi mình muốn thay vỏ có dk k. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.821072,
+         "id": "1007135",
+         "field_search": "question",
+         "question": "Dòng samsung j2 prime còn bảo hành 6 tháng e mua ở TGDĐ giờ bên mình thu lại thì dc bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.80366,
+         "id": "1151216",
+         "field_search": "question",
+         "question": "Mình có mua sp oppo f9 bên tgdd tháng 10 năm ngoái h máy có những lỗi này bên bạn có bảo hành khắc phục k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.68364,
+         "id": "948440",
+         "field_search": "question",
+         "question": "Cho mình hỏi... Mình mới mua laptop ở tgdd, nhưng k biết vì sao máy tính sài được 3 ngày thì máy giật lag. Scan thì k thấy virus... A, chị nào giúp e với. Máy còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.622934,
+         "id": "994531",
+         "field_search": "question",
+         "question": "Mình có 1 con acer R11 mua bên TGDD được 3 tháng nhưng đã bị mất hoá đơn . Trong trường hợp mình muốn bán lại máy lại cho cửa hàng có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.584587,
+         "id": "988725",
+         "field_search": "question",
+         "question": "máy tính mình mới mua được 5 tháng ở TGDĐ hôm qua đi chạy lại máy giờ nó còn đơ hơn trước di chuột còn không chạy. cho mình hỏi giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.505499,
+         "id": "802146",
+         "field_search": "question",
+         "question": " iPhone còn bảo hành 3 tháng TGDĐ là bảo hành ra sao ạ xin cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.477154,
+         "id": "1022207",
+         "field_search": "question",
+         "question": "Em mới mua j7 primer được 2 tháng và còn bảo hành. Máy còn mới nguyên zin k xước.cửa hàng mình có mua lại không ạ. Nếu mua lại thì giá cả thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.419495,
+         "id": "887124",
+         "field_search": "question",
+         "question": "cho mình hỏi. chế độ bảo hành của bên mình và FPT khác nhau ahmình mới mua 1 iphone SE bên mình thì chế độ bảo hành 1 đổi 1 trong tháng đầu còn bạn mình mua bên FPT thì chế độ bảo hành bên ấy 1 đổi 1 trong 12 tháng là sao akvà còn vấn đề nữa là khi máy mình tại sao check imei của trang appe lại ko dc khi vào máy tính mói check được còn máy mua bên FPT lại check được vậy là saocác bạn giải thich hộ mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.412218,
+         "id": "990811",
+         "field_search": "question",
+         "question": "Mính mới mua điện thoại samsung J7 Prime gần 3 tháng, hiện mình muốn bán lại cho TGDD thì giá bao nhiêu? Máy mình vẫn còn nguyên, không trầy xước, bong tróc hay sửa chữa gì.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.323542,
+         "id": "1012064",
+         "field_search": "question",
+         "question": "tại sao khi chưa đặt giữ máy thì bảo hành còn 4 tháng đăng ký xong thì bảo hành máy còn 0 tháng vậy giải thích hộ mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.30954,
+         "id": "1016206",
+         "field_search": "question",
+         "question": "Cho e hõi e mua vivo 5s xài đc 2 tháng máy còn nguyên còn đũ phụ kiện sạc vậy bên tgdd có thu mua lại ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.283958,
+         "id": "781703",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua iPhone 4s ở tgdd Sao Đỏ dc khoảng 3,4 tháng về Bắc Ninh ăn tết k mang giấy tờ lúc mua theo ra tgdd ở Bắc Ninh sưả lỗi treo táo có mất phí k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.247309,
+         "id": "1002702",
+         "field_search": "question",
+         "question": "Mình mua điện thoại ở điện máy , bây giờ máy mình bị hư, check imei còn bảo hành nhưng giấy bảo hành bị mất thì bên mình có bảo hành cho máy mình không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.216692,
+         "id": "1007992",
+         "field_search": "question",
+         "question": "mua ĐT tại TGDD mà nay bị hư, còn hạn bảo hành mà không còn biên lai mua hàng có đưa đến TGDD để bảo hành được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.16554,
+         "id": "1013681",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi nếu máy mình mua ở tgdd đã qua sử dụng nhưng đang trong thời gian bảo hành có được đổi trả không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.044262,
+         "id": "1164611",
+         "field_search": "question",
+         "question": "Tgdd cho hỏi sdt 0383271058 mua cap sạc iphone còn hạn bảo hành ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.993341,
+         "id": "803270",
+         "field_search": "question",
+         "question": "iPhone 6 16gb của mình bị tình trạng đơ, mình đã môi phục cài đặt gốc nhưng lâu lâu nó vẫn bị. Cho mình hỏi là máy sửa lỗi phần mềm bao nhiu? Máy mình mua ở TGDĐ đi 1 năm 4 tháng vậy còn bảo hành không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.988527,
+         "id": "751742",
+         "field_search": "question",
+         "question": "Mình có mua iPhone 4s tại Thegoididong và còn bảo hành 6 tháng. Hôm rồi vô tình mình bị rơi xuống nước và có đem tới 128 lê lai để bảo hành và bị từ chối, mình có yêu cầu sửa và trả tiền nhưng không được đáp ứng. Vậy cho mình hỏi là iPhone nếu không được đáp ứng bảo hành thì sửa chính hãng ở đâu, không lẽ hết hạn bảo hành một năm mà điện thoại bị hư thì bỏ đi hay sao. xin chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.986807,
+         "id": "997367",
+         "field_search": "question",
+         "question": "Chào TGDD ạ. Em muốn hỏi là e muốn bán lại máy samsung J7 prime còn bảo hành 6 tháng thì giá của máy ntn ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.973877,
+         "id": "792639",
+         "field_search": "question",
+         "question": " Qtv kiểm tra giúp máy này mua tại tgdd k dùm mình nhé và còn bảo hành không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.892403,
+         "id": "1017357",
+         "field_search": "question",
+         "question": "Mình có mua cáp sạc bên tgdd, còn bảo hành 1 đổi 1 bây giờ mình đổi lại và bì thêm tiền mua 1 dây cap khác được không vậy? Mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.888521,
+         "id": "1115310",
+         "field_search": "question",
+         "question": " Mình muốn up ram laptop mà máy mình còn 9 tháng bảo hành. Cho mình hỏi khui máy rồi có được hỗ trợ bảo hành nữa ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.87896,
+         "id": "1008350",
+         "field_search": "question",
+         "question": "Em chào Anh/Chị bên tgdd ạ. Em muốn hỏi là máy em còn bảo hành 4 tháng giờ bị đen màn hình cảm ứng vân ok. vậy có được bảo hành k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.865711,
+         "id": "872563",
+         "field_search": "question",
+         "question": "Bị lừa. Con em mình xem trên thegioididong và chọn mua iPhone 5s với giá ghi rõ là 6990k, thông tin máy là hàng đập hộp, full box, bảo hảnh chính hãng 12 tháng. nhưng đem về mình kiểm tra máy check đã được active và hết hạn bảo hành từ hơn 1 năm. Vậy là hoàn toàn sai. Cần tgdd có câu trả lời sớm.Mua máy tại Tgdd Phổ Yên.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.84592,
+         "id": "751979",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có mua cây iPhone 6s hàng chính hãng luôn nhưng mình không có mua ở TGDD mà mình mua ở VTA hay FPTBên mình có nhận thu lại máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.828707,
+         "id": "885080",
+         "field_search": "question",
+         "question": " Em mới mua chiếc iPhone 5s của tgdd đc 7 tháng giờ màn hình bị lỗi sọc dọc.Thì em có đc bảo hành không ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.80485,
+         "id": "1003063",
+         "field_search": "question",
+         "question": "tgdd sao mình hỏi mà 2 ngày rồi vẫn chưa có câu trả lời ạ, mình mua ip6 ở tgdd được 10 ngày kiểm tra pin thì bị chai hơn 30%, mình muốn bảo hành thì thay bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.803747,
+         "id": "1011898",
+         "field_search": "question",
+         "question": "Điện thoại ip7 bản 125g của mình mua tháng 10 năm 2016 còn bảo hành,không bị lỗi,chưa bị trầy xước thì đc mua với giá bao nhiêu,trước đây mình mua hơn 21 triệu,giờ muốn bán lại để lên đời máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.801243,
+         "id": "1159463",
+         "field_search": "question",
+         "question": "Mình có mua 1 điện thoại Mobistar s2 dual tại TGDD minh khai năm ngoái. Điện thoại mình đg bị hỏng microphone thu. Mình vẫn còn tin nhắn bảo hành từ lúc mua máy. Giờ vẫn trong thời gian bảo hành. Nhưng giấy tờ lúc mua máy mình làm mất rồi. Vậy thì muốn hỏi TGDD là:+ Mình có thể bảo hành máy không ?+ Nếu vẫn được thì giờ mang máy ra chỗ mình đã mua, hay tại TGDD gần nhà cũng được?+ Mình sửa microphone đc bảo hành miễn phí hay mất phí?Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "1016626",
+   "total": 26513,
+   "total_current": 100,
+   "max_score": 61.752117,
+   "origin_question": "Máy nào chừng khoảng 2tr5 trở lại mà có thể chơi game tốt nhất",
+   "hits": [
+      {
+         "score": 27.125029,
+         "id": "1164498",
+         "field_search": "question",
+         "question": "QTV ơi, trong tầm giá 7.5 triệu trở xuống thì máy nào chơi game tốt nhất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.081793,
+         "id": "1167734",
+         "field_search": "question",
+         "question": "Chờ em hỏi, samsung nào chơi game tốt nhất mà giá khoảng trên dưới 4tr thôi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.173223,
+         "id": "1148639",
+         "field_search": "question",
+         "question": "em có tầm 2tr5 cho hỏi mobiistar s2 dual vs mobiistar e sefie cái nào chơi game tốt ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.493341,
+         "id": "904158",
+         "field_search": "question",
+         "question": " Hiện giờ nếu mình muốn mua một chiếc dt chơi các game nặng được vs giá từ 7 triệu trở xuống thì máy nào là tốt nhất ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.40032,
+         "id": "1015880",
+         "field_search": "question",
+         "question": "có khoảng 2tr500 thì mua máy nào chơi game luớt face lâu mà tốt ạ?máy cũ cũng đựoc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.159899,
+         "id": "1159402",
+         "field_search": "question",
+         "question": "Cho em hỏi có điện thoại nào chơi game tốt mà tầm giá khoảng 34 triệu không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.066288,
+         "id": "1019625",
+         "field_search": "question",
+         "question": "shop mình có máy nào chơi liên quan tốt mà giá 1tr3 trở xuống ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.047775,
+         "id": "1158762",
+         "field_search": "question",
+         "question": "Huawel y9 vs redmi note 7 cái nào chơi game tốt nhất ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.333738,
+         "id": "1146234",
+         "field_search": "question",
+         "question": "Qtv e đang thắc mắc nên mua dt nào có cấu hình chơi game tốt như iphone6 plus xiaomi redmi note5 vivo y91 huawai y9 con nào chơi game tốt nhất v ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.322618,
+         "id": "1145889",
+         "field_search": "question",
+         "question": "Đt chơi game PUBG mobile tốt nhất giá dưới 4tr là loại nào v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.3167,
+         "id": "1164575",
+         "field_search": "question",
+         "question": "Có chiếc máy nào mà 10 triệu mà có trống nước và chơi game tốt không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.267908,
+         "id": "1140034",
+         "field_search": "question",
+         "question": "mình muốn biết cửa hàng có những loại máy nào có thể chơi game tốt không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.053259,
+         "id": "763529",
+         "field_search": "question",
+         "question": " Cho em hỏi chỗ minh laptop nào rẻ nhất chơi tốt được game world of tank? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.03789,
+         "id": "1158417",
+         "field_search": "question",
+         "question": "Bên mình có laptop nào treo game chừng 56 pb game nặng chừng 50mb, tốt ko ạ. Yêu cầu treo nhiều giờ đồng hồ liền ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.96618,
+         "id": "1144032",
+         "field_search": "question",
+         "question": "cho mình hỏi nây giờ có dòng nào giá 4tr5 trở lại mà chơi game ổn định không v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.876204,
+         "id": "1141651",
+         "field_search": "question",
+         "question": "Tầm giá từ 10 đến 13 triệu nên mua máy loại nào tốt nhất để chơi game, đặc biệt là game Pubg.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.299053,
+         "id": "994626",
+         "field_search": "question",
+         "question": "Cho em hỏi nên mua máy điện thoại nào tầm giá 34 triệu để chơi game 3Q 360mobi tốt nhất vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.192562,
+         "id": "1000090",
+         "field_search": "question",
+         "question": "tư vấn giúp tôi laptop có card đồ họa mạnh nhất phù hợp với nhu cầu chơi game nặng trong khoảng giá 20 triệu trở xuống đc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.184044,
+         "id": "1156851",
+         "field_search": "question",
+         "question": "A50 với a7 chiếc nào chơi game tốt nhất và chiếc đó chỉ trong tầm giá 6.990.000",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.844128,
+         "id": "1152205",
+         "field_search": "question",
+         "question": "Em có 1 cái oppo j7 rồi giờ em muốn tách ra và mua thêm 1 cái máy chỉ để chơi game và xem phim ạ  theo anh thì dòng nào là tốt nhất. Nhưng giờ em mới có khoảng 7 triệu thôi ạ  . Loại nào dưới 7 triệu trừ iPhone ạ.  Tư vấn cho em với.  Chơi game mượt và xem phim tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.795774,
+         "id": "801419",
+         "field_search": "question",
+         "question": " Máy tính nào có thể chơi game 3q ổn nhất vậy add . Chúng ta cần lựa ram nhiều hay cpu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.094936,
+         "id": "1013772",
+         "field_search": "question",
+         "question": "Cho hỏi có máy nào chơi game cf ngon mà màn hình gập 360 không ?Vỏ nhôm càng tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.044046,
+         "id": "1161700",
+         "field_search": "question",
+         "question": "Cho e hỏi oppof11vs A50 cái nào chơi game liên quân tốt hơn ạ với lại bin hai máy bin máy nào tốt hơn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.017872,
+         "id": "1145501",
+         "field_search": "question",
+         "question": "giá 4tr trở xuống thì máy nào ghi âm cho chất lượng tốt nhất vậy. mình cần quay video có tiếng guitar",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.95008,
+         "id": "804928",
+         "field_search": "question",
+         "question": "bạn có thể giới thiệu giúp mình laptop nào có thể.....chơi game onl,lướt wed mượt, bộ nhớ tốt và có camera tốt.....giá dưới 9tr ạ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.949398,
+         "id": "1133881",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại nào Pin 4000mAh giá từ 2tr5 trở xuống ko dạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.919262,
+         "id": "996622",
+         "field_search": "question",
+         "question": "Có Máy nào chơi liên quân tốt nhấ mà giá lại rẻ dưới 2,5tr",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.910234,
+         "id": "1136682",
+         "field_search": "question",
+         "question": "A có thể tư vấn em máy nào từ 1 đến 2 triệu có cấu hình tốt không ạ để chơi game ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.900555,
+         "id": "1147184",
+         "field_search": "question",
+         "question": " Trong phân khúc 4tr500k thì em có thể mua máy nào tốt để chơi các loại game nặng và pin lâu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.83851,
+         "id": "774382",
+         "field_search": "question",
+         "question": " Có laptop nào phục vụ việc chơi game tốt mà giá dưới 7 triệu không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.823906,
+         "id": "1155320",
+         "field_search": "question",
+         "question": "Tgdd cho hỏi là giữa hai sản phẩm huawei y9 2019 với samsung galaxy m20 thì nên mua máy nào để có trải nghiệm chơi game tốt nhất ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.71381,
+         "id": "1165741",
+         "field_search": "question",
+         "question": "Trong tầm giá 4 triệu máy nào chơi game khoẻ nhất?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.437557,
+         "id": "1133345",
+         "field_search": "question",
+         "question": " Máy chơi game tốt có chíp snap càng tốt hãng xiomi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.393507,
+         "id": "1145213",
+         "field_search": "question",
+         "question": "ad cho em hỏi là có đt nào từ 2tr5 trờ xuống mà chơi game mượt và pin trâu ko ạ, nếu có thì nó có còn hàng ở tp Cao Lãnh ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.381481,
+         "id": "991637",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mún mua một chiếc điện thoại khoảng 6tr trở xuống để chơi game thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.367546,
+         "id": "1009699",
+         "field_search": "question",
+         "question": "giờ em muốn tìm máy để chơi game vậy tầm giá 6 triệu thì em nên dùng mày nào tốt nhất mong anh chị tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.109848,
+         "id": "767693",
+         "field_search": "question",
+         "question": "1.   Mình cần mua laptop ( hãng nào cũng được ) giá từ 10tr trở xuống cỏ thể chơi LMHT mà ko bị lag . Mong Ad tư vấn giúp .2.   Khi mua máy mình có được thử game tại chổ xem có chơi được hay ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.995676,
+         "id": "996563",
+         "field_search": "question",
+         "question": "Chào QTV ạ , cho em hỏi có máy tính bảng nào có giá từ 4tr5 trở xuống mà chơi game liên quân mượt ko ạ , hãng nào cũng được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.950369,
+         "id": "1006641",
+         "field_search": "question",
+         "question": "Cho em hỏi mua laptop pin khoảng 5 đến 6 tiếng, core i5 trở lên, card đồ họa rời, màn hình 15.6 inch, RAM 4GB trở lên, có hỗ trợ SSD; giá 20 triệu trở lại; và không chơi game.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.938774,
+         "id": "1140378",
+         "field_search": "question",
+         "question": "cho mình hỏi có laptop nào chạy tốt autocads và etabs mà có giá từ 10 triệu trở lại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.853643,
+         "id": "878200",
+         "field_search": "question",
+         "question": " Cho em hỏi nên mua laptop nào tầm 15tr trở xuống mà có thể chơi được fifa mà không giật, lag ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.783918,
+         "id": "832030",
+         "field_search": "question",
+         "question": " Có máy laptop nào chạy tốt cho cấu hình game nặng không ạ. Giá khoảng 510 triệu. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.740326,
+         "id": "837075",
+         "field_search": "question",
+         "question": " Cho em hỏi máy laptop hiệu dell nào khoảng 13tr trở xuống chơi được liên minh vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.708763,
+         "id": "1023285",
+         "field_search": "question",
+         "question": "Trong tầm giá 5tr thì chiết điện thoại nào có cấu hình khỏe... Chơi những game nặng mượt mà nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.699984,
+         "id": "1154661",
+         "field_search": "question",
+         "question": "Điện thoại 5 đến 6 triệu chơi game tốt nhất ạ còn vấn đề khác không quan trọng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.673946,
+         "id": "883403",
+         "field_search": "question",
+         "question": " Laptop win 7 có chơi được game spore không vậy ? loại máy nào có thể chơi được game spore vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.532684,
+         "id": "1134147",
+         "field_search": "question",
+         "question": "điện thoại nào dưới 6tr mà chơi game mượt, camera đẹp và dùng tốt trong 3 năm vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.487926,
+         "id": "929861",
+         "field_search": "question",
+         "question": "Nình muốn mua 1 laptop để học tập cũng như chơi các game vừa mình nên chọn máy nào trong khoảng 10tr có cảm ứng trên 14inch chip i3/i5càng tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.471657,
+         "id": "776162",
+         "field_search": "question",
+         "question": " Cho hỏi em muốn mua máy tính Asus tầm 10 trieu trở xuống có máy nào chơi fifa online 3, lol,CF tốt không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.400513,
+         "id": "1151785",
+         "field_search": "question",
+         "question": "Smartphone tầm trung nào chơi game tốt,mượt?Không tính các smartphone chuyên dùng để chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.29812,
+         "id": "1164883",
+         "field_search": "question",
+         "question": "em muốn mua 1 con laptop khoảng 10tr đổ xuống có thể chơi được liên minh và game bns thì mình nên mua máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.295732,
+         "id": "1154983",
+         "field_search": "question",
+         "question": "Dưới 4 triệu thì dùng con nào mượt và chiến game tốt nhất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.247726,
+         "id": "1137957",
+         "field_search": "question",
+         "question": "Điện thoại nào dưới 10tr mà camera đẹp, chơi game mượt và dùng tốt trong 3 năm vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.233616,
+         "id": "992653",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop chơi gane loại nào sài bền và tốt nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.996113,
+         "id": "750340",
+         "field_search": "question",
+         "question": "em là sinh viên ngành cơ-đtử với số tiền khoảng 14tr thì em nên mua laptop nào cho việc học và chơi game (LoL, một số game có dung lượng khoảng 8gb hoặc hơn,...) và máy có hỗ trợ card màn hình rời thì càng tốt? em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.978079,
+         "id": "999810",
+         "field_search": "question",
+         "question": "57 triệu điện thoại nào chơi game  lướt web nhanh nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.831865,
+         "id": "996972",
+         "field_search": "question",
+         "question": "Minh cần mua 1 e laptop de chơi tốt game võ lâm 2 và 1 số game tầm trung mong ad chỉ dùm máy nào tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.830263,
+         "id": "1163048",
+         "field_search": "question",
+         "question": "vsmart joy 1 vs realm c1 cái nào chơi game tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.694494,
+         "id": "795508",
+         "field_search": "question",
+         "question": " Cho mình hỏi laptop nào rẻ nhất chơi được game AOE . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.67454,
+         "id": "1020416",
+         "field_search": "question",
+         "question": "Cho hỏi. Trong tầm 4tr. Nếu để nghe nhạc. Máy hãng nào là ngon nhất. Cụ thể máy nào càng tốt. Cám ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.63837,
+         "id": "988512",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi có chiếc smart phone nào từ 1,5 triệu trở xuống mà chơi game mựơc ko ví dụ modern combat 5 ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.624754,
+         "id": "1009142",
+         "field_search": "question",
+         "question": "Em có cỡ 4tr trở lại nên mua đth cũ nào có thương hiệu như ss,oppo có vân tay cấu hình cak để chơi game ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.55142,
+         "id": "1168667",
+         "field_search": "question",
+         "question": "cho hỏi bên mình có đt nào tốt để chơi game pubg ko vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.49496,
+         "id": "936829",
+         "field_search": "question",
+         "question": " Cần tgdd tư vấn laptop giá khoảng 10triệu có thể chơi được game GTA5 ạ..thank ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.47646,
+         "id": "1164063",
+         "field_search": "question",
+         "question": "máy điện thoại nào rẻ nhất mà chơi được free fire nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.41248,
+         "id": "997000",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạem muốn mua SamSung mà ko biết chọn cái nào ko bị lag, nhờ ad tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.412071,
+         "id": "1147098",
+         "field_search": "question",
+         "question": "Cho hỏi game srw nào hay nhất trên ps2 và trò nào mà galaxy s9 mua tại điện máy xanh có thể chạy dc. Hiện mới mua s9 hum qua.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.321869,
+         "id": "1154349",
+         "field_search": "question",
+         "question": "Sao máy samsung j4 lúc trc chơi pubg mượt mà h chơi lại bị giật lag. Có cách nào để chơi game mượt như cũ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.300507,
+         "id": "1133730",
+         "field_search": "question",
+         "question": "cho mình hỏi một chút là oppo f7 youth vs huawei y9 2019 thì khi mà chơi game thì lựa chọn máy nào sẽ tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.284983,
+         "id": "1009750",
+         "field_search": "question",
+         "question": "Em muốn mua máy dưới 4tr5 ở bên mk có thể chơi game mượn mà và lưới web mà k pit lên chọn máy nào. Qtv giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.26456,
+         "id": "1151665",
+         "field_search": "question",
+         "question": "Cho xin hỏi là tôi nên mua laptop hãng nào tốt nhất để lập trình game vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.25053,
+         "id": "1022847",
+         "field_search": "question",
+         "question": "Chào Qtv, mình hiện giờ đang cần tìm một chiếc điện thoại có tầm giá 3 triệu trở xuống có thể đáp ứng những yêu cầu sau: HĐH Android 6.0, CPU 1.5ghz, RAM 2gb, bộ nhớ 16gb, camera ổn và kết nối wifi tốt, pin máy từ 2500 mah trở lên, có thể chơi mượt mà một số trò chơi online như crossfire legends. Nhờ Qtv tư vấn cho mình một chiếc máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.184866,
+         "id": "786716",
+         "field_search": "question",
+         "question": "Qvt ơi có laptop nào chơi game liên minh huyền thoại mượt ở đồ họa trung bình mà màng hình 15.6 in. Có giá 12.13 triệu trở xuống không vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.161839,
+         "id": "1016188",
+         "field_search": "question",
+         "question": " nokia 6 vs oppo f1s 2017 cái nào chơi game nặng tốt hơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.146263,
+         "id": "1020422",
+         "field_search": "question",
+         "question": "Máy nào xem phim, chơi game Liên Quân Mobile mượt và không giật lag nhất giá từ 37 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.084274,
+         "id": "1147824",
+         "field_search": "question",
+         "question": "Samsung m20 với asus max pro m2 con nào chơi game tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.0527,
+         "id": "1007065",
+         "field_search": "question",
+         "question": "cho e hỏi dòng điện thoại nào tầm 3 triệu trở lại mà có thể lên mạng mạnh ko admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.008204,
+         "id": "1005361",
+         "field_search": "question",
+         "question": "Cho e hỏi tầm 5 đến 6 triệu thì mua máy nào chơi game tốt và pin trâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9998455,
+         "id": "802331",
+         "field_search": "question",
+         "question": "Tôi đổi Facebook mới tôi muốn chơi lại game cũ. Sao tôi có thể nhập Facebook của mình mà không cần phải chơi lại từ đầu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.967667,
+         "id": "1161111",
+         "field_search": "question",
+         "question": "Trong tầm giá 7  13 triệu máy nào có camera sau tốt nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.942503,
+         "id": "1012249",
+         "field_search": "question",
+         "question": "nhu cầu của e là chơi game, facebook thì nên chọn máy nào từ 5tr trở xuống ko quan trọng thương hiệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.887254,
+         "id": "996836",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.856831,
+         "id": "996355",
+         "field_search": "question",
+         "question": "tầm khoảng 800.000 đ cần mua 01 điện thoại. Nhu cầu nghe, gọi, nhắn tin, pin trâu (khoảng 5-7 ngày trở lên càng tốt - càng lâu càng tốt), xài bền (ko phải xài được vài tháng thì hư) theo thegioididong nên mua máy nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.8013735,
+         "id": "1147603",
+         "field_search": "question",
+         "question": "Honor play với asus max pro m2 cái nào chơi game tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.747973,
+         "id": "1006498",
+         "field_search": "question",
+         "question": "Cho em hỏi máy laptop nào bây giờ dùng tốt nhất của cửa hàng nhg giá tâm 20tr đổ về ạ. Có thể dùng như máy tinh bảng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.715519,
+         "id": "1015678",
+         "field_search": "question",
+         "question": "Bên các ah có dòng máy  laptop dell nào chơi game nặng tốt từ 15tr đén 16tr màn hình to cảm bín vân tay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.653268,
+         "id": "1156769",
+         "field_search": "question",
+         "question": "A7 2018 có chơi PUBG tốt không anh(chị). Nếu máy này chơi Pubg khong dược thì tư vấn cho mình xem còn con máy nào chiến game pubg tôt không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.551839,
+         "id": "1007210",
+         "field_search": "question",
+         "question": "AD cho em hỏi cái laptop nào giá dưới 10tr mà có thể chơi được game lmht và CF được ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.510275,
+         "id": "775773",
+         "field_search": "question",
+         "question": " Mình cần chơi game Thiên Long Bát Bộ thì nên mua laptop nào thích hợp nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.5072775,
+         "id": "1009467",
+         "field_search": "question",
+         "question": "Ad cho em hỏi iphone 5 thường và iphone 5C thì máy nào chơi game liên quân tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.489505,
+         "id": "1141523",
+         "field_search": "question",
+         "question": "Em cần một cái điện thoại chạy mượt ram khoảng 8g và bộ nhớ 128gb. Em nghiêng về oppo và giá khoảng 7tr trở xuống. Em cần để lướt face và chơi những game nặng như pubg và liên quân mà không lag ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.467999,
+         "id": "1005959",
+         "field_search": "question",
+         "question": "Ad ơi, laptop tầm 10tr thì laptop nào chơi game Đột Kích, LMHT tốt ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.467999,
+         "id": "995776",
+         "field_search": "question",
+         "question": "cho em hỏi đt giá tầm 5tr8tr.. thì nên mua đt nào chơi game tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.428079,
+         "id": "1164610",
+         "field_search": "question",
+         "question": "Cho em hỏi khoảng 15 triệu nên mua laptop nào chơi game ổn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.330631,
+         "id": "828901",
+         "field_search": "question",
+         "question": " mún mua máy tính có thể chơi được game nặng như liên minh huyền thoại hay là máy nào dậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.283595,
+         "id": "969784",
+         "field_search": "question",
+         "question": " Nên mua laptop nào chơi mượt game LMHT Đột Kicks tầm khoảng 20 triệu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.267675,
+         "id": "1130461",
+         "field_search": "question",
+         "question": " Sharp 403sh chơi game liên quân và pubg có tốt ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.266644,
+         "id": "998919",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại dưới 4tr chơi gam nặng tốt nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.261086,
+         "id": "773367",
+         "field_search": "question",
+         "question": " Máy tính bàn nguyên bộ giá 9 triệu trở lại loại nào chơi được LOL mượt ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

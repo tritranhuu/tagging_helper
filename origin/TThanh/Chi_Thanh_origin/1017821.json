@@ -1,0 +1,801 @@
+{
+   "id_query": "1017821",
+   "total": 31665,
+   "total_current": 100,
+   "max_score": 158.9756,
+   "origin_question": "E đang sử dụng điện thoại J5 prime nhưng e đang thắc mắc làm sao để bật mạng di động cho 1 sim. vì khi chọn bật mạng di động ở sim 1 thfi sim 2 cũng hiện bật mạng di động. Hướng dẫn giùm e. E cảm ơn",
+   "hits": [
+      {
+         "score": 73.173195,
+         "id": "1133931",
+         "field_search": "question",
+         "question": "Galaxy Tab E bật mạng k hiện H tắt đi khởi động lại cũng k được ? Sim mua thế giới di động 1 năm vẫn còn mạng mà tại sao k hiện H",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.622066,
+         "id": "1014094",
+         "field_search": "question",
+         "question": "Em xài máy Huawei Y6II, máy lắp 2 SIM, làm sao để chuyển đổi SIM bật Dữ liệu di động? Hiện tại em bật Dữ liệu di động chỉ thấy tín hiệu 3G hiện lên ở cột sóng SIM1.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.622513,
+         "id": "1134264",
+         "field_search": "question",
+         "question": "Chào bạn,Mình xài note 9 nhưng mình không biết làm cách nào để chuyển mạng 3g từ sim 1 qua sim 2. Mình ko muốn sử dụng 3g trên sim 1 nhưng nếu mở dữ liệu di động lên để xài sim 2 thì 3g sim 1 vẫn bị tính tiền mặc dù đã hủy gói cước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.549118,
+         "id": "1151305",
+         "field_search": "question",
+         "question": "Em đang sử dụng huawei y6 prime 2018 và sử dụng sim vietnamobile nhưng e ko thể bật 4gE phải làm sao mới bật được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.078106,
+         "id": "1133370",
+         "field_search": "question",
+         "question": "Cho hỏi mình sài j7 pro sài 2 sim sim 1 thì dùng để đăng ký mạng 3g sim 2 thì dùng để gọi nhưg tại sao khi nghe cuộc gọi từ sim 2 thì sim 1 ko kết nối mạng nữa nhưg kết thúc cuộc gọi sim 2 thì sim 1 kết nối mạng lại làm sao để vừa nghe sim 2 mà vẫn dùng mạng sim 1 đc mong chỉ giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.007862,
+         "id": "1008558",
+         "field_search": "question",
+         "question": "Mình tên là Tô Văn Chính đang ở tại 6/2A Lý Nam Đế, Phường Phù Đổng, TP Pleiku, Gia Lai      1- Vinaphone:(1) 0941 772 146; (2) 01292 103 371; (3) 0947 136 001; (4) 0947 116 002      Mình đang dùng 2 điện thoại Samsung Galaxy J5 2015 và Samsung Galaxy J7 2015, mỗi máy có 2 khe sim.       Mình nhận thấy:      Còn cách trả lời của Thế giới di động trong bài Hướng dẫn gọi video giữa các điện thoại Samsung tên mạng mà mình trích lại sau đây là không đúng:            II- Mình dùng điện thoại Galaxy J5, J7 2015 nên mình thấy hướng dẫn thao tác chọn sim dùng cho cuộc gọi video ngày 25/11/2015 của Thế giới di động có khác với các bước thao tác trên điện thoại của mình. Nhưng các bạn cần nắm vững nguyên tắc để gọi được video call như sau:      1- Cả 2 điện thoại gọi đi và đến đều có cấu hình thực hiện được cuộc gọi video call như Sam Sung J5, J7…      3- Thuê bao đang hoạt động trong vùng phủ sóng 3G:         Trong vòng phủ sóng 3G là vũng đã được nhà mạng phủ sóng 3G chứ không phải  là điện thoại phải có sóng 3G (không phải bật dữ liệu di động lên).      Cách thực hiện:      Sau đó vào tiếp điểm truy cập (dòng bên trên Chế độ mang), nhấn vào đó, rồi nhấn tiếp vào ô SIM 1, lần lượt chọn:             -  Trường hợp sim Viettel chọn: VIETTEL Email (v-internet)      Chú ý: khi chuyển sim gọi hoặc nhận cuộc gọi thì phải chọn lại mạng 3G cho sim đó như trên.      Khi đáp ứng 5 điều kiện trên thì thực hiện được gọi video call.      1- Nếu điện thoại chỉ lắp 1 sim thì nghe và gọi video call bình thường.      a- Ở vị trí khe sim thứ nhất: nhận và gọi video call bình thường.      Ngoài vòng phủ sóng của 3G      Vậy lỗi này do đâu, do nhà mạng hay do điện thoại?      IV- Để phát hiện lỗi cuộc gọi không thực hiện được do sim, hay do điện thoại, tránh nhầm lẫn khi chọn sim, sai sót do chưa chọn mạng 3G cho sim, mình đã thực hiện như sau:      J5: sim 1: 0947136001; sim 2: 01291103371.      2- Thực hiện từng cuộc gọi thoại, video call từ từng số điện thoại của điện thoại J7 sang từng số điện thoại của điện thoại J5 và ngược lại, ghi kết quả từng cuộc gọi ra giấy:, gọi được ghi có, không gọi được ghi 0. Mỗi khi chuyển cuộc gọi từ sim này sang sim khác, mình phải chuyển chế độ sim đó sang 3G hoặc 3G/2G hoặc WCDMA/GMS.      J5: sim 1: 0941772146; sim 2: 0947116002      Qua nhiều lần thực nghiệm trên cả 2 mạng Vinaphone và Viettel, mình đều có kết quả như phần III.      Rất mong Thế giới di động quan tâm, nhanh chóng trả lời! Về việc  gọi video giữa các điện thoại Samsung  không cần internet.      Gửi Thế giới di động và bạn đọc gần xa!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.82326,
+         "id": "1138676",
+         "field_search": "question",
+         "question": "Chào ad, ad cho mình hỏi về điện thoại asus zenphone 2, mình bị vấn đề như sau, Khe cắm Sim 1 cho phép bật 2,3,4G và khe cắm Sim 2 không hỗ trợ 2,3,4G, mình đang sử dụng Sim Viettel mình cắm ở khe Sim 1 thì bật 2,3,4G vào internet bình thường, nhưng khi mình cắm Sim Mobifone vào khe Sim 1 thì điện thoại mình hoàn toàn không nhận Sim cũng như không bật được 2,3,4G (Sim mobile mình đã test ở điện thoại khác thì vẫn hoạt động vào internet bình thường) không biết tình trạng này là như thế nào bạn và có cách nào khắc phục không bạn. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.60204,
+         "id": "1012553",
+         "field_search": "question",
+         "question": "Sim em bị Mạng di động không khả dụng, em dùng sim Viettel, điện thọai LVMobile. Giờ phải như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.35668,
+         "id": "996141",
+         "field_search": "question",
+         "question": "Thế giới di động có chuyển sim 3g qua sim 4g mạng vinaphone ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.17405,
+         "id": "1150387",
+         "field_search": "question",
+         "question": "E đang dùng ss glx s9+ mỗi lần bật dữ liệu di động thì máy k bật mà phải khởi động lại máy mới có dữ liệu ạ. Hướng dẫn e cách khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.10243,
+         "id": "1160357",
+         "field_search": "question",
+         "question": "E có 1 chiếc oppo a71 trong khi sử dụng sim của e bị khóa puk lâu rồi và e muốn rắn sim mới cùng mạng vào để sử dụng thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.909588,
+         "id": "1022070",
+         "field_search": "question",
+         "question": "e mua sim bùm của thế giới di động số 01256036527 giá 250k, ưu đãi là nt nội mạng ko mất tiền nhưng sao vẫn trừ vào tk của e 200đ/tn( sim này e ko nt mấy ac nhé). ac xem lại giúp e nhé, e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.857162,
+         "id": "777217",
+         "field_search": "question",
+         "question": " Sim em bị Mạng di động không khả dụng, em sài sim VINA, điện thọai Philips w3500. Giờ phải như thế nào?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.887142,
+         "id": "996506",
+         "field_search": "question",
+         "question": "Tôi có mua 1 sim bùm vina data ở tgdd, sao mới dùng được 4,5 tháng nmà lại bị cắt mạng di động vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.725006,
+         "id": "614699",
+         "field_search": "question",
+         "question": " làm sao để chuyển mạng dữ liệu di động đt từ chữ E sang H?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.908993,
+         "id": "1013257",
+         "field_search": "question",
+         "question": "E sử dụng máy mobistar 2 sim. Sim viettel nt bình thường còn sim mobi thì k gửi tn được. Nguyên nhân ad biết k ạ. E cảm ơn đã xem thắc mắc của e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.02527,
+         "id": "999128",
+         "field_search": "question",
+         "question": "Cho e hỏi, e đang sử dụng oppo F3, mà radio di động là gì. E không bật ứng dụng đó, thấy hao pin qua và chỉ e cách tắt ứng dụng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.91955,
+         "id": "1154164",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi với: mình dùng  asus zenphone maxpro m1. Máy mình dùng 2 sim online đều của viettel. 1 sim mình đăng ký data v90. Và 1 sim mình không đăng ký data. Vậy mà mỗi lần mình bật dữ liệu di động lên. Là máy mặc định sử dụng data của sim không đăng ký data. Mặc dù mình đã đổi vị trí sim 1-2 cho nhau mà vẫn như vậy. Chỉ khi mình tắt online sim không dk data đi. Chỉ dùng 1 sim v90. Thì lúc đấy bật dữ liệu di động lên thì máy mới dùng data của sim v90. Có cách nào ad chỉ giúp mình với. Mình muốn 2 sim đều online. Và khi bật dữ liệu thì dùng sim mà mình dk data v90. Thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.64212,
+         "id": "1140232",
+         "field_search": "question",
+         "question": "Sao máy em bật dữ liệu di động nhưng không hiển thị chữ 3G và không thể vào mạng được vậy ạ? Em đã reset máy và thử lắp sim khác vào nhưng vẫn không đươc ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.326557,
+         "id": "766215",
+         "field_search": "question",
+         "question": " Cho hỏi thế giới di động có dịch vụ ghép sim hay unlock điện thoại iPhone 6s Plus lock nhà mạng docomo không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.877537,
+         "id": "1009143",
+         "field_search": "question",
+         "question": "Cho e hỏi chút ạ. e dùng máy ss E5 vẫn lên mạng được nhg k khi gọi điện thì báo là mạng di động không sẵn sàng thì làm ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.765205,
+         "id": "1151777",
+         "field_search": "question",
+         "question": "Đt e lumia 640xl , cho e hỏi tại s e ko thể chia sẻ truy cập mạng đc ạ...  Mạng di động e xài bình th ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.732033,
+         "id": "1135580",
+         "field_search": "question",
+         "question": "Nhờ add cho e hỏi! A đang SD SAMSUNG E5! trước giờ e chỉ sử dụng 1 sim, nay e gắn thêm 1 sim khác vô thì điện thoại e báo \" Sim 2 chỉ nhận được cuộc gọi SOS \"! Nay xin nhờ sự giúp đỡ của ad? Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.21089,
+         "id": "1141105",
+         "field_search": "question",
+         "question": "A ơiMáy E mới mua về, bật 3g thì được nhưng khi chuyển sang 4g thì trên cột sóng nó hiện không có dịch vụ là sao ạ?Máy Xiaomi Mi 4 ạ!Mong a chỉ em cách khắc phục Em đã tháo sim và lau phần tiếp xúc nhưng vẫn không được ạ!  Dạ nếu được bạn thử thêm giúp mình vào cài đặt> thẻ sim& mạng di động> chọn sim1/ sim2> tên điểm truy cập> đặt lại. Loại mạng ưu tiên> ưu tiên 3G.  Nhưng vẫn không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.831528,
+         "id": "1143170",
+         "field_search": "question",
+         "question": "cho mình hỏi, điện thoại nokia 6.1 plus mình ko sử dụng đc dữ liệu di đông, mình đã bật rồi, nhưng ko có mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.810078,
+         "id": "1144598",
+         "field_search": "question",
+         "question": "Hiện em mới mua điện thoại samsung A7 em sài sim mạng viettel em đăng kí gói vô mạng 4G minmax 90  nhưng khi em bắt dữ liệu mạng lên trên máy hiện chữ (E) nhưng khi em tắt nguồn điện thoại khởi động lại thì mới được (4G) ngày nào mạng em cũng bị z hết cho em hỏi điện thoại có bị lỗi gì ko ( sáng nào mở mạng lên cũng bị y chang dậy hết em phải khởi động máy lại có khi ngày khởi dộng 2,3 lần)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.749817,
+         "id": "992114",
+         "field_search": "question",
+         "question": "Cho e hỏi iphone 5 e đã cài sim 4g rồi nhưng vẫn chưa sử dụng dc mạng lte",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.690933,
+         "id": "1000430",
+         "field_search": "question",
+         "question": "E đang sử dụng điện thoại Samsung j2 prime. Máy đang sử dụng wifi thì bị đơ mạng, khi vào các ứng dụng thì thông báo \" không có kết nối\". Tắt wifi máy đi bật lại thì sử dụng được 1 lúc thì lại gặp tình trạng như vậy. E mog các ac tư vấn giúp e về tinhd trạng này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.496464,
+         "id": "1150548",
+         "field_search": "question",
+         "question": "tôi đang sử dụng samsung a7  2018 bả 64g. hiện tại ki sử dụng mạng cứ vài phút lại xuất hiện trang quảng cáo cài đặt f  hoặc trang của thế giới di động rất phiền. Xin hỏi làm sao để chặn . Máy tôi đêr chế độ nghỉ nhưng tự nhiên lại bật sáng màn hình dù tôi ko chạm vào. Nhờ giúp đỡ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.348114,
+         "id": "1011696",
+         "field_search": "question",
+         "question": "- mình dùng máy sony xperia xa khi lắp 2 sim vào cài đặt mạng chỉ dùng được ở 1 sim. tắt 3g ở sim 1 bặt 3g sim 2 nhưng nó vẫn lên 3g ở sim 1 là sao. - Làm sao để cài đặt giới hạn cuộc gọi dưới 10 phút ở máy sony xperai XA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.270462,
+         "id": "827271",
+         "field_search": "question",
+         "question": "e vừa mua asus K555L pin liền ở thế giớ di động, vì tính chất công việc phải sử dụng laptop liên tục suốt 8 tiếng 1 ngày, làm thể nào để pin không bị chai ạ, e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.217,
+         "id": "1002645",
+         "field_search": "question",
+         "question": "cho em hỏi samsung j7 k hỗ trợ 4G ,nhưng mà sim e là sim 4G vậy nên ,e sử dụng mạng có bt k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.081764,
+         "id": "823401",
+         "field_search": "question",
+         "question": " cho e hoi tai sao e không vào được facebook cho dù dã kết nối wifi va mạng di động ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.001194,
+         "id": "846503",
+         "field_search": "question",
+         "question": "Ipad mini 2 của mình có khay sim và mặt lưng của bản 3G/4G nhưng vào phần cài đặt lại ko có dử liệu di động để bật lên.....????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.878036,
+         "id": "1141617",
+         "field_search": "question",
+         "question": "dạ em có mua điện thoại Nokia 213hiện tại em vẫn đang còn lưu lượng GB nhưng tại sao em không thể lên mạng được?em đã bật dữ liệu di động lên rồi. Hồi trước vẫn bình thường nhưng 2 hôm nay không vào được??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.66313,
+         "id": "951827",
+         "field_search": "question",
+         "question": "E MUA ĐIỆN THOẠI Ở THẾ GIỚI DI DỘNG HIỆN TẠI MÁY E ĐANG BỊ LỖI KHÔNG BẬT TÁT NGUỒN ĐƯỢC MÀ CHỈ HIỆN LOGO QUẢ TÁO. VẬY MÁY EM BỊ LÀM SAO?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.579773,
+         "id": "1013099",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Ngày mùng 8/8/2017 mình có mua đt a5 ở thế giới di động. Nhưng hiện nay dùng thì bị tụt bin quá nhanh. Trong vòng 1 tiếng k sử dụng, k bật mạng mà vẫn bị hao 30%. Vậy tôi hỏi có đc đổi 1 với 1 trong vòng 1 tháng k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.462814,
+         "id": "1162636",
+         "field_search": "question",
+         "question": "điện thoại e là redmi note 6 khi bật 3g gói 70k 3gb 1 tháng , e vẫn chưa sử dụng hết dữ liệu , vẫn chưa hết tháng nó hiện lên chữ H+ và ko vào đc mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.327312,
+         "id": "1135835",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng Huawei Y9 khi xài sim viettel thì được nhưng khi lắp sim mobo để lên mạng không biết chuyển đổi truy cập dữ liệu sang sim mobi nên không mở được. Làm sao để mở 2 sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.19884,
+         "id": "1023901",
+         "field_search": "question",
+         "question": "Tại sao máy ss j5 2016 mình dùng 2 sim. 1 sim gọi và 1 sim 3g. Nhưng đang dùng 3g thì có cuộc gọi dénd hoặc gọi đi thì máy báo mất kết nối mạng ở sim 3g nhỉ. Add có cachs nào chỉ giúp mìn với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.83847,
+         "id": "749162",
+         "field_search": "question",
+         "question": " Cho e hỏi e có ip4s bị khóa mạng ra thế giới di động có mở khóa giúp e không ạ. tks ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.580063,
+         "id": "1012413",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 6s plus 32gb ở thế giới di động 1 tháng trước. Hôm vừa rồi mình đi du lịch campuchia và mua sim 4g của nhà mạng metfone. Khi gắn sim vào thì máy nhận được sóng và nghe gọi bình thường, nhưng lúc bật 4g thì lại không thể truy cập internet mặc dù máy vẫn hiện biểu tượng LTE. Mong qtv phản hồi giúp mình trường hợp này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.466442,
+         "id": "992123",
+         "field_search": "question",
+         "question": "The gioi di dong vui lòng Liệt kê dùm mình điện thoại Nokia giá dưới 1 triệu, dạng cục gạch,1 sim,hay 2 sim j đó cũng dc,có chức năng giới hạn cuộc gọi tự động tắt nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.405067,
+         "id": "1006341",
+         "field_search": "question",
+         "question": "Em đang dùng máy sony xa. Hiện đang dùng sim vina. Mỗi khi bật dữ liệu di động thì k hiện 3g hay h+ gì đó. Phải bật tắt chế độ máy bay mới hiện. Qua đêm lại trở lại trạng thái như đầu. Giờ cũng chỉ hiện đc 3g chứ k phải h+  mong ad trả lời giúp 2 câu hỏi trên và cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.310104,
+         "id": "1156881",
+         "field_search": "question",
+         "question": "- Mình đang dùng Samsung galaxy A7 2018. Lỗi 4g toàn đao xg mạng E. - Khẳng định ko phải do mạng mình đăng ký 4G dùng suốt đổi sang máy này mới thế.- Mình cũng đã đợi bản cập nhật. Cũng đã cập nhật hết nhưng không sửa đc lỗi này. - Khởi động lại rất nhiều lần đc 1 lúc 4G lại đao xg E. Lúc cần sử dụng 4G lại phải khởi động lại. - Mình còn bảo hành đến 23/1/2020. - Mong bên Thế giới di động không trả lời chung chung như kiểu. Do mạng khu vực.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.143803,
+         "id": "1024190",
+         "field_search": "question",
+         "question": "A/c cho e hoi e dùng đt samsung galaxy trend gt s7392, khi bật mạng 3g thì chỉ hiện mạng h mà ko bao giờ hiện h+ là sao ạ. cách khắc phục như thế nào ạ. e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.888405,
+         "id": "897358",
+         "field_search": "question",
+         "question": "Adm cho em hỏi khi may e k nap sim vao kiem tra nhà cubg cấp n hiện nv nhưng khi e nắp sim nhà mạng lại bình thường nghĩa là sao ạk giúp e nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.679543,
+         "id": "933223",
+         "field_search": "question",
+         "question": "Thế giới di động có sửa chữa điện thoại không ạ. E có cái iphone 5s, mới bị rơi vài hôm. Bị vỡ màn hình .camera sau với đèn flash không hoạt động nữa. Vào ứng dụng camera chỉ thấy toàn màu đen. Nhưng bật came trước vẫn bình thường.Mong anh chị hướng dẫn dùm e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.555557,
+         "id": "1143490",
+         "field_search": "question",
+         "question": "Chào Ad, mình đang sử dụng điện thoại Samsung A5 2017, nhưng đột nhiên chế độ tự động tìm nhà mạng phù hợp bị mất đi. Bạn có thể hướng dẫn cho mình cách cài đặt trở lại được không?Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.454628,
+         "id": "767695",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đã đk gói 3g của viettel, nhưng sau khi bật dữ liệu di động thì máy không hiện 3g mà hiện chữ E làm máy chạy rất tốn pin và max chậm. ad giúp e vs e dùng iPhone 4S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.349888,
+         "id": "1150545",
+         "field_search": "question",
+         "question": "Anh ơi em Hỏi  IOS bắt sóng mạng di động tốt hơn hay ANDROID bắt sóng mạng di động tốt hơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.211903,
+         "id": "1018525",
+         "field_search": "question",
+         "question": "Ad e vừa mua sim vinaphone 250k dùng mạng 2 năm ms dùng đc 2 tháng sao bh k vào đc mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.152714,
+         "id": "1014966",
+         "field_search": "question",
+         "question": "Em sài j5 prime ạ. Máy mua dc hơn 1 tháng. Nhưng máy hay bị hiện tượng em bấm tát màn hình r nhưng lại bật lên. Để cho đt tự động tắt màn hình cũng tự bật lên. Em khắc phục làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.86113,
+         "id": "1009532",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang sử dụng galaxy s7 edge mà khi bấm nút nguồn màn hình k khóa liền mà phải tới khoảng 1 phút sau mới khóa, còn khi nghe điện thoại thì màn hình sau khi tối không tự động sáng lại trong khi đã bật cảm biến rồi thì xử lý sao ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.832718,
+         "id": "871203",
+         "field_search": "question",
+         "question": " mình mua iphone 5s bỏ sim vina bùm nhưng bỏ vào mạng hiện chữ E truy cập mạng rất chậm? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.720684,
+         "id": "743269",
+         "field_search": "question",
+         "question": "Có ai không giúp mình với . Mình đang sử dụng máy ip5 bản qt . Máy mình gặp lỗi 3G . Khi mình lắp sim viettel để vào mạng thì không được . Nhưng khi mình thay sim mobie vào lại vào đc mạng như bình thường là sao . A bik giúp mình với . Cảm ơn m.n",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.57225,
+         "id": "1023871",
+         "field_search": "question",
+         "question": "Xin hỏi làm sao để tra cứu lịch sử mua hàng tại thế giới di động, vì thông thường khi mua đều có số di động, nhưng khi tải appstore thế giới di động trên điện thoại nhập số vào để kiểm tra thì không thấy lịch sử mua sắm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.564438,
+         "id": "1149496",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi, e sài samsung j3pro, mạng sim 4g vẫn chạy bình thường nhưng khoảng 1 tuần nay thì mạng đột nhiên kh vào dc các ứng dụng như fb, tiktok, zalo thì chỉ gửi được tin nhắn thường kh gửi được hình ảnh nhưng khi lắp sim vào máy khác thì mạng vẫn chạy nhanh bình thường. Chỉ e cách khắc phục với ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.440517,
+         "id": "1157308",
+         "field_search": "question",
+         "question": "Điện thoại Samsung J7 pro , cách sử dụng dử liệu di dộng có ở sim 2  sử dụng zalo, đọc báo .. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.42587,
+         "id": "1162957",
+         "field_search": "question",
+         "question": "ad cho e hỏi hiện e đang trả góp ở 1 cửa hàng khác và đi đống tiền trả góp ở cửa hàng the giới di động khác được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.410114,
+         "id": "911040",
+         "field_search": "question",
+         "question": "E mới mua 1 đt iphone 5s tại TGDD nhưng sử dụng mạng 3g quá chậm e gắn cái sim đó vào 1 đt khác thì lại sử dụng 3g bình thường vấn đề này có phải lổi do máy không ạ giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.395187,
+         "id": "988275",
+         "field_search": "question",
+         "question": " Cho hỏi, có phải mua bất cứ điện thoại nào ở Thế giới di động để được mua big sim phải không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.30505,
+         "id": "1009146",
+         "field_search": "question",
+         "question": "cho mình hỏi lenovo a8 5500 khi gắn sim vào thì không có song và khi tra cứu hay gọi thì báo là \"mạng di động không thiết lập\" vào là bị sao vậy Ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.25122,
+         "id": "753616",
+         "field_search": "question",
+         "question": " Thế giới di động có mở mạng iPhone 6 không bạn, nếu có giá mở mạng là bao nhiêu vậy. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.100533,
+         "id": "1023209",
+         "field_search": "question",
+         "question": "Mình đang sử dung SAMSUNG J7 PRIME. Mình muốn chặn 1 vài số điện thoại theo thời gian. The giới di đông hướng dẫn giúp. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.919178,
+         "id": "780074",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang xài iphone 4s, bây giờ bị hư 3G mỗi lần bật lên chỉ hiện chữ E không hiện 3G không phải do mạng yếu vì lúc trước em vẫn xài bình thường. Làm sao để khắc phục đây ạ? Em xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.868397,
+         "id": "1016508",
+         "field_search": "question",
+         "question": "Điện thoại samsung galaxy tab A gắn sim 3G mobifone khi bật dử lieu mạng lên nhưng ko thấy hiển thị trên góc màn hình,ko truy cập mạng được nguyên nhân và cách khắc phục.khi găn thẻ sim khác vao trụ sóng vẫn có nhưng khi bấm gọi 900 hay bất kì sdt nào thì hiện lên màng hình là ko đăng ký vào mạng là tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.753582,
+         "id": "1154628",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao ip xs max  bản 1 sim của e khi có cuộc gọi đến hay đi đều bị mất mạng 4g vậy à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.72711,
+         "id": "1162708",
+         "field_search": "question",
+         "question": "Dạ e mới mua đt Xiaomi note 7 bên TGDD. E có thắc mắc là khi e bật chế độ 3 nút điều hướng . Khi bấm nút điều hướng bên trái thì nó ko hiển thị danh sách những ứng dụng đã dùng như bao đt android khác. Khi đang ở 1 ứng dụng nào đó thì nó như vô dụng. E hỏi đó là do máy có sẵn như thế hãy sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.600677,
+         "id": "1001519",
+         "field_search": "question",
+         "question": "cho e hỏi .. e sài điện thoại masstel tab 712 E gắn sim 4g sài nhưng mạng yếu lại thường nỗi chữ E Ad chỉ e cách khác phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.490536,
+         "id": "1149237",
+         "field_search": "question",
+         "question": "Mình mua điện thoại ip 7+ 32Gb được 2 tuần. Nhưng về sử dụng thấy hay bị mất sóng, dùng mạng wifi hay mạng di động cũng thường xuyên bị mất kết nối mạng. Chiếc 7+ cũ mình dùng thì không có bị tình trạng này. Cho mình hỏi đây là lỗi của sản phẩm hay gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.48045,
+         "id": "1006825",
+         "field_search": "question",
+         "question": "Sao 3G của e hay mất vậy . e xài sim Vinaphone. Bộ gói 1 ngày cùng có bị rớt mạng nữa hả anh ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.43614,
+         "id": "1021196",
+         "field_search": "question",
+         "question": "Thế giới di động hỗ trợ onl như... họ rứa ad.nhân viên đang bận khang là sao? Mà cho e hỏi miếng dán màn hình điện thoại ở thế giới di động bảo hành sao z ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.29525,
+         "id": "1020897",
+         "field_search": "question",
+         "question": "Admin có thể hướng dẫn mình cách bật 3G và chọn chế độ mạng  trên HTC U11 được không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.223118,
+         "id": "1018334",
+         "field_search": "question",
+         "question": "cho mìh hỏi, sao điện thoại Lenovo A5000, mình sử dụng 2 sim ko dc, từ lúc có bản nâng cấp mới nhất. Mình bỏ 1 sim vào khe 1 thì xài được, bỏ vào khe 2 cũng xài được. Nhưng cùng lúc bỏ 2 sim vào 2 khe thì ko xài được sim ở khe 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.17886,
+         "id": "1154519",
+         "field_search": "question",
+         "question": "Mình đang dùng Vsmart Joy 1+. Điện thoại 2 sim, hiện 2 cột sóng, nhưng gần đây hay bị lỗi chỉ hiện 1 cột sóng, và khi nó hiện như vậy không thể sử dụng 4G được, khỏi động lại máy 2 cột sóng lại hiện ra và sử dụng 4G như bình thường. Cho hỏi hiện tượng này là sao vậy ạ? Do thường xuyên phải khởi động lại máy rất bất tiện.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.166054,
+         "id": "1019140",
+         "field_search": "question",
+         "question": "Cho e xin hỏi hiện e đang bên cambodia và e có đang xài sim metfone bên đây,xin cho hỏi e làm sao để sim e có thể gọi và nt cho việt nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.124447,
+         "id": "1014089",
+         "field_search": "question",
+         "question": "Đt e kích hoạt sim gọi 900 nhưng lại hiện lên là bạn ko thể thực hiện cuộc gọi đi khi đang bật chế độ chặn cuộc gọi là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.976044,
+         "id": "778202",
+         "field_search": "question",
+         "question": "Cho em hỏi cái iPhone 6 của em nhiều lúc tự nhiên đang dùng bình thường báo không có sim, để 1 lúc cài đặt lại mạng hay tắt nguồn đi bật lại thì lại báo có sim, đây có phải do lỗi phần cứng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.95894,
+         "id": "785501",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang lên mạng để xem phim thì được cảnh báo là điện thoại đang bị nhiễm 17 virus nếu ko giải quyết ngay thì sẽ bị hỏng thẻ sim và điện thoại và kêu làm theo hướng dẫn rồi nhập số điện thoại vào cho mình hỏi điện thoại của mình có bị sao ko mình đang Sài iphone 3 cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.851612,
+         "id": "999358",
+         "field_search": "question",
+         "question": "Em muốn muan1 sim mobi big , trước mua điện thoại ở thế giới di động mà không biết về sim này , giờ muốn mua có đc không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.813614,
+         "id": "1142319",
+         "field_search": "question",
+         "question": "Điện thoại Vsmart Joy 1 3GB32GB Đen có mấy sim? Máy có sẵn hàng tại các cửa hàng thế giới di động không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.73798,
+         "id": "1143060",
+         "field_search": "question",
+         "question": "vsmast active 1 đc bán thế giới  di động chưa ạvà cho e hỏi cấu hình máy như thế nào ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.591034,
+         "id": "834963",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e dùng ip 4 ma mạng rất chậm bật cả 3g mà mạng vẫn quay . Tốc độ cao thì ms đăng ký, làm sao đe mạng lên H+ đây ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.584633,
+         "id": "1158681",
+         "field_search": "question",
+         "question": "A50 của e mới mua bật dữ liệu di động hay bị chập chờn lúc được lúc thì không là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.537838,
+         "id": "1142112",
+         "field_search": "question",
+         "question": "Dạ, Ad support giúp em với ạ, em đang dùng điện thoại Asus Zenphone 2 (mã ZE 551ML), điện thoại em chỉ nhận duy nhất 1 thẻ Sim nhà mạng là Viettel còn lại tất cả nhà mạng khác em kiểm tra trong mục \"Mạng Khả Dụng\" thì đều bị cấm hết, em cắm Sim Mobifone vào thì ko nhận được ạ. Em không biết khắc phục như thế nào hay lỗi máy ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.52918,
+         "id": "1006994",
+         "field_search": "question",
+         "question": "Tôi muốn đăng ký Wifi mạng Viettel cho số máy điên thoại di động thì làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.48226,
+         "id": "1140276",
+         "field_search": "question",
+         "question": "Cho em hỏi là, e đang xài samsung j5 prime ạ, e muốn bật tính năng ok google nhưng cái nút nó màu xám và không bật được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.459663,
+         "id": "1012303",
+         "field_search": "question",
+         "question": "Sim vẫn còn dumg lượng nhưng bật mạng lên thì cứ váo trang của vietell thông báo là đã hết dung lượng thì làm sao mn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.369305,
+         "id": "786558",
+         "field_search": "question",
+         "question": "Quên tài khoản ID của Icloud....1 năm trước e có đến cửa hàng Thế giới di động địa chỉ 136 Nguyễn Thái Học nhờ anh nọ tải game và 1 số ứng dụng. Nhưng hôm qua e đang lên mạng bình thường thì Iphone 4 của e bị tắt máy. Giờ nó yêu cầu e nhập địa chỉ ID để đăng nhập nhưng e quên tài khoản đăng nhập rồi thì phải làm sao ạ? mật khẫu e vẫn còn nhớ. Help me",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.227074,
+         "id": "755072",
+         "field_search": "question",
+         "question": "Em đang bên china bên đó có mạng 4g sao em mua sim và đăng kí lắp vào sao không dùng được. 3g cũng không có luôn chỉ hiện E là sao ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.222473,
+         "id": "1018807",
+         "field_search": "question",
+         "question": "Cho e hỏi, mk mua điện thoại ở thế giới di động nầy mà qua quán thế giới di động khác bảo hành đc ko ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.194046,
+         "id": "1167792",
+         "field_search": "question",
+         "question": "Điện thoại Samsung a6 của mình bị bật tắt wifi liên tục . Khởi động lại nguồn rồi mà vẫn không hết , khôi phục cài đặt mạng cũng không có tác dụng . Vậy phải làm sao ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.097706,
+         "id": "794242",
+         "field_search": "question",
+         "question": " Sony M4 bị lỗi không sử dụng được camera,đèn nháy đang bật thì tự động tắt ad giúp e tý ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.06762,
+         "id": "1010805",
+         "field_search": "question",
+         "question": "cho em hỏi thế giới di động có làm sim bị mất ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.03545,
+         "id": "1136557",
+         "field_search": "question",
+         "question": "Dạ chào anh (chị).. Em đang xài laptop Lenovo Yoga 520 mới mua khoảng hơn 6 tháng tại thế giới di động.. Máy có màn hình cảm ứng mà em ít xài cảm ứng trên màn hình.. Đến hôm nay e chạm vào màn hình thì mới phát hiện đã bị vô hiệu hóa.. Em cũng không biết bị từ khi nào.. Lên mạng search thì có chỉ cách bật/tắt màn hình cảm ứng là Disable HDI compliant touch screen.. Em làm trên máy thì không có HDI complint touch screen.. Giờ em phải làm sao để sử dụng màn hình cảm ứng đây ạ! Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.00396,
+         "id": "819696",
+         "field_search": "question",
+         "question": " Xin hỏi cách di chuyển danh bạ từ sim 1 sang sim 2 hoặc sang tài khoản Gmail trên điện thoại Lenovo P70. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.961994,
+         "id": "1006675",
+         "field_search": "question",
+         "question": "Tôi muốn mua sim mobi big tại thế giới di động, thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.90867,
+         "id": "1015391",
+         "field_search": "question",
+         "question": "Thế Giới Di Động  có nhận làm lại sim đã mất không  z",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

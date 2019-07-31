@@ -1,0 +1,801 @@
+{
+   "id_query": "755151",
+   "total": 28640,
+   "total_current": 100,
+   "max_score": 43.397034,
+   "origin_question": "  Cho em hỏi về cấu hình con iPhone 5s này với . Cảm ơn ad ",
+   "hits": [
+      {
+         "score": 18.677834,
+         "id": "889701",
+         "field_search": "question",
+         "question": " Cho em hỏi với cấu hình này thì chạy đc phần mêm Auto Cad k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.073444,
+         "id": "1143721",
+         "field_search": "question",
+         "question": "Ad cho em hỏi vấn đền này em ko hiểu lắm, là sao điều là ipad 2017 với nhau mà sao cái của anh em thì chơi pubg với cấu hình là HDR Cực cao đc, còn cái ipad của em thì chỉ chơi đc với cấu hình HD cao thôi là sao ad, mặc dù cái ipad của em nó có để HDR nhưng em bấm vào thì nó lại để là tuỳ chọn này sẽ sớm có trên thiết bị của bạn? Vấn đề này em ad có thể giải thích dùm em đc ko ạ em cám ơn ad trc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.066063,
+         "id": "788017",
+         "field_search": "question",
+         "question": "Ad ơi giúp em với tình hình là em bị lỗi này ad ơi.ad có thể giúp em khắc phục với được không ạ.em xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.72117,
+         "id": "773442",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi. Là em dùng iPhone 5s em sặc củ iPhone 6 bị nhiễm điện ra vỏ ngoài liệu có ảnh hưởng gì tới máy và màn hình cảm ứng ko ạ. Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.50728,
+         "id": "1142681",
+         "field_search": "question",
+         "question": "Ad cho hỏi cách khắc phục lỗi này ạ.  Em cảm ơn ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.474125,
+         "id": "773554",
+         "field_search": "question",
+         "question": "Em mới mua con iphone 5s trên tgdd về sài 2 hôm ấn mạnh màn hình thì thấy nó loan màu nhẹ 2 bên màn hình cho em hỏi em có bị lỗi gì không vậy với em thấy 2 đầu của máy cong về phía màn hình 1 chút ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.999767,
+         "id": "807050",
+         "field_search": "question",
+         "question": "Chào tgdd. Giúp đỡ mình vấn đề này với, mình đang dùng con 5s, làm thế nào để đưa slide vào đt để xem ak... Cảm ơn nhiều..!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.926466,
+         "id": "849772",
+         "field_search": "question",
+         "question": "Chào QTV! Cho tôi xin hỏi là cấu hình của máy tôi như thế này đủ điều kiện để chạy windows 10 32bit không ạ!xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.885357,
+         "id": "970359",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone se giờ còn bao nhiêu ạ, như cỡ giá với iphone se thì về cấu hình cũng như về chơi game thì có máy nào tầm giá với se mà mạnh hơn hog",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.617958,
+         "id": "855307",
+         "field_search": "question",
+         "question": " cấu hình này em có thể xem phim 3d trên máy đc ko ad?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.562603,
+         "id": "858935",
+         "field_search": "question",
+         "question": "    ad cho e hỏi cấu hình máy như thế này có chơi được GTA 5 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.54226,
+         "id": "1144263",
+         "field_search": "question",
+         "question": "Cho hỏi con nokia6.1 với oppo a83 thì con nào chơi game và cấu hình cao hơn, mạnh hơn? Và nokia6.1 được bán khi nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.503517,
+         "id": "849393",
+         "field_search": "question",
+         "question": " ad cho hỏi cấu hình thế này chơi lmht mượt k ạ. hay là máy core i5  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.49485,
+         "id": "742945",
+         "field_search": "question",
+         "question": " Chỉ em cấu hình VPN trên iphone 5s dùng 3g của sim vinaphone ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.408823,
+         "id": "1159694",
+         "field_search": "question",
+         "question": "Chào bạn cho mình hỏi iphone 8 plus với sam sung A50 128gb thì cpu vs cấu hình nào sẽ mạnh hơn ạ ? Cám ơn nhìu !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.393316,
+         "id": "784313",
+         "field_search": "question",
+         "question": "Admin cho em hỏi ạ! Em có con iphone 5 muốn bán bù qua để mua iphone 5s thì tgdđ có nhận thu không ạ và giá dao động bao nhiêu ạ? Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.359684,
+         "id": "759009",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, máy e tự dưng báo là iphone này đã bị mất và bị xóa, hãy đăng nhập bằng ID Apple đã được sử dụng để xóa IPhone này, như thế là sao ah, giúp e với ah, em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.2223,
+         "id": "836997",
+         "field_search": "question",
+         "question": "ad ơi . em có máy iphone 5s lúc nghe điện thoại thì màn hình ko tắt mà có tật thì phải đặt ngón tay vào đó khoảng 5s thì nó mới tắt .cho em hỏi nó bị sao thế ạ.em xin cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.218124,
+         "id": "1162087",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi! Ip 5s hay Realme C1 chơi Pubg  Mobile mượt hơn, cấu hình máy nào tốt hơn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.174631,
+         "id": "1006058",
+         "field_search": "question",
+         "question": "Cho e hỏi con J2 Prime của em khi vào thư viện xem vid thì màn hình nó lại dài như này :3 e ko biết sao. Với cả vid khi lưu vào đâm mây thì lại ghi lỗi ko phát được... mấy ad giúp e ạ! E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.16634,
+         "id": "1165120",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop hp corei5 có sử dụng các ứng dụng ps, ai,pr, ae, an mượt không ạ hay đòi hỏi cấu hình cao hơn! Cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.110718,
+         "id": "768953",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi ,mình mới mua con iPhone 5s imei 357994059598436 kiểu máy ME350LL/A, như vậy máy mình có phải hàng chính hãng không ,quốc gia nào sản xuất. Mình xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.071367,
+         "id": "768942",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi máy em cấu hình thế này có chơi được fifa không ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.069864,
+         "id": "755539",
+         "field_search": "question",
+         "question": "Em đang dự định mua con HP 4530s cũ để chơi FiFa Online 3 nhưng không biết cấu hình máy này có chơi được không xin anh chị tư vấn giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.042969,
+         "id": "987225",
+         "field_search": "question",
+         "question": "chào QTV ạ. Anh (chị) cho em hỏi vấn đề này cái.Em đang xài iphone 5s nhưng từ 3 ngày nay thì điện thoại em cứ xuất hiện cái này hoài. không biết có phải máy em bị virut rồi không? và giúp em giải quyết với ạ. em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.042402,
+         "id": "1000636",
+         "field_search": "question",
+         "question": "Cho em hỏi cách cài đặt slide to unlock cho iphone 5s phien ban 10.3.2.Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.04187,
+         "id": "1139040",
+         "field_search": "question",
+         "question": " AD cho em hỏi bên mình có cửa hàng nào tồn kho con iphone 5s không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.028616,
+         "id": "832052",
+         "field_search": "question",
+         "question": " Cho em hỏi thay màn hình cảm ứng cho iPhone 5s giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.022009,
+         "id": "992195",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi iPHONE 5s khi tải zing.mp3 về không nge và tải được nhạc và báo lỗi -102? anh chị cho e cách khắc phục ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.01482,
+         "id": "963828",
+         "field_search": "question",
+         "question": " AD cho hỏi cấu hình máy này chơi LMHT có ổn ko?CPU Intel Core i32GHzRAM4GBVGA Intel HD 5500HDD500GB ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.89582,
+         "id": "1009756",
+         "field_search": "question",
+         "question": "Mình đang dùng con itel 1516 plus, mấy hôm nay mình tải ứng dụng trên app về nhưng toàn thông báo thế này rồi treo thế luôn.cho mình hỏi cách khắc phục với ạ. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.894957,
+         "id": "1013794",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại iphone 5s có cần sạc pin đầy 100 không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.797069,
+         "id": "797752",
+         "field_search": "question",
+         "question": " Ad chỉ e cách làm thế nào để tải video trên facebook về điện thoại iphone 5s thì làm thế nào ạ xin cảm ơn àd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.71301,
+         "id": "922596",
+         "field_search": "question",
+         "question": "Anh cho e hỏi hiện tại e đang sử dụng iphone 5s và nâng cấp lên 10.1.1 em muốn cho zuống hệ điều hành này đc ko e cảm ơn 9.3.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.670343,
+         "id": "777368",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi iPhone 5S hỏng con A7 thay hết bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.647131,
+         "id": "845511",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em dùng con iphone 5 dô chụp hình đc 1 tấm ra lại thì nó đứng mất ..nó lại lên như thế này nữa ..     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.556863,
+         "id": "1143060",
+         "field_search": "question",
+         "question": "vsmast active 1 đc bán thế giới  di động chưa ạvà cho e hỏi cấu hình máy như thế nào ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.55058,
+         "id": "1020149",
+         "field_search": "question",
+         "question": "Ad cho em hỏi thay màn hình samsung  j7 pro bao nhiu tiền ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.486288,
+         "id": "788223",
+         "field_search": "question",
+         "question": " Xin hỏi tgdd tôi phải tốn Bao nhiêu để thay màng hình iPhone 5s và giao máy, cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.460997,
+         "id": "774136",
+         "field_search": "question",
+         "question": " Bạn ơi xem dùm mình cấu hình anfy có đúng chính hãng iPhone 5 phiên bản quốc tế không cảm ơn nhiều?      ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.412661,
+         "id": "827903",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cách phân biệt iPhone 5s chính hãng với ạ. Mua iphone ở TGDĐ có đảm bảo về mặt chất lượng ko.em đang định ra cửa hàng mình mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.324425,
+         "id": "1164488",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop Dell Inprison và Dell Vostro cái nào cấu hình mạnh, tốt hơn, cái nào đẹp, nhẹ hơn ạ? Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.321691,
+         "id": "825016",
+         "field_search": "question",
+         "question": " Cho hỏi IOS 9.3.1 đã jaibreak đc chưa ad ?? E có con iPhone 5s muốn jaibreak... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.284171,
+         "id": "1019269",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cấu trúc gia hạn chương trình khuyến mãi vina bùm với a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.209848,
+         "id": "791234",
+         "field_search": "question",
+         "question": "Cho em hỏi em có con iPhone 5s mua hồi tháng  11/2015 với hình thức trả góp là 12tr990 giờ chưa hết thời hạn góp mà em muốn đổi trả thì TGDD có chịu không và cách tính ra sao mong ad tư vấn giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.205501,
+         "id": "759955",
+         "field_search": "question",
+         "question": "Ad cho em hỏi iPhone 5S 32gb iOS 9.2 phiên bản quốc tế tại Nhật nhưng về việt nam không có 3G chỉ (E) lúc sài được lúc sài không được. Mong Ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.167297,
+         "id": "755916",
+         "field_search": "question",
+         "question": " Tại sao iPhone 5s lại ngừng kinh doanh vậy thế giới di động? Mình thấy iPhone 5s cấu hình được mà. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.162276,
+         "id": "844391",
+         "field_search": "question",
+         "question": "Adm cho e hỏi iphone 5s của em không hiển thị chi tiết cuộc gọi. A chị chỉ giúp em phần cài lại ở mục nào với ạ. Xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.157268,
+         "id": "767990",
+         "field_search": "question",
+         "question": "Xin lỗi đã làm phiền!!Làm ơn cho em hỏi về việc trả góp iPhone 5s ạ: Em trả góp theo hình thức là \"sinh viên\" và em cần hỏi là chỉ cần có cmnd người bảo lãnh ( trong trường hợp này là mẹ em ) hay bên ngân hàng có liên lạc về cho mẹ để thông báo không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.140946,
+         "id": "780873",
+         "field_search": "question",
+         "question": " Chào ad xin cho hỏi máy tính bảng có dùng chung tài khoản zalo với iPhone không ạ xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.135406,
+         "id": "876205",
+         "field_search": "question",
+         "question": " cho hỏi em dùng iphone 5s nhưng em dung củ sạc ROCK có hại pin của máy ko ạ .Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.022108,
+         "id": "830984",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s tải ứng dụng wifi chỗ khác thì được, mà kết nối với wifi ở nhà thì lại k tái được. nó cứ hiện dòng chữ không thể tải ứng dụng vào lúc này. ( e thay đổi DNS của iphone 208.67.220.220) mà vẫn k được. ad giúp e cách khắc phục với ạ. e cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.0131645,
+         "id": "763664",
+         "field_search": "question",
+         "question": " Ad ơi cho em xin cái tài khoản icloud với ạ . Em xin cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.944145,
+         "id": "768890",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình có tai nghe chính hãng của iphone 5s không. Và giá tiền thế nào. Cảm ơn ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.909392,
+         "id": "1139088",
+         "field_search": "question",
+         "question": "ad làm ơn cho em hỏi em mới mua máy iphone 7 plus ở tgdd được 3 hôm .  khi màn hình sáng, em chạm nhẹ vào phím home thì cảm biến vân tay không  nhận, chỉ hơi tác động lực vào 1 chút thì vân tay mới nhận, em đã thử  những iphone khác của người thân thì khi màn hình sáng chỉ cần chạm nhẹ  vào là nhận vân tay, vậy ad cho em hỏi lỗi này có được đổi trả không ạ.  em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.894295,
+         "id": "797302",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên tgdd có dịch vụ thay pin iPhone 5s không. Cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.889348,
+         "id": "791258",
+         "field_search": "question",
+         "question": " Ad xem giúp mình máy này có phải chính hãng không với ạ???Mình xin cảm ơn!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.888102,
+         "id": "763795",
+         "field_search": "question",
+         "question": "iPhone 5S còn không ạ?? Mức giá bây giờ còn bao vậy?Nếu mua iPhone 5S với iPhone 6 thì cái nào hơn ạ??Giá cả thế nào? Và nếu như mua trả góp thì như nào ạ?Nói giá cụ thể với iPhone 5S và iPhone 6 hộ em?Em cảm ơn ạ :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.859257,
+         "id": "780480",
+         "field_search": "question",
+         "question": "Anh(chị) có thể tra cho em thông tin chi tiết về máy này được không?Iphone 5sImei 359266064472743Model A1457ME433RU/ACàng chi tiết càng tốtEm cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.855619,
+         "id": "832415",
+         "field_search": "question",
+         "question": " con trai nên mua iphone 5s màu nào ạ.góp ý cho e với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.845507,
+         "id": "1168374",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em sd iphone 5S, bây giờ máy em sắp hết dung lượng, vậy nên em đã sao lưu và đồng bộ dữ liệu ảnh, .... vào icloud rồi, vậy em có thể hỏi là nếu em xóa hết hình bên app ảnh của iphone thì bên icloud có mất luôn không ạ? Em cảm ơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.830743,
+         "id": "780655",
+         "field_search": "question",
+         "question": " Chào Ad,Nhờ bạn tư vấn giúp mình về cách sạc pin iPhone 5s lần đầu.Cảm ơn bạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.827899,
+         "id": "799307",
+         "field_search": "question",
+         "question": " mọi người cho em xin key này để lên window 10 với ạem rất cảm ơn ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.817327,
+         "id": "930585",
+         "field_search": "question",
+         "question": " chào ad cho mimhf hỏi bên mình có thay kính iphone 5s ko nhỉ. có thể báo giá cho mình xin dc không ạ. xn cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.7380905,
+         "id": "770720",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi là máy laptop của em, sau con chuột trong máy không xài được, vậy rồi làm sao giờ. em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.642153,
+         "id": "1159292",
+         "field_search": "question",
+         "question": "Ad cho em hỏi Máy Sam Sung M20 cứ quảng cáo sáng màng hình liên tục phải làm sao vậy ad. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.615002,
+         "id": "1134320",
+         "field_search": "question",
+         "question": " Ai biết cách sữa lỗi này không ạ giúp em với ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.597572,
+         "id": "756084",
+         "field_search": "question",
+         "question": " Cho mình hỏi ứng dụng nào để xem tivi va bóng đá trên iphone 5s. Cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.548565,
+         "id": "756391",
+         "field_search": "question",
+         "question": "Em xin hỏi tư vấn mua laptop dell , cấu hình tốt chơi được GTA 5 , làm photoshop này nọ cũng ổn ,giá tầm 18 triệu đỗ lại , khổ nỗi em không biết chút gì về thông số máy tính cả, nhờ ad chỉ bảo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.481095,
+         "id": "810674",
+         "field_search": "question",
+         "question": "Ad ơi em dùng iphone 5s hệ điều hành ios 8.4 đã jailbreak nhưng cứ vào facebook là bị đẩy ra.rất mong ad chỉ cách khắc phục .cảm ơn ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.47438,
+         "id": "752814",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện giờ em em đang dùng cái iPhone 4 mà em cập nhật phần mềm iOS có cách nào xóa bộ phận cập nhật này không vậy chỉ em với em cảm ơn nhiều?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.458923,
+         "id": "795010",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5s . Em muốn tải AppStorevn cho máy chưa jaibreak mà sao kích vào tải nó hiện lên dòng chữ này thì phải làm sao mới tải được ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.454725,
+         "id": "985947",
+         "field_search": "question",
+         "question": "Ip5S vừa mua được 3 tháng tại TGDD, đã vỡ màn hình và đã thay. Hiện nay máy có tình trạng sụt pin nhanh dù không sử dụng, cộng với mất chức năng cảm biến vân tay. Vậy cho em hỏi nguyên nhân và chế độ bảo hành về trường hợp này với ạ. Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.412038,
+         "id": "815891",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi? Hiện em đang dùng iphone 5s Không biết sao mấy bữa nay máy không nhận diện được dấu vân tay. Em thử xoá hết rồi add lại vẫn không được. Giúp em với. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.412038,
+         "id": "759524",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là tại sao Messenger của em không gọi được video mà Appstore yêu cầu cập nhật liên tục rồi ạ? em đang dùng iphone 5S, mong anh chị giúp em với ạ? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.394504,
+         "id": "1020812",
+         "field_search": "question",
+         "question": "Em có 1 con iphone 5s ram 8gb , tại sao máy em để nguyên pin cứ bị giảm xuống đến hôm sau thì sập nguồn , ad giúp em với ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.341973,
+         "id": "778168",
+         "field_search": "question",
+         "question": "Làm ơn cho em hỏi nhờ với ạ. Em đang dùng 5s pin đang 60% thụt hẳn xuống 50% như thế là bị làm sao ạ. Mong mọi người cho em cách khắc phục. Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.30272,
+         "id": "1016355",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi về chính sách bảo hành miếng dán màn hình với dán mặt sau điện thoại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2940445,
+         "id": "839119",
+         "field_search": "question",
+         "question": "ad cho hỏi cấu hình máy như này chơi lmht đc k-CPU:Core i5-5200U -RAM:4GB DDR3 -Đĩa cứng:500GB -Màn hình:14'' HD -Đồ họa:Nvidia 920-2GB",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.275475,
+         "id": "909302",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏiMình đang dùng iphone 5s 9.3.5 chưa jaibreak.Mình đã cài cấu hình chặn cập nhật ios 10 từ trang iosfree.cfNó có ảnh hưởng gì đến máy mìnnh không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.27274,
+         "id": "846707",
+         "field_search": "question",
+         "question": "Em sài iphone 5s mua vào ngày 4/2/2016 giờ e muốn cho tgdd thu lại vậy cho e hỏi với thời gian như vậy thì mấy em còn được bao nhiêu phần trăm giá tiền.e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.270082,
+         "id": "761666",
+         "field_search": "question",
+         "question": "Máy mình bị lỗi display driver stopped responding and has recovered thường xảy ra mỗi khi chơi game mặc dù cấu hình máy mình vượt xa cấu hình tối thiểu để chơi game đó, ai biết cách khắc phục lỗi này thì làm ơn hướng dẫn mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.218252,
+         "id": "773653",
+         "field_search": "question",
+         "question": " Em đang xài con iPhone 5S 16GB nâng cấp lên iOS 9.2 sao mất touch ID, giúp em với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.207704,
+         "id": "848327",
+         "field_search": "question",
+         "question": "QTV cho tôi hỏi ip 5s bây giờ mua tại shop có thể mua với giá 6tr9 ko và sau này còn đơt khuyến mãi nào với 5s ko =. Cám ơn QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.206173,
+         "id": "1168441",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là giữa điện thoại xiaomi redmi S2 và xiaomi redmi 7 về chơi liên quân với pubg thì con nào ngon hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.17869,
+         "id": "1167026",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi với ạ. em dùng oppo A3S đt em bị hư và mất thẻ nhớ những hình ảnh em lưu trong hộp thư bảo mật. thì người nhặt được thẻ nhớ em có thấy được không ạ. mong ad trả lời em với ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.1778345,
+         "id": "909271",
+         "field_search": "question",
+         "question": " qtv cho em hỏi theo hình ảnh này laptop của em đang dùng HĐH win bản quyền hay bản dùng thử ạ,em xin cảm ơn...  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.165216,
+         "id": "770017",
+         "field_search": "question",
+         "question": "Ad cho em hỏi hiện tại mình có thể Jailbreak đến iOS bao nhiêu rồi ạ, hiện tai em có 1 con 5S chạy 9.2 em muốn trở về iOS thấp hơn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.133655,
+         "id": "1018588",
+         "field_search": "question",
+         "question": "ad cho em hỏi máy em bị nẻ màn hình cảm ứng con man LCD thì bị đen ko lên dc.Vậy phải thay những cái j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.131777,
+         "id": "771945",
+         "field_search": "question",
+         "question": " Mình không biết tạo tài khoản app để tải game cho iPhone ad mình với mình cảm ơn trước nhé. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.111961,
+         "id": "915409",
+         "field_search": "question",
+         "question": "Ad cho e hỏi tại sao em đặt màn hình nền cho ip 6s ios10 thì ảnh lại bị tối hơn so với ảnh gốc nhỉ? Có cáhc gì khắc phục không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.089176,
+         "id": "1157897",
+         "field_search": "question",
+         "question": "ai chỉ em với khi iphone ở chế độ tai nghe ạ, em đang nghe nhạc cái nó bị chuyển về chế độ tai nghe ạ ai biết cách giúp em với. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.064447,
+         "id": "1152129",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: E dùng mới mua Sam Sung A9 2018 ởTGDĐ về cài đặt ứng dụng Uotlook để cài mail nội bộ công ty vào. Khi có mail thì chỉ đọc được file Excel còn các file như PDF, Hình ảnh đính kèm, Wor máy báo lỗi tải về không đọc được, Trước đó em dùng ứng dụng này trên Iphone vẫn xem bình thường. Chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.048002,
+         "id": "1014071",
+         "field_search": "question",
+         "question": "cho em hỏi có những hình thức trả góp nào? anh chị có thể nói chi tiết luôn cho em với ạ. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.043101,
+         "id": "1005412",
+         "field_search": "question",
+         "question": " Anh chị làm ơn giúp em ẩn cái thông báo này đi với. Nó phiền phức quá. Em cảm ơn anh chị  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.028734,
+         "id": "768657",
+         "field_search": "question",
+         "question": "Ad cho em hỏi hiện em đang dùng điện thoại iPhone 5 em muốn đổi điện thoại nhưng em lại sao chép số danh bạ không được, ana chị giúp giùm em với, em cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.022312,
+         "id": "775803",
+         "field_search": "question",
+         "question": " ad ơi cho em hỏi. sao em mua iPhone 5S ở tgdd màn hình không sáng trắng mà lại sáng hồng nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.022261,
+         "id": "781207",
+         "field_search": "question",
+         "question": " Ad cho em hỏi với ạ iPhone 5s của em khi để không , không sử dụng mà pin cũng sụt là sao ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.017093,
+         "id": "779647",
+         "field_search": "question",
+         "question": "cho em hỏi rằng , máy tính em cấu hình như này hỗ trưoj Gta 5 có được không , có lag hay thỉnh thoảng giật giật không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

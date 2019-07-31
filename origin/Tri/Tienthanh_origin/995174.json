@@ -1,0 +1,802 @@
+{
+   "id_query": "995174",
+   "total": 31918,
+   "total_current": 100,
+   "max_score": 80.573524,
+   "origin_question": "Chi mình hỏi mình mua trả góp đt ở tgdd thì hàng tháng mình qua điện máy xanh trả có dc ko vì mình gần đmx hơn",
+   "short": "trả ghóp qua điện máy xanh",
+   "hits": [
+      {
+         "score": 44.13507,
+         "id": "999090",
+         "field_search": "question",
+         "question": "Mình mua trả góp tivi ở điện máy xanh của ngân hàng ACS muốn trả góp hàng tháng ở TGDD có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.86231,
+         "id": "999440",
+         "field_search": "question",
+         "question": "Mình công tác trong Nam, được về nhà hơn tháng, giờ muốn mua trả góp. Mấy bạn cho mình hỏi, mua trả góp tại cửa hàng nào thì đóng tiền ở cửa hàng đó, hay cứ đến tgdd đóng là được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.54418,
+         "id": "993135",
+         "field_search": "question",
+         "question": "Cho mình hỏi.  Em ở tỉnh,  muốn mua trả góp trong vòng 4 tháng ở TP. Hcm có dc ko,  thứ tục cần gì.  Lúc trước e có trả góp 6 tháng ở bên mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.22879,
+         "id": "1007194",
+         "field_search": "question",
+         "question": "mình muốn mua tv trả góp bên điện máy xanh nhưng ở sapa không có. mình muốn hỏi mình có thể làm thủ tục mua trả góp ở thế giới di động sapa được không hay phải ra điện máy xanh lào cai làm thủ tục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.224224,
+         "id": "1005114",
+         "field_search": "question",
+         "question": "cho hỏi mình có mua trả góp nhưng lâu mình không trả vì không có điều kiện , mình mới trả hết bên ngân hàng khoảng 1 tháng trước . bây giờ mình có thể mua trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.06432,
+         "id": "800690",
+         "field_search": "question",
+         "question": "Cho hỏi, mình có mua trả góp 1 cái iPhone 6S bên công ty tài chính là VP-Bank. Giờ mình đóng tiền trả góp trực tiếp tại ngân hàng mà ko cần phải tới TGDD or Điện máy xanh có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.934578,
+         "id": "1166741",
+         "field_search": "question",
+         "question": "Mình mua máy trả góp nhưng bây giờ muốn trả lại máy và chịu phí thì tgdd sẽ hoàn lại tiền cho mình và mình vẫn trả góp hàng tháng hay là ntn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.771454,
+         "id": "1019372",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình đẩ mua 2 máy trả góp tại tgdd khoản dc 2 3 tháng j đấy... bay h mình mún mua trả góp thêm 1 sản phẩm khác có dc k ạ. 0967906289",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.59247,
+         "id": "1023318",
+         "field_search": "question",
+         "question": "mình hỏi chút, mình mới mua đt ở TGDĐ chưa được một tháng sony XA1, mua trả góp. Giờ mình muốn đổi sang đt khác Sony XA1 plus hơn thì có được không, máy XA1 Plus bao giờ có vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.167107,
+         "id": "1018937",
+         "field_search": "question",
+         "question": "TGDD cho mình hỏi, mua Oppo F3 Plus có phụ kiện tai nghe đi kèm hộp ko? mình mới mua trả góp Oppo F3 Plus ở điện máy xanh chí linh, nhưng phụ kiện ko có tai nghe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.993721,
+         "id": "1152683",
+         "field_search": "question",
+         "question": "mình mới mua đt Realme c1 hôm qua cho em gái mình , nhưng nó ko ưng ý , mình muốn đổi qua máy nokia 7 plus cũ với hình thức trả góp có dc ko ạ ? mình ở đồng nai , tp biên hoà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.86614,
+         "id": "1147476",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp sản phẩm realme c1 tại siêu thi nhưng hệ thống siêu gần nhà mình lại hết hàng , mình phải đi siêu thị nơi khác khá xa nhà mới có hàng thì tiền góp hàng tháng liệu mình có thể đóng ở siêu thị gần nhà mình đc ko hay phải chính chổ siêu thị mình mua mới đống tiền góp được ạ !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.561426,
+         "id": "1161468",
+         "field_search": "question",
+         "question": "mình mua trả góp dt, muốn trả đt có đc k. hợp đồng trả góp k hủy vẫn đóng hàng tháng có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.279427,
+         "id": "1020573",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu mình mua trả góp 1 sp ở đại lý tgdd này nhưng có thể đến trả góp ở một đại lý tgdd khác đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.215805,
+         "id": "1153194",
+         "field_search": "question",
+         "question": "Mình đang trả góp 1 con điện thoại , giờ muốn mua thêm một máy trả góp nữa có được ko ạ . Máy trước mình trả được 4 tháng rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.064016,
+         "id": "777459",
+         "field_search": "question",
+         "question": "Mình có mua 1 ốp lưng iPhone 5 ở TGDD nhưng về thử vào máy thì không ưng. Lúc mua nhân viên có nói là đc đổi trả. Vậy cho mình hỏi mình có thể đổi trả ốp được không? Vì mình đọc chính sách thì ốp điện thoại không được đổi trả. Và mình mua TGDD ở Hà Nội mình có thể đổi trả ở TGDD ở Nam định được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.02235,
+         "id": "1014035",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình muốn mua máy đổi trả nhưng ở tỉnh mình lại ko có thì tgdd có chuyển hàng từ nơi khác về cho mình ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.916525,
+         "id": "1010241",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mình mua trả góp điện thoại 6 tháng nhưng sau đó có việc nên mình chỉ muốn trartrong 4 tháng thì các tháng sau mình tăng tiền lên trả có được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.883455,
+         "id": "1160480",
+         "field_search": "question",
+         "question": "Mình mua trả góp máy mới giờ muốn đổi lên máy giá cao hơn dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.750404,
+         "id": "1137706",
+         "field_search": "question",
+         "question": " cho mình hỏi mình muốn mua điện thoại Huawei Y9 trả góp, trả trước 3tr, trả trong 4 tháng thì mỗi tháng trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.700047,
+         "id": "794911",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad khoảng 4tr rưỡi. Mình trả trước 1 tr thì hàng tháng mình phải trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.352962,
+         "id": "1137235",
+         "field_search": "question",
+         "question": "Xin chào, cho mình hỏi, mình muốn mua ipad wifi 2018 32G, nếu trả góp thì tổng chi phí mình trả là bao nhiêu, có thể cho mình xem chi tiết, số tiền phải trả theo tháng không, cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.308546,
+         "id": "1147847",
+         "field_search": "question",
+         "question": "Cho mình hỏi lúc trước mình đã có trả góp 1 chiếc xe và đã trả xong. Thì mình bây giờ muốn 1 điện thoại trả góp có cần sổ hộ khẩu khi mua hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.293741,
+         "id": "991775",
+         "field_search": "question",
+         "question": "Mình mới mua đt oppo f3 trả góp được 1 tuần. Bây giờ mình được ng nhà cho cái đt iphone nên muốn bán lại oppo f3 cho tgdd. Mình muốn hỏi đt trả góp thì tgdd có mua lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.14663,
+         "id": "1156141",
+         "field_search": "question",
+         "question": "ở chỗ của bạn đã có hàng samsung a50 chưa vậy.mình muốn mua trả góp cái đt này.nhưng cái đt cũ của mình vẫn còn 4 tháng nữa mới trả xong.vậy mình có mua thêm đc nữa k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.113066,
+         "id": "998370",
+         "field_search": "question",
+         "question": "Chào tgdd, mình hỏi tí. Mình mua ĐT Sony xa1 ở tgdd dc hai tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.061874,
+         "id": "1008355",
+         "field_search": "question",
+         "question": "bạn ui cho mình hỏi mua dt trả góp mình định mua cái oppo f1s trả trước 4tr còn lại góp thì có dc ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.011305,
+         "id": "781709",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad mini 2 cho mình hỏi số tiền trả góp mỗi tháng mình thanh toán ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.831663,
+         "id": "1020503",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua đt trả góp thì mình có thể trả trước hạn được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.673012,
+         "id": "997239",
+         "field_search": "question",
+         "question": "Giờ Mình muốn mua j7pime thì mình muốn hỏi . Mua trả luôn thì dc khuyến mãi gì . Và mua trả góp 0% thì dc khuyến mãi gì ko .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.49824,
+         "id": "998848",
+         "field_search": "question",
+         "question": "Mình lấy hóa đơn điện nhà mình thuê để mua trả góp dc ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.497269,
+         "id": "1160637",
+         "field_search": "question",
+         "question": "e mới mua samsung m20 dc hơn một tháng máy xài đơ e muốn trả sản phẩm dc ko ak.e mua trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.409882,
+         "id": "1011486",
+         "field_search": "question",
+         "question": "Mình muốn mua iphone7 32GB. Mình  có  cmnd và hộ khẩu nguyên cuốn công chứng Có mua trả góp được khôngnếu dc Mình  trả  10% mình  muốn góp trong 9 tháng Thì lãi suất thế  nào  .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.354698,
+         "id": "1009165",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mình có mua trả góp cái ipad 2017 nay mình đã trả đc 4 tháng còn lại 8 tháng nữa nếu mình trả luôn 1 lần 8 tháng này thì có giảm tiền ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.33818,
+         "id": "1024370",
+         "field_search": "question",
+         "question": "Chào ad, mình ở tp.hcm , có mua hàng đổi trả bên mình , nhưng dt bị lỗi và phải ra trả lại . NHân viên bảo là giờ mình muốn đổi con khác tại cửa hàng phải bù thêm vì giá cao hơn. Mình có coi thông tin thì của hàng ở tỉnh khác đang còn máy ngang giá thì tgdd có hỗ trợ gửi máy về tp.hcm để đổi cho mình được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.215235,
+         "id": "1018117",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. Mua đt dc tặng tai nghe . Z giờ mình đổi trả đt có cần trả tai nghe ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.174892,
+         "id": "1140369",
+         "field_search": "question",
+         "question": "Chào mod. Mình xin hỏi hút nếu mình trả góp đt 0đ. Thì mình có phải đóng tiền tháng đầu luôn ko hay bắt đầu từ tháng sau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.083912,
+         "id": "1159486",
+         "field_search": "question",
+         "question": "Xin chào Shop. Hiện mình muốn mua samsung note 8 mới. Mình thấy có chương trình trả góp 0% qua thẻ ngân hàng, thời hạn trong 12 tháng. Mình muốn biết số tiền cần trả trước là bao nhiêu, hàng tháng góp bao nhiêu và số tiền góp hàng tháng thông qua thẻ hay tiền mặt. Mong được phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.007065,
+         "id": "1156159",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại Huwei trả góp trong vòng 4 tháng , mình trả đc 1 tháng rồi . còn 3 tháng mình thanh lý hợp đồng 3 tháng còn lại đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.891125,
+         "id": "1136641",
+         "field_search": "question",
+         "question": " Mình muốn mua đt trả góp nhưng đag trả góp bên Mcredit và bị nợ chú ý vì trả chậm bên đó vậy có mua trả góp đc k ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.851702,
+         "id": "1012924",
+         "field_search": "question",
+         "question": "bên mình cho hỏi . điện thoại đang mua trả góp oy . có mua thẻ qua ghi nợ trả góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.78759,
+         "id": "998847",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi mình lấy hóa đơn điện nhà mình thuê để mua trả góp dc ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.764364,
+         "id": "989430",
+         "field_search": "question",
+         "question": "Mình có mua trả góp của Cty FE, còn góp 5 tháng nửa mới xong, nay mình muôn mua trả góp tiếp có dc kg vậy, mình định mua sản phẩm Iphone 5 SE 16Gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.756248,
+         "id": "1160963",
+         "field_search": "question",
+         "question": "Mình mua Laptop ở ĐMX, giờ laptop ko phù hợp với mục đích sử dụng của mình (máy bị đơ, chậm) mình muốn bán lại Laptop để mua máy mới. ĐMX có mua lại máy của mình ko ạ? Máy mình mua tháng 11/2017",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.5865,
+         "id": "990314",
+         "field_search": "question",
+         "question": "Cho hỏi tgdd có hỗ trợ mua trả góp qua mcredit ko ạ. Mình mới nghe nói cái này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.579208,
+         "id": "994588",
+         "field_search": "question",
+         "question": " Mẹ mình đang vay ngân hàng Mà giờ muốn mua đt trả góp được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.505203,
+         "id": "771356",
+         "field_search": "question",
+         "question": " Mình mua trả góp điện thoại iphone 6s trả được 4 tháng giờ mình muốn mua tiếp có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.443201,
+         "id": "1167439",
+         "field_search": "question",
+         "question": "Mình mua trả góp qua thẻ ngân hàng thì làm như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.29954,
+         "id": "992210",
+         "field_search": "question",
+         "question": "ad cho em hỏi em mới mua a52017 trả góp 0 dc 2 tháng máy vậy giờ mình muốn đổi 1 cái đt khác thì mất bao nhiêu  ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.225122,
+         "id": "999849",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua trả góp 0% note 5 dc 15 ngày . giờ mình muốn mua trả góp thêm 1 dt khác trên 10 triệu nữa . vậy có dc ko . mình chỉ có cmnd và bằng lái xe .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.1832,
+         "id": "1161543",
+         "field_search": "question",
+         "question": "Trả góp qua thẻ tín dụng có cần ra tgdd hk ad. Mình muốn mua giao hàng tận nhà đấy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.131472,
+         "id": "1011179",
+         "field_search": "question",
+         "question": "cho mình hỏi  mình là khách hàng đã từng mua trả góp của TGDD,giờ mình muốn mua trả góp máy tính bảng có cần phải đủ chứng minh thư và sổ hộ khẩu ko hay chỉ cần mỗi chứng minh thư thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.086681,
+         "id": "1015814",
+         "field_search": "question",
+         "question": "Mình hiện có đt iPhone 5se mới mua đc 9 tháng mình muốn đổi đt và trả góp có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.059238,
+         "id": "1138769",
+         "field_search": "question",
+         "question": " Dạ cho mình hỏi, mua máy cũ thì có trả góp qua thẻ được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.005064,
+         "id": "1158722",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại trả góp tại của hàng thì mình cần thủ tục gì .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.975264,
+         "id": "1020828",
+         "field_search": "question",
+         "question": "cho mình hỏi mua điện thoại trả góp  góp được 1 tháng rồi trả hết số còn lại nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.941753,
+         "id": "1018134",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, Neeua mua trả góp. Ví dụ như điện thoại có giá 5990k. Mình phải trả trước 20% giá sản phẩm. Và mình phải trả góp mỗi tháng 593k trong vòng 12 tháng. Khi trả xong 12 tháng thì dư ra 2.324k. Vậy số tiền dư sau khi mình trả xong là bên TGDĐ trả lại cho khách hàng hay là giữ lại ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.926922,
+         "id": "992363",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu mình đặt hàng onl trên tgdd, đơn hàng đã đc xác nhận như này thì khi hàng về mình đến chỗ tgdd mua trả góp đc k ạ, hay là chỉ đc trả tiền hết 1 lần ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.880016,
+         "id": "747099",
+         "field_search": "question",
+         "question": " Cho mình hỏi TGDD có mua lại máy Iphone 4S 8GB mình mua ở TGDD tháng 032015 còn bảo hành hơn 3 tháng không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.851152,
+         "id": "1016895",
+         "field_search": "question",
+         "question": "Nếu mua đt đã qua dử dụng ở TGDD thì có được đổi trả ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.797937,
+         "id": "1001542",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình thanh toán muộn tiền trả góp thì phí trả ntn bạn nhỉ? Tháng sau mình thanh toán cả 2 tháng thì vẫn áp dụng chính sách trả góp như bình thh đúng ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.75169,
+         "id": "1009088",
+         "field_search": "question",
+         "question": "Em có mua 1 chiếc dt trả góp tai tgdd hàng tháng e trả đúng và xớm hơn hẹn nhưng do sự cố tháng này em muốn trả chậm hơn hẹn 15 ngày thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.750195,
+         "id": "1155804",
+         "field_search": "question",
+         "question": "Mình muốn mua đt trả góp mà hiện tại ko có hộ khẩu thì có được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.702047,
+         "id": "1006833",
+         "field_search": "question",
+         "question": "Mình có mua trả góp dt sony xa1 unltra dc 33 ngày kon 5 kỳ trả góp giờ muốn bán lại cửa hàng thì ntn nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.646513,
+         "id": "1143110",
+         "field_search": "question",
+         "question": "cho mình hỏi? mình đang sử dụng thẻ masterCard ngân hàng Agribank thì có mua điện thoại trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.64315,
+         "id": "989161",
+         "field_search": "question",
+         "question": " cho mình hỏi một chút, mình mới mua máy tính trả góp 3 hôm, bây giờ mình muốn chuyển qua trả hết luôn thì thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.636261,
+         "id": "993002",
+         "field_search": "question",
+         "question": "cho mình hỏi mình định mua macbook nhưng lại hết hàng mà mình tính mua theo dạng trả góp í nhưng loại đó phải đặt hàng 2-->7 ngày mới có v sp đặt hàng trc có dc mua trả góp k ạ xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.599953,
+         "id": "1165484",
+         "field_search": "question",
+         "question": "Mình có mua iPhone xr qua sử dụng qua trả góp fecredit, giờ muốn huỷ hợp đồng có đc ko ạ, vừa mới mua khoan 2 ngày gần đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.575018,
+         "id": "1006429",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua trả góp samsungj7 pro , mình là sinh viên thì có gói trả góp lãi suất 0% không ạ và các gói trả góp 6 tháng và 12 tháng là như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.446152,
+         "id": "1154343",
+         "field_search": "question",
+         "question": "Mình mua đt đc gần 1 tháng và muốn trả lại thì mất phí bao nhiêu ạ. Và trả lại cần những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.399723,
+         "id": "995631",
+         "field_search": "question",
+         "question": "Cho mình hỏi 5s còn hàng ở Trà vinh ko? Trả góp ntn vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.388737,
+         "id": "1003800",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình muốn mua điện thoại trả góp có thể tư vấn giúp mình dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.388494,
+         "id": "1012456",
+         "field_search": "question",
+         "question": "Chào shop, mình muốn mua máy cũ iPhone 6S 32GB Rose Gold (mã sp: #7456752) = 9.610.000₫thì có trả góp được không?- Nếu trả góp thì thấp nhất mấy tháng. mình muốn trả số tháng thấp nhất- Trả góp trước bao nhiêu tiền, và mỗi tháng trả bao nhiêu tiền ạ.Shop tính giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.322868,
+         "id": "906971",
+         "field_search": "question",
+         "question": "bạn bên mình trên cửa hàng ở hòa khánh có cho trả góp laptop lenovo yoga300 lãi xuất 0% ko vậy bạn,có gì bạn gởi email phamcong04071993@gmail.com cho mình để mình biết thêm về hình thức trả góp với mình mún mua máy đó định trả trc 30%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.307669,
+         "id": "1143678",
+         "field_search": "question",
+         "question": "Cho mình hỏi mua trả góp điện thoại hưawai nova3i đc qua tặng gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.284441,
+         "id": "1017143",
+         "field_search": "question",
+         "question": "mình mơi mua oppo hôm qua, nhưng h mình muốn đổi j7 ngang giá dc k , minh mua trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.272484,
+         "id": "1014294",
+         "field_search": "question",
+         "question": "Mình mua trả trước 50 còn lại mình trả trong 4 tháng dc ko vậy. Samsung a7 2017. 6.150k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.144325,
+         "id": "1006559",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp sn xperia XZ  thấy giá 10.990 vậy mua trả gop thì phải trả bao nhiu trước và hàng tháng phải trả bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.093815,
+         "id": "999276",
+         "field_search": "question",
+         "question": "mình có cái điện thoại mua trả góp được 5 ngày ở tgdd.mình muốn thanh lý ở tgdd thì chịu lổ bao nhiêu phần trăm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.058414,
+         "id": "1000340",
+         "field_search": "question",
+         "question": "cho hỏi mình có đặt mua trả góp Samsung J7 Pro bên TGDD. Mình muốn nhận máy vào ngày mai thì ngày mai làm hồ sơ vay trả góp có kịp không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.991158,
+         "id": "987650",
+         "field_search": "question",
+         "question": " cho hỏi nếu mình muốn mua đt trả góp mà có cmt thôi có đc ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.960157,
+         "id": "997388",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua đt cũ trả góp samsung j7 prime nhưng mình muốn mua trả góp thêm samsung j2 prime có được không hả tgdđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.940346,
+         "id": "1004934",
+         "field_search": "question",
+         "question": "E nhận dc coupon ở tgdd thì có áp dụng ở điện máy xanh ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.90895,
+         "id": "1000349",
+         "field_search": "question",
+         "question": "Tôi có trả góp 1 máy điện thoại và dùng dc hơn 1 tháng nay tôi cảm thấy ko phù hợp với nhu cầu muốn đổi trả sang máy khác thì mất bao nhiêu %.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.891176,
+         "id": "998890",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở tgdd có chương trình đổi đt cũ qua đt mới không. Đt mình đang xài mua ở tgdd. Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.809591,
+         "id": "996822",
+         "field_search": "question",
+         "question": "Ad cho e hỏi là mua trả góp j7 prime dk hơn 1 tháng thì bên mình có chính sách thu mua lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.756521,
+         "id": "953330",
+         "field_search": "question",
+         "question": "Mình có mua 1 điện thoại Samsung j7 prime trả góp tại tgdd lãi xuất 0% dc 10 ngày . Nhưng bây giờ mình muốn đổi cái j7 prime lên iphone 7 . Cho mình hỏi tại shop có hỗ trợ đổi ko ạ và bù tiền đổi có dc ko ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.726524,
+         "id": "1141850",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình nua máy trả góp nhưng giờ mình muốn đổi trả để mua máy khác thì có được áp dụng như mua trả thẳng không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.716568,
+         "id": "993706",
+         "field_search": "question",
+         "question": "Xin hỏi, mình muốn mua trả góp 1 điện thoại tầm 7 triệu, góp trong vòng 1 năm. Vậy thì mỗi tháng mình phải góp bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.640936,
+         "id": "778586",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp iPhone 5s thì cần những gì mình đã đã từng mua trả góp cách đây 2 tháng và không được chấp nhận liệu có được mua trả góp nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.596498,
+         "id": "1169867",
+         "field_search": "question",
+         "question": "Mình muốn hỏi vấn đề là mình có mua qua tay 1 cái ip6s plus mã Việt Nam!. Mình dùng icloud của mình đăng nhập dùng bình thường khoảng hơn 1 năm. Hôm nay mình reset lại định cho người khác xài thì bị buộc phải đăng nhập với 1 icloud khác mình có hỏi vài ng thì nói là máy bị icloud ẩn. Imei:   353326070595675. Bên tgdd có thể kiêm tra giúp mình là máy có phải dc mua ở đây không. Vì mình có liên hệ với apple là cần phải có hoá đơn mua hàng thì apple mới hỗ trợ unlock. Vậy nếu dc mua tại tgdd thì tgdd có hỗ trợ cho mình hoá đơn mua hàng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.56086,
+         "id": "994485",
+         "field_search": "question",
+         "question": "Chào bạn! Mình mới mua trả góp đt Samsung C9 Pro của TGDĐ khoảng gần 1 tuần nhưng mình lại không dùng đến, bạn cho mình hỏi là TGDD có thu lại không và giá thế nào bạn? Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.49498,
+         "id": "1147032",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Nếu mình mua trả góp 0% một cái điện thoại. Trả trước 30% vào khoảng 1 triệu. Và số còn lại trả trong vòng 4 tháng. Thì ngay lúc mua mình chỉ cần trả 1 triệu, hay đóng thêm cả tháng đầu tiên vào lúc mua luôn.. mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.474691,
+         "id": "1163951",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mua A70t trả góp qua thẻ master thì thủ tục cần gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.456703,
+         "id": "1024019",
+         "field_search": "question",
+         "question": "mình muốn mua máy đổi trả ở tgdd nhưng ở tỉnh mình k có. thì có thể mua online ở tỉnh khác đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.401443,
+         "id": "1008418",
+         "field_search": "question",
+         "question": "cho mình hỏi dt aus zenfone 3 max của mình mua của tgdd dc 3 tháng. Mình lỡ làm máy bị vô nước nếu đem ra tgdd bảo hành thì máy sửa hoàn toàn miễn phí hay sao. mà bảo hành thì lâu quá, còn nếu mình đem ra ngoài sửa ko dc rồi tgdd có còn bảo hành ko. Nếu tgdd ko bảo hành cho mình thì mình gửi máy cho tgdd sửa mình phải chịu phí như thế nào. Xin cho mình câu trả lời cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.396383,
+         "id": "993398",
+         "field_search": "question",
+         "question": "mình sinh tháng 11 năm 1997 vậy mình có được trả góp điện thoại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.341185,
+         "id": "999052",
+         "field_search": "question",
+         "question": "Mẹ Mình mua góp dùm iphone 6 32GB giá 8.990k và trả góp 8 tháng dùm mình vì mình chưa đủ tuổi và đã trả được 1 tháng và ngày 8/7/2017 mình sẻ đóng là tháng thứ 2 và mình thấy iphone 6s plus 32GB lên kệ với giá là 14.990k ... mình muốn trả dồn hết 1 lần tiền góp iphone 6 trong vòng 7 tháng nữa được không ??? và mình có thể bán lại máy iphone 6 rồi bù tiền để lên iphone 6s plus không ? và cần đem những gì để trả góp hết 1 lần ?Máy được sử dụng vào ngày 13/5/2017 nếu bán lại TGDD thì mất bao nhiêu % ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.329765,
+         "id": "1013681",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi nếu máy mình mua ở tgdd đã qua sử dụng nhưng đang trong thời gian bảo hành có được đổi trả không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "771813",
+   "total": 31355,
+   "total_current": 100,
+   "max_score": 75.64578,
+   "origin_question": " Em bị dính phần mềm mpc cleaner trên laptop có cách nào để xóa sạch nó không? Em xin cảm ơn ",
+   "hits": [
+      {
+         "score": 47.074368,
+         "id": "771811",
+         "field_search": "question",
+         "question": "Em đang sử dụng laptop asus nhưng bị dính phần mềm virus mpc clearner vậy có cách nào để e xóa toàn diện nó hay không? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.739365,
+         "id": "991332",
+         "field_search": "question",
+         "question": "em bị dính phần mềm MPC Cleaner. Em đã thử cách giống nhiều người là tìm mục MPC Uninstall nhưng trong máy tính em không có mục nào như thế. Ai đó giúp em với :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.263592,
+         "id": "1159825",
+         "field_search": "question",
+         "question": "cho em hỏi muốn làm sạch ROM thì làm bằng cách nào ạ???? Phần \"khác\" trên đt chiếm quá nhiều dung lượng, làm sao để có thể xem và xóa được ạ? cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.013943,
+         "id": "922566",
+         "field_search": "question",
+         "question": "Làm sao để vệ sinh vỏ màn hình laptop bằng nhựa bị dính mồ hôi tay ? Mình đã lau bằng nước nhưng không sạch. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.190426,
+         "id": "807821",
+         "field_search": "question",
+         "question": "Cho em hỏi là bằng cách nào để tải phần mềm có trong chplay về cho iPhone 6 không ak.Vì phần mềm đó nó chỉ có trong chplay thôi ak.Ad ơi xin vui lòng giúp em với.Em cần nó....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.14865,
+         "id": "871914",
+         "field_search": "question",
+         "question": " Cho em hỏi USB của em nó bị dính Virus vậy có cách nào để cứu nó không ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.976871,
+         "id": "949042",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao khi cài đặt phần mềm tải trên mạng về trên win 10 không được vậy. các file crack đều bị xóa khi tải về. có cách nào cài được không ạ. Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.879017,
+         "id": "752814",
+         "field_search": "question",
+         "question": "Cho em hỏi hiện giờ em em đang dùng cái iPhone 4 mà em cập nhật phần mềm iOS có cách nào xóa bộ phận cập nhật này không vậy chỉ em với em cảm ơn nhiều?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.653372,
+         "id": "931609",
+         "field_search": "question",
+         "question": "ChàoAnh/ChịHiện tại em mới mua chiếc laptop Inp 3458 ở cửa hàng chạy Win 8.1 bản quyền. Hiện tại thì máy em có các phần mềm như WPS Writer, WPS Prensentation, WPS Spreadsheets tương tự như Word, Exell, Power Point. Khi mở file word hay exell thì nó lại mở phần mềm kia. Vậy cho em hỏi phần mềm kia có quan trọng không. Nếu xóa thì có ảnh hưởng gì tới phần mềm của máy không. Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.920525,
+         "id": "1150450",
+         "field_search": "question",
+         "question": "Fb của em bị mất em sao lưu dữ liệu fb về máy thù ảnh trong abum bị mất (em ko xóa nó tự biến mất) chỉ có các ảnh em đã đăng lên fb. Cho em hỏi làn cách nào để tìm ra nó em đã thử tải các phần mềm khôi phục ảnh bị xóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.902802,
+         "id": "1144758",
+         "field_search": "question",
+         "question": " cho em hỏi cách xóa sạch dữ liệu khiến laptop như mới ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.739553,
+         "id": "1138798",
+         "field_search": "question",
+         "question": "Xin chào,Cho em hỏi có cách nào để phát video có sẵn trong máy hay trên youtube trực tiếp lên facebook trên điện thoại ạ?Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.130812,
+         "id": "1148402",
+         "field_search": "question",
+         "question": "Phần mềm com.android.system.ui là virus phải không ạ em nhớ lúc mới mua đâu có nó ạ, chỉ có phần mềm com.android.systemui à mấy phần mềm quét virus (VirusTotal) cho nó là Trojan virus ạ, nhưng không nào xóa nó được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.005783,
+         "id": "1022702",
+         "field_search": "question",
+         "question": "xin chào, cho em hỏi là laptop Asus của em lâu rồi không sử dụng, giờ phần mềm diệt virus hết hạn, khởi động thì chậm, tải phần mềm về cài đặt không được, có thể tư vấn cho em nên làm gì không ạ. Em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.96602,
+         "id": "914965",
+         "field_search": "question",
+         "question": "Cho em xin hỏi muốn xem nội dung tin nhắn zalo đã bị xóa trên điện thoại thì làm thế nào?Trường hợp đăng nhập zalo cả điện thoại và máy tính nhưng khi xóa trên điện thoại thì máy tính cũng mất luôn, có cách nào khôi phục trên máy tính được không? xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.940193,
+         "id": "794227",
+         "field_search": "question",
+         "question": " Tôi muốn reset lại máy, cho tôi hỏi có cách nào giữ lại các tin nhắn trên phần mềm line được không? Cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.894712,
+         "id": "781984",
+         "field_search": "question",
+         "question": "Tình hình là em lỡ xóa hình anh của ipad air 2 qua phần mềm itunes.có cách nào lấy lai a.em đang rất cần mong a/c trả lời em ngay ạ.em xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.80541,
+         "id": "818341",
+         "field_search": "question",
+         "question": "KTV làm ơn cho em hỏi laptop của em không hiểu sao bị virus tên là hardware. Em dùng phần mềm avira quét rồi nhưng mà khi mở máy lại thì nó vẫn báo virus em đã tìm ra file định xóa file gốc những file được bảo vệ không xóa được. Xin KTV tư vấn giúp em làm sao để diệt tận gốc virus.Dong may dell n5448.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.701958,
+         "id": "819523",
+         "field_search": "question",
+         "question": "Cho em hỏi lúc trước em có tải ảnh từ máy tính thông qua itools vào điện thoại iphone 6, bây giờ em muốn xóa mà không xóa trên đt đc, đã mang ra cửa hàng dùng phần mềm kết nối với máy tính để xóa ảnh, khi đó điện thoại báo đã xóa được hình ảnh ra khỏi máy rồi, em vào máy kiểm tra cũng không còn thấy hình nữa, nay điện thoại lại trở về những ảnh đó như cũ, chưa được xóa hình nào cả. Em không có sử dụng tài khoản icoud? Xin hỗ trợ giúp em có cách nào xóa vĩnh viễn những hình đó không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.700197,
+         "id": "926156",
+         "field_search": "question",
+         "question": ". Cho em hỏi, em dùng máy tính nhưng em lỡ xóa các file (cụ thể hơn là hình ảnh) thì bây giờ có phần mềm nào khôi phục hình ảnh em đã xóa không ạ (cụ thể là ảnh đã xóa vĩnh viễn). Em dùng Win7, xin cám ơn :)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.520699,
+         "id": "887537",
+         "field_search": "question",
+         "question": " Làm sao có thể xóa sạch firefox trên win10, đê sau đó cài lại bản firefox mới hoàn toàn.Xin cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.41788,
+         "id": "796039",
+         "field_search": "question",
+         "question": "Cho em hỏi màn hình laptop của em bị chia làm 4 phần, có cách nào để màn hình trở lại bình thường được không ạ. Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.20708,
+         "id": "866446",
+         "field_search": "question",
+         "question": "Em có 1 cái iPhone 4s tự nhiên nó bị liệt mất phần trên + phần dưới của màn hình tầm 0.5cm có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.090796,
+         "id": "803103",
+         "field_search": "question",
+         "question": "Mình vừa tại phần mềm nokia software recovery tool về nhưng khi cắm điện thoại vào laptop thì laptop đã nhận đt nhưng phần mềm vẫn hiện là \"please connect your phone..\" Xin hỏi cách khắc phục. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.999657,
+         "id": "1161224",
+         "field_search": "question",
+         "question": "samsung j6 của hình hiện thông báo cập nhật phần mềm thành công ( mà mình không biết phần mềm gì). sau đó thì liệt cảm ứng. cho mình hỏi dt đang bị gì, cách khắc phục ạ.  xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.777245,
+         "id": "1161833",
+         "field_search": "question",
+         "question": "ad cho em hỏi lỗ để lấy khe sim em dùng tăm cắm vào rồi nó bị dính ở phía trong thì có cách nào lấy ra không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.623701,
+         "id": "1139290",
+         "field_search": "question",
+         "question": "Mình có down phần mềm Wondershare Filmoral Portable về, có thể trong đường link có virus nên laptop mình đã bị cài đặt phần mềm lạ là SearchAwesome, và nó cứ tự động hiện Internet Edge và hiện quảng cáo liên tục, xóa phần mềm đó đi cũng không được. Tóm lại là cho mình hỏi bị nhiễm cái đó có nguy hiểm không và xóa nó có dễ không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.602959,
+         "id": "905538",
+         "field_search": "question",
+         "question": "máy em bị lổi không phát ra âm thanh và nó để: \"không có thiết bị đầu ra âm thanh nào được cài đặt\".chỉ em cách khắc phục.em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.591007,
+         "id": "935732",
+         "field_search": "question",
+         "question": "laptop của em mới đặt lại mật khẩu, nhưng khi đăng nhập không được, chắc là sai mật khẩu. cho em hỏi có cách nào xóa mật khẩu để mở máy được không ạ? e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.55396,
+         "id": "1017998",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ, tôi đang dùng chiếc J3 Pro, trong phần mềm cài sẵn có phần mềm từ điển. Xin KTV hướng dẫn cho tôi sử dụng phần mềm này. Xin cảm ơn nhiều !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.43931,
+         "id": "756939",
+         "field_search": "question",
+         "question": "cho em hỏi .Em đang dùng laptop chạy windows 7 có chạy được phần Windows Phone Recovery Tool để hạ xuống windows 8.1 cho Lumia 630 không ạ . Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.402609,
+         "id": "950745",
+         "field_search": "question",
+         "question": "  Laptop của e nó báo như thế nào là sao vậy ạ? Có cách khắc phục không ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.257383,
+         "id": "810398",
+         "field_search": "question",
+         "question": " anh cho em hỏi phần mềm nào để hack wifi cho laptop acer? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.247902,
+         "id": "1143054",
+         "field_search": "question",
+         "question": "Em lỡ tay xóa mất phần mềm ứng dụng ghi âm trên Samsung J4, làm sao để khôi phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.09871,
+         "id": "1155743",
+         "field_search": "question",
+         "question": "Cho em hỏi 1 xíu ạ, em vừa cập nhật phần mềm android trên điện thoại J2 Pro và xài thử thì trong quá trình dùng các ứng dụng thì nó khá lag. Em thật sự muốn gỡ phần cập nhật này ạ, hoặc phải làm thế nào để điện thoại em có thể dùng mượt hơn... Ế, em xin hỏi thêm 1 điều, cập nhật như vậy có hại gì cho điện thoại không ạ ? Em xin cảm ơn Thế Giới Di Động nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.933674,
+         "id": "1148945",
+         "field_search": "question",
+         "question": "Cho em hỏi trên oppo f7 youth có phần mềm gì mà mỗi lần tắt mở là tự động thay đổi màn hình khóa mong admin hỗ trợ giúp em tên phần mềm em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.660877,
+         "id": "1164748",
+         "field_search": "question",
+         "question": "Laptop Em trong thời gian bảo hành. Nhưng phần vỏ bị hư do lỗi va đập. Xin hỏi có thể gửi thay vỏ giúp em được không. và giá cả bao nhiêu ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.558693,
+         "id": "782378",
+         "field_search": "question",
+         "question": "Hiện em đang muốn sử dụng phần mềm Shou dành quay màn hình điện thoại nhưng khi vào thì nó bắt con LG G2 của em phải root điện thoại. Như vậy có còn cách nào khác để sử dụng Shou không hay em phải root điện thoại. Ở thế giới di động có hỗ trợ root máy không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.5419,
+         "id": "890173",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách mua laptop. M ình mua laptop từ 15 triệu đổ lại thì có thể chạy tốt các phần mềm đồ họa như autoCad, solidworks không, và nên mua những hãng nào? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.495491,
+         "id": "767973",
+         "field_search": "question",
+         "question": "Xin hỏi ios của tôi tải phần mềm ko đc phần mềm trên web là sao a có cách nào giải quyết ko ạ. nó tải về gần xong thì dừng và nói tại ko ko đc trong khi bộ nhớ vẫn còn trống, xin hỏi có cách nào giúp đỡ hay trung tâm nào hỗ trợ cho tôi đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.450716,
+         "id": "871256",
+         "field_search": "question",
+         "question": "Xóa tài khoản icloud trên iphone 5s?Em được người chú tặng chiếc iphone 5s mà còn bị dính tài khoản icloud thì em phải làm thế nào để bỏ được tài khoản ạ? Ở thegioididong có hỗ trợ không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.3384,
+         "id": "1149684",
+         "field_search": "question",
+         "question": "Xiaomi redmi 5 em đang xài android 7.1.2 mới lên android 8.1 thấy nó chạy chậm, hao pin, nóng máy..... Có cách nào để em hạ xuống android 7.1.2 lại ko ạ?? Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.25068,
+         "id": "765952",
+         "field_search": "question",
+         "question": "Em mua laptop HP được 4 tháng và mấy hôm gần đây nó có hiện dòng thông báo \"your windows license will expire soon \" như vậy là bị sao ạ , và có cách khắc phục không . Em xin cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.164015,
+         "id": "1163906",
+         "field_search": "question",
+         "question": " Nó cứ bảo như này Làm cách nào để mở ạ. Anh, chị giúp em với ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.147877,
+         "id": "929442",
+         "field_search": "question",
+         "question": " cho em hỏi cách khắc phục cái này ạ. làm thế nào để tại ứng dụng này ạ. em xin cảm ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.012362,
+         "id": "801291",
+         "field_search": "question",
+         "question": " Có phần mềm nào để xem tài liệu trên IOS không nhứ pdf chẳng hạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.990164,
+         "id": "795807",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5s . Em lên web liền có thông báo virut .. Và có yêu cầu tải phần mềm duyệt virut .. E đã làm theo đang nhập tk app store tải về . Qua tìm hiểu e biết mình bị lừa , cho e hỏi vậy iPhone e có bị gì không ? Lộ thông tin có sao không ? ? Có dính mã độc không? Cần làm gì để khắc phục ạ ..?? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.986547,
+         "id": "937664",
+         "field_search": "question",
+         "question": "Làm sao để xem được Seri linh kiện bên trong laptop HP 8530p như là Cup, Ram, HDD,...? Mình dùng phần mềm nào để xem seri và để đối chiếu với Seri của nhà sản xuất ạ? Mong QTV sớm hồi âm! Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.917738,
+         "id": "1140900",
+         "field_search": "question",
+         "question": "Cửa hàng có nhận cài đặt hộ phần mềm trên laptop ko ạ tại em ko biết cài và ko có wifi dạ cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.903408,
+         "id": "876660",
+         "field_search": "question",
+         "question": "Laptop của tôi dùng Kaspersky có bản quyền nhưng hiện giờ có thông báo bị nhiễm virur Bot.Vrabeber.c . Vậy làm sao để xóa được virút này? XIn chỉ dẫn gấp để tránh bị ảnh hưởng dữ liệu trong máy! XIn cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.871576,
+         "id": "1156967",
+         "field_search": "question",
+         "question": "cho em hỏi cách gỡ sim trên máy tính bảng lenovo A3500, em xin cảm ơn ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.819355,
+         "id": "768786",
+         "field_search": "question",
+         "question": " Xin hỏi cách cài đặt phần mềm Viber hoặc Zalo trên Galaxy J7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.79659,
+         "id": "795703",
+         "field_search": "question",
+         "question": " Qtv cho hỏi cách mở dịch vụ trung tâm bảo mật trên laptop cài windows 10 như thế nào vậy xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.768366,
+         "id": "801734",
+         "field_search": "question",
+         "question": "Điện thoại bị lỗi chương trình, chạy lại chương trình nhưng cần mật khẩu icloud để thuyết lập điện thoại nhưng em quên mật khẩu có cách nào bẻ mật khẩu đó không ai có thể giúp em không em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.704597,
+         "id": "1151583",
+         "field_search": "question",
+         "question": "cho em laptop bị mất hết phần mềm office là bị lỗi win phải không ạ, sửa chữa như nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.663042,
+         "id": "1153296",
+         "field_search": "question",
+         "question": "Em có máy xiaomi mi4 mới,  khi cài phần mềm trên 100mb trên chplay thì cứ chạy đến 100% là lỗi. Em đã thử qua vài phần mềm trên 100mb đều k được. Em cài qua file apk từ bên ngoài thì cài đặt xong cũng không chạy được phần mềm đó luôn.  Xin hoit vậy là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.661476,
+         "id": "1135379",
+         "field_search": "question",
+         "question": "cho mẹ hỏi là e đang sử dụng laptop E5-576-34ND, hiện phần mềm microsoft đã hết hạn sử dụng, em có thể cài lại từ TGDĐ được không ạ, chi phí là bao nhiêu ạ, là sinh viên nên em cần đến nó lắm. mong sớm phản hồi cho em ạ, xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.636324,
+         "id": "1158958",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi là em đang chơi Angry Birds 2 trên Huawei Y3 2017. Em đang chơi thì điện thoại bị treo không thoát ra cũng không tắt máy được. Mong mọi người cho em biết nó bị làm sao và cách khắc phục như thế nào. Xin cảm ơn mọi người.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.6136,
+         "id": "797824",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop của em không có bảo hành tại thế giới di động nhưng cần cài lại từ đầu phần mềm vì nó bị lỗi không thể decovery được, em có thể đem máy đến đó để cài lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.601856,
+         "id": "996718",
+         "field_search": "question",
+         "question": "A ơi cho em  hỏi iPhone 6s của e đã lỡ tắt Thông báo cập nhật phần mềm rồi bây giờ muốn tắt nó đi phải làm sao hả a! Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.5144,
+         "id": "995430",
+         "field_search": "question",
+         "question": "Mọi ng cho e hỏi chút ạ, em đang dùng wechat để chơi game của china trên ios, nhưng nó bị khoá do nghi ngờ đăng nhập, vậy có cách nào để kích hoạt lại ko ạ. Rất mong đc mn giúp đỡ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.509796,
+         "id": "1148212",
+         "field_search": "question",
+         "question": "Xin chào,cho mình hỏi làm cách nào để thay đổi hình nền trên màng hình khóa philips s329 vậy.Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.425232,
+         "id": "1011913",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ, cho mình hỏi. Mình mới dùng chiếc sam sung j3 pro, có phải tải ứng dụng quét vi rút không ? Nếu dùng thì tải phần mềm nào là tốt nhất. Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.409094,
+         "id": "1144840",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách tải phần mềm Adobe Flash Player với ạ, mình cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.400894,
+         "id": "1161984",
+         "field_search": "question",
+         "question": "cho em hỏi là em muốn chạy lại máy tính win 10 để xóa sạch dữ liệu nhưng nó báo là không thể khôi phục vì đang chạy battery power ? giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.346647,
+         "id": "876513",
+         "field_search": "question",
+         "question": " Thế giới di động có nhận cài win laptop không ạ. Em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.337532,
+         "id": "859747",
+         "field_search": "question",
+         "question": " Cho em hỏi có cách nào để người khac không biết mình đang online zalo không ạ? cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.218,
+         "id": "909240",
+         "field_search": "question",
+         "question": " Em lỡ update lại win10 và các phần mềm mất hết em phải làm thế nào. Mong anh chị cho em lời khuyên ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.204237,
+         "id": "757267",
+         "field_search": "question",
+         "question": "Em có mua một chiếc máy tính Dell tại thế giới di động vào 20/10 năm ngoái. Đến nay thì đã hết hạn bảo hành rồi nhưng em có không may xóa 1 vài phần mềm được cài sẵn mà không biết cài lại như thế nào. Vậy em có thể mang đến cửa hàng thế giới di động và nhờ cửa hàng sửa giúp không ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.179506,
+         "id": "946845",
+         "field_search": "question",
+         "question": "Laptop liên tục bị treo khi vào chrome. Em đã khởi động lại máy nhưng vẫn bị như vậy. Cho em hỏi có cách nào khắc phục nhanh không ạ. Hay em phải đem máy xuống hệ thống để kiểm tra. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.168747,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.150898,
+         "id": "798434",
+         "field_search": "question",
+         "question": "Em mới mua cái iphone5 cũ, icloud của nó cũng đã thoát. xui thay khi em cài nhạc bằng laptop thì bị dính cái id cũ mà em ko nhớ pass. máy cứ hỏi pass hoài ... có cách gì không anh?? Mong anh giúp đớ. cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.128313,
+         "id": "822548",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất mặt khẩu iCloud em muốn lấy lại làm cách nào và phần mềm diệt virus thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.123682,
+         "id": "1135469",
+         "field_search": "question",
+         "question": "Các bác dùng xiaomi mi 8 lite cho em hỏi: chơi pubg màn hình bị tràn ra phần tai thỏ, rất khó chơi, làm cách nào để khắc phục ạ? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.097034,
+         "id": "871343",
+         "field_search": "question",
+         "question": "Anh chị cho em biết nhung ứng dụng diệt virus trên iphone . Em đang dùng iphone 5 máy em bị nhiễm virus mà không biết cách diệt nên em mong anh chị cho em biết cách . Em xin cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.077534,
+         "id": "797752",
+         "field_search": "question",
+         "question": " Ad chỉ e cách làm thế nào để tải video trên facebook về điện thoại iphone 5s thì làm thế nào ạ xin cảm ơn àd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.055038,
+         "id": "1002565",
+         "field_search": "question",
+         "question": "Chào admin,Mình vừa mua dòng máy tính bảng Huawei T1-701u nhưng tìm mãi không ra chỗ nào để tự động xoay màn hình chính, vì thiết bị mình lắm trên khung xe con nó nằm ngang. Ad có cách nào xử lý trường hợp này không? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.990723,
+         "id": "806798",
+         "field_search": "question",
+         "question": "minh xài iPhone 6s plus giờ mình muốn tải video phim về máy mà phần mềm free video và một số phần mềm đã bị xóa trên appstore!giờ mình mún tải thì phải làm sao ạ?????????????? minh đã thử rất nhìu phần mềm nhưng không có chỗ để tải về???????mong phản hồi sớm ạ????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.966312,
+         "id": "1162265",
+         "field_search": "question",
+         "question": "Em mới mua laptop ASUS Vivobook vào đầu tháng 4/2019 S530UA. Phần đế máy dễ bị trầy xước. Có cách nào để hạn chế không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.895899,
+         "id": "868638",
+         "field_search": "question",
+         "question": "Tài khoản Facebook bị facebook xác minh giáy tờ.Nê không login vào TK được, Nhưng fanpage vào search ra đượcCó cách nào xóa luôn cái fanpage đó được không vậy .Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.86633,
+         "id": "761815",
+         "field_search": "question",
+         "question": " Mình có mua cái iPhone 5S cũ giờ bị dính mật khẩu giới hạn. Xin chỉ giúp mình cách xóa bỏ mật khẩu giới hạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.814857,
+         "id": "1163180",
+         "field_search": "question",
+         "question": "Tôi xài đt Mobell Nova P2, ngày nào cũng bị tình trạng phần mềm Hot Games tự động nhảy vào cài, tôi đã đặt chế độ chặn cài đặt các app không rõ nguồn gốc nên app đó không cài được nhưng nó cứ nhảy lên thông báo. Xin Add giúp dùm làm sao xóa triệt để những app đó không cho tự động nhảy vào máy. Xin cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.771038,
+         "id": "787511",
+         "field_search": "question",
+         "question": " Máy iphone 6 cập nhập phần mềm bị dính iCloud thì phải làm sao ? help me ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.751072,
+         "id": "1018287",
+         "field_search": "question",
+         "question": "Cho em hỏi máy j5 của em nó tự cập nhập phần mền có cách nào để tắt ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.740423,
+         "id": "1014632",
+         "field_search": "question",
+         "question": "Anh có thể giúp em cách khắc lỗi không cập nhật được phần mềm của oppo R831S và nếu có thể cho em xin file rom oppo R831S",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.73905,
+         "id": "610734",
+         "field_search": "question",
+         "question": "iPhone của em bị quên mật khẩu và sau đó em nhập sai quá nhiều nên máy báo iphone đã bị vô hiệu hóa kết nối itunes, còn nữa iCloud cũng quên. Bây giờ em muốn restore có được không? Nếu được máy có bị dính iCloud không? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.70914,
+         "id": "810136",
+         "field_search": "question",
+         "question": "Chào admin , máy tính win 7 của em xài gần 3 tháng , do em tải nhiều thứ quá rồi xoá đi nên máy có hơi lad , em có nên sử dụng phần mềm cclean để xoá toàn bộ dữ liệu trên ổ C không ạ ? Nếu làm vậy có gây ra lỗi gì không ??? em chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.668383,
+         "id": "994293",
+         "field_search": "question",
+         "question": "Em quên mật khẩu icloud trên iphone 5S (đã cập nhật phần mềm mới - không có mục Cài đặt -> Icloud) và không đăng nhập được. Mật khẩu gmail cũng không sử dụng được. Admin chỉ giúp em cách xóa tài khoản icloud với. Rất mong nhận được câu trả lời sớm nhất. Cám ơn admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.657139,
+         "id": "795071",
+         "field_search": "question",
+         "question": "Tôi tải zalo về máy laptop và đã dùng điện thoại quét mã QR trên laptop và đã sử dụng zalo trên laptop tốt . Nhưng giờ không muốn sử dụng zalo trên laptop nữa tôi đã xóa biểu tượng zalo trên laptop rồi nhưng sao cứ mỗi lần tắt máy laptop rồi khởi động máy trở lại thì bảng zalo vần cứ còn trên laptop . Xin hỏi quản trị viên giờ muốn xóa vĩnh viễn zalo trên máy laptop thì phải làm như thế nào xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.653954,
+         "id": "834951",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đang dùng laptop dell, dạo gần đây khi bật máy lên nó cứ kêu tít tít liên tục, mình đã quét virus nhưng phần mềm báo là an toàn, vậy máy mình bị như vậy có cách nào để tắt nó đi hay là máy của mình bị lỗi phần cứng không, QTV giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.58247,
+         "id": "754080",
+         "field_search": "question",
+         "question": " Cho em hỏi em tài phần mềm genymotion sử dụng giả lập android trên máy tính nó báo thông bị lỗi là sao admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.56063,
+         "id": "1024100",
+         "field_search": "question",
+         "question": "tôi bị lỗi phím số bên phải.bị lỗi số 4 với lại nhiều khi tôi viết trên bàn phím,thì hiện ra phần như nut f12.đây có phải lỗi driver không và cách khắc phục lỗi này như thế nào, tôi xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.50687,
+         "id": "927247",
+         "field_search": "question",
+         "question": "Em đang xài Win 10 bản quyền có sẵn từ khi mua laptop ạ. Nhưng giờ em cài nhiều thứ quá và quản lý không tốt dẫn tới máy bị đầy và xung đột các phần mềm với nhau, dùng control panel để gỡ thì không hết sạch được và còn bị đơ khi uninstall.Em muốn dùng chức năng Reset PC là một cách rất tốt, nhưng không biết dùng xong thì win 10 bản quyền có bị mất hay thiếu thốn gì không ạ?Mong các anh chị tư vấn sớm giúp em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.500137,
+         "id": "1013683",
+         "field_search": "question",
+         "question": "Mọi người cho hỏi WPS office khi mở hay xuất hiện quảng cáo, có cách nào để chặn không? Mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.491648,
+         "id": "814786",
+         "field_search": "question",
+         "question": "iphone 5s của em bị lỗi cảm ứng không rõ nguyên nhân, mang ra quán điện thoại họ nói rằng máy bị hỏng cáp, thi thoảng vẫn sử dụng được, ad có thề cho em biết đó là do máy hay do phần mềm không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.482065,
+         "id": "992976",
+         "field_search": "question",
+         "question": "Em muốn hỏi làm cách nào để sắp xếp ứng dụng một cách tùy chỉnh trên màn hình chính ạ?  Vì mỗi lần em kéo để sắp xếp thì các ứng dụng sẽ được dồn lên phía trên hết chứ không theo ý em. Em dùng Oppo F3. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.468819,
+         "id": "877678",
+         "field_search": "question",
+         "question": "cho em hỏi trong ổ cứng windows 10 xuất hiện các file ẩn không xóa được tại vì có quyền admin. vậy các file này có cần thiết không? cách nào để xóa nó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.46473,
+         "id": "805823",
+         "field_search": "question",
+         "question": " Tại sao mình không xóa được ảnh và STT trên Zalo làm cách nào để xóa? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.42684,
+         "id": "771481",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 4 bị dính icloud có cách khắc phục không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

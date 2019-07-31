@@ -1,0 +1,801 @@
+{
+   "id_query": "760382",
+   "total": 35103,
+   "total_current": 100,
+   "max_score": 189.5673,
+   "origin_question": "Chào thế giới di động cho mình hởi 1 chút là mình đang sử dụng iPhone 6 nhưng may minh gặp 1 chút vấn đề là nhận được cuộc gọi nhưng mình không nghe được và nói đầu dây bên kia cũng không nghe được. Mình cũng đã thử gọi đi và tình trạng vẫn như vậy khi mình tắt nguồn và khởi động lại thì mọi thứ đều ổn vậy máy mình làm sao và cách khắc phục vấn đề. Máy mình đang sử dụng là hàng chính hãng mua ở Viettel.",
+   "hits": [
+      {
+         "score": 81.63957,
+         "id": "874866",
+         "field_search": "question",
+         "question": "mình sử dụng iphone 5, có nhiều lúc sim điện thoại có sóng nhưng mình nhắn tin hay gọi điện thoại cho người khác không được, và có tình trạng mình nghe đầu dây bên kia nói rất rõ nhưng mình nói thì bên kia k nghe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.32611,
+         "id": "814409",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng iPhone 5 dạo gần đây nó hay tắt nguồn có cuộc gọi đến cũng bị tắt nguồn, khi mở lên thì màn hình nhấp nháy rồi tự động tắt, vậy điện thoại mình gặp vấn đề gì và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.04208,
+         "id": "794878",
+         "field_search": "question",
+         "question": "mình mới mua 1 chiếc iphone 5s tại thế giới di động Giao Thủy. Mang về sử dụng thì tai nghe trong có vẻ có vấn đề gọi 900 thì vẫn nghe rõ nhưng nghe hay gọi cuộc gọi của mọi người thì bị rè và âm thanh rất nhỏ. Cho mình hỏi là có bị lỗi cài đặt hay là lỗi loa trong để ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.3101,
+         "id": "815251",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo f1, máy của mình khi gọi zalo và fb thì đầu dây bên kia k nghe đc (điện thoại vẫn nghe gọi bt nhé), đã gỡ đi , cài lại vẫn bị tình trạng như cũ, mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.89326,
+         "id": "1145340",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop của mình là Asus Vivobook S15 X510UQR. Hôm qua mình cập nhật Win xong thì máy kêu khởi động lại máy. Khi khởi động lên thì bị mất Wifi. Mình đã dùng mọi cách để khắc phục nhưng không được. Sau đó cài Driver Wifi thì mới sử dụng được Wifi. Và tình trạng khi tắt máy mở máy lên vẫn mất Wifi, tiếp tục cài Driver mới sử dụng được Wfifi. Ngay cả phím chức năng Fn cũng vậy. Kỹ thuật viên có thể giúp mình giải quyết vấn đề được không. Mình xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.943275,
+         "id": "839633",
+         "field_search": "question",
+         "question": "mình gọi qua mesenger nhưng đầu bên kia không nghe được tiếng của mình là bị sao ạ? trong khi mình lại nghe được rất rõ những gì bên kia nói...mình đã thử cài đặt nhiều thứ nhưng họ vẫn không nghe được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.736916,
+         "id": "772814",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao cái Samsung Galaxy Note 3 mình sử dụng được 1 ngày thì bị hiển thị biểu tượng tai nghe mặc dù mình không cắm tai nghe? Và như thế nên lúc gọi ko nói hay nghe được. Lỗi thứ 2 là máy hay bị tắt nguồn tự khởi động lại? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.3744,
+         "id": "999532",
+         "field_search": "question",
+         "question": "Mình mua s8+, hôm đầu tiên bắt đầu sử dụng vó cuộc gọi mình nghe thì thấy người ta nói. Nhưng mình nói thì đầu dây bên kia k nghe đc. Rồi trong 9 ngày sử dụng ngày nào cũng bị 2,3 lần. Mình mang đi đổi trả. Đến máy s8+ này cũng vẫn bị lỗi như vậy. Cho mình hỏi bây giờ mình muốn chuyển sang dòng máy khác thì tính như thế nào...???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.40681,
+         "id": "804266",
+         "field_search": "question",
+         "question": "Iphone của mình hiện đang gặp vấn đề. Khi mình muốn tải ứng dụng thì hiện ra phần đăng nhập tà khoản, mình không ấn hủy mà ấn luôn về màn hình chính và máy bắt đầu bị đơ tắt nguồn rồi khởi động lại cũng không được. Bạn có thể cho mình cách giải quyết không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.38468,
+         "id": "996632",
+         "field_search": "question",
+         "question": "Chào các bạn hỗ trợ kỹ thuật,Cho mình hỏi 1 vấn đề:Mình dùng mua iphone 6splus ở thế giới di động được khoảng 2 tháng rồi. Mấy hôm nay máy mình có hiện tượng là gọi điện thoại đi lần đầu thì không nghe thấy gì, tắt đi gọi lại thì được; tương tự cắm tai nghe vào lần đầu cũng không được, rút ra cắm lại vào thì được.Các bạn có biết lỗi này là gì và khắc phục được không?Mong sớm nhận được phản hồi từ các bạn.Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.22812,
+         "id": "1008765",
+         "field_search": "question",
+         "question": "Mình đang dùng 6s+ khi gọi video call thì nghe bên kia nói và mình trả lời lại thì bên đó thì không nghe mình có vào setting -> micrô tắt xong bật lại và reset nhưng gọi vẫn tình trạng ban đầu ạ mong các mod giúp mình ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.05467,
+         "id": "874512",
+         "field_search": "question",
+         "question": "Mình đang xài Note4, nhưng tự nhiên hôm nay cả viber lẫn zalo khi gọi cho người ta thì đầu bên kia không nghe mình nói gì, mà trong khi mình lại nghe rõ đầu dây bên kia nói gì. Gọi bằng cách thông thường thì vẫn nghe. Trường hợp này là máy mình bị như thế nào vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.84566,
+         "id": "1138676",
+         "field_search": "question",
+         "question": "Chào ad, ad cho mình hỏi về điện thoại asus zenphone 2, mình bị vấn đề như sau, Khe cắm Sim 1 cho phép bật 2,3,4G và khe cắm Sim 2 không hỗ trợ 2,3,4G, mình đang sử dụng Sim Viettel mình cắm ở khe Sim 1 thì bật 2,3,4G vào internet bình thường, nhưng khi mình cắm Sim Mobifone vào khe Sim 1 thì điện thoại mình hoàn toàn không nhận Sim cũng như không bật được 2,3,4G (Sim mobile mình đã test ở điện thoại khác thì vẫn hoạt động vào internet bình thường) không biết tình trạng này là như thế nào bạn và có cách nào khắc phục không bạn. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.155266,
+         "id": "895685",
+         "field_search": "question",
+         "question": "iphone 6s không nghe được chuông cuộc gọi đến và mở youtube cũng k chạy. Vô cài đặt âm thanh tăng giảm âm lượng cũng không nghe tiếng nhạc. Nếu tắt mở nguồn lại thì lại nghe được. Nhưng sử dụng 1 2 ngày thì bị lại. Cho mình hỏi là bị j vậy ạ! Mình vừa nâng lên ios10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.47852,
+         "id": "1002240",
+         "field_search": "question",
+         "question": "Mình đang sử dụng HTC One E8, máy không bị va chạm hay vô nước gì mà bỗng dưng chỉ có nghe được nhưng nói thì bên kia không nhận được, nghĩ hư mic nhưng khi chuyển qua loa ngoài thì bên kia lại nghe được bình thường, mình đã reset vài lần nhưng vẫn bị tình trạng trên, bên mình có thể tư vấn giùm mình được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.88668,
+         "id": "1164681",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi hiện tại mình đang xài Samsung J3, khi mình gọi vào điện thoại của em mình thì bên điện thoại em mình hiển thị cuộc gọi nhỡ từ mình và tự động tắt.. mình xem thì thấy biểu tượng chặn ở đt em mình nhưng mình đã xem lại thì sdt mình k có trong danh sách chặn cuộc gọi, cũng đã thử tắt chế độ chuyển tiếp cuộc gọi nhưng vẫn không được. Chỉ có em mình gọi lại được cho mình còn mình thì chỉ không gọi được cho sdt của em mình thôi. Cả 2 đt đều là Samsung J3 ạ. Mọi người ai biết cách khắc phục xin chỉ giùm mình với. Mình cảm ơn nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.52849,
+         "id": "996842",
+         "field_search": "question",
+         "question": "chào ad, hiện tại mình đang sử dụng máy sony m5 daul và máy gặp trình trạng như sau: đột nhiên mình đang sử dụng thì màn hình điện thoại chuyển sang màu đen và không khôi phục lại, tất cả các tính năng như nhận cuộc gọi, báo thức đều hoạt động bình thường khi mình không thấy được gì trên màn hình. vậy máy mình bị hư màn hình đúng không? và nếu đúng như vậy thì tại thegioididong có màn hình để thay cho mình không? cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.25275,
+         "id": "1166837",
+         "field_search": "question",
+         "question": "Mình có mua headphone bên TGDD , hiện tại mình gặp tình trạng chỉ có một bên headphone còn sử dụng được , lúc mua mình được tư vấn là bảo hành 1 năm . Không biết với tình trạng như trên mình có thể đổi hoặc sử chữa gì không ? Cám ơn đã xem và tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.70557,
+         "id": "996809",
+         "field_search": "question",
+         "question": "Mình dùng oppo a37, 3 hôm nay khi gọi đi hay nhận cuộc gọi đến bên kia đều không nghe thấy tiếng bên mình còn mình nghe rất rõ, gọi qua Wi-Fi cũng bị, nhưng đeo tai nghe thì bị. Cho mình hỏi là tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.14782,
+         "id": "995099",
+         "field_search": "question",
+         "question": "TGDD cho mình hỏi mình mua iphone 7 plus tại cửa hàng về dùng, mới đầu mọi thứ dùng đều bình thường hết nhưng mới đây mình mới phát hiện lỗi khi thực hiện cuộc gọi ( khi thực hiện cuộc gọi bị réo mình và đầu bên kia đều ko nghe thấy gì) Mình mang tới TGDD gặp nhân viên để kiểm cha và nhân viên báo phải gủi đi bảo hành từ 15 đến 20 ngày mơi nhận lại máy. Vậy mình hỏi khi gủi máy đi như thế thì nhân viên sẽ tháo máy và sửa phần cứng máy của mình à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.24545,
+         "id": "993606",
+         "field_search": "question",
+         "question": "Chào tgdd,Mình đang sử dụng máy DELL mua ở TGDDHôm qua máy mình vẫn hoạt động bình thường, tuy nhiên, hôm nay bỗng nhiên wifi kết nối nhưng không hoạt động.Cụ thể là mình đã kết nối (connected), tuy nhiên vẫn bị No internet.Biểu tượng wifi phía dưới thì không bắt đc cột sóng nào (trong khi phía trên là full)Không phải vấn đề với router vì dt vẫn kết nối bình thường, mình cũng đã test trên nhiều wifi và đều bị.Xin cho mình hỏi là máy mình bị lỗi gì và cách khắc phục đc không ạ? (những cách đơn giản trên mạng mình đã thử qua nhưng không khả quan)Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.134766,
+         "id": "1139891",
+         "field_search": "question",
+         "question": "chào thế giới di động, Em dùng máy Samsung galaxy j3 2017. Vấn đề là khi em chơi một số game thì 5 hoặc 12 phút sau thì máy tự tắt nguồn và khởi động lại với mấy ứng dụng khác thì không sao nhưng riêng game lại bị, em đã dùng đủ mọi cách và reset factory cho máy, nhưng nó vẫn thế mong thế giới di động giúp em ! ,;-;",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.58089,
+         "id": "1139173",
+         "field_search": "question",
+         "question": "Em đang xài xiaomi A2 lite. Thường xuyên bị lỗi khi có cuộc gọi đến hoặc gọi đi thì nói bên kia không nghe và bên kia nói em cũng không nghe nhưng đồng hồ vẫn tính và trừ tiền vậy lỗi do máy hay mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.506,
+         "id": "1011352",
+         "field_search": "question",
+         "question": "Sam sung a3 2016 cuộc gọi đến và đi mình nói bên đầu dây kia không nghe..bên kia nói mình nge rất rõ..xin giãi đáp dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.43817,
+         "id": "1012417",
+         "field_search": "question",
+         "question": "Cho mình hỏi: máy mình Gr5 2017, mình nắp 2 sim viettel  sử dụng bình thường, bỗng sáng nay sim 1 gọi hay nhận cuộc gọi chỉ cần 1 bên nhấc máy thì tự cúp máy kiểu máy bận, mà nhắn tin vẫn bình thường, sim còn lại thì gọi bình thường, như vậy là tại sim hay máy, và khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.9736,
+         "id": "1164512",
+         "field_search": "question",
+         "question": "Cho em hỏi Mỗi lần em đi ra ngoài đường nếu có cuộc gọi đến đầu dây bên kia nói em đều nghe nhưng mình trả lời họ k nghe. Tình trạng này xuất hiện nhất là lúc em đi xe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.184,
+         "id": "1135675",
+         "field_search": "question",
+         "question": "Tại sao máy em vừa mua ở tgdd khi về nhà gọi nói thì đầu dây bên kia nói mình lại nghe thấy mà mình nói đầu dây bên kia k nghe thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.13222,
+         "id": "998216",
+         "field_search": "question",
+         "question": "Máy của em là samsung galaxy tap 3. Đang sử dụng thì bị tắt nguồn nhưng không phải bị hết pin, em đã cố khởi động lại mà không được. Vậy máy em bị gì và bên thế giới di động có sửa được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.00686,
+         "id": "1157259",
+         "field_search": "question",
+         "question": "Mình hiện vừa mua một iphone x của thegioididong và máy của mình đang mắc lỗi không hiển thị được hiệu ứng trong imessage. Vẫn nhắn tin imessage được nhưng không thể sử dụng hiệu ứng được. Mình có tham khảo trên mạng các cách để chỉnh sửa lỗi thì trong đó có một cách cơ bản là tắt imessage đi rồi bật lại. Nhưng sau khi tắt imessage thì máy lại báo lỗi chờ kích hoạt và mình không mở lại imessage được. Mình có thử tắt máy và thậm chí cài đặt lại máy nhưng khi thử lại thù vẫn mắc phải tình trạng tương tự như trên. Hiện máy của mình vẫn quay về trạng thái ban đầu là nhắn tin văn bản hay sử dụng imoji và digital touch trên imessage vẫn ok nhưng riêng hiệu ứng (bằng cách nhấn giữ phím mũi tên) thì vẫn không được. Bộ phận hỗ trợ có thể giúp mình trường hợp này không. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.993225,
+         "id": "1152118",
+         "field_search": "question",
+         "question": "xin chào admin, mình mới sử dụng máy dell mua của cửa hàng bên mình. mình đang có vấn đề muốn KT hãng giúp mình. mình dùng lap bắt wifi của công ty mình thì hiện lên như thế này. tên wifi là cái cuối cùng đấy. có vòng tròn và dấu x bên trong. mình không kết nối được .Wifi này thì mình dùng cho điện thoại ok. Vậy xin cho mình hỏi mình phải làm thế nào để khắc phục lỗi trên và kết nối mạng wifi như trên được. Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.9468,
+         "id": "1142572",
+         "field_search": "question",
+         "question": "vấn đề này thì hết rồi, nhưng bây giờ nó lại bị vấn đề khác.              gọi video trên messenger trên facebôk của laptop thì e nghe được bên đầu dây kia nói còn e nói thì đầu dây bên kia không nghe e nói gì hết mn huớng dẩn kỉ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.69054,
+         "id": "1018123",
+         "field_search": "question",
+         "question": "Chào add. Mình mới mua cái máy ip 7 plus của shop. Trong quá trình dùng máy thì máy có hiện tượng loa rè và ko thể nghe khi có người gọi đến. Mang máy ra thế giới di động thj bộ phận ký thuật tắt nguồn máy và bật lại thì hiện tượng đó ko còn. Về nhà dùng thj thỉnh thoảng lại bị và mình cũng lại tắt nguồn và bật lại thì hết. Mình được phép đổi máy mới nhưng cứ mang ra tgdd thì lại ko có hiện tượng đó nữa. Bộ phận kỹ thuật ko chịu đổi máy mới cho mình. Vấn đề này mình rất bức xúc. Nếu máy ko bị vậy thì mình mang ra đổi làm gì cho mất công. Trước khi mua máy bộ phận bán hàng có nói là đổi ngay trong 1 tháng nếu máy lỗi. Máy như vậy mà ko được đổi mình rất bực. Tại sao khi bán hàng thì ngon ngọt như vậy mà khi gặp sự cố lại gây khó khăn với mình như vậy. Có phải các bạn cứ bán được hàng xong là xong phải ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.67472,
+         "id": "1010416",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện tại mình đang dùng oppo mirror 3 nhưng hiện tại thì đt của mình cắm sạc thì sử dụng được nhưng rút sạc ra thì bị tắt nguồn . Vậy đây là tình trạng gì và mình phải khắc phục thế nào ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.58144,
+         "id": "987470",
+         "field_search": "question",
+         "question": "ad cho mình hỏi: gần đây khi khởi động máy tính xuất hiện tiếng kêu  bíp liên tụcloa máy tính không nghe được( tai nghe thi được), biểu tượng vẫn hiển thị.Xin hỏi là máy bị vấn đề gì và cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.54283,
+         "id": "827639",
+         "field_search": "question",
+         "question": "Mình đang dùng Asus zenfone max nhưng máy bị đơ cảm ứng không vào được và cũng không tắt máy khởi động lại được?vậy cho mình hỏi cách nào để khởi động lại máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.4774,
+         "id": "1157455",
+         "field_search": "question",
+         "question": "IPhone 6s Đang sử dụng thì tự nhiên tắt nguồn và khởi động lại thì không lên được. Xin hỏi bị như vậy là nguyên nhân gì và khắc phục lỗi như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.25743,
+         "id": "670938",
+         "field_search": "question",
+         "question": "Cho mình hỏi vì sao mỗi lần gọi điện người bên đầu dây kia vẫn nghe được mình nói gì nhưng mình lại không nghe được người ta nói gì hết? Mỗi lần như vậy mình lại phải bật loa ngoài hoặc cắm tai nghe mới nói chuyện được. Bây giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.090355,
+         "id": "869740",
+         "field_search": "question",
+         "question": "mình mới đi sửa ở thế giới di độnng về được cỡ 1 tháng nay lại bị lỗi này nữa. laptop asus win 8mình bật máy khởi động thì chỉ lên được hình cửa sổ windows 8 ban đầu rồi không thấy lên gi nữa, màn hình đen. Máy vẫn nhận chuột, vẫn có hình con trỏ chuột trên máy. Minh thử khởi động lại nhưng không thể vào được safemode, cũng không dùng tổ hợp phím Ctrl + Atl + Del được. Màn hình vẫn đen xì. Cho mình hỏi là máy mình bị làm sao và khắc phục thế nào? Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.654175,
+         "id": "1009538",
+         "field_search": "question",
+         "question": "MOD ơi, cho mình hỏi, điện thoại Oppo neo 7 của mình, sim 1 (vietel) sao cứ gọi cho người khác mới reo chuông mấy giây thì tự động tắt cuộc gọi, nhận cuộc gọi thì bình thường, gọi cho số nào cũng bị như vậy. Tuy nhiên khi mình khởi động lại cài đặt gốc thì lại gọi được, sau đó khoảng 1 giờ sau thì quay về tình trạng cũ. Không biết có bị xung đột ứng dụng gì đó không? Tuy nhiên sim 2 (Mobilefone) vẫn ổn mà? Nhờ MOD tư vấn giúp. Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.60395,
+         "id": "998284",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 5s, điện thoại của mình hay bị nóng máy và tụt pin nhanh mặc dù k dùng, mình đã thay pin điện thoại nhưng tình trạng chỉ đỡ hơn chứ k được khắc phục, vậy cho mình hỏi là điện thoại mình có vấn đề gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.1023,
+         "id": "922353",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi,Vấn đề 1: mình mới mua iphone 7 ở thế giới di động đường Nguyễn Thái Sơn, sao mình vào mục điều khiển công tắc nó bị ẩn như hình?Vấn đề 2: Mình vào mục cài đặt-->cài đặt chung--> bàn phím-->thay đổi văn bản: mình thấy có thông tin rồi trong khi mình mua máy mới nhưng lại có người đã cài đặt, vậy máy đã có ai sử dụng trước rồi hay sao. Mình rất tin tưởng vào thế giới di động vì vậy mình cần được giải thích rõ ràng.Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.92838,
+         "id": "1023371",
+         "field_search": "question",
+         "question": "Chào tgdd cho mình hỏi chút. Ngày  13.9 mình có mua điện thoại oppo A37 Golf ở thế giới di động và được km 1 nón bảo hiểm,  nhưng vì tgdd hết nón nên xin nợ hẹn  1 tuần , nhưng đến ngày hôm nay tgdd cũng không gọi điện hay nhắn tin cho mình.  Vậy tgdd cho mình hỏi quà km của mình là thật hay là chỉ viết vậy cho vui thôi.  Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.82125,
+         "id": "1018472",
+         "field_search": "question",
+         "question": "Em vừa mua điện thoại oppo f3 nhưng khi mua ve gọi video trên zalo và mesenger đều nghe rất nhỏ dù đã tăg hết âm lượng bên kia nghe cũng rất nhỏ đường truyền mạng rất ổn định đã khởi động lại nguồn vẫn không hết là do sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.7199,
+         "id": "1143353",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi xíu. Trước mình có mua con iphone 6 hồi tháng 7. 2018 sau 1 thời gian sử dụng thì máy bị đơ k vuốt đc màn hình. Mình có mang ra thế giới di động và hỏi nhưng k khắc phục đc lỗi đó và đc nhân viên kỹ thuật giúp đỡ gửi về hãng để bảo hành. Và gần 15 ngày sau mình đc nhân viên bên thế giới di động gọi và có thông báo cho mình là máy mình đc đổi máy mới i chang con máy cũ. Vậy máy mới đổi của mình có phải máy mới trong hộp hay máy đã qua sử dụng rồi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.55856,
+         "id": "794536",
+         "field_search": "question",
+         "question": "mình mua điện thoại iphone 5s hôm 1/2 tại cửa hàng thế giới di động ở thôn Tràng An, thị trấn Chúc Sơnhienej tại máy của mình khi có người gọi tới,1 lúc sau mình chưa bắt máy thì máy tối lại(vẫn còn nhạc chuông), mình nhấn mở máy lên, vẫn còn nhạc chuông mà ko mở ra được cuộc gọi để nhận trả lời. máy mình như vậy là bị làm sao và mình phải mang đến đâu bảo hành được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.393486,
+         "id": "774448",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi FPT có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.13906,
+         "id": "1157360",
+         "field_search": "question",
+         "question": "MÌNH DÙNG NOKIA 5.1 PLUS. KHI CÓ CUỘC GỌI ĐẾN KHÔNG HIỆN MÀN HÌNH CUỘC GỌI MÀ CHỈ CÓ CHUÔNG VÀ RUNG. ĐÃ KHỞI ĐỘNG LẠI MÁY VẪN KHÔNG ĐƯỢC. BẠN TƯ VẤN GIÚP MÌNH",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.09494,
+         "id": "840577",
+         "field_search": "question",
+         "question": "Ai cho minh hỏi minh đang dùng iPhone 4s nhưng khi có người gọi đến thì điện thoại không báo có cuộc gọi trong khi đầu dây ben kia vẫn nghe chuông đổ.giò mình phai làm thế nào?ai chỉ dùm mình với.cảm ơn mọi người trước ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.05578,
+         "id": "1149746",
+         "field_search": "question",
+         "question": "Đt mình đang sử dụng tự nhiên đứng máy tắt nguồn. Lúc máy mở lại thì không nghe được âm (chuông báo, cuộc gọi, nhạc v.v..)  gì nữa. Cắm tai nghe vào thì nghe được. Cho mình hỏi máy bị gì ạ? Máy mình là ss A5 2017 ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.04538,
+         "id": "843543",
+         "field_search": "question",
+         "question": "Mình có 1 con iphone 5S mới hàng mỹ lock mạng (máy chưa unlock mạng) - ios 9.3. Mình muốn ghi âm và nhập liệu bằng giọng nói nhưng máy k thể nghe đc mình nói gì, bật siri nói \"hey siri\" nó cũng hok nghe @@, dù dùng viber nghe gọi bình thường, có bạn nào biết đây là lỗi gì và cách khắc phục như thế nào không ạ? Sử dụng android riết quen rồi giờ qua ios thấy nó vướng víu sao sao ấy ==!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.93446,
+         "id": "883484",
+         "field_search": "question",
+         "question": "Oppo f1s của mình gọi zalo và messenger thì bên kia nói mình nghe được còn bên mình nói bên kia không nghe được, admin giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.898556,
+         "id": "1023996",
+         "field_search": "question",
+         "question": "E đang dùng ip5s nhưng 2 ngày nay khi gọi điện hay có cuộc gọi tới bắt máy vẫn nhảy giây bình thường nhưng mình ko nge đc ..và nói bên kia cũng không nge đc ...nhưng thử gọi zalo , faccebook ..vẫn nge vs nói đc ạ ...cho e hỏi vậy là bị gì ạ ..e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.868046,
+         "id": "1141166",
+         "field_search": "question",
+         "question": "Mình có mua Iphone 6s plus tại tgdđ. Thì mình dùng 1 tg tai nghe của mình nó có vấn đề với 1 bên, chỉ còn nghe đc 1 bên nhưng không thấy bị đứt dây hay là gì, hiện vẫn còn bảo hành thì liệu mình có thể đem ra tgdđ và bảo hành tai nghe đc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.850792,
+         "id": "1142566",
+         "field_search": "question",
+         "question": "Chào TGDĐ mình đang cần tìm mua đt có chức năng ghi âm tất cả cuộc gọi đến và đi đt thường hay smartphone gì cũng được nhu cầu chỉ để nghe gọi tư vấn mình nhe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.7568,
+         "id": "774452",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.6068,
+         "id": "1137307",
+         "field_search": "question",
+         "question": "Ad cho mik hỏi :hien tai máy cua minh oppo f7  lỗi loa trong zalo và messenger nói người nghe rất nhỏ còn nghe nhac hay gọi điện thì vẫn bt. Mình đã tắt nguồn khởi động lại và xóa ứng dụng cập nhật lại nhưng tình trạng trên vẫn không được. Ad cho mik xin ý kiến. Giúp mình kiểm tra thời gian bảo hành còn không với ạ. IME theo hình.  Xin cam ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.597336,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.455177,
+         "id": "1163598",
+         "field_search": "question",
+         "question": "Chào bạn cho mình hỏi chút,mình đang sử dụng laptop loại HP có win10,nhưng mỗi lần tắt máy là nó cứ tự động update,mình muốn tắt update vĩnh viễn thì làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.431732,
+         "id": "811314",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 tại thế giới đi động mới được khoảng 2 tháng mà tai nghe mình có vấn đề mình đến bảo hành ở đâu hả AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.37888,
+         "id": "1134488",
+         "field_search": "question",
+         "question": "Iphone 6 plus của mình khi vào kiểm tra tình trạng pin (ios12.1) thì máy báo là tình trạng còn 100% nhưng sao sử dụng thấy tụt nhanh quá, nếu lướt web thì cứ khoảng 1phut là tụt 1% pin. Cho mình hỏi có phải pin có vấn đề gì k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.28545,
+         "id": "840672",
+         "field_search": "question",
+         "question": "cho e hỏi với ạe dùng laptop gọi video call or cuộc gọi thoại trên facebook thì mình nghe được người bên kia nói nhưng người bên kia không nghe được mình nói là sao ạ?e cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.033234,
+         "id": "1135989",
+         "field_search": "question",
+         "question": "Máy samsung j7 duo của mình bị báo máy bị nóng và không sạc được mình đã thử tắt nguồn nhưng không được và không sử dụng được ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.897976,
+         "id": "864722",
+         "field_search": "question",
+         "question": "Message vs viber gọi video bên kia nói mình nghe nhưng mình nói bên kia không nghe.nhưng gọi không thì nghe.chỉ gọi video là không nghe thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.82024,
+         "id": "1141134",
+         "field_search": "question",
+         "question": "mình mới mua chiếc mobistar b310 để nghe gọi nhưng giờ cứ tối đến là máy mình ko thể nhận được cuộc gọi đến cũng như là tin nhắn đến",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.77647,
+         "id": "1163930",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6 mà gọi messenger đầu kia không nghe thấy mình nói gì. Còn gọi bình thường vẫn nghe rõ. Thế điện thoại mình bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.771008,
+         "id": "1020008",
+         "field_search": "question",
+         "question": "Ad cho minh hỏi, Mình cài wechat nhưng khi gọi chỉ người gọi nghe đc tiếng, còn người nhận cuộc gọi từ máy mình không nghe được triếng cả khi gọi hình và goi tiếng. trong khi đó người nhận cuộc gọi vẫn nhận dược hình và tin nhắn.Làm ơn trợ giúp mình với. Cảm ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.73336,
+         "id": "1137189",
+         "field_search": "question",
+         "question": "Mình đang dùng HTC ONE ME.gần đây mình gặp tình trạng pin bị sụt đột ngột khi ở mức khoảng 40%, và sạc cũng rất nhanh đầy ở khoảng này ( khoảng 5 phút từ 5-->40%). vậy điện thoại của mình đang gặp tình trạng gì và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.057796,
+         "id": "1002545",
+         "field_search": "question",
+         "question": "Cho e hỏi e dang xài ss j7 pro. Sao e gọi đầu dây bên kia ko nghe e nói gì, nhưng bên kia nói thì e nghe rất rõ. Em đã gọi rất nhiều cuộc gọi khác nhau đều bị giống vậy. Để 2 điện thoại gần nhau gọi cũng ko nghe được lun. Phải làm sao để nghe được ạ. E xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.041233,
+         "id": "936376",
+         "field_search": "question",
+         "question": "Hiện mình đang dùng 5s all âm thanh đều bình thường nhưng khi gọi đi thì ko nhận được âm thanh bên kia, nc thì bên kia nghe bt, còn bên mình ko nghe, lúc bị như vậy lúc thì bt , chi hỏi admin máy bị sao vậy ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.863205,
+         "id": "1013080",
+         "field_search": "question",
+         "question": "Mình sử dụng laptop của hãng acer được mua xách tay về Việt Nam chưa xài đến 1 năm mà 4 ngày trước máy bị tình trạng đứng máy liên tục, giờ mỗi khi khởi động laptop đều trong tình trạng cập nhật hệ điều hành và bị đứng trong khi laptop đang cập nhật khiến việc cập nhật bị dừng lại và chờ lâu vân không hết. Không biết mình có thể mang đến thế giới di động xem giúp tình trạng máy để sửa chữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.71985,
+         "id": "843224",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Mình gọi video call bang mesenger.nhưng cứ bật video lên là đầu bên kia không nghe được gì.tắt video đi lại nghe được.mình đã xoá và tải lại mà vẫn không được.ad jup mình với.m dùng iphone5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.70277,
+         "id": "1152783",
+         "field_search": "question",
+         "question": "Mình xin hỏi  điện thoại của mình gọi đi không được và người khác gọi lại cũng không đc lúc gọi cho người khác cứ 3 giây là kết thúc cuộc gọi và hiện thị chử TẮT ĐÀI không biết vì sao mình đang xài wiko jerry2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.690685,
+         "id": "1146650",
+         "field_search": "question",
+         "question": "mình mới mua 1 iPhone 6s plus tại TGDĐ chưa được 1 tháng. Hôm kia đang lướt Facebook ngon lành thì Wifi tự nhiên ngắt kết nối, mình cố kết nối lại nhưng không được và bị báo sai mật khẩu (nhưng mình khẳng định 100% là không sai). Sau đó mình có thử kết nối Wifi của mấy nhà xung quanh nhưng đều không được (vẫn chắc chắn mật khẩu đúng). đến khi ra của hàng TGDĐ thì nhân viên hỗ trợ lại kết nối được Wifi ở shop và nói là Wifi nhà mình bị lỗi. Lỗi thế nào được khi mình đã thử kết nối Wifi của nhiều nhà, vậy là máy mình lỗi chứ phải không? Giờ làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.683506,
+         "id": "874479",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi mình dùng iphone5 mấy hôm nay máy mình báo cập nhật ứng dụng mình vào app store cập nhật nhưng máy chỉ báo là không thể tải vào lúc này mình thử tải trò chơi khác chỉ thấy load chứ không chạy phần trăm và cũng báo lỗi không thể tải wifi mình hoạt động bình thường không có vấn đề gì cả mình thử khởi động lại máy rồi cũng chuyển qua tài khoản app store khác nhưng cũng không được ad tư vấn giúp mình với mình cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.562054,
+         "id": "825149",
+         "field_search": "question",
+         "question": "Cho mình hỏi không hiểu vì sao mà cái mic trên laptop của mình hôm trước thì vẫn nói chuyện được trên facebook 1 cách bình thường nhưng hôm nay sao bỗng dưng mình vào facebook để ns chuyện vs bạn bè thấy tiếng ns rất nhỏ, hầu như là bên kia không nghe rõ là mình đang ns gì luôn. Phải chăng cái mic của laptop của mình gặp vấn đề gì chăng?.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.548977,
+         "id": "994445",
+         "field_search": "question",
+         "question": " Cho mình hỏi: Mình và bạn gái mình đều dùng iphone và dùng chung tài khoản icloud. Mỗi khi có ai đó gọi điện cho mình thì iphone của bạn gái mình cũng nhận được số đó và ngược lại. Làm thế nào để tắt được tính năng này vậy? Cảm ơn ad và mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.5076,
+         "id": "1000641",
+         "field_search": "question",
+         "question": "Cho em hỏi BQT. Em có cái điện thoại sony M4. Cứ ai gọi đến hay mình gọi đi thì nói bên đầu dây bên kia đều không nghe được. Nhưng mà em mỡ loa ngoài lên thì bên đầu dây bên kia lại nghe được vậy cho em hỏi có phải do cài đặt gì không hay do đt bị hư.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.440506,
+         "id": "1016849",
+         "field_search": "question",
+         "question": "Chào tgdd , cho mình hỏi điện thoại của mình gặp vấn đề là khi kết nối wifi thì kết nối vẫn bình thường nhưng khi vào trang web hoặc xem youtube thì chỉ được 1,2 phút rồi ko chạy được nữa. Mình tắt wifi rồi mở lại thì cũng chạy được 1,2 phút rồi cũng vậy luôn. Vậy bây giờ mình phải làm sao đây ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.389534,
+         "id": "835676",
+         "field_search": "question",
+         "question": "Xin chào. Mình có một số vấn đề với cái máy tính của mình, mong các bạn giúp đỡ. Vấn đề là cái laptop asus của mình dùng chưa được 2 năm mà giờ sạc pin cả ngày vẫn báo đèn đỏ, rút sạc ra thì dùng được 1 lát là hết pin sập nguồn. Vấn đề nữa là khi đang dùng mà máy bị đơ, kêu ré lên rồi đứng luôn không làm gì được phải ấn nút nguồn tắt đi bật lại mới được. Mình không biết sửa cách nào, mong mọi người giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.358093,
+         "id": "986215",
+         "field_search": "question",
+         "question": "Mình đang dùng con 6 plus gọi Zalo thì nghe gọi rõ lớn còn nghe gọi bằng sim thì đầu bên kia lúc ko nghe mình nói gì lúc nhỏ xíu @@. Đã thay đổi nhiều sim cũng vẫn vậy. Ko biết nó bị lõi phần cứng hay ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.311928,
+         "id": "1019180",
+         "field_search": "question",
+         "question": "Mình xài con S7 Edge cách đây được 8 tháng thì máy hay bị lỗi treo máy. Cứ để quá 30p không sử dụng là y như rằng nó bị treo máy và phải dùng tổ hợp phím để tắt nguồn và khởi động lại. Có khi 1 ngày khởi động lại đến 5 6 lần gây bất tiện cho việc liên lạc (máy bị treo nên người khác gọi điện không được) Không biết có cách nào để khắc phục hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.286385,
+         "id": "920213",
+         "field_search": "question",
+         "question": "mình sử dụng laptop dell hệ diều hành win7 ultimate.Mình sử dụng office bản quyền 2016, trong đó có Onenote. Mọi thứ đều hoạt động tốt cho tới hôm nay..khởi động Onenote thì bị báo lỗi.mình đã làm theo các hướng đẫn trên bảng thông báo lỗi nhưng vẫn không được, ngoài ra mình còn thử khởi động lại máy.Mong mọi người giúp mình làm cho Onenote hoạt động lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.22,
+         "id": "782298",
+         "field_search": "question",
+         "question": "Cho mình hỏi,máy mình bình thường sạc 2h là đầy 100% pin.Nhưng mới đây sạc hơn 2h n vẫn báo là 96% xong mình tắt nguồn,rồi bật lại thì lại là 100.Như vậy có phải pin của mình có vấn đề không (mình dùng iphone 6 được 1 năm rưỡi)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.16249,
+         "id": "1001398",
+         "field_search": "question",
+         "question": "Chào ad, tháng 4/2017 mình có mua tai nghe maxell bên TGDD ở Trường Chinh. Hiện nay tai nghe mình bị điếc 1 bên tai, nhưng mình không giữ vỏ hộp và hóa đơn(phụ kiện kèm theo vẫn đầy đủ), mình có thể đem ra cửa hàng và đổi lại tai nghe mới với chính sách 1 đổi 1 trong vòng 12 tháng như mình dc tư vấn ban đầu khi mua hàng dc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.94013,
+         "id": "1160374",
+         "field_search": "question",
+         "question": "LAPTOP KHÔNG DÙNG NHIỀU VẪN KÊU TO Chào ad mình sử dụng laptop MSI GL62M 7REX. Mình vừa cập nhật Win được 2 ngày thì đến ngày thứ hai máy kêu rất to, để tay vào quạt thì cảm nhận được luồng gió rất mạnh. Máy không nóng gì cả, check trong task manager chỉ mở mỗi Word và Chrome, CPU chỉ 6% mà Memory chỉ 30% mà máy đã kêu rất to, đứng cách 5m vẫn nghe. Ad tư vấn giúp mình đây là vấn đề gì vậy ạ? Máy mình mua được 10 tháng. Cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.9122,
+         "id": "761234",
+         "field_search": "question",
+         "question": "Em mới mua iphone 6s được 2 ngày, ai gọi tới vẫn đổ chuông nhưng bắt máy lên không nghe được gì cả , bên kia cũng không nghe được? Mình gọi lại cho người ta cũng không nghe tín hiệu gì ! Vậy em có được đổi điện thoại không !? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.76882,
+         "id": "790124",
+         "field_search": "question",
+         "question": "Chào a/c. Em muốn hỏi một chút ak. Nếu như mất máy mà kẻ trộm lấy rồi tắt nguồn đi thì mình có khoá được máy bằng tài khoản icloud ko ak. Và tìm kiếm vị trí của máy đc ko ak.? Nếu có trả lời tư vấn thì a/c làm ơn trả lời vào số thuê bao của em la. 0976710xxx em mua máy và đang sử dụng máy của bên mình. Vấn đề em đang hỏi lài khoá máy của máy iphone 6s ak. Thank a/c",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.654846,
+         "id": "996263",
+         "field_search": "question",
+         "question": "TGDD cho mình hỏi chút ạ.Cách đây 1 tuần mình có mua bên TGDD chiếc đt ss j7 prime. Mọi chức năng mình dùng đều không vấn đề gì, tuy nhiên khi mình tải game chém hoa quả về thì máy bị lag, giật khiến mình không thể chơi được game.Vậy như thế có phải là do máy lỗi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.56403,
+         "id": "1010674",
+         "field_search": "question",
+         "question": "Hiện tại mình đang sử dụng Samsung s7e, khi mình đang chạy xe máy nếu có cuộc gọi đến thì khi mình lấy đt ra thì đt sẽ tự động tắt hoặc là báo máy bận với người đã gọi tới. Cho mình hỏi là lý do tại sao vậy? Hay là máy có chế độ gì đó k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.529243,
+         "id": "897416",
+         "field_search": "question",
+         "question": "Máy iPad Air 1 của mình gọi, nhắn tin Viber cho bên US không được, đầu dây bên kia chuông không hề reo và không nhận được tin nhắn. Cho mình hỏi bị sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.472336,
+         "id": "766734",
+         "field_search": "question",
+         "question": "Chào thế giới di động, mình được một người anh trong nhà gửi lại cho mình 1 cây iphone 6 plus mua từ thế giới di động , mình nhờ thế giứoi di động kiểm tra giúp mình nhé. Trung Hiếu ( số imeis máy : 3592 44060 779775 ) May này đã đổi trả từ TGDĐ, 1 đổi 1, nhờ bên mình kiểm tra đã xử dụng được bao lâu vậy nhé ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.46053,
+         "id": "883162",
+         "field_search": "question",
+         "question": "Minh đang dùng iphone 5 ...nhưng khi mình gọi Facetime hay messenger cho bạn mình, lúc mình nói tì bạn mình nghe nhỏ nhưng mình nói thì bên bạn mình lại nghe to và tốt...thế cho mình hỏi có phải máy mình bị hỏng loa ko ạ...nhưng nghe nhạc tì ok...nếu hỏng tì bên st có sửa ko à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.45353,
+         "id": "1149120",
+         "field_search": "question",
+         "question": "Oppo f9 sao máy mình mới mua chưa được 1 tháng mà bây giờ ko nhận được cuộc gọi,gọi đi cũng không được vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.386,
+         "id": "945837",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình gọi face time thì 2 bên đều nghe rất rõ nhưng gọi face book thì mình nói bên kia ko nghe thấy gì nhưng bên mình thì nghe bình thường , mình dùng máy iphone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.360832,
+         "id": "862830",
+         "field_search": "question",
+         "question": "Chào bạn hiện tại mình đang dung iphone 6 lock ios 9.3.3 và mình đã jailbreak được. Trong quá trình fix lỗi mình đã khởi động lại máy và bị treo màn hình táo. Mình đã restore nhưng sau đó itunes vẫn yêu cầu nhập mật khẩu trên ip nhưng ip vẫn bị treo. Vậy mình phải làm như thế nào để có thể khởi động lại máy như bình thường. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.233433,
+         "id": "770668",
+         "field_search": "question",
+         "question": "Mình bắt đầu tìm hiểu đến dòng iPad của Apple. Mình nghe mấy người nói là máy iPad và MAC thì mua ở đâu cũng được bảo hành chính hãng tại thegioididong?Cho mình hỏi là có phải không ạ? Và kiểu máy của Ipad không phải là VN/A nữa à ad. Hay là TH gì gì đấy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.06569,
+         "id": "754541",
+         "field_search": "question",
+         "question": "Cho mình hỏi chiếc iphone 4 của mình không nghe nhạc bằng loa ngoài được nhưng cắm tai phone vào thì nghe bình thường. chuông báo cuộc gọi tới củng bình thường. xin thế giới di động hướng dẫn mình cách khắc phục lỗ trên.mình củng đã restore lại máy rồi những vẫn không được.xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.94641,
+         "id": "796147",
+         "field_search": "question",
+         "question": "Mình có 1 ĐT iPhone 4s mua đã lâu, đang ở IOS 8.2, tình trạng máy: nút nguồn không hoạt động (bấm cứng đơ), pin hơi kém (dùng không nhiều cũng chưa được 1 ngày), ngoài ra các chức năng khác hoạt động bình thường.Mình xin hỏi:1. Có nên nâng cấp IOS 9.2.1 không (nghe nói bản 9.2.1 này chạy nhanh hơn IOS 8), vấn đề pin khi nâng nên IOS 9.2.1 thế nào, có hao hơn ở IOS 8.2 không.2. Nút nguồn, dây nguồn và pin ở máy Ip4 có dùng được cho Ip4s không (vì mình có người cho linh kiện Ip4 bị hỏng). Trường hợp tương thích thì TGDĐ có làm dịch vụ thay giúp được không.Xin cám ơn./.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.92712,
+         "id": "1021971",
+         "field_search": "question",
+         "question": "mình đang xài LG G3, gọi điện ở đầu dây bên kia không nghe thấy gì, đem máy ra bảo hành thì bên kỹ thuật nói không bị gì, nói chắc do đường truyền. tình trạng đó không xảy ra xuyên suốt cuộc gọi. khi bật loa ngoài thì có vẻ không bị nữa. bên mình hỗ trợ giúp. cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

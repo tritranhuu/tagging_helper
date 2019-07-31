@@ -1,0 +1,801 @@
+{
+   "id_query": "1001402",
+   "total": 32906,
+   "total_current": 100,
+   "max_score": 122.02296,
+   "origin_question": "Hiện tại mình đang sử dụng sim 3g của viettel. Nếu mình muốn đổi sang sim 4g. Lúc đến TGDD mình có cần mang theo những gì ko ạ? Và lúc đổi sim dữ liệu sim của mình có bị mất không ? Cảm ơn ạ.",
+   "hits": [
+      {
+         "score": 62.80997,
+         "id": "998182",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình đang xài sim viettel và cài dịch vụ mimax 3G. Giờ mình định đổi sang sim 4G viettel thì có bị mất dịch vụ mimax và phải bỏ tiền đăng ký lại cho sim 4G k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.37582,
+         "id": "1135835",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng Huawei Y9 khi xài sim viettel thì được nhưng khi lắp sim mobo để lên mạng không biết chuyển đổi truy cập dữ liệu sang sim mobi nên không mở được. Làm sao để mở 2 sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.830368,
+         "id": "1154164",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi với: mình dùng  asus zenphone maxpro m1. Máy mình dùng 2 sim online đều của viettel. 1 sim mình đăng ký data v90. Và 1 sim mình không đăng ký data. Vậy mà mỗi lần mình bật dữ liệu di động lên. Là máy mặc định sử dụng data của sim không đăng ký data. Mặc dù mình đã đổi vị trí sim 1-2 cho nhau mà vẫn như vậy. Chỉ khi mình tắt online sim không dk data đi. Chỉ dùng 1 sim v90. Thì lúc đấy bật dữ liệu di động lên thì máy mới dùng data của sim v90. Có cách nào ad chỉ giúp mình với. Mình muốn 2 sim đều online. Và khi bật dữ liệu thì dùng sim mà mình dk data v90. Thank ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.12531,
+         "id": "1134264",
+         "field_search": "question",
+         "question": "Chào bạn,Mình xài note 9 nhưng mình không biết làm cách nào để chuyển mạng 3g từ sim 1 qua sim 2. Mình ko muốn sử dụng 3g trên sim 1 nhưng nếu mở dữ liệu di động lên để xài sim 2 thì 3g sim 1 vẫn bị tính tiền mặc dù đã hủy gói cước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.051216,
+         "id": "1022340",
+         "field_search": "question",
+         "question": " bên mình có bán sim trắng của Mobifone ko vậy nhỉ vì mình muốn mua về để tự đổi sang 4G  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.880943,
+         "id": "996775",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone SE 16Gb, sim ViettelMình muốn đổi qua sim 4G thì iPhone SE có dùng được sim 4G không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.66299,
+         "id": "986104",
+         "field_search": "question",
+         "question": "cho mình hỏi  thế giới di động  có dịch vụ chuyển sim 3g lên sim  4g viettel không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.146835,
+         "id": "1012134",
+         "field_search": "question",
+         "question": "điện thoại em nhận được tin nhắn đổi sim 4g ở thế giới di động ? không biết chi nhánh lạc long quân có thể đổi sim 4g được không ạ ? khi đi đổi em cần mang theo gì ạ ? có tính phí không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.556957,
+         "id": "994687",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi bên cửa hàng của mình có hỗ trợ đổi sim 4G viettel không ạ? Và thủ tục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.93605,
+         "id": "997579",
+         "field_search": "question",
+         "question": "cho mình hỏi: máy mình đang dùng là iphone 5 (A1429) ios 9.3.3. đã đổi sim 4G nhưng sao không sử dụng được 4G mà chỉ nhận sóng 3G.( đã bât LTE). xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.783295,
+         "id": "1165053",
+         "field_search": "question",
+         "question": "Hiện tại bên mình còn sim Viettel v90 k ạ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.284405,
+         "id": "992863",
+         "field_search": "question",
+         "question": "cho mình hỏi sim 4g có loại dùng data cả năm giống sim bùng mà của nhà mạng viettel ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.08738,
+         "id": "1011316",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình dùng máy oppo 2sim. Trước đây khi đang dùng sim 3g thì sóng cả 2sim bt. Nhưng từ khi đổi sim 1sag sim 4g thi sóng của sim 1chỉ đk 1đến 2cọc. Phải làm thế nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.037983,
+         "id": "1016672",
+         "field_search": "question",
+         "question": "Nếu điện thoại không hỗ trợ 4g thì mình nên mua loại sim 3g nào ạ? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.406784,
+         "id": "1009866",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên tgdd còn bán sim 4g viettel không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.734562,
+         "id": "1017234",
+         "field_search": "question",
+         "question": "bên TGDD có cắt sim ko nhỉ?? mình ko muốn đổi phôi 4G nên tính ra nhờ cắt dùm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.70579,
+         "id": "909485",
+         "field_search": "question",
+         "question": "Mình bị mất sim , nhưng vẫn nhớ pass , và mình vẫn đang sài ZALO bình thường khi ko cần sim , mình đăng nhập bằng cách điền số đt và pass thôi , mà sim đó chưa đăng ký . Bây giờ mình đăng ký lại sim thì có xảy ra vấn đề gì không ??? và nếu mình muốn dùng sim khác để đăng nhập nick zalo cũ thì có làm đc ko ? ( kiểu như muốn đổi số đt nhập này qa số đt đăng nhập khác mà nick vẫn là nick cũ ấy ) .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.511963,
+         "id": "992827",
+         "field_search": "question",
+         "question": "Có phải chỉ có Sim 3G mới đổi được Sim 4G phải không akSim bt không đổi được akThanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.48346,
+         "id": "1004766",
+         "field_search": "question",
+         "question": "Thế giới di động có đổi sim 4g viettel ko.  l..........................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.039146,
+         "id": "1164351",
+         "field_search": "question",
+         "question": "Mình dùng samsung galaxy j8. Điện thoại mình dùng 2 sim. Sim 1 là 4g viettel, sim kia dùng để nghe gọi. Mình để mặc định tin nhắn là sim 2. Nhưng khi nhắn tin, đôi khi mình đăng kí 4g vẫn phải dùng sim 1 để nhắn, và mỗi lần như vậy điện thoại sẽ hiển thị có chắc chắn muốn nhắn bằng sim 1 không. Hôm bữa trong lúc đăng kí 4g, mình dùng sim 1 nhắn, nó cũng hiện ra tương tự nhưng mình lỡ tay bấm không cho phép nhắn bằng sim 1 (chế độ vĩnh viễn). Giờ phải làm sao để khôi phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.185932,
+         "id": "998190",
+         "field_search": "question",
+         "question": "Cho e hỏi e đag xài sim dcom 3G viettel vạy có thể đổi lại sim 4G Được hk ạk có tính phí thêm hk ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.02072,
+         "id": "1018775",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 chiếc sim vina bùm 150k. Cho mình hỏi sim có 4G không? Sao sim của mình máy vẫn k thấy 4G vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.99729,
+         "id": "1003636",
+         "field_search": "question",
+         "question": "Vậy cho em hỏi là lúc mua  là sim 4g mà lúc đặt hàng là sim 3g ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.991394,
+         "id": "1020699",
+         "field_search": "question",
+         "question": "Cho hỏi tgdd còn đổi sim 4g Viettel miễn phí k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.378532,
+         "id": "743269",
+         "field_search": "question",
+         "question": "Có ai không giúp mình với . Mình đang sử dụng máy ip5 bản qt . Máy mình gặp lỗi 3G . Khi mình lắp sim viettel để vào mạng thì không được . Nhưng khi mình thay sim mobie vào lại vào đc mạng như bình thường là sao . A bik giúp mình với . Cảm ơn m.n",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.141994,
+         "id": "1142698",
+         "field_search": "question",
+         "question": "Mình mua A7 2018 ở TGDD . Có sử dụng 2 sim. Khi lắp vào sim 1 bị hụt sóng. Sim 2 thì ok. Mình đã thử đổi sim qua lại mà vẫn bị. Gắn qua dt khác thì ko sao. Add cgir cách khắc phục với. Thank you",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.136883,
+         "id": "1166027",
+         "field_search": "question",
+         "question": "Xin cho hỏi, mình sử dụng 1 sim trả trước + 1 sim 4G đều của Vinaphone, khi ở ngoài đường dùng 4G để gọi Zalo thì bị trừ tiền.Cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.981186,
+         "id": "1010864",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi sim 4G data 7GB nếu sử dụng 1 tháng ko hết thì có mất lượng data còn lại ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.91938,
+         "id": "996249",
+         "field_search": "question",
+         "question": "Muốn sử dụng sim gôgô 4g vietel thì đăng kí bằng sim hiện tại đã đăng kí 4g được không hay phải mua sim gôgô 4g riêng vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.847355,
+         "id": "1014094",
+         "field_search": "question",
+         "question": "Em xài máy Huawei Y6II, máy lắp 2 SIM, làm sao để chuyển đổi SIM bật Dữ liệu di động? Hiện tại em bật Dữ liệu di động chỉ thấy tín hiệu 3G hiện lên ở cột sóng SIM1.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.70812,
+         "id": "1018593",
+         "field_search": "question",
+         "question": "Ở TGDD có hỗ trợ cắt sim hoặc đổi sim nano không vậy? Vì mình cò mua dthoai ở TGDD . Mà h mình đổi sim khác nhưng to quá. Đút vào k vừa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.38023,
+         "id": "1011532",
+         "field_search": "question",
+         "question": "QTV. cho e hỏi sim e là sim học sinh mà giờ e chuyển sang sim 4G .vậy sim e có còn gói sim học sinh không ạ. e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.300392,
+         "id": "773675",
+         "field_search": "question",
+         "question": "Mình mới sử dụng iPhone 5S. Lắp sim sang máy khác thì vẵn có danh bạ của sim. Nhưng lắp sang iPhone thì lại không có. Ad giúp mình khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.187157,
+         "id": "986215",
+         "field_search": "question",
+         "question": "Mình đang dùng con 6 plus gọi Zalo thì nghe gọi rõ lớn còn nghe gọi bằng sim thì đầu bên kia lúc ko nghe mình nói gì lúc nhỏ xíu @@. Đã thay đổi nhiều sim cũng vẫn vậy. Ko biết nó bị lõi phần cứng hay ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.106144,
+         "id": "999317",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi, mình có mua Sim Bùm Vina 150k, Đk phát sinh sms/call trong tháng là phát sinh cước hay sao ạ? mình phát sinh SMS, call (đã được tặng miễn phí trên Sim) có được không ạ? Lúc mua tháng 5 và hỏi chị nhân viên thì bảo đấy là sim 4G rồi, nhưng  sao mình bỏ sim vào ĐT 4G vẫn chỉ hiện là 3G ạ (điện thoại hổ trợ 4G,thao tác cài đặt  đúng hết) ? mong admin hồi âm sớm ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.074966,
+         "id": "737992",
+         "field_search": "question",
+         "question": " Máy điện thoại iphone 4 của mình lúc có sim lúc thì đang tìm kiếm hoặc không có dịch vụ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.063164,
+         "id": "846503",
+         "field_search": "question",
+         "question": "Ipad mini 2 của mình có khay sim và mặt lưng của bản 3G/4G nhưng vào phần cài đặt lại ko có dử liệu di động để bật lên.....????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.936256,
+         "id": "1019416",
+         "field_search": "question",
+         "question": "Bên thế giới di động còn chương trình đổi sim 4g của viettel miễn phí không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.824974,
+         "id": "1160091",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình bị mất máy điện thoại, làm lại sim mới rồi thì ứng dụng zalo, viber trên máy bị mất có vào được không? mình rất lo dữ liệu trên phần mềm viber và zalo bị rò rỉ! Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.769855,
+         "id": "997933",
+         "field_search": "question",
+         "question": " Cho tôi hỏi muốn đổi sim 4g cua vinaphone thegdd có đổi ko?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.630302,
+         "id": "1013257",
+         "field_search": "question",
+         "question": "E sử dụng máy mobistar 2 sim. Sim viettel nt bình thường còn sim mobi thì k gửi tn được. Nguyên nhân ad biết k ạ. E cảm ơn đã xem thắc mắc của e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.619057,
+         "id": "1145764",
+         "field_search": "question",
+         "question": "Cho mình hỏi con redmi note 5 pro khi xài sim 4g thì tốc độ mạng lúc chơi game có ổn định va và nhanh không ạ. Mình đang xài thánh sim vnmb mà sao chơi game bị lỗi mạng hoài, không biết tại máy hay mạng nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.584698,
+         "id": "1138676",
+         "field_search": "question",
+         "question": "Chào ad, ad cho mình hỏi về điện thoại asus zenphone 2, mình bị vấn đề như sau, Khe cắm Sim 1 cho phép bật 2,3,4G và khe cắm Sim 2 không hỗ trợ 2,3,4G, mình đang sử dụng Sim Viettel mình cắm ở khe Sim 1 thì bật 2,3,4G vào internet bình thường, nhưng khi mình cắm Sim Mobifone vào khe Sim 1 thì điện thoại mình hoàn toàn không nhận Sim cũng như không bật được 2,3,4G (Sim mobile mình đã test ở điện thoại khác thì vẫn hoạt động vào internet bình thường) không biết tình trạng này là như thế nào bạn và có cách nào khắc phục không bạn. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.565132,
+         "id": "1167272",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua galaxy a50 khi sử dụng mạng 3g không giới hạn lưu lượng của vietnammobi lúc đầu sử dung mạng bình thường, nhưng khi đổi sim chế độ BOMSIM Vietnammobie thì mình vô mạng không được, Tắt máy khởi động lại vẫn không vào đượ.vậy có phải máy bị lỗi phầm mềm không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.451176,
+         "id": "1018080",
+         "field_search": "question",
+         "question": "cho em hỏi em sd sim viettel gogo 4g nếu em không muốn sử dụng 4g nửa thì có cần soạn cú pháp nào để huỷ dv ko nếu có cho em cú pháp em chỉ cần nghe gọi thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.406773,
+         "id": "1138368",
+         "field_search": "question",
+         "question": "Mình mới mua A7 2018 ở TGDD. Thẻ sim lúc nhận được lúc không nhận được. Tháo ra và gắn thẻ sim lại thì dùng được, nhưng rồi lại bị mất tín hiệu sim. Phải dùng miếng dán mỏng dán mặt sau thẻ sim thì mới dùng bình thường. Như vậy là lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.38205,
+         "id": "1143873",
+         "field_search": "question",
+         "question": "Alô ạ. ĐT cua e là sony X. Nhưng hiện tại lắp sim vào thì máy cứ báo KHông có dịch vụ. E lắp di lap lại mà ko DC. Sim lap sang máy khác thì lại dùng OK. Liệu máy của e giờ gửi lên tgdd thi sửa lâu ko. Mất nhiều tiền ko ạE cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.214,
+         "id": "994955",
+         "field_search": "question",
+         "question": "Cho mình hỏi Sim của mình vừa chuyển từ 3g lên 4g tại TTGĐ nhưng sao không đăng ký gói 4G GÔ GÔ được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.18558,
+         "id": "781789",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng con iPhone 5s mà trong lúc sạc máy báo không có sim cho đến khi mình khởi động lại thì vẫn xài bình thường. Mình bị 2 lần rồi. Cho xài sim cắt. Cho mình hỏi máy mình bị sau vậy ? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.11308,
+         "id": "1019259",
+         "field_search": "question",
+         "question": "E vừa mua sim mobi 120k lúc 15h ngày hôm nay, nhưng e gắn sim vào dt không thấy sóng, để không có dữ liệu sim, e không thể kích hoạt sim dc, v e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.024963,
+         "id": "760681",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện tại mình dùng iPhone 5s sim viettel khi vào nhà thì mất sóng không gọi và nhắn tin được lâu lâu trên cột sóng hiển thị Không có dịch vụ. Nhưng khi đi bộ ra đường khoảng 20m điện thoại tự nhận sim và có sóng mạnh ? Cho mình hỏi sim mình hay điện thoại mình bị lỗi à . Có ai bị trường hợp như trên không à .. Minh đổi sim cũng vậy không biết do khu vực sóng yếu hay tại máy ? Mong ADM và mọi người giúp đỡ cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.02136,
+         "id": "896718",
+         "field_search": "question",
+         "question": " Mình đang dùng Ip4, giờ mình có cắt được sim để chuyển sim đó sang IP6 được ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.982903,
+         "id": "1143236",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở tgdd có bán sim viettel chỉ để truy cập internet ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.978054,
+         "id": "1018334",
+         "field_search": "question",
+         "question": "cho mìh hỏi, sao điện thoại Lenovo A5000, mình sử dụng 2 sim ko dc, từ lúc có bản nâng cấp mới nhất. Mình bỏ 1 sim vào khe 1 thì xài được, bỏ vào khe 2 cũng xài được. Nhưng cùng lúc bỏ 2 sim vào 2 khe thì ko xài được sim ở khe 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.9669,
+         "id": "1006339",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng Ip 5 lock của Nhật, do máy hay bị tắt nguồn và sóng không ổn định nên mình muốn thay sim ghép và pin, Ad có thể cho mình biết chi phí và chế độ bảo hành của pin với sim ghép không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.9464,
+         "id": "1012779",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em j7 2016. Máy lắp 2 sim viettel và vina. Nhưng báo chỉ sim có vina. Sim viettel không có thẻ sim, nhưng vẫn nhận được cuộc gọi đến sim viettel. Tháo sim viettel ra khỏi máy nhưng vẫn nhận được cuộc gọi đến sim viettel, em lắp vào máy thêm 1 sim vina nhưng vẫn gọi đến sim viettel vẫn nhận được trên máy. Tức là máy chỉ lắp 2 sim nhưng  3 sim nghe được cuộc gọi đến. Sim viettel được tháo ra lắp vào máy khác vẫn báo không có thẻ sim.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.89556,
+         "id": "1147964",
+         "field_search": "question",
+         "question": "Mình dùng a7 2018, kết nối sim 4g, tại sao máy đang kết nói 4g được 1 lúc lại chuyển về mang E, dù sóng rất ổn định. Xin chỉ mình các khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.787598,
+         "id": "1023901",
+         "field_search": "question",
+         "question": "Tại sao máy ss j5 2016 mình dùng 2 sim. 1 sim gọi và 1 sim 3g. Nhưng đang dùng 3g thì có cuộc gọi dénd hoặc gọi đi thì máy báo mất kết nối mạng ở sim 3g nhỉ. Add có cachs nào chỉ giúp mìn với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.738186,
+         "id": "995742",
+         "field_search": "question",
+         "question": "Tôi đã có sim 4g và tôi có thể đăng kí gói cước của Sim GÔ GÔ 4G được ko vậy? Hay là phải đến cửa hàng để mua sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.66464,
+         "id": "1167259",
+         "field_search": "question",
+         "question": "Nếu mình chuyển tài khoản google từ hệ điều hành androi sang ios thì những dữ liệu chơi game của mình có bị mất không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.655533,
+         "id": "1014309",
+         "field_search": "question",
+         "question": "e có một sim mobi, mà s nó không nhắn tin z ạ? z sim đó có đổi thành mobifone 4G ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.58889,
+         "id": "767153",
+         "field_search": "question",
+         "question": "Cho e hỏi lúc trước e có sử dụng iPhone 4s bằng sim ghép , nhưng bây giờ e muốn lấy sim đã ghép ở iPhone 4s sang sử dụng cho 5s phiên bản quốc tế được không ạ , có ảnh hưởng gì không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.5782,
+         "id": "1139255",
+         "field_search": "question",
+         "question": " Cho em hỏi hiện bên mình có bán loại sim 4g vinaphone speed không vậy? Giá của nó hiện tại bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.357838,
+         "id": "1159579",
+         "field_search": "question",
+         "question": "Mình sử dụng 2 sim tren máy mobistar. 1 sim mobi và 1 sim vina. Có cài chế độ chờ. Nhưng nếu gọi sim mobi mà có cuộc gọi là mobi gọi đến thì có báo. Còn sim vina gọi đến thì tút..tút..Ngược lại sim vina đang gọi mà có cuộc gọi vina đến thì báo có cuộc gọi đến, còn sim mobi gọi đến thì tút..tút. Nhờ nv kĩ thuật hướng dẫn dùm minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.326115,
+         "id": "1007026",
+         "field_search": "question",
+         "question": "Cho mình hỏi là sim gôgô 4g khác gì sim 4g bình thường không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.31022,
+         "id": "1020956",
+         "field_search": "question",
+         "question": "mình mới mua cái sim mới và cái sim đó đã được người khác đăng ki zalo, mình muốn đăng kí zalo của mình với số điện thoại đó có được ko, nếu được thông tin của mình có bị người cũ truy cập không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.2223,
+         "id": "1007251",
+         "field_search": "question",
+         "question": "  Admin cho mình hỏi,máy mình như thế này có hỗ trợ 4g ko,tại vì mình đang định mua sim 4g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.205498,
+         "id": "1136831",
+         "field_search": "question",
+         "question": "Hiện em đang dùng iphone 5s lock em đang dùng 1 sim khác nhưng mà bayh em muốn đổi sim thì có đổi được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.113808,
+         "id": "773789",
+         "field_search": "question",
+         "question": "Mình đang dùng điện thoại Masstel M503 và dùng sim viettel đầu 0167 sim của mình vẫn nghe gọi bình thường nhưng khi gửi tin nhắn thì không gửi được. Mà nếu gửi được có khi chờ mất hàng tiếng đồng hồ. Mong QTV giải thích giúp mình với. Thân.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.016273,
+         "id": "1146230",
+         "field_search": "question",
+         "question": "cho minh hỏi ip8+ của mình chỉ hiện mỗi chữ 3g không hiện 4g hay lte gì hếtphiên bản ios 11.4.1 làm sao để hiện hay do sim và máy ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.962414,
+         "id": "1010327",
+         "field_search": "question",
+         "question": "mình vừa mất sim bùm  mà thời gian sử dụng còn 3 tháng mình có được cấp lại hay mua thêm sim bùm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.945156,
+         "id": "1003669",
+         "field_search": "question",
+         "question": " Minh dang xai sim viettel giở mình đăng ký gogo 4g được ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.843586,
+         "id": "1006214",
+         "field_search": "question",
+         "question": "Mình đang sử dụng J7 Prime được 1 tháng, mua tại TGDD và còn thời hạn bảo hành. Pin ở máy mình hiện đang bị hỏng. Vậy nếu mình mang máy đến thay pin mới thì có mất tiền không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.786022,
+         "id": "1017901",
+         "field_search": "question",
+         "question": "muốn đổi sang sim 4g gogo thì thế nào tại nhà hả anh chi giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.72509,
+         "id": "812632",
+         "field_search": "question",
+         "question": "Em đang dùng ip5s của viettel. Em muốn đổi số điện thoại khác. Cho em hỏi nếu em thay số điện thoại thì các dữ liệu trên fb, zalo, viber và trên các app khác có bị mất không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.587585,
+         "id": "1021426",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 sim viettel và 1 dán màn hình j1 thì bên mình có nhận giao hàng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.569893,
+         "id": "745204",
+         "field_search": "question",
+         "question": "Mình vừa mất điện thoại iPhone 5 vào ngày 21/11/2015, nay muốn tìm lại nó, vui lòng giúp mình với! Trước khi mất trong máy có sẵn sim 3G đang bật, và hiện tại, mình vẫn còn lưu lại số seri của máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.55278,
+         "id": "1001667",
+         "field_search": "question",
+         "question": "Tgdd có sim trắng mobifone 4g ko ạ,.....................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.55116,
+         "id": "991043",
+         "field_search": "question",
+         "question": "shop cho mình hỏi vợ mình có đăng ký mua sim mà giờ bận mình mang CMT qua shop có làm được không vậy shop? với cả mình mất sim giờ đăng ký sim mới bằng CMT mình đăng ký sim cũ được không vậy shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.38974,
+         "id": "1004462",
+         "field_search": "question",
+         "question": "cho e hỏi sim 4G với sim gogo 4G có khác gì nhau không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.31491,
+         "id": "1009701",
+         "field_search": "question",
+         "question": "Em chào ac. Ac cho e hỏi e vừa đăng kí sim vinaphone 4g speed bên mình. Vậy e cần làm thế nào để kích hoạt sim ạ?  Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.30306,
+         "id": "1156157",
+         "field_search": "question",
+         "question": "Cho hỏi Samsung s7 egde đang sử dụng khe 1 sim bây giờ đổi khe 2 sim đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.29865,
+         "id": "1014992",
+         "field_search": "question",
+         "question": "Mình muốn mua sim vina Bum50 của TGDD co máy điện thoại của mình mua 12 tháng rồi tại TGDD có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.274025,
+         "id": "1011675",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên mình có bán sim 3G , 4G dùng 12 tháng ko nạp tiền ko ạ. Giá bao nhiêu Tư vấn giùm mình với  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.210503,
+         "id": "1010447",
+         "field_search": "question",
+         "question": "Sim bùm 3g vina mình mua bên bạn mà h mình làm mất rồi thì mình tới tgdd làm lại hay tới chi nhánh vinafone? Và 3g free 1 năm của mình có còn k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.168663,
+         "id": "1014984",
+         "field_search": "question",
+         "question": "cho mình hỏi . mình muốn mua sim bên tgdd , bên bạn có đăng ký sim luôn hộ được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.14618,
+         "id": "1009555",
+         "field_search": "question",
+         "question": "Cho em hỏi gói cước sim Viettel 4G GôGô giờ em đang dùng sdt của em đăng ký có được không ạ, hay phải ra trực tiếp TGGĐ để mua sim đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.144314,
+         "id": "1156575",
+         "field_search": "question",
+         "question": "Sim vietnamobile của mình không hiện 4G mà chỉ H. Mình mới mua thôi. Mình sài Nova 3i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.142834,
+         "id": "1022150",
+         "field_search": "question",
+         "question": "Trong mục Thông tin thiết bị của Sam Sung s7 edge của mình ko hiện số sim. Cho mình hỏi cách cập nhật số sim vào thông tin thiết bị ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.03276,
+         "id": "1019080",
+         "field_search": "question",
+         "question": "Mình muốn mua 2 sim 4G. Mình coi số rồi không biết đặt hàng theo 2 số mình đã coi có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.954773,
+         "id": "1017415",
+         "field_search": "question",
+         "question": "bên mình có bán sim ghép 4g ko ạ... gắn vào máy có sài được 4g ko ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.9496,
+         "id": "1012417",
+         "field_search": "question",
+         "question": "Cho mình hỏi: máy mình Gr5 2017, mình nắp 2 sim viettel  sử dụng bình thường, bỗng sáng nay sim 1 gọi hay nhận cuộc gọi chỉ cần 1 bên nhấc máy thì tự cúp máy kiểu máy bận, mà nhắn tin vẫn bình thường, sim còn lại thì gọi bình thường, như vậy là tại sim hay máy, và khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.923946,
+         "id": "1017902",
+         "field_search": "question",
+         "question": "Tại sao sim của em còn nhiều dữ liệu mà lại không sd đc vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.89274,
+         "id": "1018550",
+         "field_search": "question",
+         "question": "cho mình hỏi máy Sony Xperia C3 Dual mua tại TGDĐ đem sang Thái có dùng được sim 4G bên đó ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.84027,
+         "id": "779942",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình có một chiếc iphone 6 trước có dùng sim của Mobi và lưu số vào sim. Trước khi rút sim ra mình đã lưu danh bạ vào máy. Tuy nhiên khi lắp sim quốc tế (Mỹ AT&T) vào máy thì tin nhắn chuyển thành dạng số và k có tên (ấn vào xem details của message thì vẫn hiển thị tên). Tháo sim at&t ra và lắp lại mobi thì lại hiện tên. Vậy đấy là lỗi gì và giúp mình khắc phục. Mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.793293,
+         "id": "1008558",
+         "field_search": "question",
+         "question": "Mình tên là Tô Văn Chính đang ở tại 6/2A Lý Nam Đế, Phường Phù Đổng, TP Pleiku, Gia Lai      1- Vinaphone:(1) 0941 772 146; (2) 01292 103 371; (3) 0947 136 001; (4) 0947 116 002      Mình đang dùng 2 điện thoại Samsung Galaxy J5 2015 và Samsung Galaxy J7 2015, mỗi máy có 2 khe sim.       Mình nhận thấy:      Còn cách trả lời của Thế giới di động trong bài Hướng dẫn gọi video giữa các điện thoại Samsung tên mạng mà mình trích lại sau đây là không đúng:            II- Mình dùng điện thoại Galaxy J5, J7 2015 nên mình thấy hướng dẫn thao tác chọn sim dùng cho cuộc gọi video ngày 25/11/2015 của Thế giới di động có khác với các bước thao tác trên điện thoại của mình. Nhưng các bạn cần nắm vững nguyên tắc để gọi được video call như sau:      1- Cả 2 điện thoại gọi đi và đến đều có cấu hình thực hiện được cuộc gọi video call như Sam Sung J5, J7…      3- Thuê bao đang hoạt động trong vùng phủ sóng 3G:         Trong vòng phủ sóng 3G là vũng đã được nhà mạng phủ sóng 3G chứ không phải  là điện thoại phải có sóng 3G (không phải bật dữ liệu di động lên).      Cách thực hiện:      Sau đó vào tiếp điểm truy cập (dòng bên trên Chế độ mang), nhấn vào đó, rồi nhấn tiếp vào ô SIM 1, lần lượt chọn:             -  Trường hợp sim Viettel chọn: VIETTEL Email (v-internet)      Chú ý: khi chuyển sim gọi hoặc nhận cuộc gọi thì phải chọn lại mạng 3G cho sim đó như trên.      Khi đáp ứng 5 điều kiện trên thì thực hiện được gọi video call.      1- Nếu điện thoại chỉ lắp 1 sim thì nghe và gọi video call bình thường.      a- Ở vị trí khe sim thứ nhất: nhận và gọi video call bình thường.      Ngoài vòng phủ sóng của 3G      Vậy lỗi này do đâu, do nhà mạng hay do điện thoại?      IV- Để phát hiện lỗi cuộc gọi không thực hiện được do sim, hay do điện thoại, tránh nhầm lẫn khi chọn sim, sai sót do chưa chọn mạng 3G cho sim, mình đã thực hiện như sau:      J5: sim 1: 0947136001; sim 2: 01291103371.      2- Thực hiện từng cuộc gọi thoại, video call từ từng số điện thoại của điện thoại J7 sang từng số điện thoại của điện thoại J5 và ngược lại, ghi kết quả từng cuộc gọi ra giấy:, gọi được ghi có, không gọi được ghi 0. Mỗi khi chuyển cuộc gọi từ sim này sang sim khác, mình phải chuyển chế độ sim đó sang 3G hoặc 3G/2G hoặc WCDMA/GMS.      J5: sim 1: 0941772146; sim 2: 0947116002      Qua nhiều lần thực nghiệm trên cả 2 mạng Vinaphone và Viettel, mình đều có kết quả như phần III.      Rất mong Thế giới di động quan tâm, nhanh chóng trả lời!                  \r\n\r\n                \r\n                \r\nVề việc  gọi video giữa các điện thoại Samsung  không cần internet.      Gửi Thế giới di động và bạn đọc gần xa!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.792076,
+         "id": "1154093",
+         "field_search": "question",
+         "question": "Thế giới di động  mình mở cũng lúc wifi và dữ liệu, có nghĩa là mình sài wifi thôi nhưng khi tắc wifi thì nó lại không chuyển sang dữ liệu như nokia 6 (2017) và mình phải tắc mở lại dữ liệu nó mới hiện 4g và thấy cũng hơi bất tiện. mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.75631,
+         "id": "1016523",
+         "field_search": "question",
+         "question": "Chào ad ... Cho mình hỏi là mình có mua 1 sim vina và có đưa cmnd cho người bán xác nhận nhưng 1 thời gian sau thẻ sim lại báo mình cần đk lại cmnd nếu ko thì sẽ khóa sim ... Ad làm cách nào để khắc phục giùm mình vì đây là sim thứ 2 mình mua rồi và mình rất bực ... Nếu như chỗ mình gần vina thì mình đã không ghé qua tgdd mua làm gì mà mình qua thẳng bên đó cho tiện rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.651825,
+         "id": "996034",
+         "field_search": "question",
+         "question": "Cho mình hỏi khay sim 2 của sony xperia X có hỗ trợ 4G(LTE) ko? Sim mình là vina 4G nhưng chỉ hiện lên H+. Mình đã vào cài đặt là Ưu tiên mạng LTE rồi.và mình ở tp Uông Bí. thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

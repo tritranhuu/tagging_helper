@@ -1,0 +1,801 @@
+{
+   "id_query": "1147839",
+   "total": 26518,
+   "total_current": 100,
+   "max_score": 125.875725,
+   "origin_question": "Ad cho mình hỏi vì sao dt asus zenfone 4 max quay video hoăc thu âm thì ko nghe được vậy, tiếng lúc to lúc nhỏ",
+   "hits": [
+      {
+         "score": 47.942204,
+         "id": "1152612",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em đang dùng asus zenphone 4 max và khi quay video ở buổi concert thì máy hay bị mất tiếng khi âm thanh to quá. Vậy đây là llỗi gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.35368,
+         "id": "815862",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi con iphone 5 của mình up len 9.3.1 thì lúc nhận được cuộc gọi lúc không gọi đi thì bt máy mình là máy J/A",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.683445,
+         "id": "848323",
+         "field_search": "question",
+         "question": "E đang dùng iphone 5g và không hiểu sao quay video cam trước thì hét to chỉ nghe thấy tiếng nhỏ xíu còn cam sau thì âm thanh vân bình thường ạ.. Gọi video Facebook cũng bị nhỏ. gọi Loa ngoài nói chuyện bên kia nghe cũng bị nhỏ.. Ai giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.413116,
+         "id": "1006051",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao đt mình lúc này hay tự động nhỏ chuông cuộc gọi quài mặc dù mình thấy nhỏ âm khi kéo nó lên lớn vẫn tự động nhỏ lại. Đang dùng máy SAMSUNG J5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.354618,
+         "id": "807459",
+         "field_search": "question",
+         "question": "Mình mới mua iphone 5s trong cửa hàng thế giới di động, nhưng nghe nhạc qua tai nghe tiếng nhỏ lý do vì sao vậy? nghe nhạc qua máy thì bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.170044,
+         "id": "939003",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng 6plus mà khi dùng chức năng ghi âm thì lúc ghi âm nó không hiện tần số sóng âm lên xuống hoặc rất thấp,nhưng khi nghe lại đoạn ghi âm thì vẫn có tiếng rõ.Mong QTV giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.951668,
+         "id": "754035",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 5 lúc đổi mk khóa màn hình rồi thì xài được mà sao từ lúc sạc tới giờ mình vẫn bấm mk đó mà vào không được? nó Cứ báo sai mk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.792953,
+         "id": "1021069",
+         "field_search": "question",
+         "question": "cho em hỏi máy iphone 5s của em giờ không nghe gọi được. gọi cho máy khác thì loa trong không nghe tiếng gì bật loa ngoài lên lại nghe thấy bên kia nói , mình nói lại nhưng đầu dây bên kia không nghe thấy mình nói. em phải tắt nguồn đi mấy lần thì máy mới nghe gọi lại được bình thường nhưng chỉ được 1 lúc là máy lại bị thế kia . Cho hỏi máy của em bị làm sao vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.978127,
+         "id": "1140471",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách cài đặt trung tâm tin nhắn và luôn cho phép gửi tin là ở mục nào? Phần nào của máy asus zenfone max m1 plus vậy? Từ khi mình mua máy mới tgdd về lúc gửi tin nhắn dc lúc không. Gửi đi số nào cũng k gửi dc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.151535,
+         "id": "943810",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi lap mình mua ở TGDD, giờ không vào đc word,pp... lúc khởi động thì hiện Unlicensed Product, vậy giờ phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.876003,
+         "id": "1002167",
+         "field_search": "question",
+         "question": "Mình có mua 1 máy asus Zenfone 3 max 5.5 tai thegioididong , hnay xài thì máy bị lỗi mic nói ko ai nghe , bên mình có bảo hành ko hay phải đem váo trung tâm asus vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.140907,
+         "id": "993122",
+         "field_search": "question",
+         "question": "Cho mình hỏi,mình muốn đổi dt philips e103 sang dt khác thì có được không ad ơi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.531807,
+         "id": "1142241",
+         "field_search": "question",
+         "question": "Cho mình hỏi : điện thoại asus go tv mình đang dùng , cứ hay bị nóng máy , lúc bật dữ liệu mạng dùng cở 2p thì máy nóng  và tự tắt nguồn . Cho mình biết máy bị làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.45271,
+         "id": "1144581",
+         "field_search": "question",
+         "question": "Loa laptop của mình bị lỗi gì mà khi nói chuyện thì loa thu âm thanh và bị vọng ra tiếng của mình .Mong được sự trợ giúp .Xin cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.741243,
+         "id": "998922",
+         "field_search": "question",
+         "question": "Lúc trước mình sạc điện thoại vẫn bình thường, nhưng sao dạo này trong lúc sạc sờ vào thây điện thoại khá nóng, còn củ sạc thì nóng kinh khủng luôn ấy. Mình sợ nó nổ nên đã rút ra... ad cho hỏi như thế là tại sao v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.49066,
+         "id": "762813",
+         "field_search": "question",
+         "question": " Em có 1 cái iphone 5 tại sao lúc tắt âm rồi mà chụp ảnh vẫn có tiếng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.252909,
+         "id": "1018141",
+         "field_search": "question",
+         "question": " Add cho e hỏi sao cài cái đồng hồ cho nó to ra và nằm ở giữa vậy .zenfone 3 max 5.5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.231876,
+         "id": "1001668",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mình mới mua nhưng bị rơi bể mặt kính thì thay thế như thế nào? Giá bao nhiêu? Asus zenfone max 5.5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.995825,
+         "id": "870211",
+         "field_search": "question",
+         "question": "Cho mình hỏi oppo r1 của mình gọi bình thường thì không sao nhưng gọi line với tago gắn tai nghe vào thì họ nói mình nghe được còn mình nói thì họ k nghe gì...phải bỏ tại nghe ra họ mới nghe được...là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.830814,
+         "id": "1164369",
+         "field_search": "question",
+         "question": "galaxy j4+ mình vừa cập nhật phần mềm. lúc chưa cập nhật thì game chơi vẫn tốt. lúc cập nhật xong thì vào game toàn bị diss ra ngoài. khắc phục sao đây ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.57912,
+         "id": "1160537",
+         "field_search": "question",
+         "question": "Cho en hỏi sao dt asus zenfone 4 max 5.2 của em sao nó bị đơ màn hình mấy lần và nó vô cung lag cho em hỏi bị sao thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.154253,
+         "id": "1138392",
+         "field_search": "question",
+         "question": "Máy asus zenfone 4 max em đag dùng đột ngột tắt nguồn em mở lại đến màn hình khởi động có chử zenfone thì đơ vậy luôn không thao tác gì được nửa anh (chị) giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.034595,
+         "id": "888631",
+         "field_search": "question",
+         "question": "Đây là lỗi gì vậy ad. Nó thay đổi toàn bộ giao diên của máy mình và lúc tắt máy bật lại thì dữ liệu cũ mất hết. Bày cách khắc phục cho mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.023094,
+         "id": "1142355",
+         "field_search": "question",
+         "question": "Lúc trước mình có dán mặt lưng điện thoại ở Thegioididong, bây giờ mình dán thêm mặt trước thì có được ưu đãi giá 15.000đ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.969896,
+         "id": "1024063",
+         "field_search": "question",
+         "question": "Asus zenfone 4 max pro : tại sao sạc 1 tiếng mà có 20% có phải do máy mới nên pin mới như vậy ạ ? và mới mua cách đây 5 ngày vậy sạc 3 lần 8 tiếng có kịp hay không ạ ? nên sạc 3 lần 8 tiếng hay cạn pin rồi sạc đầy ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.777414,
+         "id": "1151543",
+         "field_search": "question",
+         "question": "Mình đang dùng asus zenfone 4 max pro,khi cắm dây sạc thì có hiện tượng sạc chập chờn.mình đã thử đổi cục sạc và dây và thử luôn tắt nguồn điên thoại và bật lại.nhưng khi cắm dây sạc vào đèn màn hình máy sáng liên tục.v cho mình hỏi máy bị sao? Nếu bị hư chuôi sạc trong máy thì ở TGDD có mạch sạc cho asus zenfone 4 max pro hay k. Mình chỉ sạc bằng củ sạc và dây sạc kèm theo máy,k hề sử dụng củ sạc hay dây sạc của máy khác. Nếu có chip sạc của máy asus zenfone 4 max pro thì shop gọi cho mình với nha 0905347902 hay 0972565372.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.582363,
+         "id": "999309",
+         "field_search": "question",
+         "question": "Mình mua con asus zenphone max 5.5 ở tgdd được 2 tháng rồi và mình muốn bán lại. Còn mới k trầy xước cũng như đầy đủ phụ kiện thì giá bán là nhiu vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.542274,
+         "id": "1012000",
+         "field_search": "question",
+         "question": "mình mới mua tai nghe kanen jk2 cỡ 1 tháng giờ muốn đổi qua tai nghe khác được không ạ, tại chụp vào tai nghe được 1 lúc là bị đau tai á",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.169346,
+         "id": "827614",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi e có con iphone 5s cứ vào mấy ứng dụng được 5 đến 10phút thì máy tự sập nguồn, hay chơi game một lúc thì máy nóng ran lên. Cho e hỏi hiện tượng trên là sao ạ? E xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.896637,
+         "id": "1014781",
+         "field_search": "question",
+         "question": "Mình mất khay sim zenfone 3 5\"5 vậy tgdd có hàng thay thế ko ạ. Nếu có thì bao nhiêu và bao lâu ạ, monh được ad phản hồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.79176,
+         "id": "1015240",
+         "field_search": "question",
+         "question": "Mình đang dùng zenfone 2 . Khi mình đang có cuộc gọi thì có cuộc gọi đến máy vẫn đỗ chuông gây phiền phức vì người gọi nói mình không nghe máy .vậy làm sao để tắt cuộc gọi thứ 2 chuyển qua thành máy bận . Cám oen",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.468475,
+         "id": "748200",
+         "field_search": "question",
+         "question": "Máy mình nâng cấp lên win 10, bây giờ restar lại không được. toàn phải tắt đi rồi mở lại, có cách nào khắc phục được không QTV? mình nghĩ chắc win 10 xung đột phần mềm nào đó mà mình cài, vì lúc mới cài thì vẫn restar được, máy tự động cập nhật phầm mềm rồi bị luôn, lap mình là acer win 8.1 cài sẵn lên 10?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.42373,
+         "id": "1008364",
+         "field_search": "question",
+         "question": "Anh ơi cho e hỏi đt e k tải gì. Mà sao bộ nhớ ít vậy anh . Khởi động lại máy rùi mà bộ nhớ có hơn 700MB. Mà lúc trước e khởi động bộ nhớ lúc nào cũng hơn 1G ạ. Cho hỏi bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.179258,
+         "id": "817450",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình muốn thay đổi thẻ sim trong ip 5s thì đến thegioididong.com làm được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.15782,
+         "id": "1010312",
+         "field_search": "question",
+         "question": "Ai biết cách khắc phục vụ này thì giúp em với ạ ! Điện thoại em là ASUS zenfone 3 max ! Em xin cảm ơn ạ ! Ngay cả khi gắn tai nghe bấm tăng âm lượng nó cũng ghi vậy luôn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.143316,
+         "id": "1142466",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình xài laptop 330-15ikb  lúc mới mua về thì mình thay tren o dia cua may khong co nut bam ra trong phan this pc cung khong thay o dia e dau giup minh voi a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.096037,
+         "id": "811111",
+         "field_search": "question",
+         "question": " Ad ! Cho mình hỏi tạo ID apple lam sao vì mình tạo hoài không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.080917,
+         "id": "1024406",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách tắt tính năng tự động nghe máy trên   Zenfone 3 Max 5.5 ZC553KL vs ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.936008,
+         "id": "829902",
+         "field_search": "question",
+         "question": " Mình dùng ip 5s khi chụp ảnh mình đã tắt âm sao vẫn kêu thì phải làm thế nào vậy ad ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.860779,
+         "id": "1010701",
+         "field_search": "question",
+         "question": "Mấy anh mấy chị ơi cho em hỏi asus zenfone go có nâng lên android 6 hay 7 được ko ạ nếu đc thì nâng làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.80832,
+         "id": "1009696",
+         "field_search": "question",
+         "question": "Cho tôi hỏi hiện tôi dùng asus zefone2 tại sao không biết mấy ngày hôm nay máy tôi cứ không dùng một lúc là tự nhiên mất mạng và khởi động lại thì mới có cho tôi hỏi cách khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.644632,
+         "id": "1006213",
+         "field_search": "question",
+         "question": "Hi QTV. Cho mình hỏi bàn trải nghiệm này của hãng nào vậy, lúc sáng ghé đóng tiền do gấp quá k kịp xem. Có phải mẩu nokia mới k ạ. Tks QTV​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.53954,
+         "id": "1161996",
+         "field_search": "question",
+         "question": "Cho e hỏi thay kính asus zenfone 4 max pro còn bảo hành giá bnhiêu v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.373743,
+         "id": "995942",
+         "field_search": "question",
+         "question": "Mình đang SD Zenfone 3 max, cứ sau 1ngày là mình phải bật chế độ máy bay mới bật được 3G, cho mình hỏi có cách nào khắc phục không. Mong được sự hỗ trợ từ KTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.148046,
+         "id": "586864",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo r101 rất hay bị đơ. Nhất là khi vừa thoát mạng phải cần 1 lúc mới trở về màn hình chính. Vậy có cách nào khắc phục được không...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.094181,
+         "id": "1022235",
+         "field_search": "question",
+         "question": "Mình muốn bán điện thoạ mobell nova f3 còn hộp dây sạc , nghe thì bán được bao nhiêu vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.036148,
+         "id": "826786",
+         "field_search": "question",
+         "question": " Chào ad cho mình hỏi Asus Zenfone Max có tai nghe Bluetooth không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.99749,
+         "id": "1018362",
+         "field_search": "question",
+         "question": "Bên mình cho em hỏi, sau khi em nghe nhạc trên mp3.zing và Spotify qua tai nghe theo máy thì khi rút ra lại không phát loa ngoài được ạ, cho hỏi cái này là lỗi gì vậy ạ và em phải khắc phục làm sao ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.94972,
+         "id": "1139834",
+         "field_search": "question",
+         "question": "qtv, cho mình hỏi máy của mình (mobell nova f7 pro) lúc trước bị kẹt khe sim, mình tự tháo mặt lưng của máy ra (máy nguyên khối) để lấy khay sim (không hề động chạm đến các bộ phận khác của máy). Bây giờ bị loạn cảm ứng thì có còn được bảo hành không hay là sửa chữa có tính phí. Mong sớm nhận được câu trả lời.Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.828167,
+         "id": "846643",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sử dụng điện thoại oppo R827 mà sao mình không xem được trực tuyến trên facebook vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.798237,
+         "id": "1160086",
+         "field_search": "question",
+         "question": "Điện thoại mình là asus zenfone 3 max 5.5. Dạo gần đây, màn hình bị rối loank, có chỗ bị liêt, phím điều hướng ko nhấn đc. Cho mình hỏi là đt mk bị tình trạng j ạk. Nếu sửa chữa thì tốn bao nhiêu tiền ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.649351,
+         "id": "1006331",
+         "field_search": "question",
+         "question": "Máy e mới mua zenfone 3 max 5.5( nguyên khối) mà gõ vào đầu thân máy nghe tiếng leng keng bên trong thân máy  có sao ko ạ, mỗi lần vỗ nhẹ hay đặt máy xuống lại có âm thanh \" lạch cạch \" bên trong như kiểu lỏng ốc hay gì đó. Như vậy có làm sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.54657,
+         "id": "1010744",
+         "field_search": "question",
+         "question": "cho hỏi nếu không mua điện thoại bên cửa hàng thì có được đổi không vì tôi có một cái lumia?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.538782,
+         "id": "997343",
+         "field_search": "question",
+         "question": "chào anhcho e hỏi   sao em  vào coccoc sài một lát thì mình nhấp chuộc cái n nhảy sang trang web khác z anh...làm s mình tắt nó được vậy anh...  mong được sự phản hồi từ anh..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.48686,
+         "id": "1024269",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao những cuộc gọi đi hay đến mỗi lần nhắc máy tl thì máy lại tự động bật chế độ Không làm phiền khiến cả 2 đều không thể nghe được gì vậy ạ ,làm sao để tắt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.159208,
+         "id": "1155613",
+         "field_search": "question",
+         "question": "em đang dùng dòng samsung j7plus, hôm nay em có cập nhật phần mềm thì lúc cập nhật xong điện thoại tự tắt nguồn và em không mở nguồn lên được nữa. Vậy là điện thoại em gặp vấn đề gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.122498,
+         "id": "1016021",
+         "field_search": "question",
+         "question": "E đang định mua đt Asus Zenfone 3 Max thì lại thấy có tin Asus Zenfone 4 max sắp ra. Shop có thời gian cụ thể khi nào có Asus zenfone 4 ko để e còn chờ ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.923786,
+         "id": "1022160",
+         "field_search": "question",
+         "question": "Coi dùm ad ơi,sao bị lỗi kì vậy,dt mình là zenphone 3 max,chẳng biết sao bị vậy,loay huay nãy giờ méo tìm ra cách :v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.76785,
+         "id": "845710",
+         "field_search": "question",
+         "question": "Cho mình hỏi, lí do tại sao khi có tin nhắn mới trên messenger của facebook mình không nghe tiếng chuông thông báo có tin nhắn đến, và không hiện dấu hiệu gì để biết là có tin nhắn cho đến khi mình click vào messenger thì mình mới thấy được tin nhắn. Và không có thông báo nên mình không biết được bạn mình có nhắn tin cho mình, đến khi click vào thì đã quá muộn để trả lời.Mình có tham khảo nhiều cách trên google và thử kiểm tra điều chỉnh mà sao cũng không cải thiện được. Nhờ TGDD xử lí dùm tình trạng này.Many Thanks.Thu NĂm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.634659,
+         "id": "995033",
+         "field_search": "question",
+         "question": "TGDD cho tôi hỏi, tôi mua dt asus ở TGDD, hôm nay tôi lở làm nứt màn hình, vậy cho hỏi tôi có gửi bảo hành được không?(máy còn trong thời gian bảo hành) và nếu tốn phí thì tôi phải tốn bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.587439,
+         "id": "1010933",
+         "field_search": "question",
+         "question": "Chào qtv. Cho mình hỏi m muốn trả đt 3max5.5 mà lúc m mua là 5.490 thế giờ nếu trả thì tính theo giá đó hay giá hiện yại. M k còn hộp còn tất cả vẫn đầy đủ phíu quà tặg cũg k còn. M nhờ qtv tính giúp mình còn được bao nhiêu ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.558767,
+         "id": "1134125",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn đổi điện thoại Zenfone 4 max pro chuyển sang Xiaomi Mi A1 64GB thì phải bù khoảng bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.541151,
+         "id": "1135811",
+         "field_search": "question",
+         "question": "A chị ơi cho em hỏi thay mặt kính zenfone 3 max 5.5 bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.478088,
+         "id": "1024493",
+         "field_search": "question",
+         "question": "Asus Zenfone 4 Max Pro ZC554KLhai sim nano, có chung thẻ nhớ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.398922,
+         "id": "804731",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình toàn dùng sạc dự phòng để sạc iphone 5s từ lúc mới mua về, nhưng hôm nay mình quên không cắm điện vào sạc dự phòng thế là khi sạc iphone mới 65% đã bị ngắt, thế thì mình nên sạc thêm iphone trực tiếp hay thôi không sạc nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.303555,
+         "id": "1134327",
+         "field_search": "question",
+         "question": "Mình xài huawei mediapad T1.70 mình mua nó lúc năm 2015 lần đầu có một bản cập nhật sau khi cập nhật xong.Đến bây giờ mình vẫn chưa nhận được bản cập nhật.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.288914,
+         "id": "831957",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone 5s mà lúc ng ta gọi đến đèn phía sau kh nháy thì làm thế nào cho nó nháy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.237759,
+         "id": "999323",
+         "field_search": "question",
+         "question": "Tại sao zenfone 3max 5.5 inch không kết nối được với tai nghe bluetooth. Nếu giả định là tai nghe không tương thích với máy. VẬy có thể cho mình tham khảo một số loại tai nghe bluetooth tương tác được với máy trên. CẢm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.128017,
+         "id": "883082",
+         "field_search": "question",
+         "question": " Cho em hỏi sao cái laptop asus của em không tải phần mềm bluestack được vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.121069,
+         "id": "1011118",
+         "field_search": "question",
+         "question": "E mới mua dt Asus zenfone 3 max 5.5 .mua dc khoảng 2 tuan giờ e muốn bán lại dc ko ạh.va giá thu lại la bao nhiêu ạh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.11773,
+         "id": "1161993",
+         "field_search": "question",
+         "question": "Mình xài Sam sung s8 Activer ,lúc trước thì cuộc gọi đến có hiển thị tên. giờ thì xong cuộc gọi mới thấy hiển thị tên. đã thử khởi động lại, cài đặt danh bạ như hướng dẫn mà không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.086899,
+         "id": "1016558",
+         "field_search": "question",
+         "question": "Zenfone 3 của tôi lúc nào cũng hiện thông báo Sạc đảo ngược. Tôi không sạc cho máy khác. Khi tôi sạc điện thoại thì không vào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.044868,
+         "id": "770045",
+         "field_search": "question",
+         "question": "mình vừa mua 1 chiếc lenovo g470 mọi thứ đều ổn,nhưng mỗi goi video trên facebook là nhỏ khi mình nói bên kia nghe rất bé hầu như là không nghe thay gì,mình cũng không biết phải làm sao.ai biết chỉ mình với.(mình nghe rõ người bên kia nói nhưng mình nói bên kia nghe rất bé mình gọi thử cho vài người đều tình trạng như vậy)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.000586,
+         "id": "828704",
+         "field_search": "question",
+         "question": "Tình trạng này xảy ra đc 3 ngày, sáng sớm gửi cho bạn bè thì được mà đến chìu tối là khó khăn, toàn là đang kết nối và đang gửi, 1 lúc sau thì báo không gửi được, có lúc giống tình trạng bị Lag, gửi hên xui mình nhận được message của người ta hay là sung đột apps",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.971275,
+         "id": "750615",
+         "field_search": "question",
+         "question": "Cho e hỏi e có mua cái laptop X550LD  4G core i7 . e cài windows 8, nhưng khi chơi game liên minh huyền thoại thì có hiện tượng thường hay bị restart. có biểu tượng :( và 1 số dòng chữ tiếng anh . khi khởi động máy lên lại thì chơi bình thường nhưng 1 lúc sau thì lại bị như tình trạng trên  . vậy e phải làm như thế nào để khắc phục lỗi trên . mong anh chị chỉ giúp  .  e cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.967796,
+         "id": "1006344",
+         "field_search": "question",
+         "question": "Chi tôi hỏi cách test loa mic thoại asus zenfone max",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.846708,
+         "id": "1149692",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao khi vào subway suffes máy mình bắt đăng nhập = tài khoản google,vậy làm thế nào để đăng nhập = fb được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.778942,
+         "id": "998373",
+         "field_search": "question",
+         "question": "Ad ơi em đang sài asus zenfone sf mà không biết sao đang sài bth tự nhiên nó hiện quảng cáo thì sao tắt được ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.539877,
+         "id": "1016374",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi màn hình điện tjoại asus zenfone go tv của em bị nứt mà vẫn sử dụng được vậy sửa với giá bao nhiêu ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.393063,
+         "id": "1163526",
+         "field_search": "question",
+         "question": "Xin chào, ad giúp mình cách chuyển úng dụng sang thẻ nhớ với điện thoại asus zenfone 3 max với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.283918,
+         "id": "870906",
+         "field_search": "question",
+         "question": "Khi đăng xuất icoud trên iphone rồi thì làm sau biết được tài khoản icoud đả tạo trứơc đó..( vì tk mình không nhớ rõ lắm).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.283833,
+         "id": "953856",
+         "field_search": "question",
+         "question": " Tại sao nhật ký cuộc gọi trên iphone lúc ẩn lúc hiện ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.24716,
+         "id": "1135587",
+         "field_search": "question",
+         "question": "Giá màn hình asus zenfone 4 pro bao nhiêu vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.24487,
+         "id": "999632",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi asus zenfone 3 max 5.5, mình chơi game nhẹ 30p, zing mp3 15p, face, mess, youtube 30p, sài ko ltục tầm 9t30p còn 15% pin là bt hay pin có vđề ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.237005,
+         "id": "1002988",
+         "field_search": "question",
+         "question": "Điện thoại mình là sam sung j5. lúc chiều còn tầm 35% thì bỗng nhiên sụp nguồn tắt đen, sạt bin không vào, mở nguồn k vào. Vậy bây giờ phải làm như thế nào ạ?. Mong tổng đài phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.133327,
+         "id": "1022882",
+         "field_search": "question",
+         "question": "Mình hay cắm tai nghe để nghe nhạc, xem video. Đang nghe thì tự nhiên nó giảm âm lượng và hiện thông báo:\"Âm lượng của tâp  tin truyền thông và cuộc gọi tự động đã giảm xuống để bảo vệ tai bạn\" Mình ko muốn như thế, xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.118364,
+         "id": "1144543",
+         "field_search": "question",
+         "question": "Tôi có người quen sử dụng asus zenfone max pro m1 thì nó có cái lỗi gọi video facebook vs zalo người bên kia gọi ko nghe thấy tiếng chỉ nhìn được hình. Mới đầu tôi tưởng do chất lượng mạng lên đã sử dụng thiết bị khác thì thấy gọi video bình thường, ko biết asus zenfone max pro m2 có bị vậy ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.98213,
+         "id": "1013209",
+         "field_search": "question",
+         "question": "Cho em hỏi. Asus zenfone live của em. Âm tin nhắn lúc có lúc không. Cho dù bật max âm lượng.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.963663,
+         "id": "1007758",
+         "field_search": "question",
+         "question": "cho tôi hỏi là tôi mới mua điện thoại mobistar lúc trưa nhưng sao sử dụng rất nhanh hết pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.850143,
+         "id": "1161976",
+         "field_search": "question",
+         "question": "máy em là iphone   plus bị bong màn hình và rơi xuống nước lúc sập nguồn và chưa sơ cứu qua thì có sửa được không ạ, em sac thì máy không lên nguồn luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.833435,
+         "id": "996356",
+         "field_search": "question",
+         "question": "Cho mình hỏi may asus zenphone 3max 5.5 mình mua duoc khoảng 2 thang khi cài khóa vân tay thì có thông báo là phần cứng vân tay không khả dụng. Vậy là lỗi gì ạ giúp mình khắc phục với. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.775398,
+         "id": "942971",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng 6plus ios 10.1.1 mà để qua đêm(9 tiếng) pin tự bị tụt khoảng 14% mà mình không hề dùng(đã tắt wifi).Mình muốn lên ios 10.2.1 thì có khắc phục được lỗi tự tụt pin không ạ và bản này dùng có ổn định không ạ.Mong QTV giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.69486,
+         "id": "1007267",
+         "field_search": "question",
+         "question": "Em muốn thay mặt kính máy asus zenfone 3 max 5.5 thì giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.693441,
+         "id": "830457",
+         "field_search": "question",
+         "question": "Bác vui lòng cho mình hỏi?Mấy hôm nay sao mình tìm fifa 15 trong ipad không có vậy bác,mình đang muốn tải game này về máy.Mong nhận được trả lời .Thanks....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.661163,
+         "id": "1001656",
+         "field_search": "question",
+         "question": "AD cho e hỏi cái.E Mới mua XA1 trả góp bên mình giờ e muốn thanh lý hợp đồng luôn và e muốn đổi sang điện thoại khác thì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.660538,
+         "id": "814689",
+         "field_search": "question",
+         "question": "khi gửi tin nhắn trên facebook mà bạn mình chưa đọc vậy nếu mình xóa facebook đi thì bạn mình có đọc được tin nhắn đó không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.656046,
+         "id": "1161000",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thế nào để gõ tiếng Việt trong messenger ở S10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.582144,
+         "id": "1001382",
+         "field_search": "question",
+         "question": "E sài zenfone 2 .. quay phim hoặc ghi âm đều được nhưng khi cắm tai nghe .. quay phim vẫn có tiếng mà sao ghi âm lại không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.55189,
+         "id": "1009073",
+         "field_search": "question",
+         "question": "Laptop hiệu HP của em không nhận chuột USB. Lúc trước chuột còn dùng được . Từ khi cài lại win thì chuột cấm vào laptop không nhận. Đem chuột qua máy khác thì vẫn dùng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

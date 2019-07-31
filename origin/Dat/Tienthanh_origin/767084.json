@@ -1,0 +1,801 @@
+{
+   "id_query": "767084",
+   "total": 35189,
+   "total_current": 100,
+   "max_score": 157.11958,
+   "origin_question": "Hiện tại em đang dùng lap hiệu asus. chỉ mới mua vài ngày nhưng tắt máy không được, máy tắt hơn 1 giờ rồi mà vẫn chưa tắt được. máy cứ để đang tắt. trước khi tắt em đã kiểm tra ứng dụng chạy ngầm thì không có ứng dụng nào đang hoạt động. có lúc bật nguồn thì máy vẫn đang hoạt động nhưng màn hình không sáng. cho em hỏi tình trạng như vậy là sao ạ?  làm sao để khắc phục?",
+   "hits": [
+      {
+         "score": 79.873924,
+         "id": "1165305",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng đt Oppo F7 128 Gb. Hôm trước em có chỉnh, tắt ứng dụng chạy ngầm khi tắt màn hình. Tuy nhiên giờ em muốn bật lại, thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.33329,
+         "id": "763583",
+         "field_search": "question",
+         "question": "Tôi vừa mua laptop Asus tại TGDD gần được 2 tuần rồi. Máy sử dụng bình thường nhưng đôi khi có tình trạng máy tắt quá lâu, đợi hơn 5 phút mà vẫn chưa thấy tắt màn hình. Gấp lap lại thì sau đó mở nguồn không được, tôi phải đợi máy tắt hết pin rồi mới sạc sử dụng lại được. Vậy laptop có bị sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.58035,
+         "id": "1005486",
+         "field_search": "question",
+         "question": "Điện thoại của em đang dùng thì máy báo Hệ thống đã dừng lại nên em tắt nguồn rồi khởi động lại. Nhưng khi khởi động thì máy đứng yên ở chữ ASUS đang chạy chứ không load tiếp, em phải làm sao ạ? Em hiện đang sử dụng zenfone c ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.50371,
+         "id": "1154401",
+         "field_search": "question",
+         "question": "điện thoại em cứ mở nguồn khoảng 1 phút rồi tắt, sao đó tự mở nguồn và tắt liên tục. em đã chạy chương trình lại cho máy nhưng vẫn không được. em đang xài con j2 nhưng quá hạn bảo hành và cũng cũ rồi nên em nghĩ nếu phải thay ổ cứng thì coi như không luôn. Shop có cách nào khắc phục tình trạng trên không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.78756,
+         "id": "814192",
+         "field_search": "question",
+         "question": "Em đang xài iphone 6 đang lướt wed thì bị đứng máy e có nhấn nút tắt nguồn nhưng không được rồi nó hiện xanh màn hình rồi khởi động máy lại khởi động xong vẫn xài bình thường máy bị vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.55652,
+         "id": "1161549",
+         "field_search": "question",
+         "question": "em đang dùng iphone 4 nhưng dạo này nó cứ tự động tắt nguồn khi mà pin vẫn đầy, xong em bật lên thì lại mất sóng và lệch ngày giờ. em phải làm thế nào để hết tình trạng này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.63318,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.360664,
+         "id": "804897",
+         "field_search": "question",
+         "question": "Laptop Dell N5558 i7, win 8.1 của mình mỗi lần tắt máy là máy báo: Một vài ứng dụng đang hoạt động như: GDI+ windows mặc dù mình đã tắt hết tất cả rổi. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.35995,
+         "id": "767176",
+         "field_search": "question",
+         "question": " cho em hỏi bật nguồn laptop nhưng màn hình không sáng mà máy vẫn hoạt động là sao ạ? làm sao để bật màn hình lên ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.138535,
+         "id": "796301",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng iphone 5C lúc để màn hình sáng ít thì cảm ứng không sao nhưng bật sáng nhiều thì cảm ứng lại đơ,tắt màn hình xong bật...cảm ứng lại bình thường nhưng chỉ được 15 20s là lại lặp lại cảm ứng như thế.!!!Vậy cho e hỏi máy bị làm sao ạ...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.567894,
+         "id": "923957",
+         "field_search": "question",
+         "question": "Hiện tại mình đang xài cây 5s mà sao nó cứ tắt nguồn hoài, lúc dùng thì không sao lúc mà mình không dùng thì máy tự tắt nguồn. mình đã thay pin rồi mà vẫn bị. vậy cho hỏi máy mình bị gì vậy? xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.16983,
+         "id": "1157259",
+         "field_search": "question",
+         "question": "Mình hiện vừa mua một iphone x của thegioididong và máy của mình đang mắc lỗi không hiển thị được hiệu ứng trong imessage. Vẫn nhắn tin imessage được nhưng không thể sử dụng hiệu ứng được. Mình có tham khảo trên mạng các cách để chỉnh sửa lỗi thì trong đó có một cách cơ bản là tắt imessage đi rồi bật lại. Nhưng sau khi tắt imessage thì máy lại báo lỗi chờ kích hoạt và mình không mở lại imessage được. Mình có thử tắt máy và thậm chí cài đặt lại máy nhưng khi thử lại thù vẫn mắc phải tình trạng tương tự như trên. Hiện máy của mình vẫn quay về trạng thái ban đầu là nhắn tin văn bản hay sử dụng imoji và digital touch trên imessage vẫn ok nhưng riêng hiệu ứng (bằng cách nhấn giữ phím mũi tên) thì vẫn không được. Bộ phận hỗ trợ có thể giúp mình trường hợp này không. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.11585,
+         "id": "795035",
+         "field_search": "question",
+         "question": "e mua máy tinh asus được vài ngày nhưng khi tắt máy thường bị cheo k tắt được rồi màn hình tối lại.lam thế nào để khắc phục được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.10481,
+         "id": "999382",
+         "field_search": "question",
+         "question": "Không thể cấp quyền ứng dụng vì lớp phủ màn hình, em đã thử tắt lớp phủ màn hình nhưng máy vẫn cứ báo là phải tắt để thay đổi. Máy em dùng là Samsung Galaxy S5 HĐH Android 6.0.1. Sửa và khắc phục lỗi này như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.77107,
+         "id": "1148401",
+         "field_search": "question",
+         "question": "mình đang dùng máy oppo R7S khi tắt nguồn để sạc pin rồi bật nguồn trở lại thì ko hiện lên được màn hình chính, mà chỉ hiện chữ oppo để 30 phút vẫn như vậy. hỏi máy của tôi bị làm sao, có cách nào để xử lý hiện tượng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.525635,
+         "id": "1155841",
+         "field_search": "question",
+         "question": "em đang dùng ipad pro nhưng dạo gần đây em xạc ipad có hiển thị nhưng kh lên pin....lúc xạc ipad rất nóng...lúc tháo xạc em tắt nguồn rồi mở lên tầm 2-3p thì máy nóng trở lại ngay cả khi tắt wf và tắt ứng dụng ngần thì nó vẫn như vậy cho em hỏi a/c là giờ em phải làm tn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.50249,
+         "id": "1020703",
+         "field_search": "question",
+         "question": "laptop em đang dung có tình trạng tắt đột ngột, nhiều lúc em mới mở máy lên chưa mở ứng dụng là nó lại tắt roogi, máy bị vậy là bị lỗi gì vậy ạ, rồi ra thế giới di động có bảo hành k. e cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.28282,
+         "id": "1140275",
+         "field_search": "question",
+         "question": "Hiện tại em đang sử dụng điện thoại oppo a3s .e có cài đặt các cử chỉ khi màn hình tắt như nhấn đúp để mở máy , vẽ chữ o để chụp ảnh ... Nhưng cảm ứng vô cùng chập chờm lúc được lúc lại không cho em hỏi tại sao lại như vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.86931,
+         "id": "776820",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em mới mua iphone 6 64GB được 1 tuần 2 ngày đầu xài máy chạy mượt nhưng mấy ngày sau hiệu ứng thị sai trên màn hình bị giật và mất. Em có tắt máy khởi động lại thì ok nhưng hnay lại bị tiếp. Cho em hỏi máy có bị sao không ạ? Có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.61562,
+         "id": "1157088",
+         "field_search": "question",
+         "question": "Cho em hỏi là e đang dùg Oppo a71 và hiện tại e không xem được ảnh bấm vào thì toàn hiện ra màn hình Trắg đã thử tắt nguồn và bật lại nhưg vẫn vậy. Nhưg gửi hình ảnh qua mess thì vẫn được đồng thời các ứng dụng chỉng ảnh cũng không vào được load lâu .Làm thế nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.353516,
+         "id": "1136557",
+         "field_search": "question",
+         "question": "Dạ chào anh (chị).. Em đang xài laptop Lenovo Yoga 520 mới mua khoảng hơn 6 tháng tại thế giới di động.. Máy có màn hình cảm ứng mà em ít xài cảm ứng trên màn hình.. Đến hôm nay e chạm vào màn hình thì mới phát hiện đã bị vô hiệu hóa.. Em cũng không biết bị từ khi nào.. Lên mạng search thì có chỉ cách bật/tắt màn hình cảm ứng là Disable HDI compliant touch screen.. Em làm trên máy thì không có HDI complint touch screen.. Giờ em phải làm sao để sử dụng màn hình cảm ứng đây ạ! Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.352165,
+         "id": "835292",
+         "field_search": "question",
+         "question": "Mình xài máy tính bảng asus mua hơn 1 năm . Hiện máy bị sọc trắng rồi chuyển sang trang màn hình . Tắt nguồn khởi động lại xài được . Nhưng nay bị như vậy nhưng tắt nguồn khởi động lại hiện màn hình trắng . Vậy là bị làm sao . Cách sửa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.19656,
+         "id": "798262",
+         "field_search": "question",
+         "question": "Em đang chơi game trên iPhone 4 thì bị thoát ra ngoài em đã tắt các ứng dụng ngầm và xóa bớt các ứng dụng nhưng vẫn bị ad cho em hỏi tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.03432,
+         "id": "1019697",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 prime đang dùng thì bị tắt. Em thử bật nguồn, sạc nhưng máy vẫn không lên. Cho em hỏi cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.835686,
+         "id": "827639",
+         "field_search": "question",
+         "question": "Mình đang dùng Asus zenfone max nhưng máy bị đơ cảm ứng không vào được và cũng không tắt máy khởi động lại được?vậy cho mình hỏi cách nào để khởi động lại máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.28092,
+         "id": "813012",
+         "field_search": "question",
+         "question": "Em đang dùng máy tính bàn ASUS , hôm nay khi em đang dùng thì mấy hơi đơ nên em tắt máy đi nhưng khi bật nên thì màn hìn tối không nên được , em bật lại mấy lầ nhưng đều không lên .Cho em hỏi máy em gặp vấn đề gì và khắc phục ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.27534,
+         "id": "1162595",
+         "field_search": "question",
+         "question": "e đang dùng J7 prime mà sao nó cứ tự động tắt nguồn khởi động lại e đã khôi phục cài đặt gốc mà vẫn không khắc phục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.03746,
+         "id": "1167305",
+         "field_search": "question",
+         "question": "Chào b, mình muốn hỏi về dịch vụ sửa đtMình có 1 chiếc Xiaomi Note 4, sáng hôm kia mới bị ngấm nước biểnMình đã tắt nguồn và cho vào túi để hút ẩm nhưng hình như máy bị chập điện và hiện tại phần mềm đang không hoạt động luôn, dù bật nguồn vẫn lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.75143,
+         "id": "1164076",
+         "field_search": "question",
+         "question": "ad ơi hôm qua em có mua con Galaxy A50 về xài được 1 ngày thì e đang chuyển ứng dụng tự nhiên đứng rồi màn hình tối đen ( em cố tắt nguồn nhưng không được )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.73807,
+         "id": "841184",
+         "field_search": "question",
+         "question": "TREO MÁYChào mọi người, mong mọi người cho em xin ý kiến ạ.Em có 1 máy laptop ASUS P550LDV i5 4G 4210U. Trước giờ em sử dụng hay bị lỗi treo máy. Lúc không treo thì vài tháng vẫn không thấy theo, nhưng khi đã treo thì ngày treo mấy lần.Em thấy trên internet có nhiều trang họ bảo khắc phục bằng cách tắt bớt ứng dụng và mở task manager lên.... nhưng thực tình thì em toàn phải tắt máy bằng cách giữ nút nguồn. Nguyên nhân là khi máy em treo thì không sử dụng được bất kì phím nào kể cả sử dụng chuột. Nó giống như dạng chụp ảnh màn hình vậy đấy.Em có dùng 1 số ứng dụng của MS để test lại đĩa cứng thì thấy vẫn tốt. Virut thì em quét thường xuyên. Em lo ngại là do cây RAM mới gắn thêm của em.Lần trước do đi công tác xa, máy em nóng do keo tản nhiệt đã lâu, em đã tự thay keo nên giờ không còn bảo hành chính hãng nữa. Giờ muốn kiểm tra máy thì có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.68681,
+         "id": "906522",
+         "field_search": "question",
+         "question": "Messinger của mình cứ trong tình trạng đang chờ 1 ngày rồi, mình có tắt nguồn và bật lại nhưng vẫn k được. Giúp mình với, mình cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.663124,
+         "id": "1010058",
+         "field_search": "question",
+         "question": "Ad kem đang dùng con obi sf1 mà sao em gọi điện máy vẫn cứ sáng không tắt màn phải làm sao đc ad . chỉ giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.65444,
+         "id": "1134100",
+         "field_search": "question",
+         "question": "Em sử dụng sam sung j3 pro. Hồi trước khi em đang sử dụng thì mày tắt hoài. Em có hỏi bên mình thì được bảo là reset lại máy. Em đã làm theo. Nhưng sau khi reset xong thì máy em ngốn pin rất nhiều. Em không biết làm sao để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.61888,
+         "id": "1139592",
+         "field_search": "question",
+         "question": "Em vừa mua realme c1 và có tải ứng dụng khoá màn hình, Nhưng điện thoại cứ thông báo \" Quyền trình điều khiển thiết bị đang bật, chạm để tắt \" và nếu em tắt thì ứng dụng này dùng k đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.42541,
+         "id": "1023366",
+         "field_search": "question",
+         "question": "cho em hỏi em đang dùng ss A3, mà khi sạc thì bị sụt pin. Nhưng tắt nguồn mở lên sạc vẫn bị như vậy. Chỉ có khi tắt nguồn luôn cắm sạc mới vô pin nhưng vô rất chậm. Vậy máy e bị gì ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.22507,
+         "id": "785174",
+         "field_search": "question",
+         "question": "cho mình hỏi : khi mình đang sài iPhone 4 đang sài thì máy lag rồi mình tắt màn hình sau đó mình mở màn hình nhưng mở không được cắm sạc thì vẫn có tính hiệu còn bật màn hình thì không lên như vậy có phải hư đèn màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.059105,
+         "id": "1156513",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung J7. Dùng cũng được hơn 1 năm rồi bây giờ thì khi em đang xem Youtube hay Facebook thì điện thoại tự dưng tắt. Bấm mấy lần vào màn hình thì nó mới lên. Lúc thì mới sáng lên thì đã tắt còn lúc thì khoảng 1 - 5 phút là đã tắt đi rồi mong ad giúp em. Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.058846,
+         "id": "1158667",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi tại sao máy oppo f1s của em phiên bản cũ thì không sao nhưng vừa cập nhật phiên bản mới nhất thì máy nóng cực và tụt pin không phanh. Mong ad cho em xin cách khắc phục, em đã thử tắt hết ứng dụng chạy ngầm nhưng khi bật mạng hay wifi là máy bắt đầu nóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.05781,
+         "id": "814038",
+         "field_search": "question",
+         "question": "iPad em đang dùng bỗng dưng tắt nguồn,sau đó em đè thử nút Home với Lock,máy hiện logo apple rồi tắt rồi lại hiện rồi tắt,chừng 10' thì máy tắt nguồn hẳn,không mở lên được,em phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.78847,
+         "id": "757758",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em đang xài iPhone 5S mà mỗi khi tắt màn hình là nó bị nháy 1 cái rồi mới tắt hẳn làm thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.76618,
+         "id": "998216",
+         "field_search": "question",
+         "question": "Máy của em là samsung galaxy tap 3. Đang sử dụng thì bị tắt nguồn nhưng không phải bị hết pin, em đã cố khởi động lại mà không được. Vậy máy em bị gì và bên thế giới di động có sửa được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.75679,
+         "id": "1151545",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua oppo A7. Em đã bật tiết kiệm pin và trước khi ngủ em đã tắt hết các ứng dụng ngầm nhưng điện thoại vẫn tuột 2% pin thì có sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.53808,
+         "id": "873963",
+         "field_search": "question",
+         "question": "Máy em là iPhone6 Plus có Jailbreak cho em hỏi mấy hôm nay máy đang dùng 1 lúc thì tự dưng kêu mấy tiếng lạ rồi đơ máy luôn em có tắt nguồn máy rồi bật lại nhưng nó vẫn thế .Em phải làm j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.38805,
+         "id": "1008824",
+         "field_search": "question",
+         "question": " Máy bị tắt nguồn khởi động lại thì bị lên mạng hình android đang nâng cấp cụ chạy khởi động ứng dụng hoài. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.3624,
+         "id": "926243",
+         "field_search": "question",
+         "question": "cho hỏi máy samsung j7 prime , tắt hết ứng dụng, 3g, wifi tắt ứng dụn chạy ngầm. để 1 đêm mất 10% pin như vậy thì có hao pin không hay là bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.3443,
+         "id": "760382",
+         "field_search": "question",
+         "question": "Chào thế giới di động cho mình hởi 1 chút là mình đang sử dụng iPhone 6 nhưng may minh gặp 1 chút vấn đề là nhận được cuộc gọi nhưng mình không nghe được và nói đầu dây bên kia cũng không nghe được. Mình cũng đã thử gọi đi và tình trạng vẫn như vậy khi mình tắt nguồn và khởi động lại thì mọi thứ đều ổn vậy máy mình làm sao và cách khắc phục vấn đề. Máy mình đang sử dụng là hàng chính hãng mua ở Viettel.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.229965,
+         "id": "805144",
+         "field_search": "question",
+         "question": "con ip5 của em không sạc được, lúc mở máy thì nó không thông báo là đang sạc, cũng không thông báo là vào pin, nhưng khi tắt nguồn thì lại sạc được, lúc nó còn 1% thì tắt nguồn, em nghĩ là hỏng rồi nên thử mở lại, lúc mở lên đã thấy nó sạc được 64%, làm cách nào khắc phục được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.20156,
+         "id": "773930",
+         "field_search": "question",
+         "question": "Làm sao để tắt luôn Apps trong win 8 mà không phải vào Task manager tắt thêm lần nữa. vì nếu như không tắt thì các App chạy ngầm và làm máy tính chạy chậm. Nhưng nếu bật nhiều app thì tắt rất tốn công. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.1357,
+         "id": "785191",
+         "field_search": "question",
+         "question": "Cho mình hỏi : khi mình đang sài iphone4 đang sài thì máy lag rồi mình tắt màn hình sau đó mình mở màn hình nhưng mở không được cắm sạc thì vẫn có tính hiệu còn bật màn hình thì không lên như vậy có phải hư đèn màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.08038,
+         "id": "994337",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.08038,
+         "id": "994324",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.8713,
+         "id": "772877",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, khi mình ấn nút nguồn iPhone 6S để tắt máy thì màn hình sáng lên 1 lần rồi mới tắt, không biết máy có bị làm sao không, Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.78599,
+         "id": "1004145",
+         "field_search": "question",
+         "question": "Cho e hỏi mây tính e mới mở liền thì màn hình thì bị tắt đen máy vẫn sáng vẫn thấy con chuột nhưng lại không thể nào sử dụng được. Không thực hiện thao tác tắt máy được luôn ạ Cho e hỏi như thế này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.61823,
+         "id": "1014966",
+         "field_search": "question",
+         "question": "Em sài j5 prime ạ. Máy mua dc hơn 1 tháng. Nhưng máy hay bị hiện tượng em bấm tát màn hình r nhưng lại bật lên. Để cho đt tự động tắt màn hình cũng tự bật lên. Em khắc phục làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.59156,
+         "id": "1007651",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 đang dùng tự nhiên bị tắt tối đen màn hình và không khởi động lại được. Em đã thử xạc pin lại hơn nửa tiếng nhưng vẫn không khởi động được. Cho em hỏi nên làm sao bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.45621,
+         "id": "1001001",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi em đang sử dụng asus memo pad 8 mua đc khoảng 1 năm hôm nay em đang sử dụng 2 ứng dụng là messenger và chơi game xong nó tự động chay màn hình sạc không lên tắt nguồn không dc rồi em để nos hết pin cũng không dc nó vẫn chay màn hình ad ơi giúp em với :(((((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.45502,
+         "id": "1006202",
+         "field_search": "question",
+         "question": "cho em hỏi hiện tại em đang dùng đt sam sung A7(2017), sau khi bấm cập nhật phần mềm máy e tắt và bắt đầu khởi động lại, nhưng khi màn hình hiển thị chữ samsung là nó bị đứng máy luôn, em thử tắt bằng cách bấm đồng thời nút nguồn và nút giảm âm lượng thì máy có tắt nhưng lại khởi động lại ngay lập tức và trở về trạng thái chữ samsung tiếp, cho em hỏi máy em đang bị lỗi gì và cách khắc phục, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.257698,
+         "id": "1152619",
+         "field_search": "question",
+         "question": "J2 prime của e mới mua khoảng 1 tuần pin mau hao khi sử dụng các thao tác đơn giản, khi tắt máy và tắt các ứng dụng chạy ngầm, tắt cả wifi mà vẫn sụt pin là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.241238,
+         "id": "814423",
+         "field_search": "question",
+         "question": "Mình mất ip4s mà khi gọi điện nó báo không liên lạc được, hình như là đang tắt nguồn, nhưng miình cũng tắt dịch vụ định vị trên máy. giờ làm sao để tìm lại được đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.235737,
+         "id": "1146585",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là nokia 3 update lên android 8.1 nhưng sử dụng facebook xong không tắt đc ứng dụng đang chạy. Kiểm tra giống hình dưới đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.232025,
+         "id": "763998",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s khi mình đã cắm sạc và nó đã báo kí hiệu đang sạc nhưng không lên được % pin nào tắt nguồn bật lại vẫn vậy. Cho mình hỏi bây giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.193127,
+         "id": "1011390",
+         "field_search": "question",
+         "question": "Em dùng HTC dual sim 802w. Nhưng ví dụ máy đang load cái gì đó thì em không thể tắt điện thoại bằng nút nguồn mà phải đợi 15s sau cho máy tự tắt. Có cách nào khắc phục không ạ? Thêm nữa là nút tăng âm lượng gần như phản ứng chậm, em tăng âm thì một lúc sau mới được mà nó lên max luôn. Không phải do liệt vì nó vẫn bấm được. Em phải làm gì ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.14022,
+         "id": "816741",
+         "field_search": "question",
+         "question": "Cho e hỏi là e đang dùng iphone 4s nhưng nó rất nóng khi sử dụng dù e chưa bật 3g có thể cho e biết nó bị sao ạ.trong khi đó e đẫ tắt hết các ứng dụng chạy ngầm rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.092216,
+         "id": "1024322",
+         "field_search": "question",
+         "question": "Em dùng samsung galaxy j5. Khi chiều em có bị đổ nước gần đt. Nhưng k bị dính đt nhiều. Hiện tại thì nếu em khóa màn hình thì không khóa được màn hình vẫn sáng ngay màn hình khóa. Hoặc tắt ròi thì lát lại sáng lên. Có khi đang xài thì lại tắt tối và lại sáng trở lại. Cho em hỏi là đt em đang gặp vấn đề thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.079834,
+         "id": "1009680",
+         "field_search": "question",
+         "question": "cho em hỏi tý. Em đang dùng máy sony m4, nhưng tự nhiên nó cứ bị tắt nguồn khởi động lại liên tục. Khi thì nó lên khi thì nó ra màn hình trắng xong lại tắt khởi động lại. Ad giúp em xem nó lỗi gì và cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.019753,
+         "id": "1000430",
+         "field_search": "question",
+         "question": "E đang sử dụng điện thoại Samsung j2 prime. Máy đang sử dụng wifi thì bị đơ mạng, khi vào các ứng dụng thì thông báo \" không có kết nối\". Tắt wifi máy đi bật lại thì sử dụng được 1 lúc thì lại gặp tình trạng như vậy. E mog các ac tư vấn giúp e về tinhd trạng này ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.009632,
+         "id": "1150716",
+         "field_search": "question",
+         "question": "Em đang dùng máy samsung j7 prome hôm qua giờ thẻ sim cứ báo vòng tròn gạch chéo như hình và không gọi, nhắn tín được. Em đã thử tắt nguồn, mở chế độ máy bay, khôi phục cài đặt gốc,...nhưng vẫn không được. Giờ e làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.993473,
+         "id": "1001895",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là ss j7 prime mới mua mà h k tự tắt dk màn hình dù em đã cài tắt sau 15 giây không hoạt động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.929604,
+         "id": "1007299",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, em dùng điện thoại Samsung Galaxy J5 Prime được 2 tháng. Dạo trước vẫn bình thường như 2 đêm nay, điện thoại đã bật máy bay, tắt các ứng dụng chạy ngầm, Wifi,.. trước khi ngủ, nhưng sáng hôm sau thấy lượng pin mất đi 10-13%. Như vậy, pin hay điện thoại em có phải đang có vấn đề gì không ạ? Em muốn xin ý kiến trước khi mang đến cửa hàng kiểm tra. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.91533,
+         "id": "1162835",
+         "field_search": "question",
+         "question": "Làm sao để hiển thị phím tắt ứng dụng trên màn hình khóa Samsung A5 ạ? Mình đã bật hai phím tắt rồi, cũng thử khởi động lại máy nhưng hai phím tắt vẫn không hiện ra trên màn hình khóaVà vấn đề nữa là trong phần cài đặt, những tên mục nào quá dài sẽ bị thay băng dấu ba chấm phía sau, làm sao để khắc phục chuyện này ạ?Mình cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.915005,
+         "id": "871469",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là máy tính em là dell win 10, mới cài win 10 xong thì ngày hôm sau máy nóng, mặc dù đã tắt máy nhưng pin thì cứ hết mặc dù đã sạc đầy. Hiện giờ thì máy không còn nóng như lúc mới cài win 10, em đã thử sử dụng máy mà ko gắn pin, dùng xong tắt máy thì ko vấn đề gì. Khi gắn pin đã sạc đầy vào sử dụng song song với nguồn điện thì cũng ko vấn đề gì. Nhưng khi tắt máy xong để qua 1 đêm thì sáng hôm sau mở máy lên thì máy hết pin... Máy tính em bị vấn đề gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.604103,
+         "id": "761297",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ạ. iPhone 4S của em đang cài IOS9, hôm nay lúc chiều vẫn có thể chơi, gọi, nghe nhạc, log in Insta thoải mái. Nhưng đang chạy thì bỗng nhiên không thể thoát được Insta, dùng phím Home, lock màn hình thì nó tắt luôn đen sì, chừng nửa tiếng sau thì mới lên nhưng vẫn kẹt ở app Insta, dùng cả phím Home ảo, chuyển sang màn hình đa nhiệm rồi nhưng vẫn không thể thoát được, ấn giữ nguồn để khởi động lại máy không được nốt. Em phải làm như thế nào ạ? Và cho em hỏi là TGDĐ nếu có fix lỗi thì giá cả như thế nào ạ, vì em vẫn đang là học sinh cấp 3 nên chưa thể chủ động được. Em cảm ơn các QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.364117,
+         "id": "1165144",
+         "field_search": "question",
+         "question": "cho em hỏi là điện thoại sky 4G LTE của em đang dùng thì đột ngột bị đơ màn hình, tắt đi là không bật lại được thì phải sửa thế nào ạ? (Em đã tháo pin để khởi động lại nhưng không khởi động được)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.3557,
+         "id": "1141563",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi ạ.Em là học sinh cuối cấp nên máy tính như cánh tay phải của em. Tối qua e vẫn dùng máy học được nhưng tối nay e bật lên thì màn hình nó không lên trong khi nút nguồn sáng. Quạt gió thì chạy đc 4s xong ngừng. Vậy lí do tại sao ạ?  Có cách nào khắc phục không ạ? Lap em đang dùng là Acer",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.2907,
+         "id": "1000171",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung Galaxy Tab A6. Nó bị chạy chế độ ngủ đông do ứng dụng CM Lite tự khởi động. Giờ máy em bị đơ luôn, tắt nguồn cũng không được. Em nên làm gì đây ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.28391,
+         "id": "1010059",
+         "field_search": "question",
+         "question": "ad ơi hiện tại em đang dùng máy philips w6610,tình trạng của nó hiện đang dùng bình thường khi vừa tắt máy bật lại điện thoại đen xì màn hình và cắm sac không hiện đèn báo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.219917,
+         "id": "1147396",
+         "field_search": "question",
+         "question": "em dùng oppo joy 1 , nút nguồn bị hư nên không thể dùng nút nguồn , ấn không được nút nguồi Vậy làm cách nào để bật nguồn khi máy đang bị tắt nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.175385,
+         "id": "938774",
+         "field_search": "question",
+         "question": "Máy a7 của mình đang dùng thì bị đơ màn hình, không tắt nguồn được, cũng không khởi động lại được thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.17336,
+         "id": "842172",
+         "field_search": "question",
+         "question": "Em sử dụng ipad mini khi vào ứng dụng trò chơi thì quảng cáo xuất hiện nhưng quảng cáo xuất hiện âm thanh rồ rồ rồi tắt tiếng luôn, vào các ứng dụng khác thì không có tiếng, em phải tắt nguồn rồi mở lại mới có tiếng, thế máy em có bị sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.08736,
+         "id": "1001947",
+         "field_search": "question",
+         "question": "Em đã tắt lớp phủ mà máy vẫn báo là chưa tắt lớp phủ màn hình. Giờ em phải làm như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.024647,
+         "id": "849621",
+         "field_search": "question",
+         "question": "em đang dùng Masstel N470 nè .Máy lag lắm cahyj chậm nx.tốc độ CPU chỉ cos1.GHz Ram 512mb chạy chậm lắm.! nhiều lần chơi game mà máy tự khởi động lại.chơi game khi ra ứng dụng thì thì màn hình có màu xanh đen,tý nữa bật lên lại thì vẫn màu ấy chờ một thời gian dài thì mới bật lên mạn hình đc lại.Có cách nào cho máy chạy nhanh hơn và khắc phục các lỗi đó ko? Máy đó thì có thay CPU tốc độ lớn hơn đc ko?? Và còn có một lỗi nx là khi đang chơi game hay chạy một ứng dụng thì nó cứ hiện ra cái chữ \"hiện ứng dụng ko phản hồi bạn có muốn đóng ứng dụng\" làm sao để khắc phục đây???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.88253,
+         "id": "751920",
+         "field_search": "question",
+         "question": "Lỗi máy ASUS không thể khởi động: Tình hình máy ASUS X555LD của em giờ bật nút nguồn khởi động thì chỉ hiện cái logo của hãng rồi màn hình ko hiện gì lên nữa( chỉ sáng sáng) nguồn và quạt vẫn chạy. Xin các anh/chị các bạn chỉ cách khắc phục lỗi này. em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.813683,
+         "id": "999065",
+         "field_search": "question",
+         "question": "Là như thế này ạEm đang dùng chiếc zenfone c, hôm trước em có root máy và dùng ứng dụng titanium backup để gỡ bỏ và tắt 1 số ứng dụng trong hệ thống sau đó gỡ luôn titanium backup. Bây giờ nó bị lỗi không thể cài đặt được ứng dụng. Vậy cho em hỏi làm thế nào để giải quyết vấn đề này ạ ? nếu chạy lại chương trình thì có được không ạ ? em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.80364,
+         "id": "1009768",
+         "field_search": "question",
+         "question": "Mình xài máy SS J5 Prime , mình muốn muốn tắt lớp phủ màn hình của ứng dụng Picsart , nhưng cái chỗ nút bấm của mình lại không bấm được , có vài ứng dụng như OneNote có thể bấm , còn Picsart thì không . Cho mình hỏi làm sao để tắt lớp phủ màn hình những úng dụng bị như vậy , mình cảm ơn nhiều .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.744453,
+         "id": "1010774",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính bảng Samsung Galaxy Tab 4 10.1 nhưng mà khi sử dụng cạn pin tắt nguồn rồi sạc đến 100% nhưng mà khi mở lên nó chỉ hiện logo sản phẩm và chờ hơn 3 tiếng máy vẫn chưa vào màn hình chính. Mình đã thử Hard Reset nhưng máy vẫn không lên! Mong ad có thể giúp đỡ mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.707855,
+         "id": "999311",
+         "field_search": "question",
+         "question": "Mình muốn treo 1 ứng dụng hoặc 1 game trên oppo neo9 khi tắt màn hình ứng dụng hoặc game đó k bị đóng mở lên nó vẫn hoạt động thì nên làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.658154,
+         "id": "1011459",
+         "field_search": "question",
+         "question": "Khi ấn nút home để mở máy, điện thoại của mình nháy lên 1 phát rồi sau đó mới hiện ra chỗ để nhập mật khẩu mở máy.Kiểu như đang tắt màn hình rồi bật sáng thì nó đều bị như thế.Làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.609222,
+         "id": "809307",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao máy ip4 của em bị rớt sau đó em đã restore và nâng cấp lên ios 7.dùng cỡ mấy tiếng thì điện thoại tắt nguồn mà không bật lên đc,cắm sạc thì chỉ có lên hình trái táo rồi nó tắt rồi nó hiện hình trái tạo lại, mà rút sạc ra thì tắt nguồn mà không lên được cho em cách khắc phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.566772,
+         "id": "1001677",
+         "field_search": "question",
+         "question": "máy em bị rơi xuống biển và khi lên thì e tắt nguồn máy và rẩy nước làm khô rồi 1 tiếng sau em thử bật nguồn lên kiểm tra nhưng máy không lên màn hình, khi gọi điện thì vẫn có chuông, vậy cho e hỏi máy có bị sao không ? (vì cửa hàng xa nên em chờ tới hôm sau mới đem máy tới tiệm được khoảng 16 tiếng )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.559937,
+         "id": "816776",
+         "field_search": "question",
+         "question": "Iphone 5s không bật flash được, camera sau cũng không hoạt động (bị lỗi như hình). Em đã tắt nguồn để qua đêm mở lại vẫn không được, restore bằng itune về lại như mới thì camera sau và đèn flash vẫn không hoạt động!Mong ad và các bác tư vấn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.55349,
+         "id": "1147233",
+         "field_search": "question",
+         "question": "mình đang dùng asus zenfone go, mày mình bị tự động tắt nguồn, và hiện lên logo asus inseach of incredible, lần đầu mình tháo pin, lắp lại mở nguồn thì hiện lên adroid đang tối ưu hóa ứng dụng mình để tối ưu xong thì máy vào dc bình thường. minh đã cài đặt máy về khôi phục gốc, mày bị nhiều lần như vậy. Tuy nhiên mới đây nhất, máy tự tắt nguồn khi khởi động lại thì treo logo asus inseach of incredible không thể lên dc màn hình, ko biết máy mình bị làm sao ạ, mình cảm ơn ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.537846,
+         "id": "1008819",
+         "field_search": "question",
+         "question": "Máy e tắt nguồn mở lên thì bị android đang nâng cấp cho khởi động ứng dụng mà nó ko lên mạng hình cũ chạy khởi động hoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.53023,
+         "id": "755501",
+         "field_search": "question",
+         "question": "Em mới mua 1 chiếc iphone 6s mới được 1 ngày. pin báo 41% nhưng đang xài tự nhiên tắt nguồn mở lên thì báo hết pin  cho em hỏi pin máy em có bị sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.508728,
+         "id": "846185",
+         "field_search": "question",
+         "question": "Nếu laptop đang sử dụng mà ta gấp màn hình xuống (không tắt máy) để một hồi bật lên sài tiếp thì có bị sao không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.488373,
+         "id": "1023702",
+         "field_search": "question",
+         "question": "Ad cho em hỏi chút em sử dụng ứng dụng google photo để lưu ảnh được nhiều nhưng e mới lưu được 1 nửa số ảnh thôi dung lượng của Google photo thì còn nhiều, khi em tải tiếp lên thì máy báo lỗi không tải lên phương tiện được. Em đã tắt máy đi khởi động lại mà vẫn không thực hiện được, ad giúp em với ạ. Máy em dùng là samsung ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.465794,
+         "id": "1151223",
+         "field_search": "question",
+         "question": "Chào TGDD em mới mua dùng điện thoại ASUS ZENPHONE MAX PRO M2 được 35 ngày rồi nhưng thỉnh thoảng điện thoại em tự rung như có thông báo, mà trong khi đó em kiểm tra thì lại không có thông báo gì cả.. em đã vào tắt ứng dụng chạy ngầm, thỉnh thoảng xoá bộ nhớ cache, và khởi động lại máy, nhưng nó cũng không hết, ad có biết bị gì và có cách giải quyết lỗi giúp e không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.440468,
+         "id": "891099",
+         "field_search": "question",
+         "question": "Em đang xài asus X555U . Gần đây em có tải 1 ứng dụng diệt virus cho USB và sau đó vào Firefox thì nó không hiện giao diện firefox nữa mà cứ hiện trang \"Linkzb\" , không tắt được . Cái đó là gì và tắt như thế nào ? Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.36774,
+         "id": "1141274",
+         "field_search": "question",
+         "question": "máy em mơi mua hôm qua hôm nayem khởi động lại thì nó hiện xanh “ windows ready don’t turn off your computer” nhưng không hiện %  Máy em nó để như vậy tầm 15p rồi nó tắt màn hình đen nhưng nút home vẫn còn sáng , mãi không lên phải làm sao đây ạ . với máy em đang còn ít pin em có nên mở máy để như vậy rồi cắm sạc vào đợi ko ạ ? Mong nhận hồi đáp em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.359108,
+         "id": "788440",
+         "field_search": "question",
+         "question": "Em mới mua máy wiko rainbow jam, pin lúc đầu dùng rất bình thường, tới khoảng 20% là 9s xuống 1%, hết pin trong 2phút, từ 30% đã bắt đầu giảm mạnh. Ngoài ra cảm ứng đôi khi không hoạt động, hôm nay còn có tình trạng tự động tắt máy, sau đó máy tự mở ròi lại tắt nữa, liên tục cho đến khi em khởi động lại mới thôi. Máy em mới mua 5 6 ngày j đó",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

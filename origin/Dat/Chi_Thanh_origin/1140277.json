@@ -1,0 +1,801 @@
+{
+   "id_query": "1140277",
+   "total": 31211,
+   "total_current": 100,
+   "max_score": 60.2323,
+   "origin_question": "Em đang xài cái lumia 1320 nhưng wifi không thể mở lên được. Em phải làm như thế nào ạ",
+   "hits": [
+      {
+         "score": 26.50327,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.287567,
+         "id": "925949",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 4 có thể lên IOS 8 được không vậy. Nếu được thì phải làm như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.35023,
+         "id": "828398",
+         "field_search": "question",
+         "question": "Ad ơi, cho em hỏi em xài Lumia 630 hồi lúc sáng lên Facebook bình thường nhưng đến trưa thì em ko vô Facebook được. E xài wifi, e đã thử đổi DNS và proxi nhưng vẫn không vô được. 😐 Ad biết cách nào khắc phục chỉ em với....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.233292,
+         "id": "1158393",
+         "field_search": "question",
+         "question": "Em dùng một cái samsung J6+, ngày trước mở khóa vẫn bình thường nhưng hôm nay, cái mật khẩu (hình nối) ấy ạ, em vẽ không được, chạm vào kéo không lên, khi thả tay ra thì máy báo sai mật khẩu. Em phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.559599,
+         "id": "1160845",
+         "field_search": "question",
+         "question": "cho em hỏi e định nâng cấp win 7 lên win 8 nhưng nó lại hiện lên như thế này , em phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.331532,
+         "id": "821364",
+         "field_search": "question",
+         "question": " AD cho em hỏi máy em win 10 mở ứng dụng không được nó lên ntn phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.286213,
+         "id": "1147094",
+         "field_search": "question",
+         "question": "Sau khi em ấn shutdown để tắt máy tính thì bây giờ mở nguồn không lên được. Em xài máy acer. Phải làm cách nào để máy tính lên nguồn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.977339,
+         "id": "991847",
+         "field_search": "question",
+         "question": "tôi có 1 cái ipad, nhưng bị đơ,không thể nào mở khóa được vậy làm thế nào để khởi động lại máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.948776,
+         "id": "908913",
+         "field_search": "question",
+         "question": " Cho em hỏi như thế này là sao vậy? Em Xài wifi lên mà như vậy.    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.945967,
+         "id": "828714",
+         "field_search": "question",
+         "question": " Em đang xài lumia 435 em không biết sao dạo này em vào Facebook không được vậy. Nó cứ như hình bên dưới    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.698593,
+         "id": "1007631",
+         "field_search": "question",
+         "question": " Màn hình em nút khoá như vậy chỉ cần trượt lên là mở thì không bảo mật được nữa em muốn tắt thì làm thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.639439,
+         "id": "1014655",
+         "field_search": "question",
+         "question": "Em quên mẫu hình nên vào khôi phục cài đặt gốc vẫn phải mở mẫu hình ạ . Phải làm như thế nào ạ.  Em đang sử dụng oppo f1s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.544264,
+         "id": "875268",
+         "field_search": "question",
+         "question": " Em mở cốc cốc lên là nó nhảy sang trang như thế này, em phải làm sao ạ? em cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.531889,
+         "id": "914527",
+         "field_search": "question",
+         "question": " Ad.cho em hỏi....để chia sẻ mạng internet của máy tính sang lumia bằng dây cáp Usb thì phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.528847,
+         "id": "880296",
+         "field_search": "question",
+         "question": "Em muốn kiểm tra 1 cái ip phải hàng dựng không bản quốc tế hay unloc làm như thế nào ạ em có ime của máy 098324xxx ad có thể kiểm tra cho em được không ạ ime 358807058060316",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.313349,
+         "id": "1002507",
+         "field_search": "question",
+         "question": " Samsung J5 em muốn mua nhưng hiện tại em không đến thegioididong lấy hàng được thì phải làm như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.172638,
+         "id": "996539",
+         "field_search": "question",
+         "question": "Em đang xài huawei gr5 2017 mở khoá màn hình bằng vân tay không được, đặt tay lên cảm biến chỉ mở sáng màn hình nhưng vẫn phải nhập mật khẩu là tại sao vậy ạ? ( em đang ios 6 ) phiên bản cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.055208,
+         "id": "1147651",
+         "field_search": "question",
+         "question": "cho em hỏi e đang dùng ip6s ios 12.1.3, tự dưng hôm nay không thể kết nối được appstore em phải khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.053055,
+         "id": "746260",
+         "field_search": "question",
+         "question": " Em đang dùng ios9.1 , em muốn quay về ios 8.4.1 em phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.924871,
+         "id": "776830",
+         "field_search": "question",
+         "question": "Add cho em hỏi em đang sài iphone 5 nâng cấp ios 9.2.1 nhưng sao không nhận được thông báo tin nhắn từ zalo cũng như Facebook trên màn hình khóa phải mở ứng dụng lên mới thấy.Vậy làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.858953,
+         "id": "773668",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 4 của em bị vô hiệu hóa nút ONOFF Wifi thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70204,
+         "id": "998838",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi. Em đang xài iphone 6 plus ạ. Điện thoại em bây giờ cắm sạc thì nó hiện lên hình sét (là đang sạc) nhưng nó không lên phần trăm pin. Mà cứ cắm như vậy thì có thể xài được nhưng rút ra thì lại tuột pin ạ. Ad có thể tư vấn cho e đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.68053,
+         "id": "788557",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ! em đang xài iphone 5 mà sao mỗi lần tải ứng dụng từ appvn là bị như vầy , em phải khắc phục như thế nào mới tải được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.521412,
+         "id": "765542",
+         "field_search": "question",
+         "question": "Bây giờ e chưa có ID apple muốn tạo thì em phải làm như thế nào ạ? Có a chị nào biết có thể chỉ cho em với được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.44981,
+         "id": "828849",
+         "field_search": "question",
+         "question": "em đang dùng máy lumia 820 , có đăng kí mimax hàng tháng . Bây giờ em lên facebook thì máy luôn báo đang gặp sự cố khi nhận dữ liệu . vào messenger thì phải đợi mạng rất lâu nhưng cũng ko được . Vậy em phải làm sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.428541,
+         "id": "831477",
+         "field_search": "question",
+         "question": "em xài iPhone 4 lâu lâu có hiện tượng bị sập nguồn, mở lên lại thì không bắt được wifi nữa phải khởi động lại mới bình thường được, cho em hỏi hiện tượng đó là gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.355589,
+         "id": "1139886",
+         "field_search": "question",
+         "question": "dạ cho em hỏi em muốn mua trả góp 2 sp nhưng một người đứng tên được không ạ, nếu được thì em phải làm như thế nào ạ? em cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.277586,
+         "id": "764826",
+         "field_search": "question",
+         "question": " Em có cái iPhone 3gs sau khi reset thì kích hoạt không được vậy phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.176987,
+         "id": "1013641",
+         "field_search": "question",
+         "question": "Em đang sử dụng oppo f1s lúc em cài vân tay+ mẫu hình để mở khóa bây giờ em quên mẫu hình mở khóa.. vậy làm như thế nào để thay ạ ( vào cài đặt cũng phải mở lại mẫu hình cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.173422,
+         "id": "761297",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ạ. iPhone 4S của em đang cài IOS9, hôm nay lúc chiều vẫn có thể chơi, gọi, nghe nhạc, log in Insta thoải mái. Nhưng đang chạy thì bỗng nhiên không thể thoát được Insta, dùng phím Home, lock màn hình thì nó tắt luôn đen sì, chừng nửa tiếng sau thì mới lên nhưng vẫn kẹt ở app Insta, dùng cả phím Home ảo, chuyển sang màn hình đa nhiệm rồi nhưng vẫn không thể thoát được, ấn giữ nguồn để khởi động lại máy không được nốt. Em phải làm như thế nào ạ? Và cho em hỏi là TGDĐ nếu có fix lỗi thì giá cả như thế nào ạ, vì em vẫn đang là học sinh cấp 3 nên chưa thể chủ động được. Em cảm ơn các QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.14161,
+         "id": "756833",
+         "field_search": "question",
+         "question": "Em có cái máy laptop Vaio win8, nhưng camera không mở được, sạc pin thì không vô mỗi làn xài phải cắm dây thây bất tiện, add giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.122845,
+         "id": "904695",
+         "field_search": "question",
+         "question": " Em đang sài Sony m4 em muốn nâng cấp lên 6.0 vậy em phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.092525,
+         "id": "1134768",
+         "field_search": "question",
+         "question": "A ơi. Máy e bị lỗi security Error. Giờ phải làm như thế nào a. khi mở nguồn cái mở kh đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.065731,
+         "id": "802226",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi laptop của em á hôm bữa bạn em mượn lở bấm làm sao mà hôm nay em kết nối wifi lại không như bình thường được giờ em phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.052454,
+         "id": "1011390",
+         "field_search": "question",
+         "question": "Em dùng HTC dual sim 802w. Nhưng ví dụ máy đang load cái gì đó thì em không thể tắt điện thoại bằng nút nguồn mà phải đợi 15s sau cho máy tự tắt. Có cách nào khắc phục không ạ? Thêm nữa là nút tăng âm lượng gần như phản ứng chậm, em tăng âm thì một lúc sau mới được mà nó lên max luôn. Không phải do liệt vì nó vẫn bấm được. Em phải làm gì ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.016243,
+         "id": "876238",
+         "field_search": "question",
+         "question": " Em không nhận được mật khẩu xác minh app store ạ phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.014874,
+         "id": "1015047",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Em đang xài laptop Asus A541UA I3 7100U WIN 10. bên phải bàn phím em có những số giống như thanh ngang phía trên. Nhưng khi em bấm vào nó k lên số. Có những số thì di chuyển giống mũi tên. Em phải chỉnh lại như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.00718,
+         "id": "1143434",
+         "field_search": "question",
+         "question": "em xài nokia x7 làm thế nào để em viết được tiếng việt có dấu ạ. em kiếm cài đặt nhưng không có.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.998808,
+         "id": "1153776",
+         "field_search": "question",
+         "question": "máy tính bị như thế này phải làm sao ạ?microsoftofice không mở được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.987854,
+         "id": "816845",
+         "field_search": "question",
+         "question": "Cho em hỏi, em có cái iphone 5s của dì bên úc gửi về. Sài rất tốt nhưng giờ nó bị hư màn hình, tối đen không mở lên được. Em có thể đem đến Thế giới di động sửa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.95034,
+         "id": "818348",
+         "field_search": "question",
+         "question": "mình đang xài điện thoại Lg F160s đang chạy android 4.1 bây giờ mình muốn nâng cấp lên android 5.1 có được không nhỉ nếu được thì làm như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.92535,
+         "id": "1022072",
+         "field_search": "question",
+         "question": "Em muốn đăng nhập id apple mới nhưng bị như vậy thì phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.827312,
+         "id": "782400",
+         "field_search": "question",
+         "question": " Con Pc HP của em không bắt được wifi thì làm thế nào ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.679543,
+         "id": "766461",
+         "field_search": "question",
+         "question": "  Lumia có xài tango được không? Sao em tải về mà nó hiện ra như vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.642849,
+         "id": "1154401",
+         "field_search": "question",
+         "question": "điện thoại em cứ mở nguồn khoảng 1 phút rồi tắt, sao đó tự mở nguồn và tắt liên tục. em đã chạy chương trình lại cho máy nhưng vẫn không được. em đang xài con j2 nhưng quá hạn bảo hành và cũng cũ rồi nên em nghĩ nếu phải thay ổ cứng thì coi như không luôn. Shop có cách nào khắc phục tình trạng trên không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.54567,
+         "id": "815464",
+         "field_search": "question",
+         "question": " Iphone lock xài ok không qtv , em đang định mua mà không bik như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.499031,
+         "id": "1000280",
+         "field_search": "question",
+         "question": "cho e hỏi e xài 6plus khi kết nối mật khẩu wifi được, mấy khác cũng kết nối wifi y vậy, vẫn để chế độ wifi mở. nhưng lần sau đt e lại k kết nối được wifi đó ạ, fai đăng nhập mật khẩu để kết nối lại là như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.48634,
+         "id": "779117",
+         "field_search": "question",
+         "question": " Làm ơn cho hỏi, em muốn nhắn tin có dấu thì làm thế nào, em xài iPhone 5S, muốn bỏ dấu nhưng không được?     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.455154,
+         "id": "1011384",
+         "field_search": "question",
+         "question": "E đang xài SS j2 mà e hỏi là địa chỉ email trong tiện ích Ch play trên máy đt nhưng em lại không nhớ được mật khẩu, như vậy e có thể làm cách nào để biết được cái mật khẩu email đó không vậy ạ, a, chị chỉ giúp e với. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.32328,
+         "id": "1004232",
+         "field_search": "question",
+         "question": "QTV cho em hỏi điện thoại Mobiistar Lai 504c xài bình thường thì không sao, nhưng tới khi bật wifi lên là xài được khoảng 5p là sập nguồn trong khi pin còn đầy. Bật nguồn lên lại thì không được, phải cắm sạc thì mới lên. Khi lên nguồn thì không còn % pin nào hết. Cảm ơn QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.285194,
+         "id": "756314",
+         "field_search": "question",
+         "question": "Em dùng iPhone 4 nhưng không hiểu vì sao dạo gần đây máy không thể bắt wifi mạnh như trước mà phải đứng gần cục phát wifi thì mới bắt được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.23182,
+         "id": "846339",
+         "field_search": "question",
+         "question": " Khi nào thì lumia 625 cũng như những lumia khác có thể gọi được video từ Facebook ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.226267,
+         "id": "763845",
+         "field_search": "question",
+         "question": "Cho em hỏi, laptop em đang sử dụng trình duyệt Cốc cốc, nhưng hôm trước đang đang xài thì không mở được trình duyệt nữa, kiểm tra thì thấy phần mềm trong ổ C bị xóa, nhưng em không hề xóa. Em có lên mạng tải về lại nhưng cài không được, cho em hỏi là do laptop hay sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.212559,
+         "id": "1146812",
+         "field_search": "question",
+         "question": "laptop em nó cứ hiên lên thông báo như thế thì phải tắt như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.188852,
+         "id": "1161175",
+         "field_search": "question",
+         "question": "Xin chào ad ạ. Cho em hỏi với: em đang xài Samsung S4 Docomo đang chạy Android 4.4 liệu có thể lên được Android khác không ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.166582,
+         "id": "832839",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop DELL win 8.1 của em đang đòi activate windows, bậy giờ em phải làm như thế nào ạ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.140423,
+         "id": "1143057",
+         "field_search": "question",
+         "question": "Iphone của em đang sử dụng bình thường thì bị sập nguồn có lúc cắm sạc thì lên pin lúc thì không cắm sạc lên cho hỏi máy em bị như thế thì phải khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.13688,
+         "id": "1004046",
+         "field_search": "question",
+         "question": "IPhone5s không mở khóa màn hình được Phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.129343,
+         "id": "918931",
+         "field_search": "question",
+         "question": " Cho em hỏi để mở khóa tài khoản ID APPLE làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.129137,
+         "id": "986331",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone của em là iPhone 6, chạy Ios 10.3.1, máy lúc trưa xài bình thường nhưng bây giờ mở không lên, em dùng thử cách ấn đồng thời nút nguồn và nút home, ấn giữ nút nguồn vẫn không được, đụng vào thì nút home rất nóng, thế em phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.09223,
+         "id": "839697",
+         "field_search": "question",
+         "question": "mình đang dùng 1 chiếc dell nhưng khởi động lên không click được chuột nên không thể đăng nhập được. cách khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.054737,
+         "id": "909791",
+         "field_search": "question",
+         "question": " Em đang xài win 8.1 mà refresh lại không được,nó hiện rra thông báo này là sao ạ,cach khắc phục như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.017311,
+         "id": "755501",
+         "field_search": "question",
+         "question": "Em mới mua 1 chiếc iphone 6s mới được 1 ngày. pin báo 41% nhưng đang xài tự nhiên tắt nguồn mở lên thì báo hết pin  cho em hỏi pin máy em có bị sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.011005,
+         "id": "992651",
+         "field_search": "question",
+         "question": "Em vô Facebook nhưng nó hiện lên như vậy và xem bảng tin không được làm ơn tư vấn giùm em (em xài laptop hiệu dell) em cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.982632,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.96854,
+         "id": "770725",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại FPT S550 có chụp màn hình được không ạ nếu được thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.935043,
+         "id": "882616",
+         "field_search": "question",
+         "question": "Mình đang xài máy laptop của dell, nhưng mà xài được 1 tý thì pin của laptop nó nóng lên vậy cho mình hỏi là nóng như thế có bị sao không và có làm hư pin không? Nguyên nhân của pin nóng lên là gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.908516,
+         "id": "792278",
+         "field_search": "question",
+         "question": "Em đang xài iphone nhưng mà hình em bị bong mặt kính lên một xíu khỏi viền nhựa bên trái. Bây giờ phải làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.892052,
+         "id": "768501",
+         "field_search": "question",
+         "question": "Em đang xài con Dell e6510,cho em hỏi con này bật đèn bàn phím được không và nếu được thì bật như thế nào vậy??? em cám ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.867914,
+         "id": "1133584",
+         "field_search": "question",
+         "question": "Sao em mới mua cái sam sung a7 2018 mà em đang xài nó tắt vậy nó không phải khởi động lại hay cái gi hết nó chỉ giện lên chữ samsung rồi lên liền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.857609,
+         "id": "1165777",
+         "field_search": "question",
+         "question": "Em muốn xóa messenger nhưng chỉ có 2 nút buộc dừng với tắt thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.82475,
+         "id": "874741",
+         "field_search": "question",
+         "question": "mỗi lần mở là máy em hiện lên như thế này, cho em hỏi nó bị lỗi gì vậy anh/chị, làm sao em có thể khắc phục?em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.80125,
+         "id": "765620",
+         "field_search": "question",
+         "question": "Mình đang xài cái iphone 4s mình mới cập nhật phần mềm lên ios 9.2 cập nhật xong thì đang nhập ID Apple không được giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.790564,
+         "id": "749018",
+         "field_search": "question",
+         "question": "Iphone 4s của em đang sử dụng bình thường thì tự động tắt nguồn và không thể mở lên được dù em đã thử cắm sạc. Sau đó em có thể kết nối với iTunes nhưng vãn không có kết nối luôn. Bên mình có thể giúp em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.767517,
+         "id": "1148160",
+         "field_search": "question",
+         "question": "Anh chị ơi...cho e hỏi ạ....e k thể bật wifi lên được nữa ạ, khi bật lên thì nó cứ tắt ạ...e đang xài samsung j8 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.755493,
+         "id": "993452",
+         "field_search": "question",
+         "question": "Đổi lại  máy??? Em vừa mua máy oppo a37(neo9) nhưng em cãm thấy không ưng ý. Em muốn đổi lại máy mới có được không ạ. Nếu được mình sẻ phải làm thủ tục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.749144,
+         "id": "1153342",
+         "field_search": "question",
+         "question": "Cho em hỏi, em đang xài cái Samsung J3 pro tự nhiên nó bị mất đi độ sáng nhưng vẫn có thể khởi động được và thấy được những ứng dụng nhờ đèn ipin của đt khác. Cho em hỏi, đt bị như vậy là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.737206,
+         "id": "766606",
+         "field_search": "question",
+         "question": " Mình nâng cấp lên iOS 9.2 và nó hiện ra là phân tích ứng dụng nhưng không thể ấn được, bây giờ phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.725876,
+         "id": "797717",
+         "field_search": "question",
+         "question": "Em mới mua iphone 5s về chưa được 15 ngày nhưng lên mạng máy chạy rất chậm lúc chạy được lúc không được , thử dùng nhiều wifi các chỗ nhưng vẫn như thế vậy thì e có thể xuống đổi máy khác được k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.673635,
+         "id": "940110",
+         "field_search": "question",
+         "question": "Cho e hỏi, e dùng cái 5s e nâng cấp cái giờ muốn mở khoá thì phải bấm nút home, e muốn quay về lại \"vuốt sang phải\" như trước đây thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.612373,
+         "id": "744401",
+         "field_search": "question",
+         "question": " em dùng win8, lúc mở cốc cốc và google chrome, phải đến 30 phút mới mở lên được. Phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.603458,
+         "id": "823215",
+         "field_search": "question",
+         "question": "Mình nhập mật khẩu đúng nhưng không đăng nhập vào wifi dx xin cho hỏi phải làm như thế nào để khắc phục trên iphone 4s.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.575066,
+         "id": "802127",
+         "field_search": "question",
+         "question": " Em có cài game tập kích trên Zenfone 5 nhưng lại không vào được game em phải làm thế nào mới vào chơi được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.558958,
+         "id": "892614",
+         "field_search": "question",
+         "question": " iPhone 4s đang chạy IOS6 muốn lên IOS9 làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55744,
+         "id": "875264",
+         "field_search": "question",
+         "question": "máy em đang sài là win 8 có cài sẵn phần reader nên có thể đọc pdf, nhưng em đã lỡ cài đặt foxit reader sau đó em gỡ, bây h em không mở pdf bằng reader được, em phải làm sao ạ? em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.498821,
+         "id": "738949",
+         "field_search": "question",
+         "question": " Em muốn xác minh ID Apple nhưng không biết làm như thế nào? Em không tìm được mail về để xác minh. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.498695,
+         "id": "778146",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi Lumia 730 của em sao khi tháo the nhớ ra. cái zalo vs line toàn báo lỗi là sao. Zalo vẫn chạy nhưng được tý lại báo lỗi 501. Line thi goi dien toàn báo lỗi loa mí miro là tắt. Gio làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.496462,
+         "id": "774859",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop em không bắt được wifi vậy phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.489016,
+         "id": "822257",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi. Em xài ip5s lúc vào safari nó cứ hiện thông báo là ip của bạn bị nhiễm virus. Như vậy có bị sao không ad. Nếu vậy phải làm như thế nào ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.48672,
+         "id": "1023651",
+         "field_search": "question",
+         "question": "QTV ơi em xài điện thoại obi mv1 (Cyanogen) mà sao em đang chơi tự nhiên nó sập nguồn rồi em mở lên nó cứ xoay rùi khở động ứng dụng hoài mà nó không lên màn hình nữa.Bây h em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.453379,
+         "id": "796142",
+         "field_search": "question",
+         "question": "Bộ offcie 365 của laptop nhà em yêu cầu phải trả tiền mới được xài ạ. Em phải như thế nào ạ? Nếu em mang ra tgdd cài thì mất khoảng bao nhiêu tiền vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.449646,
+         "id": "1016331",
+         "field_search": "question",
+         "question": "cho em hỏi? nếu e muốn mua hàng trả góp với lãi suất thấp nhưng hiện đang ở trọ vì vậy găọ khó khăn ở chỗ hóa đơn tiền điện, giờ em phải làm như thế nào và có cách nào giải quyết hay giấy tờ nào thay thế được không ạ...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.443165,
+         "id": "757758",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em đang xài iPhone 5S mà mỗi khi tắt màn hình là nó bị nháy 1 cái rồi mới tắt hẳn làm thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.431816,
+         "id": "1022535",
+         "field_search": "question",
+         "question": "e dùng samsung galaxy tab 3 , đt em còn 0 % pin , khi tắt nguồn và gắm dây sạc vẫn hiển thị cục pin xanh và các dấu chấm ( thể hiện đang sạc pin ) nhưng khi mở gnuoonf lại vẫn ) % và kh sạc vào , em phải làm thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.43111,
+         "id": "1159268",
+         "field_search": "question",
+         "question": "cho em hỏi như thế này là như thế nào ạ?giải thích giúp em cái ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.417543,
+         "id": "764936",
+         "field_search": "question",
+         "question": "Em đang xài Samsung Galaxy V. Không biết tại sao mà dt em mở nguồn lên không được, em chỉ thấy hiện lên dòng \"SAMSUNG GALAXY V\" và 1 dấu chấm thang màu đỏ ở trên góc trái màn hình. Đợi mãi mà không thấy lên nguồn. Làm cách nào để dt của em khởi động lại được. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.402996,
+         "id": "751761",
+         "field_search": "question",
+         "question": "  Em xài iPhone 3GS cho em hỏi máy cài được phần mềm phát wifi không và phần mềm nào là phù hợp phải mua hay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.378332,
+         "id": "1154826",
+         "field_search": "question",
+         "question": "xin cho em hỏi em đang xài điện thoại redmi6 đang sử dụng wifi hôm qua được, sao tự nhiên hôm nay lại không bắt được sóng wifi luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.368109,
+         "id": "998666",
+         "field_search": "question",
+         "question": "USB 3G xài như thế nào? Có phải là chỉ cần mua cái USB đó rồi cắm vô LAPTOP là xài được luôn hay sao? Hay là cần đóng phí gì không? nếu có thì nó như thế nào? Mình tính mua USB 3G Viettel mà không biết hoạt động thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

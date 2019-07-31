@@ -1,0 +1,801 @@
+{
+   "id_query": "755839",
+   "total": 30098,
+   "total_current": 100,
+   "max_score": 77.95822,
+   "origin_question": " iOS 9.1 có thể hạ được không ad ơi e muốn hạ xuống và jailbreak dùng bản này chán lắm? ",
+   "hits": [
+      {
+         "score": 43.548515,
+         "id": "777306",
+         "field_search": "question",
+         "question": " Ad ơi mình dùng iphone 5s bản lock 64g ios 9.2 có hạ xuống 9.1 được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.578114,
+         "id": "752004",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi iphone 6 của tôi đang ở ios 9.1, hiện tôi muốn hạ phiên bản có được không, và hạ được xuống ios nào, thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.144524,
+         "id": "804940",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9.1 có thể jailbreak được chưa. Nếu không được thì có thể hạ xuống iOS 8. để jb không. Cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.639763,
+         "id": "749124",
+         "field_search": "question",
+         "question": " Cho em hỏi e đang dùng Iphone 5s IOS 9.1  giờ em muốn hạ xuống IOS 8.4 có được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.267815,
+         "id": "740362",
+         "field_search": "question",
+         "question": " Có thể hạ cấp IOS 9.1 xuống IOS 9.0.2 để Jaibreak được không a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.218597,
+         "id": "804483",
+         "field_search": "question",
+         "question": "Cho em hỏi đã có phiên bản jailbreak 9.2.2 chưa. Và bị em muốn hạ iOS 9.2.1 xuông 8.2.1 cửa Hàng TGDD có hạ xuống được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.819878,
+         "id": "810284",
+         "field_search": "question",
+         "question": " Anh chị ơi. Cho em hỏi bây giờ có thể hạ ios 9.3 xuống 9.1 được không ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.35292,
+         "id": "768475",
+         "field_search": "question",
+         "question": " Thưa qtv có thể hạ ios 9.2 xuống 9.1 được không? thank you tgdd ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.3786,
+         "id": "864282",
+         "field_search": "question",
+         "question": " Chào ad ạ, hiện tại e đag dùng ios bản 9.2 bây giờ em muốn hạ xuống bản ios 8 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.12443,
+         "id": "842787",
+         "field_search": "question",
+         "question": "Cho e hỏi . Em đang dùng iphone 4s và hệ đêu hành ios 9.1 . Nhưng máy có hiện tương giật màn hình khi sử dụng ios 9.1 !!! Vậy e muốn hạ xuống ios 8.4 có được không ạ ??? Và nếu hạ được mất bao nhiêu tiền ạ !!! Mong ac giúp đỡ e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.904537,
+         "id": "770970",
+         "field_search": "question",
+         "question": " iPhone 4s dùng ios 8.4 có thể hạ xuống iOS 6 không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.497536,
+         "id": "923386",
+         "field_search": "question",
+         "question": " E muốn hạ ios 10.1.1 xuống 10.0.2 được không ạ. Em dùng iphone 5 bản 16g ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.339714,
+         "id": "834031",
+         "field_search": "question",
+         "question": " e dùng iphone 5s 16g ios 9.3.1 e có thể hạ ios xuống 9.2.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.331722,
+         "id": "755835",
+         "field_search": "question",
+         "question": " Ad cho em hỏi bây giờ muốn hạ từ ios 9.1 xuống ios 8.4 kiểu gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.329647,
+         "id": "728169",
+         "field_search": "question",
+         "question": " Mình nâng cấp lên iOS 9.1 bây giờ mình muốn hạ xuống iOS 9.0.2 có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.020664,
+         "id": "819318",
+         "field_search": "question",
+         "question": " AD cho e hỏi hiện tại e có thể hạ bản ios 9 xuống ios 8 k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.58206,
+         "id": "786288",
+         "field_search": "question",
+         "question": " Ad cho em hởi là cửa hàng có hỗ trợ hạ iOS 9.1 xuống 8.4 không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.10486,
+         "id": "1022223",
+         "field_search": "question",
+         "question": "Hiện tại iphone 5s của tôi đang chạy ios 10.3.3. Tôi muốn hạ ios có được không. Nếu được thì có thể hạ xuống ios nào. Tks ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.437485,
+         "id": "955736",
+         "field_search": "question",
+         "question": " E đang dùng iphone 4s và dùng ios 9.3.5,e muốn hạ xuống ios 7.1.2 có dk k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.35924,
+         "id": "799627",
+         "field_search": "question",
+         "question": " Ad cho e hỏi với.e muốn hạ cấp ios 9.2 xuống ios7.1 thì có hạ được không ạ.máy e là máy iPhone 5 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.35815,
+         "id": "811517",
+         "field_search": "question",
+         "question": " Hạ cấp từ iOS 9.2.1 xuống 9.1 sau đó jaibreak được không ad...Liên lạc vào mail cho e nha Thanks adKienvi007gmail.com ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.285156,
+         "id": "795400",
+         "field_search": "question",
+         "question": "QTV cho e hỏi ạ. E đang dùng iPhone 4s, e chót lỡ lên IOS 9.1 . Máy dùng dơ với giật quá ạ. Giờ e muốn hạ xuống IOS 7.1 được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.750343,
+         "id": "744279",
+         "field_search": "question",
+         "question": "Chào Ad, Ad cho em hỏi tý được không ạ? Em đang dùng iPhone 4S vừa rồi em có lên phiên bản iOS 9.0.2 mà máy chạy chậm lắm ạ.Bên TGDĐ mình có thể hạ cấp iOS cho em xuống 8.4 được không ạ? Em xin cảm on ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.735401,
+         "id": "786197",
+         "field_search": "question",
+         "question": " ad ơi ad có thể jailbreak cái máy iPhone 4s 16gb ios 9.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.712412,
+         "id": "1018587",
+         "field_search": "question",
+         "question": "ad ơi, bên mình có hạ ios 9.3.5 xuống ios 8.4.1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.55242,
+         "id": "817538",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên TGDĐ có hạ phần mềm iOS 9.2.1 xuống 9.0.1 được không và có chạy Jailbreak iPhone không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.316069,
+         "id": "918285",
+         "field_search": "question",
+         "question": " Muốn hạ hệ điều hành IOS 10.1 xuống IOS 7 có được không và nên đến đâu để được hạ uy tín? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.263643,
+         "id": "769682",
+         "field_search": "question",
+         "question": " Cho hỏi Thế giới di động có hạ cấp được iOS 9.1 xuống 9.0.2 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.112438,
+         "id": "882147",
+         "field_search": "question",
+         "question": " cho mình hỏi ở các hệ thống TGDD có thể hạ bản ios và jailbreak đựơc cho iphone 4s ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.09116,
+         "id": "791472",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng ios 9.2.1 giờ muốn hạ xuống được không ạ , nếu được ad có thể hướng dẫn được không ? Tks trước ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.035778,
+         "id": "875706",
+         "field_search": "question",
+         "question": " e sử dụng ip5 ios 9.3.4 giờ e muốn hạ xuống ios 9.2 được ko ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.850676,
+         "id": "1000341",
+         "field_search": "question",
+         "question": "Em muốn hạ ios 11 xuống ios 9 có được không ạ? Máy em dùng ios 11 xuống pin nhanh và sập nguồn khi dùng các app nặng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.778465,
+         "id": "918031",
+         "field_search": "question",
+         "question": " Ad cho em hỏi bây giờ mình có thể hạ ios 10 xuống ios cũ đc không ạ vì sài ioss 10 máy em lag lắm ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.549114,
+         "id": "755148",
+         "field_search": "question",
+         "question": " Máy mình đang ở iOS 9.1 mình muốn hạ cấp xuống 9.01 hoặc thấp hơn có được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.510523,
+         "id": "791158",
+         "field_search": "question",
+         "question": " AD cho e hỏi, giờ e muốn Hạ 3GS ios 6.1.6 xuống ios 6.0.1 được k ạ. E cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.281431,
+         "id": "750367",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em update lên ios 9.1 giờ em muốn xuống ios 8 thì có xuống được không và có phải jailbreak không ạ em rất muốn xuống ios 8 nhưng em không muốn jailbreak em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.078226,
+         "id": "773806",
+         "field_search": "question",
+         "question": "Mình có đang dùng iPhone 5S và chạy iOS 9.1 nhiều lúc máy khá là giật, mình không biết do máy của mình có virus hay tại chạy iOS 9.1.nếu do iOS 9.1 thì mình có nên hạ xuống 8.4 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.653984,
+         "id": "766525",
+         "field_search": "question",
+         "question": " Em đang có iPhone 5s hệ điều hành iOS 9.1 giờ em muốn hạ xuống iOS 8.4 thì làm cách nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.51464,
+         "id": "746880",
+         "field_search": "question",
+         "question": "Quản trị viên cho mình hỏi, dùng iPhone 4S nhưng mình đã nâng cấp lên iOS 9.1 thì giờ mình có thể hạ xuống 8.4 không? Nếu được thì làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.46061,
+         "id": "786593",
+         "field_search": "question",
+         "question": " Ad oi cho em hỏi. em đang xài ios 9.2.1 muốn hạ xuống 9.0.2 có được không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.267519,
+         "id": "1150998",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 6 và đang xài ios bản 12.1.3 nhưng mình muốn hạ cấp có được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.245544,
+         "id": "834311",
+         "field_search": "question",
+         "question": " iPad của em đang chạy ios 9.3.2 rất tốn pin và chậm em muốn hạ xuống ios 8.4.1 được không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.18458,
+         "id": "756115",
+         "field_search": "question",
+         "question": " Cho em hỏi ip5s phù hợp với ios mấy vậy ạ. Và khi nâng cấp lên 9.1 thì có hạ xuống được không ạEm cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.944822,
+         "id": "747098",
+         "field_search": "question",
+         "question": " e mới lên ios9.1 .. vậy có hạ được xuống ios 9.0.2 không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.596354,
+         "id": "754567",
+         "field_search": "question",
+         "question": " Em hạ cấp ios 9.1 về lại ios 8 được không admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.55453,
+         "id": "802661",
+         "field_search": "question",
+         "question": " CHo mình hỏi đang dùng iOS 9.2.1 có hạ cấp xuống iOS 8.4.1 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.517447,
+         "id": "1150329",
+         "field_search": "question",
+         "question": "Em muốn hạ android 9 xuống 8 có được không ạ và em muốn nhờ tgdd hạ giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.449081,
+         "id": "771222",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình có thể hạ từ ios 8 xuống 7.1 được không ạ! Bởi vì em không hài lòng với ios 8 nếu có thể hạ xuống 6.1.3 cũng được mong chờ phản hồi từ anh chị ?​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.365417,
+         "id": "1145667",
+         "field_search": "question",
+         "question": "Bây h có hạ đc ios 12 xuống 11 nữa k các bạnHaizz ngủ dậy thấy n tự lên ios 12 chán quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.27983,
+         "id": "934244",
+         "field_search": "question",
+         "question": " Anh em có thể hạ cấp ios 9.3.5 xuống 9.2.1 đc không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.239525,
+         "id": "854792",
+         "field_search": "question",
+         "question": " Cho em hỏi Iphone 5s muốn hạ ios xuống được không vạy anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.205614,
+         "id": "780992",
+         "field_search": "question",
+         "question": " Mình muốn hạ từ IOS 9.2.1 xuống IOS 6 được không các bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.146492,
+         "id": "812076",
+         "field_search": "question",
+         "question": " Máy em chạy iOS 9.3 muốn hạ xuống thì reset máy có tụt xuống có được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.811865,
+         "id": "815386",
+         "field_search": "question",
+         "question": " Cho em hỏi làm sao để hạ cấp ios 9.2 xuống 9.1? Cám ơn mọi người trước... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.79341,
+         "id": "777198",
+         "field_search": "question",
+         "question": " Cửa hàng có thể hạ cấp iphone 4 ios 7.1.2 xuống 6.1.2 được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.599009,
+         "id": "1161691",
+         "field_search": "question",
+         "question": "Có thể hạ hệ điều hành androi A7 2018 9.0 xuống phiên bản góc đc ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.38854,
+         "id": "801680",
+         "field_search": "question",
+         "question": " cho em hỏi iPhone 5 iOS 9.1 có thể hạ cấp về 9.0.2 hay gì đó không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.355492,
+         "id": "800199",
+         "field_search": "question",
+         "question": " Máy iPhone 6 hiện đang ở bản iOS 9.2 liệu Shop hạ xuống được 8.4 không và mức phí là bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.209454,
+         "id": "996243",
+         "field_search": "question",
+         "question": "cho e hỏi điện thoại Q EDGY có hạ được bản cập nhật xuống không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.206192,
+         "id": "1144270",
+         "field_search": "question",
+         "question": "Cách hạ bản Android 6.0 xuống bản cũ 3.0 Được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.074535,
+         "id": "938493",
+         "field_search": "question",
+         "question": " Mình dùng iphone 5 phiên bản 10.2 mình muốn hạ xuống 9.3.2 có đk k ạ.? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.966032,
+         "id": "757950",
+         "field_search": "question",
+         "question": "  Anh ơi cho em hỏi máy của em iPhone 5S bây giờ iOS 9.2 có hạ xuống iOS 8 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.948338,
+         "id": "793549",
+         "field_search": "question",
+         "question": " Ad ơi e mua hạ từ os 9.2 xuống 8.4 cua iPhone 4s tgdd có làm đc không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.946445,
+         "id": "820086",
+         "field_search": "question",
+         "question": " Mình không biết hạ ios 9.2 xuống 8.4 ,cửa hàng có Hộ trợ hạ cho minh ko??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.807772,
+         "id": "1142675",
+         "field_search": "question",
+         "question": "Có cách nào để hạ từ ios từ 12.1.2 xuống lại 12.1.1 ko ạ và hạ xuống máy có bị làm sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.761084,
+         "id": "895520",
+         "field_search": "question",
+         "question": " Em đang dùng 5s phiên bản 10 nhưng em muốn hạ xuống phiên bản 9 đc k ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.656017,
+         "id": "749588",
+         "field_search": "question",
+         "question": " Mình đang xài iOS 7.1.2, nhưng máy chạy chậm quá, giờ muốn hạ xuống iOS 6.1 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.492632,
+         "id": "810227",
+         "field_search": "question",
+         "question": " bạn ơi mình muốn hỏi mình dùng iphone 4s nâng cấp lên 9.3 rồi có hạ được về ios 7 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.173946,
+         "id": "781697",
+         "field_search": "question",
+         "question": " Cho em hỏi là iphone 5s chạy hệ điều hành ios 9.1 có hạ cấp xuông ios 7.1.2 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.105877,
+         "id": "1154082",
+         "field_search": "question",
+         "question": "Chào ad! E xài 8 plus nâng cấp lên ios 12.1.4 giờ e muốn hạ xuống thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.103764,
+         "id": "773712",
+         "field_search": "question",
+         "question": "Add ơi cho em hỏi là iPhone nâng cấng hệ điều hành có hạ được xuống không ạ ? Ví dụ như 4S chạy 8.4 thì có hạ xuống được không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.050138,
+         "id": "1134886",
+         "field_search": "question",
+         "question": "Bên ad có hạ phiên bản android 8.0 xuống 7.1 hay 6. Cho đt j3 pro  Được không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.035671,
+         "id": "815052",
+         "field_search": "question",
+         "question": "Chào ad hiện tại e có con ip4s mà lên ios 9.3.1 bây giờ hạ xuống 1 bản được không chứ e xài wifi lúc được lúc không với lại máy lâu lâu hay bị đợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.011616,
+         "id": "791770",
+         "field_search": "question",
+         "question": " các anh ơi cho em hỏi hiện tại có thể hạ cấp từ ios 9 xuống 8 không ạ,em xin chân thành cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.984695,
+         "id": "878315",
+         "field_search": "question",
+         "question": " Ad muốn hạ xuống 9.3.3 mà nó toàn hiện lên thông báo này không. Là nó bị gì zạ ad ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.931534,
+         "id": "757877",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 4S mà lỡ cập nhật lên ios 9.2 rồi, bây giờ còn có thể hạ xuống 8.4 được không?Cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.907074,
+         "id": "990372",
+         "field_search": "question",
+         "question": "Em muốn từ ios 11 hạ xuống ios 10.3.2 thì làm sao ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.906742,
+         "id": "817121",
+         "field_search": "question",
+         "question": " Em muốn hạ IOS 9.3.1 xuống 9.2.1 được không ạ? Mong ADMIN rep nhanh ạ. Em cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.824463,
+         "id": "1158355",
+         "field_search": "question",
+         "question": "MÌNH MUỐN HẠ IOS 12.12 XUỐNG 12.11 THÌ LÀM THẾ NÀO?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.685053,
+         "id": "791358",
+         "field_search": "question",
+         "question": " ad cho e hoi ios 9.2 co hạ được xuống 8.4 k ạ. neu co a co thể hướng dẫn chi tiết đc k ạ.. thank a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.627354,
+         "id": "750594",
+         "field_search": "question",
+         "question": " Ad cho em hỏi có thể hạ cấp hệ điều hành từ ios 9 về ios 8 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.549492,
+         "id": "802211",
+         "field_search": "question",
+         "question": " AD ơi cho em hoi. giờ em muốn hạ cấp iPhone 5 của em xuống 8.4 dk không ạ. hiện tại em đang sử dụng ios 9.2.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.548428,
+         "id": "1138914",
+         "field_search": "question",
+         "question": "Minh dùng dt LGV20 bản TMOBILEMình muốn hạ cấp ANDROI8.0 xuống 7.0 Cho mình hỏi ở TGDD mình có cài không ạThanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.54277,
+         "id": "761994",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có em iphone 4s đang chạy ios 8.2 giờ mình muốn hạ xuống 6.1.2 có được không nhỉ nếu hạ được thì có ảnh hưởng gì đến máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.461359,
+         "id": "904797",
+         "field_search": "question",
+         "question": " Em muốn hạ ios 10 xuống ios 9 được nữa không mấy a chị dung ios 10 tốn pin quá ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.388512,
+         "id": "757257",
+         "field_search": "question",
+         "question": "Chào các Ad, mình dùng iPhone 5 32GB lỡ cài iOS 9.2 mất rồi, mà máy dùng không được như trước, xin hỏi giờ hạ hệ điều hành xuống mức nào thì được và phù hợp. Tại TGDD có nhận dịch vụ này không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.337229,
+         "id": "879091",
+         "field_search": "question",
+         "question": " ip 4s ios 9.3.3 có hạ xuống được ios gì ko ạcàng thấp càng tốt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.320345,
+         "id": "990431",
+         "field_search": "question",
+         "question": "Hiện tại e đang dùng ipad air 2 và chạy ios 11 bản beta. Máy có hiện tuọng giật lag. Cho e hỏi có cách nào để hạ xuống ios 10.2.3 k. Bao giờ ra bản chính thức ios 11 thì máy có tự cập nhật bản ms nhất k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.296673,
+         "id": "920601",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, e đag dùng ip4s mà e lỡ nâng cấp lên ios 9.3.5 . Máy lag quá, giờ e muốn hạ ios xuống đc k ad. Mà máy e bị mất mật khẩu icloud r ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.29192,
+         "id": "819018",
+         "field_search": "question",
+         "question": " iphone 4 chạy ios 7.1.2 hiện tại có thể hạ cấp xuống ios 6.1.3 đc ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.284388,
+         "id": "769907",
+         "field_search": "question",
+         "question": "Cho e hỏi e đag dùng 5s mà lỡ lên 9.2 bây giờ e muốn dùng 8.4 thì có hạ được không ạ tại lên 9.2 máy hay đơ lắm và không được như trước kia nửa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.233603,
+         "id": "1146755",
+         "field_search": "question",
+         "question": "Tôi có thể đem điện thoại ra nhờ nhân viên hạ xuống ios 10.3.3 dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.216415,
+         "id": "821673",
+         "field_search": "question",
+         "question": " Cho mình hỏi tgdd có hạ từ ios 9 xuống ios 8 không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.170315,
+         "id": "834562",
+         "field_search": "question",
+         "question": " Cho em hỏi cố thể hạ phiên bản ios trên iphone không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.137081,
+         "id": "756654",
+         "field_search": "question",
+         "question": " Cho mình hỏi thế giới di động có hạ cấp ios 9 xuống 8 cho người dùng không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.134548,
+         "id": "992616",
+         "field_search": "question",
+         "question": "Cho e hỏi là iphone5s ở 10.3.2 có thể hạ xuống được ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.085754,
+         "id": "842363",
+         "field_search": "question",
+         "question": " Tgdd có hạ từ ios 10 beta xuống úo 9 được không ạ? Ios 10 lag quá! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.083786,
+         "id": "924773",
+         "field_search": "question",
+         "question": " Bên mình có hạ cấp iphone từ ios 10 xuống ios 9 được k ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.966373,
+         "id": "774267",
+         "field_search": "question",
+         "question": " iOS 9.1 Jailbreak chưa ạ, có thể về 6.1.3 được chưa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,802 @@
+{
+   "id_query": "1014444",
+   "total": 26302,
+   "total_current": 100,
+   "max_score": 61.50897,
+   "origin_question": "Cho hỏi s8 plus bảo hiểm rơi vỡ cả 2 mặt hay sao ad",
+   "short": "bảo hiểm rơi vỡ đt",
+   "hits": [
+      {
+         "score": 30.70945,
+         "id": "1010165",
+         "field_search": "question",
+         "question": "Xin chào. Hiện mình đang sử dụng chiếc Galaxy S8+. Lúc mua có bảo hiểm rơi vỡ. Máy mình giờ đã rơi vỡ kính lưng và trầy xuốc khung viền. Nên mình hỏi muốn thay mới sẵn đỗi màu cho chiếc đt thì bảo hiểm rơi vỡ được tính như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.86947,
+         "id": "780572",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại Samsung note 5 và có dán mặt kính chống vỡ có bảo hiểm rơi vỡ bảo hành 3 tháng. Khi điện thoại của mình bị loang màn hình. mình mang đến thế giới di động để bảo hành, thì được trung tâm bảo hành báo là bị vỡ màn hình phải thay mất phí và bảo mình phải trả tiền với giá 2900.000 nghìn. Nhưng gói bảo hiểm rơi vỡ vẫn còn hiệu lực. Mình được nhân viên chăm sóc khách hàng bảo là bảo hiểm chỉ bảo hiểm màn hình bên ngoài còn máy của mình bị vỡ màn hình bên trong nên không được bảo hiểm. Cho mình hỏi mình dán màn hình có bảo hiểm rơi vỡ màn hình như vậy và được nhân viên chăm sóc khách hàng trả lời chỉ bảo hiểm màn hình bên ngoài có đúng không? Vì sao thegioididong lại có bảo hiểm như vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.983072,
+         "id": "1005425",
+         "field_search": "question",
+         "question": "Xin chào. Hiện tại thì chiếc Galaxy s8+ của mình bị vỡ mặt kính lưng và trầy xước cạnh viền. Không biết chi phí thay thế bao nhiêu ạ. Lúc mua có bảo hiểm rơi vỡ gì đó. Không biết cách thức thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.197844,
+         "id": "1133311",
+         "field_search": "question",
+         "question": "Mình mua Xiaomi redmi 5 plus từ tháng 62018, giờ máy mình bị rơi vỡ thì đc bảo hành ra sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.945564,
+         "id": "809146",
+         "field_search": "question",
+         "question": " QTV cho hỏi thay mặt kính iPhone 6 Plus rơi vào khoản bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.853092,
+         "id": "1023303",
+         "field_search": "question",
+         "question": "Điện thoại samsung s8 của mình bị rơi và vỡ màn hình. Vậy cho mình hỏi giá thay màn hình là bao nhiêu và thời gian gửi bảo hành là bao lâu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.699167,
+         "id": "1135919",
+         "field_search": "question",
+         "question": "cho em hỏi ạj4 2018 em mua đc gần 6 tháng rồi,hôm nay bị vỡ hình như là vỡ màn trong và pin bị biến dạng rồi,vỏ thì bị sứt,,có vẻ thân máy bị cong hành chữ S,bây giờ sửa thì tốn nhiều k ạ,mà hình như có bảo hiểm rơi vỡ trong 6 tháng phải k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.591162,
+         "id": "1000281",
+         "field_search": "question",
+         "question": "Mình vừa mua s8..nhưng bị rơi vỡ ốp lưng sau...vậy mình có đc b.hành j ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.43288,
+         "id": "1159508",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy ss s8 plus hở viền mặt sau có bị ảnh huởg gì ko ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.179771,
+         "id": "1151004",
+         "field_search": "question",
+         "question": "Nếu màn hình iPhone bị rơi vỡ màng hình thì nên ép kính hay thay vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.434032,
+         "id": "776289",
+         "field_search": "question",
+         "question": "Em mua máy iPhone 6 có dán miếng dán bảo vệ màn hình chống vỡ . Nhân viên tư vấn miếng dán sẽ bị vỡ ko làm trầy màn hình ko bể màn hình . Bây giờ em làm rơi nhẹ nhưng miếng dán ko bị vỡ mà mặt kiếng iPhone vỡ thì sao vay TGDD . Xin cho em hỏi nếu nhân viên tư vấn như vậy thì lỗi của ai ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.284924,
+         "id": "1135532",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mình có thay mặt sau của máy samsung s8 plus không ạ? Em cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.257961,
+         "id": "995701",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi đt A5 2017 khi làm rơi vỡ lớp kính bên ngoài màn hình mà đt có bảo hành vàng từ hãng. Thì khi bảo hành là thay nguyên lớp kính hay là thay cả màn hình bên trong ạ? Và chi phí bảo hành là bao nhiêu ạ? E xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.950823,
+         "id": "1136411",
+         "field_search": "question",
+         "question": "mặt kinh nokia 6.1 plus bị vỡ , chô em hỏi chi phí ép kính lại bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.931023,
+         "id": "1002335",
+         "field_search": "question",
+         "question": "cho mìh hỏi về Galaxy J7 prime bị vỡ mặt kính ạ và các quy chế bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.890362,
+         "id": "1000713",
+         "field_search": "question",
+         "question": "cho e hỏi .. điện thoại e mua được 7 tháng .. bị rơi vỡ màn hình .. z có được bảo hành k z ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.741423,
+         "id": "1008959",
+         "field_search": "question",
+         "question": "Gói bảo hành rơi vỡ màn hình của galaxy j7 prime thế nào vậy admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.258463,
+         "id": "1150370",
+         "field_search": "question",
+         "question": "Máy galaxy s8 của e sao k có phần bảo mật vân tay,mống mắt,khuôn mặt vậy.e tìm hết tất cả trong phần cài đặt rồi nhưng vẫn k có những tính năng đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.130938,
+         "id": "782800",
+         "field_search": "question",
+         "question": "TGDĐ có thay mặt kính iPhone 6s ko. Giá là bao nhiêu vậy ?MÌnh mới mua  iPhone 6s ở TGDĐ mới rơi khoảng cách 20cm mà đã bị vỡ mặt kính, híc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.039627,
+         "id": "1141532",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính laptop em mua cách đây ko lâu thì làm rơi bị méo 1 góc cạnh máy tính, màn hình ko vỡ nhưng bị vỡ nhẹ bên trong nên màn hình có dấu hiệu nứt. Vậy e phải làm sao ạ? Cái này có thể bảo hành hay gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.993942,
+         "id": "1165921",
+         "field_search": "question",
+         "question": "Ép màn hình iphone XSMax bao tiền vậy ad.Mình bị rơi vỡ ở 2 góc điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.920314,
+         "id": "1002129",
+         "field_search": "question",
+         "question": "chào bạn ! J7 Prime của mình bị vỡ mặt kính . nghe bảo phải ép lại Vậy phải cho hỏi nếu đem đến TGDD phải mất bao lâu mới xong , và giá cả bao nhiêu Chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.879568,
+         "id": "1162913",
+         "field_search": "question",
+         "question": "Em có mua một cái máy galaxy a9 ở thế giới di động bị rơi vỡ màn hình, và đang có bảo hành rơi vỡ 6 tháng vậy em muốn thay màn hình mới có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.792193,
+         "id": "1145622",
+         "field_search": "question",
+         "question": "A chị cho em hỏi tầm giờ em nên mua iphone7 plus hay note8 với s8 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.759881,
+         "id": "1011835",
+         "field_search": "question",
+         "question": "Tôi mua chiếc galaxy j7 prime tháng 12 năm trước lúc đó có bảo hành rơi vỡ màn hình. Sao nhân viên bên thế giới di động bảo không có là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.676927,
+         "id": "1000272",
+         "field_search": "question",
+         "question": "Cho em hỏi dán điện thoại ip6s hết bao nhiêu tiền ạ. Dán cả 2 mặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.568774,
+         "id": "1165215",
+         "field_search": "question",
+         "question": "Điện thoại iphonx bị rơi vỡ màn hình và dùng bình thường nhưng sáng hôm sau bị loạn tự nhảy cảm ứng. Cho e hỏi bây giờ thay màn hình ngoài thì có hết được không ạ hay cả main nữa ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.55915,
+         "id": "1163100",
+         "field_search": "question",
+         "question": "Hi. Iphone 6s mình vừa mình bị rơi vỡ màn hình cảm ứng. Mình có đc bảo hành ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.201781,
+         "id": "1021692",
+         "field_search": "question",
+         "question": "cho mình hỏi s8 mới mua dc 2 tháng giá 18.490.000 full box . còn bảo hành ... giờ muôn đổi sang máy mới thì bù trừ bao nhiêu ạ ... ad cho e cái giá.. thanks ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.121632,
+         "id": "1153501",
+         "field_search": "question",
+         "question": "cho hỏi là so về tất cả mọi mặt thì nên mua chiếc s7 active hay v20 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9876175,
+         "id": "1133894",
+         "field_search": "question",
+         "question": "Cho em hỏi thay mặt kính lưng của s8 giá bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.899117,
+         "id": "784804",
+         "field_search": "question",
+         "question": " Dán kính cường lực cho Ip 5s bao nhiêu tiền vậy ạ? Cả 2 mặt luôn hoặc mặt trước thôi. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.860529,
+         "id": "1016857",
+         "field_search": "question",
+         "question": "cho mình hỏi bảo hành rơi vỡ của Samsung bao lau là lấy duoc may , toi dc gan 1 thang roi ko thay gi mặc dù hồ sơ đã duyệt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.852444,
+         "id": "998101",
+         "field_search": "question",
+         "question": "Điện thoại e bi vỡ mặt kính thì tgdd co gửi hộ tới trung tâm bảo hành ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.832199,
+         "id": "1023172",
+         "field_search": "question",
+         "question": "Cho hỏi máy ss s7 edge còn bảo hành,giờ muốn đổi sang ss s8 plus thì điều kiện như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.8230915,
+         "id": "1023041",
+         "field_search": "question",
+         "question": "Điện thoại mình có mua gói bảo hành rơi vỡ. Nhưng hóa đơn mất rồi (mất bóp). Giờ bị rơi nứt có được bảo hành ko? thông tin trên hệ thống của tgdd chắc vẫn có lưu đúng ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.822072,
+         "id": "761386",
+         "field_search": "question",
+         "question": " Anh chị cho mình hỏi máy iPhone 6 vỡ mặt kính có thay được không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.5491085,
+         "id": "1009390",
+         "field_search": "question",
+         "question": "ad cho e hỏi muốn đặt blueboo s8 phải làm sao ạ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.517889,
+         "id": "820475",
+         "field_search": "question",
+         "question": "e đang có iphone 5s và bị rơi vỡ màn hình nứt hết kính. Vậy e phải thay cả màn hình hay chỉ kính thôi ạ. Nếu mà thay màn hình thì giá của màn hình là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.517471,
+         "id": "1136729",
+         "field_search": "question",
+         "question": "Mình có 1 máy Asus Zenfone 3 mà bị hư chui sạc và vỡ kính mặt trước và mặt sau thì bên TGDD có bảo hành được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.452955,
+         "id": "1158594",
+         "field_search": "question",
+         "question": "Em dùng samsung A6+, mặt kính che camera phía sau bị vỡ (chỉ vỡ mặt kính che không ảnh hưởng tới camera). Cho em hỏi thay hết bao nhiêu tiền và có lâu không. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.40592,
+         "id": "1017683",
+         "field_search": "question",
+         "question": "Mình có 1 chiếc ip6s bị rơi vỡ. giờ muốn kiểm tra main còn sống hay chết thì phải làm cách nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.339087,
+         "id": "1135252",
+         "field_search": "question",
+         "question": "Diện thoại 6.1 plus  vỡ màn hình gửi bảo hành bao lâu thì được lấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.327177,
+         "id": "1165406",
+         "field_search": "question",
+         "question": "cho e hỏi e muốn dán chống xước 2 mặt cho iphone  7 plus giá bao nhiêu thế ạ. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.257973,
+         "id": "1160665",
+         "field_search": "question",
+         "question": "Mình mới mua con Xiaomi note 6 pro đc 2 tháng. Giờ m mới để khi nghe nhạc thì 1 bên loa ko có âm thanh. Điện thoại chưa hề rơi vỡ hay bị và đập mạnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.250521,
+         "id": "1003398",
+         "field_search": "question",
+         "question": "Mình sd điện thoại Sony z3.bị rơi vở mặt kính cảm ứng và miếng dán sau.nếu thay cả thì hết bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.228143,
+         "id": "778689",
+         "field_search": "question",
+         "question": " Cho hỏi iPhone 5s phát cả 2 loa hay chỉ 1 loa vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.167511,
+         "id": "1160336",
+         "field_search": "question",
+         "question": "Ad ơi em vừa làm rơi nứt mặt kính điện thoại j2pro cho em hỏi có thể thay mặt kính đó được không ạ và nếu thay thì giá bao nhiêu ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.127948,
+         "id": "995667",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung A9 pro nó bị vỡ mất mặt kính cường lực. Cho mình hỏi thay mặt kính thì giá bao nhiêu ạ thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.076439,
+         "id": "1015054",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi máy e mới mua được 2 tháng vẫn trong thời gian bảo hành nhung e lowc tay làm vỡ màn hình thì đi sửa mất nhiều phý k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.040157,
+         "id": "1000648",
+         "field_search": "question",
+         "question": "Mình đang sài điện thoại sony xperia xa1... Mua được cách đây 3 tháng nhưng dạo gần đây nó lại bị liệt cảm ứng ở 1 phần màn hình..mình ko làm rơi vỡ hay tiếp xúc mạnh gì.. Cho mình hỏi như vậy có được bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.006764,
+         "id": "1162580",
+         "field_search": "question",
+         "question": "Mình đang dùng s8 plus bị vỡ kinha ở góc. Bên tgdd có hỗ trợ thay kính cho máy này ko ạ. Và ở chi nhánh lương tài có làm đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.875441,
+         "id": "1166861",
+         "field_search": "question",
+         "question": "Sp galaxy s8, s8 plus, hiện tại còn kinh doanh nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.780073,
+         "id": "1150664",
+         "field_search": "question",
+         "question": "cho Em hỏi nhà mình còn samsung galaxy s8 plus ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.69661,
+         "id": "1018010",
+         "field_search": "question",
+         "question": "Cho mình hỏi màn hình của điện thoại j7 prime mình mua ở của hàng TGDD bị rơi vỡ màn hình. Còn bảo hành thì mang sang của hàng sửa có mất nhiều thời gian ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.625664,
+         "id": "1002560",
+         "field_search": "question",
+         "question": "Cho hỏi tôi có cáp sạc galaxy s8 bị hư zay công ty có đổi cho tôi không hay phải mang đi bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.625448,
+         "id": "1167731",
+         "field_search": "question",
+         "question": "Mình dùng máy samsung m20. Do làm rơi nên bị bể mặt kiếng màn hình. Vậy cho mình hỏi bên tgdd có hỗ trợ bảo hành hay sữa chữa không ạ. Nếu có cụ thể như thế nào? Tư vấn giúp mình. Vì nhà khá xa tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.590729,
+         "id": "1006818",
+         "field_search": "question",
+         "question": "mua laptop trả góp nhưng không mua bảo hiểm được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.580871,
+         "id": "1152325",
+         "field_search": "question",
+         "question": "Cho mình hỏi là Nokia x5 và Nokia x5.1 plus là cùng 1 sp hay Nokia 5.1 plus là bản nâng cấp của Nokia x5 vậy. Vì mình thấy co chỗ bảo 2 cái đó cùng 1 sp, co chỗ lại review 2 cái đó???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.503336,
+         "id": "1136363",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn xài cả 2 sim  thẻ nhớ trên Xiaomi note 6 pro thì phải làm sao ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.492008,
+         "id": "993424",
+         "field_search": "question",
+         "question": " cho hỏi bên tgdd có mua lại đt ss galaxy s8 plus không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.483381,
+         "id": "1133920",
+         "field_search": "question",
+         "question": "Cho mình hỏi thay màn hình của galaxy s8 plus là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.3940935,
+         "id": "1153385",
+         "field_search": "question",
+         "question": "Cho em hỏi cách cài bảo mật khuôn mặt trên  xiaomi redmi 6 ạ . Với lại em xài 2 máy xiaomi redmi 6 y chang nhau ,mà 1 máy có bảo mật khuôn mặt.  1 máy không có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.368927,
+         "id": "1021586",
+         "field_search": "question",
+         "question": "Cho em hỏi là con samsung j7 prime của em có sử dụng kính cường lực nhưng bị rớt vỡ màn hình thì có đc bảo hành ko hay là phải trả phí ạ ?? Em mới mua đc 2 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.30551,
+         "id": "749163",
+         "field_search": "question",
+         "question": "Xin chào! Tình hình là em iPad mini 2 của em không hiểu nguyên do gì mà loa của nó rè khủng khiếp, nghe kinh hơn cả bộ đàm ấy, còn xẹt xẹt nhưng tiếng rất dễ sợ. Ad cho em hỏi có cần thay loa gấp không ạ. Em dùng chưa rơi, chưa va đập hay dính nước bao giờ cả. Mong ad tư vấn em sớm ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.295406,
+         "id": "824390",
+         "field_search": "question",
+         "question": " laptop dell của em bị vỡ góc vậy có bảo hành được không? hay phí bảo hành sẽ khoảng nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.261561,
+         "id": "1023379",
+         "field_search": "question",
+         "question": "Chiếc samsung galaxy s8+ của e bị bể 1 miếng nhỏ ở góc màn hình, cho e hỏi là có phải thay hết màn hình không hay là chỉ cần thay mặt kính v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.212309,
+         "id": "852695",
+         "field_search": "question",
+         "question": " Cho hỏi thay mặt kính sau SamSung a7 2016 nhiêu tiền còn bảo hành thì sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.190666,
+         "id": "1008756",
+         "field_search": "question",
+         "question": "nếu em chưa có tiền mặt mà em muốn mua 1 chiếc điện thoại khoảng 5-6 triệu liệ có thể mua được không vây.em có CMTND+sổ hộ khẩu chính chủ+thẻ bảo hiểm y tế.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.1781,
+         "id": "1167362",
+         "field_search": "question",
+         "question": "Cho hỏi camera realme 2 nó phóng to mặt quá làm sao chỉnh nhỏ lại vậy.??? Nó hay cập nhật điện nữa cập nhật nặng máy lắm không.????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.14739,
+         "id": "1157695",
+         "field_search": "question",
+         "question": "dạ. chào QTV hiện em đang sử dụng oppo f9 4ram, thời gian mua 22/8/2018 với mức giá 7.400.000 ( em k nhớ rõ số lẻ ) hiện em sd vẫn còn giữ nguyên hộp và phụ kiện + giấy tờ đi kèm mất mỗi tai nghe, còn bảo hành. hiện tại điện thoại chưa bị rơi vỡ 1 lần chưa bị vào nước hay chưa 1 lần sửa chữa. mặt trước em dán cường lực bảo vệ mặt sau em k dán thì bị xước ạ. giờ em muốn đổi qua oppo f11 hay oppo f11 pro thì em cần phải bù chênh lệch là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.095344,
+         "id": "1016355",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi về chính sách bảo hành miếng dán màn hình với dán mặt sau điện thoại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.048373,
+         "id": "1006061",
+         "field_search": "question",
+         "question": "Mình muốn mua iphone 7 plus nhưng có người bảo đợi 2 tháng nữa ra iphone 8, giá của 7 plus sẽ giảm rồi hẳn mua. Mình có nên đợi không ad? Hay là mình nên đợi rồi mua iphone 8 luôn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.9967985,
+         "id": "1003571",
+         "field_search": "question",
+         "question": "máy mình bị vỡ mặt kính góc trái màn hình cho mình hỏi ở thế giới di động có hỗ trợ thay mặt kính ip6 ko và giá thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.962206,
+         "id": "1008592",
+         "field_search": "question",
+         "question": "hi ad lam the nao de kich hoat bao hanh may ss giup minh voi ss s8 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.887531,
+         "id": "813013",
+         "field_search": "question",
+         "question": " Ac cho e hỏi là đt Ip6s của e bị vỡ mặt kính và e đi thay xong giờ k dùng đc cảm ứng vân tay là bị sao vậy ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.79159,
+         "id": "1162590",
+         "field_search": "question",
+         "question": "Cho hỏi thay màn hình s8 plus trước và sau chính hảng ở đâu, giá bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.782437,
+         "id": "801896",
+         "field_search": "question",
+         "question": " Cho mình hỏi có ốp lưng chống sốc khi bị rơi của iPhone 6S Plus không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.601333,
+         "id": "1161610",
+         "field_search": "question",
+         "question": "Cho em hỏi ép mặt kính iphone 6s plus giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.566543,
+         "id": "1001879",
+         "field_search": "question",
+         "question": "Muốn đổi oppo f1 mua ngày 24/6/2016 đã hết bảo hành chưa sửa chữa không vỡ mặt để lấy oppo f3 và đưa thêm tiền được không ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.560721,
+         "id": "1007051",
+         "field_search": "question",
+         "question": " Em mua điện thoại cũ trả góp không tham gia bảo hiểm được không ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.548259,
+         "id": "1159179",
+         "field_search": "question",
+         "question": "Mình vừa làm rơi điện thoại và bị vỡ hết màn hình trong nhưng không bị vỡ cường lực. Bị vỡ màn hình chính luôn ý ạ :((((. Cho mình hỏi là có thay được không nếu thay thì có mất nhiều tiền không ? Máy mình là máy samsung j4 Core ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.5324745,
+         "id": "1155847",
+         "field_search": "question",
+         "question": "Có thể hướng dẫn mình cách cài đặt lịch âm cho S8 plus không bạn?Điện thoại C9 pro trước mình xài thì thấy lịch có sẵn lịch âm, nhưng trong S8 plus thì không thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.523733,
+         "id": "1151895",
+         "field_search": "question",
+         "question": "mình có mua lại 01 máy của 1 bạn mua ở tgdd, máy còn bảo ành điện tử đến 09/02/2020. Máy mình mới bị rơi và bị xe cán qua,nên chắc là không được bảo hanh. :(. tgdd cho mình hỏi máy mình có được mua bảo hiểm tai nạn bên mình ko ạ, mình gọi cho người bán nới có mua. Số imei máy: 352141103320863. Cảm ơn TGDD nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.523539,
+         "id": "1013991",
+         "field_search": "question",
+         "question": "Tôi vừa mua dt Galaxy S8 Plus tại TGDD Tôi muốn đặt mua sản phẩm Ốp lưng Galaxy S8 Plus Nắp gập Clear View  Màu Tím ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.428062,
+         "id": "1008638",
+         "field_search": "question",
+         "question": "Đt j7 pro bị cấn nứt mặt kính góc trên tôi muốn sửa thì phải thay mặt kính hay thay cả màn hình và giá ntn.mong tgdd tư vấn giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.355778,
+         "id": "793478",
+         "field_search": "question",
+         "question": " Bên tgdd có còn mặt kính sau của iPhone 4 không? Máy mình bị vỡ mặt kính sau. giá khoảng bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.247731,
+         "id": "1004617",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi sao s7 edge của mình mỗi khi tải ứng dụng về nó hiện ra 2 ứng dụng lận. Mà mình xóa 1 cái thì mất cả 2 luôn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.246141,
+         "id": "1003573",
+         "field_search": "question",
+         "question": "Tgdd cho mk hỏi xíu. Mk mới mua máy galaxy s8 đc khoảng 15 ngày. Bị rơi nứt màn hình thì có ép lại mà hình đc không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.23363,
+         "id": "1003936",
+         "field_search": "question",
+         "question": "E di bảo hành iphone 7 plus và dc cho mượn cái Samsung galaxy j7 prime ,e làm rơi nứt kiếng màng hình, xin hỏi phí e chịu màng hình hãng là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.2244625,
+         "id": "1133285",
+         "field_search": "question",
+         "question": "Ở mình có bảo hành nứt vỡ màn hình khi mua xiaomi không ạ, và nếu không thì liệu có thể thay mặt kính của xiaomi note 4 với giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.211281,
+         "id": "1142879",
+         "field_search": "question",
+         "question": " cho em hõi em mua trả gop s8 plus thì hồ sơ có khó k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.2095585,
+         "id": "1005329",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua điện thoại trả góp,nhưng mà trong gói trả góp có phí bảo hiểm.mình có thể mua điện thoại trả góp nhưng không mua bảo hiểm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.200914,
+         "id": "1011575",
+         "field_search": "question",
+         "question": "Cho em hỏi thegioididong có cường lực full mặt trước ip7 plus hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.164315,
+         "id": "766122",
+         "field_search": "question",
+         "question": "Màn hình iPad Air 1 của em bị vỡ. Cho em hỏi là thay màn hình thì mất khoảng bao nhiêu tiền, mặt kính có chất lượng không? Em có nghe nói về ép màn hình, cho em hỏi là của hàng mình có hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.110905,
+         "id": "1002253",
+         "field_search": "question",
+         "question": "báo giá thay võ mặt sau máy htc U play bị vỡ mới mua được 3 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.099896,
+         "id": "783354",
+         "field_search": "question",
+         "question": " Cho mình hỏi mặt kính iPhone 6 của mình bị vỡ, thay mới thì giá khoảng bao nhiêu ạ, mình mua máy tại hãng luôn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.094383,
+         "id": "780733",
+         "field_search": "question",
+         "question": " Ad cho em hỏi iPhone 6 plus số imei 354451063824590 này có phải chính hãng không và còn bảo hành không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.073415,
+         "id": "900544",
+         "field_search": "question",
+         "question": "Cho tôi hỏi iPhone 5s bị rơi vỡ màn hình nhưng cảm ứng thì vẫn sử dụng bình thường không xảy ra lỗi gì vậy tôi có phải chỉ thay mặt kính thôi phải không ,cho hỏi ô biên hoà đòng nai chỗ nào thay ép kinh ip đáng tin cậy xin chỉ giùm ,và giá thấy kính là bao nhiêu tiền rất mong đc sự giúp đỡ của QTV tgdd chỉ bảo nơi thấy và giá bao nhiêu tôi rất cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

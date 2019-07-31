@@ -1,0 +1,801 @@
+{
+   "id_query": "797094",
+   "total": 25954,
+   "total_current": 100,
+   "max_score": 72.0907,
+   "origin_question": " Điện thoai iphone 4s của minh đang chơi game tại sao lại thoát ra ngoài lá sao hả bạn ",
+   "hits": [
+      {
+         "score": 34.09523,
+         "id": "756105",
+         "field_search": "question",
+         "question": "Tại sao mình chơi game trên iphone 4s ios 9.1 mà hay bị thoát ra ngoài dù nhiều lần mình đã khởi động lại máy thoát những úng dụng chạy ngầm rồi bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.987669,
+         "id": "870622",
+         "field_search": "question",
+         "question": "ad cho mình hỏi tại sao iphone 4s của minh ios 8.1.3 tải pokemon về chơi đăng nhập được rồi nhưng khi load vào game lại bị đẩy ra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.163439,
+         "id": "844536",
+         "field_search": "question",
+         "question": " Có cách nào khắc phục được việc iphone 4 thuong đang chơi game mà bị thoát ra ngoài ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.834312,
+         "id": "798262",
+         "field_search": "question",
+         "question": "Em đang chơi game trên iPhone 4 thì bị thoát ra ngoài em đã tắt các ứng dụng ngầm và xóa bớt các ứng dụng nhưng vẫn bị ad cho em hỏi tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.236773,
+         "id": "807526",
+         "field_search": "question",
+         "question": " ipad mini của em ios 9.1.0 mà sao chơi game gì cũng tự động thoát ra ngoài là sao vậy ạ  xin hãy giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.97649,
+         "id": "1160662",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt oppoA7 . Khi đang chơi game thoát ứng dụng ra  cái vào lại nó khởi động game lại là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.461437,
+         "id": "1016649",
+         "field_search": "question",
+         "question": "Tại sao tải game về chơi sao khi thoát ra máy báo cài đặt chưa hoàn chỉnh là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.229706,
+         "id": "806392",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 4s. Mình không biết tại sao máy mình lâu lâu bị đơ và trong quá trình đang chơi game hoặc nghe nhạc thì lại bị đẩy ra ngoài màn hình chính.Cho mình hỏi liệu máy mình có phải bị virus không và nếu bị thì bên bạn có thể diệt không???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.041462,
+         "id": "999351",
+         "field_search": "question",
+         "question": "Tại sao chơi liên quân hay bị lỗi thoát ra ngoài hệ android 4.4.2 bộ nhớ trống nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.014154,
+         "id": "781879",
+         "field_search": "question",
+         "question": " Ad cho em hỏi sao iPhone 3GS của em đang chơi game mà cứ tự bị thoát ra vậy? Có cách nào khắc phục không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.64455,
+         "id": "837154",
+         "field_search": "question",
+         "question": " ad cho e hoi e dùng ip 4s ios 8.1.3 tại sao chơi game lâu hay bị thoát ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.484879,
+         "id": "837193",
+         "field_search": "question",
+         "question": " ad cho e hoi e dùng ip 4s ios 8.1.3 tại sao chơi game lâu hay bị thoát ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.411331,
+         "id": "1021508",
+         "field_search": "question",
+         "question": "Mình đang sử dụng máy tính bảng Huawei mediapad T1 8.0....sao khi chơi game từ động thoát ra ngoài nhiều lần.... vậy là bị lôi gì vậy admin...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.403362,
+         "id": "856127",
+         "field_search": "question",
+         "question": " Iphone 6 đang nghe nhac mp3 được 3,4 giây lại tự thoát ra ngoài là bị lm sao vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.345678,
+         "id": "804774",
+         "field_search": "question",
+         "question": " Anh ơi tại sao ip3 em chơi game online là chơi được 1 chút là nó thoát ra zậy a? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.484596,
+         "id": "844247",
+         "field_search": "question",
+         "question": " Đang xài iPhone 4s. bấm vao zalo điện thoại cứ tự động thoát ra? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.370838,
+         "id": "1001066",
+         "field_search": "question",
+         "question": "Mk đang dùng SamSung Galaxy S3, mk chơi Liên Quan mobile thường hay bị out ra ngoài, mk thử reset lại máy mak vẫn ko kết nối lại vs game đk. Mk có tham khảo một số điều kiện của máy để chơi Liên Quân rồi và máy mk hoàn toàn phù hợp, nhưng tại sao lại vẫn hay bị out ra ngoài khi đang chơi???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.6796,
+         "id": "1023576",
+         "field_search": "question",
+         "question": "Tại sao khi điện thoại của tôi tự nhiên khởi động lại , đôi lúc chơi game tự động thoát ra . Tôi đã thử reset lại nhưng vẫn không được . Tôi thử tháo sim và chơi game thì máy không bị đứng và thoát ra nữa . Vậy điện thoại tôi bị hư gì vậy là do sim hay do máy . Tôi xài asus zenfone 3 max 5.5 mới mua ở thế giới di động thủ đức .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.512308,
+         "id": "993137",
+         "field_search": "question",
+         "question": "Lam Sao biet dien thoai cua minh la iPhone 4 hay 4s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.049395,
+         "id": "1133854",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi sao đt nhà em dùng wii ko chơi game đc mà lên wed YouTube thì đc ạ,ra ngoài quán thì wifi của quán lại chơi game dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.839708,
+         "id": "836746",
+         "field_search": "question",
+         "question": "4s tải game : monster squad về máy vào được game nhưng khi chơi lại pị out ra ngoài?? Ad cho e hỏi cách sữa chữa... Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.659033,
+         "id": "794703",
+         "field_search": "question",
+         "question": " Mình đang dùng iphone 4s, vì sao camara 360 khi chụp camara sau cứ bị đẩy ra ngoài vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.636776,
+         "id": "781379",
+         "field_search": "question",
+         "question": "Mình đang dùng máy IPHONE 3GS hồi đầu mình dung không bị làm sao nhưng về sau đầu tiên là game clash of clans mình đang chơi là bị thoát ra ngoài rồi đến các phần mềm trong máy mình ko hiểu nó bị làm sao! Bây giờ game clash of clans mình vào rồi bị văng ngay lập tức! Vậy mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.247984,
+         "id": "1162850",
+         "field_search": "question",
+         "question": "Tại sao sam sung j1 vao game ica lại bị văn ra không chơi đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.182693,
+         "id": "1164503",
+         "field_search": "question",
+         "question": "Con realme 3 chơi game thì mượt nhưng mà khi thoát game ra dể nhs tin thì vô lai game thì game bị load lai mac dù thoát ra là vô lại liền????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.989784,
+         "id": "1153505",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng dòng j6+ tai sao chơi game tình kiếm 3d tầm 5-10 phút lại bị văng ra ngoài làm mọi cách vẫn không hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.88816,
+         "id": "778276",
+         "field_search": "question",
+         "question": " Tại sao em vào Messenger nó lại tự động thoát ra ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.798548,
+         "id": "1001771",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi là tại sao khi đang chơi candy Crush và một số trò chơi khác thì mình bị văng ra ngoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.771584,
+         "id": "866439",
+         "field_search": "question",
+         "question": " Mình muốn cài đặt mà iPhone 3gs để tải trò chơi làm sao hả bạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.581299,
+         "id": "1169058",
+         "field_search": "question",
+         "question": "Sao máy vivo y91c chơi tựa game liên quân lại bị out ra ngoài vậy... Ko hiểu... Cái này là do máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.328085,
+         "id": "804506",
+         "field_search": "question",
+         "question": " Tại sao điện thoai em Zalo đăng nhập được vài tiếng lại bị kích ra và phải đăng nhập lại? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.253439,
+         "id": "928073",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi tại sao MP3 zing của mình nếu điện thoại tự động ngủ hoặc mình thoát ra màn hình chính nhạc sẽ tự động tắt, giúp mình khắc phục với. Đt mình iPhone 5s. Cảm ơn bạn nhiều nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.818777,
+         "id": "934670",
+         "field_search": "question",
+         "question": " Tại sao chiếc iphone 4s của mình lại không nâng cấp được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.783203,
+         "id": "832713",
+         "field_search": "question",
+         "question": "Cho hỏi iphone 4s 8gb tui đã xoá hết chỉ còn 1 ứng dụng máy rât nhẹ...nhưng sao mỗi lần chơi lại bị thoát ra 1 cách vô lí như thế...xin trả lại giùm hoặc liên lạc giùm lại tôi 09787063XX",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.780544,
+         "id": "756318",
+         "field_search": "question",
+         "question": " iPad của mình cập nhật iOS 9.2 mà cả ngày nó cứ hiện lên dòng chữ đang xác minh cập nhật, giờ muốn thoát ra sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.71432,
+         "id": "999777",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4s khi chơi game tự nhiên nó bật ra màn hình chính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.626293,
+         "id": "1014447",
+         "field_search": "question",
+         "question": "Dạ cho hỏi điện thoại của mình chơi game thường hay bị quăng ra ngoài ,chỉ cho mình cách khắc phục đi cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.533493,
+         "id": "1160751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 6 32g khi chơi game hay vào app thì hay bị văng ra ngoài, bực nhất là đang chơi game bị văng ra mà vào lại thì 99% nó lại văng. Mình đã làm nhiều cách như xoá ứng dụng khôi phục lại máy xong tải về lại và vẫn bị văng game như thường, cho mình hỏi là điện thoại mình nó bị gì và có cách nào khắc phục không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.38583,
+         "id": "823402",
+         "field_search": "question",
+         "question": " Chào,htc 620g của mình chơi PIXEL GUN 3D sao cứ bị treo rồi tự thoát ra vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.355957,
+         "id": "997140",
+         "field_search": "question",
+         "question": "Tại sao cái điện thoai samsung j5 ma khi chơi game tập kích mà ko cảm ứng được ở 3 chỗ trên màn hình.Anh cho em câu trả lời với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.280233,
+         "id": "820764",
+         "field_search": "question",
+         "question": "Sao iphone 4 của em lại không chơi được game brother in arms 3 khi vào game noi la xin loi ...iphone 4s ( hoặc moi hon ) iPad 2 (hoặc moi hon) xin anh chi giúp e.em cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.178635,
+         "id": "770117",
+         "field_search": "question",
+         "question": " Sao iPhone 4S của tôi đã nâng lên ios 9.2 tại sao lại không có mục news ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.078888,
+         "id": "769315",
+         "field_search": "question",
+         "question": " Em dùng iPhone 4 khi chơi game hoặc ứng dụng vuốt trên màn hình game thì thoát ra màn hình máy thì tắt thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.077002,
+         "id": "1141135",
+         "field_search": "question",
+         "question": "Cho mình hỏi là instagram của mình đang chơi bình thường sao lại tự động out ra ngoài rồi mình đăng nhập vô lại thì thấy bị mất hết hình :( ( dù mình đã out ra lần nữa để cho chắc ko bị lỗi gì nhưng ảnh thì vẫn bị mất ?? Tại sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.069584,
+         "id": "811300",
+         "field_search": "question",
+         "question": " Tại sao điện thoại iphone 4S của em bỏ sim vào không hiển thị mạng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.051712,
+         "id": "756173",
+         "field_search": "question",
+         "question": " Mình đang sử dụng iphone 3g mà sao chơi game ma thần hay bị văng ra là cách nào mới hết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.968615,
+         "id": "1149584",
+         "field_search": "question",
+         "question": "Tại sao máy r11 lại không chơi được game liên quân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.863167,
+         "id": "828826",
+         "field_search": "question",
+         "question": "Ip 5s e mua ở tgdd đc hơn 1 tuần. Lúc đầu chơi game bt k sao. Gio e chơi game n cứ bị thoát ra ạ? Ip của e vẫn để iOS 9.2.1 như từ lúc mua chứ k nang cấp gì cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.835285,
+         "id": "808686",
+         "field_search": "question",
+         "question": " Điện thoại iPhone tải ứng dụng về bị đẩy ra màn hình là sao hả ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.739277,
+         "id": "747686",
+         "field_search": "question",
+         "question": " Tại sao điện thoại iphone 4 của tôi đang gọi lại tối hết màn hình vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.47331,
+         "id": "796272",
+         "field_search": "question",
+         "question": " Sao iphone 4s của toi ko tai dc game và cach khác phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.342796,
+         "id": "750675",
+         "field_search": "question",
+         "question": " Máy em yêu cầu xác minh tài khoản iCloud. Nhưng tài khoản đó không tồn tại. Bây giờ em muốn thoát ra phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.326744,
+         "id": "802900",
+         "field_search": "question",
+         "question": "Em đang dùng ip5, đang chạy ứng dụng ấn nút home để thoát ra thì không thoát được, khi ấn khoá màn hình thì không bật lên được nữa. Điện thoại của em như thế là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.310774,
+         "id": "999706",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4s khi choi game thì nó bật ta ngoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.243174,
+         "id": "778700",
+         "field_search": "question",
+         "question": " Tại sao iPhone 6s gửi tin nhắn lại có 2 màu xanh dương và xanh lá cây. Xanh dương người nhận nhận không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.222961,
+         "id": "813242",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy HP Stream 13 có chơi được game lien minh huyên thoai khong vay ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.206825,
+         "id": "830301",
+         "field_search": "question",
+         "question": "mình xài iphone có chơi game clash of clan đã liên kết vs game center nhưng mik đã khôi phục máy lại từ đầu cũng dùng tài khoản id dok nhưng tại sao lại ko thể chơi game lại nhà củ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.105253,
+         "id": "787695",
+         "field_search": "question",
+         "question": " hiện tại chiếc iPhone 4s của mình đang bị lỗi cab màn hình. bên bạn có hỗ trợ sửa chữa không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.056967,
+         "id": "825747",
+         "field_search": "question",
+         "question": " Cho minh hỏi tại sao mình vào messenges lại không xem dk trang cá nhân của bạn minh vay. A giúp mình cái cảm ơn....... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.011383,
+         "id": "1139477",
+         "field_search": "question",
+         "question": " mình mua lap dell vestro 155568 win 10 ram 4gb mà hình như không chơi game onl được hả bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.002302,
+         "id": "927664",
+         "field_search": "question",
+         "question": "  Tại sao facebook của E nó cứ bị như vậy. E thay đổi rồi vẫn không thoát ra được. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.983059,
+         "id": "998135",
+         "field_search": "question",
+         "question": "- cho em hỏi cái icon biểu tượng liên minh ngoài desktop nó hiện cái bảo vệ là sao ạ. nhiều lúc vào trận thì bị lỗi kết nối phải thoát rồi kết nối lại mà ra ngoài thì mạng vẫn chạy bình thường. em dùng win10 Home ạ :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.873045,
+         "id": "1165250",
+         "field_search": "question",
+         "question": "Tại sao iphone 6splus của tôi mở chơi được 5 phút là điện thoại nóng lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.809088,
+         "id": "766570",
+         "field_search": "question",
+         "question": " Laptop Asus A43S series chơi được game liên minh huyền thoại không bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.790918,
+         "id": "986497",
+         "field_search": "question",
+         "question": " Tại sao ipad mini vào game liên quân lại bị văng ra vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.776064,
+         "id": "799972",
+         "field_search": "question",
+         "question": " Trả góp iPhone 4S thủ tục ra sao và trả góp online được không bạn phải trả bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.73973,
+         "id": "811456",
+         "field_search": "question",
+         "question": " Sao iphone 4S 9.0.2 chạy Manga Go có 66MB hay bị thoát ứng dụng ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.736109,
+         "id": "1160671",
+         "field_search": "question",
+         "question": "Anh ơi Xiaomi note 3 của em cứ đang chơi liên quân lại tự out ra là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.729877,
+         "id": "771928",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 4s của mình gọi đi gọi đến đều không không nghe thấy gì cả. Bật loa ngoài cũng không có tín hiệu. Mong bạn giúp mình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.666416,
+         "id": "814117",
+         "field_search": "question",
+         "question": " Tại sao máy iPhone lại không tải game được?              ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.65502,
+         "id": "805698",
+         "field_search": "question",
+         "question": " iphone của em màn hình ngoài bị lồi ra , giờ phải làm sao ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.552996,
+         "id": "989827",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy tính DELL 3000 của em sao vào STORE thì lại tự nhiên thoát ra vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.522888,
+         "id": "767774",
+         "field_search": "question",
+         "question": " iPhone 4s của em vào game bị chậm, lag. Vào fb hay web thì hay bị đơ và văng ra thì phải làm sao. QTV giúp em với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.501839,
+         "id": "1162839",
+         "field_search": "question",
+         "question": "sao điện thoai vivo v15 của minh mua đèn cảm biến ở trước màn hình nó không có hoạt động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.345978,
+         "id": "748458",
+         "field_search": "question",
+         "question": " Cách tạo ID Apple trên iPhone 4 và 4S tải game chơi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.323792,
+         "id": "1020732",
+         "field_search": "question",
+         "question": "chào bạn. mình vừa mua máy tính bảng hiệu mobell tab 8 pro được 8 ngày. máy hay bị thoát ra khỏi ứng dụng khi mình đang xài. hôm nay thì tắt nguồn luôn mở không lên nữa. cho mình hỏi mình có thể đổi máy khác không? và ở tại tgdd nào cũng được hả bạn????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.282097,
+         "id": "1009997",
+         "field_search": "question",
+         "question": "Cho mình hỏi,điện thoại của mình là samsung j5,tại sao khi chơi game mobile legend  bằng wifi thì lag vô cùng ,pings trong game chập chờn lúc thì 30,50,120,200.Ko hiểu tại sao ?, còn 3 người ngồi kế bên chơi 3 cái oppo mà sao pings trong game của họ lại ổn định ở 1 mức 34 pings, có cách nào khắc phục không vậy, mình đã cố chuyển chỗ ngồi, tắt wifi và bật lại, nhưng vẫn ik vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.270458,
+         "id": "774400",
+         "field_search": "question",
+         "question": " Chào bạn!  Cho mình hỏi iPhone 4s của mình đang dùng iOS 6.1.3 có jaibreak được không bạn. thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.254745,
+         "id": "853241",
+         "field_search": "question",
+         "question": "Mình xài iphone 4 phiên bản 7.1.2 cứ mỗi lần chơi game ngôi sao thời trang lại bị văng ra màn hình chủ ! làm sao để khắc phục vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.243801,
+         "id": "1167371",
+         "field_search": "question",
+         "question": "Tại sao điện thoại a30 của e không tải đc game..........   .....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.190784,
+         "id": "752917",
+         "field_search": "question",
+         "question": "Anh ơi em đang dùng iPhone 4S vào wep đen thì máy bảo có 17 virus diệt ngay không kẻo hư máy giờ em phải làm sao hả anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.168152,
+         "id": "765263",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 4S, mình muốn cài đặt tất cả cài đặt cho điện thoại nhưng khi cài đặt máy yêu cầu nhập mã khóa của bạn. Cho hỏi mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.131762,
+         "id": "743708",
+         "field_search": "question",
+         "question": " Cho minh hoi máy iPhone 4S của Mình sao không cho tạo tài khoản iCloud nữa nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.08415,
+         "id": "756651",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4 sao không lồng nhạc ở Zingmp3 vào vivavideo hả bạn ? Bạn giúp mình với ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.046658,
+         "id": "1155604",
+         "field_search": "question",
+         "question": "Ad Cho em hỏi tại sao khi dùng zalo lúc call video ẩn ra ngoài lại không thấy hình ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.041246,
+         "id": "746026",
+         "field_search": "question",
+         "question": " tại sao iphone em bấm zo app store tải game cái no hiên lại tài khoản bạn đa bị vô hiêu quá là sao vây ai giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.02889,
+         "id": "808518",
+         "field_search": "question",
+         "question": "cho em hỏi em dùng win xp và tải liên minh huyền thoại về rồi nhưng sao em không chơi được ạ. mỗi lần vào game chỉ chọn đc tướng nhưng lại không vào được trận ạ. cho e hỏi giờ e phải làm thế nào mới chơi được ạ. em có thoát ra rồi kết nối lại nhưng vẫn không được ạ mong anh giải thích giúp em. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.988515,
+         "id": "1022132",
+         "field_search": "question",
+         "question": "Minh muốn thoát icloud ra mà nhập mật khẩu nó bị như thế này phải làm sao ad oi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.830158,
+         "id": "790791",
+         "field_search": "question",
+         "question": " Cho mình hỏi iphone 6plus thi thoảng bị đơ là bị làm sao hả bạn bản 16G bạn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.796217,
+         "id": "1160396",
+         "field_search": "question",
+         "question": "Ad ơi . Em dag sài con a7 e mới cập nhật phần mền lai và sao nó có tinh trạng lát nhieu từ chơi game thoát ra r nc video dứng máy lien tụ luon ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.754026,
+         "id": "755791",
+         "field_search": "question",
+         "question": " iPhone 4s minh bị khoá iTunes thì phải làm sao vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.725572,
+         "id": "767406",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi mình dùng điện thoại iPhone 4s và 5S,giờ mình xoá tin nhắn rồi lằm sao có thể tìm lại được nó, cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.69456,
+         "id": "994015",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài iphone 6 plus sao khi chơi game dream language soccer 2017.mới tải về chơi rất mượt nhưng khi chơi được 3,4 game là bắt đầu giật lag là sao cho hỏi máy mình đang bị gì và cách khắc phục lag khi chơi game này.trong khi đó máy mình cấu hình rất mạnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.5891695,
+         "id": "1000745",
+         "field_search": "question",
+         "question": "Tại sao iphone của em là tiếng việc  mà vào safari lại ra thành tiếng trung quốc ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.58472,
+         "id": "755134",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 4s hệ điều hành 8.3 tại sao máy em lại tự nhiên không dò được wifi mặc dù em đang đứng ngay cạnh bộ phát wifi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.55993,
+         "id": "764734",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi iphone 6s của mình bị đơ cảm ứng không bật tắt được phải ấn cả nút Home và nút nguồn để khởi động lại máy mấy lần rồi là sao đây hả bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.556198,
+         "id": "1140739",
+         "field_search": "question",
+         "question": "khi tải game trên windowphone thì tải lại ghi là đang tải xuống nhưng ko thấy tải thoát ra màn hình chính thì lại ghi là cần chú ý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.553183,
+         "id": "763455",
+         "field_search": "question",
+         "question": " Tại sao tôi không đăng nhập được tài khoản ID Apple của máy iPhone 4s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.552949,
+         "id": "995003",
+         "field_search": "question",
+         "question": "Anh chị có thể giúp em tại sao máy iphone 4s của em khi live facebook lại không dùng đc camera trước vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,801 @@
+{
+   "id_query": "783336",
+   "total": 34628,
+   "total_current": 100,
+   "max_score": 194.77664,
+   "origin_question": "Muốn mở khoá icloud cần phải làm gì?Tôi mới bị mất một chiếc điện thoại iphone có cài đặt icloud nhưng trong khoảng 1h icloud trên máy đã bị phá cho hỏi bằng cách nào mà người kia có thể phá icloud nhanh như vậy ??? Lúc phát hiện bị mất tôi có vào máy tính báo mất trên ứng dụng icloud và đã cho khoá iphone nhưng ngay thời gian 15 phút tôi đăng nhập lại icloud mà không được vì tài khoản đã bị xoá?",
+   "hits": [
+      {
+         "score": 90.1732,
+         "id": "758734",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tôi bị mất iPhone 5 nhưng trước khi bị mất đã đăng xuất tài khoản iCloud ra rồi thì có cách nào tìm được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.04579,
+         "id": "888297",
+         "field_search": "question",
+         "question": "1. Cho tôi hỏi: tôi dùng mất iphone 6 rồi mua lại iphone 6 dùng chung một icloud. Nay bị báo icloud đã đầy, trong đó iphone cũ 4,8Gb, (hình 1) vậy tôi xóa dung lượng trên iphone 2 (hình 2) để giải thoát bộ nhớ có ảnh hưởng gì không vây (kèm hình) .rất mong được phản hồi, ĐT: 0985027327, kybv.dnpc@gmail.com2. tôi muốn đổi pass icloud nhưng chưa biết cách thực hiện.3. Nâng cấp tài khooản icloud thì cần thẻ tín dụng và tài khoản nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.99145,
+         "id": "822688",
+         "field_search": "question",
+         "question": "Tôi dùng iPhone 4 cũ, tôi đã lập được id app mới và đăng nhập tải được ứng dụng rồi. Nhưng khi tôi đăng nhập vào icloud bằng id app đó thì máy báo là đã hết tài khoản icloud miễn phí.Vậy tôi khắc phục thế nào đây addthank add nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.12008,
+         "id": "785838",
+         "field_search": "question",
+         "question": "Tôi bị mất iPhone 6 tình trạng máy có wifi và icloud nhưng mà máy không bật định vị và tôi cũng có vào iCloud khóa máy với xóa dữ liệu vậy thì kẻ trộm máy tôi restore iPhone lại có sử dụng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.057816,
+         "id": "799928",
+         "field_search": "question",
+         "question": " Máy tôi bị dính icloud .cho tôi hỏi có cách nào phá icoud không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.7378,
+         "id": "758866",
+         "field_search": "question",
+         "question": "Chào ad. Cho em hỏi em bị mất điện thoại iPhone 4s.Em đã khóa tài khoản iColud thì người cầm máy có phá dùng được không ạ. Cho em hỏi em khóa tài khỏan iCould rồi có cần xóa tài khoản iCloud không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.2048,
+         "id": "845189",
+         "field_search": "question",
+         "question": "Cho hỏi sau khi báo mất iPhone trên iCloud thì các trang mạng xã hội trên iPhone bị mất người lấy cắp có thể sử dụng được không ah? Và mình có thể đăng nhập iCloud trên thiết bị khác được nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.136246,
+         "id": "1136996",
+         "field_search": "question",
+         "question": "Mình đang sử dụng một tài khoản icloud và id apple trên 2 thiết bị iPhone và iPad, người mình muốn xoá và thoát tk icloud trên iPad thì tk trên iPhone có bị xoá không, nếu sau này mình lấy tk icloud này đăng nhập lại trên iPad đó có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.0669,
+         "id": "872337",
+         "field_search": "question",
+         "question": "Cho hỏi con có 1 tài khoản iCloud nhưng nó đã bị mất rồi mà trong tàu khoản con có mua 1 app tính phí, giờ con tạo tài khoản iCloud mới, ứng dụng tính phí vẫn còn trong màn hình chính của con. Con muốn đưa app tính phí đó vào tài khoản mới mà không phải tốn tiền nếu sau này cần sử dụng! Có cách nào giúp không ạ? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.57629,
+         "id": "1154242",
+         "field_search": "question",
+         "question": "Em vừa được cho một chiếc ipx và đã thoát icloud sạch sẽ. Nhưng khi em tạo 1 icloud mới thì máy thông báo là đã hết số lần đăng ký miễn phí, sau đó em có lên trên web tạo một tài khoản icloud mới và đã kích hoạt thành công nhưng khi em đang nhập icloud vào máy thì máy vẫn báo đã hết số lần tạo tài khoản miễn phí. Bây giờ có cách nào khắc phục được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.504326,
+         "id": "768278",
+         "field_search": "question",
+         "question": "Máy iphone của e bị mất và có icloud của em trên đấy 3 phút trước em đã lên trang icloud.com để khóa máy và lúc vào chế độ mất, nó có kêu em nhập mật khẩu 6 chữ số để khóa máy 1 phút trước e nhập là 123456 , mật khẩu quá đơn giản nên người lấy máy em đã nhập và vào dc iphone 1 phút trước nhưng icloud thì vẫn còn vì người đó không có mật khẩu icloud 26 giây trước vậy, anh cho em hỏi: em có thể đổi mật khẩu khóa máy (123456) thành mật khẩu khác trên máy tính không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.41505,
+         "id": "917319",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại e là ip 5s nhưng tài khoản icloud của e bị khoá và k nhận đc thư để kích hoạt lại . Vậy e có thể nâng lên ios 10 không ? E sợ đến lúc đăng nhập nỏ hỏi tài khoản icloud và bị khoá lun",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.41423,
+         "id": "761113",
+         "field_search": "question",
+         "question": "Em nhặt được 1 máy iPhone 5s. Nhưng tài khoản icloud đã bị khóa. Mà lắp sim khác vào thì nó cần tài khoản icloud để kích hoạt nhưng mà không có. Bây giờ mà phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 77.28668,
+         "id": "988228",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể vào được mục iCloud của tôi tôi mua máy cũ và có một tài khoản iCloud của người khác? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.65826,
+         "id": "874452",
+         "field_search": "question",
+         "question": "Cho mình hỏi là có cách nào để mở khoá icloud mà mình bị mất tài khoản email ko? Giờ mình bị kẹt ko đăng xuất đc cũng ko mở khoá đc tài khoản?Mình mua máy ipad air2 mới ở tgdd này .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.222275,
+         "id": "736968",
+         "field_search": "question",
+         "question": "Mình đã lập tai khoản icloud mới đã cài và tải được ứng dụng về nhưng khi có thông báo cập nhật bản mới nhât,lúc cập nhật máy lại báo nhập pas cua tai khoản icloud cũ chước đó, trong khi đó ứng dụng đó mình đã cài và tải bằng tải khoản icloud của mình lập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.07225,
+         "id": "1161171",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi mình một thời gian không sử dụng sđt nên bị khoá số và người khác đã sử dụng . Bây giờ mình không thể đăng nhập vào iCloud vậy mình phải làm thế nào để đăng nhập lại iCloud dc xin các bạn chỉ mẹo giúp mình nhé. Hi cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.9137,
+         "id": "761896",
+         "field_search": "question",
+         "question": " Em bị mất iPhone 5 em có cài iCloud. Bây giờ em muốn khoá máy lại nhưng họ chưa bật mạng thì có khoá được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.76525,
+         "id": "833362",
+         "field_search": "question",
+         "question": "Ad ơi cho Em hỏi: Iphone 6 e đang dùng bình thường và có đăng nhập tài khoản icloud của e thành công nhưng khi e đăng xuất ra thì e check icloud trên web Icluod.com thì nó vẫn hiện là On, sau đó e đăng nhập tài khoản icloud của e vào lại ip6 thì lại vẫn bình thường. Ad cho e hỏi có phải máy e đã bị dính icloud ẩn hay không?, e rất thắc mắc vì nếu bị icloud ẩn thì tại sao e lại đăng nhập tài khoản icloud của e đc...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.60281,
+         "id": "737472",
+         "field_search": "question",
+         "question": "iCloud có thể dùng cho 2 máy được không? Khi tôi đang nhập vào tai khoản iCloud khac  ma quên thoát iCloud cũ thì toàn bộ giữ liệu máy tôi bị chuyển sang máy đang đung iCloud cũ của tôi. Giúp tôi cách xoá giữ liệu của tôi ở máy kia nhe!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.31241,
+         "id": "777780",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình bị mất iphone 5s đã khóa máy bằng icloud nhưng khi lấy lại được nó lại yêu cầu mở khóa itunes trên máy tính là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.868866,
+         "id": "803947",
+         "field_search": "question",
+         "question": "Mình bị mất điện thoại iPhone 6 plus, làm thế nào để mình khóa đc icloud trên máy tính. Mình không mong sẽ tìm lại được, nhưng nếu có người dùng đt của mình mà k có mật khẩu, vân tay và icloud thì cũng không thể sử dụng được phải k add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.66657,
+         "id": "1116993",
+         "field_search": "question",
+         "question": "Tôi bị mất máy tôi đăng nhập icloud vào máy khác để xem định vị ở đâu lần đầu được lần sau báo icloud k tồn tại là sao ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.35683,
+         "id": "1150758",
+         "field_search": "question",
+         "question": "Em vừa bị trộm chiếc iphone 6s hàng xách tay từ Úc.Máy em có cài icloud và password 6 số.Khi mất em đã nhanh chóng báo bị mất trên icloud.Như vậy kẻ trộm có sử dụng hay bán đi được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.329544,
+         "id": "953070",
+         "field_search": "question",
+         "question": "Tôi bị người khác thay đổi lại mật khẩu tài khoản icloud vì vậy tôi đag muốn lấy lại mật khẩu , và trên tài khoản đây đang dùng bằng số điện thoại của tôi , tài khoản imail của tôi cũng không mở được vì tôi dùng chung mật khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.97325,
+         "id": "777616",
+         "field_search": "question",
+         "question": "Chào ad, tôi vừa mua lại một chiếc iphone 5, nhưng người bán không đăng xuất icloud, vậy cho tôi hổ làm thế nào để tôi đăng nhập icloud của mình? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.55624,
+         "id": "1167022",
+         "field_search": "question",
+         "question": "e với bạn trai xài chung icloud nhưng hiện giờ đt của e bị mất, e đã khóa icloud e muốn đăng xuất icloud của e trên đt bạn trai thì làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.09473,
+         "id": "992504",
+         "field_search": "question",
+         "question": "Cho mình hỏi?Mình bị mất iphone 4 có tài khoản icloud trong máy và mình đã bật chế độ mất để theo dõi và khoá máy lại NHƯNG khi vừa bật chế độ mất xong thì có hình cái khoá và 1 lúc sau thì tự nhiên chế độ mất không còn. Họ trực tuyến mình khoá luôn nhưng rất nhiều lần đều bị tắt chế độ mất trong khi đã bật thành công. Hãy giải thích giúp mình với, cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.96041,
+         "id": "791383",
+         "field_search": "question",
+         "question": "Mình vừa mua đt ở TGDD. Nhưng mình bị rơi mất, mình đã khóa icloud , người nhặt được kia có thể mở và sử dụng được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.890366,
+         "id": "760433",
+         "field_search": "question",
+         "question": "Chào Admin Thegioididong.com. Tôi có mua một iPad Air tại Thế giới di động hồi tháng 4/2015 và đươc nhân viên Thegioididong lập giúp iCloud. Hôm nay tôi muốn bán đi và đăng xuất iCloud cho khách nhưng quên Pass và nhiều lần thử đã bị khoá tài khoản. Thegioididong có thể reset lại giúp tôi không? Xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.61912,
+         "id": "796638",
+         "field_search": "question",
+         "question": "Vì em mới mua lại điện thoại iPhone 4 nên em không biết gì đến tài khoản iCloud giờ em hỏi lại và người chủ cho em mật khẩu đăng nhập nhưng khi em đăng nhập để tải ứng dụng thì máy báo sai mật khẩu, giờ QTV cho em hỏi có cách nào để đăng ký lại tài khoản iCloud để sử dụng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.48895,
+         "id": "891754",
+         "field_search": "question",
+         "question": " cách xoá tài khoản icloud khi bị bẻ khoá ............... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.44586,
+         "id": "1142633",
+         "field_search": "question",
+         "question": "Iphone của mình bị khoá icloud và không sử dụng được. Và tài khoản icloud mình cungz quên mật khẩu nên bị khoá. Trước mình mua máy tại TGDĐ, có thể khôi phục giúp mình đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.42227,
+         "id": "760573",
+         "field_search": "question",
+         "question": "Em bị hết phiên tạo tài khoản iCloud miễn phí, bây giờ em muốn dùng 1 iPhone khác đang còn số lượt đăng kí tài khoản iCloud để lập iCloud nhưng máy đó đã có iCloud rồi thì phải làm sao để lập thêm iCloud nữa ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.29484,
+         "id": "813207",
+         "field_search": "question",
+         "question": " Cho em hỏi tgdd minh có phá được icloud của 4s không.?? Em có 1 em nằm ngủ mấy ngày vì bị mất pass icloud rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.97315,
+         "id": "753085",
+         "field_search": "question",
+         "question": "Cho hỏi vì sao tôi không thể thay đổi phần âm thanh trong tin nhắn, email, thư đã gửi ... Trên iPhone 5s. Tôi chọn thay đổi thì bị thoát ra lại màn hình chính, tôi đã thoát icloud và reset lại máy nhưng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.72609,
+         "id": "871256",
+         "field_search": "question",
+         "question": "Xóa tài khoản icloud trên iphone 5s?Em được người chú tặng chiếc iphone 5s mà còn bị dính tài khoản icloud thì em phải làm thế nào để bỏ được tài khoản ạ? Ở thegioididong có hỗ trợ không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.7034,
+         "id": "1164088",
+         "field_search": "question",
+         "question": "iPhone hay hiện dòng tin “bạn có thể bị tính phí khi dùng tin nhắn SMS để kích hoạt iCloud “có phải tôi bị ai đó đăng nhập iCloud ? “",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.67622,
+         "id": "765451",
+         "field_search": "question",
+         "question": "Cho e hỏi cách xem ảnh đã lưu trên icloud và nếu đã đưa lên icloud thì khi xoá ở album ảnh có mất trên icloud k?rất mong được hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.62944,
+         "id": "900626",
+         "field_search": "question",
+         "question": " Em muốn hỏi em bị quên tài khoảng icloud iphon 5 có phá khóa được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.25253,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.99776,
+         "id": "1144894",
+         "field_search": "question",
+         "question": "cho e hỏi máy iphone cũ đã tháo icloud muốn tạo icloud mới nhưng máy báo k tạo được tài khoản là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.955765,
+         "id": "830527",
+         "field_search": "question",
+         "question": "admin cho mình hỏi, đt iphone của mình báo tài khoản icloud đã đầy, mình có đăng nhập và trang web icloud, mình muốn xem hiện tại icloud của mình đang sao lưu những gì mà bị đày, vì máy mình chỉ cài vài chương trình cơ bản, hình ảnh và video thì mình tải hết lên phần mềm drop rồiThanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.595856,
+         "id": "819633",
+         "field_search": "question",
+         "question": " Tôi muốn thay đổi tài khoản icloud, nhưng tài khoản icloud cũ vẫn còn trong máy và tôi không nhớ mật khẩu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.36784,
+         "id": "744372",
+         "field_search": "question",
+         "question": " Tôi có iPhone 4S, tôi mua lại và bị xóa iCloud làm sao phải mở được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.207344,
+         "id": "826794",
+         "field_search": "question",
+         "question": "anh ơi cho em khi mà chạy chương trình cho iphone lại yêu cầu nhập tài khoản icloud .Mình nhập tài khoản icloud khác khi đã đăng ký trên APPLE ID được không vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.028885,
+         "id": "835385",
+         "field_search": "question",
+         "question": "Cho em hỏi. em bị mất điện thoại ip5, sau khi mất thì e có lên icloud định vị nhưng bị ngoại tuyến. máy em có cả khóa màn hình và mật khẩu icloud. Em đã bật chế độ âm thanh và mất điện thoại , đã để lại lời nhắn. Vậy em có khả năng nào tìm được máy không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.99313,
+         "id": "766661",
+         "field_search": "question",
+         "question": "em vừa bị mất điện thoại iphone 5, máy em có cài mã khóa 6 số, có cài icloud bảo mật,em khóa icloud 2 lớp luôn, có cài find my iphone, nhưng chỉ có điều em không bật định vị. em nghe nói ios 8 trở lên thì không bẻ khóa icloud được,em vào phần find my iphone và thông báo mất iphone. anh chị cho em hỏi điện thoại em có thể bẻ khóa icloud không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.69382,
+         "id": "905606",
+         "field_search": "question",
+         "question": "Công ty cho em hỏi, em vừa bị mất ip 5s. em k bật chế độ tìm ip, em đăng nhập icloud bằng máy tính, vào quản lý và ấn đăng xuất trên tất cả các thiết bị. như vậy icloud của em đã đc xóa khỏi ip cũ chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.5808,
+         "id": "822929",
+         "field_search": "question",
+         "question": "Xin chào. Tôi mua lại máy, lập tự iCloud mới, ghi lại mật khẩu và ban đầu dùng được. Sau một thời gian tôi dùng lại m khẩu đó lại báo k được. Tôi đành phải thay đổi mk và xác nhận thành công. Nhưng ngay sau đó tôi cần tải một số thứ thì k thể dc do báo là Tk bị khoá. Tôi phải làm sao ạ? Xin giúp tôi với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.55692,
+         "id": "889216",
+         "field_search": "question",
+         "question": "Mình muốn nang cấp phần mềm iOS 10 nhưng chỉ sợ là lúc nâng cấp xong thì kêu phải đăng nhập bằng tài khoản , lúc trước mình cung có và làm do quên nên máy trở thành cục sắt luôn , h mình muốn nang cấp mà lại quen mk iCloud , nó cứ hiện lên là đăng nhập tài khoản iCloud , một máy mà mìn sử dụng tài khoản iCloud , và id Apple , ko biết có thể nang cấp phần mềm đc ko , nâng cấp thì mình chỉ cần tài khoản id hay iCloud vậy , mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.517105,
+         "id": "816642",
+         "field_search": "question",
+         "question": " Tôi muốn cài đặt lại tài khoản icloud của máy iphone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.45707,
+         "id": "1008876",
+         "field_search": "question",
+         "question": "hào adm, bạn cho mình hỏi là ip6 của mình khi mua thì mình không để ý đến tài khoản icloud, mấy hôm nay mình có xem thì trong máy không hề có tài khoản icloud mà chỉ có một tài khoản email, phần icloud vẫn để trống. Sau đó mình có lập 1 tk icloud để sử dụng, sau khi đăng nhập thành công thì mất toàn bộ danh bạ, vậy ad cho mình hỏi là danh bạ đó có bị mất hoàn toàn không? nếu không thì làm cách nào để lấy lại được? Cảm ơn ad đã đọc và rất mong nhận được sự giúp đỡ vì đây là danh bạ làm ăn rất quan trọng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.094986,
+         "id": "877690",
+         "field_search": "question",
+         "question": "Add cho em hỏi chút, em có chiếc iphone 5s cũ nhưng quên mật khẩu icloud vì bị người khác đổi mất, máy có mật khẩu giới hạn nhưng em ko nhớ. Bây giờ em muốn restore lại hoàn toàn máy. Khi em kết nối itunes thì thấy tài khoản icloud đó đang dùng ở 1 điện thoại iphone khác.Vậy có cách nào không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.07365,
+         "id": "1166502",
+         "field_search": "question",
+         "question": "2 iPhone của mình dùng chung 1 iCloud mà 1 cái bị mất. Giờ mình có thể khoá tk điện thoại đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.03783,
+         "id": "1147165",
+         "field_search": "question",
+         "question": " cho mình hỏi mình bị mất tài khoản icloud thì có tạo tài khoản icloud khác dùng được k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.835556,
+         "id": "795000",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em đăng xuất tài khoản iCloud ra thì bị xoá hết ảnh và dữ liệu trg máy.vậy lúc đăng nhập lại tài khoản iCloud đó thì có khôi phục được ảnh và dữ liệu trong máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.78587,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.528336,
+         "id": "813911",
+         "field_search": "question",
+         "question": "Tôi có mua 1 chiếc điện thoại iPhone 4S của 1 người lạ nhưng quên không bảo mở khóa màn hình icloud giờ như máy mở hình vậy giờ tôi phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.455025,
+         "id": "765996",
+         "field_search": "question",
+         "question": " Không có  tài khoản icloud tìm lại được iphone khi bị mất không vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.42802,
+         "id": "959918",
+         "field_search": "question",
+         "question": "bạn em cho mem mượn cái iphone 4 ,nhưng bị mất tài khoảng icloud , em không đăng nhập dc nên không thể sử dung dt , có cách nào giúp em không ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.351494,
+         "id": "835718",
+         "field_search": "question",
+         "question": " Tôi quên tài khoản iCloud làm như thế nào mà lấy lại được tài khoản để mở được iphone 4S đây ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.2514,
+         "id": "885947",
+         "field_search": "question",
+         "question": " Tgdd có thể chỉ cho tôi cách xoá ảnh trên icloud iphone 6 được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.23856,
+         "id": "825602",
+         "field_search": "question",
+         "question": "xin chào thegioididong!Tôi có sử dụng iphone 5 (IOS 9.3.1) cũ, đã có cài icloud của chủ cũ. Tôi vô tình bấm sao lưu icloud nữa chừng rồi bấm hủy. T thấy lần sao lưu cuối cùng là trước lúc tôi sử dụng máy này. Xin hỏi là thông tin của tôi có bị chuyển vào icloud nếu chưa hoàn tất quá trình sao lưu? Trong trường hợp iphone bị khóa kích hoạt không thể reset máy cũng không thể làm gì phải không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.093666,
+         "id": "758137",
+         "field_search": "question",
+         "question": "Cho em hỏi em bị mất 1 chiếc iPhone 6s . Máy em kích hoạt rồi nhưng chưa cài icloud . Bằng số imei có thể tìm lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.99531,
+         "id": "1144427",
+         "field_search": "question",
+         "question": "Lúc trước mình xoá icloud trên PC và hiện tại icloud đó đã không còn trên máy chủ Apple nhưng còn dính vào điện thoại mình và đánh mật khẩu thì ko thể xác minh thì bây giờ mình phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.863014,
+         "id": "827316",
+         "field_search": "question",
+         "question": "Xin chào!Tôi đã dùng viber được một thời gian, nhưng hiện tại tôi đang sống ở nước ngoài. Tôi muốn hỏi làm thế nào để giữ được thông tin và số điện thoại đã đăng ký để đăng nhập cho lần cài đặt mới lần sau, vì đôi khi điện thoại của tôi bị trục trặc và tôi phải cài mới lại từ đầu, nhưng vì ở nước ngoài nên không thể dùng đăng ký theo số điện thoại cũ được. Xin hướng dẫn làm cách nào để tôi có thể lấy lại thông tin tài khoản la số điện thoại cũ để đăng nhập cho lần cài đặt mới? Xin giải đáp cho tôi theo email: hanhbanmai@yahoo.com. Xin chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.49774,
+         "id": "764893",
+         "field_search": "question",
+         "question": " Mình đã sao lưu ảnh lên iCloud, thì làm cách nào để vào xem lại ảnh trên iCloud bằng điện thoại nhanh nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.41312,
+         "id": "801792",
+         "field_search": "question",
+         "question": " Khi đăng nhập icloud trên máy tính để tìm iphone mà không có thiết bị nào là sao hả ad ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.29887,
+         "id": "767551",
+         "field_search": "question",
+         "question": " Tôi đang xài iPhone 4, tôi đã quên mật khẩu icloud. Có cách nào để xoáthoát tài khoản ra không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.22237,
+         "id": "947649",
+         "field_search": "question",
+         "question": "Điện thoại của em bị hỏng màn hình không bấm được. E muốn tắt ứng dụng Tìm Iphone trên máy nên đăng nhập vào trang web icloud.com bằng tài khoản icloud của em nhưng lại được báo là không tìm thấy thiết bị có nghĩa là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.19226,
+         "id": "754004",
+         "field_search": "question",
+         "question": " Cho em hỏi máy em bị mất em thực hiện xoá iPhone trên trang icloud. Con giờ iPhone đó có dùng được tiếp không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.073204,
+         "id": "760649",
+         "field_search": "question",
+         "question": "Em làm rớt mất iPhone 6S. Điện thoại có cài mật khẩu vân tay, tài khoản iCloud thậm chí đã báo mất. Mà mấy nay xài chức năng tìm iPhone nhưng toàn thấy ngoại tuyến. Vậy khả năng em có tìm được iPhone không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.01954,
+         "id": "827866",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em có 1 con IPhone 6 nhưng lại bị dính icloud có cách nào khắc phục ko ạ e có thể đung dịch vụ bẻ khoá icloud được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.91062,
+         "id": "1138933",
+         "field_search": "question",
+         "question": "tôi vừa mua ip 7 plus đã qua sử dụng, nhưng khi nhận máy t không thể đang nhập vào icloud, cũng ko tìm thấy icloud , phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.77659,
+         "id": "873506",
+         "field_search": "question",
+         "question": "tôi không vào được icloud do không nhớ mật khẩu, sau khi không nhớ tôi ấn mấy lần mật khẩu nhưng không đúng, máy báo tài khoản của tôi bị khóa. sau đó tôi vào máy tính đặt lại mật khẩu gmail và vào lại. nhung máy chỉ xác nhận là tên ID Apple đúng mà không vào được icloud, máy chủ bảo đang xác lập lại, có cách gi bảo tôi với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.756195,
+         "id": "1021957",
+         "field_search": "question",
+         "question": "Chào ad. Tôi không rành về ip lắm và sợ mất ip.nên đây tôi xin nhờ ad giúp là mới mua 1 ip5 từ một anh chàng ở gia lai. Anh nói đã tắt icloud rồi. Nhưng giờ tôi vào tải thêm app thì nó hiện ra id. tôi bấm vào cài đặt thì nó hiện như trong hình. Vậy cho tôi hỏi là tôi có thể tạo 1 tài khoản khác cho tôi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.18675,
+         "id": "935891",
+         "field_search": "question",
+         "question": "Chào bạn! Cho mình hỏi: Minh có Iphone 5S giờ máy báo: Máy bị ẩn Icloud cũ của tôi! Tôi nâng cấp phần mềm! Máy bạn dùng icloud ẩn của tôi. Cho mình hỏi giờ mình phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.14047,
+         "id": "808954",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi, mình vừa sửa lại password của icloud trên email rồi nhưng khi quay trở lại icloud nhập mật mã thì máy hiển thị thông báo nhập mã sai, lúc này máy cử hiện thị thông báo icloud báo phải nhập mật mã hoài, mà mình đã sửa mật mã ok rùi và đăng nhập lại vẫn không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.132744,
+         "id": "774515",
+         "field_search": "question",
+         "question": " Tôi muốn biết giá bán lại điện thoại iPhone 4S đã bị khóa iCloud thì bán lại được bao nhiêu tiền? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.05806,
+         "id": "991885",
+         "field_search": "question",
+         "question": "cho em hỏi,em có mua máy cũ iphone 6 quốc tế, nhưng em ko tạo tài khoản icloud được do icon icloud trong phần cài đặt bị mờ nên ko bấm vô được, vậy làm sao để em có thể xóa tài khoản icloud cũ trước đó để lập tài khoản mới cho em được ạ? hướng dẫn em tạo tài khoản icloud mới đi ạ, e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.80526,
+         "id": "836103",
+         "field_search": "question",
+         "question": " mình bị mất iphone và đã khóa icload. Mình muốn lấy lại danh bạ và ảnh qua icloud có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.725525,
+         "id": "1160957",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi hiện tại iphone 6 của em bị khoá icloud vì em quên mật khẩu icloud , khoá 13 ngày ạ em có thể ghé thegioididong để sửa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.6645,
+         "id": "1136669",
+         "field_search": "question",
+         "question": " Tôi bị mất gmail. Tôi đã làm mọi cách nhưng ko thể đăng nhập lại. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.608574,
+         "id": "1156102",
+         "field_search": "question",
+         "question": "Em có con iphone 6 bị mất em ko cài mật khẩu và đã bị đăng xuất icloud máy e mua chính hãng bên tgdd vẫn còn bảo hành và giấy mua em muốn tìm điện thoại bằng imei có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.58633,
+         "id": "1136998",
+         "field_search": "question",
+         "question": " tôi mất số điện thoại khi tôi bảo mật sdt khi đăng nhập icloud ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.555916,
+         "id": "796717",
+         "field_search": "question",
+         "question": "Mình đã cài tài khoản icloud và dùng rất bình thường. Nhưng có 1 vài ứng dụng khi mình cập nhật thì nó cứ ra tài khoản icloud của người khác ( nếu mình cài đặt 1 ứng dụng mới nó vẫn sử dụng tài khoản của mình)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.479355,
+         "id": "1160728",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi IPhone 6 có phá được Pass Đt mà không cần Icloud k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.4668,
+         "id": "991050",
+         "field_search": "question",
+         "question": "Em lỡ xóa tài khoản icloud trong máy làm mất hết ảnh trong kho ảnh icloud rồi ạ. Có cách nào khôi phục lại ảnh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.42426,
+         "id": "812247",
+         "field_search": "question",
+         "question": "Tôi mới mua máy tính tại TGDĐ, khi bị trục trặc, tôi đã ra TGDĐ và nhân viên kỹ thuật đã cài lại win, nhưng sau khi cài đặt, máy bị loạn một số phím, bị mất phần mềm diệt virut mà tôi đã mua bản quyền và bộ Office tôi đã mua tại TGDĐ. Giờ phải làm thế nào để khắc phục những sự cố trên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.29595,
+         "id": "1146135",
+         "field_search": "question",
+         "question": "Cho e hỏi tí ... cái đt iphone của e bị dánh t.k icloud á mà nó bị khoá rùi . H e muốn bỏ cái icloud phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.85611,
+         "id": "770610",
+         "field_search": "question",
+         "question": " Không nhập icloud có thể khóa máy được không bạn, khi bị mất máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.85004,
+         "id": "844429",
+         "field_search": "question",
+         "question": "chomình hỏi mình tạo tài khoản iCloud nhưng đang nhập thì kg được và máy báo lổi là chưa xác minh tài khoãn thì phải làm thế nào chỉ mình với,còn nếu mình đăng xuất khỏi iCloud thì máy có bị vấn đề gì kg ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.78926,
+         "id": "1156898",
+         "field_search": "question",
+         "question": "Ad ơi. E láy icloud iphone đăng nhập vô ipab( trong khi ipad e có tài khoản) nhưng bgio e muốn thoát icloud của iphone ra ipab để e đăng nhập icloud ipab vào ,thì nó ciu sai id apple trong khi e vẫn nhớ. Nếu như vâty e có thể xài 2icloud trên cùng ipab và iphone dc kh ạ( mà iphone e bị hư nên e đaq tính sửa lại) sợ sửa rồi mà đăng nhập kh dc thì phone kh sài dc đúng kh ạ. Nhờ ad giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.74774,
+         "id": "898177",
+         "field_search": "question",
+         "question": "AD cho em hỏi. e có 1 tk icloud đăng nhập trên ip5s. e mua 1 chiếc ip6 về. e reset ip6 và khôi phục ip6 bằng icloud. giờ 2 ip đã giống hệt nhau. em nhận được thông báo nhập mật khẩu icloud. e vào cài đặt và nhập xong thì cả 2 ip bị đẩy ra và yêu cầu nhập id passwuod. e nhập vào thì nó báo không đúng. trong khi e không thay đổi mật khẩu icloud, e bị 2 lần rồi, mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.71004,
+         "id": "840066",
+         "field_search": "question",
+         "question": "điện thoại iphone 5s e vừa bị mất vài hôm, e có cài đặt tk va mk icloud nhưng e không cài mk màn hình, e vào tim ip bi mất thi báo là ngoại tuyến, e có báo chế độ mất va khoá từ xa, nhưng báo lệnh sẻ đươc thực hiên khi máy co kết nối mạng..máy e giờ đã thuê bao. Vậy cho e hỏi: trường hợp của em thì người ăn cắp đó có thể làm gi với máy e? và e có thể có cơ hội tìm chuộc lại máy k ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.65614,
+         "id": "755911",
+         "field_search": "question",
+         "question": "QTV cho em hỏi chút ạ. Em vừa dùng iPhone nên chưa iCloud là cái gi và chức năng của nó là như thế nào, dù đã tìm hiểu trên internet nhưng còn lơ mơ. Nên em muốn hỏi là mỗi máy sẽ có 1 tài khoản iCloud riêng hay là một người có một tài khoản iCloud là dùng chung cho iPhone nào cũng được hay là sao ạ? Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.46599,
+         "id": "781232",
+         "field_search": "question",
+         "question": " Làm sao để mở khoá tài khoản icloud ak. Khi icloud chạy ẩn ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.462425,
+         "id": "781769",
+         "field_search": "question",
+         "question": "Ad cho em hỏi.khi em tạo tài khoản icloud của em và em đăng nhập vào máy rồi mà khi vào appstore lại hiện 1 tài khoản icloud khác là sao vậy.cách khắc phục như nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

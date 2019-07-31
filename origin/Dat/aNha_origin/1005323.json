@@ -1,0 +1,801 @@
+{
+   "id_query": "1005323",
+   "total": 33950,
+   "total_current": 100,
+   "max_score": 99.99652,
+   "origin_question": "Máy mình không thể truy cập vào một vài ứng dụng trên máy, một thời gian sau đó thì máy lại không thể kết nối được với thẻ nhớ. Máy mình bị làm sao vậy? Ai cho mình cách khắc phục với.",
+   "hits": [
+      {
+         "score": 45.790318,
+         "id": "995815",
+         "field_search": "question",
+         "question": "Mình kích hoạt lại ip ko đc. Máy báo ko thể kích hoạt vì không thể kết nối với máy chủ. Chỉ cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.650757,
+         "id": "1164634",
+         "field_search": "question",
+         "question": "Thẻ nhớ mình bị gì ák? Điện thoại mình là Samsung J2 PrimeLúc đầu mình chuyển ảnh với ứng dụng vào trong thẻ nhớ cho máy nó nhẹMình xài được khoảng một thời gian thì thẻ nhớ nó xóa tất cả ứng dụng ra ngoài hết không còn ứng dụng nào trong thẻ nhớ cả làm máy nặng quá trời cái mình chuyển vào lại thì nó để là không đủ dung lượng lưu trữ nhưng thẻ nhớ mình tới 8gb lận mới dùm 2gb mà còn ảnh thì nó không thoát ra nhưng chuyển ảnh vào thì không được còn xóa ảnh trong thẻ nhớ thì nó để là có lỗi khi xóa file. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.023773,
+         "id": "1166419",
+         "field_search": "question",
+         "question": "Tại sao tài khoản itunes của máy mình bị lỗi không kết nối với máy chủ?? Có cách khắc phục không ạ. Nó khiến mình không tải được các ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.30613,
+         "id": "813053",
+         "field_search": "question",
+         "question": "Tải ứng dụng trên CH Play ko được cứ báo mã lỗi thì làm sao qtv- : Máy chủ Google không phản hồi, lỗi tạm thời.- : Xoá dữ liệu  và Dịch vụ Google Play.: Vào.: Chọn : Chọn.: Chọn .Các bạn thực hiện tương tự cho .Sau đó bạn có thể cần tắt nguồn  khởi động lại.- : Do thời gian máy của bạn bị sai với giờ hệ thống Google khiến CH Play báo lỗi.- : Bạn có thể vào \" cập nhật lại cho đúng với hiện hành.Nếu đã đúng ngày giờ bạn có thể tham khảo thêm cách sau: \"\".- : Tải ứng dụng từ CH Play bị gián đoạn.- : Do bộ nhớ cache của thiết bị đã đầy, vì vậy bạn nên xóa những ứng dụng (File) không cần thiết. Khởi động thiết bị vào chế độ rồi chọn \"\".>>> Bạn có thể tham khảo cách vào để reset một số dòng máy sau trong .- : Không tải được vì dính.- : Bạn sẽ thao tác tương tự lỗi đầu tiên và kết hợp với buộc dừng ứng dụng.Nếu vẫn chưa được bạn cần tiến hành sao lưu khôi phục gốc lại máy.- : Không tải được app khi 2  đã từng mua ứng dụng trên 1 thiết bị.- : Truy cập vào  với đúng tài khoản Google đang dùng >  > Sau đó “mua” lại.Trên đây là tổng hợp lỗi  cũng như . Chúc các bạn thao tac thành công.>>> >>> >>>",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.055824,
+         "id": "915489",
+         "field_search": "question",
+         "question": " ad ơi máy mình bị không thể kết nối với iTunes Store làm thế nào để khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.51258,
+         "id": "1015173",
+         "field_search": "question",
+         "question": "Máy không thể kết nối với mạng di động khắc phục sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.945644,
+         "id": "837769",
+         "field_search": "question",
+         "question": " Máy em cập nhật phần mềm iPhone mới sau đó truy cập Facebook thì lại không vào được làm sao để khắc phục ad?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.600563,
+         "id": "988233",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách sao lưu DS nhạc từ  sang  bằng các cách, có thể sử dụng máy tính làm vật trung gian ntn? Mình đã kết nối Bluetooth nhưng iPhone mình không thể tích hợp được với Samsung kia.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.155785,
+         "id": "754066",
+         "field_search": "question",
+         "question": "Mình dùng Galaxy J2, mình chuyển ứng dụng mp3Zing sang thẻ nhớ rồi, nhưng sau đó tải nhạc thì sao nhạc đó lại lưu vào bộ nhớ máy chứ k lưu trên thẻ? tương tự B612 mình cũng chuyển sang thẻ nhớ rồi nhưng hình chụp xong cũng lưu trên máy?Bạn chỉ mình cách cài đặt để mọi dữ liệu của ứng dụng đều lưu trên thẻ với, mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.10055,
+         "id": "1020198",
+         "field_search": "question",
+         "question": "Adim cho mình hỏi,  mình đang sử dụng đt c9 pr nhưng lại không thể kết nối dc với máy tính?  Z mình phải lm sau để kết nối dc z?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.705605,
+         "id": "1152167",
+         "field_search": "question",
+         "question": "Xin chào,  em đang sử dụng Oppo A83,  em gắn thẻ SD vào đã định dạng thẻ nhớ gắn ở máy khác,  khi gắn qua OPPO A83 em định dạng một lần nữa, lúc đó em chụp hình vẫn lưu vào thẻ nhớ bình thường,  khoảng vài tiếng sau em vào chụp lại thì nó báo\" lỗi thẻ SD, camera hiện thời không khả dụng \" làm cách nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.326317,
+         "id": "1004609",
+         "field_search": "question",
+         "question": "Chuyển dữ liệu asus zenpad c7.0 sang thẻ nhớ 16G . Mình có mua 1 cái thẻ nhớ , sau đó gắn vào cái zenpad nhưng ko biết cách chuyển dữ liệu , ai giúp mình với . Trên mạng có máy cách nhưng mình làm ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.03693,
+         "id": "774452",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.95132,
+         "id": "998763",
+         "field_search": "question",
+         "question": "Điện thoại ip6 của em có bị rơi. Rơi mạnh ạ. Sau đó thì ko thể kết nối được với mạng wifi . Làm ơn chỉ cho em cách khắc phục. Trạng thái máy vẫn bìh thường ạ. Chỉ k kết nối dc wf thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.91079,
+         "id": "774448",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi chút với ạ.Hiện tại mình đang dùng iphone 5 thường ,máy đã jaibreak nhưng vừa rồi khi đang sử dụng máy có bị sập nguồn, khi mình khởi động lại thì hiện logo bắt máy phải kết nối với itunes mình không thể thoát ra được.Vậy cho mình hỏi FPT có khắc phục lỗi này được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.658974,
+         "id": "1015224",
+         "field_search": "question",
+         "question": "Chào TGGD ! Mình mới lấy con redmi note 4 bên đó. Nhưng vào ứng dụng thời tiết thì không cập nhật được vị trí. Hiển thị lên là không thể định vị thiết bị. Vậy cho mình hỏi cách khắc phục được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.535324,
+         "id": "1024282",
+         "field_search": "question",
+         "question": "Mình vừa mua mới điện thoại. Nhưng tại sao đăng nhập vào tk gmail để tải ứng dụng trên CH Play thì báo không thể đăng nhập, xảy ra sự cố kết nối  với account.google.com , vậy là thế nào và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.53393,
+         "id": "744203",
+         "field_search": "question",
+         "question": "ad cho hỏi mình đang sử dụng Laptop Asus TP500l nhưng không thể phát âm thanh của máy và không thể kết nối với loa ngoài, mình có thể tự khắc phục được không nếu được mong add chỉ giúp. Thanks vr much",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.4199,
+         "id": "882548",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, trong thời gian sử dụng laptop e có tải một số ứng dụng về nhưng làm máy không chaỵ được, sau đó em vào phần thiết lập lại PC mà không làm mất tài liệu lưu trong máy, sau khi hoàn tất em lỡ tay xoá mất ứng dụng 365 office đã được cài đặt sẵn trong máy. Vậy anh chị có thể cài đặt lại cho em được không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.188774,
+         "id": "1013227",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có mua điện thoại asus zenfon 3max ở tgdd. Nay mình sử dụng dc 4 thánh tự nhiên máy bị đơ cảm ứng. lúc đầu nó bị loạn cảm ứng bây giờ thì bị đơ một dạch ngang máy, không thể vẽ mã hình mở máy được. vậy cách khắc phục như nào ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.175587,
+         "id": "780683",
+         "field_search": "question",
+         "question": "Chào bạn, mình đang sử dung iphone 4 không hiểu sao khi dùng dây cáp để kết nối với máy tính thì điện thoại cứ hiện lên là “phụ kiện không hỗ trợ” và mình không thể nào kết nối được với máy tính. Cho hỏi có cách nào để khắc phục không....mong sớm nhận được câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.164333,
+         "id": "1139167",
+         "field_search": "question",
+         "question": "Xin chào TGDD,Tôi có thẻ nhớ mua kèm với SS J7 pro tại TGDD, đang xài khoảng 1 năm. Mình chưa từng lấy thẻ nhớ ra khỏi máy, nhưng tầm 1 tuần nay là máy không nhận thẻ nhớ, mình có tháo ra lắp lại vào nhưng vẫn không nhận, rồi lúc nhận lúc không, mình cũng thử kết nối thẻ nhớ với máy tính thì được. Giờ mình cần làm gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.156326,
+         "id": "997059",
+         "field_search": "question",
+         "question": "Ipad của em vừa mới nâng cấp ios, sau đó em đăng nhập vào icloud của em thì không được, máy thông báo : \"Ko thể xác minh, Đã có lỗi kết nối với máy chủ id apple\"    Có cách nào khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.970688,
+         "id": "750542",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy Dell Inspiron 5547 i5 và em muốn kết nối với điện thoại qua bluetooth nó vẫn hiện lên thiết bị để kết nối nhưng vào kết nối thì không được ạ. Có cách nào khắc phục lỗi đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.883247,
+         "id": "765046",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình dùng công cụ savior trên cốc cốc để tải video về, có một số video tải được, một số video khi tải thì máy thông báo \" không thành công - bị cấm \" dù cùng một nghệ sĩ. Vậy là sao ạ? có thể cho mình cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.770664,
+         "id": "1135470",
+         "field_search": "question",
+         "question": "Giúp mình với ạ. Mình dùng ip 6, thời gian gần đây máy liên tục báo không đủ dung lượng để cập nhật phần mềm, mình đã xoá bớt ứng dụng nhưng không được, mãi mấy tuần sau tự dưng lại cập nhật được, ứng dụng cũng không tải được vì máy báo không đủ dung lượng trống, có lúc thậm chí còn không chụp ảnh được. Nhưng khi mình kiểm tra dung lượng thì máy còn trống nhiều, dung lượng đã dùng không vượt quá 18/32G. Mình không hiểu tại sao, không biết làm thế nào khắc phục được. Sau khi đã cập nhật phần mềm thì tình trạng này vẫn thế. Không thể tải thêm ứng dụng dù dung lượng trống còn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.63708,
+         "id": "827560",
+         "field_search": "question",
+         "question": " Làm sao để khắc phục việc đang truy cập ứng dụng mà bị thoát ra trên máy iPad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.557415,
+         "id": "1008203",
+         "field_search": "question",
+         "question": "Làm sao để cài đặt thẻ SD làm nơi lưu trữ mặc định đối với điện thoại meizu m5 ? Có thể chuyển một số dữ liệu ứng dụng vào thẻ nhớ được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.53684,
+         "id": "805997",
+         "field_search": "question",
+         "question": "Em vừa cập nhật phần mềm cho con ipad 2 của em mà cập nhật xong thì nó bị lỗi ghi là:\"không thể kích hoạt ipad của bạn vì máy chủ kích hoạt tạm thời không khả dụng.Thử kết nối ipad của bạn với itunes để kích hoạt hoặc thử lại sau một vài phút.\" thế là sao ạ ?? có bị hỏng gì không ạ em sợ quá các bác giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.39901,
+         "id": "1143380",
+         "field_search": "question",
+         "question": "tại sao cái máy oppo F1 của em không thể xóa được tệp video trên thẻ nhớ. Cũng không thể định dạng được ( định dạng xong tự phục hồi trong vài giây). em đã dùng nhiều ứng dụng nhưng không kết quả. Mong ad tư vấn cách xử lý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.134354,
+         "id": "992611",
+         "field_search": "question",
+         "question": "Máy e đang sài là ip6s. Sau một thời gian tìm hiểu về những tính năng mà ios11 đem lại thì e mới thử nâng cấp lên xem sao. K ngờ thì hậu quả để lại là máy bị đơ và khó sài quá,e muốn phát điên lên mất. E có nghe nói là mình có thể kết nối với máy tính và tải phần mềm gì đó về để có thể kéo lại xuống ios 10.3.2 được. Cho e hỏi TGDĐ có thể giúp e đc k ạ??Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.922634,
+         "id": "1013585",
+         "field_search": "question",
+         "question": "Ai cho tôi biết lỗi này trên Windows XP với : Khi tôi cài một ứng dụng lên máy thì chạy được nhưng khi tắt máy và khởi động lại thì không còn thấy ứng dụng nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.92145,
+         "id": "868826",
+         "field_search": "question",
+         "question": "Sao hôm nay không thể vào được Facebook, đăng nhập vào thì nói là không thể kết nối. Làm sau để khắc phục được vậy ạ? Em đang dùng samsung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.87629,
+         "id": "1142177",
+         "field_search": "question",
+         "question": "mình muốn kết nối nokia2 với laptop qua dây usb để lấy ảnh ra. nhưng khi kết nối thì điện thoại chỉ có xạc không thể kết nối với máy được? xin hỏi phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.760136,
+         "id": "828347",
+         "field_search": "question",
+         "question": "Qtv, mình không vào được facebook từ trưa đến giờ, mặc dù đã tắt mở lại mấy nhiều lần, sau đó có xóa ứng dụng facebook để tải lại nhưng lại không thể tải lại ứng dụng mặc dù kết nối mạng vẫn bình thường, khi tải về lại thì báo lỗi -504, cho mình xin cách khắc phục ạ. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.748547,
+         "id": "1148342",
+         "field_search": "question",
+         "question": "Hiện mình có đang sử dụng một con Nokia 3. Mua và sử dụng từ năm ngoái đúng ra là tháng 12/2017. Lúc đấy thẻ SD 4GB cũ của mình vẫn còn sử dụng bình thường, chỉ gắn vào là nhận thẻ, đọc ghi bình thường. Nhưng hiện mình cần sử dụng thêm nhiều ứng dụng nữa nên đã mua một con SD 32GB khi gắn vào thì thẻ không tự nhận, kèm theo đó là mình không định dạng thẻ thành bộ nhớ trong của máy được, thêm cái nữa, sau khi mình gắn lại thẻ SD 4GB thì nó không nhận luôn. Mọi người cho mình xin hướng dẫn để sử dụng được thẻ SD với ạ, mình chật vật vài ngày nay với chuyện này rồi ạ. Xin cảm ơn.......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.638275,
+         "id": "1150237",
+         "field_search": "question",
+         "question": "Em dùng thẻ nhớ 32G cho điện thoại sasung j2 nhưng không biết cài đặt thế nào để sử dụng thẻ nhớ. Em đã định dạng thẻ nhớ nhưng vẫn không chuyển file từ máy sang được. Máy đã gần dùng hết 8G nên không tải được một số ứng dụng trên CHplay. Vậy em phải làm thế nào để dữ liệu thẻ nhớ chuyển vào bộ nhớ trong để có thể sử dụng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.306335,
+         "id": "997501",
+         "field_search": "question",
+         "question": "Sao mình đăng nhập vào appstore thì nó thông báo không thể kết nối được với appstore vậy Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.25087,
+         "id": "828934",
+         "field_search": "question",
+         "question": "cho mình hỏi máy mình dùng windows phone 10 sau khi đổi dns để vào facebook, nhưng sau khi mình tắt IP tĩnh đi thì nó bị mấy cổng nối mặc đinh và kết nối wifi nó báo ko có internet. chỉ cho mình cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.109905,
+         "id": "855363",
+         "field_search": "question",
+         "question": "chào a/c ạ😊em có một em iphone 3, cho em hỏi là:...- máy khôq thể truy cập mạq bằq tiền đc ạ, khi kết nối wifi thì đc ạ...-em khôq thể tạo tài khoản appstore đc...-khôq thể tải game hoặc ứng dụng về máy đc ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.874527,
+         "id": "1164897",
+         "field_search": "question",
+         "question": "Xin chàoCho mình hỏi có ứng dụng android  nào cho phép mình truy cập  vào mạng wifi rồi tạo một văn bản để thông báo với những thiết bị đang dùng mạng đó luôn không ạ.Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.818836,
+         "id": "1006634",
+         "field_search": "question",
+         "question": "ad cho mình hỏi: Mình đang sử dụng Sky A900L dạo gần đây có hiện tượng vào bất kì 1 ứng dụng nào máy đều yêu cầu đóng ứng dụng sau đó đơ máy. Mình phải tháo pin, reset lại mặc định nhưng sau vài phút lại có hiện tượng trên. Mong ad tư vấn cách khắc phục. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.793064,
+         "id": "808270",
+         "field_search": "question",
+         "question": "Mình đang sử dụng Sky a900 nhưng khi mình chơi trò chơi , sau đó thì mở tab mới ra ngoài , một ít phút sau mở tab trò chơi cũ thì lại phải chạy lại trò chơi ấy . ad cho mình hỏi cách khắc phục và lỗi của máy với ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.776863,
+         "id": "1024275",
+         "field_search": "question",
+         "question": "mình dùng máy tính dell vostro i3 sau khi tắt máy mở lại thì ngày giờ bị trở lại năm 2010 nếu không cài đặt ngày giờ lại thì không thể bắt wifi là sử dụng mạng đc cho hỏi máy mình bị sao và cách khắc phục nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.74794,
+         "id": "1136232",
+         "field_search": "question",
+         "question": "Máy mình sử dụng là Sony Xperia C5 Ultra Dual. Cho mình hỏi là tại sao máy mình khi kết nối vpn (uu, cm...) thì vào game lại báo không kết nối. Xin bạn hãy giúp mình với ạ. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.68518,
+         "id": "1007151",
+         "field_search": "question",
+         "question": "Làm cách nào để các dòng máy như Sony có thể chuyển ứng dụng vào thẻ nhớ được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.66016,
+         "id": "1022199",
+         "field_search": "question",
+         "question": " máy mình như thế này là bị làm sao vậy?? cho mình cách khắc phục với. cám ơn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.587906,
+         "id": "1002926",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi là: e bị mất máy điện thoại oppp F1s mấy hôm rồi. Trên máy đó e đã từng dùng tài khoản Google để truy cập và đồng bộ. Sau khi mất e lên máy tính làm theo hướng dẫn tìm điện thoại, cài đặt khóa máy. Thỉnh thoảng lại vào tìm thiết bị, nhưng ko tiếp cận được thiết bị, thời gian đồng bộ lần cuối vẫn là ngày 3.7. E hiểu là điện thoại của em có thể vẫn bị tắt nguồn, hoặc mở nguồn nhưng ko truy cập internet. Nếu khi người ta kết nối internet,truy cập  vào google, youtobe,... thì trên máy tính em đang tìm có báo cho em biết thời gian đồng bộ mới nhất của máy Oppo F1s đó ko? Và nếu báo và có vị trí của máy thì e làm gì tiếp theo?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.537876,
+         "id": "1000067",
+         "field_search": "question",
+         "question": "Em dùng oppo A37f, khi em gọi máy báo lỗi không thể kết nối mạng di động nhưng khi khởi động lại máy thì được, khoảng thời gian ngắn lại báo lỗi. Ad giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.516476,
+         "id": "761389",
+         "field_search": "question",
+         "question": " Không thể kết nối với app store, khắc phục bằng cách nào?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.14374,
+         "id": "867848",
+         "field_search": "question",
+         "question": "Hiện nay mình đang xài iphone5s hệ điều hành ios 9.3.3. Nhưng sau khi cập nhật hệ điều hành thì không thể kết nối vào App Store. Cho hỏi cách khắc phục điều này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.132607,
+         "id": "831444",
+         "field_search": "question",
+         "question": "Minh muốn hỏi là một người bạn chặn tn zalo của mình, sau một thời gian khi mình kết bạn với ng đó thì nhận được thông báo là: ng đó ko muốn nhận lời mời kết bạn với bạn. sau đó mình nt thì vẫn gửi được, tn ở trạng thái đã gửi, nhưng tn vẫn ở tt đã gửi mãi mà ko chuyển qua đã nhân. M bực mình quá khoá zalo luôn nhưng khi đăng kí lại thì ng đó lại có sẵn trong danh bạ bạn bè là sao vậy ạ? Có phải bạn đó đã chủ động kết bạn lại với m hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.09052,
+         "id": "1146703",
+         "field_search": "question",
+         "question": "Xin chào các Admin! Mình xin được hỏi : Khi đã đồng bộ Hình Ảnh từ Google Ảnh sang Google Drive sau khi Khôi phục lại Cài đặt Gốc có bị mất hay không. Máy của mình ứng dụng File của bạn thông báo đã Dừng! nên không thể di chuyển Ảnh vào thẻ nhớ được  và mình có thể tải lại một ứng dụng File mới để thay thế được không ? Mong các Admin chỉ giúp ! Chân thành cảm ơn Admin  ( Từ TP. S.Trăng 😍).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.071354,
+         "id": "1017028",
+         "field_search": "question",
+         "question": "Mình đang dùng sam sung note 3 . khi mình mua gậy tự sướng cắm tai nghe thì dùng được. Nhưng một thời gian mình ko dùng sau đó đem ra dùng lại thì ko được. Nhưng khi kết nối thì vẫn được mà chụp hình lại ko được. Mà khi chụp ko được nhưng trên máy chẳng hiển thị gì cả. Giờ mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.041527,
+         "id": "1009958",
+         "field_search": "question",
+         "question": "Mình đang dùng điện thoại htc 816g. Mình muốn chuyển một số ứng dụng từ bộ nhớ máy sang thẻ nhớ nhưng không được. Có phải điện thoại này không hỗ trợ chuyển ứng dụng từ bộ nhớ máy sang thẻ nhớ không? Nhờ quản trị viên hỗ trợ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.935112,
+         "id": "1162649",
+         "field_search": "question",
+         "question": "Mình đang xài Samsung Galaxy Note 3 Neo. Mình mới mua 1 thẻ nhớ 32GB lắp vào máy. Mình có chuyển Game vào thẻ nhớ nhưng khi cập nhập Game nó lại hiện không đủ dung lượng và mình không thể cập nhập game tiếp được? Vậy là do sao ạ?*Mình còn chuyển thêm Mess và Face vào thẻ nhớ*",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.93451,
+         "id": "744471",
+         "field_search": "question",
+         "question": "IP4s của mình bị lỗi không cài đặt được ứng dụng vào lúc này.Mình kết nối với máy tính qua itunes nhưng cũng không đồng bộ được ứng dụng vào.Các bạn giúp mình được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.88884,
+         "id": "837387",
+         "field_search": "question",
+         "question": "Mình không thể tải các ứng dụng trên Iphone . Khi dăng nhập xong hiện lên bảng thông báo : không thể kết nối với Itunes store là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.83683,
+         "id": "1143889",
+         "field_search": "question",
+         "question": "Máy mình là samsung galaxy j3 2016 và sau khi lắp thẻ nhớ vô máy thì máy vẫn ko cài đặt đc thêm ứng dụng nào cả Cho mình xin câu trả lời ạ Mình cũng đã xem qua cách giải quyết bộ nhớ đầy của thế giới di động nhưng máy mình không áp dụng được cách ý Các bạn cho mình câu trả lời với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.82968,
+         "id": "1164499",
+         "field_search": "question",
+         "question": "Chào TTDD .mình có mua 1 chiếc a3s tại đây.dùng được 1 thời gian thì bây giờ máy mình gặp trục trặc kết nối wifi rất kém .có cách nào để khắc phục được không vậy .mong nhận được phản hồi sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.79852,
+         "id": "993606",
+         "field_search": "question",
+         "question": "Chào tgdd,Mình đang sử dụng máy DELL mua ở TGDDHôm qua máy mình vẫn hoạt động bình thường, tuy nhiên, hôm nay bỗng nhiên wifi kết nối nhưng không hoạt động.Cụ thể là mình đã kết nối (connected), tuy nhiên vẫn bị No internet.Biểu tượng wifi phía dưới thì không bắt đc cột sóng nào (trong khi phía trên là full)Không phải vấn đề với router vì dt vẫn kết nối bình thường, mình cũng đã test trên nhiều wifi và đều bị.Xin cho mình hỏi là máy mình bị lỗi gì và cách khắc phục đc không ạ? (những cách đơn giản trên mạng mình đã thử qua nhưng không khả quan)Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.770515,
+         "id": "1001529",
+         "field_search": "question",
+         "question": "  máy của em truy cập vào ứng dụng hay hiện lên bảng này nhưng em không biết cách làm . chỉ em với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.753624,
+         "id": "1152046",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy nokia e71. Khi em truy cập web trình duyệt của máy thì nó báo không thể thực hiện lệnh. Làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.748085,
+         "id": "828793",
+         "field_search": "question",
+         "question": "Không vào được facebook là sao, messenger thì cứ \"Đang kết nối\". thử xóa hết ứng dụng rồi cài lại vẫn không được. Truy cập facebook bằng trình duyệt cũng không được. Trong khi đó vẫn vào được các trang khác bình thường.Giúp e với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.72223,
+         "id": "1156348",
+         "field_search": "question",
+         "question": "Mình tải ứng dụng game nặng trên apk vào trong thẻ nhớ vậy có hại gì cho máy ko... Máy mình vivo y91i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.71191,
+         "id": "997943",
+         "field_search": "question",
+         "question": "mình đang dùng samsung j7 2015, mình chuyển ứng dụng sang thẻ SD nhưng chỉ 1 thời gian tất cả ứng dụng lại trở về bộ nhớ máy là sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.666504,
+         "id": "772816",
+         "field_search": "question",
+         "question": " Em dùng iPhone 5, khi vào Apple Store tải game và các ứng dụng thì máy báo lấy không thể kết nối với Apple store? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.64518,
+         "id": "1157259",
+         "field_search": "question",
+         "question": "Mình hiện vừa mua một iphone x của thegioididong và máy của mình đang mắc lỗi không hiển thị được hiệu ứng trong imessage. Vẫn nhắn tin imessage được nhưng không thể sử dụng hiệu ứng được. Mình có tham khảo trên mạng các cách để chỉnh sửa lỗi thì trong đó có một cách cơ bản là tắt imessage đi rồi bật lại. Nhưng sau khi tắt imessage thì máy lại báo lỗi chờ kích hoạt và mình không mở lại imessage được. Mình có thử tắt máy và thậm chí cài đặt lại máy nhưng khi thử lại thù vẫn mắc phải tình trạng tương tự như trên. Hiện máy của mình vẫn quay về trạng thái ban đầu là nhắn tin văn bản hay sử dụng imoji và digital touch trên imessage vẫn ok nhưng riêng hiệu ứng (bằng cách nhấn giữ phím mũi tên) thì vẫn không được. Bộ phận hỗ trợ có thể giúp mình trường hợp này không. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.491043,
+         "id": "1162683",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi vs. Mình đang xử dụng tai nge bluetooth kết nối vs ip7 plusMình lỡ ấn vào quên “quên thiết bị này”Sau mình kết nối lại thỳ máy dò ko ra thiết bị bluetooth Mình dùng 1 số máy khác dò cũng ko thấy. Khởi động lại máy cũng lo đc. Mà kết nối với thiết bị bluetooth khác thỳ lại đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.487072,
+         "id": "871493",
+         "field_search": "question",
+         "question": "loptop của mình là lotop hp, kết nối wifi thì mạnh nhưng lên mạng lại không được trong khi máy hiển thị là đã kết nối rồi. có ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.47883,
+         "id": "822929",
+         "field_search": "question",
+         "question": "Xin chào. Tôi mua lại máy, lập tự iCloud mới, ghi lại mật khẩu và ban đầu dùng được. Sau một thời gian tôi dùng lại m khẩu đó lại báo k được. Tôi đành phải thay đổi mk và xác nhận thành công. Nhưng ngay sau đó tôi cần tải một số thứ thì k thể dc do báo là Tk bị khoá. Tôi phải làm sao ạ? Xin giúp tôi với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.311596,
+         "id": "1010975",
+         "field_search": "question",
+         "question": "e xài gionee j103 pro sao mà không di chuyển được các ứng dụng trong máy và không nhận được ảnh trong thư viện .... đã thử khôi phục máy lại nó trở lại bình thường và chỉ sau vài giờ nó lại bị giống v . có thể hướng dẫn e cách khắc phục được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.234486,
+         "id": "1159814",
+         "field_search": "question",
+         "question": "A,chị cho e hỏi e kêt nối bluetooth với một thiêt bị mà e lỡ bấm vào quên thiêt bị đó làm sao để kết nối lại thiết bị đó đc ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.17965,
+         "id": "993510",
+         "field_search": "question",
+         "question": "Cho mình hỏi .Sao mình không tải được ứng dụng zalo trên IP4 thường,Vào appstore thì máy bảo chỉ tải được trên iOS 8. .Vậy có cách nào để mình tải ứng dụng zalo về không nhĩ ! Có gì mọi người chỉ mình với nhé !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.178753,
+         "id": "778392",
+         "field_search": "question",
+         "question": " Cho mình hỏi được không tại sao iPad Air 2 của mình không thể kết nối với iTunes store vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.16332,
+         "id": "836264",
+         "field_search": "question",
+         "question": "Em có cái laptop HP chạy win 10 nhưng dùng được một thời gian thì vài ứng dụng trên win 10 bị lỗi không vào được chẳng hạn như Microsoft Edge, Groove Music. Search Windows không tìm kiếm được. Em thử đủ mọi cách sửa lỗi trên mạng nhưng chẳng ăn thu, reset lại máy thì máy báo couldn't find recovery environment. Anh/chị cho em hỏi còn cách nào reset lại máy như lúc mới mua không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.15684,
+         "id": "757095",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm thế nào để kết nối iPhone 5S với máy tính. mình đã cài iTunes nhưng khi kết  nối thì trên PC không hiện link để copy ảnh từ iPhone sang máy tính được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.1207,
+         "id": "822991",
+         "field_search": "question",
+         "question": "Qtv cho em xin hỏi là khi em cài đặt Windows 10 lên máy tính bằng cách tải xuống từ trang chủ của Microsoft, sau khi cài đặt xong thì máy không thể nhận mạng từ wifi dù đã kết nối ạ,em đã kiểm tra mạng và mạng vẫn kết nối được với các thiết bị khác.Vậy thì có thể cho em hỏi cách khắc phục lỗi này được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.107033,
+         "id": "1002639",
+         "field_search": "question",
+         "question": "Mình đang dùng máy tabA6 s585y,có thể chuyển ứng dụng từ bộ nhớ máy qua thẻ sd không ad ơi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.062267,
+         "id": "1001926",
+         "field_search": "question",
+         "question": "ad ơi em dùng Samsung Mini  GT S5360 . Máy em rút sạc ra rồi mà nó vẫn tự sạc. Sau đó em lên mạng tìm cách khắc phục ấn vào RIÊNG TƯ->ĐẶT LẠI DỮ LIỆU CỦA NHÀ SX-> kHỞI ĐỘNG LẠI ĐIỆN THOẠI. Nhưng mà sau đó khởi động lại nó không tải đc các ứng dụng facebook, mess,... nữa và máy vẫn tự sạc. Sau đó sdung wifi đc vài ngày hôm nay nó lại k kết nối đc. Ad có thể chỉ em cách phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.05347,
+         "id": "1015239",
+         "field_search": "question",
+         "question": "Ss j7 prime cập nhật phần mềm máy tự khởi động lại có gắn thẻ nhớ sao không mở khóa được gở thẻ nhớ ra thì mở khóa được xong gắn thẻ nhớ lại. thì mất 1 ứng dụng messenger như vậy messger tự bị xóa sao Ứng dụng messger không khả dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.938274,
+         "id": "937925",
+         "field_search": "question",
+         "question": "Em chào tgdd, trước e có mua ở tgdd một laptop acer sử dụng nay đã hơn 2 năm trong thời gian sử dụng máy có lỗi nên e có đến tgdd và dc cài lại win... sau đó e không nhớ được tài khoảng win ban đầu nên đã sử dụng tài khoảng mới.. sử dụng được một thời gian thì chương trình office của lap top bị lỗi .. các ứng dụng word, powerpoint, excel.. bị mất chức năng ... có phải do đổi tài khoảng win không... và làm sao để sử dụng các ứng dụng bản quyền này, không bị giới hạn thời gian...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.87061,
+         "id": "1147092",
+         "field_search": "question",
+         "question": "Máy em dùng là hp máy ngày trước bị tắt nguồn do hết pin sau đó vẫn có thể sử dụng và hôm nay em mở máy thì vẫn xem được nhưng một lúc thì máy không thể kết nói wifi nên em thử restart khởi động lại máy nhưng lại bị lỗi preparing automatic prepair em đã thử F8, ship F8, thì có nổi lên biểu tượng \" :( \" và một dòng chữ \" ..... You can restart \" sau đó em lại mỡ máy lại mà máy tính chỉ xuất hiện màng hình đen với biểu tượng hp và dòng chữ preparing automatic prepair và không xuất hiện thêm gì. Xin hãy giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.79088,
+         "id": "836204",
+         "field_search": "question",
+         "question": "em có một số ảnh trên điện thoại iphone và muốn cop sang máy tính nhưng khi kết nối với máy tính thì lại ko thấy hết ảnh mà chỉ được một số ít như vậy là bị sao ạ và em phải làm như nào để thấy được hết ảnh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.75432,
+         "id": "785574",
+         "field_search": "question",
+         "question": "Nâng cấp lên ios 9.0.2 máy iphone 5 thành công được một lúc thì bị xanh màn hình rồi tự động khởi động lại vẫn bị xanh màn hình có thể chỉ mình cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.75051,
+         "id": "1010981",
+         "field_search": "question",
+         "question": "Máy mình là a7000 giờ không thể kết nối với máy chủ google được để đăng nhập tài khoảng. Làm phiền ad hướng dẫn để sửa lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.71473,
+         "id": "1151192",
+         "field_search": "question",
+         "question": "Ad cho hỏi có cách nào khắc phục máy j2 prime bộ nhớ cứ tăng thất thường nên hay báo đầy bộ nhớ mặc dù mình đã tắt cập nhật trên ch play và mấy ứng dụng chuyển vào thẻ Sd đc thì mình đã chuyển vào..mình có tải nhiều đâu mà bộ nhớ cứ thất thường hay đầy bộ nhớ ạ..mong ad hướng dẫn khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.67562,
+         "id": "1010021",
+         "field_search": "question",
+         "question": "Chào tgdđCho mình hỏi mình đăng nhập icloud trên iphone 5s nhưng bây giờ mình muốn đăng xuất thì lại không được. Và máy báo lỗi : (Không thể xác minhĐã có lỗi khi kết nối icloud.)Mod giúp mình với ạ 😥😥😥",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.59735,
+         "id": "922064",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 7 Plus. Mình nhập id apple cũ của mỉnh vào máy rồi tải ứng dụng thì máy cứ bắt đăng nhập vào những id apple khác( có thể trong thời gian trc xài lung tung ) nên mình đã restore lại máy, nhưng trước khi restore mình lại quên thoát icloud ra nên lúc sau máy báo Khoá kích hoạt, rồi mình đăng nhập thì ok bình thường. Vậy cho mình hỏi giờ mình muốn xoá luôn icloud đó ra khỏi ip này để ip về lại trạng thái như mới chưa có gắn liền với icloud nào khác thì mình phải làm sao. Mình muốn xoá để cài lại 1 id khác sử dụng cho đỡ phiền, như vậy sau này khi restore hay update mình còn bị dính với cái icloud cũ nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.554955,
+         "id": "1168340",
+         "field_search": "question",
+         "question": "Không thể truy cập vào Viber lỗi như này là bị sao vậy bạn.Làm thế nào để mình truy cập lại Viber đc vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.47608,
+         "id": "803017",
+         "field_search": "question",
+         "question": "Máy tính mình bắt được sóng wifi nhưng không vào mạng được. Khi mình đem máy tính đến nơi khác bắt wifi thì lại kết nối được. Điện thoại mình phát wifi cũng kết nối được. Máy tính cứ hiện No internet access. Giúp mình với!! Mình đang làm việc gấp lắm mà máy tính cứ bị vậy.Rất mong được sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.459293,
+         "id": "847624",
+         "field_search": "question",
+         "question": "Ad ơi có thể đăng nhập một tài khoản zalo trên hai máy tính cùng một lúc không?. Tại sao trên zalo có mục quản lý danh sách các máy tính đăng nhập mà mìn thấy chỉ đăng nhập được một máy nhỉ.Mình đăng nhập zalo của người yêu bằng máy tính của mình để mình kiểm tra a ấy, nhưng khi người yêu mình cũng đăng nhập trên máy tính thì máy của mình toàn bị thoát ra. Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.457092,
+         "id": "919533",
+         "field_search": "question",
+         "question": " Bạn cho mình hỏi cách khắc phục máy tính win 10 không kết hợp với wifi có mật khẩu trên 8 kí tự. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.39072,
+         "id": "749018",
+         "field_search": "question",
+         "question": "Iphone 4s của em đang sử dụng bình thường thì tự động tắt nguồn và không thể mở lên được dù em đã thử cắm sạc. Sau đó em có thể kết nối với iTunes nhưng vãn không có kết nối luôn. Bên mình có thể giúp em được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.374035,
+         "id": "997494",
+         "field_search": "question",
+         "question": "Cho mình hỏi là cái samsung j2 prime của mình có gắn cái thẻ nhớ 16gb vào nhưng lúc mình download game thì nó lại bảo là không đủ dung lượng, điện thoại đã kết nối với thẻ nhớ, và thẻ nhớ còn đúng 16gb chưa sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.364044,
+         "id": "1009293",
+         "field_search": "question",
+         "question": "mình kết nối huawei đến máy tính nhưng chỉ hiện bộ nhớ trong, không hiện thẻ nhớ thì phải làm thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.32415,
+         "id": "1020743",
+         "field_search": "question",
+         "question": "cho mình hỏi sao samsung j2 prime của mình ở đây ghi ứng dụng 5,58gb nhưng mình vào xem rồi cộng dung lượng lại chỉ gần 2gb ( một số ứng dụng mình đã chuyển sang thẻ nhớ). Kiểm tra chỗ bảo trì thiết bị máy chỉ còn dư 500mb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.308964,
+         "id": "1142436",
+         "field_search": "question",
+         "question": "Mình dùng hp pavilion 360x được tầm 1 năm, vài tháng gần đây máy thường xuyên bị loạn chuột phải với với chuột trái, đôi khi còn bị đơ bàn phím, phải sleep bất lại thì máy chuột và bàn phím mới bình thường. Vậy có cách nào để khắc phục lỗi đó không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.26335,
+         "id": "811499",
+         "field_search": "question",
+         "question": "Mình mới mua một cái laptop dell inspiron 3543 i3/window 10 được gần 1 tháng, còn bảo hành, sau khi mua về mình cài đã cài lại win 7 và không kết nối được blutooth và touchpad,trong trường hợp này mình có thể đem máy đổi lại máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}
